@@ -34,6 +34,710 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware is back, uses new version on corporate networks <a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-is-back-uses-new-version-on-corporate-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After announcing their exit from the ransomware business in favor of data theft extortion, the Babuk gang appears to have slipped back into their old habit of encrypting corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did Western Digital Fall Prey to Meow Attacks?<a href="https://cyware.com/news/did-western-digital-fall-prey-to-meow-attacks-2d0fee90"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A mysterious group frantically issued a factory reset command for all the files pertaining to MyBook Live and Book Live DUO users, locking them out of their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: FTC votes to expand antitrust enforcement powers | US, UK agencies warn of Russian hackers using 'brute force' to target hundreds of groups | Trump allies launch new social media platform<a href="https://thehill.com//policy/technology/overnights/561235-hillicon-valley-ftc-votes-to-expand-antitrust-enforcement-powers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission took a major step on Thursday to hit back against anti-competitive behavior, voting to expand its enforcement powers in a party-line vote. Meanwhile, a group of U.S. agencies and authorities in the United Kingdom came together to warn of ongoing cybersecurity attacks linked to the Russian government, which will likely serve to only further escalate tensions between the U.S. and Russia after ongoing cyber incidents. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IndigoZebra APT Hacking Campaign Targets the Afghan Government<a href="https://thehackernews.com/2021/07/indigozebra-apt-hacking-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of ongoing attacks coordinated by a suspected Chinese-speaking threat actor targeting the Afghanistan government as part of an espionage campaign that may have had its provenance as far back as 2014.  Israeli cybersecurity firm Check Point Research attributed the intrusions to a hacking group tracked under the moniker "IndigoZebra," with past activity aimed at other central-Asian countries, including Kyrgyzstan and Uzbekistan.  "The threat actors behind the espionage leveraged Dropbox, the popular cloud-storage service, to infiltrate the Afghan National Security Council (NSC)," the researchers said in a technical write-up  shared with The Hacker News, adding they "orchestrated a ministry-to-ministry style deception, where an email is sent to a high-profile target from the mailboxes of another high-profile victim."   IndigoZebra first came to light in August 2017 when Kaspersky  detailed  a covert operation that single
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Advisory on Russian GRU Led Gobal Brute Force Campaign<a href="https://www.lawfareblog.com/cybersecurity-advisory-russian-gru-led-gobal-brute-force-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 1, 2021, the National Security Agency, Cybersecurity and Infrastructure Security Agency, Federal Bureau of Investigation and the United Kingdom's National Cyber Security Centre
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK, US agencies warn of large-scale brute-force attacks carried out by Russian APT<a href="https://securityaffairs.co/wordpress/119595/apt/russia-apt-brute-force-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US and UK cybersecurity agencies said the Russia-linked APT28 group is behind a series of large-scale brute-force attacks.US and UK cybersecurity agencies said today that a Russian military cyber unit has been behind a series of brute-force attacks that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing another Equifax breach: Sevco Security wants to transform asset management<a href="https://www.scmagazine.com/home/security-news/cloud-security/preventing-another-equifax-breach-sevco-security-wants-to-transform-asset-management/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s vision, says  CEO J.J Guy, is to transform how asset inventory is managed for better visibility into potential security gaps in the infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Variant of REvil Ransomware Targets VMware’s ESXi, NAS Devices<a href="https://threatpost.com/linux-variant-ransomware-vmwares-nas/167511/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals behind the potent REvil ransomware have ported the malware to Linux for targeted attacks.   
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot cybercrime group linked to new Diavol ransomware<a href="https://www.bleepingcomputer.com/news/security/trickbot-cybercrime-group-linked-to-new-diavol-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs security researchers have linked a new ransomware strain dubbed Diavol to Wizard Spider, the cybercrime group behind the Trickbot botnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SentinelOne closes up 21% in NYSE debut as highest-valued cybersecurity IPO ever<a href="https://www.cnbc.com/2021/06/30/sentinelone-soars-in-first-trade-as-highest-valued-cybersecurity-ipo.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shares of cybersecurity company SentinelOne closed up more than 20% in its market debut Wednesday on the New York Stock Exchange, going public under the ticker symbol “S.”
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New bill aims to secure federal government IT against cyberattacks<a href="https://thehill.com//policy/cybersecurity/561223-new-bill-aims-to-secure-federal-government-it-against-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan bill introduced in the Senate on Thursday would attempt to address cybersecurity threats to the federal government stemming from the use of potentially insecure third party services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rethinking Application Security in the API-First Era<a href="https://thehackernews.com/2021/07/rethinking-application-security-in-api.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Securing applications it the API-first era can be an uphill battle. As development accelerates, accountability becomes unclear, and getting controls to operate becomes a challenge in itself. It's time that we rethink our application security strategies to reflect new priorities, principles and processes in the API-first era. Securing tomorrow's applications begins with assessing the business risks today.  The trends and risks shaping today's applications  As the world continues to become more and more interconnected via devices — and the APIs that connect them — individuals are growing accustomed to the frictionless experience that they provide. While this frictionless reality is doubtlessly more user-friendly, i.e., faster and more convenient, it also requires a trade-off. This convenience demands openness, and openness is a risk when it comes to cybersecurity.  According to  Sidney Gottesman , Mastercard's SVP for Security Innovation, the above situation leads to one
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached a data server of the University Medical Center<a href="https://securityaffairs.co/wordpress/119591/data-breach/university-medical-center-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University Medical Center hospital discloses a data breach after threat actors published online images of stolen personal information as proof of the hack.
+
+
+
+The University Medical Center hospital, in Nevada, discloses a security breach, the hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds file new charges against Amazon employee that leveraged server access to hack Capital One<a href="https://www.scmagazine.com/home/security-news/feds-file-new-charges-against-amazon-employee-that-leveraged-server-access-to-hack-capital-one/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Amazon employee used  knowledge she gained working at the company, along with scripts, to scan Amazon Web Service servers for misconfigured web application firewalls.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defeating Ransomware-as-a-Service? Think Intel-Sharing<a href="https://threatpost.com/ransomware-as-a-service-intel-sharing/167508/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aamir Lakhani, cybersecurity researcher and practitioner at FortiGuard Labs, explains the rise of RaaS and the critical role of threat intel in effectively defending against it.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal ordered to reveal private info of stolen HSE data downloaders<a href="https://www.bleepingcomputer.com/news/security/virustotal-ordered-to-reveal-private-info-of-stolen-hse-data-downloaders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Irish court has ordered VirusTotal to provide the information of subscribers who downloaded or uploaded confidential data stolen from Ireland's national health care service during a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Linux RPM problem uncovered<a href="https://www.zdnet.com/article/major-linux-rpm-problem-uncovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dmitry Antipov, a Linux developer at CloudLinux, AlmaLinux OS's parent company, first spotted the problem in March 2021. Antipov found that RPM would work with unauthorized RPM packages.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK agencies warn Russian hackers using 'brute force' to target hundreds of groups<a href="https://thehill.com//policy/cybersecurity/561138-us-uk-agencies-warn-russian-hackers-using-brute-force-to-target-hundreds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of top agencies in the United States and United Kingdom on Thursday warned of an ongoing campaign by Russian government-backed hackers using “brute force” hacking techniques to target hundreds of organizations around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Sues 4 Vietnamese for Hacking Accounts and $36 Million Ad Fraud<a href="https://thehackernews.com/2021/07/facebook-sues-4-vietnamese-for-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Tuesday revealed it filed two separate legal actions against perpetrators who abused its ad platform to run deceptive advertisements in violation of the company's  Terms  and  Advertising Policies .   "In the first case, the defendants are a California marketing company and its agents responsible for a  bait-and-switch  advertising scheme on Facebook," the social media giant's Director of Platform Enforcement and Litigation, Jessica Romero,  said .   "In the second case, the defendants are a group of individuals located in Vietnam who got users to self-compromise their Facebook accounts and ran millions of dollars of unauthorized ads."  As part of the fraudulent activity, the marketing company, N&J USA Incorporated, promoted the sale of merchandise such as clothing, watches, and toys through misleading ads that, when clicked, redirected users to other e-commerce websites to complete the purchase, only to either receive nothing or get deliver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found auth bypass, system hijack flaws in Netgear routers<a href="https://securityaffairs.co/wordpress/119574/hacking/netgear-flaws-router-takeover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft experts have disclosed a series of vulnerabilities in the firmware of Netgear routers which could lead to data leaks and full system takeover.
+
+
+
+Microsoft researchers discovered multiple vulnerabilities in the firmware of the Netgear DGN-2200v1...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Built to ease SOC analysts’ burdens, Kestrel threat-hunting language gains an audience<a href="https://www.scmagazine.com/home/security-news/built-to-ease-soc-analysts-burdens-kestrel-threat-hunting-language-gains-an-audience/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly embraced by the Open Cybersecurity Alliance, Kestrel is open source and platform-agnostic, and leverages automation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Exfiltration: What You Should Know to Prevent It<a href="https://threatpost.com/data-exfiltration-prevent-it/167413/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data leaks are a serious concern for companies of all sizes; if one occurs, it may put them out of business permanently. Here’s how you can protect your organization from data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Disable Windows Print Spooler on servers not used for printing<a href="https://www.bleepingcomputer.com/news/security/cisa-disable-windows-print-spooler-on-servers-not-used-for-printing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued a notification regarding the critical PrintNightmare zero-day vulnerability and advises admins to disable the Windows Print Spooler service on servers not used for printing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect The Business<a href="https://beta.darkreading.com/attacks-breaches/survey-data-reveals-gap-in-americans-security-awareness?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey by Armis found that over 21% of respondents have not heard about the cyberattack on Colonial Pipeline, and 24% believe the hack won't have long-lasting effects on the nation's fuel industry.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncover effort by Chinese-speaking hackers to target Afghan government<a href="https://thehill.com//policy/cybersecurity/560998-researchers-uncover-effort-by-chinese-speaking-hackers-to-target-afghan"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking hackers recently targeted the top tiers of the Afghan government, along with the governments of other nearby nations, research published Thursday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Steps to Strengthen Your Ransomware Defenses<a href="https://thehackernews.com/2021/07/3-steps-to-strengthen-your-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent tsunami of ransomware has brought to life the fears of downtime and data loss cybersecurity pros have warned about, as attacks on the energy sector, food supply chain, healthcare industry, and other critical infrastructure have grabbed headlines.  For the industry experts who track the evolution of this threat, the increased frequency, sophistication, and destructiveness of ransomware suggests that businesses still have some major gaps in their defense strategies.  It's no surprise that a new, multi-layered approach to protection is needed to stem the damage caused by ransomware. But what changes should an IT team implement to close those gaps?  During a recent panel, a team of cybersecurity experts outlined a three-step plan to do just that -- centered around embracing new technologies, improving security processes, and ensuring their people know how to help curb the threat.  1  —  New Strains Overwhelm Old Defenses  Many new ransomware strains now act like advanced pe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA releases a Ransomware Readiness Assessment (RRA) tool<a href="https://securityaffairs.co/wordpress/119568/security/cisa-ransomware-readiness-assessment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA has released the Ransomware Readiness Assessment (RRA), a new ransomware self-assessment security audit tool.
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released the Ransomware Readiness Assessment (RRA), a new ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strong medical device security awareness stifled by inventory, knowledge gaps<a href="https://www.scmagazine.com/home/security-news/iot/strong-medical-device-security-awareness-stifled-by-inventory-knowledge-gaps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most providers are aware of the importance of medical device security. But that acknowledgement hasn’t translated into stronger processes for inventory or response.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox Used to Mask Malware Movement in Cyberespionage Campaign<a href="https://threatpost.com/dropbox-malware-ongoing-spearphishing-cyberespionage/167402/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IndigoZebra APT is targeting the Afghan government using Dropbox as an API that leaves no traces of communications with weirdo websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA: Russian GRU hackers use Kubernetes to run brute force attacks<a href="https://www.bleepingcomputer.com/news/security/nsa-russian-gru-hackers-use-kubernetes-to-run-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) warns that Russian nation-state hackers are conducting brute force attacks to access US networks and steal email and files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Mirai Botnet is Active and So are its Dozen Other Variants<a href="https://cyware.com/news/alert-mirai-botnet-is-active-and-so-are-its-dozen-other-variants-f299bd97"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai botnet has been a constant threat since its emergence in 2016. A recent report by McAfee attributed the surge in attacks on IoT (55%) and Linux (38%) systems to Mirai and its variants.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freshly scraped LinkedIn data of 88,000 US business owners shared online<a href="https://securityaffairs.co/wordpress/119564/data-breach/freshly-scraped-linkedin-data-of-88k-us-business.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About a week after scraped data from more than 700 million LinkedIn profiles were put for sale online, it seems that threat actors have no intention of stopping their abuse of the social media platform’s scrape-friendly systems. 
+
+
+
+Hours...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawaii looks to fill DoD cyber standards gap<a href="https://www.scmagazine.com/home/security-news/government-and-defense/hawaii-looks-to-fill-dod-cyber-standards-gap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A partnership of non-profit groups hopes to bring SMBs in Hawaii up to snuff with Defense Department cyber standards, and if that succeeds, export the program nationwide.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome will get an HTTPS-Only Mode for secure browsing<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-get-an-https-only-mode-for-secure-browsing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is working on adding an HTTPS-Only Mode to the Chrome web browser to protect users' web traffic from eavesdropping by upgrading all connections to HTTPS.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoored Client Discovered from Mongolian CA MonPass<a href="https://decoded.avast.io/luigicamastra/backdoored-client-from-mongolian-ca-monpass/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast discovered an installer downloaded from the official website of MonPass, a major certification authority (CA) in Mongolia in East Asia that was backdoored with Cobalt Strike binaries.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise and cloud environments have been under siege from Russian hackers since 2019<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/enterprise-and-cloud-environments-have-been-under-siege-from-russian-hackers-since-2019/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers at Russia’s GRU have carried out a years-long, stealthy espionage campaign that targets  enterprise and cloud environments in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter now lets you use security keys as the only 2FA method<a href="https://www.bleepingcomputer.com/news/security/twitter-now-lets-you-use-security-keys-as-the-only-2fa-method/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter now lets users use security keys as the only two-factor authentication (2FA) method while having all other methods disabled, as the social network announced three months ago, in March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New data security rules instituted for US payment processing system<a href="https://www.zdnet.com/article/new-data-security-rules-instituted-for-us-payment-processing-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New data security rules governing how money is processed by US firms have gone into effect today, forcing digital money processors to render deposit account data unreadable in electronic storage.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Covid-19 Variant Malware Evades Multiple SEGs<a href="https://cofense.com/blog/covid-19-variant-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has recently derived a stealthy malware campaign that is believed to share an abundance of attributes with the malware-as-a-service Buer Loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai_ptea Botnet is Exploiting Undisclosed KGUARD DVR Vulnerability<a href="https://blog.netlab.360.com/mirai_ptea-botnet-is-exploiting-undisclosed-kguard-dvr-vulnerability-en/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from 360 Netlab discovered a variant of the Mirai botnet named mirai_ptea was found exploiting a previously unknown vulnerability in KGUARD DVR for launching DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Netlab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Actors Have Begun Using AutoHotkey Scripts For Attacks<a href="https://securityintelligence.com/news/malware-using-autohotkey-scripts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the first reported attacks involving AutoHotkey was a credential stealer written in AutoHotkey found in March 2018. It disguised itself as an Antivirus app and spread via infected USB devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discloses Critical Bugs Allowing Takeover of NETGEAR Routers<a href="https://thehackernews.com/2021/06/microsoft-discloses-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed critical security vulnerabilities affecting  NETGEAR DGN2200v1 series routers , which they say could be reliably abused as a jumping-off point to compromise a network's security and gain unfettered access.  The three  HTTPd  authentication security weaknesses (CVSS scores: 7.1 – 9.4) impact routers running firmware versions prior to v1.0.0.60, and have since been  fixed by the company  in December 2020 as part of a coordinated vulnerability disclosure process.   "The rising number of firmware attacks and ransomware attacks via VPN devices and other internet-facing systems are examples of attacks initiated outside and below the operating system layer," Microsoft 365 Defender Research Team's Jonathan Bar Or  said . "As these types of attacks become more common, users must look to secure even the single-purpose software that run their hardware—like routers."   In a nutshell, the flaws allow accessing router management pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Wanted in the U.S. for Spreading Gozi Virus Arrested in Colombia<a href="https://thehackernews.com/2021/06/hackers-wanted-in-us-for-spreading-gozi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colombian authorities on Wednesday said they have arrested a Romanian hacker who is wanted in the U.S. for distributing a virus that infected more than a million computers from 2007 to 2012.  Mihai Ionut Paunescu  (aka "Virus"), the individual in question, was detained at the El Dorado airport in Bogotá, the Office of the Attorney General of Colombia  said .   Paunescu was  previously charged  by the U.S. Department of Justice (DoJ) in January 2013 for operating a bulletproof hosting service that "enabled cyber criminals to distribute the Gozi Virus, the Zeus Trojan and other notorious malware, and conduct other sophisticated cyber crimes." He was arrested in Romania in December 2012 but managed to avoid extradition to the U.S.  "Through this service, Paunescu, like other bulletproof hosts, knowingly provided critical online infrastructure to cyber criminals that allowed them to commit online criminal activity with little fear of detection by law enforcement,&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
