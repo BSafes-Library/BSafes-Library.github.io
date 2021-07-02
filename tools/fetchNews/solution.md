@@ -11,6 +11,20 @@ nav_order: 900195
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 makes TPM Diagnostics tool its first optional feature<a href="https://www.bleepingcomputer.com/news/security/windows-11-makes-tpm-diagnostics-tool-its-first-optional-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Windows 11 comes with a new optional feature called 'TPM Diagnostics' that allows administrators to query the data stored on a device's TPM security processor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GitHub Launches 'Copilot' — AI-Powered Code Completion Tool<a href="https://thehackernews.com/2021/06/github-launches-copilot-ai-powered-code.html"> Full Text</a>
 </p>
 <details>

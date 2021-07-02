@@ -11,6 +11,52 @@ nav_order: 900015
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit a televised phone-in between President Putin and citizens at a TV show<a href="https://securityaffairs.co/wordpress/119559/hacking/putin-call-massive-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyber attack attempted to disrupt a televised phone-in between Russian President Vladimir Putin and the Rossiya 24 network.
+
+
+
+Hackers launched a massive cyberattack against the state-broadcast Rossiya 24 network while transmitting a show in which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indexsinas SMB Worm Campaign Infests Whole Enterprises<a href="https://threatpost.com/indexsinas-smb-worm-enterprises/167455/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The self-propagating malware’s attack chain is complex, using former NSA cyberweapons, and ultimately drops cryptominers on targeted machines.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University Medical Center reports suspicious activity, possible cyberattack<a href="https://www.ktnv.com/news/university-medical-center-reports-suspicious-activity-possible-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UMC's found suspicious activity on its computer network in mid-June. UMC quickly restricted external access to servers and it continues to work with law enforcement to fully investigate the activity.
+</details>
+<div style="text-align: right" markdown="1">
+KTNV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The "WayBack” Campaign: a Large Scale Operation Hiding in Plain Sight<a href="https://yoroi.company/research/the-wayback-campaign-a-large-scale-operation-hiding-in-plain-sight/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

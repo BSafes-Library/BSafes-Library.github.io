@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Sues 4 Vietnamese for Hacking Accounts and $36 Million Ad Fraud<a href="https://thehackernews.com/2021/07/facebook-sues-4-vietnamese-for-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Tuesday revealed it filed two separate legal actions against perpetrators who abused its ad platform to run deceptive advertisements in violation of the company's&nbsp; Terms &nbsp;and&nbsp; Advertising Policies .&nbsp;  "In the first case, the defendants are a California marketing company and its agents responsible for a&nbsp; bait-and-switch &nbsp;advertising scheme on Facebook," the social media giant's Director of Platform Enforcement and Litigation, Jessica Romero,&nbsp; said .   "In the second case, the defendants are a group of individuals located in Vietnam who got users to self-compromise their Facebook accounts and ran millions of dollars of unauthorized ads."  As part of the fraudulent activity, the marketing company, N&amp;J USA Incorporated, promoted the sale of merchandise such as clothing, watches, and toys through misleading ads that, when clicked, redirected users to other e-commerce websites to complete the purchase, only to either receive nothing or get deliver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

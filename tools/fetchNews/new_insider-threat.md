@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds file new charges against Amazon employee that leveraged server access to hack Capital One<a href="https://www.scmagazine.com/home/security-news/feds-file-new-charges-against-amazon-employee-that-leveraged-server-access-to-hack-capital-one/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Amazon employee used  knowledge she gained working at the company, along with scripts, to scan Amazon Web Service servers for misconfigured web application firewalls.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

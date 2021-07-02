@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Lina Khan faces major FTC test | Amazon calls for her recusal | Warren taps commodities watchdog to probe Google<a href="https://thehill.com//policy/technology/overnights/561000-hillicon-valley-lina-khan-faces-major-ftc-test-amazon-calls-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lina KhanLina KhanProtect and regulate the internet's hidden power brokers Tech industry pushes for delay in antitrust legislation GOP divided over bills targeting tech giants MORE will face her first big hurdle as the chair of the Federal Trade Commission after a federal judge gave the agency 30 days to amend their antitrust case against Facebook. The Big Tech critic is already drawing fire from Amazon, which is asking the agency to recuse her from cases against it because of her past writings. In other news, Sen. Elizabeth WarrenElizabeth WarrenMcConnell has tough choices to make on deal Headaches mount for Biden in spending fight Senate plants a seed for bipartisan climate solutions MORE is calling on the CFTC to involve itself in digital markets by opening an investigation into Google’s ad tech.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor incidents lead the 10 biggest health care data breaches of 2021 so far<a href="https://www.scmagazine.com/home/health-care/vendor-incidents-lead-the-10-biggest-health-care-data-breaches-of-2021-so-far/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+60 percent of the largest health care data breaches reported during the first half of 2021 were tied to vendor-related incidents, spotlighting the need to review third-party relationships.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why MTTR is Bad for SecOps<a href="https://threatpost.com/mttr-bad-secops/167440/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerry Matre, senior director at Mandiant, discusses the appropriate metrics to use to measure SOC and analyst performance, and how MTTR leads to bad behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

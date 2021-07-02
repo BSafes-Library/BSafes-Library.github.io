@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Mirai Botnet is Active and So are its Dozen Other Variants<a href="https://cyware.com/news/alert-mirai-botnet-is-active-and-so-are-its-dozen-other-variants-f299bd97"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai botnet has been a constant threat since its emergence in 2016. A recent report by McAfee attributed the surge in attacks on IoT (55%) and Linux (38%) systems to Mirai and its variants.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai_ptea Botnet is Exploiting Undisclosed KGUARD DVR Vulnerability<a href="https://blog.netlab.360.com/mirai_ptea-botnet-is-exploiting-undisclosed-kguard-dvr-vulnerability-en/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from 360 Netlab discovered a variant of the Mirai botnet named mirai_ptea was found exploiting a previously unknown vulnerability in KGUARD DVR for launching DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Netlab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

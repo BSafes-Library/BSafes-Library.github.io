@@ -33,6 +33,8 @@ Alerts:
 . https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&web_view=true
 . https://www.govinfosecurity.com/report-urges-nasa-to-improve-cybersecurity-risk-management-a-16958?&web_view=true
 . https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/
+. https://www.bleepingcomputer.com/news/security/cisa-disable-windows-print-spooler-on-servers-not-used-for-printing/
+. https://securityaffairs.co/wordpress/119568/security/cisa-ransomware-readiness-assessment.html
 
 Law:
 

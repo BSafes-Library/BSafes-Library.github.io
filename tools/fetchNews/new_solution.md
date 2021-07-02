@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Built to ease SOC analysts’ burdens, Kestrel threat-hunting language gains an audience<a href="https://www.scmagazine.com/home/security-news/built-to-ease-soc-analysts-burdens-kestrel-threat-hunting-language-gains-an-audience/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly embraced by the Open Cybersecurity Alliance, Kestrel is open source and platform-agnostic, and leverages automation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA releases a Ransomware Readiness Assessment (RRA) tool<a href="https://securityaffairs.co/wordpress/119568/security/cisa-ransomware-readiness-assessment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA has released the Ransomware Readiness Assessment (RRA), a new ransomware self-assessment security audit tool.
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released the Ransomware Readiness Assessment (RRA), a new ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter now lets you use security keys as the only 2FA method<a href="https://www.bleepingcomputer.com/news/security/twitter-now-lets-you-use-security-keys-as-the-only-2fa-method/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter now lets users use security keys as the only two-factor authentication (2FA) method while having all other methods disabled, as the social network announced three months ago, in March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

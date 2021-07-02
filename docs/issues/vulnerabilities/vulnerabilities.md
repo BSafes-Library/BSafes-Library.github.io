@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Linux RPM problem uncovered<a href="https://www.zdnet.com/article/major-linux-rpm-problem-uncovered/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dmitry Antipov, a Linux developer at CloudLinux, AlmaLinux OS's parent company, first spotted the problem in March 2021. Antipov found that RPM would work with unauthorized RPM packages.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found auth bypass, system hijack flaws in Netgear routers<a href="https://securityaffairs.co/wordpress/119574/hacking/netgear-flaws-router-takeover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft experts have disclosed a series of vulnerabilities in the firmware of Netgear routers which could lead to data leaks and full system takeover.
+
+
+
+Microsoft researchers discovered multiple vulnerabilities in the firmware of the Netgear DGN-2200v1...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discloses Critical Bugs Allowing Takeover of NETGEAR Routers<a href="https://thehackernews.com/2021/06/microsoft-discloses-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed critical security vulnerabilities affecting&nbsp; NETGEAR DGN2200v1 series routers , which they say could be reliably abused as a jumping-off point to compromise a network's security and gain unfettered access.  The three&nbsp; HTTPd &nbsp;authentication security weaknesses (CVSS scores: 7.1 – 9.4) impact routers running firmware versions prior to v1.0.0.60, and have since been&nbsp; fixed by the company &nbsp;in December 2020 as part of a coordinated vulnerability disclosure process.   "The rising number of firmware attacks and ransomware attacks via VPN devices and other internet-facing systems are examples of attacks initiated outside and below the operating system layer," Microsoft 365 Defender Research Team's Jonathan Bar Or&nbsp; said . "As these types of attacks become more common, users must look to secure even the single-purpose software that run their hardware—like routers."   In a nutshell, the flaws allow accessing router management pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Advisory on Russian GRU Led Gobal Brute Force Campaign<a href="https://www.lawfareblog.com/cybersecurity-advisory-russian-gru-led-gobal-brute-force-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 1, 2021, the National Security Agency, Cybersecurity and Infrastructure Security Agency, Federal Bureau of Investigation and the United Kingdom's National Cyber Security Centre
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New bill aims to secure federal government IT against cyberattacks<a href="https://thehill.com//policy/cybersecurity/561223-new-bill-aims-to-secure-federal-government-it-against-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan bill introduced in the Senate on Thursday would attempt to address cybersecurity threats to the federal government stemming from the use of potentially insecure third party services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK agencies warn Russian hackers using 'brute force' to target hundreds of groups<a href="https://thehill.com//policy/cybersecurity/561138-us-uk-agencies-warn-russian-hackers-using-brute-force-to-target-hundreds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of top agencies in the United States and United Kingdom on Thursday warned of an ongoing campaign by Russian government-backed hackers using “brute force” hacking techniques to target hundreds of organizations around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Disable Windows Print Spooler on servers not used for printing<a href="https://www.bleepingcomputer.com/news/security/cisa-disable-windows-print-spooler-on-servers-not-used-for-printing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has issued a notification regarding the critical PrintNightmare zero-day vulnerability and advises admins to disable the Windows Print Spooler service&nbsp;on servers not used for printing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawaii looks to fill DoD cyber standards gap<a href="https://www.scmagazine.com/home/security-news/government-and-defense/hawaii-looks-to-fill-dod-cyber-standards-gap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A partnership of non-profit groups hopes to bring SMBs in Hawaii up to snuff with Defense Department cyber standards, and if that succeeds, export the program nationwide.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing another Equifax breach: Sevco Security wants to transform asset management<a href="https://www.scmagazine.com/home/security-news/cloud-security/preventing-another-equifax-breach-sevco-security-wants-to-transform-asset-management/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s vision, says  CEO J.J Guy, is to transform how asset inventory is managed for better visibility into potential security gaps in the infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SentinelOne closes up 21% in NYSE debut as highest-valued cybersecurity IPO ever<a href="https://www.cnbc.com/2021/06/30/sentinelone-soars-in-first-trade-as-highest-valued-cybersecurity-ipo.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shares of cybersecurity company SentinelOne closed up more than 20% in its market debut Wednesday on the New York Stock Exchange, going public under the ticker symbol “S.”
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome will get an HTTPS-Only Mode for secure browsing<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-get-an-https-only-mode-for-secure-browsing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is working on adding an HTTPS-Only Mode to the Chrome web browser to protect users' web traffic from eavesdropping by upgrading all connections to HTTPS.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

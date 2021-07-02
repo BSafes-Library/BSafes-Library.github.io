@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk ransomware is back, uses new version on corporate networks <a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-is-back-uses-new-version-on-corporate-networks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Did Western Digital Fall Prey to Meow Attacks?<a href="https://cyware.com/news/did-western-digital-fall-prey-to-meow-attacks-2d0fee90"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: FTC votes to expand antitrust enforcement powers | US, UK agencies warn of Russian hackers using 'brute force' to target hundreds of groups | Trump allies launch new social media platform<a href="https://thehill.com//policy/technology/overnights/561235-hillicon-valley-ftc-votes-to-expand-antitrust-enforcement-powers"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IndigoZebra APT Hacking Campaign Targets the Afghan Government<a href="https://thehackernews.com/2021/07/indigozebra-apt-hacking-campaign.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Advisory on Russian GRU Led Gobal Brute Force Campaign<a href="https://www.lawfareblog.com/cybersecurity-advisory-russian-gru-led-gobal-brute-force-campaign"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK, US agencies warn of large-scale brute-force attacks carried out by Russian APT<a href="https://securityaffairs.co/wordpress/119595/apt/russia-apt-brute-force-attacks.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Preventing another Equifax breach: Sevco Security wants to transform asset management<a href="https://www.scmagazine.com/home/security-news/cloud-security/preventing-another-equifax-breach-sevco-security-wants-to-transform-asset-management/"> Full Text</a>
@@ -146,7 +146,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Variant of REvil Ransomware Targets VMware’s ESXi, NAS Devices<a href="https://threatpost.com/linux-variant-ransomware-vmwares-nas/167511/"> Full Text</a>
@@ -162,7 +162,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot cybercrime group linked to new Diavol ransomware<a href="https://www.bleepingcomputer.com/news/security/trickbot-cybercrime-group-linked-to-new-diavol-ransomware/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SentinelOne closes up 21% in NYSE debut as highest-valued cybersecurity IPO ever<a href="https://www.cnbc.com/2021/06/30/sentinelone-soars-in-first-trade-as-highest-valued-cybersecurity-ipo.html?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New bill aims to secure federal government IT against cyberattacks<a href="https://thehill.com//policy/cybersecurity/561223-new-bill-aims-to-secure-federal-government-it-against-cyberattacks"> Full Text</a>
@@ -210,7 +210,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rethinking Application Security in the API-First Era<a href="https://thehackernews.com/2021/07/rethinking-application-security-in-api.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breached a data server of the University Medical Center<a href="https://securityaffairs.co/wordpress/119591/data-breach/university-medical-center-data-breach.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds file new charges against Amazon employee that leveraged server access to hack Capital One<a href="https://www.scmagazine.com/home/security-news/feds-file-new-charges-against-amazon-employee-that-leveraged-server-access-to-hack-capital-one/"> Full Text</a>
@@ -262,7 +262,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defeating Ransomware-as-a-Service? Think Intel-Sharing<a href="https://threatpost.com/ransomware-as-a-service-intel-sharing/167508/"> Full Text</a>
@@ -278,7 +278,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal ordered to reveal private info of stolen HSE data downloaders<a href="https://www.bleepingcomputer.com/news/security/virustotal-ordered-to-reveal-private-info-of-stolen-hse-data-downloaders/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Linux RPM problem uncovered<a href="https://www.zdnet.com/article/major-linux-rpm-problem-uncovered/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, UK agencies warn Russian hackers using 'brute force' to target hundreds of groups<a href="https://thehill.com//policy/cybersecurity/561138-us-uk-agencies-warn-russian-hackers-using-brute-force-to-target-hundreds"> Full Text</a>
@@ -326,7 +326,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Sues 4 Vietnamese for Hacking Accounts and $36 Million Ad Fraud<a href="https://thehackernews.com/2021/07/facebook-sues-4-vietnamese-for-hacking.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft found auth bypass, system hijack flaws in Netgear routers<a href="https://securityaffairs.co/wordpress/119574/hacking/netgear-flaws-router-takeover.html"> Full Text</a>
@@ -362,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Built to ease SOC analysts’ burdens, Kestrel threat-hunting language gains an audience<a href="https://www.scmagazine.com/home/security-news/built-to-ease-soc-analysts-burdens-kestrel-threat-hunting-language-gains-an-audience/"> Full Text</a>
@@ -378,7 +378,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Exfiltration: What You Should Know to Prevent It<a href="https://threatpost.com/data-exfiltration-prevent-it/167413/"> Full Text</a>
@@ -394,7 +394,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: Disable Windows Print Spooler on servers not used for printing<a href="https://www.bleepingcomputer.com/news/security/cisa-disable-windows-print-spooler-on-servers-not-used-for-printing/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protect The Business<a href="https://beta.darkreading.com/attacks-breaches/survey-data-reveals-gap-in-americans-security-awareness?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers uncover effort by Chinese-speaking hackers to target Afghan government<a href="https://thehill.com//policy/cybersecurity/560998-researchers-uncover-effort-by-chinese-speaking-hackers-to-target-afghan"> Full Text</a>
@@ -442,7 +442,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Steps to Strengthen Your Ransomware Defenses<a href="https://thehackernews.com/2021/07/3-steps-to-strengthen-your-ransomware.html"> Full Text</a>
@@ -458,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA releases a Ransomware Readiness Assessment (RRA) tool<a href="https://securityaffairs.co/wordpress/119568/security/cisa-ransomware-readiness-assessment.html"> Full Text</a>
@@ -478,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Strong medical device security awareness stifled by inventory, knowledge gaps<a href="https://www.scmagazine.com/home/security-news/iot/strong-medical-device-security-awareness-stifled-by-inventory-knowledge-gaps/"> Full Text</a>
@@ -494,7 +494,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dropbox Used to Mask Malware Movement in Cyberespionage Campaign<a href="https://threatpost.com/dropbox-malware-ongoing-spearphishing-cyberespionage/167402/"> Full Text</a>
@@ -510,7 +510,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA: Russian GRU hackers use Kubernetes to run brute force attacks<a href="https://www.bleepingcomputer.com/news/security/nsa-russian-gru-hackers-use-kubernetes-to-run-brute-force-attacks/"> Full Text</a>
@@ -526,7 +526,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert! Mirai Botnet is Active and So are its Dozen Other Variants<a href="https://cyware.com/news/alert-mirai-botnet-is-active-and-so-are-its-dozen-other-variants-f299bd97"> Full Text</a>
@@ -542,7 +542,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Freshly scraped LinkedIn data of 88,000 US business owners shared online<a href="https://securityaffairs.co/wordpress/119564/data-breach/freshly-scraped-linkedin-data-of-88k-us-business.html"> Full Text</a>
@@ -562,7 +562,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hawaii looks to fill DoD cyber standards gap<a href="https://www.scmagazine.com/home/security-news/government-and-defense/hawaii-looks-to-fill-dod-cyber-standards-gap/"> Full Text</a>
@@ -578,7 +578,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome will get an HTTPS-Only Mode for secure browsing<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-get-an-https-only-mode-for-secure-browsing/"> Full Text</a>
@@ -594,7 +594,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021  -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Backdoored Client Discovered from Mongolian CA MonPass<a href="https://decoded.avast.io/luigicamastra/backdoored-client-from-mongolian-ca-monpass/?&web_view=true"> Full Text</a>
@@ -610,7 +610,7 @@ Avast
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enterprise and cloud environments have been under siege from Russian hackers since 2019<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/enterprise-and-cloud-environments-have-been-under-siege-from-russian-hackers-since-2019/"> Full Text</a>
@@ -626,7 +626,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter now lets you use security keys as the only 2FA method<a href="https://www.bleepingcomputer.com/news/security/twitter-now-lets-you-use-security-keys-as-the-only-2fa-method/"> Full Text</a>
@@ -642,7 +642,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New data security rules instituted for US payment processing system<a href="https://www.zdnet.com/article/new-data-security-rules-instituted-for-us-payment-processing-system/?&web_view=true"> Full Text</a>
@@ -658,7 +658,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Covid-19 Variant Malware Evades Multiple SEGs<a href="https://cofense.com/blog/covid-19-variant-malware/?&web_view=true"> Full Text</a>
@@ -674,7 +674,7 @@ Cofense
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai_ptea Botnet is Exploiting Undisclosed KGUARD DVR Vulnerability<a href="https://blog.netlab.360.com/mirai_ptea-botnet-is-exploiting-undisclosed-kguard-dvr-vulnerability-en/?&web_view=true"> Full Text</a>
@@ -690,7 +690,7 @@ Netlab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Actors Have Begun Using AutoHotkey Scripts For Attacks<a href="https://securityintelligence.com/news/malware-using-autohotkey-scripts/?&web_view=true"> Full Text</a>
@@ -706,7 +706,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Discloses Critical Bugs Allowing Takeover of NETGEAR Routers<a href="https://thehackernews.com/2021/06/microsoft-discloses-critical-bugs.html"> Full Text</a>
@@ -722,7 +722,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Wanted in the U.S. for Spreading Gozi Virus Arrested in Colombia<a href="https://thehackernews.com/2021/06/hackers-wanted-in-us-for-spreading-gozi.html"> Full Text</a>
@@ -738,7 +738,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2021
+June 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When it’s personal: Dueling attitudes emerge toward paying ransomware demands<a href="https://www.scmagazine.com/home/security-news/ransomware/when-its-personal-dueling-attitudes-emerge-toward-paying-ransomware-demands/"> Full Text</a>

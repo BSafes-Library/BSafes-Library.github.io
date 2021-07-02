@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached a data server of the University Medical Center<a href="https://securityaffairs.co/wordpress/119591/data-breach/university-medical-center-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University Medical Center hospital discloses a data breach after threat actors published online images of stolen personal information as proof of the hack.
+
+
+
+The University Medical Center hospital, in Nevada, discloses a security breach, the hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freshly scraped LinkedIn data of 88,000 US business owners shared online<a href="https://securityaffairs.co/wordpress/119564/data-breach/freshly-scraped-linkedin-data-of-88k-us-business.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About a week after scraped data from more than 700 million LinkedIn profiles&nbsp;were put for sale online, it seems that threat actors have no intention of stopping their abuse of the social media platform’s scrape-friendly systems.&nbsp;
+
+
+
+Hours...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

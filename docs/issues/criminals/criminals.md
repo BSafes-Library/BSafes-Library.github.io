@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot cybercrime group linked to new Diavol ransomware<a href="https://www.bleepingcomputer.com/news/security/trickbot-cybercrime-group-linked-to-new-diavol-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs security researchers have linked a new ransomware strain dubbed Diavol to Wizard Spider, the cybercrime group behind the Trickbot botnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal ordered to reveal private info of stolen HSE data downloaders<a href="https://www.bleepingcomputer.com/news/security/virustotal-ordered-to-reveal-private-info-of-stolen-hse-data-downloaders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Irish court has ordered VirusTotal to provide the information of subscribers who downloaded or uploaded confidential data stolen from Ireland's national health care service during a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Wanted in the U.S. for Spreading Gozi Virus Arrested in Colombia<a href="https://thehackernews.com/2021/06/hackers-wanted-in-us-for-spreading-gozi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colombian authorities on Wednesday said they have arrested a Romanian hacker who is wanted in the U.S. for distributing a virus that infected more than a million computers from 2007 to 2012.  Mihai Ionut Paunescu  (aka "Virus"), the individual in question, was detained at the El Dorado airport in Bogotá, the Office of the Attorney General of Colombia&nbsp; said .   Paunescu was&nbsp; previously charged &nbsp;by the U.S. Department of Justice (DoJ) in January 2013 for operating a bulletproof hosting service that "enabled cyber criminals to distribute the Gozi Virus, the Zeus Trojan and other notorious malware, and conduct other sophisticated cyber crimes." He was arrested in Romania in December 2012 but managed to avoid extradition to the U.S.  "Through this service, Paunescu, like other bulletproof hosts, knowingly provided critical online infrastructure to cyber criminals that allowed them to commit online criminal activity with little fear of detection by law enforcement,&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
