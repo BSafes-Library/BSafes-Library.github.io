@@ -513,6 +513,18 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 December, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• PREVENTATIVE STEPS SOCIAL NETWORKS, SUCH AS FACEBOOK, TAKE AGAINST SEX TRAFFICKING [HTML](https://papers.bsafes.com/docs/social-media/preventative-steps-social-networks-such-as-facebook-take-against-sex-trafficking/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The increasing use of social media enables predators to seek out and recruit victims through social networking sites. The overall goal is outsmarting their manipulation on users by understanding and exposing their techniques to families and communities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cybersecurity Best Practices for the Safety of Modern Vehicles [HTML](https://papers.bsafes.com/docs/electric-vehicle/cybersecurity-best-practices-for-the-safety-of-modern-vehicles/)
 </p>
 <details>
