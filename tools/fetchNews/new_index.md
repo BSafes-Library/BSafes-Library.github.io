@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Critical "PrintNightmare" Flaw Being Exploited in the Wild<a href="https://thehackernews.com/2021/07/microsoft-warns-of-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday officially confirmed that the "PrintNightmare" remote code execution (RCE) vulnerability affecting Windows Print Spooler is different from the issue the company addressed as part of its Patch Tuesday update released earlier this month, while warning that it has detected exploitation attempts targeting the flaw.  The company is tracking the security weakness under the identifier  CVE-2021-34527 .   "A remote code execution vulnerability exists when the Windows Print Spooler service improperly performs privileged file operations," Microsoft said in its advisory. "An attacker who successfully exploited this vulnerability could run arbitrary code with SYSTEM privileges. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights."  "An attack must involve an authenticated user calling RpcAddPrinterDriverEx()," the Redmond-based firm added.  The acknowledgment comes after r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 01, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
