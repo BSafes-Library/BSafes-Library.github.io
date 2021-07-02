@@ -21,6 +21,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 June, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• The Factors Involved in the Exit from Sex Trafficking - A Review [HTML](vhttps://papers.bsafes.com/docs/sex/the-factors-involvoed-in-the-exit-from-sex-trafficking-a-review/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Sexual trafficking and exploitation are a worldwide phenomenon affecting a huge number of women. Many studies have examined the process of sex trafficking entering, but less have analyzed the exit process. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Unilateral Economic Sanctions and Protecting U.S. National Security [HTML](https://papers.bsafes.com/docs/Politics/unilateral-economics-sanctions-and-protecting-us-national-security/)
 </p>
 <details>
