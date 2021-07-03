@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Antitrust leaders demand regulators pursue Facebook | FTC charges chipmaker | GoPuff workers speak out<a href="https://thehill.com//policy/technology/overnights/561413-hillicon-valley-antitrust-leaders-demand-regulators-pursue"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A district court judge’s decision earlier this week to dismiss the Federal Trade Commission’s complaint against Facebook remained in the spotlight Friday, with congressional leaders on antitrust urging the agency to keep pursuing the case. Meanwhile, the FTC pushed forward with a different antitrust case — charging chip supplier Broadcom with monopolizing the market.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – July 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/119620/security/cyber-defense-magazine-july-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine July 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 158 pages of excellent content.
+
+
+
+In this edition:
+
+
+
+Colonial Pipeline, JBS Cyber Attacks Shine Spotlight on Operational Technology Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care organizations struggle to balance breach notification requirements with customer expectations<a href="https://www.scmagazine.com/home/security-news/data-breach/health-care-organizations-struggle-to-balance-breach-notification-requirements-with-customer-expectations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same regulations that require swift reporting of breaches demand only modest details to be delivered to customers. That leaves health care organizations to decide for themselves how transparent they choose to be – and to manage the consequences of those decisions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

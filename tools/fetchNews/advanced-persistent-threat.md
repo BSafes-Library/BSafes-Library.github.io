@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IndigoZebra APT Hacking Campaign Targets the Afghan Government<a href="https://thehackernews.com/2021/07/indigozebra-apt-hacking-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of ongoing attacks coordinated by a suspected Chinese-speaking threat actor targeting the Afghanistan government as part of an espionage campaign that may have had its provenance as far back as 2014.  Israeli cybersecurity firm Check Point Research attributed the intrusions to a hacking group tracked under the moniker "IndigoZebra," with past activity aimed at other central-Asian countries, including Kyrgyzstan and Uzbekistan.  "The threat actors behind the espionage leveraged Dropbox, the popular cloud-storage service, to infiltrate the Afghan National Security Council (NSC)," the researchers said in a technical write-up  shared with The Hacker News, adding they "orchestrated a ministry-to-ministry style deception, where an email is sent to a high-profile target from the mailboxes of another high-profile victim."   IndigoZebra first came to light in August 2017 when Kaspersky&nbsp; detailed &nbsp;a covert operation that single
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK, US agencies warn of large-scale brute-force attacks carried out by Russian APT<a href="https://securityaffairs.co/wordpress/119595/apt/russia-apt-brute-force-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US and UK cybersecurity agencies said the Russia-linked APT28 group is behind a series of large-scale brute-force attacks.US and UK cybersecurity agencies said today that a Russian military cyber unit has been behind a series of brute-force attacks that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

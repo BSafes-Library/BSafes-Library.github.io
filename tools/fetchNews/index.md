@@ -34,7 +34,592 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 03, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coop supermarket closes 500 stores after Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/coop-supermarket-closes-500-stores-after-kaseya-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish supermarket chain Coop has shut down approximately 500 stores after they were affected by an REvil ransomware attack targeting managed service providers through a supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China investigates Didi over cybersecurity days after its huge IPO<a href="https://www.reuters.com/technology/china-cyberspace-administration-launches-security-investigation-into-didi-2021-07-02/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Didi Global's shares fell more than 10% in New York on Friday after China's cyberspace agency said it had launched an investigation into the Chinese ride-hailing giant to protect national security and the public interest.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Apps with 5.8 million Installs Caught Stealing Users' Facebook Passwords<a href="https://thehackernews.com/2021/07/android-apps-with-58-million-installs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google intervened to remove nine Android apps downloaded more than 5.8 million times from the company's Play Store after the apps were caught furtively stealing users' Facebook login credentials.  "The applications were fully functional, which was supposed to weaken the vigilance of potential victims. With that, to access all of the apps' functions and, allegedly, to disable in-app ads, users were prompted to log into their Facebook accounts," researchers from Dr. Web  said . "The advertisements inside some of the apps were indeed present, and this maneuver was intended to further encourage Android device owners to perform the required actions."   The offending apps masked their malicious intent by disguising as photo-editing, rubbish cleaner, fitness, and astrology programs, only to trick victims into logging into their Facebook account and hijack the entered credentials via a piece of JavaScript code received from an adversary-controlled server.   The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol ransomware appears in the threat landscape. Is it the work of the Wizard Spider gang?<a href="https://securityaffairs.co/wordpress/119637/malware/diavol-ransomware-wizard-spider-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wizard Spider, the cybercrime gang behind the TrickBot botnet, is believed to be the author of a new ransomware family dubbed Diavol, Fortinet researchers report.
+
+
+
+Researchers from Fortinet reported that a new ransomware family, tracked as Diavol,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US chemical distributor shares info on DarkSide ransomware data theft<a href="https://www.bleepingcomputer.com/news/security/us-chemical-distributor-shares-info-on-darkside-ransomware-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+World-leading chemical distribution company Brenntag has shared additional info on what data was stolen from its network by DarkSide ransomware operators during an attack from late April 2021 that targeted its North America division.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Director of Cybersecurity at NSA Gets Dedicated Twitter Account<a href="https://www.securityweek.com/director-cybersecurity-nsa-gets-dedicated-twitter-account?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account, @NSA_CSDirector, is currently being used by Joyce, but it will likely be passed on to future NSA cybersecurity directors, similar to the @POTUS Twitter account used by the president of the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware<a href="https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the REvil ransomware gang appear to have pushed ransomware via an update for Kaseya's IT management software, hitting around 40 customers worldwide, in what's an instance of a widespread supply-chain ransomware attack.  "Beginning around mid-day (EST/US) on Friday, July 2, 2021, Kaseya's Incident Response team learned of a potential security incident involving our VSA software," the company's CEO Fred Voccola  said  in a statement shared late Friday.   Following the incident, the IT and security management services company said it took immediate steps to shut down our SaaS servers as a precautionary measure, in addition to notifying its on-premises customers to shut down their VSA servers to prevent them from being compromised.   Voccola also said the company has identified the source of the vulnerability and that it's readying a patch to mitigate the ongoing issues. In the interim, the company also noted it intends to keep all on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached several MPs' email accounts, Poland says<a href="https://www.reuters.com/world/europe/hackers-breached-several-mps-email-accounts-poland-says-2021-07-02/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The email accounts of about a dozen members of parliament were hacked recently, Polish counter-intelligence said on Friday, disclosing further details of one of the biggest cyberattacks on the country in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn to Code — Get 2021 Master Bundle of 13 Online Courses @ 99% OFF<a href="https://thehackernews.com/2021/07/learn-to-code-get-2021-master-bundle-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether you are looking to turn into a full-time developer or simply increasing your earnings in your current niche, learning to code can be a smart move. It is a well-known fact that recruiters strive to recruit people with technical skills, and these skills are a great way to build your own startup.  Featuring 13 courses,  The Master Learn to Code 2021 Certification Bundle  is a great way to get started. This bundle covers a range of popular programming languages and frameworks — and  it's now only $34.99  at The Hacker News Deals.  Every large company today makes decisions based on data, whether it is financial or marketing. Moreover, they are able to predict future trends with  sophisticated algorithms  and build computer programs that automate their daily tasks.  With over 119 hours of hands-on training provided in this bundle, you will learn to handle all of these projects. The instructions in these video tutorials will set you up with a thorough understanding of Python, JavaScr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya, a Software Provider, Investigates Potential Cyberattack<a href="https://www.nytimes.com/2021/07/02/technology/kaseya-a-software-provider-investigates-potential-cyberattack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya, a software company that provides services to more than 40,000 organizations around the world, said on Friday that it was investigating the possibility that it had been the victim of a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Is Back Targeting Corporate Networks With A New Version<a href="https://heimdalsecurity.com/blog/babuk-ransomware-is-operational-again-focusing-on-corporate-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the Babuk ransomware operators have announced that they decided to close the affiliate program and move to data theft extortion, the group seems to have returned to their previous methods of encrypting corporate systems.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms presence of vulnerable code in all versions of Windows<a href="https://www.theregister.com/2021/07/02/printnightmare_cve/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has assigned CVE-2021-34527 to the print spooler remote code execution vulnerability known as "PrintNightmare" and confirmed that the offending code is lurking in all versions of Windows.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hits software manager, affecting 200 companies<a href="https://thehill.com//policy/cybersecurity/561445-ransomware-attack-hits-software-manager-affecting-200-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Miami-based IT software management company announced Friday that a ransomware attack may have targeted one of its tools used by its clients, potentially affecting some 200 businesses. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revisiting a Framework on Military Takedowns Against Cybercriminals<a href="https://www.lawfareblog.com/revisiting-framework-military-takedowns-against-cybercriminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. military’s mission is not to carry out military operations. Its mission is to defend the nation. Cyberspace offers the military an incredibly useful capability to advance national security. Cybersecurity is national security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research partnership to examine how fraudsters abuse financial tech innovations<a href="https://www.scmagazine.com/home/finance/research-partnership-to-examine-how-fraudsters-abuse-financial-tech-innovations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal Reserve Bank of Atlanta and GSU team will study P2P and mobile payments, e-wallets, and central bank digital currencies.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Antitrust leaders demand regulators pursue Facebook | FTC charges chipmaker | GoPuff workers speak out<a href="https://thehill.com//policy/technology/overnights/561413-hillicon-valley-antitrust-leaders-demand-regulators-pursue"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A district court judge’s decision earlier this week to dismiss the Federal Trade Commission’s complaint against Facebook remained in the spotlight Friday, with congressional leaders on antitrust urging the agency to keep pursuing the case. Meanwhile, the FTC pushed forward with a different antitrust case — charging chip supplier Broadcom with monopolizing the market. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges Azure users to update PowerShell to fix RCE flaw<a href="https://securityaffairs.co/wordpress/119629/security/microsoft-azure-powershell-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging Azure users to update PowerShell to address a remote code execution vulnerability that was fixed earlier this year.
+
+
+
+Microsoft is recommending its Azure users to update PowerShell versions 7.0 and 7.1 to protect against a high severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya VSA systems under active attack, as company tells customers to shutdown<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-systems-under-active-attack-as-company-tells-customers-to-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is some dispute over the number of managed service providers under attack by the ransomware group, each of whom has many customers of its own.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware hits 200 companies in MSP supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive REvil ransomware attack affects multiple managed service providers and their clients through a reported Kaseya supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moscow denies US, British hacking allegations<a href="https://thehill.com//policy/cybersecurity/561299-russian-embassy-says-moscow-denies-us-british-hacking-allegations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moscow is denying new hacking allegations detailed Thursday by the U.S. and United Kingdom. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – July 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/119620/security/cyber-defense-magazine-july-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine July 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 158 pages of excellent content.
+
+
+
+In this edition:
+
+
+
+Colonial Pipeline, JBS Cyber Attacks Shine Spotlight on Operational Technology Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack targets DocuSign and SharePoint users<a href="https://www.scmagazine.com/home/security-news/phishing-attack-targets-docusign-and-sharepoint-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said most of the emails use COVID-19 as a way to dupe users into clicking on a bogus document. For example, the email will ask the user to review a “Covid 19 relief fund as approved by the board of directors.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited PrintNightmare zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-printnightmare-zero-day-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free micropatches addressing the actively exploited PrintNightmare zero-day vulnerability in the Windows Print Spooler service are now available through the 0patch platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai-Inspired Botnet Could Be Using Your KGUARD DVRs in Cyber Attacks<a href="https://thehackernews.com/2021/07/new-mirai-inspired-botnet-could-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday revealed details about a new Mirai-inspired botnet called "mirai_ptea" that leverages an undisclosed vulnerability in digital video recorders (DVR) provided by KGUARD to propagate and carry out distributed denial-of-service (DDoS) attacks.  Chinese security firm Netlab 360  pinned  the first probe against the flaw on March 23, 2021, before it detected active exploitation attempts by the botnet on June 22, 2021.   The Mirai botnet, since  emerging on the scene  in 2016, has been linked to a string of large-scale DDoS attacks, including one against  DNS service provider Dyn  in October 2016, causing major internet platforms and services to remain inaccessible to users in Europe and North America.  Since then,  numerous   variants  of  Mirai  have  sprung up  on the threat landscape, in part due to the availability of its source code on the Internet. Mirai_ptea is no exception.   Not much has been disclosed about the security flaw in an att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of Babuk Locker attacks with recently leaked ransomware builder<a href="https://securityaffairs.co/wordpress/119611/malware/babuk-locker-attacks-ransomware-builder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently leaked Babuk Locker ransomware builder was used by a threat actor in an ongoing campaign targeting victims worldwide.
+
+
+
+At the end of June, The Record first reported that the builder for the Babuk Locker ransomware was leaked online allowing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health care organizations struggle to balance breach notification requirements with customer expectations<a href="https://www.scmagazine.com/home/security-news/data-breach/health-care-organizations-struggle-to-balance-breach-notification-requirements-with-customer-expectations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same regulations that require swift reporting of breaches demand only modest details to be delivered to customers. That leaves health care organizations to decide for themselves how transparent they choose to be – and to manage the consequences of those decisions.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of critical PowerShell 7 code execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-critical-powershell-7-code-execution-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a critical .NET Core remote code execution vulnerability in PowerShell 7 caused by how text encoding is performed in in .NET 5 and .NET Core.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mongolian Certificate Authority Hacked to Distribute Backdoored CA Software<a href="https://thehackernews.com/2021/07/mongolian-certificate-authority-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another instance of software supply chain attack, unidentified hackers breached the website of  MonPass , one of Mongolia's major certificate authorities, to backdoor its installer software with Cobalt Strike binaries.  The trojanized client was available for download between February 8, 2021, and March 3, 2021, said Czech cybersecurity software company Avast in a  report  published Thursday.  In addition, a public webserver hosted by MonPass was infiltrated potentially as many as eight separate times, with the researchers uncovering eight different web shells and backdoors on the compromised server.   Avast's investigation into the incident began after it discovered the backdoored installer and the implant on one of its customers' systems.  "The malicious installer is an unsigned [Portable Executable] file," the researchers said. "It starts by downloading the legitimate version of the installer from the MonPass official website. This legitimate versi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA alert urges to disable Windows Print Spooler to percent PrintNightmare attacks<a href="https://securityaffairs.co/wordpress/119605/security/cisa-alert-printnightmare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA issued a security alert to warn admins to disable the Windows Print Spooler service on servers not used for printing due to PrintNightmare zero-day.
+
+
+
+CISA issued an alert to warn admins to disable the Windows Print Spooler on servers not used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US insurance giant AJG reports data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-insurance-giant-ajg-reports-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arthur J. Gallagher (AJG), a US-based global insurance brokerage and risk management firm, is mailing breach notification letters to potentially impacted individuals following a ransomware attack that hit its systems in late September.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Google Scorecards Tool Scans Open-Source Software for More Security Risks<a href="https://thehackernews.com/2021/07/new-google-scorecards-tool-scans-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has launched an  updated version of Scorecards , its automated security tool that produces a "risk score" for open source initiatives, with improved checks and capabilities to make the data generated by the utility accessible for analysis.  "With so much software today relying on open-source projects, consumers need an easy way to judge whether their dependencies are safe," Google's Open Source Security Team  said  Thursday. "Scorecards helps reduce the toil and manual effort required to continually evaluate changing packages when maintaining a project's supply chain."   Scorecards  aims to automate analysis of the security posture of open source projects as well as use the security health metrics to proactively improve the security posture of other critical projects. To date, the tool has been scaled up to evaluate security criteria for over 50,000 open source projects.   Some of the new additions include checks for contributions from mali
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigations for Windows PrintNightmare zero-day bug<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigations-for-windows-printnightmare-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has provided mitigation guidance to block attacks on systems vulnerable to exploits targeting the Windows Print Spooler zero-day vulnerability known as PrintNightmare.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cobalt Strike Becomes One of the Go-To Tools for Hackers<a href="https://cyware.com/news/cobalt-strike-becomes-one-of-the-go-to-tools-for-hackers-7b8f83fc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt Strike has become one of the most misused tools in the cybercrime world as a recent report showed a 161% year-pn-year increase in cyberattacks using this tool. T his tool is now used by general commodity malware operators rather than espionage threat actors and APTs, which makes it a worris ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked Data for 69K LimeVPN Users Up for Sale on Dark Web<a href="https://threatpost.com/hacked-data-limevpn-dark-web/167492/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LimeVPN has confirmed a data incident, and meanwhile its website has been knocked offline.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Builder Mysteriously Appears in VirusTotal<a href="https://threatpost.com/babuk-ransomware-builder-virustotal/167481/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang’s source code is now available to rivals and security researchers alike – and a decryptor likely is not far behind.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA, FBI Reveal Hacking Methods Used by Russian Military Hackers<a href="https://thehackernews.com/2021/07/nsa-fbi-reveal-hacking-methods-used-by.html"> Full Text</a>
@@ -50,7 +635,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Critical "PrintNightmare" Flaw Being Exploited in the Wild<a href="https://thehackernews.com/2021/07/microsoft-warns-of-critical.html"> Full Text</a>

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coop supermarket closes 500 stores after Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/coop-supermarket-closes-500-stores-after-kaseya-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China investigates Didi over cybersecurity days after its huge IPO<a href="https://www.reuters.com/technology/china-cyberspace-administration-launches-security-investigation-into-didi-2021-07-02/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Apps with 5.8 million Installs Caught Stealing Users' Facebook Passwords<a href="https://thehackernews.com/2021/07/android-apps-with-58-million-installs.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diavol ransomware appears in the threat landscape. Is it the work of the Wizard Spider gang?<a href="https://securityaffairs.co/wordpress/119637/malware/diavol-ransomware-wizard-spider-gang.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US chemical distributor shares info on DarkSide ransomware data theft<a href="https://www.bleepingcomputer.com/news/security/us-chemical-distributor-shares-info-on-darkside-ransomware-data-theft/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Director of Cybersecurity at NSA Gets Dedicated Twitter Account<a href="https://www.securityweek.com/director-cybersecurity-nsa-gets-dedicated-twitter-account?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware<a href="https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breached several MPs' email accounts, Poland says<a href="https://www.reuters.com/world/europe/hackers-breached-several-mps-email-accounts-poland-says-2021-07-02/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn to Code — Get 2021 Master Bundle of 13 Online Courses @ 99% OFF<a href="https://thehackernews.com/2021/07/learn-to-code-get-2021-master-bundle-of.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya, a Software Provider, Investigates Potential Cyberattack<a href="https://www.nytimes.com/2021/07/02/technology/kaseya-a-software-provider-investigates-potential-cyberattack.html?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk Ransomware Is Back Targeting Corporate Networks With A New Version<a href="https://heimdalsecurity.com/blog/babuk-ransomware-is-operational-again-focusing-on-corporate-networks/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms presence of vulnerable code in all versions of Windows<a href="https://www.theregister.com/2021/07/02/printnightmare_cve/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack hits software manager, affecting 200 companies<a href="https://thehill.com//policy/cybersecurity/561445-ransomware-attack-hits-software-manager-affecting-200-companies"> Full Text</a>
@@ -246,7 +246,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revisiting a Framework on Military Takedowns Against Cybercriminals<a href="https://www.lawfareblog.com/revisiting-framework-military-takedowns-against-cybercriminals"> Full Text</a>
@@ -262,7 +262,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Research partnership to examine how fraudsters abuse financial tech innovations<a href="https://www.scmagazine.com/home/finance/research-partnership-to-examine-how-fraudsters-abuse-financial-tech-innovations/"> Full Text</a>
@@ -278,7 +278,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Antitrust leaders demand regulators pursue Facebook | FTC charges chipmaker | GoPuff workers speak out<a href="https://thehill.com//policy/technology/overnights/561413-hillicon-valley-antitrust-leaders-demand-regulators-pursue"> Full Text</a>
@@ -294,7 +294,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft urges Azure users to update PowerShell to fix RCE flaw<a href="https://securityaffairs.co/wordpress/119629/security/microsoft-azure-powershell-rce-flaw.html"> Full Text</a>
@@ -314,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya VSA systems under active attack, as company tells customers to shutdown<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-systems-under-active-attack-as-company-tells-customers-to-shutdown/"> Full Text</a>
@@ -330,7 +330,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware hits 200 companies in MSP supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/"> Full Text</a>
@@ -346,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moscow denies US, British hacking allegations<a href="https://thehill.com//policy/cybersecurity/561299-russian-embassy-says-moscow-denies-us-british-hacking-allegations"> Full Text</a>
@@ -362,7 +362,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Defense Magazine – July 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/119620/security/cyber-defense-magazine-july-2021.html"> Full Text</a>
@@ -386,7 +386,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attack targets DocuSign and SharePoint users<a href="https://www.scmagazine.com/home/security-news/phishing-attack-targets-docusign-and-sharepoint-users/"> Full Text</a>
@@ -402,7 +402,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Actively exploited PrintNightmare zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-printnightmare-zero-day-gets-unofficial-patch/"> Full Text</a>
@@ -418,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mirai-Inspired Botnet Could Be Using Your KGUARD DVRs in Cyber Attacks<a href="https://thehackernews.com/2021/07/new-mirai-inspired-botnet-could-be.html"> Full Text</a>
@@ -434,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of Babuk Locker attacks with recently leaked ransomware builder<a href="https://securityaffairs.co/wordpress/119611/malware/babuk-locker-attacks-ransomware-builder.html"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health care organizations struggle to balance breach notification requirements with customer expectations<a href="https://www.scmagazine.com/home/security-news/data-breach/health-care-organizations-struggle-to-balance-breach-notification-requirements-with-customer-expectations/"> Full Text</a>
@@ -470,7 +470,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of critical PowerShell 7 code execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-critical-powershell-7-code-execution-vulnerability/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mongolian Certificate Authority Hacked to Distribute Backdoored CA Software<a href="https://thehackernews.com/2021/07/mongolian-certificate-authority-hacked.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA alert urges to disable Windows Print Spooler to percent PrintNightmare attacks<a href="https://securityaffairs.co/wordpress/119605/security/cisa-alert-printnightmare.html"> Full Text</a>
@@ -522,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US insurance giant AJG reports data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-insurance-giant-ajg-reports-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -538,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Google Scorecards Tool Scans Open-Source Software for More Security Risks<a href="https://thehackernews.com/2021/07/new-google-scorecards-tool-scans-open.html"> Full Text</a>
@@ -554,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 02, 2021
+July 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares mitigations for Windows PrintNightmare zero-day bug<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigations-for-windows-printnightmare-zero-day-bug/"> Full Text</a>
@@ -570,7 +570,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2021
+July 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cobalt Strike Becomes One of the Go-To Tools for Hackers<a href="https://cyware.com/news/cobalt-strike-becomes-one-of-the-go-to-tools-for-hackers-7b8f83fc"> Full Text</a>
@@ -587,7 +587,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacked Data for 69K LimeVPN Users Up for Sale on Dark Web<a href="https://threatpost.com/hacked-data-limevpn-dark-web/167492/"> Full Text</a>
@@ -603,7 +603,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2021
+July 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk Ransomware Builder Mysteriously Appears in VirusTotal<a href="https://threatpost.com/babuk-ransomware-builder-virustotal/167481/"> Full Text</a>
@@ -619,7 +619,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA, FBI Reveal Hacking Methods Used by Russian Military Hackers<a href="https://thehackernews.com/2021/07/nsa-fbi-reveal-hacking-methods-used-by.html"> Full Text</a>
@@ -635,7 +635,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2021
+July 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Critical "PrintNightmare" Flaw Being Exploited in the Wild<a href="https://thehackernews.com/2021/07/microsoft-warns-of-critical.html"> Full Text</a>

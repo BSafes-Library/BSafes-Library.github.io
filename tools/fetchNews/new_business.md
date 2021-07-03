@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China investigates Didi over cybersecurity days after its huge IPO<a href="https://www.reuters.com/technology/china-cyberspace-administration-launches-security-investigation-into-didi-2021-07-02/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Didi Global's shares fell more than 10% in New York on Friday after China's cyberspace agency said it had launched an investigation into the Chinese ride-hailing giant to protect national security and the public interest.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya, a Software Provider, Investigates Potential Cyberattack<a href="https://www.nytimes.com/2021/07/02/technology/kaseya-a-software-provider-investigates-potential-cyberattack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya, a software company that provides services to more than 40,000 organizations around the world, said on Friday that it was investigating the possibility that it had been the victim of a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

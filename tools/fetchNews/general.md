@@ -8,6 +8,132 @@ nav_order: 900072
 
 ## General
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Did Western Digital Fall Prey to Meow Attacks?<a href="https://cyware.com/news/did-western-digital-fall-prey-to-meow-attacks-2d0fee90"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A mysterious group frantically issued a factory reset command for all the files pertaining to MyBook Live and Book Live DUO users, locking them out of their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: FTC votes to expand antitrust enforcement powers | US, UK agencies warn of Russian hackers using 'brute force' to target hundreds of groups | Trump allies launch new social media platform<a href="https://thehill.com//policy/technology/overnights/561235-hillicon-valley-ftc-votes-to-expand-antitrust-enforcement-powers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission took a major step on Thursday to hit back against anti-competitive behavior, voting to expand its enforcement powers in a party-line vote. Meanwhile, a group of U.S. agencies and authorities in the United Kingdom came together to warn of ongoing cybersecurity attacks linked to the Russian government, which will likely serve to only further escalate tensions between the U.S. and Russia after ongoing cyber incidents.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rethinking Application Security in the API-First Era<a href="https://thehackernews.com/2021/07/rethinking-application-security-in-api.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Securing applications it the API-first era can be an uphill battle. As development accelerates, accountability becomes unclear, and getting controls to operate becomes a challenge in itself. It's time that we rethink our application security strategies to reflect new priorities, principles and processes in the API-first era. Securing tomorrow's applications begins with assessing the business risks today.  The trends and risks shaping today's applications  As the world continues to become more and more interconnected via devices — and the APIs that connect them — individuals are growing accustomed to the frictionless experience that they provide. While this frictionless reality is doubtlessly more user-friendly, i.e., faster and more convenient, it also requires a trade-off. This convenience demands openness, and openness is a risk when it comes to cybersecurity.  According to&nbsp; Sidney Gottesman , Mastercard's SVP for Security Innovation, the above situation leads to one
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Exfiltration: What You Should Know to Prevent It<a href="https://threatpost.com/data-exfiltration-prevent-it/167413/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data leaks are a serious concern for companies of all sizes; if one occurs, it may put them out of business permanently. Here’s how you can protect your organization from data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect The Business<a href="https://beta.darkreading.com/attacks-breaches/survey-data-reveals-gap-in-americans-security-awareness?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey by Armis found that over 21% of respondents have not heard about the cyberattack on Colonial Pipeline, and 24% believe the hack won't have long-lasting effects on the nation's fuel industry.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Steps to Strengthen Your Ransomware Defenses<a href="https://thehackernews.com/2021/07/3-steps-to-strengthen-your-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent tsunami of ransomware has brought to life the fears of downtime and data loss cybersecurity pros have warned about, as attacks on the energy sector, food supply chain, healthcare industry, and other critical infrastructure have grabbed headlines.  For the industry experts who track the evolution of this threat, the increased frequency, sophistication, and destructiveness of ransomware suggests that businesses still have some major gaps in their defense strategies.  It's no surprise that a new, multi-layered approach to protection is needed to stem the damage caused by ransomware. But what changes should an IT team implement to close those gaps?  During a recent panel, a team of cybersecurity experts outlined a three-step plan to do just that -- centered around embracing new technologies, improving security processes, and ensuring their people know how to help curb the threat.  1&nbsp; —&nbsp; New Strains Overwhelm Old Defenses  Many new ransomware strains now act like advanced pe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strong medical device security awareness stifled by inventory, knowledge gaps<a href="https://www.scmagazine.com/home/security-news/iot/strong-medical-device-security-awareness-stifled-by-inventory-knowledge-gaps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most providers are aware of the importance of medical device security. But that acknowledgement hasn’t translated into stronger processes for inventory or response.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New data security rules instituted for US payment processing system<a href="https://www.zdnet.com/article/new-data-security-rules-instituted-for-us-payment-processing-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New data security rules governing how money is processed by US firms have gone into effect today, forcing digital money processors to render deposit account data unreadable in electronic storage.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When it’s personal: Dueling attitudes emerge toward paying ransomware demands<a href="https://www.scmagazine.com/home/security-news/ransomware/when-its-personal-dueling-attitudes-emerge-toward-paying-ransomware-demands/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+72% of school district parents would support paying, while 79% of online poll respondents are against it. One possible reason for the disparity: having something personally at stake. So what are businesses’ customer expectations?
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

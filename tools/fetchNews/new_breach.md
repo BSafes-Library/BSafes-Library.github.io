@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breached several MPs' email accounts, Poland says<a href="https://www.reuters.com/world/europe/hackers-breached-several-mps-email-accounts-poland-says-2021-07-02/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The email accounts of about a dozen members of parliament were hacked recently, Polish counter-intelligence said on Friday, disclosing further details of one of the biggest cyberattacks on the country in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mongolian Certificate Authority Hacked to Distribute Backdoored CA Software<a href="https://thehackernews.com/2021/07/mongolian-certificate-authority-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another instance of software supply chain attack, unidentified hackers breached the website of&nbsp; MonPass , one of Mongolia's major certificate authorities, to backdoor its installer software with Cobalt Strike binaries.  The trojanized client was available for download between February 8, 2021, and March 3, 2021, said Czech cybersecurity software company Avast in a&nbsp; report &nbsp;published Thursday.  In addition, a public webserver hosted by MonPass was infiltrated potentially as many as eight separate times, with the researchers uncovering eight different web shells and backdoors on the compromised server.   Avast's investigation into the incident began after it discovered the backdoored installer and the implant on one of its customers' systems.  "The malicious installer is an unsigned [Portable Executable] file," the researchers said. "It starts by downloading the legitimate version of the installer from the MonPass official website. This legitimate versi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US insurance giant AJG reports data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-insurance-giant-ajg-reports-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arthur J. Gallagher (AJG), a US-based global insurance brokerage and risk management firm, is mailing breach notification letters to potentially impacted individuals following a ransomware attack that hit its systems in late September.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked Data for 69K LimeVPN Users Up for Sale on Dark Web<a href="https://threatpost.com/hacked-data-limevpn-dark-web/167492/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LimeVPN has confirmed a data incident, and meanwhile its website has been knocked offline.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

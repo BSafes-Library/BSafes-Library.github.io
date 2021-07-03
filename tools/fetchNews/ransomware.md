@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware is back, uses new version on corporate networks <a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-is-back-uses-new-version-on-corporate-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After announcing their exit from the ransomware business in favor of data theft extortion, the Babuk gang appears to have slipped back into their old habit of encrypting corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defeating Ransomware-as-a-Service? Think Intel-Sharing<a href="https://threatpost.com/ransomware-as-a-service-intel-sharing/167508/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aamir Lakhani, cybersecurity researcher and practitioner at FortiGuard Labs, explains the rise of RaaS and the critical role of threat intel in effectively defending against it.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

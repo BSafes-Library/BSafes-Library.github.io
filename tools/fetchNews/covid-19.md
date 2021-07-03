@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Covid-19 Variant Malware Evades Multiple SEGs<a href="https://cofense.com/blog/covid-19-variant-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cofense Phishing Defense Center (PDC) has recently derived a stealthy malware campaign that is believed to share an abundance of attributes with the malware-as-a-service Buer Loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

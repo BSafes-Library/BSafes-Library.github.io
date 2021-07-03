@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+July 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Supply-Chain Attack Hits Nearly 40 Service Providers With REvil Ransomware<a href="https://thehackernews.com/2021/07/kaseya-revil-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the REvil ransomware gang appear to have pushed ransomware via an update for Kaseya's IT management software, hitting around 40 customers worldwide, in what's an instance of a widespread supply-chain ransomware attack.  "Beginning around mid-day (EST/US) on Friday, July 2, 2021, Kaseya's Incident Response team learned of a potential security incident involving our VSA software," the company's CEO Fred Voccola&nbsp; said &nbsp;in a statement shared late Friday.   Following the incident, the IT and security management services company said it took immediate steps to shut down our SaaS servers as a precautionary measure, in addition to notifying its on-premises customers to shut down their VSA servers to prevent them from being compromised.   Voccola also said the company has identified the source of the vulnerability and that it's readying a patch to mitigate the ongoing issues. In the interim, the company also noted it intends to keep all on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hits software manager, affecting 200 companies<a href="https://thehill.com//policy/cybersecurity/561445-ransomware-attack-hits-software-manager-affecting-200-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Miami-based IT software management company announced Friday that a ransomware attack may have targeted one of its tools used by its clients, potentially affecting some 200 businesses.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware hits 200 companies in MSP supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive REvil ransomware attack affects multiple managed service providers and their clients through a reported Kaseya supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of Babuk Locker attacks with recently leaked ransomware builder<a href="https://securityaffairs.co/wordpress/119611/malware/babuk-locker-attacks-ransomware-builder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently leaked Babuk Locker ransomware builder was used by a threat actor in an ongoing campaign targeting victims worldwide.
+
+
+
+At the end of June, The Record first reported that the builder for the Babuk Locker ransomware was leaked online allowing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

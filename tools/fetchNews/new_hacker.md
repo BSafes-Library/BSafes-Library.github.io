@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cobalt Strike Becomes One of the Go-To Tools for Hackers<a href="https://cyware.com/news/cobalt-strike-becomes-one-of-the-go-to-tools-for-hackers-7b8f83fc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt Strike has become one of the most misused tools in the cybercrime world as a recent report showed a 161% year-pn-year increase in cyberattacks using this tool. T his tool is now used by general commodity malware operators rather than espionage threat actors and APTs, which makes it a worris ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

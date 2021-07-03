@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn to Code — Get 2021 Master Bundle of 13 Online Courses @ 99% OFF<a href="https://thehackernews.com/2021/07/learn-to-code-get-2021-master-bundle-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether you are looking to turn into a full-time developer or simply increasing your earnings in your current niche, learning to code can be a smart move. It is a well-known fact that recruiters strive to recruit people with technical skills, and these skills are a great way to build your own startup.  Featuring 13 courses, &nbsp;The Master Learn to Code 2021 Certification Bundle &nbsp;is a great way to get started. This bundle covers a range of popular programming languages and frameworks — and &nbsp;it's now only $34.99 &nbsp;at The Hacker News Deals.  Every large company today makes decisions based on data, whether it is financial or marketing. Moreover, they are able to predict future trends with&nbsp; sophisticated algorithms &nbsp;and build computer programs that automate their daily tasks.  With over 119 hours of hands-on training provided in this bundle, you will learn to handle all of these projects. The instructions in these video tutorials will set you up with a thorough understanding of Python, JavaScr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

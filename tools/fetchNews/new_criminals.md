@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revisiting a Framework on Military Takedowns Against Cybercriminals<a href="https://www.lawfareblog.com/revisiting-framework-military-takedowns-against-cybercriminals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. military’s mission is not to carry out military operations. Its mission is to defend the nation. Cyberspace offers the military an incredibly useful capability to advance national security. Cybersecurity is national security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research partnership to examine how fraudsters abuse financial tech innovations<a href="https://www.scmagazine.com/home/finance/research-partnership-to-examine-how-fraudsters-abuse-financial-tech-innovations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal Reserve Bank of Atlanta and GSU team will study P2P and mobile payments, e-wallets, and central bank digital currencies.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

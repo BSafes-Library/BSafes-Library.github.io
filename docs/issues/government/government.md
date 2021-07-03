@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Director of Cybersecurity at NSA Gets Dedicated Twitter Account<a href="https://www.securityweek.com/director-cybersecurity-nsa-gets-dedicated-twitter-account?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The account, @NSA_CSDirector, is currently being used by Joyce, but it will likely be passed on to future NSA cybersecurity directors, similar to the @POTUS Twitter account used by the president of the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moscow denies US, British hacking allegations<a href="https://thehill.com//policy/cybersecurity/561299-russian-embassy-says-moscow-denies-us-british-hacking-allegations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moscow&nbsp;is denying&nbsp;new hacking allegations detailed Thursday by the U.S. and United Kingdom. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA alert urges to disable Windows Print Spooler to percent PrintNightmare attacks<a href="https://securityaffairs.co/wordpress/119605/security/cisa-alert-printnightmare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA issued a security alert to warn admins to disable the Windows Print Spooler service&nbsp;on servers&nbsp;not used for printing due to PrintNightmare zero-day.
+
+
+
+CISA issued an alert to warn admins to disable the Windows Print Spooler on servers not used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, FBI Reveal Hacking Methods Used by Russian Military Hackers<a href="https://thehackernews.com/2021/07/nsa-fbi-reveal-hacking-methods-used-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing brute-force attack campaign targeting enterprise cloud environments has been spearheaded by the Russian military intelligence since mid-2019, according to a joint advisory published by intelligence agencies in the U.K. and U.S.  The National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and the U.K.'s National Cyber Security Centre (NCSC) formally attributed the incursions to the Russian General Staff Main Intelligence Directorate (GRU) 85th Main Special Service Center (GTsSS).   The&nbsp; threat actor &nbsp;is also tracked under various monikers, including&nbsp; APT28 &nbsp;(FireEye Mandiant),&nbsp; Fancy Bear &nbsp;(CrowdStrike),&nbsp; Sofacy &nbsp;(Kaspersky),&nbsp; STRONTIUM &nbsp;(Microsoft), and&nbsp; Iron Twilight &nbsp;(Secureworks).  APT28 has a track record of using password spray and brute-force login attempts to steal login credentials. In November 2020, Microsoft&nbsp; disclosed &nbsp;cyberattacks staged by the adversary aimed at companies involved in re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

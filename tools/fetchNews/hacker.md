@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncover effort by Chinese-speaking hackers to target Afghan government<a href="https://thehill.com//policy/cybersecurity/560998-researchers-uncover-effort-by-chinese-speaking-hackers-to-target-afghan"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking hackers recently targeted the top tiers of the Afghan government, along with the governments of other nearby nations, research published Thursday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA: Russian GRU hackers use Kubernetes to run brute force attacks<a href="https://www.bleepingcomputer.com/news/security/nsa-russian-gru-hackers-use-kubernetes-to-run-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) warns that Russian nation-state hackers are conducting brute force attacks to&nbsp;access US networks and steal email and files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enterprise and cloud environments have been under siege from Russian hackers since 2019<a href="https://www.scmagazine.com/home/security-news/apts-cyberespionage/enterprise-and-cloud-environments-have-been-under-siege-from-russian-hackers-since-2019/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers at Russia’s GRU have carried out a years-long, stealthy espionage campaign that targets  enterprise and cloud environments in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

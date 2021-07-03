@@ -30,6 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://thehackernews.com/2021/07/nsa-fbi-reveal-hacking-methods-used-by.html
+. https://securityaffairs.co/wordpress/119605/security/cisa-alert-printnightmare.html
 . https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&web_view=true
 . https://www.govinfosecurity.com/report-urges-nasa-to-improve-cybersecurity-risk-management-a-16958?&web_view=true
 . https://www.bleepingcomputer.com/news/security/cisa-releases-new-ransomware-self-assessment-security-audit-tool/

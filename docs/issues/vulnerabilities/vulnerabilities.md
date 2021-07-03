@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms presence of vulnerable code in all versions of Windows<a href="https://www.theregister.com/2021/07/02/printnightmare_cve/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has assigned CVE-2021-34527 to the print spooler remote code execution vulnerability known as "PrintNightmare" and confirmed that the offending code is lurking in all versions of Windows.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges Azure users to update PowerShell to fix RCE flaw<a href="https://securityaffairs.co/wordpress/119629/security/microsoft-azure-powershell-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging Azure users to update PowerShell to address a remote code execution vulnerability that was fixed earlier this year.
+
+
+
+Microsoft is recommending its Azure users to update PowerShell versions 7.0 and 7.1 to protect against a high severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited PrintNightmare zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-printnightmare-zero-day-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free micropatches addressing the actively exploited PrintNightmare zero-day vulnerability in the Windows Print Spooler service are&nbsp;now available through the 0patch platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of critical PowerShell 7 code execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-critical-powershell-7-code-execution-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a critical .NET Core remote code execution vulnerability in PowerShell 7&nbsp;caused by how text encoding is performed in&nbsp;in .NET 5 and .NET Core.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigations for Windows PrintNightmare zero-day bug<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigations-for-windows-printnightmare-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has provided mitigation guidance to block attacks on systems vulnerable to exploits targeting the&nbsp;Windows Print Spooler zero-day vulnerability known as PrintNightmare.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Critical "PrintNightmare" Flaw Being Exploited in the Wild<a href="https://thehackernews.com/2021/07/microsoft-warns-of-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday officially confirmed that the "PrintNightmare" remote code execution (RCE) vulnerability affecting Windows Print Spooler is different from the issue the company addressed as part of its Patch Tuesday update released earlier this month, while warning that it has detected exploitation attempts targeting the flaw.  The company is tracking the security weakness under the identifier&nbsp; CVE-2021-34527 .   "A remote code execution vulnerability exists when the Windows Print Spooler service improperly performs privileged file operations," Microsoft said in its advisory. "An attacker who successfully exploited this vulnerability could run arbitrary code with SYSTEM privileges. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights."  "An attack must involve an authenticated user calling RpcAddPrinterDriverEx()," the Redmond-based firm added.  The acknowledgment comes after r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

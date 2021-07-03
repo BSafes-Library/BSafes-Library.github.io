@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox Used to Mask Malware Movement in Cyberespionage Campaign<a href="https://threatpost.com/dropbox-malware-ongoing-spearphishing-cyberespionage/167402/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IndigoZebra APT is targeting the Afghan government using Dropbox as an API that leaves no traces of communications with weirdo websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
