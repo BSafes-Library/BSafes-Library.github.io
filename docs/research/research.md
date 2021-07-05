@@ -595,6 +595,18 @@ Cybersecurity threats and compromises have been at the epicenter of media attent
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Towards Increasing Trust In Expert Evidence Derived From Malware Forensic Tools [HTML](https://papers.bsafes.com/docs/forensics/towards-increasing-trust-in-expert-evidence-derived-from-malware-forensics-tools/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Following a series of high profile miscarriages of justice in the UK linked to questionable expert evidence, the post of the Forensic Science Regulator was created in 2008. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
