@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya VSA criminals may have ‘weaponized’ links in ransom negotiations<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-criminals-may-have-weaponized-links-in-ransom-negotiations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks leveraging a zero-day in the on-premises Kaseya VSA remote IT management product started Friday afternoon and struck dozens of managed service providers and thousands of those MSPs customers. As one cyber expert noted: “I don’t think I have seen a ransomware gang use a 0-Day in an attack before.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 03, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
