@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Urges Azure Users to Update PowerShell to Patch RCE Flaw<a href="https://thehackernews.com/2021/07/microsoft-urges-azure-users-to-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging Azure users to  update  the PowerShell command-line tool as soon as possible to protect against a critical remote code execution vulnerability impacting .NET Core.  The issue, tracked as  CVE-2021-26701  (CVSS score: 8.1), affects PowerShell versions 7.0 and 7.1 and have been remediated in versions 7.0.6 and 7.1.3, respectively. Windows PowerShell 5.1 isn't impacted by the flaw.  Built on the .NET Common Language Runtime (CLR),  PowerShell  is a cross-platform task automation utility that consists of a command-line shell, a scripting language, and a configuration management framework.   "A remote code execution vulnerability exists in .NET 5 and .NET Core due to how text encoding is performed," the company  noted in an advisory  published earlier this April, adding that the problem resides in the " System.Text.Encodings.Web " package, which provides types for encoding and escaping strings for use in JavaScript, HTML, and URLs.   System.Text.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 REvil Used 0-Day in Kaseya Ransomware Attack, Demands $70 Million Ransom<a href="https://thehackernews.com/2021/07/revil-used-0-day-in-kaseya-ransomware.html"> Full Text</a>
 </p>
 <details>
