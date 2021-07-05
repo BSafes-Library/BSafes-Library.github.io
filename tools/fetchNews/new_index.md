@@ -34,7 +34,24 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2021
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Creating Their Own Websites to Promote Their Businesses<a href="https://cyware.com/news/ransomware-gangs-creating-their-own-websites-to-promote-their-businesses-3a2668c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware gangs Himalaya and LockBit were found promoting encryption tools on their own site after the recent ban of ransomware ads on well-known Russian-speaking cybercrime forums. To attract affiliates, the LockBit developers claim to offer the fastest encryption and file-stealing (StealBit) ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware asks $70 million to decrypt all Kaseya attack victims<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-asks-70-million-to-decrypt-all-kaseya-attack-victims/"> Full Text</a>
@@ -50,7 +67,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A speciifc network name can completely disable Wi-Fi on your iPhone<a href="https://9to5mac.com/2021/07/04/wifi-iphone-disable-bug/?&web_view=true"> Full Text</a>
@@ -66,7 +83,7 @@ Researcher Carl Schou tweeted that if an iPhone comes in range of a Wi-Fi networ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2021
+July 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Getting Started with Security Testing: A Practical Guide for Startups<a href="https://thehackernews.com/2021/07/getting-started-with-security-testing.html"> Full Text</a>
@@ -82,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revil ransomware gang hit Spanish telecom giant MasMovil<a href="https://securityaffairs.co/wordpress/119719/cyber-crime/masmovil-ransomware-attack.html"> Full Text</a>
@@ -102,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Defense: Top 5 Things to Do Right Now<a href="https://threatpost.com/ransomware-defense-top-5-tips/167536/"> Full Text</a>
@@ -118,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How U.S. cyber policy changed after SolarWinds<a href="https://www.cbsnews.com/news/solarwinds-60-minutes-2021-07-04/?&web_view=true"> Full Text</a>
@@ -134,7 +151,7 @@ CBS News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2021
+July 05, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Botnet Found Deploying A New Ransomware Called Diavol<a href="https://thehackernews.com/2021/07/trickbot-botnet-found-deploying-new.html"> Full Text</a>
@@ -150,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware gang demanded $70M for universal decryptor for Kaseya victims<a href="https://securityaffairs.co/wordpress/119709/cyber-crime/revil-ransomware-kaseya-decryptor.html"> Full Text</a>
@@ -170,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil’s New Supply Chain Attack Takes Down 1,000s of Businesses<a href="https://cyware.com/news/revils-new-supply-chain-attack-takes-down-1000s-of-businesses-839c9f7e"> Full Text</a>
@@ -187,7 +204,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swedish Supermarket Chain Coop Forced to Close 800 Stores Following Kaseya Ransomware Attack<a href="https://therecord.media/supermarket-chain-coop-closes-800-stores-following-kaseya-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -203,7 +220,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After crackdown on Didi, China opens cybersecurity probes into 3 more tech firms<a href="https://www.cnbc.com/2021/07/05/china-opens-cybersecurity-probe-into-full-truck-alliance-boss-zhipin.html?&web_view=true"> Full Text</a>
@@ -219,7 +236,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House reaching out with assistance to latest ransomware victims<a href="https://www.reuters.com/technology/it-firm-kaseya-hires-fireeye-help-deal-with-ransomware-outbreak-2021-07-04/?&web_view=true"> Full Text</a>
@@ -235,7 +252,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Investigation links DDoS attack on Filipino media outlets to government agencies<a href="https://therecord.media/investigation-links-ddos-attack-on-filipino-media-outlets-to-government-agencies/?&web_view=true"> Full Text</a>
@@ -251,7 +268,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious Node.js malware puzzles security researchers<a href="https://therecord.media/mysterious-node-js-malware-puzzles-security-researchers/?&web_view=true"> Full Text</a>
@@ -267,7 +284,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US water company WSSC Water hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/119700/cyber-crime/wssc-water-ransomware-attack.html"> Full Text</a>
@@ -287,7 +304,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2021
+July 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Urges Azure Users to Update PowerShell to Patch RCE Flaw<a href="https://thehackernews.com/2021/07/microsoft-urges-azure-users-to-update.html"> Full Text</a>
@@ -303,7 +320,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2021
+July 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Used 0-Day in Kaseya Ransomware Attack, Demands $70 Million Ransom<a href="https://thehackernews.com/2021/07/revil-used-0-day-in-kaseya-ransomware.html"> Full Text</a>

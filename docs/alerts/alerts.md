@@ -6,6 +6,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrintNightmare, Critical Windows Print Spooler Vulnerability <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA encourages administrators to disable the Windows Print spooler service in Domain Controllers and systems that do not print.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA’s CSET Tool Sets Sights on Ransomware Threat <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/cisas-cset-tool-sets-sights-ransomware-threat"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released a new module in its Cyber Security Evaluation Tool (CSET): the Ransomware Readiness Assessment (RRA).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 15, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
