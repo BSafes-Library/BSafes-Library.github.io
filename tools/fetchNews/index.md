@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Used 0-Day in Kaseya Ransomware Attack, Demands $70 Million Ransom<a href="https://thehackernews.com/2021/07/revil-used-0-day-in-kaseya-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amidst the massive  supply-chain ransomware attack  that triggered an infection chain compromising thousands of businesses on Friday, new details have emerged about how the notorious Russia-linked REvil cybercrime gang may have pulled off the unprecedented hack.  The Dutch Institute for Vulnerability Disclosure (DIVD) on Sunday  revealed  it had alerted Kaseya to a number of zero-day vulnerabilities in its VSA software (CVE-2021-30116) that it said were being exploited as a conduit to deploy ransomware. The non-profit entity said the company was in the process of resolving the issues as part of a coordinated vulnerability disclosure when the July 2 attacks took place.  More specifics about the flaws were not shared, but DIVD chair Victor Gevers  hinted  that the zero-days are trivial to exploit. At least 1,000 businesses are said to have been affected by the attacks, with victims identified in at least 17 countries, including the U.K., South Africa, Canada, Argentina, Mexico, Indonesi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
