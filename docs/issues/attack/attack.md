@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+July 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya was fixing zero-day just as REvil ransomware sprung their attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-was-fixing-zero-day-just-as-revil-ransomware-sprung-their-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The zero-day vulnerability used to breach on-premise Kaseya VSA servers was in the process of being fixed, just as the REvil ransomware gang used it to perform their massive Friday attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Turn off your heart’: Kaseya VSA ransomware hits MSPs in a vital organ<a href="https://www.scmagazine.com/home/security-news/ransomware/turn-off-your-heart-kaseya-vsa-ransomware-hits-msps-in-a-vital-organ/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flurry of ramsomware attacks starting Friday, targeting on-premises Kaseya VSA applications, are particularly frightening to managed service providers, because they strike at software at the center of the enterprise: the remote monitoring and management (RMM) platform.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya VSA supply-chain ransomware attack hit hundreds of companies<a href="https://securityaffairs.co/wordpress/119650/cyber-crime/kaseya-vsa-supply-chain-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply attack by REvil ransomware operators against Kaseya VSA impacted multiple managed service providers (MSPs) and their clients.
+
+
+
+A new supply chain attack made the headlines, this afternoon, the REvil ransomware gang hit the cloud-based MSP platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

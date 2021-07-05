@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers zero in on Tokyo Olympics<a href="https://thehill.com//policy/cybersecurity/561434-hackers-zero-in-on-tokyo-olympics"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts are sounding the alarm about potential cyberattacks on the Tokyo Summer Olympics from those looking to create chaos at the already embattled event.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

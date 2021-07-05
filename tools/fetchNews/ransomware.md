@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol ransomware appears in the threat landscape. Is it the work of the Wizard Spider gang?<a href="https://securityaffairs.co/wordpress/119637/malware/diavol-ransomware-wizard-spider-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wizard Spider, the cybercrime gang behind&nbsp;the TrickBot botnet, is believed to be the author of a new ransomware family dubbed Diavol, Fortinet researchers report.
+
+
+
+Researchers from Fortinet reported that a new ransomware family, tracked as Diavol,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US chemical distributor shares info on DarkSide ransomware data theft<a href="https://www.bleepingcomputer.com/news/security/us-chemical-distributor-shares-info-on-darkside-ransomware-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+World-leading chemical distribution company Brenntag has shared additional info on what data was stolen from its network by DarkSide ransomware operators during an attack from late&nbsp;April 2021 that&nbsp;targeted its North America division.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Is Back Targeting Corporate Networks With A New Version<a href="https://heimdalsecurity.com/blog/babuk-ransomware-is-operational-again-focusing-on-corporate-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the Babuk ransomware operators have announced that they decided to close the affiliate program and move to data theft extortion, the group seems to have returned to their previous methods of encrypting corporate systems.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Builder Mysteriously Appears in VirusTotal<a href="https://threatpost.com/babuk-ransomware-builder-virustotal/167481/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang’s source code is now available to rivals and security researchers alike – and a decryptor likely is not far behind.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

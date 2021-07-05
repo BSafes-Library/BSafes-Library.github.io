@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack targets DocuSign and SharePoint users<a href="https://www.scmagazine.com/home/security-news/phishing-attack-targets-docusign-and-sharepoint-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers said most of the emails use COVID-19 as a way to dupe users into clicking on a bogus document. For example, the email will ask the user to review a “Covid 19 relief fund as approved by the board of directors.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

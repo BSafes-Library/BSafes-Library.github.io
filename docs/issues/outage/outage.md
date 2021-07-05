@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+July 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coop supermarket closes hundreds of stores after Kaseya supply chain ransomware attack<a href="https://securityaffairs.co/wordpress/119663/cyber-crime/coop-supermarket-kaseya-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish supermarket chain Coop is the first company to disclose the impact of the recent supply chain ransomware attack that hit Kaseya. 
+
+
+
+The supermarket chain Coop shut down approximately 500 stores as a result of the supply chain ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

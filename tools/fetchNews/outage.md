@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+July 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coop supermarket closes 500 stores after Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/coop-supermarket-closes-500-stores-after-kaseya-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish supermarket chain Coop has shut down approximately 500 stores after they were affected by an REvil ransomware attack targeting managed service providers through a supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya VSA systems under active attack, as company tells customers to shutdown<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-systems-under-active-attack-as-company-tells-customers-to-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is some dispute over the number of managed service providers under attack by the ransomware group, each of whom has many customers of its own.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

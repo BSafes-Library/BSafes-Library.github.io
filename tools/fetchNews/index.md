@@ -34,7 +34,239 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil is increasing ransoms for Kaseya ransomware attack victims<a href="https://www.bleepingcomputer.com/news/security/revil-is-increasing-ransoms-for-kaseya-ransomware-attack-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang is increasing the ransom demands for victims encrypted during Friday's Kaseya ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers zero in on Tokyo Olympics<a href="https://thehill.com//policy/cybersecurity/561434-hackers-zero-in-on-tokyo-olympics"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts are sounding the alarm about potential cyberattacks on the Tokyo Summer Olympics from those looking to create chaos at the already embattled event.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil gang exploited a zero-day in the Kaseya supply chain attack<a href="https://securityaffairs.co/wordpress/119688/cyber-crime/kaseya-zero-day-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya was addressing the zero-day vulnerability that REvil ransomware gang exploited to breach on-premise Kaseya VSA servers.
+
+
+
+A new supply chain attack made the headlines, on Friday the REvil ransomware gang hit the Kaseya cloud-based MSP platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya to meet Monday to determine fate of SaaS VSA tool<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-to-meet-monday-to-determine-fate-of-saas-vsa-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest update following a widespread ransomware attack that hit managed service providers, Kaseya announced that its executive team would meet Monday to discuss bringing the software-as-a-service VSA remote monitoring and management tool back online. The company also said Monday would be the day it disclosed a timeline for the release of a patched on-premises VSA product.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya was fixing zero-day just as REvil ransomware sprung their attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-was-fixing-zero-day-just-as-revil-ransomware-sprung-their-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The zero-day vulnerability used to breach on-premise Kaseya VSA servers was in the process of being fixed, just as the REvil ransomware gang used it to perform their massive Friday attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers spread backdoor after compromising the Mongolian CA MonPass<a href="https://securityaffairs.co/wordpress/119677/malware/mongolian-ca-monpass-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised the servers of Mongolian certificate authority (CA) MonPass and used its website to spread malware.
+
+
+
+Hackers compromised the servers of the Mongolian certificate authority (CA) MonPass and used its website to spread malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya announces breach detection tool in VSA ransomware fight<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-announces-breach-detection-tool-in-vsa-fight/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a company update Saturday night, Kaseya only received a single report of a new infection Saturday from a client who left their VSA server on.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 321<a href="https://securityaffairs.co/wordpress/119674/breaking-news/security-affairs-newsletter-round-321.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Crackonosh Monero...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coop supermarket closes hundreds of stores after Kaseya supply chain ransomware attack<a href="https://securityaffairs.co/wordpress/119663/cyber-crime/coop-supermarket-kaseya-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish supermarket chain Coop is the first company to disclose the impact of the recent supply chain ransomware attack that hit Kaseya. 
+
+
+
+The supermarket chain Coop shut down approximately 500 stores as a result of the supply chain ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden: 'Initial thinking' recent ransomware attack not by Russian government<a href="https://thehill.com//policy/cybersecurity/561491-biden-initial-thinking-recent-ransomware-attack-not-russian-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden said Saturday that the “initial thinking” is that the Russian government is not behind a ransomware attack that targeted a tool provided by Miami-based IT software management company Kaseya. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 2nd 2021 - MSPs under attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-2nd-2021-msps-under-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Friday afternoon, we saw the largest ransomware attack ever conducted after the REvil ransomware gang used a zero-day vulnerability in the Kaseya VSA management software to encrypt MSPs and their customers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Turn off your heart’: Kaseya VSA ransomware hits MSPs in a vital organ<a href="https://www.scmagazine.com/home/security-news/ransomware/turn-off-your-heart-kaseya-vsa-ransomware-hits-msps-in-a-vital-organ/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flurry of ramsomware attacks starting Friday, targeting on-premises Kaseya VSA applications, are particularly frightening to managed service providers, because they strike at software at the center of the enterprise: the remote monitoring and management (RMM) platform.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya VSA supply-chain ransomware attack hit hundreds of companies<a href="https://securityaffairs.co/wordpress/119650/cyber-crime/kaseya-vsa-supply-chain-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A supply attack by REvil ransomware operators against Kaseya VSA impacted multiple managed service providers (MSPs) and their clients.
+
+
+
+A new supply chain attack made the headlines, this afternoon, the REvil ransomware gang hit the cloud-based MSP platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya VSA criminals may have ‘weaponized’ links in ransom negotiations<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-criminals-may-have-weaponized-links-in-ransom-negotiations/"> Full Text</a>

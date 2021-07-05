@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya to meet Monday to determine fate of SaaS VSA tool<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-to-meet-monday-to-determine-fate-of-saas-vsa-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the latest update following a widespread ransomware attack that hit managed service providers, Kaseya announced that its executive team would meet Monday to discuss bringing the software-as-a-service VSA remote monitoring and management tool back online. The company also said Monday would be the day it disclosed a timeline for the release of a patched on-premises VSA product.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

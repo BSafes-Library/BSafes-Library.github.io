@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 2nd 2021 - MSPs under attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-2nd-2021-msps-under-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Friday afternoon, we saw the largest ransomware attack ever conducted after the REvil ransomware gang used a zero-day vulnerability in the Kaseya VSA management software to encrypt MSPs and their customers worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

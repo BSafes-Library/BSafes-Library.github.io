@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya announces breach detection tool in VSA ransomware fight<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-announces-breach-detection-tool-in-vsa-fight/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a company update Saturday night, Kaseya only received a single report of a new infection Saturday from a client who left their VSA server on.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

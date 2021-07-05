@@ -8,6 +8,70 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 04, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil is increasing ransoms for Kaseya ransomware attack victims<a href="https://www.bleepingcomputer.com/news/security/revil-is-increasing-ransoms-for-kaseya-ransomware-attack-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang is increasing the ransom demands for victims encrypted during Friday's Kaseya ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil gang exploited a zero-day in the Kaseya supply chain attack<a href="https://securityaffairs.co/wordpress/119688/cyber-crime/kaseya-zero-day-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya was addressing the zero-day vulnerability that REvil ransomware gang exploited to breach on-premise Kaseya VSA servers.
+
+
+
+A new supply chain attack made the headlines, on Friday the REvil ransomware gang hit the Kaseya cloud-based MSP platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers spread backdoor after compromising the Mongolian CA MonPass<a href="https://securityaffairs.co/wordpress/119677/malware/mongolian-ca-monpass-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised the servers of Mongolian certificate authority (CA) MonPass and used its website to spread malware.
+
+
+
+Hackers compromised the servers of the Mongolian certificate authority (CA) MonPass and used its website to spread malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya VSA criminals may have ‘weaponized’ links in ransom negotiations<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-criminals-may-have-weaponized-links-in-ransom-negotiations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks leveraging a zero-day in the on-premises Kaseya VSA remote IT management product started Friday afternoon and struck dozens of managed service providers and thousands of those MSPs customers. As one cyber expert noted: “I don’t think I have seen a ransomware gang use a 0-Day in an attack before.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

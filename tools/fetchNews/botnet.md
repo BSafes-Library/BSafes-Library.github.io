@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai-Inspired Botnet Could Be Using Your KGUARD DVRs in Cyber Attacks<a href="https://thehackernews.com/2021/07/new-mirai-inspired-botnet-could-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday revealed details about a new Mirai-inspired botnet called "mirai_ptea" that leverages an undisclosed vulnerability in digital video recorders (DVR) provided by KGUARD to propagate and carry out distributed denial-of-service (DDoS) attacks.  Chinese security firm Netlab 360&nbsp; pinned &nbsp;the first probe against the flaw on March 23, 2021, before it detected active exploitation attempts by the botnet on June 22, 2021.   The Mirai botnet, since&nbsp; emerging on the scene &nbsp;in 2016, has been linked to a string of large-scale DDoS attacks, including one against&nbsp; DNS service provider Dyn &nbsp;in October 2016, causing major internet platforms and services to remain inaccessible to users in Europe and North America.  Since then,&nbsp; numerous &nbsp; variants &nbsp;of&nbsp; Mirai &nbsp;have&nbsp; sprung up &nbsp;on&nbsp;the threat landscape, in part due to the availability of its source code on the Internet. Mirai_ptea is no exception.   Not much has been disclosed about the security flaw in an att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
