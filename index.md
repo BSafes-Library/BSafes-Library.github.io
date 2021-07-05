@@ -34,6 +34,239 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware asks $70 million to decrypt all Kaseya attack victims<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-asks-70-million-to-decrypt-all-kaseya-attack-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware has set a price for decrypting all systems locked during the Kaseya supply-chain attack. The gang wants $70 million in Bitcoin for the tool that allows all affected businesses to recover their files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A speciifc network name can completely disable Wi-Fi on your iPhone<a href="https://9to5mac.com/2021/07/04/wifi-iphone-disable-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Carl Schou tweeted that if an iPhone comes in range of a Wi-Fi network named ‘%secretclub%power’, then that iPhone will no longer be able to use Wi-Fi or Wi-Fi related features.
+</details>
+<div style="text-align: right" markdown="1">
+9to5 Mac
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Getting Started with Security Testing: A Practical Guide for Startups<a href="https://thehackernews.com/2021/07/getting-started-with-security-testing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A common misconception among startup founders is that cybercriminals won't waste time on them, because they're not big or well known enough yet.  But just because you are small doesn't mean  you're not in the firing line . The size of a startup does not exempt it from cyber-attacks – that's because hackers constantly scan the internet looking for flaws that they can exploit; one slip up, and your business can become front-page news, for the wrong reasons.  Fortunately, buyers are also becoming increasingly aware of the importance of cybersecurity and are commonly asking startups about the processes they use to secure their data - meaning cybersecurity is now becoming an important business enabler.  So if you're a CTO thinking about ramping up your web or mobile apps' cybersecurity posture, then you are already on the right track, but with so many options, where should you start?  To help you get going, we created this guide that covers the following crucial
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revil ransomware gang hit Spanish telecom giant MasMovil<a href="https://securityaffairs.co/wordpress/119719/cyber-crime/masmovil-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Revil ransomware gang hit Spanish telecom giant MasMovil and claims to have stolen sensitive data from the group.
+
+
+
+MasMovil is one of the largest Spanish telecom operators, last week the group was hit by the REvil ransomware gang that claims to have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Defense: Top 5 Things to Do Right Now<a href="https://threatpost.com/ransomware-defense-top-5-tips/167536/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matt Bromiley, senior consultant with Mandiant Managed Defense, discusses the top tricks and tips for protecting enterprise environments from ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How U.S. cyber policy changed after SolarWinds<a href="https://www.cbsnews.com/news/solarwinds-60-minutes-2021-07-04/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden Administration imposed sanctions on Russia, ordered new cybersecurity standards for federal contracts with software companies, and chose the nation's first National Cyber Director.
+</details>
+<div style="text-align: right" markdown="1">
+CBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Botnet Found Deploying A New Ransomware Called Diavol<a href="https://thehackernews.com/2021/07/trickbot-botnet-found-deploying-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the infamous  TrickBot  malware have been linked to a new ransomware strain named "Diavol," according to the latest research.  Diavol and Conti ransomware payloads were deployed on different systems in a case of an unsuccessful attack targeting one of its customers earlier this month, researchers from Fortinet's FortiGuard Labs said last week.  TrickBot, a banking Trojan first detected in 2016, has been traditionally a Windows-based crimeware solution, employing different modules to perform a wide range of malicious activities on target networks, including credential theft and conduct ransomware attacks.    Despite efforts by law enforcement to neutralize the bot network, the ever-evolving malware has proven to be a  resilient threat , what with the Russia-based operators — dubbed " Wizard Spider " — quickly adapting new tools to carry out further attacks.   Diavol is said to have been deployed in the wild in one incident to date. The sourc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang demanded $70M for universal decryptor for Kaseya victims<a href="https://securityaffairs.co/wordpress/119709/cyber-crime/revil-ransomware-kaseya-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware is demanding $70 million for decrypting all systems locked during the Kaseya supply-chain ransomware attack. 
+
+
+
+REvil ransomware is asking $70 million worth of Bitcoin for decrypting all systems impacted in the Kaseya supply-chain ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil’s New Supply Chain Attack Takes Down 1,000s of Businesses<a href="https://cyware.com/news/revils-new-supply-chain-attack-takes-down-1000s-of-businesses-839c9f7e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by REvil group paralyzed the networks of thousands of companies from the U.S. to Sweden. Hackers&nbsp;exploited Kaseya's systems management platform called VSA. The gang has allegedly demanded millions in ransom to restore the data. Organizations are suggested to implement adequ ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish Supermarket Chain Coop Forced to Close 800 Stores Following Kaseya Ransomware Attack<a href="https://therecord.media/supermarket-chain-coop-closes-800-stores-following-kaseya-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coop, a Swedish supermarket store chain, shut down nearly 800 stores across the country after one of its contractors was hit by ransomware in the aftermath of the Kaseya security incident on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After crackdown on Didi, China opens cybersecurity probes into 3 more tech firms<a href="https://www.cnbc.com/2021/07/05/china-opens-cybersecurity-probe-into-full-truck-alliance-boss-zhipin.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China (CAC) has opened a cybersecurity review into Yunmanman and Huochebang, subsidiaries of companies of the New York-listed Full Truck Alliance and Boss Zhipin.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House reaching out with assistance to latest ransomware victims<a href="https://www.reuters.com/technology/it-firm-kaseya-hires-fireeye-help-deal-with-ransomware-outbreak-2021-07-04/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior White House cyber official, Anne Neuberger, said in a statement that the FBI and the CISA "will reach out to identified victims to provide assistance based upon an assessment of national risk."
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investigation links DDoS attack on Filipino media outlets to government agencies<a href="https://therecord.media/investigation-links-ddos-attack-on-filipino-media-outlets-to-government-agencies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Swedish digital rights nonprofit said on Thursday that it has observed a targeted campaign of DDoS attacks that appear to be linked to the Department of Science and Technology (DOST) and Army.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Node.js malware puzzles security researchers<a href="https://therecord.media/mysterious-node-js-malware-puzzles-security-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware was first spotted in February 2021, being installed as a second-stage payload via GCleaner, a shady software maker that has been seen renting access to users’ devices to malware groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
