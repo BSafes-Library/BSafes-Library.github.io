@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang demanded $70M for universal decryptor for Kaseya victims<a href="https://securityaffairs.co/wordpress/119709/cyber-crime/revil-ransomware-kaseya-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware is demanding $70 million for decrypting all systems locked during the Kaseya supply-chain ransomware attack. 
+
+
+
+REvil ransomware is asking $70 million worth of Bitcoin for decrypting all systems impacted in the Kaseya supply-chain ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

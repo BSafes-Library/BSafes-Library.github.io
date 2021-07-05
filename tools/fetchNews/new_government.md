@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After crackdown on Didi, China opens cybersecurity probes into 3 more tech firms<a href="https://www.cnbc.com/2021/07/05/china-opens-cybersecurity-probe-into-full-truck-alliance-boss-zhipin.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China (CAC) has opened a cybersecurity review into Yunmanman and Huochebang, subsidiaries of companies of the New York-listed Full Truck Alliance and Boss Zhipin.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House reaching out with assistance to latest ransomware victims<a href="https://www.reuters.com/technology/it-firm-kaseya-hires-fireeye-help-deal-with-ransomware-outbreak-2021-07-04/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior White House cyber official, Anne Neuberger, said in a statement that the FBI and the CISA "will reach out to identified victims to provide assistance based upon an assessment of national risk."
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

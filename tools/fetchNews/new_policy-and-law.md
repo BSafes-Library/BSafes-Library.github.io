@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How U.S. cyber policy changed after SolarWinds<a href="https://www.cbsnews.com/news/solarwinds-60-minutes-2021-07-04/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden Administration imposed sanctions on Russia, ordered new cybersecurity standards for federal contracts with software companies, and chose the nation's first National Cyber Director.
+</details>
+<div style="text-align: right" markdown="1">
+CBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investigation links DDoS attack on Filipino media outlets to government agencies<a href="https://therecord.media/investigation-links-ddos-attack-on-filipino-media-outlets-to-government-agencies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Swedish digital rights nonprofit said on Thursday that it has observed a targeted campaign of DDoS attacks that appear to be linked to the Department of Science and Technology (DOST) and Army.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

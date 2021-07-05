@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden: 'Initial thinking' recent ransomware attack not by Russian government<a href="https://thehill.com//policy/cybersecurity/561491-biden-initial-thinking-recent-ransomware-attack-not-russian-government"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden said Saturday that the “initial thinking” is that the Russian government is not behind a ransomware attack that targeted a tool provided by Miami-based IT software management company Kaseya.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
