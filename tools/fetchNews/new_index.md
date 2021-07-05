@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2021
+July 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil is increasing ransoms for Kaseya ransomware attack victims<a href="https://www.bleepingcomputer.com/news/security/revil-is-increasing-ransoms-for-kaseya-ransomware-attack-victims/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2021
+July 04, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers zero in on Tokyo Olympics<a href="https://thehill.com//policy/cybersecurity/561434-hackers-zero-in-on-tokyo-olympics"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2021
+July 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil gang exploited a zero-day in the Kaseya supply chain attack<a href="https://securityaffairs.co/wordpress/119688/cyber-crime/kaseya-zero-day-revil.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2021
+July 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya to meet Monday to determine fate of SaaS VSA tool<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-to-meet-monday-to-determine-fate-of-saas-vsa-tool/"> Full Text</a>
@@ -102,7 +102,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2021
+July 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya was fixing zero-day just as REvil ransomware sprung their attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-was-fixing-zero-day-just-as-revil-ransomware-sprung-their-attack/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2021
+July 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers spread backdoor after compromising the Mongolian CA MonPass<a href="https://securityaffairs.co/wordpress/119677/malware/mongolian-ca-monpass-hack.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2021
+July 4, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya announces breach detection tool in VSA ransomware fight<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-announces-breach-detection-tool-in-vsa-fight/"> Full Text</a>
@@ -154,7 +154,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2021
+July 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 321<a href="https://securityaffairs.co/wordpress/119674/breaking-news/security-affairs-newsletter-round-321.html"> Full Text</a>
@@ -178,7 +178,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2021
+July 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coop supermarket closes hundreds of stores after Kaseya supply chain ransomware attack<a href="https://securityaffairs.co/wordpress/119663/cyber-crime/coop-supermarket-kaseya-ransomware-attack.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden: 'Initial thinking' recent ransomware attack not by Russian government<a href="https://thehill.com//policy/cybersecurity/561491-biden-initial-thinking-recent-ransomware-attack-not-russian-government"> Full Text</a>
@@ -214,7 +214,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2021
+July 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 2nd 2021 - MSPs under attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-2nd-2021-msps-under-attack/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Turn off your heart’: Kaseya VSA ransomware hits MSPs in a vital organ<a href="https://www.scmagazine.com/home/security-news/ransomware/turn-off-your-heart-kaseya-vsa-ransomware-hits-msps-in-a-vital-organ/"> Full Text</a>
@@ -246,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya VSA supply-chain ransomware attack hit hundreds of companies<a href="https://securityaffairs.co/wordpress/119650/cyber-crime/kaseya-vsa-supply-chain-ransomware-attack.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2021
+July 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya VSA criminals may have ‘weaponized’ links in ransom negotiations<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-vsa-criminals-may-have-weaponized-links-in-ransom-negotiations/"> Full Text</a>
