@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Arrests Moroccan Hacker Engaged in Nefarious Cyber Activities<a href="https://thehackernews.com/2021/07/interpol-arrests-hacker-in-morocco-who.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities with the Interpol have apprehended a threat actor responsible for targeting thousands of unwitting victims over several years and staging malware attacks on telecom companies, major banks, and multinational corporations in France as part of a global phishing and credit card fraud scheme.  The two-year investigation, dubbed&nbsp; Operation Lyrebird &nbsp;by the international, intergovernmental organization, resulted in the arrest of a Moroccan citizen nicknamed Dr HeX, cybersecurity firm Group-IB disclosed today in a report shared with The Hacker News.   Dr HeX is said to have been "active since at least 2009 and is responsible for a number of cybercrimes, including phishing, defacing, malware development, fraud, and carding that resulted in thousands of unsuspecting victims," the cybersecurity firm said .  The cyber attacks involved deploying a phishing kit consisting of web pages that spoofed banking entities in the country, followed by sending mass emails
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Lyrebird: Group-IB assists INTERPOL in identifying suspect behind numerous cybercrimes worldwide<a href="https://securityaffairs.co/wordpress/119756/cyber-crime/operation-lyrebird.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB supported INTERPOL in&nbsp;its&nbsp;Operation Lyrebird that allowed to identify a&nbsp;threat actor presumably responsible for multiple attacks.
+
+
+
+Group-IB, one of&nbsp;the leading providers of&nbsp;solutions dedicated to&nbsp;detecting and preventing cyberattacks,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moroccan hacker Dr HeX arrested for phishing attacks, malware distribution<a href="https://therecord.media/moroccan-hacker-dr-hex-arrested-for-phishing-attacks-malware-distribution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moroccan authorities arrested a hacker known as “Dr HeX” for allegedly conducting website defacement, phishing attacks, and malware distribution over 12 years, Interpol announced.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

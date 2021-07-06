@@ -8,6 +8,36 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol Ransomware’s Connection with Wizard Spider Revealed<a href="https://cyware.com/news/diavol-ransomwares-connection-with-wizard-spider-revealed-b718ce77"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Lab associated Diavol ransomware with the Russian Wizard Spider threat actor. Experts revealed noticing  Diavol and Conti payloads being used in ransomware attacks targeting different systems in early June. The connection of ransomware to already established cybercrime groups shows how  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Creating Their Own Websites to Promote Their Businesses<a href="https://cyware.com/news/ransomware-gangs-creating-their-own-websites-to-promote-their-businesses-3a2668c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware gangs Himalaya and LockBit were found promoting encryption tools on their own site after the recent ban of ransomware ads on well-known Russian-speaking cybercrime forums. To attract affiliates, the LockBit developers claim to offer the fastest encryption and file-stealing (StealBit) ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

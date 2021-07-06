@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya plans to bring SaaS servers back online Tuesday, with patch then expected within a day<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-plans-to-bring-saas-servers-back-online-tuesday-with-patch-expected-within-a-day-later/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A patch for on-premises customers of the VSA product that was the source of a widespread ransomware attack since Friday is currently going through testing and validation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

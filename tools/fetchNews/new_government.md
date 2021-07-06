@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA publishes Cybersecurity guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA publishes Cybersecurity guide for SMEs, a document that aims at providing suggestions to secure their business
+
+
+
+During the COVID-19 pandemic, most of organizations increased their presence online, enlarging their surface of attacks. The surface...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan to bolster national cybersecurity defence with 800 new hires: Report<a href="https://www.zdnet.com/article/japan-to-bolster-national-cybersecurity-defence-with-800-new-hires-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's Ministry of Defense has announced plans to bolster its cybersecurity unit by bringing on additional personnel to help defend against increasingly sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

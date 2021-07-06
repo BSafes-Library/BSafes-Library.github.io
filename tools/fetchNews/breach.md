@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack may have exposed information on over 16,000 workers, state says<a href="https://www.thenewstribune.com/news/state/washington/article252532918.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pacific Market Research (PMR) “recently notified” the Washington state Department of Labor and Industries, one of its clients, about the May 22 attack, according to a Thursday L&amp;I news release.
+</details>
+<div style="text-align: right" markdown="1">
+The News Tribune
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

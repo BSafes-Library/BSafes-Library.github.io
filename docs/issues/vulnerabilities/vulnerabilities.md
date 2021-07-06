@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WAF bypass: ‘Severe’ OWASP ModSecurity Core Rule Set bug was present for several years<a href="https://portswigger.net/daily-swig/waf-bypass-severe-owasp-modsecurity-core-rule-set-bug-was-present-for-several-years?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the OWASP ModSecurity Core Rule Set (CRS) project that could allow attackers to bypass security mechanisms was present for several years, the maintainers have admitted.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab triages bug bounty-reported flaws with latest release<a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has resolved a raft of vulnerabilities, including two high-impact web security flaws – a CSRF vulnerability and a DoS vulnerability, with an update to its software development platform.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP addressed a critical flaw that allows compromising NAS devices<a href="https://securityaffairs.co/wordpress/119750/hacking/qnap-nas-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP addressed a critical flaw, tracked as&nbsp;CVE-2021-28809, that could be exploited to compromise vulnerable NAS devices.
+
+
+
+Taiwanese vendor QNAP fixed a critical vulnerability, tracked as CVE-2021-28809, that could be exploited by attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

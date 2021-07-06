@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Union Agency for Cybersecurity Publishes Cybersecurity Guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ENISA published a guide to provide SMEs with practical 12 high-level recommendations on how to improve the security of their infrastructure and their business processes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The mismanaging of secrets costs Organizations $1.2M per year<a href="https://heimdalsecurity.com/blog/leaked-infrastructure-secrets-costs-companies-an-average-of-1-2-million-in-revenue-annually/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a 1Password survey, for 10% of respondents who experienced secret leakage, their company lost more than $5 million. Over 60% of participants stated they had dealt with important data leakage.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber insurance failing to live up to expectations<a href="https://www.helpnetsecurity.com/2021/07/06/cyber-insurance-expectations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has become an existential threat for some insurers. At a time of mounting losses and rising public criticism, a RUSI paper argues for a reset in the cyber insurance industry.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

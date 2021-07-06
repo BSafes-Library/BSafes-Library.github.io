@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Formula 1 Mobile Push Notification Service to Send Unexpected Notifications to Users<a href="https://www.theregister.com/2021/07/05/f1_notification_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world of Formula 1 racing was livened up over the weekend as the sport's official app sent out some unexpected notifications to its mobile app users on the eve of the Austrian Grand Prix.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

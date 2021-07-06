@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya: Roughly 1,500 businesses hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-roughly-1-500-businesses-hit-by-revil-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WAF bypass: ‘Severe’ OWASP ModSecurity Core Rule Set bug was present for several years<a href="https://portswigger.net/daily-swig/waf-bypass-severe-owasp-modsecurity-core-rule-set-bug-was-present-for-several-years?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Arrests Moroccan Hacker Engaged in Nefarious Cyber Activities<a href="https://thehackernews.com/2021/07/interpol-arrests-hacker-in-morocco-who.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Approximatively 1,500 businesses impacted by the ransomware attack that hit Kaseya<a href="https://securityaffairs.co/wordpress/119759/cyber-crime/kaseya-attack-impacted-1500-businesses.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya plans to bring SaaS servers back online Tuesday, with patch then expected within a day<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-plans-to-bring-saas-servers-back-online-tuesday-with-patch-expected-within-a-day-later/"> Full Text</a>
@@ -118,7 +118,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Union Agency for Cybersecurity Publishes Cybersecurity Guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Rules Out Supply-Chain Attack; Says VSA 0-Day Hit Its Customers Directly<a href="https://thehackernews.com/2021/07/kaseya-rules-out-supply-chain-attack.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Lyrebird: Group-IB assists INTERPOL in identifying suspect behind numerous cybercrimes worldwide<a href="https://securityaffairs.co/wordpress/119756/cyber-crime/operation-lyrebird.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab triages bug bounty-reported flaws with latest release<a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP addressed a critical flaw that allows compromising NAS devices<a href="https://securityaffairs.co/wordpress/119750/hacking/qnap-nas-critical-flaw.html"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moroccan hacker Dr HeX arrested for phishing attacks, malware distribution<a href="https://therecord.media/moroccan-hacker-dr-hex-arrested-for-phishing-attacks-malware-distribution/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ENISA publishes Cybersecurity guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Counts Up to 1,500 Businesses Affected by Ransomware Attack<a href="https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Formula 1 Mobile Push Notification Service to Send Unexpected Notifications to Users<a href="https://www.theregister.com/2021/07/05/f1_notification_attack/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The mismanaging of secrets costs Organizations $1.2M per year<a href="https://heimdalsecurity.com/blog/leaked-infrastructure-secrets-costs-companies-an-average-of-1-2-million-in-revenue-annually/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan to bolster national cybersecurity defence with 800 new hires: Report<a href="https://www.zdnet.com/article/japan-to-bolster-national-cybersecurity-defence-with-800-new-hires-report/?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber insurance failing to live up to expectations<a href="https://www.helpnetsecurity.com/2021/07/06/cyber-insurance-expectations/?&web_view=true"> Full Text</a>
