@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware asks $70 million to decrypt all Kaseya attack victims<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-asks-70-million-to-decrypt-all-kaseya-attack-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware has set a price for decrypting all systems locked during the Kaseya supply-chain attack. The gang wants $70 million in Bitcoin for the tool that allows all affected businesses to recover their files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revil ransomware gang hit Spanish telecom giant MasMovil<a href="https://securityaffairs.co/wordpress/119719/cyber-crime/masmovil-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Revil ransomware gang hit Spanish telecom giant MasMovil and claims to have stolen sensitive data from the group.
+
+
+
+MasMovil is one of the largest Spanish telecom operators, last week the group was hit by the REvil ransomware gang that claims to have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2021 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

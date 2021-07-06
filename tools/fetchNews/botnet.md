@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Botnet Found Deploying A New Ransomware Called Diavol<a href="https://thehackernews.com/2021/07/trickbot-botnet-found-deploying-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the infamous&nbsp; TrickBot &nbsp;malware have been linked to a new ransomware strain named "Diavol," according to the latest research.  Diavol and Conti ransomware payloads were deployed on different systems in a case of an unsuccessful attack targeting one of its customers earlier this month, researchers from Fortinet's FortiGuard Labs said last week.  TrickBot, a banking Trojan first detected in 2016, has been traditionally a Windows-based crimeware solution, employing different modules to perform a wide range of malicious activities on target networks, including credential theft and conduct ransomware attacks.&nbsp;   Despite efforts by law enforcement to neutralize the bot network, the ever-evolving malware has proven to be a&nbsp; resilient threat , what with the Russia-based operators — dubbed " Wizard Spider " — quickly adapting new tools to carry out further attacks.   Diavol is said to have been deployed in the wild in one incident to date. The sourc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

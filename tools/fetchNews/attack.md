@@ -8,6 +8,39 @@ nav_order: 900015
 
 ## Attack
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil’s New Supply Chain Attack Takes Down 1,000s of Businesses<a href="https://cyware.com/news/revils-new-supply-chain-attack-takes-down-1000s-of-businesses-839c9f7e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack by REvil group paralyzed the networks of thousands of companies from the U.S. to Sweden. Hackers&nbsp;exploited Kaseya's systems management platform called VSA. The gang has allegedly demanded millions in ransom to restore the data. Organizations are suggested to implement adequ ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US water company WSSC Water hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/119700/cyber-crime/wssc-water-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US water company WSSC Water is investigating a&nbsp;ransomware&nbsp;attack that affected non-essential business systems in May.
+
+
+
+WSSC Water is investigating a ransomware attack that took place on May 24 and that targeted a portion of their network that operates...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

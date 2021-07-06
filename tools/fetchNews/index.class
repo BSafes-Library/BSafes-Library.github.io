@@ -34,6 +34,205 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes critical bug in NAS backup, disaster recovery app<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-bug-in-nas-backup-disaster-recovery-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) maker QNAP has addressed a critical security vulnerability enabling attackers to compromise vulnerable NAS devices' security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol Ransomware’s Connection with Wizard Spider Revealed<a href="https://cyware.com/news/diavol-ransomwares-connection-with-wizard-spider-revealed-b718ce77"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Lab associated Diavol ransomware with the Russian Wizard Spider threat actor. Experts revealed noticing  Diavol and Conti payloads being used in ransomware attacks targeting different systems in early June. The connection of ransomware to already established cybercrime groups shows how  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Kaseya Ransomware Attack is a Really Big Deal<a href="https://www.lawfareblog.com/kaseya-ransomware-attack-really-big-deal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you’re not already paying attention to the Kaseya ransomware incident, you should be.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI share guidance for MSPs and their customers impacted in Kaseya attack<a href="https://securityaffairs.co/wordpress/119728/cyber-crime/cisa-fbi-guidance-kaseya-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the FBI published guidance for the victims impacted by the REvil supply-chain ransomware attack against Kaseya.
+
+
+
+CISA and the Federal Bureau of Investigation (FBI) have published guidance for the organizations impacted by the massive REvil supply-chain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya won’t release on-prem patch before SaaS restoration starts<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-wont-release-on-prem-patch-before-saas-restoration-starts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kaseya board determined the company was not ready to begin the rollout of restoration of its software-as-a-service VSA remote monitoring and management tool following the ransomware incident. That decision appears to delay the release of a patch for on-premises clients.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Attack Fallout: CISA, FBI Offer Guidance<a href="https://threatpost.com/kaseya-attack-fallout/167541/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following a brazen ransomware attack by the REvil cybergang, CISA and FBI offer guidance to victims.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI share guidance for victims of Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/cisa-fbi-share-guidance-for-victims-of-kaseya-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the Federal Bureau of Investigation (FBI) have shared guidance for managed service providers (MSPs) and their customers impacted by the REvil supply-chain ransomware attack that hit the systems of Kaseya's cloud-based MSP platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes Clusters Exploited to Perform Brute Force Attacks<a href="https://cyware.com/news/kubernetes-clusters-exploited-to-perform-brute-force-attacks-e7c3d536"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and U.K cybersecurity agencies jointly published an alert on a series of large-scale brute-force attacks sponsored by the Russia-linked APT28 group. Users are recommended to change all default credentials and use appropriate network segmentation, restrictions, and automated tools for auditing  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin cyber attacks surge following rising demand and increasing price of bitcoin<a href="https://www.helpnetsecurity.com/2021/07/05/bitcoin-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing impersonations and business email compromise (BEC) attacks designed to steal victims’ bitcoin surged by 192% between October 2020 and May 2021, according to analysis by Barracuda Networks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack may have exposed information on over 16,000 workers, state says<a href="https://www.thenewstribune.com/news/state/washington/article252532918.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pacific Market Research (PMR) “recently notified” the Washington state Department of Labor and Industries, one of its clients, about the May 22 attack, according to a Thursday L&I news release.
+</details>
+<div style="text-align: right" markdown="1">
+The News Tribune
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Water Company WSSC Water Suffers Ransomware Attack<a href="https://securityaffairs.co/wordpress/119700/cyber-crime/wssc-water-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland-based WSSC Water is investigating a ransomware attack that took place on May 24 and that targeted a portion of their network that operates non-essential business systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Creating Their Own Websites to Promote Their Businesses<a href="https://cyware.com/news/ransomware-gangs-creating-their-own-websites-to-promote-their-businesses-3a2668c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware gangs Himalaya and LockBit were found promoting encryption tools on their own site after the recent ban of ransomware ads on well-known Russian-speaking cybercrime forums. To attract affiliates, the LockBit developers claim to offer the fastest encryption and file-stealing (StealBit) ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

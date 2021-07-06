@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin cyber attacks surge following rising demand and increasing price of bitcoin<a href="https://www.helpnetsecurity.com/2021/07/05/bitcoin-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing impersonations and business email compromise (BEC) attacks designed to steal victims’ bitcoin surged by 192% between October 2020 and May 2021, according to analysis by Barracuda Networks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Getting Started with Security Testing: A Practical Guide for Startups<a href="https://thehackernews.com/2021/07/getting-started-with-security-testing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A common misconception among startup founders is that cybercriminals won't waste time on them, because they're not big or well known enough yet.  But just because you are small doesn't mean&nbsp; you're not in the firing line . The size of a startup does not exempt it from cyber-attacks – that's because hackers constantly scan the internet looking for flaws that they can exploit; one slip up, and your business can become front-page news, for the wrong reasons.  Fortunately, buyers are also becoming increasingly aware of the importance of cybersecurity and are commonly asking startups about the processes they use to secure their data - meaning cybersecurity is now becoming an important business enabler.  So if you're a CTO thinking about ramping up your web or mobile apps' cybersecurity posture, then you are already on the right track, but with so many options, where should you start?  To help you get going, we created this guide that covers the following crucial
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -33,6 +33,7 @@ Alerts:
 . https://thehackernews.com/2021/07/nsa-fbi-reveal-hacking-methods-used-by.html
 . https://securityaffairs.co/wordpress/119605/security/cisa-alert-printnightmare.html
 . https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&web_view=true
+. https://securityaffairs.co/wordpress/119728/cyber-crime/cisa-fbi-guidance-kaseya-attack.html
 
 Law:
 

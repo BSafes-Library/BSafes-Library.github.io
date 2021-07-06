@@ -11,6 +11,49 @@ nav_order: 900015
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Kaseya Ransomware Attack is a Really Big Deal<a href="https://www.lawfareblog.com/kaseya-ransomware-attack-really-big-deal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you’re not already paying attention to the Kaseya ransomware incident, you should be.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Attack Fallout: CISA, FBI Offer Guidance<a href="https://threatpost.com/kaseya-attack-fallout/167541/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following a brazen ransomware attack by the REvil cybergang, CISA and FBI offer guidance to victims.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes Clusters Exploited to Perform Brute Force Attacks<a href="https://cyware.com/news/kubernetes-clusters-exploited-to-perform-brute-force-attacks-e7c3d536"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and U.K cybersecurity agencies jointly published an alert on a series of large-scale brute-force attacks sponsored by the Russia-linked APT28 group. Users are recommended to change all default credentials and use appropriate network segmentation, restrictions, and automated tools for auditing  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 REvil’s New Supply Chain Attack Takes Down 1,000s of Businesses<a href="https://cyware.com/news/revils-new-supply-chain-attack-takes-down-1000s-of-businesses-839c9f7e"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya won’t release on-prem patch before SaaS restoration starts<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-wont-release-on-prem-patch-before-saas-restoration-starts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kaseya board determined the company was not ready to begin the rollout of restoration of its software-as-a-service VSA remote monitoring and management tool following the ransomware incident. That decision appears to delay the release of a patch for on-premises clients.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

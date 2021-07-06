@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish Supermarket Chain Coop Forced to Close 800 Stores Following Kaseya Ransomware Attack<a href="https://therecord.media/supermarket-chain-coop-closes-800-stores-following-kaseya-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coop, a Swedish supermarket store chain, shut down nearly 800 stores across the country after one of its contractors was hit by ransomware in the aftermath of the Kaseya security incident on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

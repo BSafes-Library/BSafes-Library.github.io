@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI share guidance for victims of Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/cisa-fbi-share-guidance-for-victims-of-kaseya-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the Federal Bureau of Investigation (FBI) have shared guidance for managed service providers (MSPs) and their customers impacted by the REvil&nbsp;supply-chain ransomware attack that hit the systems of Kaseya's&nbsp;cloud-based MSP platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
