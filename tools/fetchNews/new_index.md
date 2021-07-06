@@ -34,6 +34,294 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya: Roughly 1,500 businesses hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-roughly-1-500-businesses-hit-by-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya says the REvil supply-chain ransomware attack breached the systems of roughly 60 of its direct customers using the company's VSA on-premises product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WAF bypass: ‘Severe’ OWASP ModSecurity Core Rule Set bug was present for several years<a href="https://portswigger.net/daily-swig/waf-bypass-severe-owasp-modsecurity-core-rule-set-bug-was-present-for-several-years?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the OWASP ModSecurity Core Rule Set (CRS) project that could allow attackers to bypass security mechanisms was present for several years, the maintainers have admitted.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Arrests Moroccan Hacker Engaged in Nefarious Cyber Activities<a href="https://thehackernews.com/2021/07/interpol-arrests-hacker-in-morocco-who.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities with the Interpol have apprehended a threat actor responsible for targeting thousands of unwitting victims over several years and staging malware attacks on telecom companies, major banks, and multinational corporations in France as part of a global phishing and credit card fraud scheme.  The two-year investigation, dubbed  Operation Lyrebird  by the international, intergovernmental organization, resulted in the arrest of a Moroccan citizen nicknamed Dr HeX, cybersecurity firm Group-IB disclosed today in a report shared with The Hacker News.   Dr HeX is said to have been "active since at least 2009 and is responsible for a number of cybercrimes, including phishing, defacing, malware development, fraud, and carding that resulted in thousands of unsuspecting victims," the cybersecurity firm said .  The cyber attacks involved deploying a phishing kit consisting of web pages that spoofed banking entities in the country, followed by sending mass emails
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Approximatively 1,500 businesses impacted by the ransomware attack that hit Kaseya<a href="https://securityaffairs.co/wordpress/119759/cyber-crime/kaseya-attack-impacted-1500-businesses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya confirmed that the REvil supply-chain ransomware attack hit fewer than 60 of its customers and their customers.
+
+
+
+Software provider Kaseya announced that fewer than 60 of its customers and less than 1,500 businesses have been impacted by the...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya plans to bring SaaS servers back online Tuesday, with patch then expected within a day<a href="https://www.scmagazine.com/home/security-news/ransomware/kaseya-plans-to-bring-saas-servers-back-online-tuesday-with-patch-expected-within-a-day-later/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A patch for on-premises customers of the VSA product that was the source of a widespread ransomware attack since Friday is currently going through testing and validation.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Union Agency for Cybersecurity Publishes Cybersecurity Guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ENISA published a guide to provide SMEs with practical 12 high-level recommendations on how to improve the security of their infrastructure and their business processes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Rules Out Supply-Chain Attack; Says VSA 0-Day Hit Its Customers Directly<a href="https://thehackernews.com/2021/07/kaseya-rules-out-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. technology firm Kaseya, which is firefighting the largest ever  supply-chain ransomware strike  on its VSA on-premises product, ruled out the possibility that its codebase was unauthorizedly tampered with to distribute malware.  While initial reports raised speculations that the ransomware gang might have gained access to Kaseya's backend infrastructure and abused it to deploy a malicious update to VSA servers running on client premises, in a modus operandi similar to that of the devastating SolarWinds hack, it has since emerged that a never-before-seen security vulnerability ( CVE-2021-30116 ) in the software was leveraged to push ransomware to Kaseya's customers.   "The attackers were able to exploit zero-day vulnerabilities in the VSA product to bypass authentication and run arbitrary command execution," the Miami-headquartered company  noted  in the incident analysis. "This allowed the attackers to leverage the standard VSA product functionality to depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Lyrebird: Group-IB assists INTERPOL in identifying suspect behind numerous cybercrimes worldwide<a href="https://securityaffairs.co/wordpress/119756/cyber-crime/operation-lyrebird.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB supported INTERPOL in its Operation Lyrebird that allowed to identify a threat actor presumably responsible for multiple attacks.
+
+
+
+Group-IB, one of the leading providers of solutions dedicated to detecting and preventing cyberattacks,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab triages bug bounty-reported flaws with latest release<a href="https://portswigger.net/daily-swig/gitlab-triages-bug-bounty-reported-flaws-with-latest-release?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has resolved a raft of vulnerabilities, including two high-impact web security flaws – a CSRF vulnerability and a DoS vulnerability, with an update to its software development platform.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP addressed a critical flaw that allows compromising NAS devices<a href="https://securityaffairs.co/wordpress/119750/hacking/qnap-nas-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP addressed a critical flaw, tracked as CVE-2021-28809, that could be exploited to compromise vulnerable NAS devices.
+
+
+
+Taiwanese vendor QNAP fixed a critical vulnerability, tracked as CVE-2021-28809, that could be exploited by attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moroccan hacker Dr HeX arrested for phishing attacks, malware distribution<a href="https://therecord.media/moroccan-hacker-dr-hex-arrested-for-phishing-attacks-malware-distribution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moroccan authorities arrested a hacker known as “Dr HeX” for allegedly conducting website defacement, phishing attacks, and malware distribution over 12 years, Interpol announced.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA publishes Cybersecurity guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA publishes Cybersecurity guide for SMEs, a document that aims at providing suggestions to secure their business
+
+
+
+During the COVID-19 pandemic, most of organizations increased their presence online, enlarging their surface of attacks. The surface...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Counts Up to 1,500 Businesses Affected by Ransomware Attack<a href="https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between 800 and 1,500 businesses around the world have been affected by a ransomware attack centered on U.S. information technology firm Kaseya, its chief executive said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Formula 1 Mobile Push Notification Service to Send Unexpected Notifications to Users<a href="https://www.theregister.com/2021/07/05/f1_notification_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world of Formula 1 racing was livened up over the weekend as the sport's official app sent out some unexpected notifications to its mobile app users on the eve of the Austrian Grand Prix.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The mismanaging of secrets costs Organizations $1.2M per year<a href="https://heimdalsecurity.com/blog/leaked-infrastructure-secrets-costs-companies-an-average-of-1-2-million-in-revenue-annually/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per a 1Password survey, for 10% of respondents who experienced secret leakage, their company lost more than $5 million. Over 60% of participants stated they had dealt with important data leakage.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan to bolster national cybersecurity defence with 800 new hires: Report<a href="https://www.zdnet.com/article/japan-to-bolster-national-cybersecurity-defence-with-800-new-hires-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's Ministry of Defense has announced plans to bolster its cybersecurity unit by bringing on additional personnel to help defend against increasingly sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber insurance failing to live up to expectations<a href="https://www.helpnetsecurity.com/2021/07/06/cyber-insurance-expectations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has become an existential threat for some insurers. At a time of mounting losses and rising public criticism, a RUSI paper argues for a reset in the cyber insurance industry.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
