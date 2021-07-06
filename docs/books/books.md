@@ -33,6 +33,7 @@ nav_order: 400
 * [NESCOR Guide to Penetration Testing for Electric Utilities, by National Electric Sector Cybersecurity Organization Resource (NESCOR)](https://papers.bsafes.com/docs/infrastructure/nescor-guide-to-penetration-testing-for-electric-utilities/#abstract)
 * [PREVALENCE OF CYBERBULLYING AMONG TRADITIONAL UNDERGRADUATE STUDENTS ATTENDING FAITH-BASED UNIVERSITIES: A CAUSAL-COMPARATIVE STUDY, by Susan A. Hayes-McElroy](https://papers.bsafes.com/docs/internet/prevalence-of-cyberbullying-among-traditional-undergraduate-students-attending-faith-based-universities-a-causal-comparative-study/)
 * [RIGHTS OF MAN, By Thomas Paine](https://book-rights-of-man.bsafes.com)
+* [Social Media User Relationship Framework (SMURF)](https://papers.bsafes.com/docs/social-media/social-media-user-relationship-framework/)
 * [Social Media Awareness: The Impact of Social Media on Mental Health](https://papers.bsafes.com/docs/social-media/social-media-awareness-the-impact-of-social-media-on-mental-health/)
 * [The Bumble Bill: A Critical Analysis on Texas’s New Law Taking Indecent Exposure Regulations Online](https://papers.bsafes.com/docs/law/the-bumble-bill-a-critical-analysis-on-texass-new-law-taking-indecent-exposure-regulations-online/)
 * [The Red Swimsuit: Essays](https://papers.bsafes.com/docs/women/the-red-swimsuit-essays/)

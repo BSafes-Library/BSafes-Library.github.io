@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2021
+July 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes critical bug in NAS backup, disaster recovery app<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-bug-in-nas-backup-disaster-recovery-app/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diavol Ransomware’s Connection with Wizard Spider Revealed<a href="https://cyware.com/news/diavol-ransomwares-connection-with-wizard-spider-revealed-b718ce77"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Kaseya Ransomware Attack is a Really Big Deal<a href="https://www.lawfareblog.com/kaseya-ransomware-attack-really-big-deal"> Full Text</a>
@@ -83,7 +83,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI share guidance for MSPs and their customers impacted in Kaseya attack<a href="https://securityaffairs.co/wordpress/119728/cyber-crime/cisa-fbi-guidance-kaseya-attack.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya won’t release on-prem patch before SaaS restoration starts<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-wont-release-on-prem-patch-before-saas-restoration-starts/"> Full Text</a>
@@ -119,7 +119,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Attack Fallout: CISA, FBI Offer Guidance<a href="https://threatpost.com/kaseya-attack-fallout/167541/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 05, 2021
+July 05, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI share guidance for victims of Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/cisa-fbi-share-guidance-for-victims-of-kaseya-ransomware-attack/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes Clusters Exploited to Perform Brute Force Attacks<a href="https://cyware.com/news/kubernetes-clusters-exploited-to-perform-brute-force-attacks-e7c3d536"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin cyber attacks surge following rising demand and increasing price of bitcoin<a href="https://www.helpnetsecurity.com/2021/07/05/bitcoin-cyber-attacks/?&web_view=true"> Full Text</a>
@@ -184,7 +184,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack may have exposed information on over 16,000 workers, state says<a href="https://www.thenewstribune.com/news/state/washington/article252532918.html?&web_view=true"> Full Text</a>
@@ -200,7 +200,7 @@ The News Tribune
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Water Company WSSC Water Suffers Ransomware Attack<a href="https://securityaffairs.co/wordpress/119700/cyber-crime/wssc-water-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -216,7 +216,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2021
+July 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gangs Creating Their Own Websites to Promote Their Businesses<a href="https://cyware.com/news/ransomware-gangs-creating-their-own-websites-to-promote-their-businesses-3a2668c0"> Full Text</a>

@@ -390,6 +390,18 @@ A rule of thumb is to strike while the iron is hot; for cybercriminals, that iro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Social Media User Relationship Framework (SMURF) [HTML](https://papers.bsafes.com/docs/social-media/social-media-user-relationship-framework/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of social media has spread through many aspects of society, allowing millions of individuals, corporate as well as government entities to leverage the opportunities it affords. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 3, 2021
 {: .fs-4 .fw-700 .lh-0  }  
 <p style="font-weight:500; margin:0px" markdown="1">
