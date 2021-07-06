@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 to let SecOps lock hacked Active Directory accounts<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-to-let-secops-lock-hacked-active-directory-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is updating Microsoft Defender for Identity to allow security operations (SecOps) teams to block attacks by locking a compromised user's Active Directory account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Up to 1,500 companies compromised by ransomware attack on Kaseya<a href="https://thehill.com//policy/cybersecurity/561670-up-to-1500-companies-compromised-by-ransomware-attack-on-kaseya"> Full Text</a>
 </p>
 <details>
