@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers reportedly lower ransom demand to restore data to $50M<a href="https://thehill.com//policy/cybersecurity/561657-hackers-lower-ransom-demand-to-restore-data-to-50m"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked ransomware gang known as REvil has reportedly lowered the amount of money it is willing to accept in exchange for data belonging to hundreds of companies worldwide that it is holding hostage.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
