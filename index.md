@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SonicWall addresses critical CVE-2021-20026 flaw in NSM devices<a href="https://securityaffairs.co/wordpress/119767/security/sonicwall-fixes-cve-2021-20026-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Positive Technologies experts provide details about potential impact of a recently fixes command injection flaw in SonicWall NSM devices.
+
+
+
+Positive Technologies researcher Nikita Abramov has provided details about the CVE-2021-20026 command injection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dominion National reaches $2M settlement over nine-year data breach<a href="https://www.scmagazine.com/home/health-care/dominion-national-reaches-2m-settlement-over-nine-year-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dominion National reached a settlement with the 2.9 million patients impacted by a data breach that went undetected for nine years and was reported in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Western Digital Users Face Another RCE<a href="https://threatpost.com/rce-0-day-western-digital-users/167547/"> Full Text</a>
 </p>
 <details>
