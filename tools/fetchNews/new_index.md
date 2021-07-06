@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 06, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Up to 1,500 companies compromised by ransomware attack on Kaseya<a href="https://thehill.com//policy/cybersecurity/561670-up-to-1500-companies-compromised-by-ransomware-attack-on-kaseya"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 1,500 companies around the world were potentially compromised by a ransomware attack late last week on software company Kaseya, the group acknowledged on Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers reportedly lower ransom demand to restore data to $50M<a href="https://thehill.com//policy/cybersecurity/561657-hackers-lower-ransom-demand-to-restore-data-to-50m"> Full Text</a>
 </p>
 <details>
