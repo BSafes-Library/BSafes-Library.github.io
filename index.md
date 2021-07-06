@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Patches Imminent After Zero-Day Exploits, 1,500 Impacted<a href="https://threatpost.com/kaseya-patches-zero-day-exploits/167548/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware gang lowers price for universal decryptor after massive worldwide ransomware push against Kaseya security vulnerability CVE-2021-30116.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 WEC: No data compromised in ransomware attack<a href="https://www.wtvy.com/2021/07/04/wec-no-data-compromised-ransomware-attack/?&web_view=true"> Full Text</a>
 </p>
 <details>
