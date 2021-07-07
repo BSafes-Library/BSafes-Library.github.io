@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Could Appeal Assange Extradition Refusal<a href="https://www.infosecurity-magazine.com:443/news/us-could-appeal-assange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK court grants United States permission to appeal decision not to extradite WikiLeaks founder Julian Assange
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency ‘PrintNightmare’ patch said to fix RCEs, but not privilege escalation on Windows servers<a href="https://www.scmagazine.com/home/patch-management/emergency-printnightmare-patch-said-to-fix-rces-but-not-privilege-escalation-on-windows-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Failure to patch could lead to what one researcher described as “a catastrophic security incident such as data theft, financial fraud, or ransomware.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
