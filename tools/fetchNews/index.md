@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+MacOS Targeted in WildPressure APT Malware Campaign<a href="https://threatpost.com/macos-wildpressure-apt/167606/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors enlist compromised WordPress websites in campaign targeting macOS users. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky Password Manager caught out making easily bruteforced passwords<a href="https://www.zdnet.com/article/kaspersky-password-manager-caught-out-making-easily-bruteforced-passwords/?&web_view=true"> Full Text</a>
 </p>
 <details>
