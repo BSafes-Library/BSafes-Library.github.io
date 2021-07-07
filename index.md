@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Huawei hires three new lobbying firms<a href="https://thehill.com//business-a-lobbying/561979-huawei-hires-three-new-lobbying-firms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Embattled Chinese telecom Huawei recently hired three new lobbying firms, according to disclosure reports filed with Congress.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Trump files lawsuit against Facebook, Twitter, and Google | New cyberattacks ramp up tensions with Russia | 36 states, DC sue Google alleging antitrust violations in app store<a href="https://thehill.com//policy/technology/overnights/561972-hillicon-valley-trump-files-lawsuit-against-facebook-twitter-and"> Full Text</a>
 </p>
 <details>
