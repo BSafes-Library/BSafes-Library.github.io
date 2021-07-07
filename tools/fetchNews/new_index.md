@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Email fatigue among users opens doors for cybercriminals<a href="https://www.bleepingcomputer.com/news/security/email-fatigue-among-users-opens-doors-for-cybercriminals/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cozy Bear APT Group Allegedly Breached Republican National Committee via Third-party Provider<a href="https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Bloomberg
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New cyberattacks ramp up tensions with Russia<a href="https://thehill.com//policy/cybersecurity/561781-new-cyberattacks-ramp-up-tensions-with-russia"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 170 Scam Cryptomining Apps Charge for Non-Existent Services<a href="https://www.infosecurity-magazine.com:443/news/170-scam-cryptomining-apps-charge/"> Full Text</a>
@@ -98,7 +98,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers uncovered the network infrastructure of REVil – The notorious ransomware group that hit Kaseya<a href="https://securityaffairs.co/wordpress/119799/cyber-crime/researchers-infrastructure-revil-ransomware-gang.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign looks to leverage Kaseya VSA fears<a href="https://www.scmagazine.com/home/security-news/phishing/phishing-campaign-looks-to-leverage-kaseya-vsa-fears/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Cryptomining Swindle in Google Play Rakes in Cash<a href="https://threatpost.com/cloud-cryptomining-swindle-google-play/167581/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Kaseya VSA security update backdoors networks with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/fake-kaseya-vsa-security-update-backdoors-networks-with-cobalt-strike/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Ransomware Attack Used to Fuel Malspam Campaign<a href="https://cyware.com/news/kaseya-ransomware-attack-used-to-fuel-malspam-campaign-303f898d"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kremlin Hackers Reportedly Breached Republican National Committee<a href="https://www.infosecurity-magazine.com:443/news/kremlin-breached-republican/"> Full Text</a>
@@ -198,7 +198,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft rolled out emergency update for Windows PrintNightmare zero-day<a href="https://securityaffairs.co/wordpress/119789/uncategorized/microsoft-rolled-out-emergency-update-for-windows-printnightmare-zero-day.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tens of thousands scammed using fake Android cryptomining apps<a href="https://www.bleepingcomputer.com/news/security/tens-of-thousands-scammed-using-fake-android-cryptomining-apps/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China reportedly warns local tech companies of increased cybersecurity oversight<a href="https://www.zdnet.com/article/china-reportedly-warns-local-tech-companies-of-increased-cybersecurity-oversight/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US: We May Take Unilateral Action Against Russian Cyber-Criminals<a href="https://www.infosecurity-magazine.com:443/news/us-unilateral-action-russian-cyber/"> Full Text</a>
@@ -266,7 +266,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker leaks info of pro-Trump GETTR members online<a href="https://securityaffairs.co/wordpress/119775/data-breach/gettr-data-breach.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya’s VSA SaaS restart fails, service restoration delayed by at least ten hours<a href="https://www.theregister.com/2021/07/07/kaseya_saas_restart_fails/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Third-party Provider Exposes Medical Data of Chicago-based Northwestern Memorial HealthCare Patients<a href="https://portswigger.net/daily-swig/data-breach-at-third-party-provider-exposes-medical-information-of-us-healthcare-patients?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimperium Acquires Mobile Application Security Pioneer whiteCryption<a href="https://in.finance.yahoo.com/news/zimperium-acquires-mobile-application-security-170000755.html?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WildPressure APT Group Targets the macOS Platform with New Python Trojan<a href="https://securelist.com/wildpressure-targets-macos/103072/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Kaseya works to bring SaaS servers online, experts laud precautionary measures as ‘opposite of complacency’<a href="https://www.scmagazine.com/home/security-news/as-kaseya-works-to-bring-servers-online-experts-laud-precautionary-measures-taken-as-opposite-of-complacency/"> Full Text</a>
@@ -366,7 +366,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Trump ‘Gettr’ Social Platform Hacked On Day One<a href="https://threatpost.com/trump-gettr-social-media-hacked-day-1/167574/"> Full Text</a>
@@ -382,7 +382,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker’s Mom Puts End to 10-Month Cyber-bullying Campaign<a href="https://www.infosecurity-magazine.com:443/news/hackers-mom-ends-10month/"> Full Text</a>
@@ -398,7 +398,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Official Formula 1 App Hacked<a href="https://www.infosecurity-magazine.com:443/news/official-formula-1-app-hacked/"> Full Text</a>
@@ -414,7 +414,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BA Settles with Data Breach Victims<a href="https://www.infosecurity-magazine.com:443/news/ba-settles-with-data-breach-victims/"> Full Text</a>
@@ -430,7 +430,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industry Must Drive Forward International Collaboration on Cyber<a href="https://www.infosecurity-magazine.com:443/news/industry-drive-international/"> Full Text</a>
@@ -446,7 +446,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brits Lose Over £1bn in Fraud So Far This Year<a href="https://www.infosecurity-magazine.com:443/news/brits-lose-billion-fraud-this-year/"> Full Text</a>
@@ -462,7 +462,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan Looks to Boost Military Cyber Experts Amid Security Threat<a href="https://www.infosecurity-magazine.com:443/news/japan-boost-military-security/"> Full Text</a>
@@ -478,7 +478,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Cyber-Criminal "Dr Hex" Tracked Down Via Phishing Kit<a href="https://www.infosecurity-magazine.com:443/news/cybercriminal-dr-hex-tracked/"> Full Text</a>
@@ -494,7 +494,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Group Demands $70 Million for 'Universal Decryptor'<a href="https://www.infosecurity-magazine.com:443/news/revil-70-million-universal/"> Full Text</a>
