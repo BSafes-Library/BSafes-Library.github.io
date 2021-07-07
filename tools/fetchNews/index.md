@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Trump files lawsuit against Facebook, Twitter, and Google | New cyberattacks ramp up tensions with Russia | 36 states, DC sue Google alleging antitrust violations in app store<a href="https://thehill.com//policy/technology/overnights/561972-hillicon-valley-trump-files-lawsuit-against-facebook-twitter-and"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former President TrumpDonald TrumpOver 535 charged six months after Jan. 6 riot: DOJ  Pennsylvania dentist and Trump associate accused of groping patient TikTok names longtime Microsoft worker as top US lawyer MORE is lashing out at social media platforms again over their actions taken to ban and suspend his accounts, this time in the form of a lawsuit against Twitter, Google and Facebook as well as their CEOs. Legal experts, however, said the case will almost certainly be dismissed.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: PrintNightmare now patched on all Windows versions<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-now-patched-on-all-windows-versions/"> Full Text</a>
 </p>
 <details>
