@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity researchers say they warned Kaseya of flaw in April<a href="https://thehill.com//policy/cybersecurity/561927-cybersecurity-researchers-warned-kaseya-of-flaw-in-april-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Miami-based technology firm at the center of the worldwide security breach carried out by Russia-linked hackers was warned in early April of the cybersecurity vulnerability that was ultimately taken advantage of by the cyber criminal gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden considering 'range of options' to respond to Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/561920-biden-considering-range-of-options-to-respond-to-russian-cyberattacks"> Full Text</a>
 </p>
 <details>
