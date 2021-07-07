@@ -34,6 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft pushes emergency update for Windows PrintNightmare zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-pushes-emergency-update-for-windows-printnightmare-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the KB5004945 emergency security update to address the actively exploited PrintNightmare zero-day vulnerability in the Windows Print Spooler service impacting all Windows versions. However, the patch is incomplete and the vulnerability can still be locally exploited to gain SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Braces Up For Another Innings<a href="https://cyware.com/news/trickbot-braces-up-for-another-innings-66ef1d24"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kryptos Logic Threat Intelligence researchers have revealed a new report about a new TrickBot modulel that bears precise resemblance to the Zeus attack pattern.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RNC says contractor breached in hack, GOP data secure<a href="https://thehill.com//policy/cybersecurity/561761-rnc-says-contractor-breached-in-hack-gop-data-secure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Republican National Committee (RNC) on Tuesday acknowledged that one of its contractors had been breached by hackers linked to Russia but said its data had not been accessed. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘A uniquely bad idea’? Senators propose hack back study, but most experts’ minds are made up<a href="https://www.scmagazine.com/home/security-news/cybercrime/senators-propose-hack-back-study-but-most-experts-minds-are-made-up/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While lawmakers behind a new bipartisan bill argue that the use of offensive hacking could be a powerful deterrent, security experts worry that such reactionary legislation might do even more harm.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Apps in Google Play Harvest Facebook Credentials<a href="https://threatpost.com/android-apps-google-play-facebook-credentials/167563/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The apps all used an unusual tactic of loading a legitimate Facebook page as part of the data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of action against ransomware gangs if Russia refuses<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-action-against-ransomware-gangs-if-russia-refuses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House Press Secretary Jen Psaki says that the US will take action against cybercriminal groups from Russia if the Russian government refuses to do so.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Dropper: A Threat in Disguise That Cannot be Ignored<a href="https://cyware.com/news/malware-dropper-a-threat-in-disguise-that-cannot-be-ignored-64bdbb90"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers dissected a new variant of JSSLoader malware that offered threat actors to evade detections and load additional payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden to confront cyberattacks following Kaseya attack | JEDI contract axed | Tech giants warn Hong Kong<a href="https://thehill.com//policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House press secretary Jen PsakiJen PsakiDeath toll rises to 27 in Florida condo collapse Try and try again: GOP tests out myriad attacks on Biden Biden names nominee for US ambassador to Germany MORE said President BidenJoe BidenFive big questions about the Jan. 6 select committee With Afghanistan left in limbo, can the global South trust the West? When should the president be able to fire a watchdog? MORE is scheduled to meet with leaders across federal agencies to discuss solutions to the spike in ransomware attacks. Psaki’s announcement about Biden’s meeting to address the issue came the same day software company Kaseya acknowledged that as many as 1,500 companies worldwide were potentially compromised in last week’s attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS urges providers to secure PACS vulnerabilities exposing medical images<a href="https://www.scmagazine.com/home/health-care/hhs-urges-providers-to-secure-pacs-vulnerabilities-exposing-medical-images/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following SC Media’s report on PACS vulnerabilities exposing millions of medical images, HHS is urging health care entities to review device inventories and secure system flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker dumps private info of pro-Trump GETTR social network members<a href="https://www.bleepingcomputer.com/news/security/hacker-dumps-private-info-of-pro-trump-gettr-social-network-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly launched social site GETTR suffered a data breach after a hacker claimed to use an unsecured API to scrape the private information of almost 90,000 members and then shared the data on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Accelerating Ransomware Attacks on ICS Networks<a href="https://cyware.com/news/attackers-accelerating-ransomware-attacks-on-ics-networks-57bd4aff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are evolving rapidly to target ICS endpoints worldwide with a significant rise in activity during the past year. Four ransomware families, namely Ryuk, Nefilm, Revil, and LockBit, account for over half of these attacks, a new Trend Micro report says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden to meet with federal agencies to address ransomware concerns this week<a href="https://thehill.com//policy/cybersecurity/561741-biden-to-meet-with-federal-agencies-to-address-ransomware-concerns-this"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Wednesday will meet with officials at several federal agencies to discuss solutions for confronting the ongoing wave of ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Privacy Tools Advertised to Extract Private Data<a href="https://cyware.com/news/malicious-privacy-tools-advertised-to-extract-private-data-a6a0c631"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a Privacy Tool campaign that purports to offer file protection via encryption and decryption services. In fact, it is loaded with malware.&nbsp;The latest campaign shed some light on the increasing amount of efforts attackers are putting into making such privacy-themed lures r ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
