@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-hit law firm gets court order asking crooks not to publish the data they stole<a href="https://www.theregister.com/2021/07/06/ransomware_4_new_square_chambers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legal services firm, 4 New Square Chambers, hit by a ransomware attack has responded by getting a British High Court order demanding the criminals do not share stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

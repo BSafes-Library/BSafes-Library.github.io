@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers Learn From Nation-State Attackers' OpSec Mistakes<a href="https://www.darkreading.com/threat-intelligence/researchers-learn-from-nation-state-attackers-opsec-mistakes/d/d-id/1341483?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In their investigation of the Charming Kitten group, IBM X-Force researchers investigated attackers' operational security errors to reveal the inner details of how they function and launch attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware-hit law firm gets court order asking crooks not to publish the data they stole<a href="https://www.theregister.com/2021/07/06/ransomware_4_new_square_chambers/?&web_view=true"> Full Text</a>
 </p>
 <details>
