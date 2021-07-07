@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser adds new anti-censorship feature, V2 onion warnings<a href="https://www.bleepingcomputer.com/news/security/tor-browser-adds-new-anti-censorship-feature-v2-onion-warnings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.5 with V2 onion URL deprecation warnings, a redesigned Tor connection experience, and an improved anti-censorship feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai_ptea: The Latest Mirai-Inspired Botnet<a href="https://cyware.com/news/mirai_ptea-the-latest-mirai-inspired-botnet-a958db6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have spotted a new Mirai-inspired botnet, mirai_ptea, abusing an undisclosed vulnerability in KGUARD's Digital Video Recorders (DVR).&nbsp;Mirai’s source code was leaked several years ago, and since then multiple variants are still getting spotted on the threat landscape.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges users to update PCs in security warning<a href="https://thehill.com//policy/cybersecurity/561874-microsoft-urges-users-to-update-pcs-in-security-warning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said that users of its Windows operating system should install updates after a cybersecurity company accidentally published a guide on how to exploit vulnerabilities in the service. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
