@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Emerges With New Malware Targeting Windows and macOS<a href="https://thehackernews.com/2021/07/wildpressure-apt-emerges-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign that has set its sights on industrial-related entities in the Middle East since 2019 has resurfaced with an upgraded malware toolset to strike both Windows and macOS operating systems, symbolizing an expansion in both its targets and its strategy around distributing threats.  Russian cybersecurity firm attributed the attacks to an advanced persistent threat (APT) it tracks as " WildPressure ," with victims believed to be in the oil and gas industry.   WildPressure first came to light in March 2020 based off of a malware operation distributing a fully-featured C++ Trojan dubbed "Milum" that enabled the threat actor to gain remote control of the compromised device. The attacks were said to have begun as early as August 2019.   "For their campaign infrastructure, the operators used rented OVH and Netzbetrieb virtual private servers (VPS) and a domain registered with the Domains by Proxy anonymization service," Kaspersky researcher Denis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected ‘Dr HeX’ Hacker Busted for 9 Years of Phishing<a href="https://threatpost.com/dr-hex-hacker-busted-phishing/167597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unnamed suspect allegedly helped to develop carding and phishing kits with the aim of stealing customers’ bank-card data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Vulnerable NuGet Packages Allow Attackers to Target .NET Platform<a href="https://thehackernews.com/2021/07/dozens-of-vulnerable-nuget-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of off-the-shelf packages hosted on the NuGet repository has revealed 51 unique software components to be vulnerable to actively exploited, high-severity vulnerabilities, once again underscoring the threat posed by third-party dependencies to the software development process.  In light of the growing number of cyber incidents that target the software supply chain, there is an urgent need to assess such third-party modules for any security risks and minimize the attack surface, ReversingLabs researcher Karlo Zanki said in a report shared with The Hacker News.  NuGet  is a Microsoft-supported mechanism for the .NET platform and functions as a package manager designed to enable developers to share reusable code. The framework maintains a central repository of over 264,000 unique packages that have collectively produced more than 109 billion package downloads.   "All identified precompiled software components in our research were different versions of 7Zip, WinSCP and PuT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Whitepaper] XDR vs. NDR/NTA – What do Organizations Truly Need to Stay Safe?<a href="https://thehackernews.com/2021/07/whitepaper-xdr-vs-ndrnta-what-do.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams whose organizations are outside the Fortune 500 are faced with a dilemma. Most teams will have to choose between deploying either a network traffic analysis (NTA) or network detection and response (NDR) tool or an endpoint detection and response (EDR) tool to supplement their existing stacks.  On the other hand, some organizations are getting the best of both options by switching to extended detection and response (XDR) tools which often provide all these tools in one solution.  This is the key takeaway of a new whitepaper by security provider Cynet ( download it here ).  NDR tools have become more popular, and for a good reason. They offer organizations a variety of benefits and can help further secure an environment from lateral movement attacks and further infiltration if an initial attack succeeds. NDR tools can detect a wide range of malicious activities and anomalous behaviors.   The question is whether the strengths of an NDR tool outweigh its limitations.   The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
