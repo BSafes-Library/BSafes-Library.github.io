@@ -34,6 +34,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House urges mayors to review local govts’ cybersecurity posture<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-mayors-to-review-local-govts-cybersecurity-posture/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following recent ransomware attacks, Deputy National Security Advisor Anne Neuberger asked US mayors to immediately hold a meeting with the heads of state agencies to evaluate their cybersecurity posture.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT expands operations targeting the macOS platform<a href="https://securityaffairs.co/wordpress/119812/apt/wildpressure-apt-macos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WildPressure APT is targeting industrial organizations in the Middle East since 2019 and was spotted using now a new malware that targets both Windows and macOS.
+
+
+
+Researchers from Kaspersky have spotted a new malware used by the WildPressure APT group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical vulnerabilities in Philips Vue PACS devices could allow remote takeover<a href="https://www.scmagazine.com/home/health-care/critical-vulnerabilities-in-philips-vue-pacs-devices-could-allow-remote-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Philips reported a range of 15 vulnerabilities in its Vue platform to CISA, four of which were ranked critical. A successful exploit could allow an attacker to take control of the PACS system.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
