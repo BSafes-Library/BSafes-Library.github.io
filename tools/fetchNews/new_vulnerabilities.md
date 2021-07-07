@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft pushes emergency update for Windows PrintNightmare zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-pushes-emergency-update-for-windows-printnightmare-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the KB5004945 emergency security update to address the actively exploited PrintNightmare zero-day vulnerability in the Windows Print Spooler service impacting all Windows versions. However, the patch is incomplete and the vulnerability can still be locally exploited to gain SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS urges providers to secure PACS vulnerabilities exposing medical images<a href="https://www.scmagazine.com/home/health-care/hhs-urges-providers-to-secure-pacs-vulnerabilities-exposing-medical-images/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following SC Media’s report on PACS vulnerabilities exposing millions of medical images, HHS is urging health care entities to review device inventories and secure system flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall addresses critical CVE-2021-20026 flaw in NSM devices<a href="https://securityaffairs.co/wordpress/119767/security/sonicwall-fixes-cve-2021-20026-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Positive Technologies experts provide details about potential impact of a recently fixes command injection flaw in SonicWall NSM devices.
+
+
+
+Positive Technologies researcher Nikita Abramov has provided details about the&nbsp;CVE-2021-20026&nbsp;command injection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Users Face Another RCE<a href="https://threatpost.com/rce-0-day-western-digital-users/167547/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Say hello to one more zero-day and yet more potential remote data death for those who can’t/won’t upgrade their My Cloud storage devices. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 to let SecOps lock hacked Active Directory accounts<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-to-let-secops-lock-hacked-active-directory-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is updating Microsoft Defender for Identity to allow security operations (SecOps) teams to block attacks by locking a compromised user's Active Directory account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Patches Imminent After Zero-Day Exploits, 1,500 Impacted<a href="https://threatpost.com/kaseya-patches-zero-day-exploits/167548/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware gang lowers price for universal decryptor after massive worldwide ransomware push against Kaseya security vulnerability CVE-2021-30116.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

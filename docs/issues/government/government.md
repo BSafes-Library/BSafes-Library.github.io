@@ -11,6 +11,62 @@ nav_order: 900075
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘A uniquely bad idea’? Senators propose hack back study, but most experts’ minds are made up<a href="https://www.scmagazine.com/home/security-news/cybercrime/senators-propose-hack-back-study-but-most-experts-minds-are-made-up/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While lawmakers behind a new bipartisan bill argue that the use of offensive hacking could be a powerful deterrent, security experts worry that such reactionary legislation might do even more harm.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US warns of action against ransomware gangs if Russia refuses<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-action-against-ransomware-gangs-if-russia-refuses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House Press Secretary Jen Psaki says that the US will take action against cybercriminal groups from Russia if the Russian government refuses to do so.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden to confront cyberattacks following Kaseya attack | JEDI contract axed | Tech giants warn Hong Kong<a href="https://thehill.com//policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House press secretary Jen PsakiJen PsakiDeath toll rises to 27 in Florida condo collapse Try and try again: GOP tests out myriad attacks on Biden Biden names nominee for US ambassador to Germany MORE said President BidenJoe BidenFive big questions about the Jan. 6 select committee With Afghanistan left in limbo, can the global South trust the West? When should the president be able to fire a watchdog? MORE is scheduled to meet with leaders across federal agencies to discuss solutions to the spike in ransomware attacks. Psaki’s announcement about Biden’s meeting to address the issue came the same day software company Kaseya acknowledged that as many as 1,500 companies worldwide were potentially compromised in last week’s attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden to meet with federal agencies to address ransomware concerns this week<a href="https://thehill.com//policy/cybersecurity/561741-biden-to-meet-with-federal-agencies-to-address-ransomware-concerns-this"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Wednesday will meet with officials at several federal agencies to discuss solutions for confronting the ongoing wave of ransomware attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ENISA publishes Cybersecurity guide for SMEs<a href="https://securityaffairs.co/wordpress/119741/security/enisa-publishes-cybersecurity-guide-for-smes.html"> Full Text</a>
 </p>
 <details>

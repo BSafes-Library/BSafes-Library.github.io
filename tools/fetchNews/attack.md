@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya: Roughly 1,500 businesses hit by REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-roughly-1-500-businesses-hit-by-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya&nbsp;says the REvil supply-chain ransomware attack breached the systems of roughly 60 of its direct customers using the company's VSA on-premises product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Rules Out Supply-Chain Attack; Says VSA 0-Day Hit Its Customers Directly<a href="https://thehackernews.com/2021/07/kaseya-rules-out-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. technology firm Kaseya, which is firefighting the largest ever&nbsp; supply-chain ransomware strike &nbsp;on its VSA on-premises product, ruled out the possibility that its codebase was unauthorizedly tampered with to distribute malware.  While initial reports raised speculations that the ransomware gang might have gained access to Kaseya's backend infrastructure and abused it to deploy a malicious update to VSA servers running on client premises, in a modus operandi similar to that of the devastating SolarWinds hack, it has since emerged that a never-before-seen security vulnerability ( CVE-2021-30116 ) in the software was leveraged to push ransomware to Kaseya's customers.   "The attackers were able to exploit zero-day vulnerabilities in the VSA product to bypass authentication and run arbitrary command execution," the Miami-headquartered company&nbsp; noted &nbsp;in the incident analysis. "This allowed the attackers to leverage the standard VSA product functionality to depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Counts Up to 1,500 Businesses Affected by Ransomware Attack<a href="https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between 800 and 1,500 businesses around the world have been affected by a ransomware attack centered on U.S. information technology firm Kaseya, its chief executive said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

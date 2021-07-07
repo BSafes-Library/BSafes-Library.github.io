@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RNC says contractor breached in hack, GOP data secure<a href="https://thehill.com//policy/cybersecurity/561761-rnc-says-contractor-breached-in-hack-gop-data-secure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Republican National Committee (RNC) on Tuesday acknowledged that one of its contractors had been breached by hackers linked to Russia but said&nbsp;its data had not been accessed.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker dumps private info of pro-Trump GETTR social network members<a href="https://www.bleepingcomputer.com/news/security/hacker-dumps-private-info-of-pro-trump-gettr-social-network-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly launched social site GETTR suffered a data breach after a hacker claimed to use an unsecured API to scrape the private information of almost 90,000 members and then shared the data on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dominion National reaches $2M settlement over nine-year data breach<a href="https://www.scmagazine.com/home/health-care/dominion-national-reaches-2m-settlement-over-nine-year-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dominion National reached a settlement with the 2.9 million patients impacted by a data breach that went undetected for nine years and was reported in 2019.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Up to 1,500 companies compromised by ransomware attack on Kaseya<a href="https://thehill.com//policy/cybersecurity/561670-up-to-1500-companies-compromised-by-ransomware-attack-on-kaseya"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 1,500 companies around the world were potentially compromised by a ransomware attack late last week on software company Kaseya, the group acknowledged on Monday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

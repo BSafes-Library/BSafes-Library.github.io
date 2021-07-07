@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft pushes emergency update for Windows PrintNightmare zero-day<a href="https://www.bleepingcomputer.com/news/security/microsoft-pushes-emergency-update-for-windows-printnightmare-zero-day/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Braces Up For Another Innings<a href="https://cyware.com/news/trickbot-braces-up-for-another-innings-66ef1d24"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RNC says contractor breached in hack, GOP data secure<a href="https://thehill.com//policy/cybersecurity/561761-rnc-says-contractor-breached-in-hack-gop-data-secure"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘A uniquely bad idea’? Senators propose hack back study, but most experts’ minds are made up<a href="https://www.scmagazine.com/home/security-news/cybercrime/senators-propose-hack-back-study-but-most-experts-minds-are-made-up/"> Full Text</a>
@@ -98,7 +98,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Apps in Google Play Harvest Facebook Credentials<a href="https://threatpost.com/android-apps-google-play-facebook-credentials/167563/"> Full Text</a>
@@ -114,7 +114,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US warns of action against ransomware gangs if Russia refuses<a href="https://www.bleepingcomputer.com/news/security/us-warns-of-action-against-ransomware-gangs-if-russia-refuses/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Dropper: A Threat in Disguise That Cannot be Ignored<a href="https://cyware.com/news/malware-dropper-a-threat-in-disguise-that-cannot-be-ignored-64bdbb90"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden to confront cyberattacks following Kaseya attack | JEDI contract axed | Tech giants warn Hong Kong<a href="https://thehill.com//policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa"> Full Text</a>
@@ -162,7 +162,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HHS urges providers to secure PACS vulnerabilities exposing medical images<a href="https://www.scmagazine.com/home/health-care/hhs-urges-providers-to-secure-pacs-vulnerabilities-exposing-medical-images/"> Full Text</a>
@@ -178,7 +178,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker dumps private info of pro-Trump GETTR social network members<a href="https://www.bleepingcomputer.com/news/security/hacker-dumps-private-info-of-pro-trump-gettr-social-network-members/"> Full Text</a>
@@ -194,7 +194,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Accelerating Ransomware Attacks on ICS Networks<a href="https://cyware.com/news/attackers-accelerating-ransomware-attacks-on-ics-networks-57bd4aff"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden to meet with federal agencies to address ransomware concerns this week<a href="https://thehill.com//policy/cybersecurity/561741-biden-to-meet-with-federal-agencies-to-address-ransomware-concerns-this"> Full Text</a>
@@ -226,7 +226,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Privacy Tools Advertised to Extract Private Data<a href="https://cyware.com/news/malicious-privacy-tools-advertised-to-extract-private-data-a6a0c631"> Full Text</a>
@@ -243,7 +243,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall addresses critical CVE-2021-20026 flaw in NSM devices<a href="https://securityaffairs.co/wordpress/119767/security/sonicwall-fixes-cve-2021-20026-flaw.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dominion National reaches $2M settlement over nine-year data breach<a href="https://www.scmagazine.com/home/health-care/dominion-national-reaches-2m-settlement-over-nine-year-data-breach/"> Full Text</a>
@@ -279,7 +279,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital Users Face Another RCE<a href="https://threatpost.com/rce-0-day-western-digital-users/167547/"> Full Text</a>
@@ -295,7 +295,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft 365 to let SecOps lock hacked Active Directory accounts<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-to-let-secops-lock-hacked-active-directory-accounts/"> Full Text</a>
@@ -311,7 +311,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Up to 1,500 companies compromised by ransomware attack on Kaseya<a href="https://thehill.com//policy/cybersecurity/561670-up-to-1500-companies-compromised-by-ransomware-attack-on-kaseya"> Full Text</a>
@@ -327,7 +327,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2021
+July 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers reportedly lower ransom demand to restore data to $50M<a href="https://thehill.com//policy/cybersecurity/561657-hackers-lower-ransom-demand-to-restore-data-to-50m"> Full Text</a>
@@ -343,7 +343,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Patches Imminent After Zero-Day Exploits, 1,500 Impacted<a href="https://threatpost.com/kaseya-patches-zero-day-exploits/167548/"> Full Text</a>
@@ -359,7 +359,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WEC: No data compromised in ransomware attack<a href="https://www.wtvy.com/2021/07/04/wec-no-data-compromised-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -375,7 +375,7 @@ WTVY
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2021
+July 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare Ransomware Attack Impacts Practice Management Software Vendor PracticeFirst<a href="https://healthitsecurity.com/news/healthcare-ransomware-attack-targets-practice-management-vendor?&web_view=true"> Full Text</a>
