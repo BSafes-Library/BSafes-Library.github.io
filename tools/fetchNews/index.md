@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden considering 'range of options' to respond to Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/561920-biden-considering-range-of-options-to-respond-to-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and his administration are considering potential options for a response to new Russian-linked cyberattacks, the latest in a string of debilitating attacks linked to the country. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity companies are selling like hotcakes in post-pandemic investment market<a href="https://www.scmagazine.com/home/security-news/corporate-news/investment/cybersecurity-companies-are-selling-like-hotcakes-in-post-pandemic-investment-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The red-hot cyber investment market in 2020 was replete with action from top dogs, both from outside the industry and within.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
