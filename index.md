@@ -34,6 +34,482 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email fatigue among users opens doors for cybercriminals<a href="https://www.bleepingcomputer.com/news/security/email-fatigue-among-users-opens-doors-for-cybercriminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to email security, a one-and-done approach never works. Using this multi-layered approach, which includes URL filtering, can often block malicious domains and downloads of malware, preventing systems from being infected in the first place.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cozy Bear APT Group Allegedly Breached Republican National Committee via Third-party Provider<a href="https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group has been tied to Russia’s foreign intelligence service and has previously been accused of breaching the Democratic National Committee in 2016 and SolarWinds more recently.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cyberattacks ramp up tensions with Russia<a href="https://thehill.com//policy/cybersecurity/561781-new-cyberattacks-ramp-up-tensions-with-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive cyberattack on U.S. software company Kaseya, potentially impacting up to 1,500 businesses, is ramping up tensions between Washington and Moscow less than a month after President Biden pressed Russian President Vladimir PutinVladimir Vladimirovich PutinRNC says contractor breached in hack, GOP data secure Biden to meet with federal agencies to address ransomware concerns this week Up to 1,500 companies compromised by ransomware attack on Kaseya MORE to curb such attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 170 Scam Cryptomining Apps Charge for Non-Existent Services<a href="https://www.infosecurity-magazine.com:443/news/170-scam-cryptomining-apps-charge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout claims users have lost over $350,000 to mobile fraud
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncovered the network infrastructure of REVil – The notorious ransomware group that hit Kaseya<a href="https://securityaffairs.co/wordpress/119799/cyber-crime/researchers-infrastructure-revil-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity® HUNTER, cyber threat intelligence and R&D unit, identified a strong connection to a cloud hosting and IoT company servicing the domain belonging to cybercriminals.
+
+
+
+According to the recent research published by ReSecurity on Twitter,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign looks to leverage Kaseya VSA fears<a href="https://www.scmagazine.com/home/security-news/phishing/phishing-campaign-looks-to-leverage-kaseya-vsa-fears/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is taking advantage of Kaseya VSA customers eagerly awaiting a patch for the beleaguered remote monitoring and management application.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Cryptomining Swindle in Google Play Rakes in Cash<a href="https://threatpost.com/cloud-cryptomining-swindle-google-play/167581/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 25 apps have lured in tens of thousands of victims with the promise of helping them cash in on the cryptomining craze.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Kaseya VSA security update backdoors networks with Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/fake-kaseya-vsa-security-update-backdoors-networks-with-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are trying to capitalize on the ongoing Kaseya ransomware attack crisis by targeting potential victims in a spam campaign pushing Cobalt Strike payloads disguised as Kaseya VSA security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Ransomware Attack Used to Fuel Malspam Campaign<a href="https://cyware.com/news/kaseya-ransomware-attack-used-to-fuel-malspam-campaign-303f898d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a series of tweets from Malwarebytes, researchers have disclosed that a malspam campaign is taking advantage of the Kaseya ransomware attack to drop Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kremlin Hackers Reportedly Breached Republican National Committee<a href="https://www.infosecurity-magazine.com:443/news/kremlin-breached-republican/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attempted holiday weekend raid came via third-party provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolled out emergency update for Windows PrintNightmare zero-day<a href="https://securityaffairs.co/wordpress/119789/uncategorized/microsoft-rolled-out-emergency-update-for-windows-printnightmare-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft rolled out KB5004945 emergency update to address the actively exploited PrintNightmare zero-day vulnerability (CVE-2021-34527) in Print Spooler service.
+
+
+
+Microsoft has released the KB5004945 emergency security update to address the actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of thousands scammed using fake Android cryptomining apps<a href="https://www.bleepingcomputer.com/news/security/tens-of-thousands-scammed-using-fake-android-cryptomining-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers tricked at least 93,000 people into buying fake Android cryptocurrency mining applications, as revealed by researchers from California-based cybersecurity firm Lookout.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China reportedly warns local tech companies of increased cybersecurity oversight<a href="https://www.zdnet.com/article/china-reportedly-warns-local-tech-companies-of-increased-cybersecurity-oversight/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China has reportedly warned local companies it will tighten oversight of data security and overseas listings days after unveiling Didi has been subject to a government cybersecurity review.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: We May Take Unilateral Action Against Russian Cyber-Criminals<a href="https://www.infosecurity-magazine.com:443/news/us-unilateral-action-russian-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House says option remains if Kremlin doesn’t act
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks info of pro-Trump GETTR members online<a href="https://securityaffairs.co/wordpress/119775/data-breach/gettr-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker has leaked claims to have breached pro-Trump GETTR and leaked the private information of almost 90,000 members on a hacking forum.
+
+
+
+GETTR is a new pro-Trump social media platform created by Jason Miller, a former Trump advisor, the Twitter-like...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya’s VSA SaaS restart fails, service restoration delayed by at least ten hours<a href="https://www.theregister.com/2021/07/07/kaseya_saas_restart_fails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya’s attempt to recover its SaaS services has suffered a setback. The recent breach has seen its VSA services offline since July 2nd and over 1,000 ransomware infections.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Third-party Provider Exposes Medical Data of Chicago-based Northwestern Memorial HealthCare Patients<a href="https://portswigger.net/daily-swig/data-breach-at-third-party-provider-exposes-medical-information-of-us-healthcare-patients?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its advisory, the healthcare provider said that the attackers made a copy of the datasets, which include patient names, dates of birth, SSNs, health insurance details, and medical record numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimperium Acquires Mobile Application Security Pioneer whiteCryption<a href="https://in.finance.yahoo.com/news/zimperium-acquires-mobile-application-security-170000755.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimperium will continue to support current whiteCryption customers and will integrate whiteCryption’s solutions into Zimperium’s Mobile Application Protection Suite (MAPS).
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Group Targets the macOS Platform with New Python Trojan<a href="https://securelist.com/wildpressure-targets-macos/103072/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The versioning system shows that the malware used by WildPressure is still under active development. Besides commercial VPS, this time the operators used compromised legitimate WordPress websites.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Kaseya works to bring SaaS servers online, experts laud precautionary measures as ‘opposite of complacency’<a href="https://www.scmagazine.com/home/security-news/as-kaseya-works-to-bring-servers-online-experts-laud-precautionary-measures-taken-as-opposite-of-complacency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision to bring down SaaS severs as a precautionary measure while the company evaluated the full nature of the ransomware attacks is one that many security researchers endorse as a responsible maneuver, even if inconvenient for a segment of customers and partners.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Trump ‘Gettr’ Social Platform Hacked On Day One<a href="https://threatpost.com/trump-gettr-social-media-hacked-day-1/167574/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newborn platform was inundated by Sonic the Hedgehog-themed porn and had prominent users’ profiles defaced. Next, hackers posted its user database online. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker’s Mom Puts End to 10-Month Cyber-bullying Campaign<a href="https://www.infosecurity-magazine.com:443/news/hackers-mom-ends-10month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-bully appears to stop online abuse of 6th grader after being caught in the act by mom
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Official Formula 1 App Hacked<a href="https://www.infosecurity-magazine.com:443/news/official-formula-1-app-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Racing fans receive strange messages over holiday weekend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BA Settles with Data Breach Victims<a href="https://www.infosecurity-magazine.com:443/news/ba-settles-with-data-breach-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of 2018 British Airways data breach to receive confidential settlement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry Must Drive Forward International Collaboration on Cyber<a href="https://www.infosecurity-magazine.com:443/news/industry-drive-international/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry bodies need to take the lead in fostering international collaboration in cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brits Lose Over £1bn in Fraud So Far This Year<a href="https://www.infosecurity-magazine.com:443/news/brits-lose-billion-fraud-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brits have lost over £1bn to fraud in the first half of 2021, but cases fell significantly in Q2 compared to Q1
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Looks to Boost Military Cyber Experts Amid Security Threat<a href="https://www.infosecurity-magazine.com:443/news/japan-boost-military-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China and Russia blamed for increasingly hostile activity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Cyber-Criminal "Dr Hex" Tracked Down Via Phishing Kit<a href="https://www.infosecurity-magazine.com:443/news/cybercriminal-dr-hex-tracked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB researchers also benefitted from poor threat actor OpSec
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Group Demands $70 Million for 'Universal Decryptor'<a href="https://www.infosecurity-magazine.com:443/news/revil-70-million-universal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detected 5000 attack attempts since July 2
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
