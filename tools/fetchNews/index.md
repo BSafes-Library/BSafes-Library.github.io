@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Most Insider Data Breaches Aren't Malicious<a href="https://www.infosecurity-magazine.com:443/news/most-insider-data-breaches-arent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research finds 78% of reported breaches that involve an insider were not malicious
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why I Love (Breaking Into) Your Security Appliances<a href="https://threatpost.com/breaking-into-security-appliances/167584/"> Full Text</a>
 </p>
 <details>
