@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 07, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware code in Kaseya attack bypasses systems using Russian, related languages: report<a href="https://thehill.com//policy/cybersecurity/561932-ransomware-code-in-massive-attack-bypasses-systems-using-russian-related"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-linked cybercrime gang associated with carrying out a major ransomware attack against a software company used a code that avoids targeting systems that use Russian and other former Soviet-era languages as a default, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity researchers say they warned Kaseya of flaw in April<a href="https://thehill.com//policy/cybersecurity/561927-cybersecurity-researchers-warned-kaseya-of-flaw-in-april-report"> Full Text</a>
 </p>
 <details>
