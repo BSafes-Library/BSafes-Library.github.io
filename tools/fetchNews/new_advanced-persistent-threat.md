@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cozy Bear APT Group Allegedly Breached Republican National Committee via Third-party Provider<a href="https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group has been tied to Russia’s foreign intelligence service and has previously been accused of breaching the Democratic National Committee in 2016 and SolarWinds more recently.
+</details>
+<div style="text-align: right" markdown="1">
+Bloomberg
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Group Targets the macOS Platform with New Python Trojan<a href="https://securelist.com/wildpressure-targets-macos/103072/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The versioning system shows that the malware used by WildPressure is still under active development. Besides commercial VPS, this time the operators used compromised legitimate WordPress websites.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

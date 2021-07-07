@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Accelerating Ransomware Attacks on ICS Networks<a href="https://cyware.com/news/attackers-accelerating-ransomware-attacks-on-ics-networks-57bd4aff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are evolving rapidly to target ICS endpoints worldwide with a significant rise in activity during the past year. Four ransomware families, namely Ryuk, Nefilm, Revil, and LockBit, account for over half of these attacks, a new Trend Micro report says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WEC: No data compromised in ransomware attack<a href="https://www.wtvy.com/2021/07/04/wec-no-data-compromised-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While a ransomware attack was launched against the Alabama-based Wiregrass Electric Cooperative during the weekend, officials have verified that no data have been compromised.
+</details>
+<div style="text-align: right" markdown="1">
+WTVY
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare Ransomware Attack Impacts Practice Management Software Vendor PracticeFirst<a href="https://healthitsecurity.com/news/healthcare-ransomware-attack-targets-practice-management-vendor?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from PII, diagnoses, lab and treatment information, health insurance details, employee usernames and passwords, bank account information, and tax identification numbers were exposed.
+</details>
+<div style="text-align: right" markdown="1">
+HealthITSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

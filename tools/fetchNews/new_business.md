@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya’s VSA SaaS restart fails, service restoration delayed by at least ten hours<a href="https://www.theregister.com/2021/07/07/kaseya_saas_restart_fails/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya’s attempt to recover its SaaS services has suffered a setback. The recent breach has seen its VSA services offline since July 2nd and over 1,000 ransomware infections.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimperium Acquires Mobile Application Security Pioneer whiteCryption<a href="https://in.finance.yahoo.com/news/zimperium-acquires-mobile-application-security-170000755.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimperium will continue to support current whiteCryption customers and will integrate whiteCryption’s solutions into Zimperium’s Mobile Application Protection Suite (MAPS).
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,94 @@ nav_order: 900029
 
 ## Breach
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kremlin Hackers Reportedly Breached Republican National Committee<a href="https://www.infosecurity-magazine.com:443/news/kremlin-breached-republican/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attempted holiday weekend raid came via third-party provider
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker leaks info of pro-Trump GETTR members online<a href="https://securityaffairs.co/wordpress/119775/data-breach/gettr-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker has leaked claims to have breached pro-Trump GETTR and leaked the private information of almost 90,000 members on a hacking forum.
+
+
+
+GETTR is a new pro-Trump social media platform created by Jason Miller, a former Trump advisor, the Twitter-like...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Third-party Provider Exposes Medical Data of Chicago-based Northwestern Memorial HealthCare Patients<a href="https://portswigger.net/daily-swig/data-breach-at-third-party-provider-exposes-medical-information-of-us-healthcare-patients?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its advisory, the healthcare provider said that the attackers made a copy of the datasets, which include patient names, dates of birth, SSNs, health insurance details, and medical record numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Trump ‘Gettr’ Social Platform Hacked On Day One<a href="https://threatpost.com/trump-gettr-social-media-hacked-day-1/167574/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newborn platform was inundated by Sonic the Hedgehog-themed porn and had prominent users’ profiles defaced. Next, hackers posted its user database online. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Official Formula 1 App Hacked<a href="https://www.infosecurity-magazine.com:443/news/official-formula-1-app-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Racing fans receive strange messages over holiday weekend
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BA Settles with Data Breach Victims<a href="https://www.infosecurity-magazine.com:443/news/ba-settles-with-data-breach-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of 2018 British Airways data breach to receive confidential settlement
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

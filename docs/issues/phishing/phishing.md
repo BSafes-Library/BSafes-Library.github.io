@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 170 Scam Cryptomining Apps Charge for Non-Existent Services<a href="https://www.infosecurity-magazine.com:443/news/170-scam-cryptomining-apps-charge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout claims users have lost over $350,000 to mobile fraud
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

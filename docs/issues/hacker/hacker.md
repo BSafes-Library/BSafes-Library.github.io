@@ -11,6 +11,20 @@ nav_order: 900080
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hacker’s Mom Puts End to 10-Month Cyber-bullying Campaign<a href="https://www.infosecurity-magazine.com:443/news/hackers-mom-ends-10month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-bully appears to stop online abuse of 6th grader after being caught in the act by mom
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Formula 1 Mobile Push Notification Service to Send Unexpected Notifications to Users<a href="https://www.theregister.com/2021/07/05/f1_notification_attack/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

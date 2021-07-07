@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncovered the network infrastructure of REVil – The notorious ransomware group that hit Kaseya<a href="https://securityaffairs.co/wordpress/119799/cyber-crime/researchers-infrastructure-revil-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity® HUNTER, cyber threat intelligence and R&amp;D unit, identified a strong connection to a cloud hosting and IoT company servicing the domain belonging to cybercriminals.
+
+
+
+According to the recent research published by ReSecurity on Twitter,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US: We May Take Unilateral Action Against Russian Cyber-Criminals<a href="https://www.infosecurity-magazine.com:443/news/us-unilateral-action-russian-cyber/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House says option remains if Kremlin doesn’t act
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Cyber-Criminal "Dr Hex" Tracked Down Via Phishing Kit<a href="https://www.infosecurity-magazine.com:443/news/cybercriminal-dr-hex-tracked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB researchers also benefitted from poor threat actor OpSec
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Group Demands $70 Million for 'Universal Decryptor'<a href="https://www.infosecurity-magazine.com:443/news/revil-70-million-universal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detected 5000 attack attempts since July 2
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

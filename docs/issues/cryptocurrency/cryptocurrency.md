@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Cryptomining Swindle in Google Play Rakes in Cash<a href="https://threatpost.com/cloud-cryptomining-swindle-google-play/167581/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 25 apps have lured in tens of thousands of victims with the promise of helping them cash in on the cryptomining craze.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

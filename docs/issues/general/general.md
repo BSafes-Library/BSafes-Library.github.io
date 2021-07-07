@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email fatigue among users opens doors for cybercriminals<a href="https://www.bleepingcomputer.com/news/security/email-fatigue-among-users-opens-doors-for-cybercriminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to email security, a one-and-done approach never works. Using this multi-layered approach, which includes URL filtering, can often block malicious domains and downloads of malware, preventing systems from being infected in the first place.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cyberattacks ramp up tensions with Russia<a href="https://thehill.com//policy/cybersecurity/561781-new-cyberattacks-ramp-up-tensions-with-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive cyberattack on U.S. software company Kaseya, potentially impacting up to 1,500 businesses, is ramping up tensions between Washington and Moscow less than a month after President Biden pressed Russian President Vladimir PutinVladimir Vladimirovich PutinRNC says contractor breached in hack, GOP data secure Biden to meet with federal agencies to address ransomware concerns this week Up to 1,500 companies compromised by ransomware attack on Kaseya MORE to curb such attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Kaseya works to bring SaaS servers online, experts laud precautionary measures as ‘opposite of complacency’<a href="https://www.scmagazine.com/home/security-news/as-kaseya-works-to-bring-servers-online-experts-laud-precautionary-measures-taken-as-opposite-of-complacency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision to bring down SaaS severs as a precautionary measure while the company evaluated the full nature of the ransomware attacks is one that many security researchers endorse as a responsible maneuver, even if inconvenient for a segment of customers and partners.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry Must Drive Forward International Collaboration on Cyber<a href="https://www.infosecurity-magazine.com:443/news/industry-drive-international/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry bodies need to take the lead in fostering international collaboration in cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brits Lose Over £1bn in Fraud So Far This Year<a href="https://www.infosecurity-magazine.com:443/news/brits-lose-billion-fraud-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brits have lost over £1bn to fraud in the first half of 2021, but cases fell significantly in Q2 compared to Q1
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
