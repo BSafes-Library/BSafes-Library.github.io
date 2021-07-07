@@ -37,6 +37,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wiregrass Electric Cooperative hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/119827/cyber-crime/wiregrass-electric-cooperative-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiregrass Electric Cooperative, a rural Alabama electric cooperative was hit by a ransomware attack.
+
+
+
+Wiregrass Electric Cooperative, a rural Alabama electric cooperative that serves about 25,000 members, was hit by a ransomware attack.
+
+
+
+The cyberattack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Could Appeal Assange Extradition Refusal<a href="https://www.infosecurity-magazine.com:443/news/us-could-appeal-assange/"> Full Text</a>
 </p>
 <details>
