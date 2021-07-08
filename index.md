@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Coursera Flunks API Security Test in Researchers’ Exam<a href="https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The problem APIs included numero uno on the OWASP API Security Top 10: a Broken Object Level Authorization (BOLA) issue that could have exposed personal data. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.K.’s Online Safety Bill: Not That Safe, After All?<a href="https://www.lawfareblog.com/uks-online-safety-bill-not-safe-after-all"> Full Text</a>
 </p>
 <details>
