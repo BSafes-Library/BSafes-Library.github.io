@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms<a href="https://thehill.com//policy/technology/overnights/562170-hillicon-valley-warren-asks-sec-to-take-closer-look-at"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Elizabeth WarrenElizabeth WarrenBiden Education Department hires vocal proponent of canceling student debt First Republican announces run for Massachusetts governor Some Democrats put activism over climate action MORE (D-Mass.) on Thursday strongly urged a key regulatory agency to look into cryptocurrency exchanges, an issue that has gained prominence in recent years and particularly following the use of cryptocurrencies as part of ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
