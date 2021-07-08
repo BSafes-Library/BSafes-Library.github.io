@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Year-long spear-phishing campaign targets global energy industry<a href="https://www.scmagazine.com/home/security-news/phishing/year-long-spear-phishing-campaign-targets-global-energy-industry/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many of the spear-phishing emails show the threat actor did their homework, with procurement jargon and references to real executives and ongoing projects.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trump Sues Facebook, Google and Twitter<a href="https://www.infosecurity-magazine.com:443/news/trump-sues-facebook-google-and/"> Full Text</a>
 </p>
 <details>
