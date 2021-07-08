@@ -34,6 +34,434 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley reports data breach after vendor Accellion hack<a href="https://www.bleepingcomputer.com/news/security/morgan-stanley-reports-data-breach-after-vendor-accellion-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment banking firm Morgan Stanley has reported a data breach after attackers stole personal information belonging to its customers by hacking into the Accellion FTA server of a third party vendor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information disclosure, privilege escalation vulnerabilities spotted in IOBit Advanced SystemCare Ultimate<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-iobit0-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cisco Talos recently discovered multiple vulnerabilities in IOBit Advanced SystemCare Ultimate. These vulnerabilities all exist in a monitoring driver in the software.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WSJ to Biden: Inaction on Russian cyber attacks would prove your 'words are empty'<a href="https://thehill.com//homenews/media/562036-wsj-to-biden-inaction-on-russian-cyber-attacks-would-prove-your-words-are"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The editorial board of the Wall Street Journal is imploring President Biden to take swift action and send a strong message to Russian and other foreign adversaries that the U.S. will not tolerate cybercrime or those who harbor cyber criminals. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Sage X3 Enterprise Management Software<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-sage-x3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four security vulnerabilities have been uncovered in the  Sage X3  enterprise resource planning (ERP) product, two of which could be chained together as part of an attack sequence to enable adversaries to execute malicious commands and take control of vulnerable systems.  These issues were discovered by researchers from Rapid7, who notified Sage Group of their findings on Feb. 3, 2021. The vendor has since rolled out  fixes  in recent releases for Sage X3 Version 9 (Syracuse 9.22.7.2), Sage X3 HR & Payroll Version 9 (Syracuse 9.24.1.3), Sage X3 Version 11 (Syracuse 11.25.2.6), and Sage X3 Version 12 (Syracuse 12.10.2.8) that were shipped in March.   The list of vulnerabilities is as follows -   CVE-2020-7388  (CVSS score: 10.0) - Sage X3 Unauthenticated Remote Command Execution (RCE) as SYSTEM in AdxDSrv.exe component  CVE-2020-7389  (CVSS score" 5.5) - System "CHAINE" Variable Script Command Injection (No fix planned)  CVE-2020-7387  (CVSS score: 5.3) - Sage X3 Ins
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Costs Organizations Nearly $1.79 Million Per Minute<a href="https://www.infosecurity-magazine.com:443/news/cybercrime-costs-orgs-per-minute/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+648 cyber-attacks per minute occurred in the past year, costing organizations $1.79 million every minute
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 10.5 is out, it includes a new anti-censorship feature<a href="https://securityaffairs.co/wordpress/119855/digital-id/tor-browser-10-5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.5 which enhances an anti-censorship feature and warns of V2 onion URL deprecation.
+
+
+
+The Tor Project has released Tor Browser 10.5 which implements an improved anti-censorship feature and warns users of V2 onion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘How can I help you today?’ Scammers dupe online support agents through live chat platforms<a href="https://www.scmagazine.com/home/security-news/phishing/how-can-i-help-you-today-scammers-dupe-online-support-agents-through-live-chat-platforms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scheme is yet another recent example of phishing campaigns leveraging communication mediums outside of email to catch prospective victims off-guard. And it works in part because website operators that use chat features are not always diligently scanning uploaded files for malware.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Firefox to roll out DNS over HTTPS for Canadian users<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-to-roll-out-dns-over-https-for-canadian-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has decided to roll out the DNS over HTTPS (DoH) feature by default for Canadian Firefox users later this month. The move comes after DoH has already been offered to US-based Firefox users since 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure cyberattacks signaling the importance of prioritizing security<a href="https://www.helpnetsecurity.com/2021/07/07/critical-infrastructure-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the U.S. looks at its vulnerable industries, the responsibility is falling on businesses to ensure that they are keeping the organization and employees safe and secure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Malware Attacks Targeting Corporate Networks in Latin America<a href="https://thehackernews.com/2021/07/experts-uncover-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday took the wraps off a new, ongoing espionage campaign targeting corporate networks in Spanish-speaking countries, specifically Venezuela, to spy on its victims.  Dubbed " Bandidos " by ESET owing to the use of an upgraded variant of Bandook malware, the primary targets of the threat actor are corporate networks in the South American country spanning across manufacturing, construction, healthcare, software services, and retail sectors.  Written in both Delphi and C++,  Bandook  has a history of being sold as a commercial remote access trojan (RAT) dating all the way back to 2005. Since then, numerous variants have emerged on the threat landscape and put to use in different surveillance campaigns in 2015 and 2017, allegedly by a cyber-mercenary group known as Dark Caracal on behalf of government interests in Kazakhstan and Lebanon.   In a continuing resurgence of the Bandook Trojan, Check Point last year  disclosed  three new samples — one
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CTOs Keeping Quiet on Breaches to Avoid Cyber Blame Game<a href="https://www.infosecurity-magazine.com:443/news/ctos-keeping-quiet-breaches-blame/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report finds 92% of UK organizations suffered a successful attack last year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker deposited $1M in a popular cybercrime marketplace to buy zero-day exploits<a href="https://securityaffairs.co/wordpress/119845/cyber-crime/hacker-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has deposited 26.99 Bitcoins on one of the cybercrime forums, he aims at purchasing zero-day exploits from other forum members.
+
+
+
+A threat actor that goes online with the name “integra” has deposited 26.99 Bitcoins on one...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon Office Left Military Designs for Body Armor, Vehicle Gear Unsecured Online<a href="https://www.cyberscoop.com/pentagon-cyber-vulnerabilities-printers-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The office in charge of the U.S. military’s 3D printing left designs for defense technology vulnerable to theft by hackers and adversaries, according to a DODIG report made public on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Awareness Training is Broken. Human Risk Management (HRM) is the Fix<a href="https://thehackernews.com/2021/07/security-awareness-training-is-broken.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Humans are an organization's strongest defence against evolving cyber threats, but security awareness training alone often isn't enough to transform user behaviour.  In this guide, usecure looks at why Human Risk Management (HRM) is the new fix for building a security-savvy workforce.  Don't be fooled...  Businesses are investing more than ever into strengthening their employee security awareness efforts, but a big problem still plagues SMBs and enterprises in every sector —  human-related data breaches .  Even with more businesses rolling out staff security awareness training programs to combat evolving cyber threats, over 90% of data breaches still stem from human error.  So, why are human-related data breaches still so prevalent?  Access Now: Security Awareness Training is Broken. HRM is the Fix [Free eBook] →  Security awareness training often isn't enough  It's easy to think that rolling out some security awareness courses and sending a few email bulletins fro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulator Probes Former Health Secretary's Use of Private Email<a href="https://www.infosecurity-magazine.com:443/news/health-secretary-private-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matt Hancock comes under investigation by the ICO
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts bypassed Microsoft’s emergency patch for the PrintNightmare<a href="https://securityaffairs.co/wordpress/119839/hacking/printnightmare-patch-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergency patch for the PrintNightmare vulnerability released by Microsoft is incomplete and still allows RCE.
+
+
+
+Yesterday, Microsoft has released an out-of-band KB5004945 security update to address the PrintNightmare vulnerability, unfortunately,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Apex predators': Why the Kaseya ransomware attack has experts worried<a href="https://www.nbcnews.com/tech/security/kaseya-ransomware-attack-experts-worried-rcna1345?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil gang used a level of planning and sophistication closer to high-level, government-backed hackers, rather than a mere criminal operation, several cybersecurity experts say.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Mitigate Microsoft Print Spooler Vulnerability – PrintNightmare<a href="https://thehackernews.com/2021/07/how-to-mitigate-microsoft-print-spooler.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, PrintNightmare  - Microsoft's Print Spooler vulnerability (CVE-2021-34527) was upgraded from a 'Low' criticality to a 'Critical' criticality.  This is due to a Proof of Concept published on GitHub, which attackers could potentially leverage for gaining access to Domain Controllers.  As we reported earlier , Microsoft already released a patch in June 2021, but it wasn't enough to stop exploits. Attackers can still use Print Spooler when connecting remotely. You can find all you need to know about this vulnerability in this article and how you can mitigate it (and you can).   Print Spooler in a nutshell:  Print Spooler is Microsoft's service for managing and monitoring files printing. This service is among Microsoft's oldest and has had minimal maintenance updates since it was released.   Every Microsoft machine (servers and endpoints) has this feature enabled by default.  PrintNightmare vulnerability:  As soon as an attacker gains limited user
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PrintNightmare Patch Can Be Bypassed, Say Researchers<a href="https://www.infosecurity-magazine.com:443/news/new-printnightmare-patch-bypassed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Point and Print function appears to be the problem
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos acquires Capsule8 for Linux security<a href="https://www.channelasia.tech/article/689648/sophos-acquires-capsule8-linux-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acquired for an unknown sum, the acquisition will see Sophos integrate Capsule8 technology, which is aimed at Linux cybersecurity, to its Adaptive Cybersecurity Ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Channel Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy Hackers Target Indian Government Officials With New Malware<a href="https://thehackernews.com/2021/07/sidecopy-hackers-target-indian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-espionage group has been observed increasingly targeting Indian government personnel as part of a broad campaign to infect victims with as many as four new custom remote access trojans (RATs), signaling a "boost in their development operations."  Attributed to a group tracked as SideCopy, the intrusions culminate in the deployment of a variety of modular plugins, ranging from file enumerators to browser credential stealers and keyloggers (Xeytan and Lavao), Cisco Talos said in a report published Wednesday.  "Targeting tactics and themes observed in SideCopy campaigns indicate a high degree of similarity to the Transparent Tribe APT (aka APT36) also targeting India," researchers Asheer Malhotra and Justin Thattil  said . "These include using decoys posing as operational documents belonging to the military and think tanks and honeytrap-based infections."   First documented in September 2020 by Indian cybersecurity firm Quick Heal,  SideCopy  has a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Microsoft to QNAP, Multiple Firms Warn Against High-Severity Flaws<a href="https://cyware.com/news/from-microsoft-to-qnap-multiple-firms-warn-against-high-severity-flaws-cff63bb4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are urging everyone to patch multiple critical and high-severity vulnerabilities found in Windows Print Spooler, QNAP devices, and other systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: SBI Customers Being Targeted by an OTP Scam<a href="https://ciso.economictimes.indiatimes.com/news/state-bank-of-india-customers-a-big-otp-scam-is-targeting-you/84203322?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research wing of New Delhi-based think tank CyberPeace Foundation, along with Autobot Infosec Pvt Ltd, studied two such incidents on the name of SBI that were faced by some smartphone users.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Tech giants say government cyber assistance would simply cause more problems<a href="https://www.zdnet.com/article/tech-giants-say-government-cyber-assistance-would-simply-cause-more-problems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Legislation Amendment (Critical Infrastructure) Bill 2020 would allow government to provide "assistance" to entities in response to significant cyberattacks on Australian systems.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya offers pre-patch instructions for on-prem VSA customers<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-offers-pre-patch-instructions-for-on-prem-vsa-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Still struggling to manage the fallout from a ransomware attack that kicked off Friday, Kaseya was unable to relaunch the software-as-a-service VSA remote management product it took offline or provide a patch for its on-premises VSA customers Wednesday. But the company did release pre-patch instructions to prepare on-premises clients for the coming update.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Emergency Patch Fails to Fully Fix PrintNightmare RCE Vulnerability<a href="https://thehackernews.com/2021/07/microsofts-emergency-patch-fails-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as Microsoft  expanded patches  for the so-called PrintNightmare vulnerability for Windows 10 version 1607, Windows Server 2012, and Windows Server 2016, it has come to light that the fix for the remote code execution exploit in the Windows Print Spooler service can be bypassed in certain scenarios, effectively defeating the security protections and permitting attackers to run arbitrary code on infected systems.  On Tuesday, the Windows maker issued an  emergency out-of-band update  to address  CVE-2021-34527  (CVSS score: 8.8) after the flaw was accidentally disclosed by researchers from Hong Kong-based cybersecurity firm Sangfor late last month, at which point it emerged that the issue was different from another bug — tracked as  CVE-2021-1675  — that was patched by Microsoft on June 8.   "Several days ago, two security vulnerabilities were found in Microsoft Windows' existing printing mechanism," Yaniv Balmas, head of cyber research at Check Point, told The Hacke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 07, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
