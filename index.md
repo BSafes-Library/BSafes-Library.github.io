@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Marvel Movie Malware Detected<a href="https://www.infosecurity-magazine.com:443/news/marvel-movie-malware-detected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Widow malware masquerades as new movie to steal money and credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online course provider Coursera hit with API issues, with cloud driving additional exposure<a href="https://www.scmagazine.com/home/security-news/cloud-security/online-course-provider-coursera-hit-with-api-issues-with-cloud-driving-additional-exposure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs have been around for years, but the adoption of cloud and cloud services are leading drivers behind explosive use recently, enabling attackers to elevate privileges and move laterally throughout networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Multi-Cloud Environments More Risky<a href="https://www.infosecurity-magazine.com:443/news/multicloud-environments-more-risky/"> Full Text</a>
 </p>
 <details>
