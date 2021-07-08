@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command lawyer calls for military operations against hackers<a href="https://thehill.com//policy/defense/562075-cyber-command-lawyer-calls-for-military-operations-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top lawyer for U.S. Cyber Command is calling for the United States to push back against transnational criminal hackers with military cyber operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Maryland town knocked offline as part of massive ransomware attack<a href="https://thehill.com//policy/cybersecurity/562044-maryland-town-knocked-offline-as-part-of-massive-ransomware-attack"> Full Text</a>
 </p>
 <details>
