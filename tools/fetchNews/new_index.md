@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.K.’s Online Safety Bill: Not That Safe, After All?<a href="https://www.lawfareblog.com/uks-online-safety-bill-not-safe-after-all"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. government's long-awaited Online Safety Bill was published on May 12. What does it say?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/featured/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
 </p>
 <details>
