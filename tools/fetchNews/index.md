@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley discloses data breach after the hack of a third-party vendor<a href="https://securityaffairs.co/wordpress/119865/data-breach/morgan-stanley-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American multinational investment bank and financial services firm Morgan Stanley discloses a data breach caused by the hack of an Accellion FTA server of a third-party vendor.
+
+
+
+Investment banking firm Morgan Stanley has disclosed a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/kaseya-cyberattack/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
 </p>
 <details>
