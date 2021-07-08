@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 08, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows security update KB5004945 breaks printing on Zebra printers<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-kb5004945-breaks-printing-on-zebra-printers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's recent out-of-band KB5004945 PrintNightmare security updates are preventing Windows users from printing to certain Zebra printers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Fake Accounts and Sneaker-Bots Took Over the Internet<a href="https://threatpost.com/fake-accounts-sneaker-bots-internet/167626/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses fake online accounts, and the fraud they carry out on a daily basis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command lawyer calls for military operations against hackers<a href="https://thehill.com//policy/defense/562075-cyber-command-lawyer-calls-for-military-operations-against-hackers"> Full Text</a>
 </p>
 <details>
