@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley reports data breach after vendor Accellion hack<a href="https://www.bleepingcomputer.com/news/security/morgan-stanley-reports-data-breach-after-vendor-accellion-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment banking firm&nbsp;Morgan Stanley has reported a data breach after attackers stole personal information belonging to its customers by hacking into the Accellion FTA server of a third party vendor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

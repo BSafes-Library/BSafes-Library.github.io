@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai_ptea: The Latest Mirai-Inspired Botnet<a href="https://cyware.com/news/mirai_ptea-the-latest-mirai-inspired-botnet-a958db6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have spotted a new Mirai-inspired botnet, mirai_ptea, abusing an undisclosed vulnerability in KGUARD's Digital Video Recorders (DVR).&nbsp;Mirai’s source code was leaked several years ago, and since then multiple variants are still getting spotted on the threat landscape.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

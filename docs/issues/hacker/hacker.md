@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts bypassed Microsoft’s emergency patch for the PrintNightmare<a href="https://securityaffairs.co/wordpress/119839/hacking/printnightmare-patch-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergency patch for the PrintNightmare vulnerability released by Microsoft is incomplete and still allows RCE.
+
+
+
+Yesterday, Microsoft has&nbsp;released an out-of-band KB5004945 security update&nbsp;to address the&nbsp;PrintNightmare vulnerability, unfortunately,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

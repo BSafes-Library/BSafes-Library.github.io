@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Malware Attacks Targeting Corporate Networks in Latin America<a href="https://thehackernews.com/2021/07/experts-uncover-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Thursday took the wraps off a new, ongoing espionage campaign targeting corporate networks in Spanish-speaking countries, specifically Venezuela, to spy on its victims.  Dubbed " Bandidos " by ESET owing to the use of an upgraded variant of Bandook malware, the primary targets of the threat actor are corporate networks in the South American country spanning across manufacturing, construction, healthcare, software services, and retail sectors.  Written in both Delphi and C++,&nbsp; Bandook &nbsp;has a history of being sold as a commercial remote access trojan (RAT) dating all the way back to 2005. Since then, numerous variants have emerged on the threat landscape and put to use in different surveillance campaigns in 2015 and 2017, allegedly by a cyber-mercenary group known as Dark Caracal on behalf of government interests in Kazakhstan and Lebanon.   In a continuing resurgence of the Bandook Trojan, Check Point last year&nbsp; disclosed &nbsp;three new samples — one
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Apex predators': Why the Kaseya ransomware attack has experts worried<a href="https://www.nbcnews.com/tech/security/kaseya-ransomware-attack-experts-worried-rcna1345?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil gang used a level of planning and sophistication closer to high-level, government-backed hackers, rather than a mere criminal operation, several cybersecurity experts say.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: SBI Customers Being Targeted by an OTP Scam<a href="https://ciso.economictimes.indiatimes.com/news/state-bank-of-india-customers-a-big-otp-scam-is-targeting-you/84203322?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research wing of New Delhi-based think tank CyberPeace Foundation, along with Autobot Infosec Pvt Ltd, studied two such incidents on the name of SBI that were faced by some smartphone users.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

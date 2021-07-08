@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why I Love (Breaking Into) Your Security Appliances<a href="https://threatpost.com/breaking-into-security-appliances/167584/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David “moose” Wolpoff, CTO at Randori, discusses security appliances and VPNs and how attackers only have to “pick one lock” to invade an enterprise through them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Learn From Nation-State Attackers' OpSec Mistakes<a href="https://www.darkreading.com/threat-intelligence/researchers-learn-from-nation-state-attackers-opsec-mistakes/d/d-id/1341483?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In their investigation of the Charming Kitten group, IBM X-Force researchers investigated attackers' operational security errors to reveal the inner details of how they function and launch attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

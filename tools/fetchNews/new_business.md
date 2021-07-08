@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos acquires Capsule8 for Linux security<a href="https://www.channelasia.tech/article/689648/sophos-acquires-capsule8-linux-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acquired for an unknown sum, the acquisition will see Sophos integrate Capsule8 technology, which is aimed at Linux cybersecurity, to its Adaptive Cybersecurity Ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Channel Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

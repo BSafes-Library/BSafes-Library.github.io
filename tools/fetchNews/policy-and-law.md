@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Could Appeal Assange Extradition Refusal<a href="https://www.infosecurity-magazine.com:443/news/us-could-appeal-assange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK court grants United States permission to appeal decision not to extradite WikiLeaks founder Julian Assange
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

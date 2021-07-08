@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘How can I help you today?’ Scammers dupe online support agents through live chat platforms<a href="https://www.scmagazine.com/home/security-news/phishing/how-can-i-help-you-today-scammers-dupe-online-support-agents-through-live-chat-platforms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scheme is yet another recent example of phishing campaigns leveraging communication mediums outside of email to catch prospective victims off-guard. And it works in part because website operators that use chat features are not always diligently scanning uploaded files for malware.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

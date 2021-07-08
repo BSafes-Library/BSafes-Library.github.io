@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Awareness Training is Broken. Human Risk Management (HRM) is the Fix<a href="https://thehackernews.com/2021/07/security-awareness-training-is-broken.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Humans are an organization's strongest defence against evolving cyber threats, but security awareness training alone often isn't enough to transform user behaviour.  In this guide, usecure looks at why Human Risk Management (HRM) is the new fix for building a security-savvy workforce.  Don't be fooled...  Businesses are investing more than ever into strengthening their employee security awareness efforts, but a big problem still plagues SMBs and enterprises in every sector —&nbsp; human-related data breaches .  Even with more businesses rolling out staff security awareness training programs to combat evolving cyber threats, over 90% of data breaches still stem from human error.  So, why are human-related data breaches still so prevalent?  Access Now: Security Awareness Training is Broken. HRM is the Fix [Free eBook] →  Security awareness training often isn't enough  It's easy to think that rolling out some security awareness courses and sending a few email bulletins fro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

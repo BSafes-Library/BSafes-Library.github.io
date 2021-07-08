@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Costs Organizations Nearly $1.79 Million Per Minute<a href="https://www.infosecurity-magazine.com:443/news/cybercrime-costs-orgs-per-minute/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+648 cyber-attacks per minute occurred in the past year, costing organizations $1.79 million every minute
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure cyberattacks signaling the importance of prioritizing security<a href="https://www.helpnetsecurity.com/2021/07/07/critical-infrastructure-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the U.S. looks at its vulnerable industries, the responsibility is falling on businesses to ensure that they are keeping the organization and employees safe and secure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CTOs Keeping Quiet on Breaches to Avoid Cyber Blame Game<a href="https://www.infosecurity-magazine.com:443/news/ctos-keeping-quiet-breaches-blame/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Report finds 92% of UK organizations suffered a successful attack last year
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Tech giants say government cyber assistance would simply cause more problems<a href="https://www.zdnet.com/article/tech-giants-say-government-cyber-assistance-would-simply-cause-more-problems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Legislation Amendment (Critical Infrastructure) Bill 2020 would allow government to provide "assistance" to entities in response to significant cyberattacks on Australian systems.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

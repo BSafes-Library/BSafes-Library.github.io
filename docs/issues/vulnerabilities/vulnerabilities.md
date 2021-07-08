@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information disclosure, privilege escalation vulnerabilities spotted in IOBit Advanced SystemCare Ultimate<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-iobit0-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cisco Talos recently discovered multiple vulnerabilities in IOBit Advanced SystemCare Ultimate. These vulnerabilities all exist in a monitoring driver in the software.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Sage X3 Enterprise Management Software<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-sage-x3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four security vulnerabilities have been uncovered in the&nbsp; Sage X3 &nbsp;enterprise resource planning (ERP) product, two of which could be chained together as part of an attack sequence to enable adversaries to execute malicious commands and take control of vulnerable systems.  These issues were discovered by researchers from Rapid7, who notified Sage Group of their findings on Feb. 3, 2021. The vendor has since rolled out&nbsp; fixes &nbsp;in recent releases for Sage X3 Version 9 (Syracuse 9.22.7.2), Sage X3 HR &amp; Payroll Version 9 (Syracuse 9.24.1.3), Sage X3 Version 11 (Syracuse 11.25.2.6), and Sage X3 Version 12 (Syracuse 12.10.2.8) that were shipped in March.   The list of vulnerabilities is as follows -   CVE-2020-7388 &nbsp;(CVSS score: 10.0) - Sage X3 Unauthenticated Remote Command Execution (RCE) as SYSTEM in AdxDSrv.exe component  CVE-2020-7389 &nbsp;(CVSS score" 5.5) - System "CHAINE" Variable Script Command Injection (No fix planned)  CVE-2020-7387 &nbsp;(CVSS score: 5.3) - Sage X3 Ins
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Mitigate Microsoft Print Spooler Vulnerability – PrintNightmare<a href="https://thehackernews.com/2021/07/how-to-mitigate-microsoft-print-spooler.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, PrintNightmare  - Microsoft's Print Spooler vulnerability (CVE-2021-34527) was upgraded from a 'Low' criticality to a 'Critical' criticality.  This is due to a Proof of Concept published on GitHub, which attackers could potentially leverage for gaining access to Domain Controllers.  As we reported earlier , Microsoft already released a patch in June 2021, but it wasn't enough to stop exploits. Attackers can still use Print Spooler when connecting remotely. You can find all you need to know about this vulnerability in this article and how you can mitigate it (and you can).&nbsp;  Print Spooler in a nutshell: &nbsp;Print Spooler is Microsoft's service for managing and monitoring files printing. This service is among Microsoft's oldest and has had minimal maintenance updates since it was released.&nbsp;  Every Microsoft machine (servers and endpoints) has this feature enabled by default.  PrintNightmare vulnerability: &nbsp;As soon as an attacker gains limited user
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PrintNightmare Patch Can Be Bypassed, Say Researchers<a href="https://www.infosecurity-magazine.com:443/news/new-printnightmare-patch-bypassed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Point and Print function appears to be the problem
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Microsoft to QNAP, Multiple Firms Warn Against High-Severity Flaws<a href="https://cyware.com/news/from-microsoft-to-qnap-multiple-firms-warn-against-high-severity-flaws-cff63bb4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are urging everyone to patch multiple critical and high-severity vulnerabilities found in Windows Print Spooler, QNAP devices, and other systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Emergency Patch Fails to Fully Fix PrintNightmare RCE Vulnerability<a href="https://thehackernews.com/2021/07/microsofts-emergency-patch-fails-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as Microsoft&nbsp; expanded patches &nbsp;for the so-called PrintNightmare vulnerability for Windows 10 version 1607, Windows Server 2012, and Windows Server 2016, it has come to light that the fix for the remote code execution exploit in the Windows Print Spooler service can be bypassed in certain scenarios, effectively defeating the security protections and permitting attackers to run arbitrary code on infected systems.  On Tuesday, the Windows maker issued an&nbsp; emergency out-of-band update &nbsp;to address&nbsp; CVE-2021-34527 &nbsp;(CVSS score: 8.8) after the flaw was accidentally disclosed by researchers from Hong Kong-based cybersecurity firm Sangfor late last month, at which point it emerged that the issue was different from another bug — tracked as&nbsp; CVE-2021-1675 &nbsp;— that was patched by Microsoft on June 8.   "Several days ago, two security vulnerabilities were found in Microsoft Windows' existing printing mechanism," Yaniv Balmas, head of cyber research at Check Point, told The Hacke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900160
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Suspected ‘Dr HeX’ Hacker Busted for 9 Years of Phishing<a href="https://threatpost.com/dr-hex-hacker-busted-phishing/167597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unnamed suspect allegedly helped to develop carding and phishing kits with the aim of stealing customers’ bank-card data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Over 170 Scam Cryptomining Apps Charge for Non-Existent Services<a href="https://www.infosecurity-magazine.com:443/news/170-scam-cryptomining-apps-charge/"> Full Text</a>
 </p>
 <details>

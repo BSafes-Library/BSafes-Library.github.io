@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 10.5 is out, it includes a new anti-censorship feature<a href="https://securityaffairs.co/wordpress/119855/digital-id/tor-browser-10-5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.5 which enhances an anti-censorship feature and warns of V2 onion URL deprecation.
+
+
+
+The Tor Project has released Tor Browser 10.5 which implements an improved anti-censorship feature and warns users of V2 onion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Firefox to roll out DNS over HTTPS for Canadian users<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-to-roll-out-dns-over-https-for-canadian-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has decided to roll out the DNS over HTTPS (DoH) feature by default for Canadian Firefox users later this month. The move comes after DoH has already been offered to US-based Firefox&nbsp;users&nbsp;since 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya offers pre-patch instructions for on-prem VSA customers<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-offers-pre-patch-instructions-for-on-prem-vsa-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Still struggling to manage the fallout from a ransomware attack that kicked off Friday, Kaseya was unable to relaunch the software-as-a-service VSA remote management product it took offline or provide a patch for its on-premises VSA customers Wednesday. But the company did release pre-patch instructions to prepare on-premises clients for the coming update.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

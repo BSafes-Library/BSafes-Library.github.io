@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon Office Left Military Designs for Body Armor, Vehicle Gear Unsecured Online<a href="https://www.cyberscoop.com/pentagon-cyber-vulnerabilities-printers-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The office in charge of the U.S. military’s 3D printing left designs for defense technology vulnerable to theft by hackers and adversaries, according to a DODIG report made public on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
