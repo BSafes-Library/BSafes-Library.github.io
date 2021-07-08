@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NanoLock secures $11 million Series B to boost OT and IoT device-level protection<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3911874,00.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NanoLock Security has secured an $11 million Series B round from new investors OurCrowd, HIVE2040 (by Avnon Group), and Atlantica Group as well as current investors AWZ Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Android Updates for July 2021 Patch Tens of High-Severity Vulnerabilities<a href="https://www.securityweek.com/android-updates-july-2021-patch-tens-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
 </p>
 <details>
