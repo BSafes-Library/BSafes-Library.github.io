@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland town knocked offline as part of massive ransomware attack<a href="https://thehill.com//policy/cybersecurity/562044-maryland-town-knocked-offline-as-part-of-massive-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Maryland town was taken offline last week during the massive ransomware attack on through Miami-based technology firm Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
