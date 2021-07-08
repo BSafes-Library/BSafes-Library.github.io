@@ -11,6 +11,34 @@ nav_order: 900072
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Trump files lawsuit against Facebook, Twitter, and Google | New cyberattacks ramp up tensions with Russia | 36 states, DC sue Google alleging antitrust violations in app store<a href="https://thehill.com//policy/technology/overnights/561972-hillicon-valley-trump-files-lawsuit-against-facebook-twitter-and"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former President TrumpDonald TrumpOver 535 charged six months after Jan. 6 riot: DOJ  Pennsylvania dentist and Trump associate accused of groping patient TikTok names longtime Microsoft worker as top US lawyer MORE is lashing out at social media platforms again over their actions taken to ban and suspend his accounts, this time in the form of a lawsuit against Twitter, Google and Facebook as well as their CEOs. Legal experts, however, said the case will almost certainly be dismissed.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Whitepaper] XDR vs. NDR/NTA – What do Organizations Truly Need to Stay Safe?<a href="https://thehackernews.com/2021/07/whitepaper-xdr-vs-ndrnta-what-do.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams whose organizations are outside the Fortune 500 are faced with a dilemma. Most teams will have to choose between deploying either a network traffic analysis (NTA) or network detection and response (NDR) tool or an endpoint detection and response (EDR) tool to supplement their existing stacks.  On the other hand, some organizations are getting the best of both options by switching to extended detection and response (XDR) tools which often provide all these tools in one solution.  This is the key takeaway of a new whitepaper by security provider Cynet ( download it here ).  NDR tools have become more popular, and for a good reason. They offer organizations a variety of benefits and can help further secure an environment from lateral movement attacks and further infiltration if an initial attack succeeds. NDR tools can detect a wide range of malicious activities and anomalous behaviors.&nbsp;  The question is whether the strengths of an NDR tool outweigh its limitations.&nbsp;  The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Email fatigue among users opens doors for cybercriminals<a href="https://www.bleepingcomputer.com/news/security/email-fatigue-among-users-opens-doors-for-cybercriminals/"> Full Text</a>
 </p>
 <details>

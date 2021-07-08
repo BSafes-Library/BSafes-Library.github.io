@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign looks to leverage Kaseya VSA fears<a href="https://www.scmagazine.com/home/security-news/phishing/phishing-campaign-looks-to-leverage-kaseya-vsa-fears/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign is taking advantage of Kaseya VSA customers eagerly awaiting a patch for the beleaguered remote monitoring and management application.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Ransomware Attack Used to Fuel Malspam Campaign<a href="https://cyware.com/news/kaseya-ransomware-attack-used-to-fuel-malspam-campaign-303f898d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a series of tweets from Malwarebytes, researchers have disclosed that a malspam campaign is taking advantage of the Kaseya ransomware attack to drop Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tens of thousands scammed using fake Android cryptomining apps<a href="https://www.bleepingcomputer.com/news/security/tens-of-thousands-scammed-using-fake-android-cryptomining-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers tricked at least 93,000 people into buying fake Android cryptocurrency mining applications, as revealed by researchers from California-based cybersecurity firm Lookout.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

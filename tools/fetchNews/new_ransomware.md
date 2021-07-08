@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware code in Kaseya attack bypasses systems using Russian, related languages: report<a href="https://thehill.com//policy/cybersecurity/561932-ransomware-code-in-massive-attack-bypasses-systems-using-russian-related"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-linked cybercrime gang associated with carrying out a major ransomware attack against a software company used a code that avoids targeting systems that use Russian and other former Soviet-era languages as a default, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

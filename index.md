@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huawei hires three new lobbying firms<a href="https://thehill.com//business-a-lobbying/561979-huawei-hires-three-new-lobbying-firms"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Trump files lawsuit against Facebook, Twitter, and Google | New cyberattacks ramp up tensions with Russia | 36 states, DC sue Google alleging antitrust violations in app store<a href="https://thehill.com//policy/technology/overnights/561972-hillicon-valley-trump-files-lawsuit-against-facebook-twitter-and"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: PrintNightmare now patched on all Windows versions<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-now-patched-on-all-windows-versions/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wiregrass Electric Cooperative hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/119827/cyber-crime/wiregrass-electric-cooperative-attack.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Could Appeal Assange Extradition Refusal<a href="https://www.infosecurity-magazine.com:443/news/us-could-appeal-assange/"> Full Text</a>
@@ -122,7 +122,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emergency ‘PrintNightmare’ patch said to fix RCEs, but not privilege escalation on Windows servers<a href="https://www.scmagazine.com/home/patch-management/emergency-printnightmare-patch-said-to-fix-rces-but-not-privilege-escalation-on-windows-servers/"> Full Text</a>
@@ -138,7 +138,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware code in Kaseya attack bypasses systems using Russian, related languages: report<a href="https://thehill.com//policy/cybersecurity/561932-ransomware-code-in-massive-attack-bypasses-systems-using-russian-related"> Full Text</a>
@@ -154,7 +154,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity researchers say they warned Kaseya of flaw in April<a href="https://thehill.com//policy/cybersecurity/561927-cybersecurity-researchers-warned-kaseya-of-flaw-in-april-report"> Full Text</a>
@@ -170,7 +170,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden considering 'range of options' to respond to Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/561920-biden-considering-range-of-options-to-respond-to-russian-cyberattacks"> Full Text</a>
@@ -186,7 +186,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity companies are selling like hotcakes in post-pandemic investment market<a href="https://www.scmagazine.com/home/security-news/corporate-news/investment/cybersecurity-companies-are-selling-like-hotcakes-in-post-pandemic-investment-market/"> Full Text</a>
@@ -202,7 +202,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Administration Cancels $10bn JEDI Contract<a href="https://www.infosecurity-magazine.com:443/news/biden-administration-cancels-10bn/"> Full Text</a>
@@ -218,7 +218,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Insider Data Breaches Aren't Malicious<a href="https://www.infosecurity-magazine.com:443/news/most-insider-data-breaches-arent/"> Full Text</a>
@@ -234,7 +234,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why I Love (Breaking Into) Your Security Appliances<a href="https://threatpost.com/breaking-into-security-appliances/167584/"> Full Text</a>
@@ -250,7 +250,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House urges mayors to review local govts’ cybersecurity posture<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-mayors-to-review-local-govts-cybersecurity-posture/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WildPressure APT expands operations targeting the macOS platform<a href="https://securityaffairs.co/wordpress/119812/apt/wildpressure-apt-macos-malware.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical vulnerabilities in Philips Vue PACS devices could allow remote takeover<a href="https://www.scmagazine.com/home/health-care/critical-vulnerabilities-in-philips-vue-pacs-devices-could-allow-remote-takeover/"> Full Text</a>
@@ -302,7 +302,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Kaseya VSA Security Update Drops Cobalt Strike<a href="https://threatpost.com/fake-kaseya-vsa-update-cobalt-strike/167587/"> Full Text</a>
@@ -318,7 +318,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's incomplete PrintNightmare patch fails to fix vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-incomplete-printnightmare-patch-fails-to-fix-vulnerability/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Targeted in WildPressure APT Malware Campaign<a href="https://threatpost.com/macos-wildpressure-apt/167606/"> Full Text</a>
@@ -350,7 +350,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky Password Manager caught out making easily bruteforced passwords<a href="https://www.zdnet.com/article/kaspersky-password-manager-caught-out-making-easily-bruteforced-passwords/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Browser adds new anti-censorship feature, V2 onion warnings<a href="https://www.bleepingcomputer.com/news/security/tor-browser-adds-new-anti-censorship-feature-v2-onion-warnings/"> Full Text</a>
@@ -382,7 +382,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai_ptea: The Latest Mirai-Inspired Botnet<a href="https://cyware.com/news/mirai_ptea-the-latest-mirai-inspired-botnet-a958db6d"> Full Text</a>
@@ -398,7 +398,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft urges users to update PCs in security warning<a href="https://thehill.com//policy/cybersecurity/561874-microsoft-urges-users-to-update-pcs-in-security-warning"> Full Text</a>
@@ -414,7 +414,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy cybercriminals use new custom Trojans in attacks against India's military<a href="https://www.zdnet.com/article/sidecopy-cybercriminals-use-custom-trojans-in-india-attacks/?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WildPressure APT Emerges With New Malware Targeting Windows and macOS<a href="https://thehackernews.com/2021/07/wildpressure-apt-emerges-with-new.html"> Full Text</a>
@@ -446,7 +446,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected ‘Dr HeX’ Hacker Busted for 9 Years of Phishing<a href="https://threatpost.com/dr-hex-hacker-busted-phishing/167597/"> Full Text</a>
@@ -462,7 +462,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Vulnerable NuGet Packages Allow Attackers to Target .NET Platform<a href="https://thehackernews.com/2021/07/dozens-of-vulnerable-nuget-packages.html"> Full Text</a>
@@ -478,7 +478,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Whitepaper] XDR vs. NDR/NTA – What do Organizations Truly Need to Stay Safe?<a href="https://thehackernews.com/2021/07/whitepaper-xdr-vs-ndrnta-what-do.html"> Full Text</a>
@@ -494,7 +494,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Learn From Nation-State Attackers' OpSec Mistakes<a href="https://www.darkreading.com/threat-intelligence/researchers-learn-from-nation-state-attackers-opsec-mistakes/d/d-id/1341483?&web_view=true"> Full Text</a>
@@ -510,7 +510,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware-hit law firm gets court order asking crooks not to publish the data they stole<a href="https://www.theregister.com/2021/07/06/ransomware_4_new_square_chambers/?&web_view=true"> Full Text</a>

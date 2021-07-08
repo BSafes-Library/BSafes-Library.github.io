@@ -34,6 +34,498 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huawei hires three new lobbying firms<a href="https://thehill.com//business-a-lobbying/561979-huawei-hires-three-new-lobbying-firms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Embattled Chinese telecom Huawei recently hired three new lobbying firms, according to disclosure reports filed with Congress.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Trump files lawsuit against Facebook, Twitter, and Google | New cyberattacks ramp up tensions with Russia | 36 states, DC sue Google alleging antitrust violations in app store<a href="https://thehill.com//policy/technology/overnights/561972-hillicon-valley-trump-files-lawsuit-against-facebook-twitter-and"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former President TrumpDonald TrumpOver 535 charged six months after Jan. 6 riot: DOJ  Pennsylvania dentist and Trump associate accused of groping patient TikTok names longtime Microsoft worker as top US lawyer MORE is lashing out at social media platforms again over their actions taken to ban and suspend his accounts, this time in the form of a lawsuit against Twitter, Google and Facebook as well as their CEOs. Legal experts, however, said the case will almost certainly be dismissed.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: PrintNightmare now patched on all Windows versions<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-now-patched-on-all-windows-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the KB5004948 emergency security update to address the Windows Print Spooler PrintNightmare vulnerability on all editions of Windows 10 1607 and Windows Server 2016.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiregrass Electric Cooperative hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/119827/cyber-crime/wiregrass-electric-cooperative-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiregrass Electric Cooperative, a rural Alabama electric cooperative was hit by a ransomware attack.
+
+
+
+Wiregrass Electric Cooperative, a rural Alabama electric cooperative that serves about 25,000 members, was hit by a ransomware attack.
+
+
+
+The cyberattack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Could Appeal Assange Extradition Refusal<a href="https://www.infosecurity-magazine.com:443/news/us-could-appeal-assange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK court grants United States permission to appeal decision not to extradite WikiLeaks founder Julian Assange
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency ‘PrintNightmare’ patch said to fix RCEs, but not privilege escalation on Windows servers<a href="https://www.scmagazine.com/home/patch-management/emergency-printnightmare-patch-said-to-fix-rces-but-not-privilege-escalation-on-windows-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Failure to patch could lead to what one researcher described as “a catastrophic security incident such as data theft, financial fraud, or ransomware.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware code in Kaseya attack bypasses systems using Russian, related languages: report<a href="https://thehill.com//policy/cybersecurity/561932-ransomware-code-in-massive-attack-bypasses-systems-using-russian-related"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-linked cybercrime gang associated with carrying out a major ransomware attack against a software company used a code that avoids targeting systems that use Russian and other former Soviet-era languages as a default, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity researchers say they warned Kaseya of flaw in April<a href="https://thehill.com//policy/cybersecurity/561927-cybersecurity-researchers-warned-kaseya-of-flaw-in-april-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Miami-based technology firm at the center of the worldwide security breach carried out by Russia-linked hackers was warned in early April of the cybersecurity vulnerability that was ultimately taken advantage of by the cyber criminal gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden considering 'range of options' to respond to Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/561920-biden-considering-range-of-options-to-respond-to-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and his administration are considering potential options for a response to new Russian-linked cyberattacks, the latest in a string of debilitating attacks linked to the country. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity companies are selling like hotcakes in post-pandemic investment market<a href="https://www.scmagazine.com/home/security-news/corporate-news/investment/cybersecurity-companies-are-selling-like-hotcakes-in-post-pandemic-investment-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The red-hot cyber investment market in 2020 was replete with action from top dogs, both from outside the industry and within.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Cancels $10bn JEDI Contract<a href="https://www.infosecurity-magazine.com:443/news/biden-administration-cancels-10bn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joint Enterprise Defense Infrastructure cloud contract axed, replaced with multi-vendor contract
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Insider Data Breaches Aren't Malicious<a href="https://www.infosecurity-magazine.com:443/news/most-insider-data-breaches-arent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research finds 78% of reported breaches that involve an insider were not malicious
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why I Love (Breaking Into) Your Security Appliances<a href="https://threatpost.com/breaking-into-security-appliances/167584/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David “moose” Wolpoff, CTO at Randori, discusses security appliances and VPNs and how attackers only have to “pick one lock” to invade an enterprise through them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House urges mayors to review local govts’ cybersecurity posture<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-mayors-to-review-local-govts-cybersecurity-posture/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following recent ransomware attacks, Deputy National Security Advisor Anne Neuberger asked US mayors to immediately hold a meeting with the heads of state agencies to evaluate their cybersecurity posture.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT expands operations targeting the macOS platform<a href="https://securityaffairs.co/wordpress/119812/apt/wildpressure-apt-macos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WildPressure APT is targeting industrial organizations in the Middle East since 2019 and was spotted using now a new malware that targets both Windows and macOS.
+
+
+
+Researchers from Kaspersky have spotted a new malware used by the WildPressure APT group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical vulnerabilities in Philips Vue PACS devices could allow remote takeover<a href="https://www.scmagazine.com/home/health-care/critical-vulnerabilities-in-philips-vue-pacs-devices-could-allow-remote-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Philips reported a range of 15 vulnerabilities in its Vue platform to CISA, four of which were ranked critical. A successful exploit could allow an attacker to take control of the PACS system.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Kaseya VSA Security Update Drops Cobalt Strike<a href="https://threatpost.com/fake-kaseya-vsa-update-cobalt-strike/167587/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are planting Cobalt Strike backdoors by malspamming a bogus Microsoft update along with a SecurityUpdates.exe. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's incomplete PrintNightmare patch fails to fix vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-incomplete-printnightmare-patch-fails-to-fix-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have bypassed Microsoft's emergency patch for the PrintNightmare vulnerability to achieve remote code execution and local privilege escalation with the official fix installed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Targeted in WildPressure APT Malware Campaign<a href="https://threatpost.com/macos-wildpressure-apt/167606/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors enlist compromised WordPress websites in campaign targeting macOS users. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky Password Manager caught out making easily bruteforced passwords<a href="https://www.zdnet.com/article/kaspersky-password-manager-caught-out-making-easily-bruteforced-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The big mistake made by KPM was using the current system time in seconds as the seed into a Mersenne Twister PRNG, meaning different instances will generate the same password at a given time.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser adds new anti-censorship feature, V2 onion warnings<a href="https://www.bleepingcomputer.com/news/security/tor-browser-adds-new-anti-censorship-feature-v2-onion-warnings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.5 with V2 onion URL deprecation warnings, a redesigned Tor connection experience, and an improved anti-censorship feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai_ptea: The Latest Mirai-Inspired Botnet<a href="https://cyware.com/news/mirai_ptea-the-latest-mirai-inspired-botnet-a958db6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have spotted a new Mirai-inspired botnet, mirai_ptea, abusing an undisclosed vulnerability in KGUARD's Digital Video Recorders (DVR).&nbsp;Mirai’s source code was leaked several years ago, and since then multiple variants are still getting spotted on the threat landscape.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges users to update PCs in security warning<a href="https://thehill.com//policy/cybersecurity/561874-microsoft-urges-users-to-update-pcs-in-security-warning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said that users of its Windows operating system should install updates after a cybersecurity company accidentally published a guide on how to exploit vulnerabilities in the service. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy cybercriminals use new custom Trojans in attacks against India's military<a href="https://www.zdnet.com/article/sidecopy-cybercriminals-use-custom-trojans-in-india-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos said a recent surge in activity signals a boost in the APT's development of techniques, tactics, and tools, with multiple, new remote access trojans (RATs) and plugins now in play.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Emerges With New Malware Targeting Windows and macOS<a href="https://thehackernews.com/2021/07/wildpressure-apt-emerges-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign that has set its sights on industrial-related entities in the Middle East since 2019 has resurfaced with an upgraded malware toolset to strike both Windows and macOS operating systems, symbolizing an expansion in both its targets and its strategy around distributing threats.  Russian cybersecurity firm attributed the attacks to an advanced persistent threat (APT) it tracks as " WildPressure ," with victims believed to be in the oil and gas industry.   WildPressure first came to light in March 2020 based off of a malware operation distributing a fully-featured C++ Trojan dubbed "Milum" that enabled the threat actor to gain remote control of the compromised device. The attacks were said to have begun as early as August 2019.   "For their campaign infrastructure, the operators used rented OVH and Netzbetrieb virtual private servers (VPS) and a domain registered with the Domains by Proxy anonymization service," Kaspersky researcher Denis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected ‘Dr HeX’ Hacker Busted for 9 Years of Phishing<a href="https://threatpost.com/dr-hex-hacker-busted-phishing/167597/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unnamed suspect allegedly helped to develop carding and phishing kits with the aim of stealing customers’ bank-card data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Vulnerable NuGet Packages Allow Attackers to Target .NET Platform<a href="https://thehackernews.com/2021/07/dozens-of-vulnerable-nuget-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of off-the-shelf packages hosted on the NuGet repository has revealed 51 unique software components to be vulnerable to actively exploited, high-severity vulnerabilities, once again underscoring the threat posed by third-party dependencies to the software development process.  In light of the growing number of cyber incidents that target the software supply chain, there is an urgent need to assess such third-party modules for any security risks and minimize the attack surface, ReversingLabs researcher Karlo Zanki said in a report shared with The Hacker News.  NuGet  is a Microsoft-supported mechanism for the .NET platform and functions as a package manager designed to enable developers to share reusable code. The framework maintains a central repository of over 264,000 unique packages that have collectively produced more than 109 billion package downloads.   "All identified precompiled software components in our research were different versions of 7Zip, WinSCP and PuT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Whitepaper] XDR vs. NDR/NTA – What do Organizations Truly Need to Stay Safe?<a href="https://thehackernews.com/2021/07/whitepaper-xdr-vs-ndrnta-what-do.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams whose organizations are outside the Fortune 500 are faced with a dilemma. Most teams will have to choose between deploying either a network traffic analysis (NTA) or network detection and response (NDR) tool or an endpoint detection and response (EDR) tool to supplement their existing stacks.  On the other hand, some organizations are getting the best of both options by switching to extended detection and response (XDR) tools which often provide all these tools in one solution.  This is the key takeaway of a new whitepaper by security provider Cynet ( download it here ).  NDR tools have become more popular, and for a good reason. They offer organizations a variety of benefits and can help further secure an environment from lateral movement attacks and further infiltration if an initial attack succeeds. NDR tools can detect a wide range of malicious activities and anomalous behaviors.   The question is whether the strengths of an NDR tool outweigh its limitations.   The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Learn From Nation-State Attackers' OpSec Mistakes<a href="https://www.darkreading.com/threat-intelligence/researchers-learn-from-nation-state-attackers-opsec-mistakes/d/d-id/1341483?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In their investigation of the Charming Kitten group, IBM X-Force researchers investigated attackers' operational security errors to reveal the inner details of how they function and launch attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-hit law firm gets court order asking crooks not to publish the data they stole<a href="https://www.theregister.com/2021/07/06/ransomware_4_new_square_chambers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legal services firm, 4 New Square Chambers, hit by a ransomware attack has responded by getting a British High Court order demanding the criminals do not share stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

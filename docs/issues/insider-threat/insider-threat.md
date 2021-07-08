@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Insider Data Breaches Aren't Malicious<a href="https://www.infosecurity-magazine.com:443/news/most-insider-data-breaches-arent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research finds 78% of reported breaches that involve an insider were not malicious
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

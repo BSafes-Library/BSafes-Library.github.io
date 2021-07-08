@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolled out emergency update for Windows PrintNightmare zero-day<a href="https://securityaffairs.co/wordpress/119789/uncategorized/microsoft-rolled-out-emergency-update-for-windows-printnightmare-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft rolled out KB5004945 emergency update to address the actively exploited PrintNightmare zero-day vulnerability (CVE-2021-34527) in Print Spooler service.
+
+
+
+Microsoft has released the KB5004945 emergency security update to address the actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

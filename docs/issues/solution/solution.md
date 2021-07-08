@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser adds new anti-censorship feature, V2 onion warnings<a href="https://www.bleepingcomputer.com/news/security/tor-browser-adds-new-anti-censorship-feature-v2-onion-warnings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project has released Tor Browser 10.5 with V2 onion URL deprecation warnings, a redesigned Tor connection experience, and an improved anti-censorship feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

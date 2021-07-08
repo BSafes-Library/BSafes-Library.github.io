@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: PrintNightmare now patched on all Windows versions<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-now-patched-on-all-windows-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the KB5004948 emergency security update to address the Windows Print Spooler PrintNightmare vulnerability on all editions of Windows 10 1607 and Windows Server 2016.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency ‘PrintNightmare’ patch said to fix RCEs, but not privilege escalation on Windows servers<a href="https://www.scmagazine.com/home/patch-management/emergency-printnightmare-patch-said-to-fix-rces-but-not-privilege-escalation-on-windows-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Failure to patch could lead to what one researcher described as “a catastrophic security incident such as data theft, financial fraud, or ransomware.”
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity researchers say they warned Kaseya of flaw in April<a href="https://thehill.com//policy/cybersecurity/561927-cybersecurity-researchers-warned-kaseya-of-flaw-in-april-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Miami-based technology firm&nbsp;at the center of the worldwide security breach carried out by Russia-linked hackers was warned in early April of the cybersecurity vulnerability that was ultimately taken advantage of by the cyber criminal gang.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical vulnerabilities in Philips Vue PACS devices could allow remote takeover<a href="https://www.scmagazine.com/home/health-care/critical-vulnerabilities-in-philips-vue-pacs-devices-could-allow-remote-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Philips reported a range of 15 vulnerabilities in its Vue platform to CISA, four of which were ranked critical. A successful exploit could allow an attacker to take control of the PACS system.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's incomplete PrintNightmare patch fails to fix vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-incomplete-printnightmare-patch-fails-to-fix-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have bypassed Microsoft's emergency patch for the PrintNightmare vulnerability to achieve remote code execution and local privilege escalation with the official fix installed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky Password Manager caught out making easily bruteforced passwords<a href="https://www.zdnet.com/article/kaspersky-password-manager-caught-out-making-easily-bruteforced-passwords/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The big mistake made by KPM was using the current system time in seconds as the seed into a Mersenne Twister PRNG, meaning different instances will generate the same password at a given time.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Vulnerable NuGet Packages Allow Attackers to Target .NET Platform<a href="https://thehackernews.com/2021/07/dozens-of-vulnerable-nuget-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of off-the-shelf packages hosted on the NuGet repository has revealed 51 unique software components to be vulnerable to actively exploited, high-severity vulnerabilities, once again underscoring the threat posed by third-party dependencies to the software development process.  In light of the growing number of cyber incidents that target the software supply chain, there is an urgent need to assess such third-party modules for any security risks and minimize the attack surface, ReversingLabs researcher Karlo Zanki said in a report shared with The Hacker News.  NuGet &nbsp;is a Microsoft-supported mechanism for the .NET platform and functions as a package manager designed to enable developers to share reusable code. The framework maintains a central repository of over 264,000 unique packages that have collectively produced more than 109 billion package downloads.   "All identified precompiled software components in our research were different versions of 7Zip, WinSCP and PuT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

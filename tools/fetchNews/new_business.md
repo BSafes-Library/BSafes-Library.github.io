@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huawei hires three new lobbying firms<a href="https://thehill.com//business-a-lobbying/561979-huawei-hires-three-new-lobbying-firms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Embattled Chinese telecom Huawei recently hired three new lobbying firms, according to disclosure reports filed with Congress.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity companies are selling like hotcakes in post-pandemic investment market<a href="https://www.scmagazine.com/home/security-news/corporate-news/investment/cybersecurity-companies-are-selling-like-hotcakes-in-post-pandemic-investment-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The red-hot cyber investment market in 2020 was replete with action from top dogs, both from outside the industry and within.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges users to update PCs in security warning<a href="https://thehill.com//policy/cybersecurity/561874-microsoft-urges-users-to-update-pcs-in-security-warning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said that users of its Windows operating system should install updates after a cybersecurity company accidentally published a guide on how to exploit vulnerabilities in the service.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

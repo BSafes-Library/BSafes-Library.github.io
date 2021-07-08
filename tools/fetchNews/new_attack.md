@@ -11,6 +11,28 @@ nav_order: 900015
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Wiregrass Electric Cooperative hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/119827/cyber-crime/wiregrass-electric-cooperative-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiregrass Electric Cooperative, a rural Alabama electric cooperative was hit by a ransomware attack.
+
+
+
+Wiregrass Electric Cooperative, a rural Alabama electric cooperative that serves about 25,000 members, was hit by a ransomware attack.
+
+
+
+The cyberattack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign looks to leverage Kaseya VSA fears<a href="https://www.scmagazine.com/home/security-news/phishing/phishing-campaign-looks-to-leverage-kaseya-vsa-fears/"> Full Text</a>
 </p>
 <details>

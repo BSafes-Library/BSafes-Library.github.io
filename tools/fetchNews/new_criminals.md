@@ -11,6 +11,20 @@ nav_order: 900031
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SideCopy cybercriminals use new custom Trojans in attacks against India's military<a href="https://www.zdnet.com/article/sidecopy-cybercriminals-use-custom-trojans-in-india-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos said a recent surge in activity signals a boost in the APT's development of techniques, tactics, and tools, with multiple, new remote access trojans (RATs) and plugins now in play.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers uncovered the network infrastructure of REVil – The notorious ransomware group that hit Kaseya<a href="https://securityaffairs.co/wordpress/119799/cyber-crime/researchers-infrastructure-revil-ransomware-gang.html"> Full Text</a>
 </p>
 <details>

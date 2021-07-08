@@ -11,6 +11,52 @@ nav_order: 900010
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT expands operations targeting the macOS platform<a href="https://securityaffairs.co/wordpress/119812/apt/wildpressure-apt-macos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WildPressure APT is targeting industrial organizations in the Middle East since 2019 and was spotted using now a new malware that targets both Windows and macOS.
+
+
+
+Researchers from Kaspersky have spotted a new malware used by the WildPressure APT group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Targeted in WildPressure APT Malware Campaign<a href="https://threatpost.com/macos-wildpressure-apt/167606/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors enlist compromised WordPress websites in campaign targeting macOS users. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Emerges With New Malware Targeting Windows and macOS<a href="https://thehackernews.com/2021/07/wildpressure-apt-emerges-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign that has set its sights on industrial-related entities in the Middle East since 2019 has resurfaced with an upgraded malware toolset to strike both Windows and macOS operating systems, symbolizing an expansion in both its targets and its strategy around distributing threats.  Russian cybersecurity firm attributed the attacks to an advanced persistent threat (APT) it tracks as " WildPressure ," with victims believed to be in the oil and gas industry.&nbsp;  WildPressure first came to light in March 2020 based off of a malware operation distributing a fully-featured C++ Trojan dubbed "Milum" that enabled the threat actor to gain remote control of the compromised device. The attacks were said to have begun as early as August 2019.   "For their campaign infrastructure, the operators used rented OVH and Netzbetrieb virtual private servers (VPS) and a domain registered with the Domains by Proxy anonymization service," Kaspersky researcher Denis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russian Cozy Bear APT Group Allegedly Breached Republican National Committee via Third-party Provider<a href="https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

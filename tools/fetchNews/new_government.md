@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden considering 'range of options' to respond to Russian cyberattacks<a href="https://thehill.com//policy/cybersecurity/561920-biden-considering-range-of-options-to-respond-to-russian-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden and his administration are considering potential options for a response to new Russian-linked cyberattacks, the latest in a string of debilitating attacks linked to the country.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Cancels $10bn JEDI Contract<a href="https://www.infosecurity-magazine.com:443/news/biden-administration-cancels-10bn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joint Enterprise Defense Infrastructure cloud contract axed, replaced with multi-vendor contract
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House urges mayors to review local govts’ cybersecurity posture<a href="https://www.bleepingcomputer.com/news/security/white-house-urges-mayors-to-review-local-govts-cybersecurity-posture/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following recent ransomware attacks, Deputy National Security Advisor&nbsp;Anne Neuberger&nbsp;asked US mayors to immediately&nbsp;hold a meeting with the heads of state agencies to evaluate their cybersecurity posture.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
