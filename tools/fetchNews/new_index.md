@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Updates for July 2021 Patch Tens of High-Severity Vulnerabilities<a href="https://www.securityweek.com/android-updates-july-2021-patch-tens-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerabilities affect the System component and could enable a remote attacker using a specially crafted file to execute arbitrary code within the context of a privileged process.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Morgan Stanley reports data breach after vendor Accellion hack<a href="https://www.bleepingcomputer.com/news/security/morgan-stanley-reports-data-breach-after-vendor-accellion-hack/"> Full Text</a>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Information disclosure, privilege escalation vulnerabilities spotted in IOBit Advanced SystemCare Ultimate<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-iobit0-.html?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WSJ to Biden: Inaction on Russian cyber attacks would prove your 'words are empty'<a href="https://thehill.com//homenews/media/562036-wsj-to-biden-inaction-on-russian-cyber-attacks-would-prove-your-words-are"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Reported in Sage X3 Enterprise Management Software<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-sage-x3.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Costs Organizations Nearly $1.79 Million Per Minute<a href="https://www.infosecurity-magazine.com:443/news/cybercrime-costs-orgs-per-minute/"> Full Text</a>
@@ -114,7 +130,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Browser 10.5 is out, it includes a new anti-censorship feature<a href="https://securityaffairs.co/wordpress/119855/digital-id/tor-browser-10-5.html"> Full Text</a>
@@ -134,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘How can I help you today?’ Scammers dupe online support agents through live chat platforms<a href="https://www.scmagazine.com/home/security-news/phishing/how-can-i-help-you-today-scammers-dupe-online-support-agents-through-live-chat-platforms/"> Full Text</a>
@@ -150,7 +166,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Firefox to roll out DNS over HTTPS for Canadian users<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-to-roll-out-dns-over-https-for-canadian-users/"> Full Text</a>
@@ -166,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical infrastructure cyberattacks signaling the importance of prioritizing security<a href="https://www.helpnetsecurity.com/2021/07/07/critical-infrastructure-cyberattacks/?&web_view=true"> Full Text</a>
@@ -182,7 +198,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Malware Attacks Targeting Corporate Networks in Latin America<a href="https://thehackernews.com/2021/07/experts-uncover-malware-attacks.html"> Full Text</a>
@@ -198,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CTOs Keeping Quiet on Breaches to Avoid Cyber Blame Game<a href="https://www.infosecurity-magazine.com:443/news/ctos-keeping-quiet-breaches-blame/"> Full Text</a>
@@ -214,7 +230,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker deposited $1M in a popular cybercrime marketplace to buy zero-day exploits<a href="https://securityaffairs.co/wordpress/119845/cyber-crime/hacker-zero-day.html"> Full Text</a>
@@ -234,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pentagon Office Left Military Designs for Body Armor, Vehicle Gear Unsecured Online<a href="https://www.cyberscoop.com/pentagon-cyber-vulnerabilities-printers-hack/?&web_view=true"> Full Text</a>
@@ -250,7 +266,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Awareness Training is Broken. Human Risk Management (HRM) is the Fix<a href="https://thehackernews.com/2021/07/security-awareness-training-is-broken.html"> Full Text</a>
@@ -266,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regulator Probes Former Health Secretary's Use of Private Email<a href="https://www.infosecurity-magazine.com:443/news/health-secretary-private-email/"> Full Text</a>
@@ -282,7 +298,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts bypassed Microsoft’s emergency patch for the PrintNightmare<a href="https://securityaffairs.co/wordpress/119839/hacking/printnightmare-patch-bypass.html"> Full Text</a>
@@ -302,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Apex predators': Why the Kaseya ransomware attack has experts worried<a href="https://www.nbcnews.com/tech/security/kaseya-ransomware-attack-experts-worried-rcna1345?&web_view=true"> Full Text</a>
@@ -318,7 +334,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Mitigate Microsoft Print Spooler Vulnerability – PrintNightmare<a href="https://thehackernews.com/2021/07/how-to-mitigate-microsoft-print-spooler.html"> Full Text</a>
@@ -334,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PrintNightmare Patch Can Be Bypassed, Say Researchers<a href="https://www.infosecurity-magazine.com:443/news/new-printnightmare-patch-bypassed/"> Full Text</a>
@@ -350,7 +366,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos acquires Capsule8 for Linux security<a href="https://www.channelasia.tech/article/689648/sophos-acquires-capsule8-linux-security/?&web_view=true"> Full Text</a>
@@ -366,7 +382,7 @@ Channel Asia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy Hackers Target Indian Government Officials With New Malware<a href="https://thehackernews.com/2021/07/sidecopy-hackers-target-indian.html"> Full Text</a>
@@ -382,7 +398,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Microsoft to QNAP, Multiple Firms Warn Against High-Severity Flaws<a href="https://cyware.com/news/from-microsoft-to-qnap-multiple-firms-warn-against-high-severity-flaws-cff63bb4"> Full Text</a>
@@ -398,7 +414,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: SBI Customers Being Targeted by an OTP Scam<a href="https://ciso.economictimes.indiatimes.com/news/state-bank-of-india-customers-a-big-otp-scam-is-targeting-you/84203322?&web_view=true"> Full Text</a>
@@ -414,7 +430,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: Tech giants say government cyber assistance would simply cause more problems<a href="https://www.zdnet.com/article/tech-giants-say-government-cyber-assistance-would-simply-cause-more-problems/?&web_view=true"> Full Text</a>
@@ -430,7 +446,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2021
+July 7, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya offers pre-patch instructions for on-prem VSA customers<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-offers-pre-patch-instructions-for-on-prem-vsa-customers/"> Full Text</a>
@@ -446,7 +462,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2021
+July 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's Emergency Patch Fails to Fully Fix PrintNightmare RCE Vulnerability<a href="https://thehackernews.com/2021/07/microsofts-emergency-patch-fails-to.html"> Full Text</a>
