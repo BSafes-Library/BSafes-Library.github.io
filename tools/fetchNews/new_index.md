@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 8, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Online brands prioritizing speed over security<a href="https://www.helpnetsecurity.com/2021/07/07/online-brands-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers around the world fear that businesses are now compromising online security in their efforts to deliver seamless digital experiences, according to research by Trulioo.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NanoLock secures $11 million Series B to boost OT and IoT device-level protection<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3911874,00.html?&web_view=true"> Full Text</a>
 </p>
 <details>
