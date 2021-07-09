@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Sage X3 vulnerabilities expose systems to hack<a href="https://securityaffairs.co/wordpress/119884/security/sage-x3-erp-flaws.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proposed law seeks to boost federal cyber workforce through apprenticeships, training<a href="https://www.scmagazine.com/home/government/proposed-law-seeks-to-boost-federal-cyber-workforce-through-apprenticeships-training/"> Full Text</a>
@@ -70,7 +70,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms<a href="https://thehill.com//policy/technology/overnights/562170-hillicon-valley-warren-asks-sec-to-take-closer-look-at"> Full Text</a>
@@ -86,7 +86,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Year-long spear-phishing campaign targets global energy industry<a href="https://www.scmagazine.com/home/security-news/phishing/year-long-spear-phishing-campaign-targets-global-energy-industry/"> Full Text</a>
@@ -102,7 +102,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trump Sues Facebook, Google and Twitter<a href="https://www.infosecurity-magazine.com:443/news/trump-sues-facebook-google-and/"> Full Text</a>
@@ -118,7 +118,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marvel Movie Malware Detected<a href="https://www.infosecurity-magazine.com:443/news/marvel-movie-malware-detected/"> Full Text</a>
@@ -134,7 +134,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online course provider Coursera hit with API issues, with cloud driving additional exposure<a href="https://www.scmagazine.com/home/security-news/cloud-security/online-course-provider-coursera-hit-with-api-issues-with-cloud-driving-additional-exposure/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Cloud Environments More Risky<a href="https://www.infosecurity-magazine.com:443/news/multicloud-environments-more-risky/"> Full Text</a>
@@ -166,7 +166,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil victims are refusing to pay after flawed Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/revil-victims-are-refusing-to-pay-after-flawed-kaseya-ransomware-attack/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oil & Gas Targeted in Year-Long Cyber-Espionage Campaign<a href="https://threatpost.com/oil-gas-cyber-espionage-campaign/167639/"> Full Text</a>
@@ -198,7 +198,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kroger reaches $5M settlement with breach victims, as Supreme Court defines ‘actual harm’<a href="https://www.scmagazine.com/home/security-news/data-breach/kroger-reaches-5m-settlement-with-breach-victims-as-supreme-court-defines-actual-harm/"> Full Text</a>
@@ -214,7 +214,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Morgan Stanley discloses data breach after the hack of a third-party vendor<a href="https://securityaffairs.co/wordpress/119865/data-breach/morgan-stanley-data-breach.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/kaseya-cyberattack/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
@@ -250,7 +250,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coursera Flunks API Security Test in Researchers’ Exam<a href="https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/"> Full Text</a>
@@ -266,7 +266,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K.’s Online Safety Bill: Not That Safe, After All?<a href="https://www.lawfareblog.com/uks-online-safety-bill-not-safe-after-all"> Full Text</a>
@@ -282,7 +282,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/featured/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
@@ -298,7 +298,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows security update KB5004945 breaks printing on Zebra printers<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-kb5004945-breaks-printing-on-zebra-printers/"> Full Text</a>
@@ -314,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Fake Accounts and Sneaker-Bots Took Over the Internet<a href="https://threatpost.com/fake-accounts-sneaker-bots-internet/167626/"> Full Text</a>
@@ -330,7 +330,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command lawyer calls for military operations against hackers<a href="https://thehill.com//policy/defense/562075-cyber-command-lawyer-calls-for-military-operations-against-hackers"> Full Text</a>
@@ -346,7 +346,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maryland town knocked offline as part of massive ransomware attack<a href="https://thehill.com//policy/cybersecurity/562044-maryland-town-knocked-offline-as-part-of-massive-ransomware-attack"> Full Text</a>
@@ -362,7 +362,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online brands prioritizing speed over security<a href="https://www.helpnetsecurity.com/2021/07/07/online-brands-security/?&web_view=true"> Full Text</a>
@@ -378,7 +378,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NanoLock secures $11 million Series B to boost OT and IoT device-level protection<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3911874,00.html?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Calcalis Tech
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Updates for July 2021 Patch Tens of High-Severity Vulnerabilities<a href="https://www.securityweek.com/android-updates-july-2021-patch-tens-high-severity-vulnerabilities?&web_view=true"> Full Text</a>

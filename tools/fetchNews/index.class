@@ -34,6 +34,382 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Sage X3 vulnerabilities expose systems to hack<a href="https://securityaffairs.co/wordpress/119884/security/sage-x3-erp-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers discovered security vulnerabilities in the Sage X3 ERP product that could allow to take control of vulnerable systems.
+
+
+
+Researchers from Rapid7 discovered a total of four security vulnerabilities in the Sage X3 enterprise resource...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proposed law seeks to boost federal cyber workforce through apprenticeships, training<a href="https://www.scmagazine.com/home/government/proposed-law-seeks-to-boost-federal-cyber-workforce-through-apprenticeships-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pundits and cyber experts alike praise bill, which would empower CISA and the Department of Veterans Affairs to establish and operate the workforce development programs.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms<a href="https://thehill.com//policy/technology/overnights/562170-hillicon-valley-warren-asks-sec-to-take-closer-look-at"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Elizabeth WarrenElizabeth WarrenBiden Education Department hires vocal proponent of canceling student debt First Republican announces run for Massachusetts governor Some Democrats put activism over climate action MORE (D-Mass.) on Thursday strongly urged a key regulatory agency to look into cryptocurrency exchanges, an issue that has gained prominence in recent years and particularly following the use of cryptocurrencies as part of ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Year-long spear-phishing campaign targets global energy industry<a href="https://www.scmagazine.com/home/security-news/phishing/year-long-spear-phishing-campaign-targets-global-energy-industry/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many of the spear-phishing emails show the threat actor did their homework, with procurement jargon and references to real executives and ongoing projects.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trump Sues Facebook, Google and Twitter<a href="https://www.infosecurity-magazine.com:443/news/trump-sues-facebook-google-and/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former US president takes legal action against companies over alleged illegal censorship
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marvel Movie Malware Detected<a href="https://www.infosecurity-magazine.com:443/news/marvel-movie-malware-detected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Widow malware masquerades as new movie to steal money and credentials
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online course provider Coursera hit with API issues, with cloud driving additional exposure<a href="https://www.scmagazine.com/home/security-news/cloud-security/online-course-provider-coursera-hit-with-api-issues-with-cloud-driving-additional-exposure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs have been around for years, but the adoption of cloud and cloud services are leading drivers behind explosive use recently, enabling attackers to elevate privileges and move laterally throughout networks.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Cloud Environments More Risky<a href="https://www.infosecurity-magazine.com:443/news/multicloud-environments-more-risky/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security professionals say multi-cloud environments pose greater security challenges
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil victims are refusing to pay after flawed Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/revil-victims-are-refusing-to-pay-after-flawed-kaseya-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang's attack on MSPs and their customers last week outwardly should have been successful, yet changes in their typical tactics and procedures have led to few ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oil & Gas Targeted in Year-Long Cyber-Espionage Campaign<a href="https://threatpost.com/oil-gas-cyber-espionage-campaign/167639/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global effort to steal information from energy companies is using sophisticated social engineering to deliver Agent Tesla and other RATs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroger reaches $5M settlement with breach victims, as Supreme Court defines ‘actual harm’<a href="https://www.scmagazine.com/home/security-news/data-breach/kroger-reaches-5m-settlement-with-breach-victims-as-supreme-court-defines-actual-harm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health care providers are increasingly facing the risk of lawsuits amid the rise in data breaches. The recent Supreme Court decision on “actual harm” may curtail the financial impact.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley discloses data breach after the hack of a third-party vendor<a href="https://securityaffairs.co/wordpress/119865/data-breach/morgan-stanley-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American multinational investment bank and financial services firm Morgan Stanley discloses a data breach caused by the hack of an Accellion FTA server of a third-party vendor.
+
+
+
+Investment banking firm Morgan Stanley has disclosed a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/kaseya-cyberattack/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya CEO Fred Voccola said the company was confident in the July 11 date to relaunch VSA SaaS and on-premises services.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coursera Flunks API Security Test in Researchers’ Exam<a href="https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The problem APIs included numero uno on the OWASP API Security Top 10: a Broken Object Level Authorization (BOLA) issue that could have exposed personal data. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K.’s Online Safety Bill: Not That Safe, After All?<a href="https://www.lawfareblog.com/uks-online-safety-bill-not-safe-after-all"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. government's long-awaited Online Safety Bill was published on May 12. What does it say?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/featured/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya CEO Fred Voccola said the company was confident in the July 11 date to relaunch VSA SaaS and on-premises services.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows security update KB5004945 breaks printing on Zebra printers<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-kb5004945-breaks-printing-on-zebra-printers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's recent out-of-band KB5004945 PrintNightmare security updates are preventing Windows users from printing to certain Zebra printers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Fake Accounts and Sneaker-Bots Took Over the Internet<a href="https://threatpost.com/fake-accounts-sneaker-bots-internet/167626/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses fake online accounts, and the fraud they carry out on a daily basis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command lawyer calls for military operations against hackers<a href="https://thehill.com//policy/defense/562075-cyber-command-lawyer-calls-for-military-operations-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top lawyer for U.S. Cyber Command is calling for the United States to push back against transnational criminal hackers with military cyber operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland town knocked offline as part of massive ransomware attack<a href="https://thehill.com//policy/cybersecurity/562044-maryland-town-knocked-offline-as-part-of-massive-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Maryland town was taken offline last week during the massive ransomware attack on through Miami-based technology firm Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online brands prioritizing speed over security<a href="https://www.helpnetsecurity.com/2021/07/07/online-brands-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers around the world fear that businesses are now compromising online security in their efforts to deliver seamless digital experiences, according to research by Trulioo.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NanoLock secures $11 million Series B to boost OT and IoT device-level protection<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3911874,00.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NanoLock Security has secured an $11 million Series B round from new investors OurCrowd, HIVE2040 (by Avnon Group), and Atlantica Group as well as current investors AWZ Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Updates for July 2021 Patch Tens of High-Severity Vulnerabilities<a href="https://www.securityweek.com/android-updates-july-2021-patch-tens-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerabilities affect the System component and could enable a remote attacker using a specially crafted file to execute arbitrary code within the context of a privileged process.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

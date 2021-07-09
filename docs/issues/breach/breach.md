@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroger reaches $5M settlement with breach victims, as Supreme Court defines ‘actual harm’<a href="https://www.scmagazine.com/home/security-news/data-breach/kroger-reaches-5m-settlement-with-breach-victims-as-supreme-court-defines-actual-harm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health care providers are increasingly facing the risk of lawsuits amid the rise in data breaches. The recent Supreme Court decision on “actual harm” may curtail the financial impact.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morgan Stanley discloses data breach after the hack of a third-party vendor<a href="https://securityaffairs.co/wordpress/119865/data-breach/morgan-stanley-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American multinational&nbsp;investment bank&nbsp;and&nbsp;financial services&nbsp;firm Morgan Stanley discloses a data breach caused by the hack of an Accellion FTA server of a third-party vendor.
+
+
+
+Investment banking firm Morgan Stanley has disclosed a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

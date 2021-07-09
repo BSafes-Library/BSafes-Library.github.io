@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WSJ to Biden: Inaction on Russian cyber attacks would prove your 'words are empty'<a href="https://thehill.com//homenews/media/562036-wsj-to-biden-inaction-on-russian-cyber-attacks-would-prove-your-words-are"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The editorial board of the Wall Street Journal is imploring President Biden to take swift action and send a strong message to Russian and other foreign adversaries that the U.S. will not tolerate cybercrime or those who harbor cyber criminals.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulator Probes Former Health Secretary's Use of Private Email<a href="https://www.infosecurity-magazine.com:443/news/health-secretary-private-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matt Hancock comes under investigation by the ICO
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

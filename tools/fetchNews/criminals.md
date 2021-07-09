@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker deposited $1M in a popular cybercrime marketplace to buy zero-day exploits<a href="https://securityaffairs.co/wordpress/119845/cyber-crime/hacker-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has deposited 26.99&nbsp;Bitcoins&nbsp;on&nbsp;one of the cybercrime forums, he aims at purchasing zero-day exploits&nbsp;from other forum members.
+
+
+
+A threat actor that goes online with the name&nbsp;“integra”&nbsp;has deposited 26.99&nbsp;Bitcoins&nbsp;on&nbsp;one...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy Hackers Target Indian Government Officials With New Malware<a href="https://thehackernews.com/2021/07/sidecopy-hackers-target-indian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-espionage group has been observed increasingly targeting Indian government personnel as part of a broad campaign to infect victims with as many as four new custom remote access trojans (RATs), signaling a "boost in their development operations."  Attributed to a group tracked as SideCopy, the intrusions culminate in the deployment of a variety of modular plugins, ranging from file enumerators to browser credential stealers and keyloggers (Xeytan and Lavao), Cisco Talos said in a report published Wednesday.  "Targeting tactics and themes observed in SideCopy campaigns indicate a high degree of similarity to the Transparent Tribe APT (aka APT36) also targeting India," researchers Asheer Malhotra and Justin Thattil&nbsp; said . "These include using decoys posing as operational documents belonging to the military and think tanks and honeytrap-based infections."   First documented in September 2020 by Indian cybersecurity firm Quick Heal,&nbsp; SideCopy &nbsp;has a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Fake Accounts and Sneaker-Bots Took Over the Internet<a href="https://threatpost.com/fake-accounts-sneaker-bots-internet/167626/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses fake online accounts, and the fraud they carry out on a daily basis.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
