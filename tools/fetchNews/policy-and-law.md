@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proposed law seeks to boost federal cyber workforce through apprenticeships, training<a href="https://www.scmagazine.com/home/government/proposed-law-seeks-to-boost-federal-cyber-workforce-through-apprenticeships-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pundits and cyber experts alike praise bill, which would empower CISA and the Department of Veterans Affairs to establish and operate the workforce development programs.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trump Sues Facebook, Google and Twitter<a href="https://www.infosecurity-magazine.com:443/news/trump-sues-facebook-google-and/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former US president takes legal action against companies over alleged illegal censorship
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K.’s Online Safety Bill: Not That Safe, After All?<a href="https://www.lawfareblog.com/uks-online-safety-bill-not-safe-after-all"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. government's long-awaited Online Safety Bill was published on May 12. What does it say?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command lawyer calls for military operations against hackers<a href="https://thehill.com//policy/defense/562075-cyber-command-lawyer-calls-for-military-operations-against-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top lawyer for U.S. Cyber Command is calling for the United States to push back against transnational criminal hackers with military cyber operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

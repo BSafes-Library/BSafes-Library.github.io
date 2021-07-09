@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance giant CNA reports data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-reports-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Unpacked | Understanding Ransomware Development As a Response to Detection<a href="https://labs.sentinelone.com/conti-unpacked-understanding-ransomware-development-as-a-response-to-detection/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Hackers Hide Stolen Credit Card Data Into Images for Evasive Exfiltration<a href="https://thehackernews.com/2021/07/magecart-hackers-hide-stolen-credit.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance firm CNA discloses data breach after March ransomware attack<a href="https://securityaffairs.co/wordpress/119913/data-breach/cna-data-breach.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya warns of phishing campaign pushing fake security updates<a href="https://www.bleepingcomputer.com/news/security/kaseya-warns-of-phishing-campaign-pushing-fake-security-updates/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Deposited $1M on Popular Cybercrime Marketplace to Buy Zero-day Exploits<a href="https://securityaffairs.co/wordpress/119845/cyber-crime/hacker-zero-day.html?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SaaS Security Report Dives into the Concerns and Plans of CISOs in 2021<a href="https://thehackernews.com/2021/07/new-saas-security-report-dives-into.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use a new technique in malspam attacks to disable Macro security warnings in weaponized docs<a href="https://securityaffairs.co/wordpress/119902/hacking/malspam-new-evasion-technique-macro.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: PrintNightmare security updates work, start patching!<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-security-updates-work-start-patching/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How virtual cyber fusion centre can streamline cybersecurity silos<a href="https://www.expresscomputer.in/archive/tech-views/how-virtual-cyber-fusion-centre-can-streamline-cybersecurity-silos/77506/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ ExpressComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Reported in Philips Vue PACS Medical Imaging Systems<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-philips-vue.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft says that the emergency patch recently released correctly fix the PrintNightmare flaw<a href="https://securityaffairs.co/wordpress/119896/security/microsoft-fixed-printnightmare-flaw.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes High Severity issue in BPA and WSA<a href="https://securityaffairs.co/wordpress/119877/breaking-news/cisco-fixes-high-severity-issue-in-bpa-and-wsa.html?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes High Severity issue in BPA and WSA<a href="https://securityaffairs.co/wordpress/119877/breaking-news/cisco-fixes-high-severity-issue-in-bpa-and-wsa.html"> Full Text</a>
@@ -278,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coursera API vulnerabilities disclosed by researchers<a href="https://www.zdnet.com/article/coursera-api-vulnerabilities-disclosed-by-researchers/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zloader With a New Infection Technique<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/zloader-with-a-new-infection-technique/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use New Trick to Disable Macro Security Warnings in Malicious Office Files<a href="https://thehackernews.com/2021/07/hackers-use-new-trick-to-disable-macro.html"> Full Text</a>

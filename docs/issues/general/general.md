@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SaaS Security Report Dives into the Concerns and Plans of CISOs in 2021<a href="https://thehackernews.com/2021/07/new-saas-security-report-dives-into.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For years, security professionals have recognized the need to enhance SaaS security. However, the exponential adoption of Software-as-a-Service (SaaS) applications over 2020 turned slow-burning embers into a raging fire.&nbsp;  Organizations manage anywhere from thirty-five to more than a hundred applications. From collaboration tools like Slack and Microsoft Teams to mission-critical applications like SAP and Salesforce, SaaS applications act as the foundation of the modern enterprise. 2020 created an urgent need for security solutions that mitigate SaaS misconfiguration risks.  Recognizing the importance of SaaS security, Gartner named a new category, SaaS Security Posture Management (SSPM), to distinguish solutions that have the capabilities to offer a continuous assessment of security risks arising from a SaaS application's deployment.&nbsp;  To understand how security teams are currently dealing with their SaaS security posture and what their main concerns are, Adaptive Shield, a leading S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How virtual cyber fusion centre can streamline cybersecurity silos<a href="https://www.expresscomputer.in/archive/tech-views/how-virtual-cyber-fusion-centre-can-streamline-cybersecurity-silos/77506/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtual cyber fusion can help alleviate the limitations of manually-driven security strategies while leveraging threat intelligence and automation to help address a myriad of use cases.
+</details>
+<div style="text-align: right" markdown="1">
+ExpressComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

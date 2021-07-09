@@ -11,6 +11,52 @@ nav_order: 900220
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Multiple Sage X3 vulnerabilities expose systems to hack<a href="https://securityaffairs.co/wordpress/119884/security/sage-x3-erp-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers discovered security vulnerabilities in the&nbsp;Sage X3&nbsp;ERP product that could allow to take control of vulnerable systems.
+
+
+
+Researchers from Rapid7 discovered a total of four security vulnerabilities in the&nbsp;Sage X3&nbsp;enterprise resource...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows security update KB5004945 breaks printing on Zebra printers<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-kb5004945-breaks-printing-on-zebra-printers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's recent out-of-band KB5004945 PrintNightmare security updates are preventing Windows users from printing to certain Zebra printers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Updates for July 2021 Patch Tens of High-Severity Vulnerabilities<a href="https://www.securityweek.com/android-updates-july-2021-patch-tens-high-severity-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerabilities affect the System component and could enable a remote attacker using a specially crafted file to execute arbitrary code within the context of a privileged process.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Information disclosure, privilege escalation vulnerabilities spotted in IOBit Advanced SystemCare Ultimate<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-iobit0-.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

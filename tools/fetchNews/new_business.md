@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High Severity issue in BPA and WSA<a href="https://securityaffairs.co/wordpress/119877/breaking-news/cisco-fixes-high-severity-issue-in-bpa-and-wsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addresses high severity privilege escalation vulnerabilities in Business Process Automation (BPA) and Web Security Appliance (WSA) that expose users to privilege escalation attacks.
+
+
+
+Cisco released security patches for high severity vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

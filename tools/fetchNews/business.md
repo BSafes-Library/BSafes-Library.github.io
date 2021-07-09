@@ -11,6 +11,62 @@ nav_order: 900027
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/kaseya-cyberattack/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya CEO Fred Voccola said the company was confident in the July 11 date to relaunch VSA SaaS and on-premises services.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coursera Flunks API Security Test in Researchers’ Exam<a href="https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The problem APIs included numero uno on the OWASP API Security Top 10: a Broken Object Level Authorization (BOLA) issue that could have exposed personal data. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/featured/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya CEO Fred Voccola said the company was confident in the July 11 date to relaunch VSA SaaS and on-premises services.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NanoLock secures $11 million Series B to boost OT and IoT device-level protection<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3911874,00.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NanoLock Security has secured an $11 million Series B round from new investors OurCrowd, HIVE2040 (by Avnon Group), and Atlantica Group as well as current investors AWZ Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Sophos acquires Capsule8 for Linux security<a href="https://www.channelasia.tech/article/689648/sophos-acquires-capsule8-linux-security/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

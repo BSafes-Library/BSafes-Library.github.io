@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Hide Stolen Credit Card Data Into Images for Evasive Exfiltration<a href="https://thehackernews.com/2021/07/magecart-hackers-hide-stolen-credit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime actors part of the Magecart group have latched on to a new technique of obfuscating the malware code within&nbsp; comment blocks &nbsp;and encoding stolen credit card data into images and other files hosted on the server, once again demonstrating how the attackers are&nbsp; continuously improving &nbsp;their infection chains to escape detection.  "One tactic that some Magecart actors employ is the dumping of swiped credit card details into image files on the server [to] avoid raising suspicion," Sucuri Security Analyst, Ben Martin,&nbsp; said &nbsp;in a write-up. "These can later be downloaded using a simple&nbsp; GET request &nbsp;at a later date."   MageCart is the umbrella term given to multiple groups of cybercriminals targeting e-commerce websites with the goal of plundering credit card numbers by injecting malicious JavaScript skimmers and selling them on the black market.  Sucuri attributed the attack to&nbsp; Magecart Group 7 &nbsp;based on overlaps in the tactics, techniques, and procedures (TT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use a new technique in malspam attacks to disable Macro security warnings in weaponized docs<a href="https://securityaffairs.co/wordpress/119902/hacking/malspam-new-evasion-technique-macro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have devised a new trick to disable macro security warning that leverage non-malicious docs in malspam attacks.
+
+
+
+Most of the malspam campaigns leverage weaponized Microsoft Office documents and social engineering techniques to trick recipients...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use New Trick to Disable Macro Security Warnings in Malicious Office Files<a href="https://thehackernews.com/2021/07/hackers-use-new-trick-to-disable-macro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it's a norm for phishing campaigns that distribute weaponized Microsoft Office documents to prompt victims to enable macros in order to trigger the infection chain directly, new findings indicate attackers are using non-malicious documents to disable security warnings prior to executing macro code to infect victims' computers.  In yet another instance of malware authors continue to evolve their techniques to evade detection, researchers from McAfee Labs stumbled upon a novel tactic that "downloads and executes malicious DLLs (ZLoader) without any malicious code present in the initial spammed attachment macro."   ZLoader&nbsp;infections  propagated using this mechanism have been primarily reported in the U.S., Canada, Spain, Japan, and Malaysia, the cybersecurity firm noted. The malware — a descendant of the infamous ZeuS banking trojan — is well known for aggressively using macro-enabled Office documents as an initial attack vector to steal credentials and personall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

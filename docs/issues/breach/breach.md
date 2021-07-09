@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA reports data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-reports-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial Corporation, a leading US-based insurance company, is notifying customers of a data breach following a Phoenix CryptoLocker ransomware attack that hit its systems in March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance firm CNA discloses data breach after March ransomware attack<a href="https://securityaffairs.co/wordpress/119913/data-breach/cna-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant CNA notifies customers of a data breach after the Phoenix CryptoLocker ransomware attack suffered in March.
+
+
+
+US insurance giant CNA is notifying customers of a data breach after the ransomware attack that it suffered in March.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

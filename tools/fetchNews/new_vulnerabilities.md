@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: PrintNightmare security updates work, start patching!<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-security-updates-work-start-patching/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the emergency security updates released at the start of the week correctly patch the PrintNightmare Print Spooler vulnerability for all supported Windows versions and urges users to start applying the updates as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Philips Vue PACS Medical Imaging Systems<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-philips-vue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Philips Clinical Collaboration Platform Portal (aka Vue PACS), some of which could be exploited by an adversary to take control of an affected system.  "Successful exploitation of these vulnerabilities could allow an unauthorized person or process to eavesdrop, view or modify data, gain system access, perform code execution, install unauthorized software, or affect system data integrity in such a way as to negatively impact the confidentiality, integrity, or availability of the system," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; noted &nbsp;in an advisory.   The 15 flaws impact: VUE Picture Archiving and Communication Systems (versions 12.2.x.x and prior), Vue MyVue (versions 12.2.x.x and prior), Vue Speech (versions 12.2.x.x and prior), and Vue Motion (versions 12.2.1.5 and prior)  Four of the issues (CVE-2020-1938, CVE-2018-12326, CVE-2018-11218, CVE-2020-4670, and CVE-2018-8014) have been given a C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says that the emergency patch recently released correctly fix the PrintNightmare flaw<a href="https://securityaffairs.co/wordpress/119896/security/microsoft-fixed-printnightmare-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that the emergency security updates (KB5005010) correctly address the PrintNightmare Print Spooler vulnerability (CVE-2021-34527).
+
+
+
+Microsoft says that the emergency security patches released early this week correctly address the PrintNightmare...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High Severity issue in BPA and WSA<a href="https://securityaffairs.co/wordpress/119877/breaking-news/cisco-fixes-high-severity-issue-in-bpa-and-wsa.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released security patches for high severity vulnerabilities in Business Process Automation (BPA) and Web Security Appliance (WSA) that expose users to privilege escalation attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coursera API vulnerabilities disclosed by researchers<a href="https://www.zdnet.com/article/coursera-api-vulnerabilities-disclosed-by-researchers/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkmarx revealed multiple security flaws in the Coursera platform, including a BOLA flaw that may expose endpoints that handle object identifiers, potentially opening the door to wider attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

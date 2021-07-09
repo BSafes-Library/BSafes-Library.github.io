@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Unpacked | Understanding Ransomware Development As a Response to Detection<a href="https://labs.sentinelone.com/conti-unpacked-understanding-ransomware-development-as-a-response-to-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti is developed and maintained by the so-called TrickBot gang, and it is mainly operated through a RaaS affiliation model. The Conti ransomware is derived from the codebase of Ryuk.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
