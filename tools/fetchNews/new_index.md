@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance giant CNA reports data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/insurance-giant-cna-reports-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CNA Financial Corporation, a leading US-based insurance company, is notifying customers of a data breach following a Phoenix CryptoLocker ransomware attack that hit its systems in March.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Unpacked | Understanding Ransomware Development As a Response to Detection<a href="https://labs.sentinelone.com/conti-unpacked-understanding-ransomware-development-as-a-response-to-detection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti is developed and maintained by the so-called TrickBot gang, and it is mainly operated through a RaaS affiliation model. The Conti ransomware is derived from the codebase of Ryuk.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Hackers Hide Stolen Credit Card Data Into Images for Evasive Exfiltration<a href="https://thehackernews.com/2021/07/magecart-hackers-hide-stolen-credit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime actors part of the Magecart group have latched on to a new technique of obfuscating the malware code within  comment blocks  and encoding stolen credit card data into images and other files hosted on the server, once again demonstrating how the attackers are  continuously improving  their infection chains to escape detection.  "One tactic that some Magecart actors employ is the dumping of swiped credit card details into image files on the server [to] avoid raising suspicion," Sucuri Security Analyst, Ben Martin,  said  in a write-up. "These can later be downloaded using a simple  GET request  at a later date."   MageCart is the umbrella term given to multiple groups of cybercriminals targeting e-commerce websites with the goal of plundering credit card numbers by injecting malicious JavaScript skimmers and selling them on the black market.  Sucuri attributed the attack to  Magecart Group 7  based on overlaps in the tactics, techniques, and procedures (TT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance firm CNA discloses data breach after March ransomware attack<a href="https://securityaffairs.co/wordpress/119913/data-breach/cna-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insurance giant CNA notifies customers of a data breach after the Phoenix CryptoLocker ransomware attack suffered in March.
+
+
+
+US insurance giant CNA is notifying customers of a data breach after the ransomware attack that it suffered in March.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya warns of phishing campaign pushing fake security updates<a href="https://www.bleepingcomputer.com/news/security/kaseya-warns-of-phishing-campaign-pushing-fake-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya has warned customers that an ongoing phishing campaign attempts to breach their networks by spamming emails bundling malicious attachments and embedded links posing as legitimate VSA security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Deposited $1M on Popular Cybercrime Marketplace to Buy Zero-day Exploits<a href="https://securityaffairs.co/wordpress/119845/cyber-crime/hacker-zero-day.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to experts, the member “integra” has joined the forum in September 2012 and has gained a high reputation over the course of time. The threat actor aims at buying malware with zero detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SaaS Security Report Dives into the Concerns and Plans of CISOs in 2021<a href="https://thehackernews.com/2021/07/new-saas-security-report-dives-into.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For years, security professionals have recognized the need to enhance SaaS security. However, the exponential adoption of Software-as-a-Service (SaaS) applications over 2020 turned slow-burning embers into a raging fire.   Organizations manage anywhere from thirty-five to more than a hundred applications. From collaboration tools like Slack and Microsoft Teams to mission-critical applications like SAP and Salesforce, SaaS applications act as the foundation of the modern enterprise. 2020 created an urgent need for security solutions that mitigate SaaS misconfiguration risks.  Recognizing the importance of SaaS security, Gartner named a new category, SaaS Security Posture Management (SSPM), to distinguish solutions that have the capabilities to offer a continuous assessment of security risks arising from a SaaS application's deployment.   To understand how security teams are currently dealing with their SaaS security posture and what their main concerns are, Adaptive Shield, a leading S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use a new technique in malspam attacks to disable Macro security warnings in weaponized docs<a href="https://securityaffairs.co/wordpress/119902/hacking/malspam-new-evasion-technique-macro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have devised a new trick to disable macro security warning that leverage non-malicious docs in malspam attacks.
+
+
+
+Most of the malspam campaigns leverage weaponized Microsoft Office documents and social engineering techniques to trick recipients...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: PrintNightmare security updates work, start patching!<a href="https://www.bleepingcomputer.com/news/security/microsoft-printnightmare-security-updates-work-start-patching/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the emergency security updates released at the start of the week correctly patch the PrintNightmare Print Spooler vulnerability for all supported Windows versions and urges users to start applying the updates as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How virtual cyber fusion centre can streamline cybersecurity silos<a href="https://www.expresscomputer.in/archive/tech-views/how-virtual-cyber-fusion-centre-can-streamline-cybersecurity-silos/77506/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtual cyber fusion can help alleviate the limitations of manually-driven security strategies while leveraging threat intelligence and automation to help address a myriad of use cases.
+</details>
+<div style="text-align: right" markdown="1">
+ExpressComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Philips Vue PACS Medical Imaging Systems<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-philips-vue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Philips Clinical Collaboration Platform Portal (aka Vue PACS), some of which could be exploited by an adversary to take control of an affected system.  "Successful exploitation of these vulnerabilities could allow an unauthorized person or process to eavesdrop, view or modify data, gain system access, perform code execution, install unauthorized software, or affect system data integrity in such a way as to negatively impact the confidentiality, integrity, or availability of the system," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  noted  in an advisory.   The 15 flaws impact: VUE Picture Archiving and Communication Systems (versions 12.2.x.x and prior), Vue MyVue (versions 12.2.x.x and prior), Vue Speech (versions 12.2.x.x and prior), and Vue Motion (versions 12.2.1.5 and prior)  Four of the issues (CVE-2020-1938, CVE-2018-12326, CVE-2018-11218, CVE-2020-4670, and CVE-2018-8014) have been given a C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft says that the emergency patch recently released correctly fix the PrintNightmare flaw<a href="https://securityaffairs.co/wordpress/119896/security/microsoft-fixed-printnightmare-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that the emergency security updates (KB5005010) correctly address the PrintNightmare Print Spooler vulnerability (CVE-2021-34527).
+
+
+
+Microsoft says that the emergency security patches released early this week correctly address the PrintNightmare...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High Severity issue in BPA and WSA<a href="https://securityaffairs.co/wordpress/119877/breaking-news/cisco-fixes-high-severity-issue-in-bpa-and-wsa.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released security patches for high severity vulnerabilities in Business Process Automation (BPA) and Web Security Appliance (WSA) that expose users to privilege escalation attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes High Severity issue in BPA and WSA<a href="https://securityaffairs.co/wordpress/119877/breaking-news/cisco-fixes-high-severity-issue-in-bpa-and-wsa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addresses high severity privilege escalation vulnerabilities in Business Process Automation (BPA) and Web Security Appliance (WSA) that expose users to privilege escalation attacks.
+
+
+
+Cisco released security patches for high severity vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coursera API vulnerabilities disclosed by researchers<a href="https://www.zdnet.com/article/coursera-api-vulnerabilities-disclosed-by-researchers/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkmarx revealed multiple security flaws in the Coursera platform, including a BOLA flaw that may expose endpoints that handle object identifiers, potentially opening the door to wider attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zloader With a New Infection Technique<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/zloader-with-a-new-infection-technique/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initial attack vector is a phishing email with a Microsoft Word document attachment. Upon opening the document, a password-protected Microsoft Excel file is downloaded from a remote server.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use New Trick to Disable Macro Security Warnings in Malicious Office Files<a href="https://thehackernews.com/2021/07/hackers-use-new-trick-to-disable-macro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it's a norm for phishing campaigns that distribute weaponized Microsoft Office documents to prompt victims to enable macros in order to trigger the infection chain directly, new findings indicate attackers are using non-malicious documents to disable security warnings prior to executing macro code to infect victims' computers.  In yet another instance of malware authors continue to evolve their techniques to evade detection, researchers from McAfee Labs stumbled upon a novel tactic that "downloads and executes malicious DLLs (ZLoader) without any malicious code present in the initial spammed attachment macro."   ZLoader infections  propagated using this mechanism have been primarily reported in the U.S., Canada, Spain, Japan, and Malaysia, the cybersecurity firm noted. The malware — a descendant of the infamous ZeuS banking trojan — is well known for aggressively using macro-enabled Office documents as an initial attack vector to steal credentials and personall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Sage X3 vulnerabilities expose systems to hack<a href="https://securityaffairs.co/wordpress/119884/security/sage-x3-erp-flaws.html"> Full Text</a>
@@ -54,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proposed law seeks to boost federal cyber workforce through apprenticeships, training<a href="https://www.scmagazine.com/home/government/proposed-law-seeks-to-boost-federal-cyber-workforce-through-apprenticeships-training/"> Full Text</a>
@@ -70,7 +362,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms<a href="https://thehill.com//policy/technology/overnights/562170-hillicon-valley-warren-asks-sec-to-take-closer-look-at"> Full Text</a>
@@ -86,7 +378,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Year-long spear-phishing campaign targets global energy industry<a href="https://www.scmagazine.com/home/security-news/phishing/year-long-spear-phishing-campaign-targets-global-energy-industry/"> Full Text</a>
@@ -102,7 +394,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trump Sues Facebook, Google and Twitter<a href="https://www.infosecurity-magazine.com:443/news/trump-sues-facebook-google-and/"> Full Text</a>
@@ -118,7 +410,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marvel Movie Malware Detected<a href="https://www.infosecurity-magazine.com:443/news/marvel-movie-malware-detected/"> Full Text</a>
@@ -134,7 +426,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online course provider Coursera hit with API issues, with cloud driving additional exposure<a href="https://www.scmagazine.com/home/security-news/cloud-security/online-course-provider-coursera-hit-with-api-issues-with-cloud-driving-additional-exposure/"> Full Text</a>
@@ -150,7 +442,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Cloud Environments More Risky<a href="https://www.infosecurity-magazine.com:443/news/multicloud-environments-more-risky/"> Full Text</a>
@@ -166,7 +458,7 @@ Infosecurity Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil victims are refusing to pay after flawed Kaseya ransomware attack<a href="https://www.bleepingcomputer.com/news/security/revil-victims-are-refusing-to-pay-after-flawed-kaseya-ransomware-attack/"> Full Text</a>
@@ -182,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oil & Gas Targeted in Year-Long Cyber-Espionage Campaign<a href="https://threatpost.com/oil-gas-cyber-espionage-campaign/167639/"> Full Text</a>
@@ -198,7 +490,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kroger reaches $5M settlement with breach victims, as Supreme Court defines ‘actual harm’<a href="https://www.scmagazine.com/home/security-news/data-breach/kroger-reaches-5m-settlement-with-breach-victims-as-supreme-court-defines-actual-harm/"> Full Text</a>
@@ -214,7 +506,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Morgan Stanley discloses data breach after the hack of a third-party vendor<a href="https://securityaffairs.co/wordpress/119865/data-breach/morgan-stanley-data-breach.html"> Full Text</a>
@@ -234,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/kaseya-cyberattack/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
@@ -250,7 +542,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coursera Flunks API Security Test in Researchers’ Exam<a href="https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/"> Full Text</a>
@@ -266,7 +558,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K.’s Online Safety Bill: Not That Safe, After All?<a href="https://www.lawfareblog.com/uks-online-safety-bill-not-safe-after-all"> Full Text</a>
@@ -282,7 +574,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In video address, exhausted Kaseya CEO announces relaunch dates<a href="https://www.scmagazine.com/featured/in-video-address-exhausted-kaseya-ceo-announces-relaunch-dates/"> Full Text</a>
@@ -298,7 +590,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows security update KB5004945 breaks printing on Zebra printers<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-kb5004945-breaks-printing-on-zebra-printers/"> Full Text</a>
@@ -314,7 +606,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Fake Accounts and Sneaker-Bots Took Over the Internet<a href="https://threatpost.com/fake-accounts-sneaker-bots-internet/167626/"> Full Text</a>
@@ -330,7 +622,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command lawyer calls for military operations against hackers<a href="https://thehill.com//policy/defense/562075-cyber-command-lawyer-calls-for-military-operations-against-hackers"> Full Text</a>
@@ -346,7 +638,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2021
+July 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maryland town knocked offline as part of massive ransomware attack<a href="https://thehill.com//policy/cybersecurity/562044-maryland-town-knocked-offline-as-part-of-massive-ransomware-attack"> Full Text</a>
@@ -362,7 +654,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online brands prioritizing speed over security<a href="https://www.helpnetsecurity.com/2021/07/07/online-brands-security/?&web_view=true"> Full Text</a>
@@ -378,7 +670,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NanoLock secures $11 million Series B to boost OT and IoT device-level protection<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3911874,00.html?&web_view=true"> Full Text</a>
@@ -394,7 +686,7 @@ Calcalis Tech
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2021
+July 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Updates for July 2021 Patch Tens of High-Severity Vulnerabilities<a href="https://www.securityweek.com/android-updates-july-2021-patch-tens-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
