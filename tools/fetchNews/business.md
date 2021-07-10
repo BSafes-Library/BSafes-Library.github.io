@@ -8,6 +8,38 @@ nav_order: 900027
 
 ## Business
 ---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya warns customers of ongoing malspam campaign posing as security updates<a href="https://securityaffairs.co/wordpress/119928/cyber-crime/kaseya-warns-malspam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are conducting a spam campaign aimed at infecting Kaseya customers, posing as legitimate VSA security updates
+
+
+
+Kaseya is warning customers of threat actors attempting to exploit the recent massive supply chain ransomware attack suffered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netskope's valuation more than doubles to $7.5 bn in the latest $300 mn funding round<a href="https://www.reuters.com/technology/cloud-security-firm-netskope-raises-fresh-capital-75-bln-valuation-2021-07-09/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netskope's valuation more than doubled to $7.5 billion after a $300 million funding round led by ICONIQ Growth, highlighting massive demand for cloud security services as cyber-attacks increase in number and severity.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

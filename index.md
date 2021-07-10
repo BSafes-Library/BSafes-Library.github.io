@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden asks Putin to crack down on Russian-based ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/biden-asks-putin-to-crack-down-on-russian-based-ransomware-gangs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Polygon 2021: Towards Secure Development of Digital Ecosystems<a href="https://threatpost.com/cyber-polygon-2021-towards-secure-development-of-digital-ecosystems/167661/"> Full Text</a>

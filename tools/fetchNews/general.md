@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CMS, NIH ERM programs failed to account for national security risks, says OIG<a href="https://www.scmagazine.com/home/health-care/cms-nih-erm-programs-failed-to-account-for-national-security-risks-says-oig/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead, Centers for Medicare and Medicaid Services policies and procedures rely on the enterprise risk management processes from the Department of Health and Human Services, rather than its own requirements.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden warns Putin on Russian ransomware attacks | Biden signs sweeping order to boost competition| TikTok updates automated takedown system<a href="https://thehill.com//policy/cybersecurity/overnights/562329-hillicon-valley-biden-warns-putin-on-russian-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenJohn Kerry to visit Moscow officials to discuss 'global climate ambition' Civil rights leaders find meeting with WH 'encouraging' amidst voting rights battle Pentagon eyes places to send Afghan interpreters as Biden pledges evacuations by end of July MORE rounded out a very active week in cybersecurity by calling Russian President Vladimir PutinVladimir Vladimirovich PutinJohn Kerry to visit Moscow officials to discuss 'global climate ambition' Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms The New START extension lacks critical points for strategic stability MORE to discuss concerns including recent Russian-linked ransomware attacks, urging him to take action to disrupt cyber criminal groups operating in his country. The call came a week after the ransomware attack on software group Kaseya that hit up to 1,500 companies.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US urges mayors to confer with states on cyber posture, but can more be done?<a href="https://www.scmagazine.com/home/security-news/us-urges-mayors-to-confer-with-states-on-cyber-posture-but-can-more-be-done/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Municipalities still lack incentive to follow cyber best practices, notes former city CISO.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
