@@ -34,6 +34,316 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How REvil evolved into a ransomware collective capable of extorting Kaseya, JBS<a href="https://www.cyberscoop.com/revil-ransomware-gang-russia-us-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Before claiming responsibility for a breach at the software company Kaseya, the group accounted for less than 10% of known ransomware victims, according to the threat intelligence firm Recorded Future. Now, it accounts for 42%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya warns customers of ongoing malspam campaign posing as security updates<a href="https://securityaffairs.co/wordpress/119928/cyber-crime/kaseya-warns-malspam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are conducting a spam campaign aimed at infecting Kaseya customers, posing as legitimate VSA security updates
+
+
+
+Kaseya is warning customers of threat actors attempting to exploit the recent massive supply chain ransomware attack suffered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netskope's valuation more than doubles to $7.5 bn in the latest $300 mn funding round<a href="https://www.reuters.com/technology/cloud-security-firm-netskope-raises-fresh-capital-75-bln-valuation-2021-07-09/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netskope's valuation more than doubled to $7.5 billion after a $300 million funding round led by ICONIQ Growth, highlighting massive demand for cloud security services as cyber-attacks increase in number and severity.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use a new technique in malspam attacks to disable Macro security warnings in weaponized docs<a href="https://securityaffairs.co/wordpress/119902/hacking/malspam-new-evasion-technique-macro.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from McAfee Labs warn of a novel technique used by threat actors that are using non-malicious documents to disable security warnings prior to executing macro code on the recipient’s PC.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips Vue Vulnerabilities Could Let a Hacker to Perform Remote Code Execution<a href="https://heimdalsecurity.com/blog/philips-vue-vulnerabilities-cause-rec/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+15 Philips Vue Vulnerabilities located in the Philips Clinical Collaboration Platform Portal represent dangerous tools in the hands of a hacker as they could cause remote code execution cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hits Swiss consumer outlet Comparis<a href="https://www.reuters.com/technology/ransomware-attack-hits-swiss-consumer-outlet-comparis-2021-07-09/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comparis said its website - which lets consumers compare prices for goods and services - was working normally again, but access via e-mail and customer hotline may still be limited as it works with cybersecurity specialists on a complete recovery.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch researchers shed new light on Kaseya vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252503766/Dutch-researchers-shed-new-light-on-Kaseya-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Dutch Institute for Vulnerability Disclosure posted a pair of articles outlining how and when they found a series of vulnerabilities in the tools Kaseya provides to managed service providers (MSPs).
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 9th 2021 - A flawed attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-9th-2021-a-flawed-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's news focuses on the aftermath of REvil's ransomware attack on MSPs and customers using zero-day vulnerabilities in Kaseya VSA. The good news is that it has not been as disruptive as we initially feared.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says Russian-linked hackers attacked its navy's website<a href="https://thehill.com//policy/international/russia/562365-ukraine-says-russian-linked-hackers-attacked-its-navys-website"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine said Friday that it believes Russian-linked hackers were responsible for hacking the Ukrainian navy's website and publishing a series of fake reports about its ongoing Sea Breeze military drills taking place in the Black Sea. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CMS, NIH ERM programs failed to account for national security risks, says OIG<a href="https://www.scmagazine.com/home/health-care/cms-nih-erm-programs-failed-to-account-for-national-security-risks-says-oig/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead, Centers for Medicare and Medicaid Services policies and procedures rely on the enterprise risk management processes from the Department of Health and Human Services, rather than its own requirements.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns cryptocurrency owners, exchanges of ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-cryptocurrency-owners-exchanges-of-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns cryptocurrency owners, exchanges, and third-party payment platforms of threat actors actively targeting virtual assets in attacks that can lead to significant financial losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden warns Putin on Russian ransomware attacks | Biden signs sweeping order to boost competition| TikTok updates automated takedown system<a href="https://thehill.com//policy/cybersecurity/overnights/562329-hillicon-valley-biden-warns-putin-on-russian-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenJohn Kerry to visit Moscow officials to discuss 'global climate ambition' Civil rights leaders find meeting with WH 'encouraging' amidst voting rights battle Pentagon eyes places to send Afghan interpreters as Biden pledges evacuations by end of July MORE rounded out a very active week in cybersecurity by calling Russian President Vladimir PutinVladimir Vladimirovich PutinJohn Kerry to visit Moscow officials to discuss 'global climate ambition' Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms The New START extension lacks critical points for strategic stability MORE to discuss concerns including recent Russian-linked ransomware attacks, urging him to take action to disrupt cyber criminal groups operating in his country. The call came a week after the ransomware attack on software group Kaseya that hit up to 1,500 companies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya attack spotlights potential gaps in managed service provider model<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-attack-spotlights-potential-gaps-in-managed-service-provider-model/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Where are the failures in vendor and MSP relationships that could introduce risks, and what tactics could help close the gaps? SC Media spoke to supply chain experts to examine the complexities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden warns Putin on Russian ransomware attacks<a href="https://thehill.com//homenews/administration/562282-biden-presses-putin-to-take-action-on-russian-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden spoke by phone with Russian President Vladimir PutinVladimir Vladimirovich PutinJohn Kerry to visit Moscow officials to discuss 'global climate ambition' Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms The New START extension lacks critical points for strategic stability MORE on Friday and urged him to take action to disrupt criminal groups operating in Russia that are behind recent ransomware attacks in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four vulnerabilities found in Sage X3 ERP software could allow threat actors to run commands at will<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/four-vulnerabilities-found-in-sage-x3-erp-software-could-allow-threat-actors-to-run-commands-at-will/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities were fixed according to Rapid7’s vulnerability disclosure process and were patched in recent releases of Sage X3 Version 9.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US urges mayors to confer with states on cyber posture, but can more be done?<a href="https://www.scmagazine.com/home/security-news/us-urges-mayors-to-confer-with-states-on-cyber-posture-but-can-more-be-done/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Municipalities still lack incentive to follow cyber best practices, notes former city CISO.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 1.2M patients stolen prior to third-party vendor ransomware attack<a href="https://www.scmagazine.com/home/health-care/data-of-1-2m-patients-stolen-prior-to-third-party-vendor-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s health care data breach roundup includes attacks on Practicefirst, University Medical Center of Southern Nevada and Coastal Family Health Center.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Group is Continuously Sharpening its Tools<a href="https://cyware.com/news/wildpressure-apt-group-is-continuously-sharpening-its-tools-74557ec6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky spotted WildPressure APT group deploying a new malware to target businesses in the oil and gas sector, through both Windows and macOS systems.&nbsp;Experts also noted some similarities in the techniques of the WildPressure APT and BlackShadow, which also targets organizations in the Middl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Lyrebird - Unfolding the Secrets of Dr HeX<a href="https://cyware.com/news/operation-lyrebird-unfolding-the-secrets-of-dr-hex-7ff1404a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL arrested Dr. Hex under the operation Lyrebird. The accused was involved in attacks on 134 websites from 2009–2018 across multiple regions.&nbsp;This arrest comes as a breath of fresh air for the security community. The suspect is under investigation and more details may emerge in the futur ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
