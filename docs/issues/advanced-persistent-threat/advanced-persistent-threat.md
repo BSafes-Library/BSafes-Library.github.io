@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WildPressure APT Group is Continuously Sharpening its Tools<a href="https://cyware.com/news/wildpressure-apt-group-is-continuously-sharpening-its-tools-74557ec6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky spotted WildPressure APT group deploying a new malware to target businesses in the oil and gas sector, through both Windows and macOS systems.&nbsp;Experts also noted some similarities in the techniques of the WildPressure APT and BlackShadow, which also targets organizations in the Middl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

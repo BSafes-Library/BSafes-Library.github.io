@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 1.2M patients stolen prior to third-party vendor ransomware attack<a href="https://www.scmagazine.com/home/health-care/data-of-1-2m-patients-stolen-prior-to-third-party-vendor-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week’s health care data breach roundup includes attacks on Practicefirst, University Medical Center of Southern Nevada and Coastal Family Health Center.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

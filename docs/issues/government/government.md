@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns cryptocurrency owners, exchanges of ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-cryptocurrency-owners-exchanges-of-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns cryptocurrency owners, exchanges, and third-party payment platforms&nbsp;of threat actors actively targeting virtual assets in attacks that can lead to significant financial losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden warns Putin on Russian ransomware attacks<a href="https://thehill.com//homenews/administration/562282-biden-presses-putin-to-take-action-on-russian-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden spoke by phone with Russian President Vladimir PutinVladimir Vladimirovich PutinJohn Kerry to visit Moscow officials to discuss 'global climate ambition' Hillicon Valley: Warren asks SEC to take closer look at cryptocurrency exchanges | Maryland town knocked offline as part of massive ransomware attack | Huawei hires three new lobbying firms The New START extension lacks critical points for strategic stability MORE on Friday and urged him to take action to disrupt criminal groups operating in Russia that are behind recent ransomware attacks in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

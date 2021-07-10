@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips Vue Vulnerabilities Could Let a Hacker to Perform Remote Code Execution<a href="https://heimdalsecurity.com/blog/philips-vue-vulnerabilities-cause-rec/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+15 Philips Vue Vulnerabilities located in the Philips Clinical Collaboration Platform Portal represent dangerous tools in the hands of a hacker as they could cause remote code execution cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch researchers shed new light on Kaseya vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252503766/Dutch-researchers-shed-new-light-on-Kaseya-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Dutch Institute for Vulnerability Disclosure posted a pair of articles outlining how and when they found a series of vulnerabilities in the tools Kaseya provides to managed service providers (MSPs).
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four vulnerabilities found in Sage X3 ERP software could allow threat actors to run commands at will<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/four-vulnerabilities-found-in-sage-x3-erp-software-could-allow-threat-actors-to-run-commands-at-will/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities were fixed according to Rapid7’s vulnerability disclosure process and were patched in recent releases of Sage X3 Version 9.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

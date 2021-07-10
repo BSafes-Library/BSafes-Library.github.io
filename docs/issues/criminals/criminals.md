@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How REvil evolved into a ransomware collective capable of extorting Kaseya, JBS<a href="https://www.cyberscoop.com/revil-ransomware-gang-russia-us-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Before claiming responsibility for a breach at the software company Kaseya, the group accounted for less than 10% of known ransomware victims, according to the threat intelligence firm Recorded Future. Now, it accounts for 42%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Lyrebird - Unfolding the Secrets of Dr HeX<a href="https://cyware.com/news/operation-lyrebird-unfolding-the-secrets-of-dr-hex-7ff1404a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL arrested Dr. Hex under the operation Lyrebird. The accused was involved in attacks on 134 websites from 2009–2018 across multiple regions.&nbsp;This arrest comes as a breath of fresh air for the security community. The suspect is under investigation and more details may emerge in the futur ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

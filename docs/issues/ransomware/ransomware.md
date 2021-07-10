@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 9th 2021 - A flawed attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-9th-2021-a-flawed-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's news focuses on the aftermath of REvil's ransomware attack on MSPs and customers using zero-day vulnerabilities in Kaseya VSA. The good news is that it has not been as disruptive as we initially feared.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

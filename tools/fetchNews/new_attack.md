@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hits Swiss consumer outlet Comparis<a href="https://www.reuters.com/technology/ransomware-attack-hits-swiss-consumer-outlet-comparis-2021-07-09/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Comparis said its website - which lets consumers compare prices for goods and services - was working normally again, but access via e-mail and customer hotline may still be limited as it works with cybersecurity specialists on a complete recovery.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says Russian-linked hackers attacked its navy's website<a href="https://thehill.com//policy/international/russia/562365-ukraine-says-russian-linked-hackers-attacked-its-navys-website"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine said Friday that it believes Russian-linked hackers were responsible for hacking the Ukrainian navy's website and publishing a series of fake reports about its ongoing Sea Breeze military drills taking place in the Black Sea.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya attack spotlights potential gaps in managed service provider model<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-attack-spotlights-potential-gaps-in-managed-service-provider-model/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Where are the failures in vendor and MSP relationships that could introduce risks, and what tactics could help close the gaps? SC Media spoke to supply chain experts to examine the complexities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

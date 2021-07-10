@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How REvil evolved into a ransomware collective capable of extorting Kaseya, JBS<a href="https://www.cyberscoop.com/revil-ransomware-gang-russia-us-attacks/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya warns customers of ongoing malspam campaign posing as security updates<a href="https://securityaffairs.co/wordpress/119928/cyber-crime/kaseya-warns-malspam-campaign.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netskope's valuation more than doubles to $7.5 bn in the latest $300 mn funding round<a href="https://www.reuters.com/technology/cloud-security-firm-netskope-raises-fresh-capital-75-bln-valuation-2021-07-09/?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use a new technique in malspam attacks to disable Macro security warnings in weaponized docs<a href="https://securityaffairs.co/wordpress/119902/hacking/malspam-new-evasion-technique-macro.html?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Philips Vue Vulnerabilities Could Let a Hacker to Perform Remote Code Execution<a href="https://heimdalsecurity.com/blog/philips-vue-vulnerabilities-cause-rec/?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack hits Swiss consumer outlet Comparis<a href="https://www.reuters.com/technology/ransomware-attack-hits-swiss-consumer-outlet-comparis-2021-07-09/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch researchers shed new light on Kaseya vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252503766/Dutch-researchers-shed-new-light-on-Kaseya-vulnerabilities?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 9th 2021 - A flawed attack<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-9th-2021-a-flawed-attack/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine says Russian-linked hackers attacked its navy's website<a href="https://thehill.com//policy/international/russia/562365-ukraine-says-russian-linked-hackers-attacked-its-navys-website"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CMS, NIH ERM programs failed to account for national security risks, says OIG<a href="https://www.scmagazine.com/home/health-care/cms-nih-erm-programs-failed-to-account-for-national-security-risks-says-oig/"> Full Text</a>
@@ -198,7 +198,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns cryptocurrency owners, exchanges of ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-cryptocurrency-owners-exchanges-of-ongoing-attacks/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden warns Putin on Russian ransomware attacks | Biden signs sweeping order to boost competition| TikTok updates automated takedown system<a href="https://thehill.com//policy/cybersecurity/overnights/562329-hillicon-valley-biden-warns-putin-on-russian-ransomware"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya attack spotlights potential gaps in managed service provider model<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-attack-spotlights-potential-gaps-in-managed-service-provider-model/"> Full Text</a>
@@ -246,7 +246,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 09, 2021
+July 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden warns Putin on Russian ransomware attacks<a href="https://thehill.com//homenews/administration/562282-biden-presses-putin-to-take-action-on-russian-ransomware-attacks"> Full Text</a>
@@ -262,7 +262,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four vulnerabilities found in Sage X3 ERP software could allow threat actors to run commands at will<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/four-vulnerabilities-found-in-sage-x3-erp-software-could-allow-threat-actors-to-run-commands-at-will/"> Full Text</a>
@@ -278,7 +278,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US urges mayors to confer with states on cyber posture, but can more be done?<a href="https://www.scmagazine.com/home/security-news/us-urges-mayors-to-confer-with-states-on-cyber-posture-but-can-more-be-done/"> Full Text</a>
@@ -294,7 +294,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 1.2M patients stolen prior to third-party vendor ransomware attack<a href="https://www.scmagazine.com/home/health-care/data-of-1-2m-patients-stolen-prior-to-third-party-vendor-ransomware-attack/"> Full Text</a>
@@ -310,7 +310,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WildPressure APT Group is Continuously Sharpening its Tools<a href="https://cyware.com/news/wildpressure-apt-group-is-continuously-sharpening-its-tools-74557ec6"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2021
+July 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Lyrebird - Unfolding the Secrets of Dr HeX<a href="https://cyware.com/news/operation-lyrebird-unfolding-the-secrets-of-dr-hex-7ff1404a"> Full Text</a>
