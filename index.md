@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Polygon 2021: Towards Secure Development of Digital Ecosystems<a href="https://threatpost.com/cyber-polygon-2021-towards-secure-development-of-digital-ecosystems/167661/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is one of the most important topics on the global agenda, boosted by the pandemic. As the global digitalisation is further accelerating, the world is becoming ever more interconnected. Digital ecosystems are being created all around us: countries, corporations and individuals are taking advantage of the rapid spread of the Internet and smart devices. In this context, a single vulnerable link is enough to bring down the entire system, just like the domino effect.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
