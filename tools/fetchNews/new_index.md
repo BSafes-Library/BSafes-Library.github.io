@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 10, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden asks Putin to crack down on Russian-based ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/biden-asks-putin-to-crack-down-on-russian-based-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden asked Russian President Putin during a phone call today to take action against ransomware groups operating within Russia's borders behind the ongoing wave of attacks impacting the United States and other countries worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber Polygon 2021: Towards Secure Development of Digital Ecosystems<a href="https://threatpost.com/cyber-polygon-2021-towards-secure-development-of-digital-ecosystems/167661/"> Full Text</a>
 </p>
 <details>
