@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+July 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden discussed Russian ransomware gangs with Putin in a phone call<a href="https://securityaffairs.co/wordpress/119961/cyber-crime/biden-putin-phone-call-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden expressed concerns about ransomware attacks carried out by Russian gangs during a phone call with President Vladimir Putin.
+
+
+
+The recent wave of ransomware attacks carried out by Russian gangs like REvil and Darkside worries US authorities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

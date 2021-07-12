@@ -11,6 +11,24 @@ nav_order: 900015
 July 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Iran’s railroad system was hit by a cyberattack, hackers posted fake delay messages<a href="https://securityaffairs.co/wordpress/119942/hacking/irans-railroad-system-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran's railroad system was hit by a cyberattack, hackers posted fake messages about delays or cancellations of the trains on display boards at stations across the country.
+
+
+
+Iran's railroad system was hit by a cyberattack, threat actors published fake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack hits Swiss consumer outlet Comparis<a href="https://www.reuters.com/technology/ransomware-attack-hits-swiss-consumer-outlet-comparis-2021-07-09/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
