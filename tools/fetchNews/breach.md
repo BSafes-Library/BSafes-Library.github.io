@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+July 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers accessed Mint Mobile subscribers’ data and ported some numbers<a href="https://securityaffairs.co/wordpress/119954/data-breach/mint-mobile-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mint Mobile discloses a data breach, an unauthorized attacker gained access to subscribers' account information and ported phone numbers.
+
+
+
+Mint Mobile is an American telecommunications company which sells mobile phone services and operates as an MVNO...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mint Mobile hit by a data breach after numbers ported, data accessed<a href="https://www.bleepingcomputer.com/news/security/mint-mobile-hit-by-a-data-breach-after-numbers-ported-data-accessed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mint Mobile has disclosed a data breach after an unauthorized person gained access to subscribers' account information and ported phone numbers to another carrier.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

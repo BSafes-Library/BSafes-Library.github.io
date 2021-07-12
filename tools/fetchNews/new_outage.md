@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At long last: Kaseya restores VSA services shelved after ransomware row<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-restores-vsa-services-shelved-after-ransomware-row/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya released its long-awaited patch for on-premises versions of its VSA remote monitoring and management software on Sunday and began its rollout of the software-of-a-service version of the tool.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

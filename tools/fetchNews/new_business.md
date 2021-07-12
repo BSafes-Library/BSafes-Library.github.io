@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft looks to boost your business security with reported RiskIQ bid<a href="https://www.techradar.com/in/news/microsoft-looks-to-boost-your-business-security-with-reported-riskiq-bid?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is planning to acquire the San Francisco-based cybersecurity firm RiskIQ and is likely to pay more than $500 million in cash for the company, according to people familiar with the matter.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

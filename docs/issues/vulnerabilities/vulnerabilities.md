@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya releases patches for flaws exploited in massive ransomware supply-chain attack<a href="https://securityaffairs.co/wordpress/119980/security/kaseya-fix-flaws-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya has released a security update to address the VSA zero-day vulnerabilities exploited by REvil gang in the massive ransomware supply chain attack.
+
+
+
+Software vendor Kaseya has released a security update to fix the zero-day vulnerabilities in its VSA software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in preprocessor language Less.js causes website to leak AWS secret keys<a href="https://portswigger.net/daily-swig/flaw-in-preprocessor-language-less-js-causes-website-to-leak-aws-secret-keys?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in popular preprocessor language Less.js could be exploited to achieve remote code execution (RCE) against websites that allow users to input Less.js code, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Releases Patches for Flaws Exploited in Widespread Ransomware Attack<a href="https://thehackernews.com/2021/07/kaseya-releases-patches-for-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida-based software vendor Kaseya on Sunday&nbsp;rolled out urgent updates to address critical security vulnerabilities in its Virtual System Administrator (VSA) solution that was used as a jumping off point to target as many as 1,500 businesses across the globe as part of a widespread supply-chain ransomware attack .  Following the incident, the company had urged on-premises VSA customers to shut down their servers until a patch was available. Now, almost 10 days later the firm has shipped VSA version 9.5.7a (9.5.7.2994)  with fixes for three new security flaws —&nbsp;   CVE-2021-30116  - Credentials leak and business logic flaw  CVE-2021-30119  - Cross-site scripting vulnerability  CVE-2021-30120  - Two-factor authentication bypass   The security issues are part of a total of seven vulnerabilities that were discovered and reported to Kaseya by the Dutch Institute for Vulnerability Disclosure ( DIVD ) earlier in April, of which four other weaknesses were remediated in previous releases —
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

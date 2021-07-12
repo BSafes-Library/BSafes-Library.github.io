@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart hackers hide stolen credit card data into images and bogus CSS files<a href="https://securityaffairs.co/wordpress/119975/cyber-crime/magecart-hides-data-into-images.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Magecart hackers continuously improve their exfiltration techniques to evade detection, they are hiding stolen credit card data into images.
+
+
+
+Magecart hackers have devised a new technique to obfuscating the malware within&nbsp;comment blocks&nbsp;and hide...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

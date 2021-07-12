@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors scrape 600 million LinkedIn profiles and are selling the data online - again<a href="https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crafting a Custom Dictionary for Your Password Policy<a href="https://thehackernews.com/2021/07/crafting-custom-dictionary-for-your.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya releases patches for flaws exploited in massive ransomware supply-chain attack<a href="https://securityaffairs.co/wordpress/119980/security/kaseya-fix-flaws-ransomware-attack.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jack Cable, Stanford student and cyber whiz, aims to crowdsource ransomware details<a href="https://www.cyberscoop.com/jack-cable-ransomwhere-ransomware/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Spread BIOPASS Malware via Chinese Online Gambling Sites<a href="https://thehackernews.com/2021/07/hackers-spread-biopass-malware-via.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart hackers hide stolen credit card data into images and bogus CSS files<a href="https://securityaffairs.co/wordpress/119975/cyber-crime/magecart-hides-data-into-images.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Calls For New Ransomware Mitigation Strategy<a href="https://www.bankinfosecurity.com/interpol-calls-for-new-ransomware-mitigation-strategy-a-17023?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft looks to boost your business security with reported RiskIQ bid<a href="https://www.techradar.com/in/news/microsoft-looks-to-boost-your-business-security-with-reported-riskiq-bid?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Tech Radar
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack at Bank of Oak Ridge Exposes Customer Data and Certain Disrupts Banking Services<a href="https://www.wfmynews2.com/article/news/local/bank-of-oak-ridge-cyberattack/83-d1d540ba-c6fb-473e-99f1-417771b181e9?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ WFMY News2
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaw in preprocessor language Less.js causes website to leak AWS secret keys<a href="https://portswigger.net/daily-swig/flaw-in-preprocessor-language-less-js-causes-website-to-leak-aws-secret-keys?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former CISA chief makes case for including election systems as critical infrastructure<a href="https://www.zdnet.com/article/the-chris-krebs-case-for-including-election-systems-as-critical-infrastructure/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOPASS RAT New Malware Sniffs Victims via Live Streaming<a href="https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraudulent content has a direct impact on consumer loyalty<a href="https://www.helpnetsecurity.com/2021/07/09/fraudulent-content-impact-on-consumer-loyalty/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 At long last: Kaseya restores VSA services shelved after ransomware row<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-restores-vsa-services-shelved-after-ransomware-row/"> Full Text</a>
@@ -266,7 +266,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Releases Patches for Flaws Exploited in Widespread Ransomware Attack<a href="https://thehackernews.com/2021/07/kaseya-releases-patches-for-flaws.html"> Full Text</a>

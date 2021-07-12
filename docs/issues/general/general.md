@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafting a Custom Dictionary for Your Password Policy<a href="https://thehackernews.com/2021/07/crafting-custom-dictionary-for-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern password policies are comprised of many different elements that contribute to its effectiveness. One of the components of an effective current password policy makes use of what is known as a&nbsp; custom dictionary&nbsp; that filters out certain words that are not allowed as passwords in the environment.  Using custom dictionaries, organizations can significantly improve their cybersecurity posture and filter out obvious passwords that provide poor security for user accounts.  When using password dictionaries in your password policy, there are many different approaches to consider. First, let's consider crafting a custom dictionary for your password policy, including general guidance on how these are created, configured, and how you can easily use custom dictionaries in an active directory environment.  Why customize your dictionary?&nbsp;  Custom dictionaries are born from the need to "think as a hacker thinks." Compromised credentials are one of the leading causes of malicious
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jack Cable, Stanford student and cyber whiz, aims to crowdsource ransomware details<a href="https://www.cyberscoop.com/jack-cable-ransomwhere-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Stanford University student and security researcher Jack Cable launched a project dubbed “Ransomwhere” to track payments to bitcoin addresses associated with known ransomware gangs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former CISA chief makes case for including election systems as critical infrastructure<a href="https://www.zdnet.com/article/the-chris-krebs-case-for-including-election-systems-as-critical-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"I think there are elements of the election administration function that should absolutely be considered critical infrastructure, and that is the administration element," Chris Krebs said.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudulent content has a direct impact on consumer loyalty<a href="https://www.helpnetsecurity.com/2021/07/09/fraudulent-content-impact-on-consumer-loyalty/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scams accounted for 59% of blocked user-generated malicious content during the first quarter of the year, according to a Sift report. 27% of consumers face fraudulent content on a daily/weekly basis.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

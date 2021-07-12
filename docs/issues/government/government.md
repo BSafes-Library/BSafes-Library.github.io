@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Calls For New Ransomware Mitigation Strategy<a href="https://www.bankinfosecurity.com/interpol-calls-for-new-ransomware-mitigation-strategy-a-17023?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol announced that it will boost the role of country-specific National Central Bureaus, among other measures, to develop a global strategy for ransomware mitigation.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
