@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya patches VSA vulnerabilities used in REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-patches-vsa-vulnerabilities-used-in-revil-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya has released a security update for the VSA zero-day vulnerabilities used by the REvil ransomware gang to attack MSPs and their customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden discussed Russian ransomware gangs with Putin in a phone call<a href="https://securityaffairs.co/wordpress/119961/cyber-crime/biden-putin-phone-call-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden expressed concerns about ransomware attacks carried out by Russian gangs during a phone call with President Vladimir Putin.
+
+
+
+The recent wave of ransomware attacks carried out by Russian gangs like REvil and Darkside worries US authorities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers accessed Mint Mobile subscribers’ data and ported some numbers<a href="https://securityaffairs.co/wordpress/119954/data-breach/mint-mobile-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mint Mobile discloses a data breach, an unauthorized attacker gained access to subscribers' account information and ported phone numbers.
+
+
+
+Mint Mobile is an American telecommunications company which sells mobile phone services and operates as an MVNO...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 322<a href="https://securityaffairs.co/wordpress/119958/breaking-news/security-affairs-newsletter-round-322.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Coop supermarket...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mint Mobile hit by a data breach after numbers ported, data accessed<a href="https://www.bleepingcomputer.com/news/security/mint-mobile-hit-by-a-data-breach-after-numbers-ported-data-accessed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mint Mobile has disclosed a data breach after an unauthorized person gained access to subscribers' account information and ported phone numbers to another carrier.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s railroad system was hit by a cyberattack, hackers posted fake delay messages<a href="https://securityaffairs.co/wordpress/119942/hacking/irans-railroad-system-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran's railroad system was hit by a cyberattack, hackers posted fake messages about delays or cancellations of the trains on display boards at stations across the country.
+
+
+
+Iran's railroad system was hit by a cyberattack, threat actors published fake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
