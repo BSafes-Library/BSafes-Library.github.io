@@ -34,7 +34,255 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors scrape 600 million LinkedIn profiles and are selling the data online - again<a href="https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While not deeply sensitive, the information could still be used by malicious actors to quickly and easily find new targets based on the criminals’ preferred methods of social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafting a Custom Dictionary for Your Password Policy<a href="https://thehackernews.com/2021/07/crafting-custom-dictionary-for-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern password policies are comprised of many different elements that contribute to its effectiveness. One of the components of an effective current password policy makes use of what is known as a  custom dictionary  that filters out certain words that are not allowed as passwords in the environment.  Using custom dictionaries, organizations can significantly improve their cybersecurity posture and filter out obvious passwords that provide poor security for user accounts.  When using password dictionaries in your password policy, there are many different approaches to consider. First, let's consider crafting a custom dictionary for your password policy, including general guidance on how these are created, configured, and how you can easily use custom dictionaries in an active directory environment.  Why customize your dictionary?   Custom dictionaries are born from the need to "think as a hacker thinks." Compromised credentials are one of the leading causes of malicious
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya releases patches for flaws exploited in massive ransomware supply-chain attack<a href="https://securityaffairs.co/wordpress/119980/security/kaseya-fix-flaws-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya has released a security update to address the VSA zero-day vulnerabilities exploited by REvil gang in the massive ransomware supply chain attack.
+
+
+
+Software vendor Kaseya has released a security update to fix the zero-day vulnerabilities in its VSA software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jack Cable, Stanford student and cyber whiz, aims to crowdsource ransomware details<a href="https://www.cyberscoop.com/jack-cable-ransomwhere-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Stanford University student and security researcher Jack Cable launched a project dubbed “Ransomwhere” to track payments to bitcoin addresses associated with known ransomware gangs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spread BIOPASS Malware via Chinese Online Gambling Sites<a href="https://thehackernews.com/2021/07/hackers-spread-biopass-malware-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about a new malware that's striking online gambling companies in China via a watering hole attack to deploy either Cobalt Strike beacons or a previously undocumented Python-based backdoor called BIOPASS RAT  that takes advantage of Open Broadcaster Software (OBS) Studio's live-streaming app to capture the screen of its victims to attackers.  The attack involves deceiving gaming website visitors into downloading a malware loader camouflaged as a legitimate installer for popular-but-deprecated apps such as Adobe Flash Player or Microsoft Silverlight, only for the loader to act as a conduit for fetching next-stage payloads.  Specifically, the websites' online support chat pages are booby-trapped with malicious JavaScript code, which is used to deliver the malware to the victims.   "BIOPASS RAT possesses basic features found in other malware, such as file system assessment, remote desktop access, file exfiltration, and shell command e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart hackers hide stolen credit card data into images and bogus CSS files<a href="https://securityaffairs.co/wordpress/119975/cyber-crime/magecart-hides-data-into-images.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Magecart hackers continuously improve their exfiltration techniques to evade detection, they are hiding stolen credit card data into images.
+
+
+
+Magecart hackers have devised a new technique to obfuscating the malware within comment blocks and hide...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Calls For New Ransomware Mitigation Strategy<a href="https://www.bankinfosecurity.com/interpol-calls-for-new-ransomware-mitigation-strategy-a-17023?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol announced that it will boost the role of country-specific National Central Bureaus, among other measures, to develop a global strategy for ransomware mitigation.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft looks to boost your business security with reported RiskIQ bid<a href="https://www.techradar.com/in/news/microsoft-looks-to-boost-your-business-security-with-reported-riskiq-bid?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is planning to acquire the San Francisco-based cybersecurity firm RiskIQ and is likely to pay more than $500 million in cash for the company, according to people familiar with the matter.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at Bank of Oak Ridge Exposes Customer Data and Certain Disrupts Banking Services<a href="https://www.wfmynews2.com/article/news/local/bank-of-oak-ridge-cyberattack/83-d1d540ba-c6fb-473e-99f1-417771b181e9?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bank of Oak Ridge, a community bank in Piedmont-Triad, said an unauthorized actor accessed banking customer data in late April, leading the bank to launch an investigation into the incident.
+</details>
+<div style="text-align: right" markdown="1">
+WFMY News2
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in preprocessor language Less.js causes website to leak AWS secret keys<a href="https://portswigger.net/daily-swig/flaw-in-preprocessor-language-less-js-causes-website-to-leak-aws-secret-keys?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in popular preprocessor language Less.js could be exploited to achieve remote code execution (RCE) against websites that allow users to input Less.js code, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former CISA chief makes case for including election systems as critical infrastructure<a href="https://www.zdnet.com/article/the-chris-krebs-case-for-including-election-systems-as-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"I think there are elements of the election administration function that should absolutely be considered critical infrastructure, and that is the administration element," Chris Krebs said.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOPASS RAT New Malware Sniffs Victims via Live Streaming<a href="https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BIOPASS RAT possesses features such as file system assessment, remote desktop access, file exfiltration, and shell command execution. It can also steal web browser and instant messaging client data.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudulent content has a direct impact on consumer loyalty<a href="https://www.helpnetsecurity.com/2021/07/09/fraudulent-content-impact-on-consumer-loyalty/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scams accounted for 59% of blocked user-generated malicious content during the first quarter of the year, according to a Sift report. 27% of consumers face fraudulent content on a daily/weekly basis.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At long last: Kaseya restores VSA services shelved after ransomware row<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-restores-vsa-services-shelved-after-ransomware-row/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya released its long-awaited patch for on-premises versions of its VSA remote monitoring and management software on Sunday and began its rollout of the software-of-a-service version of the tool.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Releases Patches for Flaws Exploited in Widespread Ransomware Attack<a href="https://thehackernews.com/2021/07/kaseya-releases-patches-for-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida-based software vendor Kaseya on Sunday rolled out urgent updates to address critical security vulnerabilities in its Virtual System Administrator (VSA) solution that was used as a jumping off point to target as many as 1,500 businesses across the globe as part of a widespread supply-chain ransomware attack .  Following the incident, the company had urged on-premises VSA customers to shut down their servers until a patch was available. Now, almost 10 days later the firm has shipped VSA version 9.5.7a (9.5.7.2994)  with fixes for three new security flaws —    CVE-2021-30116  - Credentials leak and business logic flaw  CVE-2021-30119  - Cross-site scripting vulnerability  CVE-2021-30120  - Two-factor authentication bypass   The security issues are part of a total of seven vulnerabilities that were discovered and reported to Kaseya by the Dutch Institute for Vulnerability Disclosure ( DIVD ) earlier in April, of which four other weaknesses were remediated in previous releases —
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya patches VSA vulnerabilities used in REvil ransomware attack<a href="https://www.bleepingcomputer.com/news/security/kaseya-patches-vsa-vulnerabilities-used-in-revil-ransomware-attack/"> Full Text</a>
@@ -50,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden discussed Russian ransomware gangs with Putin in a phone call<a href="https://securityaffairs.co/wordpress/119961/cyber-crime/biden-putin-phone-call-ransomware.html"> Full Text</a>
@@ -70,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers accessed Mint Mobile subscribers’ data and ported some numbers<a href="https://securityaffairs.co/wordpress/119954/data-breach/mint-mobile-data-breach.html"> Full Text</a>
@@ -90,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 322<a href="https://securityaffairs.co/wordpress/119958/breaking-news/security-affairs-newsletter-round-322.html"> Full Text</a>
@@ -114,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mint Mobile hit by a data breach after numbers ported, data accessed<a href="https://www.bleepingcomputer.com/news/security/mint-mobile-hit-by-a-data-breach-after-numbers-ported-data-accessed/"> Full Text</a>
@@ -130,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2021
+July 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran’s railroad system was hit by a cyberattack, hackers posted fake delay messages<a href="https://securityaffairs.co/wordpress/119942/hacking/irans-railroad-system-cyberattack.html"> Full Text</a>
