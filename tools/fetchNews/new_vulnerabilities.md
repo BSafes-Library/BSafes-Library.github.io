@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ModiPwn flaw in Modicon PLCs bypasses security mechanisms<a href="https://securityaffairs.co/wordpress/120045/security/modipwn-modipwn-plcs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ModiPwn flaw (CVE-2021-22779) in some of Schneider Electric’s Modicon PLCs can allow attackers to bypass authentication mechanisms and take over the device.
+
+
+
+Researchers at IoT security firm&nbsp;Armis discovered an authentication bypass vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers find big flaw in a Schneider Electric ICS system popular in building systems, utilities<a href="https://www.cyberscoop.com/schneider-electric-plc-vulnerability-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Schneider Electric computer control systems popular in heating, air conditioning and other building systems could allow hackers to take control of them, researchers at Armis warned.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Patches Zero-Days Used in REvil Attacks<a href="https://threatpost.com/kaseya-patches-zero-days-revil-attacks/167670/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security update addresses three VSA vulnerabilities used by the ransomware gang to launch a worldwide supply-chain attack on MSPs and their customers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw in ForgeRock Access Manager Under Active Attack<a href="https://thehackernews.com/2021/07/critical-rce-flaw-in-forgerock-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies in Australia and the U.S. are&nbsp; warning &nbsp;of an actively exploited vulnerability impacting ForgeRock's OpenAM access management solution that could be leveraged to execute arbitrary code on an affected system remotely.  "The [Australian Cyber Security Centre] has observed actors exploiting this vulnerability to compromise multiple hosts and deploy additional malware and tools," the organization&nbsp; said &nbsp;in an alert. ACSC didn't disclose the nature of the attacks, how widespread they are, or the identities of the threat actors exploiting them.   Tracked as&nbsp; CVE-2021-35464 , the issue concerns a pre-authentication remote code execution (RCE) vulnerability in ForgeRock Access Manager identity and access management tool, and stems from an&nbsp; unsafe Java deserialization &nbsp;in the Jato framework used by the software.   "An attacker exploiting the vulnerability will execute commands in the context of the current user, not as the root user (unless ForgeRo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Critical SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://thehackernews.com/2021/07/a-new-critical-solarwinds-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds, the Texas-based company that became the epicenter of a&nbsp; massive supply chain attack &nbsp;late last year, has issued patches to contain a remote code execution flaw in its Serv-U managed file transfer service.  The fixes, which target Serv-U Managed File Transfer and Serv-U Secure FTP products, arrive after Microsoft notified the IT management and remote monitoring software maker that the flaw was being exploited in the wild. The threat actor behind the exploitation remains unknown as yet, and it isn't clear exactly how the attack was carried out.   "Microsoft has provided evidence of limited, targeted customer impact, though SolarWinds does not currently have an estimate of how many customers may be directly affected by the vulnerability," SolarWinds&nbsp; said &nbsp;in an advisory published Friday, adding it's "unaware of the identity of the potentially affected customers."  Affecting Serv-U version 15.2.3 HF1 and before, a successful exploitation of the sho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

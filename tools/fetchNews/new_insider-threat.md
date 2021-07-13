@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Prosecutors: Insider Trading Tips Sold on Darknet Sites<a href="https://www.govinfosecurity.com/prosecutors-insider-trading-tips-sold-on-darknet-sites-a-17052?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Greek national has been indicted by a federal grand jury on charges of selling insider trading tips and other proprietary financial data on darknet sites over several years, according to the DoJ.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

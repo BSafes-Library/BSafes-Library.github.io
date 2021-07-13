@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals steal millions in stolen crypto through scam impersonating Coinbase<a href="https://cybernews.com/crypto/millions-of-stolen-crypto-found-investigation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation by CyberNews uncovered a network of crypto wallet addresses used by a scammer group to store and cash out millions in crypto stolen from thousands of victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Poured Themselves a Glass and Got to Work on Wine-Themed Phishing Emails in 2020<a href="https://securityintelligence.com/news/wine-themed-phishing-emails-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2020 saw rising wine sales and digital scams to match. Researchers at Recorded Future and Area 1 Security witnessed an increase in wine-themed domain registrations and phishing emails since March.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eight arrests made as Eurojust dismantles $2.4 million e-commerce fraud operation<a href="https://portswigger.net/daily-swig/eight-arrests-made-as-eurojust-dismantles-2-million-e-commerce-fraud-operation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminal network deployed phishing scams to dupe victims into paying for what they believed were goods and services via legitimate websites, including eBay, Amazon, and Airbnb.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

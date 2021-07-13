@@ -11,6 +11,76 @@ nav_order: 900075
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Interpol urges police to unite against 'potential ransomware pandemic'<a href="https://www.bleepingcomputer.com/news/security/interpol-urges-police-to-unite-against-potential-ransomware-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol (International Criminal Police Organisation) Secretary General Jürgen Stock&nbsp;urged&nbsp;police agencies and industry partners&nbsp;to work together to prevent what looks like a future ransomware pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After the Biden-Putin Summit, U.S.-Russia Expert Consultations Should Focus on the Financial Sector<a href="https://www.lawfareblog.com/after-biden-putin-summit-us-russia-expert-consultations-should-focus-financial-sector"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bilateral agreement on cyberattacks against financial integrity would be an important first step that could help build confidence to make progress on other, more challenging areas. Yet, even for this issue, there are opportunities to make progress if expert consultations begin with a more narrowly defined policy problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate unanimously approves Jen Easterly to lead DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/562614-senate-unanimously-approves-jen-easterly-to-lead-dhs-cyber-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Monday unanimously approved the nomination of Jen Easterly to serve as director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA).
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China drafts new cyber-security industry plan<a href="https://www.reuters.com/world/china/china-drafts-new-cyber-security-industry-plan-2021-07-12/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's Ministry of Industry and Information Technology has issued a draft 3-year action plan to develop the cybersecurity industry, estimating the sector may be worth over $38.6 billion by 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chris Inglis formally sworn in as national cyber director<a href="https://thehill.com//policy/cybersecurity/562601-chris-inglis-formally-sworn-in-as-national-cyber-director"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former National Security Agency Deputy Director Chris Inglis was formally sworn in as the first White House national cyber director on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Interpol Calls For New Ransomware Mitigation Strategy<a href="https://www.bankinfosecurity.com/interpol-calls-for-new-ransomware-mitigation-strategy-a-17023?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

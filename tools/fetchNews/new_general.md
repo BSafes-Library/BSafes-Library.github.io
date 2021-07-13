@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Non-profit Global Business Alliance launches supply chain subsidiary<a href="https://www.scmagazine.com/home/security-news/non-profit-global-business-alliance-launches-supply-chain-subsidiary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Global Business Alliance, a non-profit devoted to raising foreign investment in U.S. industry, announced Tuesday a subsidiary to help international companies manage supply chain concerns.&nbsp; GBA Sentinel&nbsp;will assist international companies operating in the U.S. that face a growing understanding of risk from upstream partners in their supply chains and an increasingly complex regulatory space…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNS-over-HTTPS takes another small step towards global domination<a href="https://blog.malwarebytes.com/privacy-2/2021/07/dns-over-https-takes-another-small-step-towards-global-domination/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firefox recently announced that it will be rolling out DNS-over-HTTPS soon to one percent of its Canadian users as part of its partnership with the Canadian Internet Registration Authority (CIRA).
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EDR (alone) won’t protect your organization from advanced hacking groups<a href="https://www.scmagazine.com/featured/edr-alone-wont-protect-your-organization-from-advanced-hacking-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of academic researchers in Greece tested 11 different endpoint detection systems and found plenty of ways to evade them.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

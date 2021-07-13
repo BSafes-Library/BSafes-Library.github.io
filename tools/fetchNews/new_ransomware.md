@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Landscape: REvil Is One of Many Operators<a href="https://www.govinfosecurity.com/ransomware-landscape-revil-one-many-operators-a-17027?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware-as-a-service operations have grown rapidly, with cybersecurity firm Intel 471 late last year counting five major players, nine up-and-coming operations and 10 newcomers.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

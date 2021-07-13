@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social media partially disrupted in Cuba amid anti-government protests<a href="https://securityaffairs.co/wordpress/120037/social-networks/cuba-social-media-partially-distruption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NetBlocks reported partial disruption to social media and messaging platforms in Cuba from 12 July 2021 shortly after Cubans went to the streets to protest the government.
+
+
+
+Security experts from NetBlocks are observing partial disruption to social...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
