@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang's web sites mysteriously shut down<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-gangs-web-sites-mysteriously-shut-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infrastructure and websites for the REvil ransomware operation have mysteriously gone offline as of last night.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Firefox 90 adds enhanced tracker blocking to private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-90-adds-enhanced-tracker-blocking-to-private-browsing/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Prosecutors: Insider Trading Tips Sold on Darknet Sites<a href="https://www.govinfosecurity.com/prosecutors-insider-trading-tips-sold-on-darknet-sites-a-17052?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Posing as Scholars Target Professors and Writers in Middle-East<a href="https://thehackernews.com/2021/07/iranian-hackers-posing-as-scholars.html"> Full Text</a>
@@ -82,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ModiPwn flaw in Modicon PLCs bypasses security mechanisms<a href="https://securityaffairs.co/wordpress/120045/security/modipwn-modipwn-plcs.html"> Full Text</a>
@@ -102,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Non-profit Global Business Alliance launches supply chain subsidiary<a href="https://www.scmagazine.com/home/security-news/non-profit-global-business-alliance-launches-supply-chain-subsidiary/"> Full Text</a>
@@ -118,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BIOPASS malware live streams victim's computer screen<a href="https://www.bleepingcomputer.com/news/security/new-biopass-malware-live-streams-victims-computer-screen/"> Full Text</a>
@@ -134,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals steal millions in stolen crypto through scam impersonating Coinbase<a href="https://cybernews.com/crypto/millions-of-stolen-crypto-found-investigation/?&web_view=true"> Full Text</a>
@@ -150,7 +166,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Malware Returns with a new VNC Module to Spy on its Victims<a href="https://thehackernews.com/2021/07/trickbot-malware-returns-with-new-vnc.html"> Full Text</a>
@@ -166,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social media partially disrupted in Cuba amid anti-government protests<a href="https://securityaffairs.co/wordpress/120037/social-networks/cuba-social-media-partially-distruption.html"> Full Text</a>
@@ -186,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers find big flaw in a Schneider Electric ICS system popular in building systems, utilities<a href="https://www.cyberscoop.com/schneider-electric-plc-vulnerability-ransomware/?&web_view=true"> Full Text</a>
@@ -202,7 +218,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American retailer Guess discloses data breach after ransomware attack<a href="https://securityaffairs.co/wordpress/120029/cyber-crime/guess-discloses-data-breach.html"> Full Text</a>
@@ -222,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Poured Themselves a Glass and Got to Work on Wine-Themed Phishing Emails in 2020<a href="https://securityintelligence.com/news/wine-themed-phishing-emails-2020/?&web_view=true"> Full Text</a>
@@ -238,7 +254,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Call Details of all Nepali Users Stolen in Cyberattack by Chinese Hackers on Nepal Telecom<a href="https://ciso.economictimes.indiatimes.com/news/nepal-telecom-call-details-stolen-by-chinese-hackers/84366159?&web_view=true"> Full Text</a>
@@ -254,7 +270,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eight arrests made as Eurojust dismantles $2.4 million e-commerce fraud operation<a href="https://portswigger.net/daily-swig/eight-arrests-made-as-eurojust-dismantles-2-million-e-commerce-fraud-operation?&web_view=true"> Full Text</a>
@@ -270,7 +286,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate confirms Jen Easterly as head of U.S. cyber agency<a href="https://www.politico.com/news/2021/07/12/senate-confirms-jen-easterly-cyber-499335?&web_view=true"> Full Text</a>
@@ -286,7 +302,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DNS-over-HTTPS takes another small step towards global domination<a href="https://blog.malwarebytes.com/privacy-2/2021/07/dns-over-https-takes-another-small-step-towards-global-domination/?&web_view=true"> Full Text</a>
@@ -302,7 +318,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Landscape: REvil Is One of Many Operators<a href="https://www.govinfosecurity.com/ransomware-landscape-revil-one-many-operators-a-17027?&web_view=true"> Full Text</a>
@@ -318,7 +334,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Patches Zero-Days Used in REvil Attacks<a href="https://threatpost.com/kaseya-patches-zero-days-revil-attacks/167670/"> Full Text</a>
@@ -334,7 +350,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EDR (alone) won’t protect your organization from advanced hacking groups<a href="https://www.scmagazine.com/featured/edr-alone-wont-protect-your-organization-from-advanced-hacking-groups/"> Full Text</a>
@@ -350,7 +366,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Flaw in ForgeRock Access Manager Under Active Attack<a href="https://thehackernews.com/2021/07/critical-rce-flaw-in-forgerock-access.html"> Full Text</a>
@@ -366,7 +382,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Critical SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://thehackernews.com/2021/07/a-new-critical-solarwinds-zero-day.html"> Full Text</a>
