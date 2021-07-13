@@ -37,6 +37,455 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Interpol urges police to unite against 'potential ransomware pandemic'<a href="https://www.bleepingcomputer.com/news/security/interpol-urges-police-to-unite-against-potential-ransomware-pandemic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol (International Criminal Police Organisation) Secretary General Jürgen Stock urged police agencies and industry partners to work together to prevent what looks like a future ransomware pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bandidos Targeting Latin America, Spying on Victims<a href="https://cyware.com/news/bandidos-targeting-latin-america-spying-on-victims-b275c80e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers took the wrap off of an ongoing espionage campaign targeting corporate networks in Spanish-speaking countries, with a focus on Venezuela. The modifications made to this malware over the years show a keen interest of Bandidos cybercriminals to keep using this malware in future campa ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: World disgusted by racist abuse toward players | Senate unanimously approves Jen Easterly to lead DHS cyber agency | WhatsApp privacy update sparks complaint from EU consumer groups<a href="https://thehill.com//policy/technology/overnights/562625-hillicon-valley-world-disgusted-by-racist-abuse-toward-players"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An onslaught of racist vitriol towards members of England’s soccer team flooded social media platforms, sparking fierce backlash. Twitter said it was taking action against the racist posts. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Empty Threats and Warnings on Cyber<a href="https://www.lawfareblog.com/empty-threats-and-warnings-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 9, President Biden warned Russian President Vladimir Putin that the United States will take “any necessary action,” including imposing unspecified “consequences,” if Russia does not disrupt ransomware attacks from its soil. The problem with this warning is that the United States has been publicly pledging to impose “consequences” on Russia for its cyber actions for at least five years.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After the Biden-Putin Summit, U.S.-Russia Expert Consultations Should Focus on the Financial Sector<a href="https://www.lawfareblog.com/after-biden-putin-summit-us-russia-expert-consultations-should-focus-financial-sector"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bilateral agreement on cyberattacks against financial integrity would be an important first step that could help build confidence to make progress on other, more challenging areas. Yet, even for this issue, there are opportunities to make progress if expert consultations begin with a more narrowly defined policy problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds fixes critical Serv-U zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120020/security/solarwinds-serv-u-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds confirmed that a threat actor is actively exploiting a new zero-day vulnerability in Serv-U products and urges customers to fix it.
+
+
+
+SolarWinds addressed a zero-day remote code execution flaw in Serv-U products which is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could allowlisting reduce the impact of ransomware, cyberattacks on health care?<a href="https://www.scmagazine.com/home/health-care/could-allowlisting-reduce-the-impact-of-ransomware-cyberattacks-on-health-care/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given health care’s reliance on tech, cyberattacks and ransomware can cause massive disruptions. PCMatic CEO thinks allowlisting could reduce the risk to patient safety.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOPASS RAT Uses Live Streaming Steal Victims’ Data<a href="https://threatpost.com/biopass-rat-live-streaming/167695/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware has targeted Chinese gambling sites with fake app installers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion retailer Guess discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fashion-retailer-guess-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fashion brand and retailer Guess is notifying affected customers of a data breach following a February ransomware attack that led to data theft.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart Now Targeting Magento Credit Card Swipers<a href="https://cyware.com/news/magecart-now-targeting-magento-credit-card-swipers-a3e424ee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Magecart is one of the most active and prominent threat actor groups targeting e-commerce websites. One of the Magecart groups heavily infected Magento e-commerce websites to steal credit card details using six different types of Magento credit card swipers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate unanimously approves Jen Easterly to lead DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/562614-senate-unanimously-approves-jen-easterly-to-lead-dhs-cyber-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Monday unanimously approved the nomination of Jen Easterly to serve as director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA).
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors scrape 600 million LinkedIn profiles and are selling the data online – again<a href="https://securityaffairs.co/wordpress/120009/cyber-crime/600m-linkedin-profiles-scraped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cyber News Team have spotted threat actors offering for sale 600 million LinkedIn profiles scraped from the platform, again.
+
+
+
+Original post: https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/
+
+
+
+For...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EDR (alone) won’t protect your organization from advanced hacking groups<a href="https://www.scmagazine.com/home/research/edr-alone-wont-protect-your-organization-from-advanced-hacking-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of academic researchers in Greece tested 11 different endpoint detection systems and found plenty of ways to evade them.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress File Management Plugin Riddled with Critical Bugs<a href="https://threatpost.com/frontend-file-manager-wordpress-bugs/167687/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bugs allow a range of attacks on websites, including deleting blog pages and remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds patches critical Serv-U vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-serv-u-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds is urging customers to patch a Serv-U remote code execution vulnerability exploited in the wild by "a single threat actor" in attacks targeting a limited number of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China drafts new cyber-security industry plan<a href="https://www.reuters.com/world/china/china-drafts-new-cyber-security-industry-plan-2021-07-12/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's Ministry of Industry and Information Technology has issued a draft 3-year action plan to develop the cybersecurity industry, estimating the sector may be worth over $38.6 billion by 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chris Inglis formally sworn in as national cyber director<a href="https://thehill.com//policy/cybersecurity/562601-chris-inglis-formally-sworn-in-as-national-cyber-director"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former National Security Agency Deputy Director Chris Inglis was formally sworn in as the first White House national cyber director on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIOPASS malware abuses OBS Studio to spy on victims<a href="https://securityaffairs.co/wordpress/119990/malware/biopass-malware-obs-studio.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new malware, dubbed BIOPASS, that sniffs victim’s screen by abusing the framework of Open Broadcaster Software (OBS) Studio.
+
+
+
+Researchers from Trend Micro spotted a new malware, dubbed BIOPASS, that sniffs the victim’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado’s new law ups need for privacy awareness training<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/colorados-new-law-ups-need-for-privacy-awareness-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We often hear about security awareness training’s role in maintaining proper cyber hygiene, but what about privacy awareness programs? Experts largely agree that such training is integral to ensuring employees don’t run afoul of a growing array of legislations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health insurers facing growing risk of customer data theft<a href="https://www.helpnetsecurity.com/2021/07/12/health-insurers-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. health insurance industry is facing growing risks from cybersecurity threats due to the sophisticated techniques used by cybercriminals amid the expansion of remote healthcare delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft aims to expand cloud security by acquiring RiskIQ<a href="https://www.scmagazine.com/home/security-news/cloud-security/microsoft-aims-to-expand-cloud-security-by-acquiring-riskiq/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Looking to strengthen its position in cloud security, Microsoft on Monday announced a definitive agreement to acquire RiskIQ, a cloud-based threat intelligence and attack surface management vendor best known for its PassiveTotal product. In a blog post, Eric Doerr, vice president of Microsoft Cloud Security, said companies need better visibility into their assets and exposure…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Eurocontrol Data Shows Airlines Increasingly Becoming Targets for Cyber Attacks<a href="https://www.aviationtoday.com/2021/07/12/new-eurocontrol-data-shows-airlines-increasingly-becoming-targets-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Commercial airlines accounted for 61% of all detected aviation-related cyberattacks in 2020, according to new data collected by Eurocontrol analyzing rising levels of cyber risks for the industry.
+</details>
+<div style="text-align: right" markdown="1">
+Aviation Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PACS vulnerabilities, data breach spur lawsuit against radiology specialists<a href="https://www.scmagazine.com/home/health-care/pacs-vulnerabilities-data-breach-spur-lawsuit-against-radiology-specialists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lawsuit against Northeast Radiology and Alliance HealthCare alleges negligence and inadequate security, following a nine-month data breach caused by PACS flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric Patches Vulnerabilities in Air Conditioning Systems<a href="https://www.securityweek.com/mitsubishi-electric-patches-vulnerabilities-air-conditioning-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mitsubishi Electric recently patched several vulnerabilities affecting many of its air conditioning products, mainly centralized controllers. CISA published advisories on the flaws this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VU raises $12M to remove cybersecurity friction from digital experiences<a href="https://techcrunch.com/2021/07/12/vu-raises-12m-to-remove-cybersecurity-friction-from-digital-experiences/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fraud and identity protection company announced $12 million in Series B funding from backers including Globant, Agrega Partners, NXTP Ventures, Bridge One, the IDB Lab, and Telefónica.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware shows the power and weakness of the web<a href="https://www.zdnet.com/article/ransomware-shows-the-power-and-weakness-of-the-web/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware reflects the complexities and limitations of the web. We increasingly rely on computer systems that often have pretty shallow foundations when it comes to security and reliability.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Incident at Spreadshop Impacts Customers’ Payment Details, Emails, and Passwords<a href="https://www.privacysharks.com/spreadshop-hit-by-cyber-attack-payment-details-emails-and-passwords-breached/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spreadshop was the victim of a cyberattack on July 8, 2021. In an update posted to its website, the platform confirmed that personal user data, including bank account details, were compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Privacy Sharks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat actors scrape 600 million LinkedIn profiles and are selling the data online - again<a href="https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +499,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crafting a Custom Dictionary for Your Password Policy<a href="https://thehackernews.com/2021/07/crafting-custom-dictionary-for-your.html"> Full Text</a>
@@ -66,7 +515,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya releases patches for flaws exploited in massive ransomware supply-chain attack<a href="https://securityaffairs.co/wordpress/119980/security/kaseya-fix-flaws-ransomware-attack.html"> Full Text</a>
@@ -86,7 +535,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jack Cable, Stanford student and cyber whiz, aims to crowdsource ransomware details<a href="https://www.cyberscoop.com/jack-cable-ransomwhere-ransomware/?&web_view=true"> Full Text</a>
@@ -102,7 +551,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Spread BIOPASS Malware via Chinese Online Gambling Sites<a href="https://thehackernews.com/2021/07/hackers-spread-biopass-malware-via.html"> Full Text</a>
@@ -118,7 +567,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart hackers hide stolen credit card data into images and bogus CSS files<a href="https://securityaffairs.co/wordpress/119975/cyber-crime/magecart-hides-data-into-images.html"> Full Text</a>
@@ -138,7 +587,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Calls For New Ransomware Mitigation Strategy<a href="https://www.bankinfosecurity.com/interpol-calls-for-new-ransomware-mitigation-strategy-a-17023?&web_view=true"> Full Text</a>
@@ -154,7 +603,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft looks to boost your business security with reported RiskIQ bid<a href="https://www.techradar.com/in/news/microsoft-looks-to-boost-your-business-security-with-reported-riskiq-bid?&web_view=true"> Full Text</a>
@@ -170,7 +619,7 @@ Tech Radar
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack at Bank of Oak Ridge Exposes Customer Data and Certain Disrupts Banking Services<a href="https://www.wfmynews2.com/article/news/local/bank-of-oak-ridge-cyberattack/83-d1d540ba-c6fb-473e-99f1-417771b181e9?&web_view=true"> Full Text</a>
@@ -186,7 +635,7 @@ WFMY News2
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaw in preprocessor language Less.js causes website to leak AWS secret keys<a href="https://portswigger.net/daily-swig/flaw-in-preprocessor-language-less-js-causes-website-to-leak-aws-secret-keys?&web_view=true"> Full Text</a>
@@ -202,7 +651,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former CISA chief makes case for including election systems as critical infrastructure<a href="https://www.zdnet.com/article/the-chris-krebs-case-for-including-election-systems-as-critical-infrastructure/?&web_view=true"> Full Text</a>
@@ -218,7 +667,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOPASS RAT New Malware Sniffs Victims via Live Streaming<a href="https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html?&web_view=true"> Full Text</a>
@@ -234,7 +683,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraudulent content has a direct impact on consumer loyalty<a href="https://www.helpnetsecurity.com/2021/07/09/fraudulent-content-impact-on-consumer-loyalty/?&web_view=true"> Full Text</a>
@@ -250,7 +699,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 At long last: Kaseya restores VSA services shelved after ransomware row<a href="https://www.scmagazine.com/kaseya-cyberattack/kaseya-restores-vsa-services-shelved-after-ransomware-row/"> Full Text</a>
@@ -266,7 +715,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2021
+July 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Releases Patches for Flaws Exploited in Widespread Ransomware Attack<a href="https://thehackernews.com/2021/07/kaseya-releases-patches-for-flaws.html"> Full Text</a>
