@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Could allowlisting reduce the impact of ransomware, cyberattacks on health care?<a href="https://www.scmagazine.com/home/health-care/could-allowlisting-reduce-the-impact-of-ransomware-cyberattacks-on-health-care/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given health care’s reliance on tech, cyberattacks and ransomware can cause massive disruptions. PCMatic CEO thinks allowlisting could reduce the risk to patient safety.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware shows the power and weakness of the web<a href="https://www.zdnet.com/article/ransomware-shows-the-power-and-weakness-of-the-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware reflects the complexities and limitations of the web. We increasingly rely on computer systems that often have pretty shallow foundations when it comes to security and reliability.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

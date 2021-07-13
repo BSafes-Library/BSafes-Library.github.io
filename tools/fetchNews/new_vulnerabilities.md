@@ -11,6 +11,80 @@ nav_order: 900220
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds fixes critical Serv-U zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120020/security/solarwinds-serv-u-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds confirmed that a threat actor is actively exploiting a new zero-day vulnerability in&nbsp;Serv-U&nbsp;products and urges customers to fix it.
+
+
+
+SolarWinds addressed a zero-day remote code execution flaw in Serv-U&nbsp;products&nbsp;which is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress File Management Plugin Riddled with Critical Bugs<a href="https://threatpost.com/frontend-file-manager-wordpress-bugs/167687/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bugs allow a range of attacks on websites, including deleting blog pages and remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds patches critical Serv-U vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-serv-u-vulnerability-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds is urging customers to patch a Serv-U remote code execution vulnerability&nbsp;exploited in the wild by "a single threat actor" in attacks targeting a limited number of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PACS vulnerabilities, data breach spur lawsuit against radiology specialists<a href="https://www.scmagazine.com/home/health-care/pacs-vulnerabilities-data-breach-spur-lawsuit-against-radiology-specialists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lawsuit against Northeast Radiology and Alliance HealthCare alleges negligence and inadequate security, following a nine-month data breach caused by PACS flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric Patches Vulnerabilities in Air Conditioning Systems<a href="https://www.securityweek.com/mitsubishi-electric-patches-vulnerabilities-air-conditioning-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mitsubishi Electric recently patched several vulnerabilities affecting many of its air conditioning products, mainly centralized controllers. CISA published advisories on the flaws this month.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kaseya releases patches for flaws exploited in massive ransomware supply-chain attack<a href="https://securityaffairs.co/wordpress/119980/security/kaseya-fix-flaws-ransomware-attack.html"> Full Text</a>
 </p>
 <details>

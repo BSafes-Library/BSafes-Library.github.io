@@ -11,6 +11,76 @@ nav_order: 900072
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: World disgusted by racist abuse toward players | Senate unanimously approves Jen Easterly to lead DHS cyber agency | WhatsApp privacy update sparks complaint from EU consumer groups<a href="https://thehill.com//policy/technology/overnights/562625-hillicon-valley-world-disgusted-by-racist-abuse-toward-players"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An onslaught of racist vitriol towards members of England’s soccer team flooded social media platforms, sparking fierce backlash. Twitter said it was taking action against the racist posts.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Empty Threats and Warnings on Cyber<a href="https://www.lawfareblog.com/empty-threats-and-warnings-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 9, President Biden warned Russian President Vladimir Putin that the United States will take “any necessary action,” including imposing unspecified “consequences,” if Russia does not disrupt ransomware attacks from its soil. The problem with this warning is that the United States has been publicly pledging to impose “consequences” on Russia for its cyber actions for at least five years.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EDR (alone) won’t protect your organization from advanced hacking groups<a href="https://www.scmagazine.com/home/research/edr-alone-wont-protect-your-organization-from-advanced-hacking-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of academic researchers in Greece tested 11 different endpoint detection systems and found plenty of ways to evade them.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health insurers facing growing risk of customer data theft<a href="https://www.helpnetsecurity.com/2021/07/12/health-insurers-data-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. health insurance industry is facing growing risks from cybersecurity threats due to the sophisticated techniques used by cybercriminals amid the expansion of remote healthcare delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Eurocontrol Data Shows Airlines Increasingly Becoming Targets for Cyber Attacks<a href="https://www.aviationtoday.com/2021/07/12/new-eurocontrol-data-shows-airlines-increasingly-becoming-targets-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Commercial airlines accounted for 61% of all detected aviation-related cyberattacks in 2020, according to new data collected by Eurocontrol analyzing rising levels of cyber risks for the industry.
+</details>
+<div style="text-align: right" markdown="1">
+Aviation Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Crafting a Custom Dictionary for Your Password Policy<a href="https://thehackernews.com/2021/07/crafting-custom-dictionary-for-your.html"> Full Text</a>
 </p>
 <details>

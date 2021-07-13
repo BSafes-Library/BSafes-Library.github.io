@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors scrape 600 million LinkedIn profiles and are selling the data online - again<a href="https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While not deeply sensitive, the information could still be used by malicious actors to quickly and easily find new targets based on the criminals’ preferred methods of social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at Bank of Oak Ridge Exposes Customer Data and Certain Disrupts Banking Services<a href="https://www.wfmynews2.com/article/news/local/bank-of-oak-ridge-cyberattack/83-d1d540ba-c6fb-473e-99f1-417771b181e9?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bank of Oak Ridge, a community bank in Piedmont-Triad, said an unauthorized actor accessed banking customer data in late April, leading the bank to launch an investigation into the incident.
+</details>
+<div style="text-align: right" markdown="1">
+WFMY News2
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

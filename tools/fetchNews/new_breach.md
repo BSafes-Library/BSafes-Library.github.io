@@ -11,6 +11,34 @@ nav_order: 900029
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fashion retailer Guess discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fashion-retailer-guess-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fashion brand and retailer Guess is notifying affected customers of a data breach following a February ransomware attack that led to data theft.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Incident at Spreadshop Impacts Customers’ Payment Details, Emails, and Passwords<a href="https://www.privacysharks.com/spreadshop-hit-by-cyber-attack-payment-details-emails-and-passwords-breached/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spreadshop was the victim of a cyberattack on July 8, 2021. In an update posted to its website, the platform confirmed that personal user data, including bank account details, were compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Privacy Sharks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat actors scrape 600 million LinkedIn profiles and are selling the data online - again<a href="https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

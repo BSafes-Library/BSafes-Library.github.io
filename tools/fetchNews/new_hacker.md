@@ -11,6 +11,28 @@ nav_order: 900080
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat actors scrape 600 million LinkedIn profiles and are selling the data online – again<a href="https://securityaffairs.co/wordpress/120009/cyber-crime/600m-linkedin-profiles-scraped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cyber News Team have spotted threat actors offering for sale 600 million LinkedIn profiles scraped from the platform, again.
+
+
+
+Original post: https://cybernews.com/news/threat-actors-scrape-600-million-linkedin-profiles-and-are-selling-the-data-online-again/
+
+
+
+For...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Magecart hackers hide stolen credit card data into images and bogus CSS files<a href="https://securityaffairs.co/wordpress/119975/cyber-crime/magecart-hides-data-into-images.html"> Full Text</a>
 </p>
 <details>

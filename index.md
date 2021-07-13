@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol urges police to unite against 'potential ransomware pandemic'<a href="https://www.bleepingcomputer.com/news/security/interpol-urges-police-to-unite-against-potential-ransomware-pandemic/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bandidos Targeting Latin America, Spying on Victims<a href="https://cyware.com/news/bandidos-targeting-latin-america-spying-on-victims-b275c80e"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: World disgusted by racist abuse toward players | Senate unanimously approves Jen Easterly to lead DHS cyber agency | WhatsApp privacy update sparks complaint from EU consumer groups<a href="https://thehill.com//policy/technology/overnights/562625-hillicon-valley-world-disgusted-by-racist-abuse-toward-players"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Empty Threats and Warnings on Cyber<a href="https://www.lawfareblog.com/empty-threats-and-warnings-cyber"> Full Text</a>
@@ -99,7 +99,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After the Biden-Putin Summit, U.S.-Russia Expert Consultations Should Focus on the Financial Sector<a href="https://www.lawfareblog.com/after-biden-putin-summit-us-russia-expert-consultations-should-focus-financial-sector"> Full Text</a>
@@ -115,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds fixes critical Serv-U zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120020/security/solarwinds-serv-u-zero-day.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Could allowlisting reduce the impact of ransomware, cyberattacks on health care?<a href="https://www.scmagazine.com/home/health-care/could-allowlisting-reduce-the-impact-of-ransomware-cyberattacks-on-health-care/"> Full Text</a>
@@ -151,7 +151,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOPASS RAT Uses Live Streaming Steal Victims’ Data<a href="https://threatpost.com/biopass-rat-live-streaming/167695/"> Full Text</a>
@@ -167,7 +167,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fashion retailer Guess discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/fashion-retailer-guess-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -183,7 +183,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart Now Targeting Magento Credit Card Swipers<a href="https://cyware.com/news/magecart-now-targeting-magento-credit-card-swipers-a3e424ee"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate unanimously approves Jen Easterly to lead DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/562614-senate-unanimously-approves-jen-easterly-to-lead-dhs-cyber-agency"> Full Text</a>
@@ -215,7 +215,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors scrape 600 million LinkedIn profiles and are selling the data online – again<a href="https://securityaffairs.co/wordpress/120009/cyber-crime/600m-linkedin-profiles-scraped.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EDR (alone) won’t protect your organization from advanced hacking groups<a href="https://www.scmagazine.com/home/research/edr-alone-wont-protect-your-organization-from-advanced-hacking-groups/"> Full Text</a>
@@ -255,7 +255,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress File Management Plugin Riddled with Critical Bugs<a href="https://threatpost.com/frontend-file-manager-wordpress-bugs/167687/"> Full Text</a>
@@ -271,7 +271,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds patches critical Serv-U vulnerability exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/solarwinds-patches-critical-serv-u-vulnerability-exploited-in-the-wild/"> Full Text</a>
@@ -287,7 +287,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China drafts new cyber-security industry plan<a href="https://www.reuters.com/world/china/china-drafts-new-cyber-security-industry-plan-2021-07-12/?&web_view=true"> Full Text</a>
@@ -303,7 +303,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chris Inglis formally sworn in as national cyber director<a href="https://thehill.com//policy/cybersecurity/562601-chris-inglis-formally-sworn-in-as-national-cyber-director"> Full Text</a>
@@ -319,7 +319,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIOPASS malware abuses OBS Studio to spy on victims<a href="https://securityaffairs.co/wordpress/119990/malware/biopass-malware-obs-studio.html"> Full Text</a>
@@ -339,7 +339,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colorado’s new law ups need for privacy awareness training<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/colorados-new-law-ups-need-for-privacy-awareness-training/"> Full Text</a>
@@ -355,7 +355,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health insurers facing growing risk of customer data theft<a href="https://www.helpnetsecurity.com/2021/07/12/health-insurers-data-theft/?&web_view=true"> Full Text</a>
@@ -371,7 +371,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft aims to expand cloud security by acquiring RiskIQ<a href="https://www.scmagazine.com/home/security-news/cloud-security/microsoft-aims-to-expand-cloud-security-by-acquiring-riskiq/"> Full Text</a>
@@ -387,7 +387,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Eurocontrol Data Shows Airlines Increasingly Becoming Targets for Cyber Attacks<a href="https://www.aviationtoday.com/2021/07/12/new-eurocontrol-data-shows-airlines-increasingly-becoming-targets-cyber-attacks/?&web_view=true"> Full Text</a>
@@ -403,7 +403,7 @@ Aviation Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PACS vulnerabilities, data breach spur lawsuit against radiology specialists<a href="https://www.scmagazine.com/home/health-care/pacs-vulnerabilities-data-breach-spur-lawsuit-against-radiology-specialists/"> Full Text</a>
@@ -419,7 +419,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitsubishi Electric Patches Vulnerabilities in Air Conditioning Systems<a href="https://www.securityweek.com/mitsubishi-electric-patches-vulnerabilities-air-conditioning-systems?&web_view=true"> Full Text</a>
@@ -435,7 +435,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VU raises $12M to remove cybersecurity friction from digital experiences<a href="https://techcrunch.com/2021/07/12/vu-raises-12m-to-remove-cybersecurity-friction-from-digital-experiences/?&web_view=true"> Full Text</a>
@@ -451,7 +451,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware shows the power and weakness of the web<a href="https://www.zdnet.com/article/ransomware-shows-the-power-and-weakness-of-the-web/?&web_view=true"> Full Text</a>
@@ -467,7 +467,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2021
+July 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Incident at Spreadshop Impacts Customers’ Payment Details, Emails, and Passwords<a href="https://www.privacysharks.com/spreadshop-hit-by-cyber-attack-payment-details-emails-and-passwords-breached/?&web_view=true"> Full Text</a>

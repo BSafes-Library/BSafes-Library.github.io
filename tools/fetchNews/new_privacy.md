@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado’s new law ups need for privacy awareness training<a href="https://www.scmagazine.com/home/security-news/privacy-compliance/colorados-new-law-ups-need-for-privacy-awareness-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We often hear about security awareness training’s role in maintaining proper cyber hygiene, but what about privacy awareness programs? Experts largely agree that such training is integral to ensuring employees don’t run afoul of a growing array of legislations.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

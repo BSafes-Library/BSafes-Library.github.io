@@ -11,6 +11,34 @@ nav_order: 900027
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft aims to expand cloud security by acquiring RiskIQ<a href="https://www.scmagazine.com/home/security-news/cloud-security/microsoft-aims-to-expand-cloud-security-by-acquiring-riskiq/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Looking to strengthen its position in cloud security, Microsoft on Monday announced a definitive agreement to acquire RiskIQ, a cloud-based threat intelligence and attack surface management vendor best known for its PassiveTotal product. In a blog post, Eric Doerr, vice president of Microsoft Cloud Security, said companies need better visibility into their assets and exposure…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VU raises $12M to remove cybersecurity friction from digital experiences<a href="https://techcrunch.com/2021/07/12/vu-raises-12m-to-remove-cybersecurity-friction-from-digital-experiences/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fraud and identity protection company announced $12 million in Series B funding from backers including Globant, Agrega Partners, NXTP Ventures, Bridge One, the IDB Lab, and Telefónica.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft looks to boost your business security with reported RiskIQ bid<a href="https://www.techradar.com/in/news/microsoft-looks-to-boost-your-business-security-with-reported-riskiq-bid?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
