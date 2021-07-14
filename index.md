@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apps Built Better: Why DevSecOps is Your Security Team’s Silver Bullet<a href="https://threatpost.com/apps-built-better-devsecops-security-silver-bullet/167793/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phil Richards, vice president and CSO at Ivanti, explains how organizations can design DevOps processes and systems to thwart cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House panel approves major funding boost for CISA in party-line vote<a href="https://therecord.media/house-panel-approves-major-funding-boost-for-cisa/?&web_view=true"> Full Text</a>
 </p>
 <details>
