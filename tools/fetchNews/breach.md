@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American retailer Guess discloses data breach after ransomware attack<a href="https://securityaffairs.co/wordpress/120029/cyber-crime/guess-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American&nbsp;clothing&nbsp;brand and retailer Guess discloses a data breach after the February ransomware attack and is notifying the affected customers.
+
+
+
+In February, American fashion brand Guess was hit by a ransomware attack, now the company is disclosing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call Details of all Nepali Users Stolen in Cyberattack by Chinese Hackers on Nepal Telecom<a href="https://ciso.economictimes.indiatimes.com/news/nepal-telecom-call-details-stolen-by-chinese-hackers/84366159?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has also been found that the data stolen from the telecom server has been kept on the dark web for sale. The CDR call data record of the telco was put for selling on June 29.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

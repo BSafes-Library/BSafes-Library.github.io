@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked hacking group DEV-0322 behind Solarwinds Serv-U zero-day attacks<a href="https://securityaffairs.co/wordpress/120084/apt/china-dev-0322-solarwinds-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributes the&nbsp;recent attacks&nbsp;that have targeted SolarWinds file transfer servers to a China-linked APT group that the experts tracked as DEV-0322.
+
+
+
+Microsoft said that the recent attacks against SolarWinds file transfer servers were carried...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacking group believed to be behind Kaseya cyber attack goes offline<a href="https://thehill.com//policy/cybersecurity/562773-Russian-hacking-group-behind-kaseya-attack-goes-offline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites on the dark web used by a criminal hacking group believed to be behind the recent massive ransomware attack on software company Kaseya went offline Tuesday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

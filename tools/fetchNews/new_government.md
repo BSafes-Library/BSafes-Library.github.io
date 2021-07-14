@@ -11,6 +11,34 @@ nav_order: 900075
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Jen Easterly sworn in as director of DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/562720-jen-easterly-sworn-in-as-director-of-dhs-cyber-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jen Easterly was sworn in Tuesday as director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), one day after the Senate unanimously approved her nomination.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch Windows PrintNightmare bug<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-windows-printnightmare-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new emergency directive ordered by the Cybersecurity and Infrastructure Security Agency (CISA) orders federal agencies to mitigate&nbsp;the actively exploited Window Print Spooler vulnerability on their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Senate confirms Jen Easterly as head of U.S. cyber agency<a href="https://www.politico.com/news/2021/07/12/senate-confirms-jen-easterly-cyber-499335?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

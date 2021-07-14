@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot improve its VNC module in recent attacks<a href="https://securityaffairs.co/wordpress/120090/malware/trickbot-botnet-vnc-module.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trickbot botnet is back, its authors implemented updates for the VNC module used for remote control of infected systems.
+
+
+
+The Trickbot botnet continues to evolve despite the operations conducted by law enforcement aimed at dismantling it. The authors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use new SolarWinds zero-day to target US Defense orgs<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-use-new-solarwinds-zero-day-to-target-us-defense-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-based hackers actively target US defense and software companies using a vulnerability in the SolarWinds Serv-U FTP server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploit Latest SolarWinds 0-Day to Target U.S. Defense Firms<a href="https://thehackernews.com/2021/07/chinese-hackers-exploit-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed that the latest string of attacks targeting SolarWinds Serv-U managed file transfer service with a now-patched remote code execution (RCE) exploit is the handiwork of a Chinese threat actor dubbed "DEV-0322."  The revelation comes days after the Texas-based IT monitoring software maker issued fixes for the flaw that could enable adversaries to remotely run arbitrary code with privileges, allowing them to perform actions like install and run malicious payloads or view and alter sensitive data.  Tracked as&nbsp; CVE-2021-35211 , the RCE flaw resides in Serv-U's implementation of the Secure Shell (SSH) protocol. While it was previously revealed that the attacks were limited in scope, SolarWinds said it's "unaware of the identity of the potentially affected customers."   Attributing the intrusions with high confidence to DEV-0322 (short for "Development Group 0322") based on observed victimology, tactics, and procedures, Micr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion brand Guess hacked, DarkSide ransomware group the likely culprit<a href="https://www.scmagazine.com/home/security-news/data-breach/fashion-brand-guess-hacked-darkside-ransomware-group-the-likely-culprit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s investigation determined that social security numbers, driver’s license numbers, passport numbers and/or financial account numbers may have been accessed or acquired.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

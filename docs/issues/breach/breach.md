@@ -11,6 +11,42 @@ nav_order: 900029
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Guess Fashion Brand Deals With Data Loss After Ransomware Attack<a href="https://threatpost.com/guess-fashion-data-loss-ransomware/167754/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attack on Guess compromised the personal and banking data of 1,300 victims.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This couple lost £15,000 to scammers. We followed the money – and found millions in stolen crypto<a href="https://securityaffairs.co/wordpress/120076/cyber-crime/scammers-stolen-crypto-wallet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CyberNews investigation uncovered a network of wallet addresses used by a scammer group to store and cash out millions in crypto stolen from thousands of victims.
+
+
+
+Original post @ https://cybernews.com/crypto/millions-of-stolen-crypto-found-investigation/
+
+
+
+Mindaugas...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 American retailer Guess discloses data breach after ransomware attack<a href="https://securityaffairs.co/wordpress/120029/cyber-crime/guess-discloses-data-breach.html"> Full Text</a>
 </p>
 <details>

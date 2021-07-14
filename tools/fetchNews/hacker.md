@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Posing as Scholars Target Professors and Writers in Middle-East<a href="https://thehackernews.com/2021/07/iranian-hackers-posing-as-scholars.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated social engineering attack undertaken by an Iranian-state aligned actor targeted think tanks, journalists, and professors with an aim to solicit sensitive information by masquerading as scholars with the University of London's School of Oriental and African Studies (SOAS).  Enterprise security firm Proofpoint attributed the campaign — called " Operation SpoofedScholars " — to the advanced persistent threat tracked as&nbsp; TA453 , which is also known by the aliases APT35 (FireEye), Charming Kitten (ClearSky), and Phosphorous (Microsoft). The government cyber warfare group is suspected to carry out intelligence efforts on behalf of the Islamic Revolutionary Guard Corps (IRGC).   "Identified targets included experts in Middle Eastern affairs from think tanks, senior professors from well-known academic institutions, and journalists specializing in Middle Eastern coverage," the researchers said in a technical write-up  shared with The Hacker News. "T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

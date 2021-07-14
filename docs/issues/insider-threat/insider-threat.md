@@ -11,6 +11,20 @@ nav_order: 900090
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US indicts dark web user 'The Bull' for insider trading<a href="https://www.bleepingcomputer.com/news/security/us-indicts-dark-web-user-the-bull-for-insider-trading/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has charged an individual for engaging in insider&nbsp;trading on the darknet. Greece-based Apostolos Trovias, known as the "The Bull" frequently used encrypted messaging services and the dark web for soliciting, exchanging and selling inside information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. Prosecutors: Insider Trading Tips Sold on Darknet Sites<a href="https://www.govinfosecurity.com/prosecutors-insider-trading-tips-sold-on-darknet-sites-a-17052?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

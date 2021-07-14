@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot updates its VNC module for high-value targets<a href="https://www.bleepingcomputer.com/news/security/trickbot-updates-its-vnc-module-for-high-value-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot botnet malware that often distributes various ransomware strains, continues to be the most prevalent threat as its developers update the VNC module used for remote control over infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

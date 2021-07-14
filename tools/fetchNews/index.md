@@ -34,7 +34,719 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2021
+July 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detonating Ransomware on My Own Computer (Don’t Try This at Home)<a href="https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are a daily occurrence, announcing new levels of danger and confusion to an already complicated business of protecting data. How it behaves can tell us lot about a ransomware attack - so I recently detonated Conti ransomware in a controlled environment to demonstrate the importance of proper cyber protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals took advantage of WFH to target financial services companies, says Financial Stability Board report<a href="https://www.theregister.com/2021/07/14/financial_stability_board_pandemic_report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals targeted security gaps at financial services firms as their staff moved to working from home, according to a report issued by the Financial Stability Board (FSB) on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 Cybercriminals Behind Mekotio and Grandoreiro Banking Trojan Arrested in Spain<a href="https://thehackernews.com/2021/07/16-cybercriminals-behind-mekotio-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish law enforcement agencies on Wednesday arrested 16 individuals belonging to a criminal network in connection with operating two banking trojans as part of a social engineering campaign targeting financial institutions in Europe.  The arrests were made in Ribeira (A Coruña), Madrid, Parla and Móstoles (Madrid), Seseña (Toledo), Villafranca de los barros (Badajoz), and Aranda de Duero (Burgos) following a year-long investigation, the Civil Guard said in a statement.  "Through malicious software, installed on the victim's computer by the technique known as 'email spoofing', [the group] would have managed to divert large amounts of money to their accounts," authorities  noted .   Computer equipment, mobile phones, and documents were confiscated, and more than 1,800 spam emails were analyzed, enabling law enforcement to block transfer attempts totaling €3.5 million successfully. The campaign is said to have netted the actors €276,470, of which €87,000 has been
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot improve its VNC module in recent attacks<a href="https://securityaffairs.co/wordpress/120090/malware/trickbot-botnet-vnc-module.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trickbot botnet is back, its authors implemented updates for the VNC module used for remote control of infected systems.
+
+
+
+The Trickbot botnet continues to evolve despite the operations conducted by law enforcement aimed at dismantling it. The authors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS offers free online training for cloud architects<a href="https://www.scmagazine.com/home/security-news/cloud-security/aws-offers-free-online-training-for-cloud-architects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services this week launched a new free online training series on Twitch that aims to build up the skills of cloud developers. The new series, the AWS Power Hour: Architecting, kicked off on Monday, July 12 and will run for six weeks. According to an AWS blog, the developer training is part of…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyberspies’ wide-scale APT campaign hits Asian govt entities<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-wide-scale-apt-campaign-hits-asian-govt-entities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers have revealed an ongoing and large-scale advanced persistent threat (APT) campaign with hundreds of victims from Southeast Asia, including Myanmar and the Philippines government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption issues account for minority of flaws in encryption libraries – research<a href="https://portswigger.net/daily-swig/encryption-issues-account-for-minority-of-flaws-in-encryption-libraries-research?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of cryptographic libraries and the vulnerabilities affecting them has concluded that memory handling issues give rise to more vulnerabilities than encryption implementation errors.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang Mysteriously Disappears After High-Profile Attacks<a href="https://thehackernews.com/2021/07/revil-ransomware-gang-mysteriously.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil, the infamous ransomware cartel behind some of the biggest cyberattacks targeting JBS and Kaseya, has mysteriously disappeared from the dark web, leading to speculations that the criminal enterprise may have been taken down.  Multiple darknet and clearnet sites maintained by the Russia-linked cybercrime syndicate, including the data leak, extortion, and payment portals, remained inaccessible, displaying an error message "Onionsite not found."   The group's  Tor network infrastructure  on the dark web consists of one data leak blog site and 22 data hosting sites. It's not immediately clear what prompted the infrastructure to be knocked offline.  REvil is one of the most prolific ransomware-as-a-service (RaaS) groups that first appeared on the threat landscape in April 2019. It's an evolution of the  GandCrab  ransomware, which hit the underground markets in early 2018.  "If REvil has been permanently disrupted, it'll mark the end of a group which ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked hacking group DEV-0322 behind Solarwinds Serv-U zero-day attacks<a href="https://securityaffairs.co/wordpress/120084/apt/china-dev-0322-solarwinds-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributes the recent attacks that have targeted SolarWinds file transfer servers to a China-linked APT group that the experts tracked as DEV-0322.
+
+
+
+Microsoft said that the recent attacks against SolarWinds file transfer servers were carried...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot updates its VNC module for high-value targets<a href="https://www.bleepingcomputer.com/news/security/trickbot-updates-its-vnc-module-for-high-value-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot botnet malware that often distributes various ransomware strains, continues to be the most prevalent threat as its developers update the VNC module used for remote control over infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware-infected Documents Injected for Over Five Months on the Kazakhstan Government’s Portal<a href="https://therecord.media/malware-infected-documents-found-on-kazakhstan-government-portals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T&T Security and Zerde Holding identified at least two documents uploaded on the government’s legal and budget-related sections that were installing a version of the Razy malware on users’ systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use This Definitive RFP Template to Effectively Evaluate XDR solutions<a href="https://thehackernews.com/2020/07/extended-detection-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new class of security tools is emerging that promises to significantly improve the effectiveness and efficiency of threat detection and response.   Emerging Extended Detection and Response (XDR) solutions aim to aggregate and correlate telemetry from multiple detection controls and then synthesize response actions.   XDR has been referred to as the next step in the evolution of Endpoint Detection and Response (EDR) solutions.   In fact, Gartner named XDR as the first of their Top 9 Security and Risk Trend  for 2020.   Because XDR represents a new solution category, there is no single accepted definition of what capabilities and features should (and shouldn't) be included.   Each provider approaches XDR with different strengths and perspectives on how what an XDR solution should include.   Therefore, selecting an XDR provider is quite challenging as organizations must organize and prioritize a wide range of capabilities that can differ significantly between providers.   Cynet is now
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The infrastructure and websites used by REvil ransomware gang are not reachable<a href="https://securityaffairs.co/wordpress/120080/cyber-crime/revil-ransomware-gang-sites-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infrastructure and leak sites used by the REvil ransomware gang for its operations went offline last night.
+
+
+
+Starting last night, the infrastructure and the websites used by the REvil ransomware gang were mysteriously unreachable, BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Should be Treated as a National Disaster in the U.S.<a href="https://news.softpedia.com/news/cyberattacks-should-be-treated-as-a-national-disaster-in-the-u-s-533505.shtml?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement officials have announced that a more widespread reaction will be forthcoming following the Kaseya ransomware attack that impacted over a thousand companies across the globe last week.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Marvel’s Black Widow Movie to Spread Malware and Steal Payment Card Data<a href="https://www.hackread.com/cybercriminals-marvel-black-widow-movie-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, several Black Widow-themed phishing sites are operating to steal user credentials. One of the sites promised the users an early preview of the movie to lure users.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Negotiation and Data Leak Sites Operated by Attackers Behind Kaseya Hack Go Down<a href="https://www.politico.com/news/2021/07/13/revil-ransomware-vanishes-499487?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware hacker gang REvil’s websites are offline, about a week and a half after its attack on IT software vendor Kaseya allowed the criminals to breach hundreds of companies around the world.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There's a Clear Line From the REvil Ransomware to Russia<a href="https://www.govinfosecurity.com/blogs/theres-clear-line-from-revil-ransomware-to-russia-p-3065?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A look at part of the REvil group's online infrastructure shows clear lines to Russian and U.K. service providers that, in theory, could help law enforcement agencies but don't appear eager to help.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Russian hacking group believed to be behind Kaseya attack goes offline | DHS funding package pours millions into migrant surveillance | Jen Easterly sworn in as director of DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/overnights/562845-hillicon-valley-russian-hacking-group-believed-to-be-behind"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites used by the cyber criminal group known as REvil went dark Tuesday, just over a week after the group was linked by cybersecurity experts to the ransomware attack on software company Kaseya. While it is unknown why the websites went dark, President BidenJoe BidenDemocrats reach deal on .5T price tag for infrastructure bill Texas family arrested for role in Capitol riot Key Senate Democrats undecided on Biden's ATF nominee  MORE last week urged Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley: Russian hacking group believed to be behind Kaseya attack goes offline | DHS funding package pours millions into migrant surveillance | Jen Easterly sworn in as director of DHS cyber agency Russia warns US against deploying troops in Central Asia after Afghanistan withdrawal Putin hosts Belarusian president for talks MORE to take further steps against hackers based in his country, and hinted to reporters that the U.S. had the option of disrupting the hackers’ servers. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Crushes 116 Bugs, Three Actively Exploited<a href="https://threatpost.com/microsoft-crushes-116-bugs/167764/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft tackles 12 critical bugs, part of its July 2021 Patch Tuesday roundup, capping a ‘PrintNightmare’ month of headaches for system admins. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacking group believed to be behind Kaseya cyber attack goes offline<a href="https://thehill.com//policy/cybersecurity/562773-Russian-hacking-group-behind-kaseya-attack-goes-offline"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites on the dark web used by a criminal hacking group believed to be behind the recent massive ransomware attack on software company Kaseya went offline Tuesday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Websites repeatedly stalked by fraudulent copycats, say researchers<a href="https://www.scmagazine.com/home/security-news/cybercrime/websites-repeatedly-stalked-by-fraudulent-copycats-say-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital Shadows researchers found that over a four-month span, its clients on average had 90 fraudulent domains impersonating their websites and brands.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Giant REvil’s Sites Disappear<a href="https://threatpost.com/ransomware-revil-sites-disappears/167745/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just days after President Biden demanded that Russian President Putin shut down ransomware groups, the servers of one of the biggest groups mysteriously went dark.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jen Easterly sworn in as director of DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/562720-jen-easterly-sworn-in-as-director-of-dhs-cyber-agency"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jen Easterly was sworn in Tuesday as director of the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA), one day after the Senate unanimously approved her nomination. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New open data project looks to gauge success, failure of ransomware policy<a href="https://www.scmagazine.com/home/security-news/ransomware/new-open-data-project-looks-to-gauge-success-failure-of-ransomware-policy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new website looks to aid ransomware policy discussions through open data, weeding out what works and what doesn’t.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guess Fashion Brand Deals With Data Loss After Ransomware Attack<a href="https://threatpost.com/guess-fashion-data-loss-ransomware/167754/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attack on Guess compromised the personal and banking data of 1,300 victims.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use new SolarWinds zero-day to target US Defense orgs<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-use-new-solarwinds-zero-day-to-target-us-defense-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-based hackers actively target US defense and software companies using a vulnerability in the SolarWinds Serv-U FTP server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Windows PCs to Patch 117 New Flaws, Including 9 Zero-Days<a href="https://thehackernews.com/2021/07/update-your-windows-pcs-to-patch-117.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft rolled out  Patch Tuesday updates  for the month of July with fixes for a total of 117 security vulnerabilities, including nine zero-day flaws, of which four are said to be under active attacks in the wild, potentially enabling an adversary to take control of affected systems.   Of the 117 issues, 13 are rated Critical, 103 are rated Important, and one is rated as Moderate in severity, with six of these bugs publicly known at the time of release.   The updates span across several of Microsoft's products, including Windows, Bing, Dynamics, Exchange Server, Office, Scripting Engine, Windows DNS, and Visual Studio Code. July also marks a dramatic jump in the volume of vulnerabilities, surpassing the number Microsoft collectively addressed as part of its updates in  May  (55) and  June  (50).   Chief among the security flaws actively exploited are as follows —   CVE-2021-34527  (CVSS score: 8.8) - Windows Print Spooler Remote Code Execution Vulnerability (publicly disclosed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This couple lost £15,000 to scammers. We followed the money – and found millions in stolen crypto<a href="https://securityaffairs.co/wordpress/120076/cyber-crime/scammers-stolen-crypto-wallet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CyberNews investigation uncovered a network of wallet addresses used by a scammer group to store and cash out millions in crypto stolen from thousands of victims.
+
+
+
+Original post @ https://cybernews.com/crypto/millions-of-stolen-crypto-found-investigation/
+
+
+
+Mindaugas...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes 117 vulnerabilities, four exploited in the wild<a href="https://www.scmagazine.com/home/security-news/microsoft-fixes-117-vulnerabilities-four-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month’s Patch Tuesday from Microsoft comes just days after out-of-band updates were released to address PrintNightmare and other vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 11 Critical Bugs in Popular Acrobat PDF Reader<a href="https://threatpost.com/adobe-patches-critical-acrobat/167743/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe July patch roundup includes fixes for its ubiquitous and free PDF reader Acrobat 2020 and other software such as Illustrator and Bridge.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon starts rolling out Ring end-to-end encryption globally<a href="https://www.bleepingcomputer.com/news/security/amazon-starts-rolling-out-ring-end-to-end-encryption-globally/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon-owned Ring has announced starting the worldwide roll out of video End-to-End Encryption (E2EE) to customers with compatible devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploit Latest SolarWinds 0-Day to Target U.S. Defense Firms<a href="https://thehackernews.com/2021/07/chinese-hackers-exploit-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed that the latest string of attacks targeting SolarWinds Serv-U managed file transfer service with a now-patched remote code execution (RCE) exploit is the handiwork of a Chinese threat actor dubbed "DEV-0322."  The revelation comes days after the Texas-based IT monitoring software maker issued fixes for the flaw that could enable adversaries to remotely run arbitrary code with privileges, allowing them to perform actions like install and run malicious payloads or view and alter sensitive data.  Tracked as  CVE-2021-35211 , the RCE flaw resides in Serv-U's implementation of the Secure Shell (SSH) protocol. While it was previously revealed that the attacks were limited in scope, SolarWinds said it's "unaware of the identity of the potentially affected customers."   Attributing the intrusions with high confidence to DEV-0322 (short for "Development Group 0322") based on observed victimology, tactics, and procedures, Micr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe patches critical vulnerabilities in Reader, Acrobat, and Illustrator<a href="https://securityaffairs.co/wordpress/120062/security/adobe-reader-acrobat-illustrator-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe addressed multiple critical vulnerabilities in several products, including Adobe Acrobat and Reader application.
+
+
+
+Adobe addressed multiple critical remote code execution and privilege escalation vulnerabilities in multiple products running on both...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fashion brand Guess hacked, DarkSide ransomware group the likely culprit<a href="https://www.scmagazine.com/home/security-news/data-breach/fashion-brand-guess-hacked-darkside-ransomware-group-the-likely-culprit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s investigation determined that social security numbers, driver’s license numbers, passport numbers and/or financial account numbers may have been accessed or acquired.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Charming Kitten’ APT Siphons Intel From Mid-East Scholars<a href="https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professors, journalists and think-tank personnel, beware strangers bearing webinars: It’s the  focus of a particularly sophisticated, and chatty, phishing campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe updates fix 28 vulnerabilities in 6 programs<a href="https://www.bleepingcomputer.com/news/security/adobe-updates-fix-28-vulnerabilities-in-6-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a giant Patch Tuesday security update release that fixes vulnerabilities in Adobe Dimension, Illustrator, Framemaker, Acrobat, Reader, and Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Etherpad — a Popular Google Docs Alternative<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-etherpad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed new security vulnerabilities in the Etherpad text editor (version 1.8.13) that could potentially enable attackers to hijack administrator accounts, execute system commands, and even steal sensitive documents.  The two flaws — tracked as CVE-2021-34816  and CVE-2021-34817 — were discovered and reported on June 4 by researchers from SonarSource, following which patches have been shipped for the latter in  version 1.8.14  of Etherpad released on July 4.  Etherpad is a real-time collaborative interface that enables a document to be edited simultaneously by multiple authors. It is an open-source alternative to Google Docs that can be self-hosted or used through one of the many third-party public  instances available.  "The XSS vulnerability allows attackers to take over Etherpad users, including admins. This can be used to steal or manipulate sensitive data," SonarSource vulnerability researcher Paul Gerste  said  in a report shared with T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major authentication and encryption weaknesses discovered in Schneider Electric, outdated ICS systems<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/major-authentication-and-encryption-weaknesses-discovered-in-schneider-electric-outdated-ics-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack pairs a new vulnerability with older flaws that can be leveraged in new ways to attack a popular controller used across critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts dark web user 'The Bull' for insider trading<a href="https://www.bleepingcomputer.com/news/security/us-indicts-dark-web-user-the-bull-for-insider-trading/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has charged an individual for engaging in insider trading on the darknet. Greece-based Apostolos Trovias, known as the "The Bull" frequently used encrypted messaging services and the dark web for soliciting, exchanging and selling inside information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cyberattacks drive 185% spike in health care data breaches in 2021<a href="https://www.scmagazine.com/home/health-care/report-cyberattacks-drive-185-spike-in-health-care-data-breaches-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious cyberattacks account for the vast majority of health care data breaches so far in 2021, while another report shows the sector will remain a prime target throughout the year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows Hello authentication bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-hello-authentication-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a security feature bypass vulnerability in the Windows Hello authentication biometrics-based tech, letting threat actors spoof a target's identity and trick the face recognition mechanism into giving them access to the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft July 2021 Patch Tuesday fixes 9 zero-days, 117 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2021-patch-tuesday-fixes-9-zero-days-117-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's July 2021 Patch Tuesday, and with it comes fixes for nine zero-day vulnerabilities and a total of 117 flaws, so Windows admins will be pulling their hair out as they scramble to get devices patched and secured.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch Windows PrintNightmare bug<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-windows-printnightmare-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new emergency directive ordered by the Cybersecurity and Infrastructure Security Agency (CISA) orders federal agencies to mitigate the actively exploited Window Print Spooler vulnerability on their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware gang's web sites mysteriously shut down<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-gangs-web-sites-mysteriously-shut-down/"> Full Text</a>

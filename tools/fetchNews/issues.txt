@@ -35,6 +35,7 @@ Alerts:
 . https://www.bankinfosecurity.com/nist-releases-critical-software-definition-for-us-agencies-a-16952?&web_view=true
 . https://securityaffairs.co/wordpress/119728/cyber-crime/cisa-fbi-guidance-kaseya-attack.html
 . https://www.bleepingcomputer.com/news/security/fbi-warns-cryptocurrency-owners-exchanges-of-ongoing-attacks/
+. https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-windows-printnightmare-bug/
 
 Law:
 

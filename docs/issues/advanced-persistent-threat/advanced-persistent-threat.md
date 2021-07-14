@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyberspies’ wide-scale APT campaign hits Asian govt entities<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-wide-scale-apt-campaign-hits-asian-govt-entities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers have revealed an ongoing and large-scale advanced persistent threat (APT) campaign with hundreds of victims from Southeast Asia, including Myanmar and the Philippines government entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Charming Kitten’ APT Siphons Intel From Mid-East Scholars<a href="https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professors, journalists and think-tank personnel, beware strangers bearing webinars: It’s the  focus of a particularly sophisticated, and chatty, phishing campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS offers free online training for cloud architects<a href="https://www.scmagazine.com/home/security-news/cloud-security/aws-offers-free-online-training-for-cloud-architects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services this week launched a new free online training series on Twitch that aims to build up the skills of cloud developers. The new series, the AWS Power Hour: Architecting, kicked off on Monday, July 12 and will run for six weeks. According to an AWS blog, the developer training is part of…
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

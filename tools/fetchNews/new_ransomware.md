@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detonating Ransomware on My Own Computer (Don’t Try This at Home)<a href="https://www.bleepingcomputer.com/news/security/detonating-ransomware-on-my-own-computer-don-t-try-this-at-home/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are a daily occurrence, announcing new levels of danger and confusion to an already complicated business of protecting data. How it behaves can tell us lot about a ransomware attack - so I recently detonated Conti ransomware in a controlled environment to demonstrate the importance of proper cyber protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The infrastructure and websites used by REvil ransomware gang are not reachable<a href="https://securityaffairs.co/wordpress/120080/cyber-crime/revil-ransomware-gang-sites-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infrastructure and leak sites used by the REvil ransomware gang for its operations went offline last night.
+
+
+
+Starting last night, the infrastructure and the websites used by the REvil ransomware gang were mysteriously unreachable, BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There's a Clear Line From the REvil Ransomware to Russia<a href="https://www.govinfosecurity.com/blogs/theres-clear-line-from-revil-ransomware-to-russia-p-3065?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A look at part of the REvil group's online infrastructure shows clear lines to Russian and U.K. service providers that, in theory, could help law enforcement agencies but don't appear eager to help.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

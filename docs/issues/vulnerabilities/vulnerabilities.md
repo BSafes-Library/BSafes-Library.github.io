@@ -8,6 +8,164 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption issues account for minority of flaws in encryption libraries – research<a href="https://portswigger.net/daily-swig/encryption-issues-account-for-minority-of-flaws-in-encryption-libraries-research?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of cryptographic libraries and the vulnerabilities affecting them has concluded that memory handling issues give rise to more vulnerabilities than encryption implementation errors.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Crushes 116 Bugs, Three Actively Exploited<a href="https://threatpost.com/microsoft-crushes-116-bugs/167764/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft tackles 12 critical bugs, part of its July 2021 Patch Tuesday roundup, capping a ‘PrintNightmare’ month of headaches for system admins. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Windows PCs to Patch 117 New Flaws, Including 9 Zero-Days<a href="https://thehackernews.com/2021/07/update-your-windows-pcs-to-patch-117.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft rolled out&nbsp; Patch Tuesday updates &nbsp;for the month of July with fixes for a total of 117 security vulnerabilities, including nine zero-day flaws, of which four are said to be under active attacks in the wild, potentially enabling an adversary to take control of affected systems.&nbsp;  Of the 117 issues, 13 are rated Critical, 103 are rated Important, and one is rated as Moderate in severity, with six of these bugs publicly known at the time of release.&nbsp;  The updates span across several of Microsoft's products, including Windows, Bing, Dynamics, Exchange Server, Office, Scripting Engine, Windows DNS, and Visual Studio Code. July also marks a dramatic jump in the volume of vulnerabilities, surpassing the number Microsoft collectively addressed as part of its updates in&nbsp; May &nbsp;(55) and&nbsp; June &nbsp;(50).   Chief among the security flaws actively exploited are as follows —   CVE-2021-34527 &nbsp;(CVSS score: 8.8) - Windows Print Spooler Remote Code Execution Vulnerability (publicly disclosed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes 117 vulnerabilities, four exploited in the wild<a href="https://www.scmagazine.com/home/security-news/microsoft-fixes-117-vulnerabilities-four-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month’s Patch Tuesday from Microsoft comes just days after out-of-band updates were released to address PrintNightmare and other vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 11 Critical Bugs in Popular Acrobat PDF Reader<a href="https://threatpost.com/adobe-patches-critical-acrobat/167743/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe July patch roundup includes fixes for its ubiquitous and free PDF reader Acrobat 2020 and other software such as Illustrator and Bridge.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe patches critical vulnerabilities in Reader, Acrobat, and Illustrator<a href="https://securityaffairs.co/wordpress/120062/security/adobe-reader-acrobat-illustrator-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe addressed multiple critical vulnerabilities in several products, including Adobe Acrobat and Reader application.
+
+
+
+Adobe addressed multiple critical remote code execution and privilege escalation vulnerabilities in multiple products running on both...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe updates fix 28 vulnerabilities in 6 programs<a href="https://www.bleepingcomputer.com/news/security/adobe-updates-fix-28-vulnerabilities-in-6-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a giant Patch Tuesday security update release that fixes vulnerabilities in Adobe Dimension, Illustrator, Framemaker, Acrobat, Reader, and Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Reported in Etherpad — a Popular Google Docs Alternative<a href="https://thehackernews.com/2021/07/critical-flaws-reported-in-etherpad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed new security vulnerabilities in the Etherpad text editor (version 1.8.13) that could potentially enable attackers to hijack administrator accounts, execute system commands, and even steal sensitive documents.  The two flaws — tracked as CVE-2021-34816  and CVE-2021-34817 — were discovered and reported on June 4 by researchers from SonarSource, following which patches have been shipped for the latter in&nbsp; version 1.8.14 &nbsp;of Etherpad released on July 4.  Etherpad is a real-time collaborative interface that enables a document to be edited simultaneously by multiple authors. It is an open-source alternative to Google Docs that can be self-hosted or used through one of the many third-party public  instances available.  "The XSS vulnerability allows attackers to take over Etherpad users, including admins. This can be used to steal or manipulate sensitive data," SonarSource vulnerability researcher Paul Gerste&nbsp; said &nbsp;in a report shared with T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major authentication and encryption weaknesses discovered in Schneider Electric, outdated ICS systems<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/major-authentication-and-encryption-weaknesses-discovered-in-schneider-electric-outdated-ics-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack pairs a new vulnerability with older flaws that can be leveraged in new ways to attack a popular controller used across critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows Hello authentication bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-hello-authentication-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a security feature bypass vulnerability in the Windows Hello authentication biometrics-based tech, letting threat actors spoof a target's identity and trick the face recognition mechanism into giving them access to the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft July 2021 Patch Tuesday fixes 9 zero-days, 117 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2021-patch-tuesday-fixes-9-zero-days-117-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's July 2021 Patch Tuesday, and with it comes fixes for nine zero-day vulnerabilities and a total of 117&nbsp;flaws, so Windows admins will be pulling their hair out as they scramble to get devices patched and secured.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
