@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hancitor is Using Old but Tested Tricks to Spread Malware<a href="https://cyware.com/news/hancitor-is-using-old-but-tested-tricks-to-spread-malware-7bc8e9f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mcafee Labs laid bare a new technique by Hancitor actors that involves the use of cookies to prevent URL scraping and also dropping malware such as CobaltStrike, Pony, Cuba, FickerStealer, and Zeppelin. Experts believe that it is expected to be used in future ransomware attacks and suggest erecting ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome will add HTTPS-First Mode to keep your data safe<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-add-https-first-mode-to-keep-your-data-safe/"> Full Text</a>
 </p>
 <details>
