@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google: four zero-day flaws have been exploited in the wild<a href="https://securityaffairs.co/wordpress/120116/apt/zero-day-russia-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google security experts revealed that Russia-linked APT group targeted LinkedIn users with Safari zero-day.
+
+
+
+Security researchers from Google Threat Analysis Group (TAG) and Google Project Zero revealed that four zero-day vulnerabilities have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Senate committee advances bipartisan energy infrastructure bill<a href="https://thehill.com//policy/energy-environment/563062-senate-committee-advances-bipartisan-energy-infrastructure-bill"> Full Text</a>
 </p>
 <details>
