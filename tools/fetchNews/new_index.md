@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns zero-day in SolarWinds Serv-U software being exploited by Chinese threat group<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-warns-zero-day-in-solarwinds-serv-u-software-being-exploited-by-chinese-threat-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the flaw impacts the way Serv-U implements SSH and exploitation gives an attacker remote code execution privileges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CMS interoperability rule enacted: How providers should tackle API security<a href="https://www.scmagazine.com/home/health-care/cms-interoperability-rule-enacted-how-providers-should-tackle-api-security/"> Full Text</a>
 </p>
 <details>
