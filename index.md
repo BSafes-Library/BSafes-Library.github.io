@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of 'critical' ransomware risk to EOL SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-eol-sma-100-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an "urgent security notice" warning customers of ransomware attacks targeting unpatched end-of-life (EoL) Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Cybercriminals are Hitting Hard at Cryptocurrency Users<a href="https://cyware.com/news/watch-out-cybercriminals-are-hitting-hard-at-cryptocurrency-users-3a038fab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illicit cryptomining campaigns are growing strong as cybercriminals continue to evolve their attack techniques and malware. One of the main reasons for the rise is the rapidly growing investments in the cryptocurrency space.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strata automation tool looks to simplify cloud migration projects<a href="https://www.scmagazine.com/home/security-news/cloud-security/strata-automation-tool-looks-to-simplify-cloud-migration-projects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users will be able to automatically discover and catalog on-premises identity systems that are nearing their end of life.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AttackIQ raises $44M to fuel global growth and vision of security optimization<a href="https://www.helpnetsecurity.com/2021/07/14/attackiq-funding/?&web_view=true"> Full Text</a>
 </p>
 <details>
