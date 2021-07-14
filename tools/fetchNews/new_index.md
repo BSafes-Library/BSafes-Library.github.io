@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CMS interoperability rule enacted: How providers should tackle API security<a href="https://www.scmagazine.com/home/health-care/cms-interoperability-rule-enacted-how-providers-should-tackle-api-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As CMS developed its interoperability rule, stakeholders raised a number of security concerns posed by APIs. Imperva’s VP shares how providers can keep PHI secure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China-linked LuminousMoth APT targets entities from Southeast Asia<a href="https://securityaffairs.co/wordpress/120105/hacking/china-luminousmoth-apt-campaign.html"> Full Text</a>
 </p>
 <details>
