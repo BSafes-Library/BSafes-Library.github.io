@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Senate committee advances bipartisan energy infrastructure bill<a href="https://thehill.com//policy/energy-environment/563062-senate-committee-advances-bipartisan-energy-infrastructure-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legislation that’s expected to be a key piece of the bipartisan infrastructure package moved forward on Wednesday as Democrats separately fleshed out their reconciliation infrastructure bill. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine<a href="https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/"> Full Text</a>
 </p>
 <details>
