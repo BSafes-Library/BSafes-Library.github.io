@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AttackIQ raises $44M to fuel global growth and vision of security optimization<a href="https://www.helpnetsecurity.com/2021/07/14/attackiq-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AttackIQ announced a $44 million Series C funding round led by Atlantic Bridge. Also, Kevin Dillon, Co-Founder and Managing Partner at Atlantic Bridge, also joined the company's Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://cyware.com/news/solarwinds-zero-day-vulnerability-under-active-attack-a7bc3a63"> Full Text</a>
 </p>
 <details>
