@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine<a href="https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian cops seize PlayStation 4 consoles, graphics cards, processors and more in cryptomining sting involving alleged electricity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BazarBackdoor sneaks in through nested RAR and ZIP archives<a href="https://www.bleepingcomputer.com/news/security/bazarbackdoor-sneaks-in-through-nested-rar-and-zip-archives/"> Full Text</a>
 </p>
 <details>
