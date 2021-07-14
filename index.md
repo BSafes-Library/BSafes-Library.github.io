@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome will add HTTPS-First Mode to keep your data safe<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-add-https-first-mode-to-keep-your-data-safe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will add an HTTPS-First Mode to the Chrome web browser to block attackers from intercepting or eavesdropping on users' web traffic.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Russian SVR hackers targeted LinkedIn users with Safari zero-day<a href="https://www.bleepingcomputer.com/news/security/google-russian-svr-hackers-targeted-linkedin-users-with-safari-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google security researcher shared more information on four security vulnerabilities also known as zero-days, unknown before they discovered them being exploited in the wild earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linux-Focused Cryptojacking Gang Tracked to Romania<a href="https://threatpost.com/linux-cryptojacking-gang-romania/167783/"> Full Text</a>
 </p>
 <details>
