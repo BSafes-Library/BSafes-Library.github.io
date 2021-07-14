@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China-linked LuminousMoth APT targets entities from Southeast Asia<a href="https://securityaffairs.co/wordpress/120105/hacking/china-luminousmoth-apt-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LuminousMoth: Kaspersky uncovered an ongoing and large-scale APT campaign that targeted government entities in Southeast Asia, including Myanmar and the Philippines.
+
+
+
+Kaspersky experts uncovered an ongoing and large-scale cyber espionage campaign,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns of 'critical' ransomware risk to EOL SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-eol-sma-100-vpn-appliances/"> Full Text</a>
 </p>
 <details>
