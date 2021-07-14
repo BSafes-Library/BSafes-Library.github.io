@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House panel approves major funding boost for CISA in party-line vote<a href="https://therecord.media/house-panel-approves-major-funding-boost-for-cisa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $52.8 billion budget approved by the House panel for DHS includes $2.42 billion for CISA, a hike of $397.4 million and $288.7 million above the Biden administration’s budget request.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Malware Rebounds with Virtual-Desktop Espionage Module<a href="https://threatpost.com/trickbot-malware-virtual-desktop-espionage/167789/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers have spruced up the ‘vncDll’ module used for spying on targets and stealing data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns of 'critical' ransomware risk to SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-sma-100-vpn-appliances/"> Full Text</a>
 </p>
 <details>
