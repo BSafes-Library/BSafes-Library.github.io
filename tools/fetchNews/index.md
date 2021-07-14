@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook petitions for FTC chair's recusal in antitrust case | Olivia Rodrigo teams with White House to push for vaccines on social media | Twitter removing 'Fleets' function in August<a href="https://thehill.com//policy/technology/overnights/563071-hillicon-valley-facebook-petitions-for-ftc-chairs-recusal-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook followed in Amazon’s footsteps Wednesday, filing a petition to seek Federal Trade Commission Chair Lina KhanLina KhanHillicon Valley: Biden warns Putin on Russian ransomware attacks | Biden signs sweeping order to boost competition| TikTok updates automated takedown system A new view of digital rights: Make them part of digital infrastructure Court ruling sets up ever more bruising fight over tech MORE’s recusal from participating in decisions about how the agency moves forward with its antitrust case against the social media giant. The petition seeking Khan’s recusal comes as the FTC faces an end-of-month deadline to file a new complaint after a judge dismissed the FTC’s original complaint in June. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google: four zero-day flaws have been exploited in the wild<a href="https://securityaffairs.co/wordpress/120116/apt/zero-day-russia-apt.html"> Full Text</a>
 </p>
 <details>
