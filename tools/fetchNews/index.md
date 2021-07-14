@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://cyware.com/news/solarwinds-zero-day-vulnerability-under-active-attack-a7bc3a63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has been notified by Microsoft of a critical zero-day vulnerability in its Serv-U product line. The research found a limited number of impacted customers.&nbsp;Organizations are suggested to follow the recommendations provided by security agencies and keep reviewing their cybersecurity p ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hancitor is Using Old but Tested Tricks to Spread Malware<a href="https://cyware.com/news/hancitor-is-using-old-but-tested-tricks-to-spread-malware-7bc8e9f0"> Full Text</a>
 </p>
 <details>
