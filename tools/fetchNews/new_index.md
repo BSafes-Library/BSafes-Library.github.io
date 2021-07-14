@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BazarBackdoor sneaks in through nested RAR and ZIP archives<a href="https://www.bleepingcomputer.com/news/security/bazarbackdoor-sneaks-in-through-nested-rar-and-zip-archives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers caught a new phishing campaign that tried to deliver the BazarBackdoor malware by using the multi-compression technique and masking it as an image file.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns zero-day in SolarWinds Serv-U software being exploited by Chinese threat group<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-warns-zero-day-in-solarwinds-serv-u-software-being-exploited-by-chinese-threat-group/"> Full Text</a>
 </p>
 <details>
