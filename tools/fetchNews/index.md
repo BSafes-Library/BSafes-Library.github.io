@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Facebook disrupts Iranian hackers using platform to target US military personnel<a href="https://thehill.com//policy/cybersecurity/563241-facebook-disrupts-iranian-hackers-using-platform-to-target-us-military"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday announced that it had taken steps to disrupt a group of Iranian-based hackers that had leveraged the platform as part of a wider effort to target U.S. military personnel and the defense industry in other countries. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's print nightmare continues with malicious driver packages<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-print-nightmare-continues-with-malicious-driver-packages/"> Full Text</a>
 </p>
 <details>
