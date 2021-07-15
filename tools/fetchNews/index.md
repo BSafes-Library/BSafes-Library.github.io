@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows print nightmare continues with malicious driver packages<a href="https://www.bleepingcomputer.com/news/microsoft/windows-print-nightmare-continues-with-malicious-driver-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's print nightmare continues with another example of how a threat actor can achieve SYSTEM privileges by abusing malicious printer drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Israeli surveillance firm Candiru used Windows zero-days to deploy spyware<a href="https://securityaffairs.co/wordpress/120175/malware/candiru-windows-zero-days-spyware.html"> Full Text</a>
 </p>
 <details>
