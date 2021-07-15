@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WooCommerce fixes vulnerability exposing 5 million sites to data theft<a href="https://www.bleepingcomputer.com/news/security/woocommerce-fixes-vulnerability-exposing-5-million-sites-to-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WooCommerce, the popular e-commerce plugin for the WordPress content management system has been updated to patch a serious vulnerability that could be exploited without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Risk Vulnerability Assessment Report for FY2020<a href="https://cyware.com/news/cisa-releases-risk-vulnerability-assessment-report-for-fy2020-ef465a8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the fiscal year 2020, the Cybersecurity and Infrastructure Security Agency (CISA) conducted a risk assessment of 37 attack techniques mapped to six infection stages across multiple stakeholders in different sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Multiple vulnerabilities spotted in Advantech R-SeeNet<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-r-see-net.html?&web_view=true"> Full Text</a>
 </p>
 <details>

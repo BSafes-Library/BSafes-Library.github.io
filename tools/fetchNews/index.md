@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities spotted in Advantech R-SeeNet<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-r-see-net.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered multiple vulnerabilities in the Advantech R-SeeNet monitoring software. The vulnerabilities exist in various scripts inside of R-SeeNet's web applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybereason raises $275M at Series F, adds Steven Mnuchin to board<a href="https://techcrunch.com/2021/07/14/cybereason-raises-275m-at-series-f-adds-steven-mnuchin-to-board/?&web_view=true"> Full Text</a>
 </p>
 <details>
