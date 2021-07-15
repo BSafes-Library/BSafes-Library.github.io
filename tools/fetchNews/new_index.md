@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Warns Firewall Hardware Bugs Under Attack<a href="https://threatpost.com/sonicwall-firewall-bugs-attack/167824/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall issued an urgent security alert warning customers that some of its current and legacy firewall appliances were under active attack. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linux version of HelloKitty ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-hellokitty-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
 </p>
 <details>
