@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybereason raises $275M at Series F, adds Steven Mnuchin to board<a href="https://techcrunch.com/2021/07/14/cybereason-raises-275m-at-series-f-adds-steven-mnuchin-to-board/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason, a U.S.-Israeli late-stage cybersecurity startup that provides extended detection and response (XDR) services, has secured $275 million in Series F funding led by Liberty Strategic Capital.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Warns Firewall Hardware Bugs Under Attack<a href="https://threatpost.com/sonicwall-firewall-bugs-attack/167824/"> Full Text</a>
 </p>
 <details>
