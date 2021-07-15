@@ -8,6 +8,104 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals took advantage of WFH to target financial services companies, says Financial Stability Board report<a href="https://www.theregister.com/2021/07/14/financial_stability_board_pandemic_report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals targeted security gaps at financial services firms as their staff moved to working from home, according to a report issued by the Financial Stability Board (FSB) on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 Cybercriminals Behind Mekotio and Grandoreiro Banking Trojan Arrested in Spain<a href="https://thehackernews.com/2021/07/16-cybercriminals-behind-mekotio-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish law enforcement agencies on Wednesday arrested 16 individuals belonging to a criminal network in connection with operating two banking trojans as part of a social engineering campaign targeting financial institutions in Europe.  The arrests were made in Ribeira (A Coruña), Madrid, Parla and Móstoles (Madrid), Seseña (Toledo), Villafranca de los barros (Badajoz), and Aranda de Duero (Burgos) following a year-long investigation, the Civil Guard said in a statement.  "Through malicious software, installed on the victim's computer by the technique known as 'email spoofing', [the group] would have managed to divert large amounts of money to their accounts," authorities&nbsp; noted .   Computer equipment, mobile phones, and documents were confiscated, and more than 1,800 spam emails were analyzed, enabling law enforcement to block transfer attempts totaling €3.5 million successfully. The campaign is said to have netted the actors €276,470, of which €87,000 has been
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang Mysteriously Disappears After High-Profile Attacks<a href="https://thehackernews.com/2021/07/revil-ransomware-gang-mysteriously.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil, the infamous ransomware cartel behind some of the biggest cyberattacks targeting JBS and Kaseya, has mysteriously disappeared from the dark web, leading to speculations that the criminal enterprise may have been taken down.  Multiple darknet and clearnet sites maintained by the Russia-linked cybercrime syndicate, including the data leak, extortion, and payment portals, remained inaccessible, displaying an error message "Onionsite not found."&nbsp;  The group's&nbsp; Tor network infrastructure &nbsp;on the dark web consists of one data leak blog site and 22 data hosting sites. It's not immediately clear what prompted the infrastructure to be knocked offline.  REvil is one of the most prolific ransomware-as-a-service (RaaS) groups that first appeared on the threat landscape in April 2019. It's an evolution of the&nbsp; GandCrab &nbsp;ransomware, which hit the underground markets in early 2018.  "If REvil has been permanently disrupted, it'll mark the end of a group which ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Marvel’s Black Widow Movie to Spread Malware and Steal Payment Card Data<a href="https://www.hackread.com/cybercriminals-marvel-black-widow-movie-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, several Black Widow-themed phishing sites are operating to steal user credentials. One of the sites promised the users an early preview of the movie to lure users.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Negotiation and Data Leak Sites Operated by Attackers Behind Kaseya Hack Go Down<a href="https://www.politico.com/news/2021/07/13/revil-ransomware-vanishes-499487?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware hacker gang REvil’s websites are offline, about a week and a half after its attack on IT software vendor Kaseya allowed the criminals to breach hundreds of companies around the world.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Giant REvil’s Sites Disappear<a href="https://threatpost.com/ransomware-revil-sites-disappears/167745/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just days after President Biden demanded that Russian President Putin shut down ransomware groups, the servers of one of the biggest groups mysteriously went dark.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang's web sites mysteriously shut down<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-gangs-web-sites-mysteriously-shut-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infrastructure and websites for the REvil ransomware operation have mysteriously gone offline as of last night.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

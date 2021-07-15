@@ -8,6 +8,95 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 14, 2021  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: four zero-day flaws have been exploited in the wild<a href="https://securityaffairs.co/wordpress/120116/apt/zero-day-russia-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google security experts revealed that Russia-linked&nbsp;APT group targeted LinkedIn users with Safari zero-day.
+
+
+
+Security researchers from Google&nbsp;Threat Analysis Group (TAG) and Google Project Zero revealed that four zero-day vulnerabilities have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns zero-day in SolarWinds Serv-U software being exploited by Chinese threat group<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-warns-zero-day-in-solarwinds-serv-u-software-being-exploited-by-chinese-threat-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the flaw impacts the way Serv-U implements SSH and exploitation gives an attacker remote code execution privileges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of 'critical' ransomware risk to EOL SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-eol-sma-100-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall&nbsp;has issued an "urgent security notice" warning customers of ransomware attacks targeting unpatched&nbsp;end-of-life&nbsp;(EoL)&nbsp;Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://cyware.com/news/solarwinds-zero-day-vulnerability-under-active-attack-a7bc3a63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has been notified by Microsoft of a critical zero-day vulnerability in its Serv-U product line. The research found a limited number of impacted customers.&nbsp;Organizations are suggested to follow the recommendations provided by security agencies and keep reviewing their cybersecurity p ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Vulnerabilities in ESXi, ThinApp<a href="https://www.securityweek.com/vmware-patches-vulnerabilities-esxi-thinapp?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday announced the availability of patches for vulnerabilities impacting its ESXi hypervisor, Cloud Foundation hybrid cloud platform, and ThinApp application virtualization tool.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government lays out new vulnerability disclosure rules<a href="https://therecord.media/chinese-government-lays-out-new-vulnerability-disclosure-rules/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China (CAC) has published new regulations on Tuesday laying out stricter rules for vulnerability disclosure procedures inside the country’s borders.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

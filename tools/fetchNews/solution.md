@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon starts rolling out Ring end-to-end encryption globally<a href="https://www.bleepingcomputer.com/news/security/amazon-starts-rolling-out-ring-end-to-end-encryption-globally/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon-owned Ring has announced&nbsp;starting the worldwide roll out of video End-to-End Encryption (E2EE) to customers with compatible devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

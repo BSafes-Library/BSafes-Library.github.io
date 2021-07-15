@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strata automation tool looks to simplify cloud migration projects<a href="https://www.scmagazine.com/home/security-news/cloud-security/strata-automation-tool-looks-to-simplify-cloud-migration-projects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users will be able to automatically discover and catalog on-premises identity systems that are nearing their end of life.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome will add HTTPS-First Mode to keep your data safe<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-add-https-first-mode-to-keep-your-data-safe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will add an HTTPS-First Mode&nbsp;to the Chrome web browser to block attackers from intercepting or eavesdropping on users' web traffic.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

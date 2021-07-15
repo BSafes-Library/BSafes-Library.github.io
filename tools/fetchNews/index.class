@@ -34,6 +34,400 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook petitions for FTC chair's recusal in antitrust case | Olivia Rodrigo teams with White House to push for vaccines on social media | Twitter removing 'Fleets' function in August<a href="https://thehill.com//policy/technology/overnights/563071-hillicon-valley-facebook-petitions-for-ftc-chairs-recusal-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook followed in Amazon’s footsteps Wednesday, filing a petition to seek Federal Trade Commission Chair Lina KhanLina KhanHillicon Valley: Biden warns Putin on Russian ransomware attacks | Biden signs sweeping order to boost competition| TikTok updates automated takedown system A new view of digital rights: Make them part of digital infrastructure Court ruling sets up ever more bruising fight over tech MORE’s recusal from participating in decisions about how the agency moves forward with its antitrust case against the social media giant. The petition seeking Khan’s recusal comes as the FTC faces an end-of-month deadline to file a new complaint after a judge dismissed the FTC’s original complaint in June. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: four zero-day flaws have been exploited in the wild<a href="https://securityaffairs.co/wordpress/120116/apt/zero-day-russia-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google security experts revealed that Russia-linked APT group targeted LinkedIn users with Safari zero-day.
+
+
+
+Security researchers from Google Threat Analysis Group (TAG) and Google Project Zero revealed that four zero-day vulnerabilities have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate committee advances bipartisan energy infrastructure bill<a href="https://thehill.com//policy/energy-environment/563062-senate-committee-advances-bipartisan-energy-infrastructure-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legislation that’s expected to be a key piece of the bipartisan infrastructure package moved forward on Wednesday as Democrats separately fleshed out their reconciliation infrastructure bill. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine<a href="https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian cops seize PlayStation 4 consoles, graphics cards, processors and more in cryptomining sting involving alleged electricity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarBackdoor sneaks in through nested RAR and ZIP archives<a href="https://www.bleepingcomputer.com/news/security/bazarbackdoor-sneaks-in-through-nested-rar-and-zip-archives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers caught a new phishing campaign that tried to deliver the BazarBackdoor malware by using the multi-compression technique and masking it as an image file.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns zero-day in SolarWinds Serv-U software being exploited by Chinese threat group<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-warns-zero-day-in-solarwinds-serv-u-software-being-exploited-by-chinese-threat-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the flaw impacts the way Serv-U implements SSH and exploitation gives an attacker remote code execution privileges.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CMS interoperability rule enacted: How providers should tackle API security<a href="https://www.scmagazine.com/home/health-care/cms-interoperability-rule-enacted-how-providers-should-tackle-api-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As CMS developed its interoperability rule, stakeholders raised a number of security concerns posed by APIs. Imperva’s VP shares how providers can keep PHI secure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked LuminousMoth APT targets entities from Southeast Asia<a href="https://securityaffairs.co/wordpress/120105/hacking/china-luminousmoth-apt-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LuminousMoth: Kaspersky uncovered an ongoing and large-scale APT campaign that targeted government entities in Southeast Asia, including Myanmar and the Philippines.
+
+
+
+Kaspersky experts uncovered an ongoing and large-scale cyber espionage campaign,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of 'critical' ransomware risk to EOL SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-eol-sma-100-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an "urgent security notice" warning customers of ransomware attacks targeting unpatched end-of-life (EoL) Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Cybercriminals are Hitting Hard at Cryptocurrency Users<a href="https://cyware.com/news/watch-out-cybercriminals-are-hitting-hard-at-cryptocurrency-users-3a038fab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illicit cryptomining campaigns are growing strong as cybercriminals continue to evolve their attack techniques and malware. One of the main reasons for the rise is the rapidly growing investments in the cryptocurrency space.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strata automation tool looks to simplify cloud migration projects<a href="https://www.scmagazine.com/home/security-news/cloud-security/strata-automation-tool-looks-to-simplify-cloud-migration-projects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users will be able to automatically discover and catalog on-premises identity systems that are nearing their end of life.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AttackIQ raises $44M to fuel global growth and vision of security optimization<a href="https://www.helpnetsecurity.com/2021/07/14/attackiq-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AttackIQ announced a $44 million Series C funding round led by Atlantic Bridge. Also, Kevin Dillon, Co-Founder and Managing Partner at Atlantic Bridge, also joined the company's Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://cyware.com/news/solarwinds-zero-day-vulnerability-under-active-attack-a7bc3a63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has been notified by Microsoft of a critical zero-day vulnerability in its Serv-U product line. The research found a limited number of impacted customers.&nbsp;Organizations are suggested to follow the recommendations provided by security agencies and keep reviewing their cybersecurity p ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hancitor is Using Old but Tested Tricks to Spread Malware<a href="https://cyware.com/news/hancitor-is-using-old-but-tested-tricks-to-spread-malware-7bc8e9f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mcafee Labs laid bare a new technique by Hancitor actors that involves the use of cookies to prevent URL scraping and also dropping malware such as CobaltStrike, Pony, Cuba, FickerStealer, and Zeppelin. Experts believe that it is expected to be used in future ransomware attacks and suggest erecting ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome will add HTTPS-First Mode to keep your data safe<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-add-https-first-mode-to-keep-your-data-safe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will add an HTTPS-First Mode to the Chrome web browser to block attackers from intercepting or eavesdropping on users' web traffic.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Russian SVR hackers targeted LinkedIn users with Safari zero-day<a href="https://www.bleepingcomputer.com/news/security/google-russian-svr-hackers-targeted-linkedin-users-with-safari-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google security researcher shared more information on four security vulnerabilities also known as zero-days, unknown before they discovered them being exploited in the wild earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux-Focused Cryptojacking Gang Tracked to Romania<a href="https://threatpost.com/linux-cryptojacking-gang-romania/167783/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang is using a new brute-forcer – “Diicot brute” – to crack passwords on Linux-based machines with weak passwords. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apps Built Better: Why DevSecOps is Your Security Team’s Silver Bullet<a href="https://threatpost.com/apps-built-better-devsecops-security-silver-bullet/167793/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phil Richards, vice president and CSO at Ivanti, explains how organizations can design DevOps processes and systems to thwart cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House panel approves major funding boost for CISA in party-line vote<a href="https://therecord.media/house-panel-approves-major-funding-boost-for-cisa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $52.8 billion budget approved by the House panel for DHS includes $2.42 billion for CISA, a hike of $397.4 million and $288.7 million above the Biden administration’s budget request.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Malware Rebounds with Virtual-Desktop Espionage Module<a href="https://threatpost.com/trickbot-malware-virtual-desktop-espionage/167789/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers have spruced up the ‘vncDll’ module used for spying on targets and stealing data.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of 'critical' ransomware risk to SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-sma-100-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an "urgent security notice" warning customers of ransomware attacks targeting unpatched end-of-life (EoL) Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Law Will Help Chinese Government Stockpile Zero-Days<a href="https://www.securityweek.com/new-law-will-help-chinese-government-stockpile-zero-days?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting September 1, 2021, the Chinese government will require that any Chinese citizen who finds a zero-day vulnerability must pass the details to the Chinese government.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Vulnerabilities in ESXi, ThinApp<a href="https://www.securityweek.com/vmware-patches-vulnerabilities-esxi-thinapp?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday announced the availability of patches for vulnerabilities impacting its ESXi hypervisor, Cloud Foundation hybrid cloud platform, and ThinApp application virtualization tool.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government lays out new vulnerability disclosure rules<a href="https://therecord.media/chinese-government-lays-out-new-vulnerability-disclosure-rules/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China (CAC) has published new regulations on Tuesday laying out stricter rules for vulnerability disclosure procedures inside the country’s borders.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

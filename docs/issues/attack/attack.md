@@ -11,6 +11,48 @@ nav_order: 900015
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BazarBackdoor sneaks in through nested RAR and ZIP archives<a href="https://www.bleepingcomputer.com/news/security/bazarbackdoor-sneaks-in-through-nested-rar-and-zip-archives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers caught a new phishing campaign that tried to deliver the BazarBackdoor malware by using the multi-compression technique and masking it as an image file.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AttackIQ raises $44M to fuel global growth and vision of security optimization<a href="https://www.helpnetsecurity.com/2021/07/14/attackiq-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AttackIQ announced a $44 million Series C funding round led by Atlantic Bridge. Also, Kevin Dillon, Co-Founder and Managing Partner at Atlantic Bridge, also joined the company's Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Russian SVR hackers targeted LinkedIn users with Safari zero-day<a href="https://www.bleepingcomputer.com/news/security/google-russian-svr-hackers-targeted-linkedin-users-with-safari-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google security researcher shared more information on four&nbsp;security vulnerabilities also known as zero-days, unknown before they discovered them being exploited in the wild earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trickbot improve its VNC module in recent attacks<a href="https://securityaffairs.co/wordpress/120090/malware/trickbot-botnet-vnc-module.html"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,35 @@ nav_order: 900031
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! Cybercriminals are Hitting Hard at Cryptocurrency Users<a href="https://cyware.com/news/watch-out-cybercriminals-are-hitting-hard-at-cryptocurrency-users-3a038fab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illicit cryptomining campaigns are growing strong as cybercriminals continue to evolve their attack techniques and malware. One of the main reasons for the rise is the rapidly growing investments in the cryptocurrency space.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hancitor is Using Old but Tested Tricks to Spread Malware<a href="https://cyware.com/news/hancitor-is-using-old-but-tested-tricks-to-spread-malware-7bc8e9f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mcafee Labs laid bare a new technique by Hancitor actors that involves the use of cookies to prevent URL scraping and also dropping malware such as CobaltStrike, Pony, Cuba, FickerStealer, and Zeppelin. Experts believe that it is expected to be used in future ransomware attacks and suggest erecting ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals took advantage of WFH to target financial services companies, says Financial Stability Board report<a href="https://www.theregister.com/2021/07/14/financial_stability_board_pandemic_report/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

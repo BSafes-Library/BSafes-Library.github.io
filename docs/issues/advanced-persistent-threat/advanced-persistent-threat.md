@@ -11,6 +11,24 @@ nav_order: 900010
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+China-linked LuminousMoth APT targets entities from Southeast Asia<a href="https://securityaffairs.co/wordpress/120105/hacking/china-luminousmoth-apt-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LuminousMoth: Kaspersky uncovered an ongoing and large-scale APT campaign that targeted government entities in Southeast Asia, including Myanmar and the Philippines.
+
+
+
+Kaspersky experts uncovered an ongoing and large-scale cyber espionage campaign,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese cyberspies’ wide-scale APT campaign hits Asian govt entities<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-wide-scale-apt-campaign-hits-asian-govt-entities/"> Full Text</a>
 </p>
 <details>

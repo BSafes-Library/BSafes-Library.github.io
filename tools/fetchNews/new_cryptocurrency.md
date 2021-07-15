@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine<a href="https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian cops seize PlayStation 4 consoles, graphics cards, processors and more in cryptomining sting involving alleged electricity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux-Focused Cryptojacking Gang Tracked to Romania<a href="https://threatpost.com/linux-cryptojacking-gang-romania/167783/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang is using a new brute-forcer – “Diicot brute” – to crack passwords on Linux-based machines with weak passwords. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Law Will Help Chinese Government Stockpile Zero-Days<a href="https://www.securityweek.com/new-law-will-help-chinese-government-stockpile-zero-days?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Starting September 1, 2021, the Chinese government will require that any Chinese citizen who finds a zero-day vulnerability must pass the details to the Chinese government.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

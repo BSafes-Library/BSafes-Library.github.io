@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use This Definitive RFP Template to Effectively Evaluate XDR solutions<a href="https://thehackernews.com/2020/07/extended-detection-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new class of security tools is emerging that promises to significantly improve the effectiveness and efficiency of threat detection and response.   Emerging Extended Detection and Response (XDR) solutions aim to aggregate and correlate telemetry from multiple detection controls and then synthesize response actions.   XDR has been referred to as the next step in the evolution of Endpoint Detection and Response (EDR) solutions.   In fact, Gartner named XDR as the first of their Top 9 Security and Risk Trend  for 2020.   Because XDR represents a new solution category, there is no single accepted definition of what capabilities and features should (and shouldn't) be included.   Each provider approaches XDR with different strengths and perspectives on how what an XDR solution should include.   Therefore, selecting an XDR provider is quite challenging as organizations must organize and prioritize a wide range of capabilities that can differ significantly between providers.   Cynet is now
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Should be Treated as a National Disaster in the U.S.<a href="https://news.softpedia.com/news/cyberattacks-should-be-treated-as-a-national-disaster-in-the-u-s-533505.shtml?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement officials have announced that a more widespread reaction will be forthcoming following the Kaseya ransomware attack that impacted over a thousand companies across the globe last week.
+</details>
+<div style="text-align: right" markdown="1">
+Softpedia News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Russian hacking group believed to be behind Kaseya attack goes offline | DHS funding package pours millions into migrant surveillance | Jen Easterly sworn in as director of DHS cyber agency<a href="https://thehill.com//policy/cybersecurity/overnights/562845-hillicon-valley-russian-hacking-group-believed-to-be-behind"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites used by the cyber criminal group known as REvil went dark Tuesday, just over a week after the group was linked by cybersecurity experts to the ransomware attack on software company Kaseya. While it is unknown why the websites went dark, President BidenJoe BidenDemocrats reach deal on .5T price tag for infrastructure bill Texas family arrested for role in Capitol riot Key Senate Democrats undecided on Biden's ATF nominee&nbsp; MORE last week urged Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley: Russian hacking group believed to be behind Kaseya attack goes offline | DHS funding package pours millions into migrant surveillance | Jen Easterly sworn in as director of DHS cyber agency Russia warns US against deploying troops in Central Asia after Afghanistan withdrawal Putin hosts Belarusian president for talks MORE to take further steps against hackers based in his country, and hinted to reporters that the U.S. had the option of disrupting the hackers’ servers.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Websites repeatedly stalked by fraudulent copycats, say researchers<a href="https://www.scmagazine.com/home/security-news/cybercrime/websites-repeatedly-stalked-by-fraudulent-copycats-say-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital Shadows researchers found that over a four-month span, its clients on average had 90 fraudulent domains impersonating their websites and brands.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New open data project looks to gauge success, failure of ransomware policy<a href="https://www.scmagazine.com/home/security-news/ransomware/new-open-data-project-looks-to-gauge-success-failure-of-ransomware-policy/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new website looks to aid ransomware policy discussions through open data, weeding out what works and what doesn’t.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cyberattacks drive 185% spike in health care data breaches in 2021<a href="https://www.scmagazine.com/home/health-care/report-cyberattacks-drive-185-spike-in-health-care-data-breaches-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious cyberattacks account for the vast majority of health care data breaches so far in 2021, while another report shows the sector will remain a prime target throughout the year.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

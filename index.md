@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook petitions for FTC chair's recusal in antitrust case | Olivia Rodrigo teams with White House to push for vaccines on social media | Twitter removing 'Fleets' function in August<a href="https://thehill.com//policy/technology/overnights/563071-hillicon-valley-facebook-petitions-for-ftc-chairs-recusal-in"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: four zero-day flaws have been exploited in the wild<a href="https://securityaffairs.co/wordpress/120116/apt/zero-day-russia-apt.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate committee advances bipartisan energy infrastructure bill<a href="https://thehill.com//policy/energy-environment/563062-senate-committee-advances-bipartisan-energy-infrastructure-bill"> Full Text</a>
@@ -86,7 +86,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine<a href="https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/"> Full Text</a>
@@ -102,7 +102,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarBackdoor sneaks in through nested RAR and ZIP archives<a href="https://www.bleepingcomputer.com/news/security/bazarbackdoor-sneaks-in-through-nested-rar-and-zip-archives/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns zero-day in SolarWinds Serv-U software being exploited by Chinese threat group<a href="https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-warns-zero-day-in-solarwinds-serv-u-software-being-exploited-by-chinese-threat-group/"> Full Text</a>
@@ -134,7 +134,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CMS interoperability rule enacted: How providers should tackle API security<a href="https://www.scmagazine.com/home/health-care/cms-interoperability-rule-enacted-how-providers-should-tackle-api-security/"> Full Text</a>
@@ -150,7 +150,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked LuminousMoth APT targets entities from Southeast Asia<a href="https://securityaffairs.co/wordpress/120105/hacking/china-luminousmoth-apt-campaign.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns of 'critical' ransomware risk to EOL SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-eol-sma-100-vpn-appliances/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch Out! Cybercriminals are Hitting Hard at Cryptocurrency Users<a href="https://cyware.com/news/watch-out-cybercriminals-are-hitting-hard-at-cryptocurrency-users-3a038fab"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Strata automation tool looks to simplify cloud migration projects<a href="https://www.scmagazine.com/home/security-news/cloud-security/strata-automation-tool-looks-to-simplify-cloud-migration-projects/"> Full Text</a>
@@ -218,7 +218,7 @@ SCMagazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AttackIQ raises $44M to fuel global growth and vision of security optimization<a href="https://www.helpnetsecurity.com/2021/07/14/attackiq-funding/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Zero-Day Vulnerability Under Active Attack<a href="https://cyware.com/news/solarwinds-zero-day-vulnerability-under-active-attack-a7bc3a63"> Full Text</a>
@@ -251,7 +251,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hancitor is Using Old but Tested Tricks to Spread Malware<a href="https://cyware.com/news/hancitor-is-using-old-but-tested-tricks-to-spread-malware-7bc8e9f0"> Full Text</a>
@@ -268,7 +268,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome will add HTTPS-First Mode to keep your data safe<a href="https://www.bleepingcomputer.com/news/security/google-chrome-will-add-https-first-mode-to-keep-your-data-safe/"> Full Text</a>
@@ -284,7 +284,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: Russian SVR hackers targeted LinkedIn users with Safari zero-day<a href="https://www.bleepingcomputer.com/news/security/google-russian-svr-hackers-targeted-linkedin-users-with-safari-zero-day/"> Full Text</a>
@@ -300,7 +300,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux-Focused Cryptojacking Gang Tracked to Romania<a href="https://threatpost.com/linux-cryptojacking-gang-romania/167783/"> Full Text</a>
@@ -316,7 +316,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apps Built Better: Why DevSecOps is Your Security Team’s Silver Bullet<a href="https://threatpost.com/apps-built-better-devsecops-security-silver-bullet/167793/"> Full Text</a>
@@ -332,7 +332,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House panel approves major funding boost for CISA in party-line vote<a href="https://therecord.media/house-panel-approves-major-funding-boost-for-cisa/?&web_view=true"> Full Text</a>
@@ -348,7 +348,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Malware Rebounds with Virtual-Desktop Espionage Module<a href="https://threatpost.com/trickbot-malware-virtual-desktop-espionage/167789/"> Full Text</a>
@@ -364,7 +364,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns of 'critical' ransomware risk to SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-sma-100-vpn-appliances/"> Full Text</a>
@@ -380,7 +380,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Law Will Help Chinese Government Stockpile Zero-Days<a href="https://www.securityweek.com/new-law-will-help-chinese-government-stockpile-zero-days?&web_view=true"> Full Text</a>
@@ -396,7 +396,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Vulnerabilities in ESXi, ThinApp<a href="https://www.securityweek.com/vmware-patches-vulnerabilities-esxi-thinapp?&web_view=true"> Full Text</a>
@@ -412,7 +412,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2021
+July 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese government lays out new vulnerability disclosure rules<a href="https://therecord.media/chinese-government-lays-out-new-vulnerability-disclosure-rules/?&web_view=true"> Full Text</a>
