@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software maker removes "backdoor" giving root access to radio devices<a href="https://www.bleepingcomputer.com/news/security/software-maker-removes-backdoor-giving-root-access-to-radio-devices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals customizing malware for attacks on virtual infrastructure<a href="https://www.helpnetsecurity.com/2021/07/15/cybercriminals-customizing-malware/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration stepping up efforts to respond to ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563121-biden-administration-stepping-up-efforts-to-respond-to-ransomware"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's Cyberspies Targeting Southeast Asian Government Entities<a href="https://thehackernews.com/2021/07/chinas-cyberspies-targeting-southeast.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns of ‘imminent ransomware’ attacks on its EOL products<a href="https://securityaffairs.co/wordpress/120147/security/sonicwall-warns-ransomware-attack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Safari Zero-Day Used in Malicious LinkedIn Campaign<a href="https://threatpost.com/safari-zero-day-linkedin/167814/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House announces ransomware task force — and hacking back is one option<a href="https://www.politico.com/news/2021/07/14/white-house-ransomware-task-force-499723?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity bills gain new urgency after rash of attacks<a href="https://thehill.com//policy/cybersecurity/563108-cybersecurity-bills-gain-new-urgency-after-rash-of-attacks"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zero-Trust API Offers Mobile Carrier Authentication to Developers<a href="https://thehackernews.com/2021/07/how-to-access-mobile-carrier.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 macOS: Bashed Apples of Shlayer and Bundlore<a href="https://securityaffairs.co/wordpress/120128/malware/macos-bashed-apples-of-shlayer-and-bundlore.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22% of exploits for sale in underground forums are more than three years old<a href="https://www.helpnetsecurity.com/2021/07/15/exploits-for-sale/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Targeting Unpatched EOL SonicWall SMA 100 VPN Appliances<a href="https://thehackernews.com/2021/07/ransomware-attacks-targeting-unpatched.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firm Hacked to Spread Ransomware Had Previous Security Flaws<a href="https://www.securityweek.com/firm-hacked-spread-ransomware-had-previous-security-flaws?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Details iOS, Chrome, IE Zero-Day Flaws Exploited Recently in the Wild<a href="https://thehackernews.com/2021/07/google-details-ios-chrome-ie-zero-day.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Targeting Unpatched Firmware Flaws in EOL SonicWall SMA and SRA Appliances<a href="https://www.zdnet.com/article/sonicwall-releases-urgent-notice-about-imminent-ransomware-targeting-firmware/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spain arrests 16 for distributing the Mekotio and Grandoreiro banking trojans<a href="https://therecord.media/spain-arrests-16-for-distributing-the-mekotio-and-grandoreiro-banking-trojans/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 macOS: Bashed Apples of Shlayer and Bundlore<a href="https://securityaffairs.co/wordpress/120128/malware/macos-bashed-apples-of-shlayer-and-bundlore.html?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of PS4s seized in Ukraine in illegal cryptocurrency mining sting<a href="https://www.zdnet.com/article/thousands-of-ps4s-seized-in-ukraine-in-illegal-cryptocurrency-mining-sting/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>

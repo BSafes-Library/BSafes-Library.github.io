@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zero-Trust API Offers Mobile Carrier Authentication to Developers<a href="https://thehackernews.com/2021/07/how-to-access-mobile-carrier.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero Trust is increasingly being adopted as the best strategy to maintain application security and prevent data breaches. To help achieve progress on Zero Trust, there is now a new, easy way to implement continuous user verification by connecting directly to the authentication systems used by mobile operators – without the overhead of processing or storing user data.&nbsp;  Before we show you how it works and how to integrate it, let's start with the fundamental challenge.  Zero Trust and Authentication  The Zero Trust model of identity verification essentially means never trusting that a returning user is whom they claim to be, regardless of their location or previous successful attempts. Zero Trust is a strategic approach to access management that is vital for keeping out bad actors.&nbsp;  As the world moves to the cloud, with an increasingly distributed network of employees, partners, and clients, tighter auth journeys become even more important.&nbsp;  But with greater security comes greate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

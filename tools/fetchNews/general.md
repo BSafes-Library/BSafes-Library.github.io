@@ -11,6 +11,62 @@ nav_order: 900072
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook petitions for FTC chair's recusal in antitrust case | Olivia Rodrigo teams with White House to push for vaccines on social media | Twitter removing 'Fleets' function in August<a href="https://thehill.com//policy/technology/overnights/563071-hillicon-valley-facebook-petitions-for-ftc-chairs-recusal-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook followed in Amazon’s footsteps Wednesday, filing a petition to seek Federal Trade Commission Chair Lina KhanLina KhanHillicon Valley: Biden warns Putin on Russian ransomware attacks | Biden signs sweeping order to boost competition| TikTok updates automated takedown system A new view of digital rights: Make them part of digital infrastructure Court ruling sets up ever more bruising fight over tech MORE’s recusal from participating in decisions about how the agency moves forward with its antitrust case against the social media giant. The petition seeking Khan’s recusal comes as the FTC faces an end-of-month deadline to file a new complaint after a judge dismissed the FTC’s original complaint in June.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CMS interoperability rule enacted: How providers should tackle API security<a href="https://www.scmagazine.com/home/health-care/cms-interoperability-rule-enacted-how-providers-should-tackle-api-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As CMS developed its interoperability rule, stakeholders raised a number of security concerns posed by APIs. Imperva’s VP shares how providers can keep PHI secure.
+</details>
+<div style="text-align: right" markdown="1">
+SCMagazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apps Built Better: Why DevSecOps is Your Security Team’s Silver Bullet<a href="https://threatpost.com/apps-built-better-devsecops-security-silver-bullet/167793/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phil Richards, vice president and CSO at Ivanti, explains how organizations can design DevOps processes and systems to thwart cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of 'critical' ransomware risk to SMA 100 VPN appliances<a href="https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-ransomware-risk-to-sma-100-vpn-appliances/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall&nbsp;has issued an "urgent security notice" warning customers of ransomware attacks targeting unpatched&nbsp;end-of-life&nbsp;(EoL)&nbsp;Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Use This Definitive RFP Template to Effectively Evaluate XDR solutions<a href="https://thehackernews.com/2020/07/extended-detection-response.html"> Full Text</a>
 </p>
 <details>

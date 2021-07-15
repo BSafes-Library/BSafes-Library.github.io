@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration stepping up efforts to respond to ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563121-biden-administration-stepping-up-efforts-to-respond-to-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday will announce new cross-agency measures to address the recent major ransomware attacks on companies including Colonial Pipeline and software group Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Cyberspies Targeting Southeast Asian Government Entities<a href="https://thehackernews.com/2021/07/chinas-cyberspies-targeting-southeast.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sweeping and "highly active campaign" that originally set its sights on Myanmar has broadened its focus to strike a number of targets located in the Philippines, according to new research.  Russian cybersecurity firm Kaspersky, which first spotted the infections in October 2020, attributed them to a threat actor it tracks as " LuminousMoth ," which it connected with medium to high confidence to a Chinese state-sponsored hacking group called HoneyMyte or&nbsp; Mustang Panda , given its observed victimology, tactics, and procedures.  About 100 affected victims have been identified in Myanmar, while the number of victims jumped to nearly 1,400 in the Philippines, although the researchers noted that the actual targets were only a fraction of the initial numbers, including government entities located both within the two countries and abroad.   The goal of the attacks is to affect a wide perimeter of targets with the aim of hitting a select few that are of strategic interes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House announces ransomware task force — and hacking back is one option<a href="https://www.politico.com/news/2021/07/14/white-house-ransomware-task-force-499723?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is promoting efforts to help agencies go on defense and offense against hackers whose economically paralyzing attacks pose a growing threat to the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity bills gain new urgency after rash of attacks<a href="https://thehill.com//policy/cybersecurity/563108-cybersecurity-bills-gain-new-urgency-after-rash-of-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan bills aimed at strengthening U.S. cybersecurity after a string of major attacks are making headway in both the House and Senate.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

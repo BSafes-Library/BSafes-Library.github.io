@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals customizing malware for attacks on virtual infrastructure<a href="https://www.helpnetsecurity.com/2021/07/15/cybercriminals-customizing-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per research by Positive Technologies, the number of attacks increased by 17% compared to Q1 2020, with 77% being targeted attacks, and incidents with individuals accounting for 12% of the total.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain arrests 16 for distributing the Mekotio and Grandoreiro banking trojans<a href="https://therecord.media/spain-arrests-16-for-distributing-the-mekotio-and-grandoreiro-banking-trojans/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspects were arrested last week, had their house searched, and devices seized for investigation during raids part of an operation that authorities named Aguas Vivas (Living Waters).
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

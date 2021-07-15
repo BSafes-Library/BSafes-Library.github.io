@@ -34,6 +34,303 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software maker removes "backdoor" giving root access to radio devices<a href="https://www.bleepingcomputer.com/news/security/software-maker-removes-backdoor-giving-root-access-to-radio-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The author of a popular software-defined radio (SDR) project has removed a "backdoor" from radio devices that granted root-level access. The backdoor had been, according to the author, present in all versions of KiwiSDR devices for the purposes of remote administration and debugging.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals customizing malware for attacks on virtual infrastructure<a href="https://www.helpnetsecurity.com/2021/07/15/cybercriminals-customizing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per research by Positive Technologies, the number of attacks increased by 17% compared to Q1 2020, with 77% being targeted attacks, and incidents with individuals accounting for 12% of the total.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration stepping up efforts to respond to ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563121-biden-administration-stepping-up-efforts-to-respond-to-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Thursday will announce new cross-agency measures to address the recent major ransomware attacks on companies including Colonial Pipeline and software group Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Cyberspies Targeting Southeast Asian Government Entities<a href="https://thehackernews.com/2021/07/chinas-cyberspies-targeting-southeast.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sweeping and "highly active campaign" that originally set its sights on Myanmar has broadened its focus to strike a number of targets located in the Philippines, according to new research.  Russian cybersecurity firm Kaspersky, which first spotted the infections in October 2020, attributed them to a threat actor it tracks as " LuminousMoth ," which it connected with medium to high confidence to a Chinese state-sponsored hacking group called HoneyMyte or  Mustang Panda , given its observed victimology, tactics, and procedures.  About 100 affected victims have been identified in Myanmar, while the number of victims jumped to nearly 1,400 in the Philippines, although the researchers noted that the actual targets were only a fraction of the initial numbers, including government entities located both within the two countries and abroad.   The goal of the attacks is to affect a wide perimeter of targets with the aim of hitting a select few that are of strategic interes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of ‘imminent ransomware’ attacks on its EOL products<a href="https://securityaffairs.co/wordpress/120147/security/sonicwall-warns-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an urgent security alert to warn customers of “an imminent ransomware campaing” targeting EOL equipment.
+
+
+
+SonicWall has issued an urgent security alert to warn companies of “an imminent ransomware campaing” targeting some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari Zero-Day Used in Malicious LinkedIn Campaign<a href="https://threatpost.com/safari-zero-day-linkedin/167814/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shed light on how attackers exploited Apple web browser vulnerabilities to target government officials in Western Europe. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House announces ransomware task force — and hacking back is one option<a href="https://www.politico.com/news/2021/07/14/white-house-ransomware-task-force-499723?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is promoting efforts to help agencies go on defense and offense against hackers whose economically paralyzing attacks pose a growing threat to the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity bills gain new urgency after rash of attacks<a href="https://thehill.com//policy/cybersecurity/563108-cybersecurity-bills-gain-new-urgency-after-rash-of-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan bills aimed at strengthening U.S. cybersecurity after a string of major attacks are making headway in both the House and Senate.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zero-Trust API Offers Mobile Carrier Authentication to Developers<a href="https://thehackernews.com/2021/07/how-to-access-mobile-carrier.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero Trust is increasingly being adopted as the best strategy to maintain application security and prevent data breaches. To help achieve progress on Zero Trust, there is now a new, easy way to implement continuous user verification by connecting directly to the authentication systems used by mobile operators – without the overhead of processing or storing user data.   Before we show you how it works and how to integrate it, let's start with the fundamental challenge.  Zero Trust and Authentication  The Zero Trust model of identity verification essentially means never trusting that a returning user is whom they claim to be, regardless of their location or previous successful attempts. Zero Trust is a strategic approach to access management that is vital for keeping out bad actors.   As the world moves to the cloud, with an increasingly distributed network of employees, partners, and clients, tighter auth journeys become even more important.   But with greater security comes greate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+macOS: Bashed Apples of Shlayer and Bundlore<a href="https://securityaffairs.co/wordpress/120128/malware/macos-bashed-apples-of-shlayer-and-bundlore.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs threat research team analyzed macOS malware threat landscape and discovered that Shlayer and Bundlore are the most predominant malware.
+
+
+
+The Uptycs threat research team has been observing over 90% of macOS malware in our daily analysis and customer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22% of exploits for sale in underground forums are more than three years old<a href="https://www.helpnetsecurity.com/2021/07/15/exploits-for-sale/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro released new research urging organizations to focus patching efforts on the vulnerabilities that pose the greatest risk to their organization, even if they are years old.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Targeting Unpatched EOL SonicWall SMA 100 VPN Appliances<a href="https://thehackernews.com/2021/07/ransomware-attacks-targeting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker SonicWall is alerting customers of an "imminent" ransomware campaign targeting its Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products running unpatched and end-of-life 8.x firmware.  The warning comes more than a month after reports emerged that remote access vulnerabilities in SonicWall SRA 4600 VPN appliances ( CVE-2019-7481 ) are being exploited as an initial access vector for ransomware attacks to breach corporate networks worldwide.   "SonicWall has been made aware of threat actors actively targeting Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products running unpatched and end-of-life (EOL) 8.x firmware in an imminent ransomware campaign using stolen credentials," the company  said . "The exploitation targets a known vulnerability that has been patched in newer versions of firmware."  SMA 1000 series products are not affected by the flaw, SonicWall noted, urging businesse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firm Hacked to Spread Ransomware Had Previous Security Flaws<a href="https://www.securityweek.com/firm-hacked-spread-ransomware-had-previous-security-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It turns out that the recent hack wasn’t the first major cybersecurity problem to hit Kaseya and its core product, which IT teams use to remotely monitor and administer workplace systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Details iOS, Chrome, IE Zero-Day Flaws Exploited Recently in the Wild<a href="https://thehackernews.com/2021/07/google-details-ios-chrome-ie-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence researchers from Google on Wednesday  shed more light  on four in-the-wild zero-days in Chrome, Safari, and Internet Explorer browsers that were exploited by malicious actors in different campaigns since the start of the year.  What's more, three of the four zero-days were engineered by commercial providers and sold to and used by government-backed actors, contributing to an uptick in real-world attacks. The list of now-patched vulnerabilities is as follows -   CVE-2021-1879 : Use-After-Free in QuickTimePluginReplacement (Apple WebKit)  CVE-2021-21166 : Chrome Object Lifecycle Issue in Audio  CVE-2021-30551 : Chrome Type Confusion in V8  CVE-2021-33742 : Internet Explorer out-of-bounds write in MSHTML   Both Chrome zero-days — CVE-2021-21166 and CVE-2021-30551 — are believed to have been used by the same actor, and were delivered as one-time links sent via email to targets located in Armenia, with the links redirecting unsuspecting users to attacker-controlled
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Targeting Unpatched Firmware Flaws in EOL SonicWall SMA and SRA Appliances<a href="https://www.zdnet.com/article/sonicwall-releases-urgent-notice-about-imminent-ransomware-targeting-firmware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anyone using SRA 4600/1600 (EOL 2019), SRA 4200/1200 (EOL 2016), or SSL-VPN 200/2000/400 (EOL 2013/2014) should disconnect their appliances immediately and change all associated passwords.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain arrests 16 for distributing the Mekotio and Grandoreiro banking trojans<a href="https://therecord.media/spain-arrests-16-for-distributing-the-mekotio-and-grandoreiro-banking-trojans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspects were arrested last week, had their house searched, and devices seized for investigation during raids part of an operation that authorities named Aguas Vivas (Living Waters).
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+macOS: Bashed Apples of Shlayer and Bundlore<a href="https://securityaffairs.co/wordpress/120128/malware/macos-bashed-apples-of-shlayer-and-bundlore.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These malware are the most predominant malware in macOS, also with a history of evading and bypassing the built-in Xprotect, Gatekeeper, Notarization, and File Quarantine security features of macOS.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of PS4s seized in Ukraine in illegal cryptocurrency mining sting<a href="https://www.zdnet.com/article/thousands-of-ps4s-seized-in-ukraine-in-illegal-cryptocurrency-mining-sting/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of PlayStation 4 gaming consoles have been seized 
+by Ukraine's Security Service after their discovery in an old warehouse, used to illicitly mine for cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate committee advances bipartisan energy infrastructure bill<a href="https://thehill.com//policy/energy-environment/563062-senate-committee-advances-bipartisan-energy-infrastructure-bill"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legislation that’s expected to be a key piece of the bipartisan infrastructure package moved forward on Wednesday as Democrats separately fleshed out their reconciliation infrastructure bill.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House panel approves major funding boost for CISA in party-line vote<a href="https://therecord.media/house-panel-approves-major-funding-boost-for-cisa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $52.8 billion budget approved by the House panel for DHS includes $2.42 billion for CISA, a hike of $397.4 million and $288.7 million above the Biden administration’s budget request.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

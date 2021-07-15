@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safari Zero-Day Used in Malicious LinkedIn Campaign<a href="https://threatpost.com/safari-zero-day-linkedin/167814/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shed light on how attackers exploited Apple web browser vulnerabilities to target government officials in Western Europe. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Targeting Unpatched EOL SonicWall SMA 100 VPN Appliances<a href="https://thehackernews.com/2021/07/ransomware-attacks-targeting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker SonicWall is alerting customers of an "imminent" ransomware campaign targeting its Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products running unpatched and end-of-life 8.x firmware.  The warning comes more than a month after reports emerged that remote access vulnerabilities in SonicWall SRA 4600 VPN appliances ( CVE-2019-7481 ) are being exploited as an initial access vector for ransomware attacks to breach corporate networks worldwide.   "SonicWall has been made aware of threat actors actively targeting Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products running unpatched and end-of-life (EOL) 8.x firmware in an imminent ransomware campaign using stolen credentials," the company&nbsp; said . "The exploitation targets a known vulnerability that has been patched in newer versions of firmware."  SMA 1000 series products are not affected by the flaw, SonicWall noted, urging businesse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
