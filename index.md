@@ -37,6 +37,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Gang Using New Gasket Backdoor to Target U.S. Organizations<a href="https://www.theregister.com/2021/07/15/mespinoza_ransomware_profile/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As with other ransomware attacks, Mespinoza originates through exposed RDP servers, eliminating the need to craft phishing emails, perform social engineering, or exploit software vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts products from Israeli tech firm used to hack journalists, activists<a href="https://thehill.com//policy/technology/563210-microsoft-disrupts-products-from-israeli-tech-firm-used-to-hack-journalists"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday announced that it had disrupted the use of what it described as “cyberweapons” manufactured and sold by an Israeli-based company to target victims worldwide including journalists and human rights activists.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten APT is Now Targeting Middle-East Scholars<a href="https://cyware.com/news/charming-kitten-apt-is-now-targeting-middle-east-scholars-f5849313"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-aligned threat actor TA453 hacked a website pertaining to the University of London, to steal information of journalists, professors, and think tanks, under a campaign dubbed SpoofedScholars. The APT group is continuously innovating and developing new ways of attacking users. Organizat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. offers $10 million for tips on foreign hackers<a href="https://www.reuters.com/world/us/us-offers-10-million-tips-foreign-hackers-2021-07-15/?&web_view=true"> Full Text</a>
 </p>
 <details>

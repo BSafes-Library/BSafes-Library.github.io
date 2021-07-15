@@ -37,6 +37,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. offers $10 million for tips on foreign hackers<a href="https://www.reuters.com/world/us/us-offers-10-million-tips-foreign-hackers-2021-07-15/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. on Thursday offered up to $10 million for information that can identify or locate malicious cyber actors working at the behest of a foreign government to target critical U.S. infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware now targets VMware ESXi servers<a href="https://securityaffairs.co/wordpress/120158/cyber-crime/hellokitty-ransomware-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty ransomware gang is using a Linux variant of their malware to target VMware ESXi virtual machine platform.
+
+
+
+A Linux variant of the HelloKitty ransomware was employed in attacks against VMware ESXi systems.
+
+
+
+The move of the ransomware gang...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Israeli firm used Windows zero-days to deploy spyware<a href="https://www.bleepingcomputer.com/news/security/microsoft-israeli-firm-used-windows-zero-days-to-deploy-spyware/"> Full Text</a>
 </p>
 <details>
