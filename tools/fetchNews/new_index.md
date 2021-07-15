@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Israeli firm used Windows zero-days to deploy spyware<a href="https://www.bleepingcomputer.com/news/security/microsoft-israeli-firm-used-windows-zero-days-to-deploy-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and Citizen Lab have linked Israeli spyware company Candiru (also tracked as Sourgum) to new Windows spyware dubbed DevilsTongue deployed using now patched Windows zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless authentication platform Stytch raises $30M in Series A funding<a href="https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stytch raised $30 million in its Series A funding led by Thrive Capital, which also included participation from Coatue Management and existing backers Benchmark and Index.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Forefront Dermatology Clinic Chain Notifies 2.4 Million Patients, Employees, and Clinicians of Data Breach<a href="https://www.databreachtoday.com/dermatology-clinic-chain-breach-affects-24-million-a-17074?&web_view=true"> Full Text</a>
 </p>
 <details>
