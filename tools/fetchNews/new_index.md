@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden: Social media platforms 'killing people' | Tech executives increased political donations amid lobbying push | Top House antitrust Republican forms 'Freedom from Big Tech Caucus'<a href="https://thehill.com//policy/technology/overnights/563468-hillicon-valley-biden-social-media-platforms-killing-people-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after the surgeon general issued an advisory labeling health misinformation an “urgent threat,” President BidenJoe BidenJ.D. Scholten: Democratic Party is 'getting blown out of the water' by not connecting to voters Children under 12 could be able to receive the COVID-19 vaccine by winter: report Georgia secretary of state calls for Fulton County elections officials to be fired MORE ramped up the pressure on tech companies, telling reporters social media platforms that allowing the spread of COVID-19 misinformation was “killing people.” 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Cloudflare CDN flaw allowed compromise of 12% of all sites<a href="https://www.bleepingcomputer.com/news/security/critical-cloudflare-cdn-flaw-allowed-compromise-of-12-percent-of-all-sites/"> Full Text</a>
 </p>
 <details>

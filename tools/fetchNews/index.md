@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Cloudflare CDN flaw allowed compromise of 12% of all sites<a href="https://www.bleepingcomputer.com/news/security/critical-cloudflare-cdn-flaw-allowed-compromise-of-12-percent-of-all-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has fixed a critical vulnerability in its free and open-source CDNJS potentially impacting 12.7% of all websites on the internet. CDNJS serves millions of websites with over 4,000 JavaScript and CSS libraries stored publicly on GitHub, making it the second-largest JavaScript CDN.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Variant of HelloKitty Ransomware Targets VMware ESXi Servers<a href="https://threatpost.com/linux-variant-of-hellokitty-ransomware-targets-vmware-esxi-servers/167883/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty joins the growing list of ransomware bigwigs going after the juicy target of VMware ESXi, where one hit gets scads of VMs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacker is stealing the identities of victims, Surfside mayor says<a href="https://thehill.com//policy/cybersecurity/563469-hacker-is-stealing-the-identities-of-surfside-victims-surfside-mayor"> Full Text</a>
 </p>
 <details>
