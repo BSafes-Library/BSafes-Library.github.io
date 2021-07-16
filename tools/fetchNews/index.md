@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Moldova's Court of Accounts destroyed public audits<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-moldovas-court-of-accounts-destroyed-public-audits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Moldova's "Court of Accounts" has suffered a cyberattack leading to the agency's public databases and audits being destroyed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 16th 2021 - REvil disappears<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-16th-2021-revil-disappears/"> Full Text</a>
 </p>
 <details>
