@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Several Vulnerabilities Patched in 'MDT AutoSave' Industrial Automation Product<a href="https://www.securityweek.com/several-vulnerabilities-patched-mdt-autosave-industrial-automation-product?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The product is used by some of the world’s biggest manufacturers, including major car makers (Tesla, Kia, BMW, Hyundai, Honda), Coca Cola, P&G, Johnson & Johnson, AstraZeneca, and Nestlé Purina.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware<a href="https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/"> Full Text</a>
 </p>
 <details>
