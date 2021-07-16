@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Mobile Banking Malware Targets Users Across Spain, Germany, Switzerland, and the Netherlands<a href="https://www.zdnet.com/article/toddler-mobile-banking-malware-surges-across-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PRODAFT researchers said that the malware, also known as TeaBot/Anatsa, is part of a rising trend of mobile banking trojan attacking users across Spain, Germany, Switzerland, and the Netherlands.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 D-Link issues hotfix for hard-coded password router vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/d-link-issues-hotfix-for-hard-coded-password-router-vulnerabilities/"> Full Text</a>
 </p>
 <details>
