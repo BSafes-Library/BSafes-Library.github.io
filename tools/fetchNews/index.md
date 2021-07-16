@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Diavol Ransomware by the Wizard Spider Threat Group Steal Victims’ Data<a href="https://securityaffairs.co/wordpress/120165/malware/diavol-ransomware-analysis.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Diavol ransomware does not prevent their payloads from running on Russian targets by doing a locale check. This is notable because most ransomware will avoid Russian systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Mobile Banking Malware Targets Users Across Spain, Germany, Switzerland, and the Netherlands<a href="https://www.zdnet.com/article/toddler-mobile-banking-malware-surges-across-europe/?&web_view=true"> Full Text</a>
 </p>
 <details>

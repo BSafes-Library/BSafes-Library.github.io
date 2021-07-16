@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware<a href="https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Candiru, aka Sourgum, allegedly sells the DevilsTongue surveillance malware to governments around the world. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Diavol Ransomware by the Wizard Spider Threat Group Steal Victims’ Data<a href="https://securityaffairs.co/wordpress/120165/malware/diavol-ransomware-analysis.html?&web_view=true"> Full Text</a>
 </p>
 <details>
