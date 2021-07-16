@@ -11,6 +11,66 @@ nav_order: 900220
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows print nightmare continues with malicious driver packages<a href="https://www.bleepingcomputer.com/news/microsoft/windows-print-nightmare-continues-with-malicious-driver-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's print nightmare continues with another example of how a threat actor can achieve SYSTEM privileges by abusing malicious printer drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit broker Zerodium is looking for VMware vCenter Server exploits<a href="https://securityaffairs.co/wordpress/120170/security/zerodium-vmware-vcenter-server-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium is looking for 0day exploits for the VMware vCenter Server
+
+
+
+Zero-day exploit broker Zerodium announced it is looking for zero-day exploits for VMware vCenter Server. vCenter Server&nbsp;is the centralized management utility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WooCommerce fixes vulnerability exposing 5 million sites to data theft<a href="https://www.bleepingcomputer.com/news/security/woocommerce-fixes-vulnerability-exposing-5-million-sites-to-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WooCommerce, the popular e-commerce plugin for the WordPress content management system has been updated to patch a serious vulnerability that could be exploited without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities spotted in Advantech R-SeeNet<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-r-see-net.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered multiple vulnerabilities in the Advantech R-SeeNet monitoring software. The vulnerabilities exist in various scripts inside of R-SeeNet's web applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Software maker removes "backdoor" giving root access to radio devices<a href="https://www.bleepingcomputer.com/news/security/software-maker-removes-backdoor-giving-root-access-to-radio-devices/"> Full Text</a>
 </p>
 <details>

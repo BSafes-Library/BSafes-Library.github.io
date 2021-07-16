@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook disrupts Iranian hackers using platform to target US military personnel<a href="https://thehill.com//policy/cybersecurity/563241-facebook-disrupts-iranian-hackers-using-platform-to-target-us-military"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday announced that it had taken steps to disrupt a group of Iranian-based hackers that had leveraged the platform as part of a wider effort to target U.S. military personnel and the defense industry in other countries.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

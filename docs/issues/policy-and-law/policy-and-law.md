@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ohio Introduces Data Privacy Legislation<a href="https://www.natlawreview.com/article/ohio-introduces-data-privacy-legislation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 13, Ohio Lieutenant Governor John Husted announced the introduction of the Ohio Personal Privacy Act, a comprehensive privacy framework following in the footsteps of several other states.
+</details>
+<div style="text-align: right" markdown="1">
+The National Law Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

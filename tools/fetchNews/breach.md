@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firm Hacked to Spread Ransomware Had Previous Security Flaws<a href="https://www.securityweek.com/firm-hacked-spread-ransomware-had-previous-security-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It turns out that the recent hack wasn’t the first major cybersecurity problem to hit Kaseya and its core product, which IT teams use to remotely monitor and administer workplace systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

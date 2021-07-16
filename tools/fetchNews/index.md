@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Surgeon general issues health misinformation advisory | Biden administration stepping up efforts to respond to ransomware attacks | Cyber bills gain new urgency after rash of attacks<a href="https://thehill.com//policy/technology/overnights/563286-hillicon-valley-surgeon-general-issues-health-misinformation"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows print nightmare continues with malicious driver packages<a href="https://www.bleepingcomputer.com/news/microsoft/windows-print-nightmare-continues-with-malicious-driver-packages/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli surveillance firm Candiru used Windows zero-days to deploy spyware<a href="https://securityaffairs.co/wordpress/120175/malware/candiru-windows-zero-days-spyware.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook disrupts Iranian hackers using platform to target US military personnel<a href="https://thehill.com//policy/cybersecurity/563241-facebook-disrupts-iranian-hackers-using-platform-to-target-us-military"> Full Text</a>
@@ -102,7 +102,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's print nightmare continues with malicious driver packages<a href="https://www.bleepingcomputer.com/news/microsoft/microsofts-print-nightmare-continues-with-malicious-driver-packages/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit broker Zerodium is looking for VMware vCenter Server exploits<a href="https://securityaffairs.co/wordpress/120170/security/zerodium-vmware-vcenter-server-exploits.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Warns Secure VPN Hardware Bugs Under Attack<a href="https://threatpost.com/sonicwall-vpn-bugs-attack/167824/"> Full Text</a>
@@ -154,7 +154,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ohio Introduces Data Privacy Legislation<a href="https://www.natlawreview.com/article/ohio-introduces-data-privacy-legislation?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ The National Law Review
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpearTip Finds New Diavol Ransomware Does Steal Data<a href="https://securityaffairs.co/wordpress/120165/malware/diavol-ransomware-analysis.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA Ransomware Gang Using New Gasket Backdoor to Target U.S. Organizations<a href="https://www.theregister.com/2021/07/15/mespinoza_ransomware_profile/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft disrupts products from Israeli tech firm used to hack journalists, activists<a href="https://thehill.com//policy/technology/563210-microsoft-disrupts-products-from-israeli-tech-firm-used-to-hack-journalists"> Full Text</a>
@@ -222,7 +222,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten APT is Now Targeting Middle-East Scholars<a href="https://cyware.com/news/charming-kitten-apt-is-now-targeting-middle-east-scholars-f5849313"> Full Text</a>
@@ -239,7 +239,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. offers $10 million for tips on foreign hackers<a href="https://www.reuters.com/world/us/us-offers-10-million-tips-foreign-hackers-2021-07-15/?&web_view=true"> Full Text</a>
@@ -255,7 +255,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloKitty ransomware now targets VMware ESXi servers<a href="https://securityaffairs.co/wordpress/120158/cyber-crime/hellokitty-ransomware-linux-variant.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Israeli firm used Windows zero-days to deploy spyware<a href="https://www.bleepingcomputer.com/news/security/microsoft-israeli-firm-used-windows-zero-days-to-deploy-spyware/"> Full Text</a>
@@ -295,7 +295,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordless authentication platform Stytch raises $30M in Series A funding<a href="https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forefront Dermatology Clinic Chain Notifies 2.4 Million Patients, Employees, and Clinicians of Data Breach<a href="https://www.databreachtoday.com/dermatology-clinic-chain-breach-affects-24-million-a-17074?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ DataBreach Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WooCommerce fixes vulnerability exposing 5 million sites to data theft<a href="https://www.bleepingcomputer.com/news/security/woocommerce-fixes-vulnerability-exposing-5-million-sites-to-data-theft/"> Full Text</a>
@@ -343,7 +343,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Risk Vulnerability Assessment Report for FY2020<a href="https://cyware.com/news/cisa-releases-risk-vulnerability-assessment-report-for-fy2020-ef465a8d"> Full Text</a>
@@ -359,7 +359,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple vulnerabilities spotted in Advantech R-SeeNet<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-r-see-net.html?&web_view=true"> Full Text</a>
@@ -375,7 +375,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybereason raises $275M at Series F, adds Steven Mnuchin to board<a href="https://techcrunch.com/2021/07/14/cybereason-raises-275m-at-series-f-adds-steven-mnuchin-to-board/?&web_view=true"> Full Text</a>
@@ -391,7 +391,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Warns Firewall Hardware Bugs Under Attack<a href="https://threatpost.com/sonicwall-firewall-bugs-attack/167824/"> Full Text</a>
@@ -407,7 +407,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of HelloKitty ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-hellokitty-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -423,7 +423,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft details the rise in consent phishing emails and potential mitigations<a href="https://www.microsoft.com/security/blog/2021/07/14/microsoft-delivers-comprehensive-solution-to-battle-rise-in-consent-phishing-emails/?&web_view=true"> Full Text</a>
@@ -439,7 +439,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity startup Virsec raises $100M in round led by BlueIO<a href="https://siliconangle.com/2021/07/14/cybersecurity-startup-virsec-raises-100m-round-led-blueio/?&web_view=true"> Full Text</a>

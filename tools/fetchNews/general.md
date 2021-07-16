@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22% of exploits for sale in underground forums are more than three years old<a href="https://www.helpnetsecurity.com/2021/07/15/exploits-for-sale/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro released new research urging organizations to focus patching efforts on the vulnerabilities that pose the greatest risk to their organization, even if they are years old.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

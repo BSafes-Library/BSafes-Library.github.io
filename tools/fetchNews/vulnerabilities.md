@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software maker removes "backdoor" giving root access to radio devices<a href="https://www.bleepingcomputer.com/news/security/software-maker-removes-backdoor-giving-root-access-to-radio-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The author of a popular software-defined radio (SDR) project has removed a "backdoor"&nbsp;from radio devices that&nbsp;granted root-level access. The backdoor had been, according to the author, present in all versions of&nbsp;KiwiSDR&nbsp;devices for the purposes of remote administration and debugging.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns of ‘imminent ransomware’ attacks on its EOL products<a href="https://securityaffairs.co/wordpress/120147/security/sonicwall-warns-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has issued an urgent security alert to warn customers of “an imminent ransomware campaing” targeting EOL equipment.
+
+
+
+SonicWall has issued an urgent security alert to warn companies of “an imminent ransomware campaing” targeting some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Details iOS, Chrome, IE Zero-Day Flaws Exploited Recently in the Wild<a href="https://thehackernews.com/2021/07/google-details-ios-chrome-ie-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence researchers from Google on Wednesday&nbsp; shed more light &nbsp;on four in-the-wild zero-days in Chrome, Safari, and Internet Explorer browsers that were exploited by malicious actors in different campaigns since the start of the year.  What's more, three of the four zero-days were engineered by commercial providers and sold to and used by government-backed actors, contributing to an uptick in real-world attacks. The list of now-patched vulnerabilities is as follows -   CVE-2021-1879 : Use-After-Free in QuickTimePluginReplacement (Apple WebKit)  CVE-2021-21166 : Chrome Object Lifecycle Issue in Audio  CVE-2021-30551 : Chrome Type Confusion in V8  CVE-2021-33742 : Internet Explorer out-of-bounds write in MSHTML   Both Chrome zero-days — CVE-2021-21166 and CVE-2021-30551 — are believed to have been used by the same actor, and were delivered as one-time links sent via email to targets located in Armenia, with the links redirecting unsuspecting users to attacker-controlled
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Targeting Unpatched Firmware Flaws in EOL SonicWall SMA and SRA Appliances<a href="https://www.zdnet.com/article/sonicwall-releases-urgent-notice-about-imminent-ransomware-targeting-firmware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anyone using SRA 4600/1600 (EOL 2019), SRA 4200/1200 (EOL 2016), or SSL-VPN 200/2000/400 (EOL 2013/2014) should disconnect their appliances immediately and change all associated passwords.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+macOS: Bashed Apples of Shlayer and Bundlore<a href="https://securityaffairs.co/wordpress/120128/malware/macos-bashed-apples-of-shlayer-and-bundlore.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These malware are the most predominant malware in macOS, also with a history of evading and bypassing the built-in Xprotect, Gatekeeper, Notarization, and File Quarantine security features of macOS.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021  <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

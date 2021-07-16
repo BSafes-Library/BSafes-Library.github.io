@@ -36,6 +36,7 @@ Alerts:
 . https://securityaffairs.co/wordpress/119728/cyber-crime/cisa-fbi-guidance-kaseya-attack.html
 . https://www.bleepingcomputer.com/news/security/fbi-warns-cryptocurrency-owners-exchanges-of-ongoing-attacks/
 . https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-windows-printnightmare-bug/
+. https://cyware.com/news/cisa-releases-risk-vulnerability-assessment-report-for-fy2020-ef465a8d
 
 Law:
 

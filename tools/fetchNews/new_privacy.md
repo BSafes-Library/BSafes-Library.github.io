@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli surveillance firm Candiru used Windows zero-days to deploy spyware<a href="https://securityaffairs.co/wordpress/120175/malware/candiru-windows-zero-days-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts said that Israeli surveillance firm Candiru, tracked as Sourgum, exploited zero-days to deliver a new Windows spyware.
+
+
+
+Microsoft and Citizen Lab believe that the secretive Israel-based Israeli surveillance firm Candiru, tracked as Sourgum,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts products from Israeli tech firm used to hack journalists, activists<a href="https://thehill.com//policy/technology/563210-microsoft-disrupts-products-from-israeli-tech-firm-used-to-hack-journalists"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday announced that it had disrupted the use of what it described as “cyberweapons”&nbsp;manufactured and sold by an Israeli-based company to target victims worldwide including journalists and human rights activists.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

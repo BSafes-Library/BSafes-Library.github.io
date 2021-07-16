@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of PS4s seized in Ukraine in illegal cryptocurrency mining sting<a href="https://www.zdnet.com/article/thousands-of-ps4s-seized-in-ukraine-in-illegal-cryptocurrency-mining-sting/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of PlayStation 4 gaming consoles have been seized 
+by Ukraine's Security Service after their discovery in an old warehouse, used to illicitly mine for cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

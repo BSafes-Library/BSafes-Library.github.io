@@ -11,6 +11,20 @@ nav_order: 900072
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Surgeon general issues health misinformation advisory | Biden administration stepping up efforts to respond to ransomware attacks | Cyber bills gain new urgency after rash of attacks<a href="https://thehill.com//policy/technology/overnights/563286-hillicon-valley-surgeon-general-issues-health-misinformation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration put pressure Thursday on tech companies to do more to combat the spread of the misinformation on their platforms. Surgeon General Vivek MurthyVivek MurthyMurthy: COVID-19 vaccine development could bring 'cures and treatments for other illnesses much, much closer' Do you need a vaccine booster and other questions swirling around COVID Pfizer to brief US health officials on coronavirus booster shot: report MORE issued an advisory calling the spread of misinformation an “urgent threat to public health” — especially as the federal government pushes for more Americans to get coronavirus vaccines.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 22% of exploits for sale in underground forums are more than three years old<a href="https://www.helpnetsecurity.com/2021/07/15/exploits-for-sale/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

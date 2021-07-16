@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten APT is Now Targeting Middle-East Scholars<a href="https://cyware.com/news/charming-kitten-apt-is-now-targeting-middle-east-scholars-f5849313"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-aligned threat actor TA453 hacked a website pertaining to the University of London, to steal information of journalists, professors, and think tanks, under a campaign dubbed SpoofedScholars. The APT group is continuously innovating and developing new ways of attacking users. Organizat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

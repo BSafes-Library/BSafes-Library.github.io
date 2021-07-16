@@ -11,6 +11,20 @@ nav_order: 900029
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Forefront Dermatology Clinic Chain Notifies 2.4 Million Patients, Employees, and Clinicians of Data Breach<a href="https://www.databreachtoday.com/dermatology-clinic-chain-breach-affects-24-million-a-17074?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forefront Dermatology S.C, a dermatology practice with affiliated offices in 21 states plus Washington, D.C., is notifying 2.4 million patients, employees and clinicians of a recent hacking incident.
+</details>
+<div style="text-align: right" markdown="1">
+DataBreach Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Firm Hacked to Spread Ransomware Had Previous Security Flaws<a href="https://www.securityweek.com/firm-hacked-spread-ransomware-had-previous-security-flaws?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

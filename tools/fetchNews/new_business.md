@@ -8,6 +8,76 @@ nav_order: 900027
 
 ## Business
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Israeli firm used Windows zero-days to deploy spyware<a href="https://www.bleepingcomputer.com/news/security/microsoft-israeli-firm-used-windows-zero-days-to-deploy-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and&nbsp;Citizen Lab have linked Israeli spyware company Candiru (also tracked as Sourgum) to new Windows spyware dubbed DevilsTongue deployed using now patched&nbsp;Windows zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless authentication platform Stytch raises $30M in Series A funding<a href="https://techcrunch.com/2021/07/14/ex-plaid-employees-raise-30m-for-stytch-an-api-first-passwordless-authentication-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stytch raised $30 million in its Series A funding led by Thrive Capital, which also included participation from Coatue Management and existing backers Benchmark and Index.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason raises $275M at Series F, adds Steven Mnuchin to board<a href="https://techcrunch.com/2021/07/14/cybereason-raises-275m-at-series-f-adds-steven-mnuchin-to-board/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason, a U.S.-Israeli late-stage cybersecurity startup that provides extended detection and response (XDR) services, has secured $275 million in Series F funding led by Liberty Strategic Capital.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Warns Firewall Hardware Bugs Under Attack<a href="https://threatpost.com/sonicwall-firewall-bugs-attack/167824/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall issued an urgent security alert warning customers that some of its current and legacy firewall appliances were under active attack. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity startup Virsec raises $100M in round led by BlueIO<a href="https://siliconangle.com/2021/07/14/cybersecurity-startup-virsec-raises-100m-round-led-blueio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity startup Virsec Systems Inc. disclosed today that it has raised $100 million in new funding to hire more people, meet product demand and build out its customer support model.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
