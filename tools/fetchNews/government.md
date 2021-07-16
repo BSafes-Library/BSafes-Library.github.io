@@ -11,6 +11,34 @@ nav_order: 900075
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. offers $10 million for tips on foreign hackers<a href="https://www.reuters.com/world/us/us-offers-10-million-tips-foreign-hackers-2021-07-15/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. on Thursday offered up to $10 million for information that can identify or locate malicious cyber actors working at the behest of a foreign government to target critical U.S. infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Risk Vulnerability Assessment Report for FY2020<a href="https://cyware.com/news/cisa-releases-risk-vulnerability-assessment-report-for-fy2020-ef465a8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the fiscal year 2020, the Cybersecurity and Infrastructure Security Agency (CISA) conducted a risk assessment of 37 attack techniques mapped to six infection stages across multiple stakeholders in different sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden administration stepping up efforts to respond to ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563121-biden-administration-stepping-up-efforts-to-respond-to-ransomware"> Full Text</a>
 </p>
 <details>

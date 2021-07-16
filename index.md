@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Identity now detects PrintNightmare attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-for-identity-now-detects-printnightmare-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit broker Zerodium is looking for VMware vCenter Server exploits<a href="https://securityaffairs.co/wordpress/120170/security/zerodium-vmware-vcenter-server-exploits.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Firm Helped Governments Target Journalists, Activists with 0-Days and Spyware<a href="https://thehackernews.com/2021/07/israeli-firm-helped-governments-target.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft alerts about a new Windows Print Spooler vulnerability<a href="https://securityaffairs.co/wordpress/120212/security/new-windows-print-spooler-vulnerability.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare fixes CDN code execution bug affecting 12.7% of all sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-fixes-cdn-code-execution-bug-affecting-127-percent-of-all-sites/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government Launches First One-Stop Ransomware Resource at StopRansomware.gov<a href="https://www.justice.gov/opa/pr/us-government-launches-first-one-stop-ransomware-resource-stopransomwaregov?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ US Department of Justice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Definitive RFP Templates for EDR/EPP and APT Protection<a href="https://thehackernews.com/2019/09/rfp-templates-for-edr-epp.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome 91.0.4472.164 fixes a new zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120205/security/google-chrome-zero-day-2.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google patches 8th Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-patches-8th-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NortonLifeLock in Talks to Buy Antivirus Rival Avast<a href="https://www.govinfosecurity.com/nortonlifelock-in-talks-to-buy-antivirus-rival-avast-a-17079?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Suspends Accounts Used by Iranian Hackers to Target US Military Personnel<a href="https://thehackernews.com/2021/07/facebook-suspends-accounts-used-by.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New enhanced Joker Malware samples appear in the threat landscape<a href="https://securityaffairs.co/wordpress/120190/cyber-crime/joker-malware-new-campaign.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Full Source Code Dump of DDoS-Guard Service Put for Sale Online<a href="https://www.govinfosecurity.com/blogs/for-sale-full-source-code-dump-ddos-guard-service-p-3067?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 57% of reported incidents are caused by insiders<a href="https://www.helpnetsecurity.com/2021/07/16/reported-incidents-caused-by-insiders/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Your Employees’ Old Phone Numbers Creating Vulnerabilities?<a href="https://securityintelligence.com/articles/cellphone-security-employees-old-phone-number-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Discovers Highly Targeted Iran-linked Hacking Campaign Against Defense Sector<a href="https://www.cbsnews.com/news/facebook-iran-hackers-us-military-defense-contractors-fake-accounts/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ CBS News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT-Specific Malware Infections Jumped 700% Amid Pandemic<a href="https://www.darkreading.com/endpoint/iot-specific-malware-infections-jumped-700--amid-pandemic/d/d-id/1341537?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares guidance on new Windows Print Spooler vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-new-windows-print-spooler-vulnerability/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Your Chrome Browser to Patch New Zero‑Day Bug Exploited in the Wild<a href="https://thehackernews.com/2021/07/update-your-chrome-browser-to-patch-new.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2021
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of New Unpatched Windows Print Spooler Vulnerability<a href="https://thehackernews.com/2021/07/microsoft-warns-of-new-unpatched.html"> Full Text</a>

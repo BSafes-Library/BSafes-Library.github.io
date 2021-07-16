@@ -34,6 +34,338 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Identity now detects PrintNightmare attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-for-identity-now-detects-printnightmare-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added support for PrintNightmare exploitation detection to Microsoft Defender for Identity to help Security Operations teams detect attackers' attempts to abuse this critical vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit broker Zerodium is looking for VMware vCenter Server exploits<a href="https://securityaffairs.co/wordpress/120170/security/zerodium-vmware-vcenter-server-exploits.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium announced it is looking for zero-day exploits for VMware vCenter Server. The company will pay up to $100,000 for zero-days in vCenter Server.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Firm Helped Governments Target Journalists, Activists with 0-Days and Spyware<a href="https://thehackernews.com/2021/07/israeli-firm-helped-governments-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two of the zero-day Windows flaws patched by Microsoft as part of its Patch Tuesday update earlier this week were weaponized by an Israel-based company called Candiru in a series of "precision attacks" to hack more than 100 journalists, academics, activists, and political dissidents globally.  The spyware vendor was also formally identified as the commercial surveillance company that Google's Threat Analysis Group (TAG) revealed as exploiting multiple zero-day vulnerabilities in Chrome browser to target victims located in Armenia, according to a report published by the University of Toronto's Citizen Lab.  " Candiru 's apparent widespread presence, and the use of its surveillance technology against global civil society, is a potent reminder that the mercenary spyware industry contains many players and is prone to widespread abuse," Citizen Lab researchers  said . "This case demonstrates, yet again, that in the absence of any international safeguard
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft alerts about a new Windows Print Spooler vulnerability<a href="https://securityaffairs.co/wordpress/120212/security/new-windows-print-spooler-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published guidance to mitigate the impact of a new Windows Print Spooler vulnerability tracked as CVE-2021-34481 that was disclosed today.
+
+
+
+Microsoft published a security advisory for a new Windows Print Spooler vulnerability, tracked as CVE-2021-34481,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare fixes CDN code execution bug affecting 12.7% of all sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-fixes-cdn-code-execution-bug-affecting-127-percent-of-all-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has fixed a critical vulnerability in its free and open-source CDNJS potentially impacting 12.7% of all websites on the internet. CDNJS serves millions of websites with over 4,000 JavaScript and CSS libraries stored publicly on GitHub, making it the second-largest JavaScript CDN.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Launches First One-Stop Ransomware Resource at StopRansomware.gov<a href="https://www.justice.gov/opa/pr/us-government-launches-first-one-stop-ransomware-resource-stopransomwaregov?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new StopRansomware.gov is a collaborative effort across the federal government and is the first joint website created to help private and public organizations mitigate their ransomware risk.
+</details>
+<div style="text-align: right" markdown="1">
+US Department of Justice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Definitive RFP Templates for EDR/EPP and APT Protection<a href="https://thehackernews.com/2019/09/rfp-templates-for-edr-epp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced Persistent Threats groups were once considered a problem that concerns Fortune 100 companies only. However, the threat landscape of the recent years tells otherwise—in fact, every organization, regardless of vertical and size is at risk, whether as a direct target, supply chain or collateral damage.   The vast majority of security decision-makers acknowledge they need to address the APT risk with additional security solutions but struggle with mapping APT attack vectors to a clear-cut set of security product capabilities, which impairs their ability to choose the products that would best protect them.   Cynet is now addressing this need with the definitive RFP templates for EDR/EPP and APT Protection , an expert-made security requirement list, that enables stakeholders to accelerate and optimize the evaluation process of the products they evaluate.   These RFP templates aim to capture the widest common denominator in terms of security needs and deliver the essential that are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 91.0.4472.164 fixes a new zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120205/security/google-chrome-zero-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome 91.0.4472.164 addresses seven security vulnerabilities, including a high severity zero-day flaw exploited in the wild.
+
+
+
+Google has released Chrome 91.0.4472.164 for Windows, Mac, and Linux that addresses seven vulnerabilities, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches 8th Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-patches-8th-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.164 for Windows, Mac, and Linux to fix seven security vulnerabilities, one of them a high severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NortonLifeLock in Talks to Buy Antivirus Rival Avast<a href="https://www.govinfosecurity.com/nortonlifelock-in-talks-to-buy-antivirus-rival-avast-a-17079?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NortonLifeLock on Wednesday issued a statement confirming that it is "in advanced discussions with the board of Avast regarding a possible combination of NortonLifeLock and Avast."
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Suspends Accounts Used by Iranian Hackers to Target US Military Personnel<a href="https://thehackernews.com/2021/07/facebook-suspends-accounts-used-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday disclosed it dismantled a "sophisticated" online cyber espionage campaign conducted by Iranian hackers targeting about 200 military personnel  and companies in the defense and aerospace sectors in the U.S., U.K., and Europe using fake online personas on its platform.  The social media giant pinned the attacks to a threat actor known as  Tortoiseshell  (aka Imperial Kitten) based on the fact that the adversary used similar techniques in past campaigns attributed to the threat group, which was  previously   known  to focus on the information technology industry in Saudi Arabia, suggesting an apparent expansion of malicious activity.   "This group used various malicious tactics to identify its targets and infect their devices with malware to enable espionage,"  said  Mike Dvilyanski, Head of Cyber Espionage Investigations, and David Agranovich, Director, Threat Disruption, at Facebook. "This activity had the hallmarks of a well-resourced and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New enhanced Joker Malware samples appear in the threat landscape<a href="https://securityaffairs.co/wordpress/120190/cyber-crime/joker-malware-new-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Joker malware is back, experts spotted multiple malicious apps on the official Google Play store that were able to evade scanners.
+
+
+
+Experts reported an uptick in malicious Android apps on the official Google Play store laced with the Joker mobile...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Source Code Dump of DDoS-Guard Service Put for Sale Online<a href="https://www.govinfosecurity.com/blogs/for-sale-full-source-code-dump-ddos-guard-service-p-3067?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged customer data from DDoS-Guard, a Russia-based company that offers defenses against distributed denial-of-service attacks, has been offered for sale on a cybercrime forum.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+57% of reported incidents are caused by insiders<a href="https://www.helpnetsecurity.com/2021/07/16/reported-incidents-caused-by-insiders/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider data breaches were the top cause of data and cybersecurity incidents reported in the first quarter of 2021, according to the ICO, with over 1,000 incidents reported in the Q1 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Your Employees’ Old Phone Numbers Creating Vulnerabilities?<a href="https://securityintelligence.com/articles/cellphone-security-employees-old-phone-number-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Princeton University found that 100 of the 259 phone numbers they tested had linked login credentials online and that mobile carriers have weaknesses that make recycled numbers vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Discovers Highly Targeted Iran-linked Hacking Campaign Against Defense Sector<a href="https://www.cbsnews.com/news/facebook-iran-hackers-us-military-defense-contractors-fake-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking group known as "Tortoiseshell" targeted nearly 200 individuals associated with the military as well as defense and aerospace companies in the U.S., and to a lesser extent in the U.K.
+</details>
+<div style="text-align: right" markdown="1">
+CBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT-Specific Malware Infections Jumped 700% Amid Pandemic<a href="https://www.darkreading.com/endpoint/iot-specific-malware-infections-jumped-700--amid-pandemic/d/d-id/1341537?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New telemetry from Zscaler on Internet of Things (IoT) devices demonstrates a dramatic increase in attacks on those devices during the work-from-home phase of the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares guidance on new Windows Print Spooler vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-new-windows-print-spooler-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is sharing mitigation guidance on a new Windows Print Spooler vulnerability tracked as CVE-2021-34481 that was disclosed tonight.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser to Patch New Zero‑Day Bug Exploited in the Wild<a href="https://thehackernews.com/2021/07/update-your-chrome-browser-to-patch-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has pushed out a new security update to Chrome browser for Windows, Mac, and Linux with multiple fixes, including a zero-day that it says is being exploited in the wild.  The latest patch resolves a total of eight issues, one of which concerns a type confusion issue in its V8 open-source and JavaScript engine ( CVE-2021-30563 ). The search giant credited an anonymous researcher for reporting the flaw on July 12.   As is usually the case with actively exploited flaws, the company issued a terse statement acknowledging that "an exploit for CVE-2021-30563 exists in the wild" while refraining from sharing full details about the underlying vulnerability used in the attacks due to its serious nature and the possibility that doing so could lead to further abuse.  CVE-2021-30563 also marks the ninth zero-day addressed by Google to combat real-world attacks against Chrome users since the start of the year —   CVE-2021-21148  - Heap buffer overflow in V8  CVE-2021-21166  - Obje
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Unpatched Windows Print Spooler Vulnerability<a href="https://thehackernews.com/2021/07/microsoft-warns-of-new-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday shared fresh guidance on yet another vulnerability affecting the Windows Print Spooler service, stating that it's working to address it in an upcoming security update.  Tracked as  CVE-2021-34481  (CVSS score: 7.8), the issue concerns a local privilege escalation flaw that could be abused to perform unauthorized actions on the system. The company credited security researcher Jacob Baines for discovering and reporting the bug.   "An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly performs privileged file operations. An attacker who successfully exploited this vulnerability could run arbitrary code with SYSTEM privileges," the Windows maker said in its advisory. "An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights."  However, it's worth pointing out that successful exploitation of the vulnerability requires the attacker to have t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

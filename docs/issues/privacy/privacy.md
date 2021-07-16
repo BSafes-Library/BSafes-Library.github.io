@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Firm Helped Governments Target Journalists, Activists with 0-Days and Spyware<a href="https://thehackernews.com/2021/07/israeli-firm-helped-governments-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two of the zero-day Windows flaws patched by Microsoft as part of its Patch Tuesday update earlier this week were weaponized by an Israel-based company called Candiru in a series of "precision attacks" to hack more than 100 journalists, academics, activists, and political dissidents globally.  The spyware vendor was also formally identified as the commercial surveillance company that Google's Threat Analysis Group (TAG) revealed as exploiting multiple zero-day vulnerabilities in Chrome browser to target victims located in Armenia, according to a report published by the University of Toronto's Citizen Lab.  " Candiru 's apparent widespread presence, and the use of its surveillance technology against global civil society, is a potent reminder that the mercenary spyware industry contains many players and is prone to widespread abuse," Citizen Lab researchers&nbsp; said . "This case demonstrates, yet again, that in the absence of any international safeguard
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

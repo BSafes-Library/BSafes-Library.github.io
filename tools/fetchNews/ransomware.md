@@ -8,6 +8,56 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Gang Using New Gasket Backdoor to Target U.S. Organizations<a href="https://www.theregister.com/2021/07/15/mespinoza_ransomware_profile/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As with other ransomware attacks, Mespinoza originates through exposed RDP servers, eliminating the need to craft phishing emails, perform social engineering, or exploit software vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware now targets VMware ESXi servers<a href="https://securityaffairs.co/wordpress/120158/cyber-crime/hellokitty-ransomware-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty ransomware gang is using a Linux variant of their malware to target VMware ESXi virtual machine platform.
+
+
+
+A Linux variant of the HelloKitty ransomware was employed in attacks against VMware ESXi systems.
+
+
+
+The move of the ransomware gang...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of HelloKitty ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-hellokitty-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The ransomware gang behind the highly publicized attack on CD Projekt Red uses a Linux variant that targets VMware's ESXi virtual machine platform for maximum damage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

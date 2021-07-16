@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft alerts about a new Windows Print Spooler vulnerability<a href="https://securityaffairs.co/wordpress/120212/security/new-windows-print-spooler-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published guidance to mitigate the impact of a new Windows Print Spooler vulnerability tracked as CVE-2021-34481 that was disclosed today.
+
+
+
+Microsoft published a security advisory for a new&nbsp;Windows Print Spooler vulnerability, tracked as CVE-2021-34481,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare fixes CDN code execution bug affecting 12.7% of all sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-fixes-cdn-code-execution-bug-affecting-127-percent-of-all-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has fixed a critical vulnerability in its free and open-source&nbsp;CDNJS potentially impacting 12.7% of all websites on the internet. CDNJS serves millions of websites with over 4,000 JavaScript and CSS libraries stored publicly on GitHub, making it the second-largest&nbsp;JavaScript CDN.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 91.0.4472.164 fixes a new zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120205/security/google-chrome-zero-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome 91.0.4472.164 addresses seven security vulnerabilities, including a high severity zero-day flaw exploited in the wild.
+
+
+
+Google has released Chrome 91.0.4472.164 for Windows, Mac, and Linux that addresses seven vulnerabilities, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches 8th Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/security/google-patches-8th-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.164 for Windows, Mac, and Linux to fix seven security vulnerabilities, one of them a high severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Your Employees’ Old Phone Numbers Creating Vulnerabilities?<a href="https://securityintelligence.com/articles/cellphone-security-employees-old-phone-number-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study by Princeton University found that 100 of the 259 phone numbers they tested had linked login credentials online and that mobile carriers have weaknesses that make recycled numbers vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares guidance on new Windows Print Spooler vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-new-windows-print-spooler-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is sharing mitigation guidance on a new Windows Print Spooler vulnerability tracked as CVE-2021-34481 that was disclosed tonight.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Chrome Browser to Patch New Zero‑Day Bug Exploited in the Wild<a href="https://thehackernews.com/2021/07/update-your-chrome-browser-to-patch-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has pushed out a new security update to Chrome browser for Windows, Mac, and Linux with multiple fixes, including a zero-day that it says is being exploited in the wild.  The latest patch resolves a total of eight issues, one of which concerns a type confusion issue in its V8 open-source and JavaScript engine ( CVE-2021-30563 ). The search giant credited an anonymous researcher for reporting the flaw on July 12.   As is usually the case with actively exploited flaws, the company issued a terse statement acknowledging that "an exploit for CVE-2021-30563 exists in the wild" while refraining from sharing full details about the underlying vulnerability used in the attacks due to its serious nature and the possibility that doing so could lead to further abuse.  CVE-2021-30563 also marks the ninth zero-day addressed by Google to combat real-world attacks against Chrome users since the start of the year —   CVE-2021-21148 &nbsp;- Heap buffer overflow in V8  CVE-2021-21166 &nbsp;- Obje
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Unpatched Windows Print Spooler Vulnerability<a href="https://thehackernews.com/2021/07/microsoft-warns-of-new-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday shared fresh guidance on yet another vulnerability affecting the Windows Print Spooler service, stating that it's working to address it in an upcoming security update.  Tracked as&nbsp; CVE-2021-34481 &nbsp;(CVSS score: 7.8), the issue concerns a local privilege escalation flaw that could be abused to perform unauthorized actions on the system. The company credited security researcher Jacob Baines for discovering and reporting the bug.   "An elevation of privilege vulnerability exists when the Windows Print Spooler service improperly performs privileged file operations. An attacker who successfully exploited this vulnerability could run arbitrary code with SYSTEM privileges," the Windows maker said in its advisory. "An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights."  However, it's worth pointing out that successful exploitation of the vulnerability requires the attacker to have t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

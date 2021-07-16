@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Definitive RFP Templates for EDR/EPP and APT Protection<a href="https://thehackernews.com/2019/09/rfp-templates-for-edr-epp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced Persistent Threats groups were once considered a problem that concerns Fortune 100 companies only. However, the threat landscape of the recent years tells otherwise—in fact, every organization, regardless of vertical and size is at risk, whether as a direct target, supply chain or collateral damage.   The vast majority of security decision-makers acknowledge they need to address the APT risk with additional security solutions but struggle with mapping APT attack vectors to a clear-cut set of security product capabilities, which impairs their ability to choose the products that would best protect them.   Cynet is now addressing this need with the definitive RFP templates for EDR/EPP and APT Protection , an expert-made security requirement list, that enables stakeholders to accelerate and optimize the evaluation process of the products they evaluate.   These RFP templates aim to capture the widest common denominator in terms of security needs and deliver the essential that are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
