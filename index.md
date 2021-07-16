@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 16th 2021 - REvil disappears<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-16th-2021-revil-disappears/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations have been quieter this week as the White House engages in talks with the Russian government about cracking down on cybercriminals believed to be operating in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US govt offers $10 million reward for tips on nation-state hackers<a href="https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-reward-for-tips-on-nation-state-hackers/"> Full Text</a>
 </p>
 <details>
