@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million reward for tips on nation-state hackers<a href="https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-reward-for-tips-on-nation-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government has taken two more active measures to fight and defend against malicious cyber activities affecting the country's business and critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Juniper Bug Allows DoS, RCE Against Carrier Networks<a href="https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/"> Full Text</a>
 </p>
 <details>
