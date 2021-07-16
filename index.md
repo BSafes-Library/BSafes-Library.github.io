@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 16, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hacker is stealing the identities of victims, Surfside mayor says<a href="https://thehill.com//policy/cybersecurity/563469-hacker-is-stealing-the-identities-of-surfside-victims-surfside-mayor"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Surfside Mayor Charles Burkett said Friday that a hacker is stealing the identities of victims who died in the condominium collapse in his city. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolving Role of the CISO<a href="https://threatpost.com/evolving-role-ciso/167873/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curtis Simpson, CISO at Armis, discusses the top qualities that all CISOs need to possess to excel.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Top CVEs Trending with Cybercriminals<a href="https://threatpost.com/top-cves-trending-with-cybercriminals/167889/"> Full Text</a>
 </p>
 <details>
