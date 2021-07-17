@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Variant of HelloKitty Ransomware Targets VMware ESXi Servers<a href="https://threatpost.com/linux-variant-of-hellokitty-ransomware-targets-vmware-esxi-servers/167883/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty joins the growing list of ransomware bigwigs going after the juicy target of VMware ESXi, where one hit gets scads of VMs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 16th 2021 - REvil disappears<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-16th-2021-revil-disappears/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations have been quieter this week as the&nbsp;White House engages in talks with the Russian government&nbsp;about cracking down on cybercriminals believed to be operating in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Diavol Ransomware by the Wizard Spider Threat Group Steal Victims’ Data<a href="https://securityaffairs.co/wordpress/120165/malware/diavol-ransomware-analysis.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Diavol ransomware does not prevent their payloads from running on Russian targets by doing a locale check. This is notable because most ransomware will avoid Russian systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

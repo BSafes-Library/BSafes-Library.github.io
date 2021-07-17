@@ -34,6 +34,262 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden: Social media platforms 'killing people' | Tech executives increased political donations amid lobbying push | Top House antitrust Republican forms 'Freedom from Big Tech Caucus'<a href="https://thehill.com//policy/technology/overnights/563468-hillicon-valley-biden-social-media-platforms-killing-people-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after the surgeon general issued an advisory labeling health misinformation an “urgent threat,” President BidenJoe BidenJ.D. Scholten: Democratic Party is 'getting blown out of the water' by not connecting to voters Children under 12 could be able to receive the COVID-19 vaccine by winter: report Georgia secretary of state calls for Fulton County elections officials to be fired MORE ramped up the pressure on tech companies, telling reporters social media platforms that allowing the spread of COVID-19 misinformation was “killing people.” 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cloudflare CDN flaw allowed compromise of 12% of all sites<a href="https://www.bleepingcomputer.com/news/security/critical-cloudflare-cdn-flaw-allowed-compromise-of-12-percent-of-all-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has fixed a critical vulnerability in its free and open-source CDNJS potentially impacting 12.7% of all websites on the internet. CDNJS serves millions of websites with over 4,000 JavaScript and CSS libraries stored publicly on GitHub, making it the second-largest JavaScript CDN.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Variant of HelloKitty Ransomware Targets VMware ESXi Servers<a href="https://threatpost.com/linux-variant-of-hellokitty-ransomware-targets-vmware-esxi-servers/167883/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty joins the growing list of ransomware bigwigs going after the juicy target of VMware ESXi, where one hit gets scads of VMs.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker is stealing the identities of victims, Surfside mayor says<a href="https://thehill.com//policy/cybersecurity/563469-hacker-is-stealing-the-identities-of-surfside-victims-surfside-mayor"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Surfside Mayor Charles Burkett said Friday that a hacker is stealing the identities of victims who died in the condominium collapse in his city. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolving Role of the CISO<a href="https://threatpost.com/evolving-role-ciso/167873/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curtis Simpson, CISO at Armis, discusses the top qualities that all CISOs need to possess to excel.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top CVEs Trending with Cybercriminals<a href="https://threatpost.com/top-cves-trending-with-cybercriminals/167889/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of criminal forums reveal what publicly known vulnerabilities attackers are most interested in. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Moldova's Court of Accounts destroyed public audits<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-moldovas-court-of-accounts-destroyed-public-audits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Moldova's "Court of Accounts" has suffered a cyberattack leading to the agency's public databases and audits being destroyed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 16th 2021 - REvil disappears<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-16th-2021-revil-disappears/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations have been quieter this week as the White House engages in talks with the Russian government about cracking down on cybercriminals believed to be operating in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million reward for tips on nation-state hackers<a href="https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-reward-for-tips-on-nation-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government has taken two more active measures to fight and defend against malicious cyber activities affecting the country's business and critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Juniper Bug Allows DoS, RCE Against Carrier Networks<a href="https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecom providers, including wireless carriers, are at risk of disruption of network service if the bug in SBR Carrier is exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Vulnerabilities Patched in 'MDT AutoSave' Industrial Automation Product<a href="https://www.securityweek.com/several-vulnerabilities-patched-mdt-autosave-industrial-automation-product?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The product is used by some of the world’s biggest manufacturers, including major car makers (Tesla, Kia, BMW, Hyundai, Honda), Coca Cola, P&G, Johnson & Johnson, AstraZeneca, and Nestlé Purina.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware<a href="https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Candiru, aka Sourgum, allegedly sells the DevilsTongue surveillance malware to governments around the world. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Diavol Ransomware by the Wizard Spider Threat Group Steal Victims’ Data<a href="https://securityaffairs.co/wordpress/120165/malware/diavol-ransomware-analysis.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Diavol ransomware does not prevent their payloads from running on Russian targets by doing a locale check. This is notable because most ransomware will avoid Russian systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Mobile Banking Malware Targets Users Across Spain, Germany, Switzerland, and the Netherlands<a href="https://www.zdnet.com/article/toddler-mobile-banking-malware-surges-across-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PRODAFT researchers said that the malware, also known as TeaBot/Anatsa, is part of a rising trend of mobile banking trojan attacking users across Spain, Germany, Switzerland, and the Netherlands.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link issues hotfix for hard-coded password router vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/d-link-issues-hotfix-for-hard-coded-password-router-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D-Link has issued a hotfix to address multiple vulnerabilities in the DIR-3040 AC3000-based wireless internet router that can allow attackers to execute arbitrary code on unpatched routers, gain access to sensitive information, or crash the routers after triggering a denial of service state.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities spotted in in D-LINK DIR-3040 wireless routers<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-d-link.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities could allow an attacker to carry out a variety of malicious actions, including exposing sensitive information, causing a denial of service, and execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

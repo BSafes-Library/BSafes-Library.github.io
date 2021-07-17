@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker is stealing the identities of victims, Surfside mayor says<a href="https://thehill.com//policy/cybersecurity/563469-hacker-is-stealing-the-identities-of-surfside-victims-surfside-mayor"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Surfside Mayor Charles Burkett said Friday that a hacker is stealing the identities of victims who died in the condominium collapse in his city.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top CVEs Trending with Cybercriminals<a href="https://threatpost.com/top-cves-trending-with-cybercriminals/167889/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of criminal forums reveal what publicly known vulnerabilities attackers are most interested in. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

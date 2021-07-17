@@ -11,6 +11,90 @@ nav_order: 900220
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Critical Cloudflare CDN flaw allowed compromise of 12% of all sites<a href="https://www.bleepingcomputer.com/news/security/critical-cloudflare-cdn-flaw-allowed-compromise-of-12-percent-of-all-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has fixed a critical vulnerability in its free and open-source&nbsp;CDNJS potentially impacting 12.7% of all websites on the internet. CDNJS serves millions of websites with over 4,000 JavaScript and CSS libraries stored publicly on GitHub, making it the second-largest&nbsp;JavaScript CDN.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Juniper Bug Allows DoS, RCE Against Carrier Networks<a href="https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecom providers, including wireless carriers, are at risk of disruption of network service if the bug in SBR Carrier is exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Vulnerabilities Patched in 'MDT AutoSave' Industrial Automation Product<a href="https://www.securityweek.com/several-vulnerabilities-patched-mdt-autosave-industrial-automation-product?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The product is used by some of the world’s biggest manufacturers, including major car makers (Tesla, Kia, BMW, Hyundai, Honda), Coca Cola, P&amp;G, Johnson &amp; Johnson, AstraZeneca, and Nestlé Purina.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware<a href="https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Candiru, aka Sourgum, allegedly sells the DevilsTongue surveillance malware to governments around the world. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link issues hotfix for hard-coded password router vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/d-link-issues-hotfix-for-hard-coded-password-router-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D-Link has issued a hotfix&nbsp;to address multiple&nbsp;vulnerabilities&nbsp;in the DIR-3040 AC3000-based wireless internet router that can allow attackers to execute arbitrary code on unpatched routers, gain access to sensitive information,&nbsp;or crash the routers after triggering a denial of service state.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities spotted in in D-LINK DIR-3040 wireless routers<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-d-link.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities could allow an attacker to carry out a variety of malicious actions, including exposing sensitive information, causing a denial of service, and execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft alerts about a new Windows Print Spooler vulnerability<a href="https://securityaffairs.co/wordpress/120212/security/new-windows-print-spooler-vulnerability.html"> Full Text</a>
 </p>
 <details>

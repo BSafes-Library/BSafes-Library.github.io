@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Suspends Accounts Used by Iranian Hackers to Target US Military Personnel<a href="https://thehackernews.com/2021/07/facebook-suspends-accounts-used-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday disclosed it dismantled a "sophisticated" online cyber espionage campaign conducted by Iranian hackers targeting about 200 military personnel  and companies in the defense and aerospace sectors in the U.S., U.K., and Europe using fake online personas on its platform.  The social media giant pinned the attacks to a threat actor known as&nbsp; Tortoiseshell &nbsp;(aka Imperial Kitten) based on the fact that the adversary used similar techniques in past campaigns attributed to the threat group, which was&nbsp; previously &nbsp; known &nbsp;to focus on the information technology industry in Saudi Arabia, suggesting an apparent expansion of malicious activity.   "This group used various malicious tactics to identify its targets and infect their devices with malware to enable espionage,"&nbsp; said &nbsp;Mike Dvilyanski, Head of Cyber Espionage Investigations, and David Agranovich, Director, Threat Disruption, at Facebook. "This activity had the hallmarks of a well-resourced and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Discovers Highly Targeted Iran-linked Hacking Campaign Against Defense Sector<a href="https://www.cbsnews.com/news/facebook-iran-hackers-us-military-defense-contractors-fake-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking group known as "Tortoiseshell" targeted nearly 200 individuals associated with the military as well as defense and aerospace companies in the U.S., and to a lesser extent in the U.K.
+</details>
+<div style="text-align: right" markdown="1">
+CBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

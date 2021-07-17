@@ -11,6 +11,20 @@ nav_order: 900075
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million reward for tips on nation-state hackers<a href="https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-reward-for-tips-on-nation-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government has taken two more active measures to fight and defend against malicious cyber activities affecting the country's business and critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Government Launches First One-Stop Ransomware Resource at StopRansomware.gov<a href="https://www.justice.gov/opa/pr/us-government-launches-first-one-stop-ransomware-resource-stopransomwaregov?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

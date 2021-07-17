@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden: Social media platforms 'killing people' | Tech executives increased political donations amid lobbying push | Top House antitrust Republican forms 'Freedom from Big Tech Caucus'<a href="https://thehill.com//policy/technology/overnights/563468-hillicon-valley-biden-social-media-platforms-killing-people-tech"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cloudflare CDN flaw allowed compromise of 12% of all sites<a href="https://www.bleepingcomputer.com/news/security/critical-cloudflare-cdn-flaw-allowed-compromise-of-12-percent-of-all-sites/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Variant of HelloKitty Ransomware Targets VMware ESXi Servers<a href="https://threatpost.com/linux-variant-of-hellokitty-ransomware-targets-vmware-esxi-servers/167883/"> Full Text</a>
@@ -82,7 +82,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker is stealing the identities of victims, Surfside mayor says<a href="https://thehill.com//policy/cybersecurity/563469-hacker-is-stealing-the-identities-of-surfside-victims-surfside-mayor"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Evolving Role of the CISO<a href="https://threatpost.com/evolving-role-ciso/167873/"> Full Text</a>
@@ -114,7 +114,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top CVEs Trending with Cybercriminals<a href="https://threatpost.com/top-cves-trending-with-cybercriminals/167889/"> Full Text</a>
@@ -130,7 +130,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Moldova's Court of Accounts destroyed public audits<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-moldovas-court-of-accounts-destroyed-public-audits/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 16th 2021 - REvil disappears<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-16th-2021-revil-disappears/"> Full Text</a>
@@ -162,7 +162,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt offers $10 million reward for tips on nation-state hackers<a href="https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-reward-for-tips-on-nation-state-hackers/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Juniper Bug Allows DoS, RCE Against Carrier Networks<a href="https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/"> Full Text</a>
@@ -194,7 +194,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Vulnerabilities Patched in 'MDT AutoSave' Industrial Automation Product<a href="https://www.securityweek.com/several-vulnerabilities-patched-mdt-autosave-industrial-automation-product?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware<a href="https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/"> Full Text</a>
@@ -226,7 +226,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Diavol Ransomware by the Wizard Spider Threat Group Steal Victims’ Data<a href="https://securityaffairs.co/wordpress/120165/malware/diavol-ransomware-analysis.html?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Mobile Banking Malware Targets Users Across Spain, Germany, Switzerland, and the Netherlands<a href="https://www.zdnet.com/article/toddler-mobile-banking-malware-surges-across-europe/?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 D-Link issues hotfix for hard-coded password router vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/d-link-issues-hotfix-for-hard-coded-password-router-vulnerabilities/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2021
+July 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple vulnerabilities spotted in in D-LINK DIR-3040 wireless routers<a href="https://blog.talosintelligence.com/2021/07/vuln-spotlight-d-link.html?&web_view=true"> Full Text</a>

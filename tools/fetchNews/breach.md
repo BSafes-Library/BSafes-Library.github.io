@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Full Source Code Dump of DDoS-Guard Service Put for Sale Online<a href="https://www.govinfosecurity.com/blogs/for-sale-full-source-code-dump-ddos-guard-service-p-3067?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged customer data from DDoS-Guard, a Russia-based company that offers defenses against distributed denial-of-service attacks, has been offered for sale on a cybercrime forum.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
