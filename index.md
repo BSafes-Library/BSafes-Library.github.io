@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ecuador's state-run CNT telco hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/ecuadors-state-run-cnt-telco-hit-by-ransomexx-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ecuador's state-run Corporación Nacional de Telecomunicación (CNT) has suffered a ransomware attack that has disrupted business operations, the payment portal, and customer support.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Overcoming Cyberthreat Intelligence-Sharing Hurdles<a href="https://www.govinfosecurity.com/interviews/overcoming-cyberthreat-intelligence-sharing-hurdles-i-4935?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber fusion centers can help automate the sharing of cyber threat intelligence in a cross-sector environment, according to Errol Weiss of the Health Information Sharing & Analysis Center and Anuj Goel of Cyware.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's New Law Requires Researchers to Report All Zero-Day Bugs to Government<a href="https://thehackernews.com/2021/07/chinas-new-law-requires-researchers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China (CAC) has issued new stricter vulnerability disclosures regulations that mandate security researchers uncovering critical flaws in computer systems to mandatorily disclose them first-hand to the government authorities within two days of filing a report.  The " Regulations on the Management of Network Product Security Vulnerability " are expected to go into effect starting September 1, 2021, and aim to standardize the discovery, reporting, repair, and release of security vulnerabilities and prevent security risks.   "No organization or individual may take advantage of network product security vulnerabilities to engage in activities that endanger network security, and shall not illegally collect, sell or publish information on network product security vulnerabilities," Article 4 of the regulation states.  In addition to banning sales of previously unknown security weaknesses, the new rules also forbid vulnerabilities from being
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million reward for info on nation-state cyber operations<a href="https://securityaffairs.co/wordpress/120238/cyber-warfare-2/us-govt-10-million-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is offering a $10 million reward to everyone that provides information on operations conducted by nation-state actors.
+
+
+
+The US government is offering a $10 million reward for information on campaigns conducted by state-sponsored hackers.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptographers unearth vulnerabilities in Telegram's encryption protocol<a href="https://www.cyberscoop.com/telegram-app-security-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international team of computer scientists and researchers reported that they found four cryptographic security vulnerabilities in the popular encrypted message app Telegram.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram Launches 'Security Checkup' to Help Users Recover Hacked Accounts<a href="https://thehackernews.com/2021/07/instagram-launches-security-checkup-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram earlier this week introduced a new " Security Checkup " feature that aims to keep accounts safe and help users—whose accounts may have been compromised—to recover them.  In order to gain access to accounts, users will be prompted to perform a series of steps, which include checking recent login activity, reviewing profile information, and updating contact details such as phone numbers or email.   Additionally, the Facebook-owned company is also "strongly" recommending users to turn on two-factor authentication for extra security and preventing unauthorized logins.   On that front, Instagram also said it would allow users in selected countries to use their WhatsApp numbers to authenticate their accounts.    Stressing that "Instagram will never send you a [direct message]," the social media platform cautioned users to be on the lookout for scams, wherein malicious accounts reach out via DMs to try and access sensitive information like account pass
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes high-risk DoS flaw in ASA, FTD Software<a href="https://securityaffairs.co/wordpress/120231/security/cisco-dos-flaw-asa-ftd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high severity DoS vulnerability in the Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software.
+
+
+
+Cisco this week released security updates for a high severity vulnerability in the Adaptive Security Appliance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome fixes a new zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120205/security/google-chrome-zero-day-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 91.0.4472.164 for Windows, Mac, and Linux that addresses seven vulnerabilities, including a high severity zero-day vulnerability, tracked as CVE-2021-30563, that has been exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudFlare CDNJS Bug Could Have Led to Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/07/cloudflare-cdnjs-bug-could-have-led-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and website security company Cloudflare last month fixed a critical vulnerability in its CDNJS library that's  used by 12.7% of all websites  on the internet.  CDNJS is a free and open-source content delivery network (CDN) that serves about  4,041 JavaScript and CSS libraries , making it the  second most popular  CDN for JavaScript after Google Hosted Libraries.  The weakness concerned an issue in the CDNJS library update server that could potentially allow an attacker to execute arbitrary commands, leading to a complete compromise.   The vulnerability was discovered and reported by security researcher RyotaK on April 6, 2021. There is no evidence of in-the-wild attacks abusing this flaw.  Specifically, the vulnerability works by publishing packages to Cloudflare's CDNJS using GitHub and npm, using it to trigger a  path traversal vulnerability , and ultimately trick the server into executing arbitrary code, thus achieving remote code execution.  It's wor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link issues beta hotfix for multiple flaws in DIR-3040 routers<a href="https://securityaffairs.co/wordpress/120224/hacking/d-link-dir-3040-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network equipment vendor D-Link has released a firmware hotfix to fix multiple vulnerabilities in the DIR-3040 AC3000-based wireless internet router.
+
+
+
+Network equipment vendor D-Link has released a firmware hotfix to address multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government launches plans to cut cybercriminals off from cryptocurrency<a href="https://www.cyberscoop.com/us-government-crypocurrency-ransomware-criminals-treasury-state-reward/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updates on the White House’s plan to tackle ransomware comes on the heels of the third major ransomware attack to pose a serious threat to the U.S. national security in as many months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LinkedIn phishing campaign found using Google Forms<a href="https://www.hackread.com/linkedin-phishing-scam-google-forms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new LinkedIn phishing email prompts users to verify their LinkedIn accounts with the subject line including the potential victim’s name as well to make it look more authentic.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden battles Russian hacking groups with restrictions on IT firms<a href="https://www.reuters.com/article/us-usa-trade-russia/biden-battles-russian-hacking-groups-with-restrictions-on-it-firms-idUSKBN2EM1OA?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States took a new stab at Russia’s cybersecurity industry, restricting trade with four IT firms and two other entities over “aggressive and harmful” activities - including digital espionage - that US blames on the Russian government.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another privilege escalation bug found in Windows Print Spooler service<a href="https://www.theregister.com/2021/07/16/spooler_service_local_privilege_escalation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared guidance revealing yet another vulnerability, identified as CVE-2021-34481, connected to its Windows Print Spooler service, saying it is "developing a security update."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
