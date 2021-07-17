@@ -8,6 +8,42 @@ nav_order: 900075
 
 ## Government
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million reward for info on nation-state cyber operations<a href="https://securityaffairs.co/wordpress/120238/cyber-warfare-2/us-govt-10-million-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is offering a $10 million reward to everyone that provides information on operations conducted by nation-state actors.
+
+
+
+The US government is offering a $10 million reward for information on campaigns conducted by state-sponsored hackers.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden battles Russian hacking groups with restrictions on IT firms<a href="https://www.reuters.com/article/us-usa-trade-russia/biden-battles-russian-hacking-groups-with-restrictions-on-it-firms-idUSKBN2EM1OA?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States took a new stab at Russia’s cybersecurity industry, restricting trade with four IT firms and two other entities over “aggressive and harmful” activities - including digital espionage - that US blames on the Russian government.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Overcoming Cyberthreat Intelligence-Sharing Hurdles<a href="https://www.govinfosecurity.com/interviews/overcoming-cyberthreat-intelligence-sharing-hurdles-i-4935?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber fusion centers can help automate the sharing of cyber threat intelligence in a cross-sector environment, according to Errol Weiss of the Health Information Sharing &amp; Analysis Center and Anuj Goel of Cyware.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram Launches 'Security Checkup' to Help Users Recover Hacked Accounts<a href="https://thehackernews.com/2021/07/instagram-launches-security-checkup-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram earlier this week introduced a new " Security Checkup " feature that aims to keep accounts safe and help users—whose accounts may have been compromised—to recover them.  In order to gain access to accounts, users will be prompted to perform a series of steps, which include checking recent login activity, reviewing profile information, and updating contact details such as phone numbers or email.   Additionally, the Facebook-owned company is also "strongly" recommending users to turn on two-factor authentication for extra security and preventing unauthorized logins.   On that front, Instagram also said it would allow users in selected countries to use their WhatsApp numbers to authenticate their accounts.    Stressing that "Instagram will never send you a [direct message]," the social media platform cautioned users to be on the lookout for scams, wherein malicious accounts reach out via DMs to try and access sensitive information like account pass
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
