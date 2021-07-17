@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LinkedIn phishing campaign found using Google Forms<a href="https://www.hackread.com/linkedin-phishing-scam-google-forms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new LinkedIn phishing email prompts users to verify their LinkedIn accounts with the subject line including the potential victim’s name as well to make it look more authentic.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

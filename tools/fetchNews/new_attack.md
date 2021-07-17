@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ecuador's state-run CNT telco hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/ecuadors-state-run-cnt-telco-hit-by-ransomexx-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ecuador's state-run Corporación Nacional de Telecomunicación (CNT) has suffered a ransomware attack that has disrupted business operations, the payment portal, and customer support.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

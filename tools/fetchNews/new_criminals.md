@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government launches plans to cut cybercriminals off from cryptocurrency<a href="https://www.cyberscoop.com/us-government-crypocurrency-ransomware-criminals-treasury-state-reward/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updates on the White House’s plan to tackle ransomware comes on the heels of the third major ransomware attack to pose a serious threat to the U.S. national security in as many months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

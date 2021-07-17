@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ecuador's state-run CNT telco hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/ecuadors-state-run-cnt-telco-hit-by-ransomexx-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Overcoming Cyberthreat Intelligence-Sharing Hurdles<a href="https://www.govinfosecurity.com/interviews/overcoming-cyberthreat-intelligence-sharing-hurdles-i-4935?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's New Law Requires Researchers to Report All Zero-Day Bugs to Government<a href="https://thehackernews.com/2021/07/chinas-new-law-requires-researchers-to.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt offers $10 million reward for info on nation-state cyber operations<a href="https://securityaffairs.co/wordpress/120238/cyber-warfare-2/us-govt-10-million-reward.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptographers unearth vulnerabilities in Telegram's encryption protocol<a href="https://www.cyberscoop.com/telegram-app-security-encryption/?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram Launches 'Security Checkup' to Help Users Recover Hacked Accounts<a href="https://thehackernews.com/2021/07/instagram-launches-security-checkup-to.html"> Full Text</a>
@@ -138,7 +138,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes high-risk DoS flaw in ASA, FTD Software<a href="https://securityaffairs.co/wordpress/120231/security/cisco-dos-flaw-asa-ftd.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome fixes a new zero-day exploited in the wild<a href="https://securityaffairs.co/wordpress/120205/security/google-chrome-zero-day-2.html?&web_view=true"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CloudFlare CDNJS Bug Could Have Led to Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/07/cloudflare-cdnjs-bug-could-have-led-to.html"> Full Text</a>
@@ -190,7 +190,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 D-Link issues beta hotfix for multiple flaws in DIR-3040 routers<a href="https://securityaffairs.co/wordpress/120224/hacking/d-link-dir-3040-flaws.html"> Full Text</a>
@@ -210,7 +210,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government launches plans to cut cybercriminals off from cryptocurrency<a href="https://www.cyberscoop.com/us-government-crypocurrency-ransomware-criminals-treasury-state-reward/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LinkedIn phishing campaign found using Google Forms<a href="https://www.hackread.com/linkedin-phishing-scam-google-forms/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden battles Russian hacking groups with restrictions on IT firms<a href="https://www.reuters.com/article/us-usa-trade-russia/biden-battles-russian-hacking-groups-with-restrictions-on-it-firms-idUSKBN2EM1OA?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another privilege escalation bug found in Windows Print Spooler service<a href="https://www.theregister.com/2021/07/16/spooler_service_local_privilege_escalation/?&web_view=true"> Full Text</a>

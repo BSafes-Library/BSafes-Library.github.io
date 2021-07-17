@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptographers unearth vulnerabilities in Telegram's encryption protocol<a href="https://www.cyberscoop.com/telegram-app-security-encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international team of computer scientists and researchers reported that they found four cryptographic security vulnerabilities in the popular encrypted message app Telegram.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes high-risk DoS flaw in ASA, FTD Software<a href="https://securityaffairs.co/wordpress/120231/security/cisco-dos-flaw-asa-ftd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high severity DoS vulnerability in the Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software.
+
+
+
+Cisco this week released security updates for a high severity vulnerability in the Adaptive Security Appliance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudFlare CDNJS Bug Could Have Led to Widespread Supply-Chain Attacks<a href="https://thehackernews.com/2021/07/cloudflare-cdnjs-bug-could-have-led-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and website security company Cloudflare last month fixed a critical vulnerability in its CDNJS library that's&nbsp; used by 12.7% of all websites &nbsp;on the internet.  CDNJS is a free and open-source content delivery network (CDN) that serves about&nbsp; 4,041 JavaScript and CSS libraries , making it the&nbsp; second most popular &nbsp;CDN for JavaScript after Google Hosted Libraries.  The weakness concerned an issue in the CDNJS library update server that could potentially allow an attacker to execute arbitrary commands, leading to a complete compromise.   The vulnerability was discovered and reported by security researcher RyotaK on April 6, 2021. There is no evidence of in-the-wild attacks abusing this flaw.  Specifically, the vulnerability works by publishing packages to Cloudflare's CDNJS using GitHub and npm, using it to trigger a&nbsp; path traversal vulnerability , and ultimately trick the server into executing arbitrary code, thus achieving remote code execution.  It's wor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link issues beta hotfix for multiple flaws in DIR-3040 routers<a href="https://securityaffairs.co/wordpress/120224/hacking/d-link-dir-3040-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network equipment vendor D-Link has released a firmware hotfix to fix multiple vulnerabilities in the&nbsp;DIR-3040&nbsp;AC3000-based wireless internet router.
+
+
+
+Network equipment vendor D-Link has released a firmware hotfix to address multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another privilege escalation bug found in Windows Print Spooler service<a href="https://www.theregister.com/2021/07/16/spooler_service_local_privilege_escalation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared guidance revealing yet another vulnerability, identified as CVE-2021-34481, connected to its Windows Print Spooler service, saying it is "developing a security update."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

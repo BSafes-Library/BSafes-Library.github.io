@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden: Social media platforms 'killing people' | Tech executives increased political donations amid lobbying push | Top House antitrust Republican forms 'Freedom from Big Tech Caucus'<a href="https://thehill.com//policy/technology/overnights/563468-hillicon-valley-biden-social-media-platforms-killing-people-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after the surgeon general issued an advisory labeling health misinformation an “urgent threat,” President BidenJoe BidenJ.D. Scholten: Democratic Party is 'getting blown out of the water' by not connecting to voters Children under 12 could be able to receive the COVID-19 vaccine by winter: report Georgia secretary of state calls for Fulton County elections officials to be fired MORE ramped up the pressure on tech companies, telling reporters social media platforms that allowing the spread of COVID-19 misinformation&nbsp;was “killing people.”&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolving Role of the CISO<a href="https://threatpost.com/evolving-role-ciso/167873/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curtis Simpson, CISO at Armis, discusses the top qualities that all CISOs need to possess to excel.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

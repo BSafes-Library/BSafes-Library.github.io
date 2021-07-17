@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's New Law Requires Researchers to Report All Zero-Day Bugs to Government<a href="https://thehackernews.com/2021/07/chinas-new-law-requires-researchers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China (CAC) has issued new stricter vulnerability disclosures regulations that mandate security researchers uncovering critical flaws in computer systems to mandatorily disclose them first-hand to the government authorities within two days of filing a report.  The " Regulations on the Management of Network Product Security Vulnerability " are expected to go into effect starting September 1, 2021, and aim to standardize the discovery, reporting, repair, and release of security vulnerabilities and prevent security risks.   "No organization or individual may take advantage of network product security vulnerabilities to engage in activities that endanger network security, and shall not illegally collect, sell or publish information on network product security vulnerabilities," Article 4 of the regulation states.  In addition to banning sales of previously unknown security weaknesses, the new rules also forbid vulnerabilities from being
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
