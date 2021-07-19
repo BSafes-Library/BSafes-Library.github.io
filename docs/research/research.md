@@ -21,7 +21,7 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 June 25, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• A Study of Recidivism among Online Sexual Predators [HTML](vhttps://papers.bsafes.com/docs/sex/A-Study-of-Recidivism-among-Online-Sexual-Predators/)
+• A Study of Recidivism among Online Sexual Predators [HTML](https://papers.bsafes.com/docs/sex/A-Study-of-Recidivism-among-Online-Sexual-Predators/)
 </p>
 <details>
   <summary>Abstract</summary>
