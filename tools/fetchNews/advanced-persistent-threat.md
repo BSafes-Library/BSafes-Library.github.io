@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LuminousMoth - Another Chinese APT Targeting Asian Governments<a href="https://cyware.com/news/luminousmoth-another-chinese-apt-targeting-asian-governments-9065ccd0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky discovered an ongoing, large-scale APT campaign named LuminousMoth with hundreds of victims from Southeast Asia, including Myanmar and the Philippines government entities. The recent activities of the APT group indicate the wider interests of China-based hackers toward Southeast Asian gov ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

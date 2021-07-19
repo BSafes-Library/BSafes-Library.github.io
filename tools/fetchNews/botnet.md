@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Thrives Again with Virtual Network Computing Module<a href="https://cyware.com/news/trickbot-thrives-again-with-virtual-network-computing-module-d432ed30"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Trickbot actors were found adding new Virtual Network Computing (VNC) module into its arsenal that helps an actor monitor high-profile targets and gathers intelligence from them. The frequent developments in Trickbot’s lifecycle and an accelerated rate of propagation highlight the actual  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

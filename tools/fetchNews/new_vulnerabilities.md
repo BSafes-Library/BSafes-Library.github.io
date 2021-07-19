@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turns Out That Low-Risk iOS Wi-Fi Naming Bug Can Hack iPhones Remotely<a href="https://thehackernews.com/2021/07/turns-out-that-low-risk-ios-wi-fi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wi-Fi network name bug that was found to completely disable an iPhone's networking functionality had remote code execution capabilities and was silently fixed by Apple earlier this year, according to new research.  The denial-of-service vulnerability,&nbsp; which came to light last month , stemmed from the way iOS handled string formats associated with the SSID input, triggering a crash on any up-to-date iPhone that connected to any wireless access points with percent symbols in their names such as "%p%s%s%s%s%n."  While the issue is remediable by resetting the network settings (Settings &gt; General &gt; Reset &gt; Reset Network Settings), Apple is&nbsp; expected to push a patch &nbsp;for the bug in its iOS 14.7 update, which is currently available to developers and public beta testers.   But in what could have had far-reaching consequences, researchers from mobile security automation firm ZecOps found that the same bug could be exploited to achieve remote code execution (RCE) on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts show how to bypass Windows Hello feature to login on Windows 10 PCs<a href="https://securityaffairs.co/wordpress/120278/hacking/windows-hello-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers demonstrated how to bypass the Windows Hello facial recognition that is used in Windows 10 as a login mechanism.
+
+
+
+Security researchers at CyberArk Labs discovered a security bypass vulnerability, tracked as CVE-2021-34466, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 Yr-Old Linux Netfilter Bug Let Hackers Bypass All Security Mitigations<a href="https://gbhackers.com/15-year-old-linux-netfilter-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Information Security Engineer, Andy Nguyen has recently detected a 15-Year-Old Linux Netfilter vulnerability that allows any attackers to bypass all the modern security measures.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google, Citizen Lab blow lid off zero-day bug-exploiting spyware sold to governments<a href="https://www.theregister.com/2021/07/16/microsoft_candiru_malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Citizen Lab, the spyware, code-named DevilsTongue by Microsoft, exploited at least a pair of zero-day holes in Windows to infect particular targets' machines.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Uncover Yet Another Unpatched Windows Printer Spooler Vulnerability<a href="https://thehackernews.com/2021/07/researcher-uncover-yet-another.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merely days after Microsoft sounded the alarm on an&nbsp; unpatched security vulnerability &nbsp;in the Windows Print Spooler service, yet another zero-day flaw in the same component has come to light, making it the fourth printer-related flaw to be discovered in recent weeks.  "Microsoft Windows allows for non-admin users to be able to install printer drivers via Point and Print," CERT Coordination Center's Will Dormann&nbsp; said &nbsp;in an advisory published Sunday. "Printers installed via this technique also install queue-specific files, which can be arbitrary libraries to be loaded by the privileged Windows Print Spooler process."   An exploit for the vulnerability was disclosed by security researcher and&nbsp; Mimikatz creator &nbsp; Benjamin Delpy .  #printnightmare  - Episode 4 You know what is better than a Legit Kiwi Printer ? 🥝Another Legit Kiwi Printer...👍 No prerequiste at all, you even don't need to sign drivers/package🤪 pic.twitter.com/oInb5jm3tE — 🥝 Benjamin Delpy (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

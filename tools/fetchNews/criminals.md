@@ -8,6 +8,39 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware gang targets vulnerable SonicWall devices<a href="https://securityaffairs.co/wordpress/120249/malware/hellokitty-ransomware-sonicwall-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer became aware that the recent wave of attacks targeting vulnerable SonicWall devices was carried out by HelloKitty ransomware operators.
+
+
+
+SonicWall this week has issued an urgent security alert to warn companies of “an imminent ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mespinoza Group Uses Unique Tools to Target Organizations<a href="https://cyware.com/news/mespinoza-group-uses-unique-tools-to-target-organizations-e0f37e52"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks provides details about the methods and tactics employed by the Mespinoza ransomware group that has been targeting multiple sectors across the globe with a focus on the education sector. The ransomware group carries out the initial access via public-facing RDP servers and prefers  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

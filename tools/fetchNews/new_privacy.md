@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Project – how governments use Pegasus spyware against journalists<a href="https://securityaffairs.co/wordpress/120291/malware/pegasus-project-nso-pegasus-spywar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pegasus Project investigation into the leak of 50,000 phone numbers of potential surveillance targets revealed the abuse of NSO Group's spyware.
+
+
+
+Pegasus Project is the name of a large-scale investigation into the leak of 50,000 phone numbers of potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhones running latest iOS hacked to deploy NSO Group spyware<a href="https://www.bleepingcomputer.com/news/security/iphones-running-latest-ios-hacked-to-deploy-nso-group-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human rights non-governmental organization Amnesty International and non-profit project Forbidden Stories revealed in a recent report that they found spyware made by Israeli surveillance firm NSO Group deployed on iPhones running Apple's latest iOS release, hacked using zero-day zero-click iMessage exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

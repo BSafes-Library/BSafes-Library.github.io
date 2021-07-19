@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hits law firm counseling Fortune 500, Global 500 companies<a href="https://www.bleepingcomputer.com/news/security/ransomware-hits-law-firm-counseling-fortune-500-global-500-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Campbell Conroy &amp; O'Neil, P.C. (Campbell), a US law firm counseling dozens of&nbsp;Fortune 500 and Global 500 companies, has disclosed a data breach following a February 2021 ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comparis customers targeted by scammers after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/comparis-customers-targeted-by-scammers-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading Swiss price comparison platform Comparis has notified customers of a data breach following a ransomware attack that hit and took down its entire network last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

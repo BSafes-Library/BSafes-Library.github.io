@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enea acquires AdaptiveMobile Security to strengthen its 5G network security portfolio<a href="https://www.helpnetsecurity.com/2021/07/19/adaptivemobile-security-enea/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AdaptiveMobile Security announced that it has been acquired by Enea. The firm will continue to deliver software and services for messaging and signaling security in mobile core networks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

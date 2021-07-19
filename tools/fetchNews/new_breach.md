@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Aramco data breach sees 1 TB stolen data for sale<a href="https://www.bleepingcomputer.com/news/security/saudi-aramco-data-breach-sees-1-tb-stolen-data-for-sale/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers&nbsp;have stolen 1 TB of proprietary data belonging to Saudi Aramco and are offering it&nbsp;for sale on the&nbsp;darknet. The Saudi Arabian Oil Company, better known as Saudi Aramco, is one of the largest&nbsp;public petroleum and natural gas companies in the world. The sales price, albeit negotiable, is set at $5 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Storage Misconfiguration at Artwork Archive Exposed Over 420GB User Data<a href="https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Campbell Conroy &amp; O'Neil, P.C. (Campbell), a US law firm counseling dozens of Fortune 500 and Global 500 companies, has disclosed a data breach following a February 2021 ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

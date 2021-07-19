@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Aramco data breach sees 1 TB stolen data for sale<a href="https://www.bleepingcomputer.com/news/security/saudi-aramco-data-breach-sees-1-tb-stolen-data-for-sale/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers have stolen 1 TB of proprietary data belonging to Saudi Aramco and are offering it for sale on the darknet. The Saudi Arabian Oil Company, better known as Saudi Aramco, is one of the largest public petroleum and natural gas companies in the world. The sales price, albeit negotiable, is set at $5 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Storage Misconfiguration at Artwork Archive Exposed Over 420GB User Data<a href="https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Campbell Conroy & O'Neil, P.C. (Campbell), a US law firm counseling dozens of Fortune 500 and Global 500 companies, has disclosed a data breach following a February 2021 ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, allies blame China-linked hackers for Microsoft Exchange breach<a href="https://thehill.com//homenews/administration/563622-us-allies-blame-china-linked-hackers-for-microsoft-exchange-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and several allied countries on Monday are publicly blaming hackers affiliated with the Chinese government for the Microsoft Exchange Server hack that left tens of thousands of organizations vulnerable to compromise earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turns Out That Low-Risk iOS Wi-Fi Naming Bug Can Hack iPhones Remotely<a href="https://thehackernews.com/2021/07/turns-out-that-low-risk-ios-wi-fi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wi-Fi network name bug that was found to completely disable an iPhone's networking functionality had remote code execution capabilities and was silently fixed by Apple earlier this year, according to new research.  The denial-of-service vulnerability,  which came to light last month , stemmed from the way iOS handled string formats associated with the SSID input, triggering a crash on any up-to-date iPhone that connected to any wireless access points with percent symbols in their names such as "%p%s%s%s%s%n."  While the issue is remediable by resetting the network settings (Settings > General > Reset > Reset Network Settings), Apple is  expected to push a patch  for the bug in its iOS 14.7 update, which is currently available to developers and public beta testers.   But in what could have had far-reaching consequences, researchers from mobile security automation firm ZecOps found that the same bug could be exploited to achieve remote code execution (RCE) on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Project – how governments use Pegasus spyware against journalists<a href="https://securityaffairs.co/wordpress/120291/malware/pegasus-project-nso-pegasus-spywar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pegasus Project investigation into the leak of 50,000 phone numbers of potential surveillance targets revealed the abuse of NSO Group's spyware.
+
+
+
+Pegasus Project is the name of a large-scale investigation into the leak of 50,000 phone numbers of potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and allies officially accuse China of Microsoft Exchange attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-allies-officially-accuse-china-of-microsoft-exchange-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US and allies, including the European Union, the United Kingdom, and NATO, are officially blaming China for this year's widespread Microsoft Exchange hacking campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Hackers use ransomware to target techies, demand cryptocurrency<a href="https://ciso.economictimes.indiatimes.com/news/hackers-use-ransomware-to-target-techies-demand-cryptocurrency/84541322?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers targeted their data, especially important files that had been compressed by the techies to transmit from their laptops to their official clients or their offices.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://thehackernews.com/2021/07/five-critical-password-security-rules.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Keeper Security's Workplace Password Malpractice Report, many remote workers aren't following best practices for password security.  Password security was a problem even before the advent of widespread remote work. So, what happened post-pandemic?  Keeper Security's Workplace Password Malpractice Report  sought to find out.  In February 2021, Keeper surveyed 1,000 employees in the U.S. about their work-related password habits -- and discovered that a lot of remote workers are letting password security go by the wayside.  Here are 5 critical password security rules they're ignoring.  1 — Always use strong passwords  Strong passwords are at least eight characters long (preferably more) and consist of random strings of letters, numerals, and special characters. Passwords should never include dictionary words, which are easy to guess, or personal details, which cybercriminals can scrape off social media channels.   37% of respondents to Keeper's survey sai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts show how to bypass Windows Hello feature to login on Windows 10 PCs<a href="https://securityaffairs.co/wordpress/120278/hacking/windows-hello-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers demonstrated how to bypass the Windows Hello facial recognition that is used in Windows 10 as a login mechanism.
+
+
+
+Security researchers at CyberArk Labs discovered a security bypass vulnerability, tracked as CVE-2021-34466, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhones running latest iOS hacked to deploy NSO Group spyware<a href="https://www.bleepingcomputer.com/news/security/iphones-running-latest-ios-hacked-to-deploy-nso-group-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Human rights non-governmental organization Amnesty International and non-profit project Forbidden Stories revealed in a recent report that they found spyware made by Israeli surveillance firm NSO Group deployed on iPhones running Apple's latest iOS release, hacked using zero-day zero-click iMessage exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application security tools ineffective against new and growing threats<a href="https://www.helpnetsecurity.com/2021/07/19/ineffective-application-security-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations around the world are faced with the task to digitally transform, many of the traditional tools and services no longer support the needs and architectures of the digitized world.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Spyware Maker Is in Spotlight Amid Reports of Wide Abuses<a href="https://www.nytimes.com/2021/07/18/world/middleeast/israel-nso-pegasus-spyware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data leaked to a consortium of news organizations suggests that several countries use Pegasus, a powerful cyberespionage tool, to spy on rights activists, dissidents and journalists.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15 Yr-Old Linux Netfilter Bug Let Hackers Bypass All Security Mitigations<a href="https://gbhackers.com/15-year-old-linux-netfilter-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Information Security Engineer, Andy Nguyen has recently detected a 15-Year-Old Linux Netfilter vulnerability that allows any attackers to bypass all the modern security measures.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enea acquires AdaptiveMobile Security to strengthen its 5G network security portfolio<a href="https://www.helpnetsecurity.com/2021/07/19/adaptivemobile-security-enea/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AdaptiveMobile Security announced that it has been acquired by Enea. The firm will continue to deliver software and services for messaging and signaling security in mobile core networks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Uses DLL Sideloading<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/revil-ransomware-uses-dll-sideloading/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous REvil malware uses DLL side-loading to execute the ransomware code. This attack technique allows the attacker to execute malicious DLLs that spoof legitimate ones.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Inc. 5000 companies are the most vulnerable to cyberattacks<a href="https://cybernews.com/security/these-inc-5000-companies-are-the-most-vulnerable-to-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Such is the scale of the problem that recent data from Atlas VPN suggests that 34% of businesses in the UK are forced to close down after falling victim to a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google, Citizen Lab blow lid off zero-day bug-exploiting spyware sold to governments<a href="https://www.theregister.com/2021/07/16/microsoft_candiru_malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Citizen Lab, the spyware, code-named DevilsTongue by Microsoft, exploited at least a pair of zero-day holes in Windows to infect particular targets' machines.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Uncover Yet Another Unpatched Windows Printer Spooler Vulnerability<a href="https://thehackernews.com/2021/07/researcher-uncover-yet-another.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merely days after Microsoft sounded the alarm on an  unpatched security vulnerability  in the Windows Print Spooler service, yet another zero-day flaw in the same component has come to light, making it the fourth printer-related flaw to be discovered in recent weeks.  "Microsoft Windows allows for non-admin users to be able to install printer drivers via Point and Print," CERT Coordination Center's Will Dormann  said  in an advisory published Sunday. "Printers installed via this technique also install queue-specific files, which can be arbitrary libraries to be loaded by the privileged Windows Print Spooler process."   An exploit for the vulnerability was disclosed by security researcher and  Mimikatz creator   Benjamin Delpy .  #printnightmare  - Episode 4 You know what is better than a Legit Kiwi Printer ? 🥝Another Legit Kiwi Printer...👍 No prerequiste at all, you even don't need to sign drivers/package🤪 pic.twitter.com/oInb5jm3tE — 🥝 Benjamin Delpy (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Leak Reveals Abuse of Pegasus Spyware to Target Journalists Globally<a href="https://thehackernews.com/2021/07/new-leak-reveals-abuse-of-pegasus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sweeping probe into a data leak of more than 50,000 phone numbers has revealed an extensive misuse of Israeli company NSO Group's Pegasus "military-grade spyware" to facilitate human rights violations by surveilling heads of state, activists, journalists, and lawyers around the world.  Dubbed the " Pegasus Project ," the  investigation  is a collaboration by more than 80 journalists from a consortium of 17 media organizations in 10 countries coordinated by Forbidden Stories, a Paris-based media non-profit, along with the technical support of Amnesty International.  "The Pegasus Project lays bare how NSO's spyware is a weapon of choice for repressive governments seeking to silence journalists, attack activists and crush dissent, placing countless lives in peril," Amnesty International's Secretary-General, Agnès Callamard,  said .  "These revelations blow apart any claims by NSO that such attacks are rare and down to rogue use of their te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
