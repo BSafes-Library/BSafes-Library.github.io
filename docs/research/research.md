@@ -18,10 +18,22 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• A Study of Recidivism among Online Sexual Predators [HTML](vhttps://papers.bsafes.com/docs/sex/A-Study-of-Recidivism-among-Online-Sexual-Predators/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the development of internet communication platforms and social media, the online sexual predation of minors has affected as much as an estimated 19 percent of the undereighteen-years-old population.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• The Factors Involved in the Exit from Sex Trafficking - A Review [HTML](vhttps://papers.bsafes.com/docs/sex/the-factors-involvoed-in-the-exit-from-sex-trafficking-a-review/)
+• The Factors Involved in the Exit from Sex Trafficking - A Review [HTML](https://papers.bsafes.com/docs/sex/the-factors-involvoed-in-the-exit-from-sex-trafficking-a-review/)
 </p>
 <details>
   <summary>Abstract</summary>
