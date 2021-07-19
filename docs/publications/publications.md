@@ -6,6 +6,7 @@ nav_order: 500
 ---
 
 ## Publications
+* June 25, 2021, Definition of Critical Software Under Executive Order (EO) 14028 [[HTML](https://publications.bsafes.com/docs/nist/Definition-of-Critical-Software-Under-Executive-Order-(EO)-14028/)]
 * June 9, 2021, CISA Fact Sheet: Rising Ransomware Threat to OT Assets [[HTML](https://publications.bsafes.com/docs/cisa/rising-ransomware-threat-to-operational-technology-assets/)]
 * June 2021, Cybersecurity Framework Profile for Ransomware Risk Management [[HTML](https://publications.bsafes.com/docs/nist/cybersecurity-framework-profile-for-ransomware-risk-management/)]
 * June, 2021, Deploying Secure Unified Communications/Voice and Video over IP Systems, by NSA [[HTML](https://publications.bsafes.com/docs/nsa/deploying-secure-unified-communications-voice-and-video-over-ip-systems/)] 
