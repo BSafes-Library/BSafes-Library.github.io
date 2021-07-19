@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Uncover Yet Another Unpatched Windows Printer Spooler Vulnerability<a href="https://thehackernews.com/2021/07/researcher-uncover-yet-another.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merely days after Microsoft sounded the alarm on an  unpatched security vulnerability  in the Windows Print Spooler service, yet another zero-day flaw in the same component has come to light, making it the fourth printer-related flaw to be discovered in recent weeks.  "Microsoft Windows allows for non-admin users to be able to install printer drivers via Point and Print," CERT Coordination Center's Will Dormann  said  in an advisory published Sunday. "Printers installed via this technique also install queue-specific files, which can be arbitrary libraries to be loaded by the privileged Windows Print Spooler process."   An exploit for the vulnerability was disclosed by security researcher and  Mimikatz creator   Benjamin Delpy .  #printnightmare  - Episode 4 You know what is better than a Legit Kiwi Printer ? 🥝Another Legit Kiwi Printer...👍 No prerequiste at all, you even don't need to sign drivers/package🤪 pic.twitter.com/oInb5jm3tE — 🥝 Benjamin Delpy (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Leak Reveals Abuse of Pegasus Spyware to Target Journalists Globally<a href="https://thehackernews.com/2021/07/new-leak-reveals-abuse-of-pegasus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sweeping probe into a data leak of more than 50,000 phone numbers has revealed an extensive misuse of Israeli company NSO Group's Pegasus "military-grade spyware" to facilitate human rights violations by surveilling heads of state, activists, journalists, and lawyers around the world.  Dubbed the " Pegasus Project ," the  investigation  is a collaboration by more than 80 journalists from a consortium of 17 media organizations in 10 countries coordinated by Forbidden Stories, a Paris-based media non-profit, along with the technical support of Amnesty International.  "The Pegasus Project lays bare how NSO's spyware is a weapon of choice for repressive governments seeking to silence journalists, attack activists and crush dissent, placing countless lives in peril," Amnesty International's Secretary-General, Agnès Callamard,  said .  "These revelations blow apart any claims by NSO that such attacks are rare and down to rogue use of their te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
