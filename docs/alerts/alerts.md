@@ -6,6 +6,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2021 - DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigate Windows Print Spooler Service Vulnerability <a href="https://cyber.dhs.gov/ed/21-04/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has become aware of active exploitation, by multiple threat actors, of a vulnerability (CVE-2021-34527) in the Microsoft Windows Print Spooler service. Exploitation of the vulnerability allows an attacker to remotely execute code with system level privileges enabling a threat actor to quickly compromise the entire identity infrastructure of a targeted organization.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Statement on Kaseya Ransomware Attack <a href="https://www.fbi.gov/news/pressrel/press-releases/fbi-statement-on-kaseya-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is investigating this situation and working with Kaseya, in coordination with CISA, to conduct outreach to possibly impacted victims.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 2, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -1205,6 +1229,18 @@ MANAGING RISK FROM TRANSPORT LAYER SECURITY INSPECTION<a href="https://publicati
 <details>
   <summary>Abstract</summary>
 To protect enterprise data and intellectual property, network security administrators enforce encryption policies to secure traffic to and from their networks. However, adversaries also use encryption, often using it to hide their activities. Normally, these activities—like command and control, loading malware into a network, and exfiltration of sensitive data— would be detected by traffic inspection devices, but those devices typically cannot inspect encrypted traffic.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2019 - NSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI San Francisco Warns the Public of the Dangers of SIM Swapping <a href="https://www.fbi.gov/contact-us/field-offices/sanfrancisco/news/press-releases/fbi-san-francisco-warns-the-public-of-the-dangers-of-sim-swapping"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Francisco Division of the Federal Bureau of Investigation (FBI) is seeking to warn potential victims of SIM swapping. Criminal actors engage in SIM swapping for the purpose of gaining access to the victim’s digital currency accounts. Most of the individuals targeted are heavy investors in or early adopters of cryptocurrency.
 </details>
 </div>
 
