@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows print spooler zero day exploitable via remote print servers<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-print-spooler-zero-day-exploitable-via-remote-print-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another zero day vulnerability in Windows Print Spooler can give a threat actor administrative privileges on a Windows machine through a remote server under the attacker's control and the 'Queue-Specific Files' feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government issues new vulnerability disclosure regulations<a href="https://securityaffairs.co/wordpress/120269/laws-and-regulations/chinese-government-vulnerability-disclosure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberspace Administration of China (CAC) issued new vulnerability disclosure regulations that oblige experts to report zero-days to the government.
+
+
+
+The Cyberspace Administration of China (CAC) has issued a new exacerbated vulnerability disclosure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hits law firm counseling Fortune 500, Global 500 companies<a href="https://www.bleepingcomputer.com/news/security/ransomware-hits-law-firm-counseling-fortune-500-global-500-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Campbell Conroy & O'Neil, P.C. (Campbell), a US law firm counseling dozens of Fortune 500 and Global 500 companies, has disclosed a data breach following a February 2021 ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram implements ‘Security Checkup’ to help users recover compromised accounts<a href="https://securityaffairs.co/wordpress/120260/security/instagram-security-checkup.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram introduced a new security feature dubbed "Security Checkup" to help users to recover their accounts that have been compromised.
+
+
+
+Good news for the owners of Instagram accounts that may have been compromised, the company launched a new feature...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comparis customers targeted by scammers after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/comparis-customers-targeted-by-scammers-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading Swiss price comparison platform Comparis has notified customers of a data breach following a ransomware attack that hit and took down its entire network last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware gang targets vulnerable SonicWall devices<a href="https://securityaffairs.co/wordpress/120249/malware/hellokitty-ransomware-sonicwall-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer became aware that the recent wave of attacks targeting vulnerable SonicWall devices was carried out by HelloKitty ransomware operators.
+
+
+
+SonicWall this week has issued an urgent security alert to warn companies of “an imminent ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 323<a href="https://securityaffairs.co/wordpress/120254/breaking-news/security-affairs-newsletter-round-323.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Biden discussed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarBackdoor Uses New Obfuscation Tricks to Challenge Security<a href="https://cyware.com/news/bazarbackdoor-uses-new-obfuscation-tricks-to-challenge-security-369b4c0b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is delivering the BazarBackdoor malware and using the multi-compression method to hide the malware as an image file. This method tricks Secure Email Gateways (SEGs) into detecting malicious attachments as clean files.  This makes it a worrisome threat and requires continuou ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mespinoza Group Uses Unique Tools to Target Organizations<a href="https://cyware.com/news/mespinoza-group-uses-unique-tools-to-target-organizations-e0f37e52"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks provides details about the methods and tactics employed by the Mespinoza ransomware group that has been targeting multiple sectors across the globe with a focus on the education sector. The ransomware group carries out the initial access via public-facing RDP servers and prefers  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Thrives Again with Virtual Network Computing Module<a href="https://cyware.com/news/trickbot-thrives-again-with-virtual-network-computing-module-d432ed30"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Trickbot actors were found adding new Virtual Network Computing (VNC) module into its arsenal that helps an actor monitor high-profile targets and gathers intelligence from them. The frequent developments in Trickbot’s lifecycle and an accelerated rate of propagation highlight the actual  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware is targeting vulnerable SonicWall devices<a href="https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-is-targeting-vulnerable-sonicwall-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is warning of threat actors targeting "a known, previously patched, vulnerability" found in SonicWall Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products with end-of-life firmware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LuminousMoth - Another Chinese APT Targeting Asian Governments<a href="https://cyware.com/news/luminousmoth-another-chinese-apt-targeting-asian-governments-9065ccd0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky discovered an ongoing, large-scale APT campaign named LuminousMoth with hundreds of victims from Southeast Asia, including Myanmar and the Philippines government entities. The recent activities of the APT group indicate the wider interests of China-based hackers toward Southeast Asian gov ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

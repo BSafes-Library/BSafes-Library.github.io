@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows print spooler zero day exploitable via remote print servers<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-print-spooler-zero-day-exploitable-via-remote-print-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another zero day vulnerability in Windows Print Spooler can give a threat actor administrative privileges on a Windows machine through a remote server under the attacker's control and the 'Queue-Specific Files' feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government issues new vulnerability disclosure regulations<a href="https://securityaffairs.co/wordpress/120269/laws-and-regulations/chinese-government-vulnerability-disclosure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberspace Administration of China (CAC) issued new vulnerability disclosure regulations that oblige experts to report zero-days to the government.
+
+
+
+The Cyberspace Administration of China (CAC) has issued a new exacerbated vulnerability disclosure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

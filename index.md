@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows print spooler zero day exploitable via remote print servers<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-print-spooler-zero-day-exploitable-via-remote-print-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese government issues new vulnerability disclosure regulations<a href="https://securityaffairs.co/wordpress/120269/laws-and-regulations/chinese-government-vulnerability-disclosure.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware hits law firm counseling Fortune 500, Global 500 companies<a href="https://www.bleepingcomputer.com/news/security/ransomware-hits-law-firm-counseling-fortune-500-global-500-companies/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram implements ‘Security Checkup’ to help users recover compromised accounts<a href="https://securityaffairs.co/wordpress/120260/security/instagram-security-checkup.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comparis customers targeted by scammers after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/comparis-customers-targeted-by-scammers-after-ransomware-attack/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloKitty ransomware gang targets vulnerable SonicWall devices<a href="https://securityaffairs.co/wordpress/120249/malware/hellokitty-ransomware-sonicwall-devices.html"> Full Text</a>
@@ -142,7 +142,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 323<a href="https://securityaffairs.co/wordpress/120254/breaking-news/security-affairs-newsletter-round-323.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarBackdoor Uses New Obfuscation Tricks to Challenge Security<a href="https://cyware.com/news/bazarbackdoor-uses-new-obfuscation-tricks-to-challenge-security-369b4c0b"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mespinoza Group Uses Unique Tools to Target Organizations<a href="https://cyware.com/news/mespinoza-group-uses-unique-tools-to-target-organizations-e0f37e52"> Full Text</a>
@@ -200,7 +200,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Thrives Again with Virtual Network Computing Module<a href="https://cyware.com/news/trickbot-thrives-again-with-virtual-network-computing-module-d432ed30"> Full Text</a>
@@ -217,7 +217,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloKitty ransomware is targeting vulnerable SonicWall devices<a href="https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-is-targeting-vulnerable-sonicwall-devices/"> Full Text</a>
@@ -233,7 +233,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2021
+July 17, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LuminousMoth - Another Chinese APT Targeting Asian Governments<a href="https://cyware.com/news/luminousmoth-another-chinese-apt-targeting-asian-governments-9065ccd0"> Full Text</a>

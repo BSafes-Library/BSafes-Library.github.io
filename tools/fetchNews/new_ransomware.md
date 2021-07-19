@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware is targeting vulnerable SonicWall devices<a href="https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-is-targeting-vulnerable-sonicwall-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is warning of threat actors targeting "a known, previously patched, vulnerability" found in&nbsp;SonicWall Secure Mobile Access (SMA) 100 series and Secure Remote Access (SRA) products with end-of-life firmware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

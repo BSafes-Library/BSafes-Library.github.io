@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+July 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram implements ‘Security Checkup’ to help users recover compromised accounts<a href="https://securityaffairs.co/wordpress/120260/security/instagram-security-checkup.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram introduced a new security feature dubbed "Security Checkup" to help users to recover their accounts that have been compromised.
+
+
+
+Good news for the owners of Instagram accounts that may have been compromised, the company launched a new feature...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
