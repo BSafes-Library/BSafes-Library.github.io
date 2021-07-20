@@ -37,6 +37,420 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo's new email privacy service forwards tracker-free messages<a href="https://www.bleepingcomputer.com/news/security/duckduckgos-new-email-privacy-service-forwards-tracker-free-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo is rolling out an email privacy feature that strips incoming messages of trackers that can help profile you for better profiling and ad targeting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Flaws Ubiquitous in Active Attack Campaigns<a href="https://cyware.com/news/zero-day-flaws-ubiquitous-in-active-attack-campaigns-b1ed1e5c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google discovered four zero-day vulnerabilities existing in popular web browsers such as Chrome, Safari, and Internet Explorer. State-sponsored threat groups were observed exploiting these flaws in separate campaigns. Today, nation-state cybercriminals appear more interested in finding and exploiti ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies say dozens of pipeline companies breached by Chinese hackers in 2011<a href="https://thehill.com//policy/cybersecurity/563890-federal-agencies-say-dozens-of-pipeline-companies-breached-by-chinese"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the Cybersecurity and Infrastructure Security Agency (CISA) disclosed Tuesday that multiple U.S. natural gas and oil pipeline companies were successfully breached by Chinese hackers for two years beginning in 2011. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16-Year-Old Security Bug Affects Millions of HP, Samsung, Xerox Printers<a href="https://thehackernews.com/2021/07/16-year-old-security-bug-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a high severity security vulnerability affecting a software driver used in HP, Xerox, and Samsung printers that has remained undetected since 2005.  Tracked as  CVE-2021-3438  (CVSS score: 8.8), the issue concerns a buffer overflow in a print driver installer package named "SSPORT.SYS" that can enable remote privilege and arbitrary code execution. Hundreds of millions of printers have been released worldwide to date with the vulnerable driver in question.  However, there is no evidence that the flaw was abused in real-world attacks.   "A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege," according to an advisory published in May.  The issue was reported to HP by threat intelligence researchers from SentinelLabs on February 18, 2021, following which  remedies  have been  published  for the affected printers as of May 19, 2021.   Specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A 16-year-old bug (CVE-2021-3438) in printer driver affects millions of printers worldwide<a href="https://securityaffairs.co/wordpress/120358/security/cve-2021-3438-printer-driver-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a 16-year-old vulnerability (CVE-2021-3438) in an HP, Xerox, and Samsung printers driver that an attacker could exploit to gain admin rights on systems.
+
+
+
+Researchers from SentinelOne discovered a 16-year-old security vulnerability in an HP, Xerox,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers: NSO Group’s Pegasus Spyware Should Spark Bans, Apple Accountability<a href="https://threatpost.com/nso-pegasus-spyware-bans-apple-accountability/167965/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Our roundtable of experts weighs in on implications for Apple and lawmakers in the wake of the bombshell report showing widespread surveillance of dissidents, journalists and others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux kernel bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/new-linux-kernel-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unprivileged attackers can gain root privileges by exploiting a local privilege escalation (LPE) vulnerability in default configurations of the Linux Kernel's filesystem layer on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the Top Favorite CVEs of Cybercriminals<a href="https://cyware.com/news/these-are-the-top-favorite-cves-of-cybercriminals-9e56fe87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of criminal forums, where experts studied 15 cybercrime forums from January 2020 to March 2021, reveals attackers' top favorite CVEs. As per them, most of the discovered CVEs were exploited by nation-state hackers and cybercriminals. At the least, organizations must locate these flaws a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peters launches bipartisan investigation into increasing ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563882-peters-launches-bipartisan-investigation-into-increasing-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Homeland Security and Governmental Affairs Committee Chairman Gary Peters (D-Mich.) on Tuesday announced the launch of a bipartisan investigation into the recent string of debilitating ransomware attacks against U.S. companies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Malware Hides Itself Among Windows Defender Exclusions to Evade Detection<a href="https://thehackernews.com/2021/07/this-new-malware-hides-itself-among.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday lifted the lid on a previously undocumented malware strain dubbed " MosaicLoader " that singles out individuals searching for cracked software as part of a global campaign.  "The attackers behind MosaicLoader created a piece of malware that can deliver any payload on the system, making it potentially profitable as a delivery service," Bitdefender researchers said in a  report  shared with The Hacker News. "The malware arrives on target systems by posing as cracked installers. It downloads a malware sprayer that obtains a list of URLs from the C2 server and downloads the payloads from the received links."   The malware has been so named because of its sophisticated internal structure that's orchestrated to prevent reverse-engineering and evade analysis.  Attacks involving MosaicLoader rely on a well-established tactic for malware delivery called search engine optimization (SEO) poisoning, wherein cybercriminals purc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in Fortinet FortiManager and FortiAnalyzer allows unauthenticated hackers to run code as root<a href="https://securityaffairs.co/wordpress/120350/security/fortinet-fortimanager-fortianalyzer-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet fixes a serious bug in its FortiManager and FortiAnalyzer network management solutions that could be exploited to execute arbitrary code as root.
+
+
+
+Fortinet has released security updates to address a serious bug, tracked as CVE-2021-32589,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Your Business Needs a Long-Term Remote Security Strategy<a href="https://threatpost.com/business-long-term-remote-security-strategy/167950/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chris Hass, director of information security and research at Automox, discusses the future of work: A hybrid home/office model that will demand new security approaches.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Threat actors may be targeting the 2020 Tokyo Summer Olympics<a href="https://www.bleepingcomputer.com/news/security/fbi-threat-actors-may-be-targeting-the-2020-tokyo-summer-olympics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of threat actors potentially targeting the upcoming Olympic Games, although evidence of attacks planned against the Olympic Games Tokyo 2020 is yet to be uncovered.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 Years In Hiding – Millions of Printers Worldwide Vulnerable by Newly Discovered Flaw<a href="https://labs.sentinelone.com/cve-2021-3438-16-years-in-hiding-millions-of-printers-worldwide-vulnerable/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs has discovered a high severity flaw in HP, Samsung, and Xerox printer drivers. Since 2005 HP, Samsung, and Xerox have released millions of printers worldwide with the vulnerable driver.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA issues second security directive to secure pipelines against cyberattacks<a href="https://thehill.com//policy/cybersecurity/563843-tsa-issues-second-security-directive-to-secure-pipelines-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) on Tuesday issued a second security directive meant to strengthen critical pipelines against cyberattacks in the wake of the crippling ransomware attack on Colonial Pipeline earlier this year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft secured court order to take down domains used in BEC campaign<a href="https://securityaffairs.co/wordpress/120334/cyber-crime/microsoft-bec-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has seized 17 malicious homoglyph domains used by crooks in a business email compromise (BEC) campaign targeting its users.
+
+
+
+Microsoft's Digital Crimes Unit (DCU) has seized 17 domains that were used by scammers in a business...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Security Paradigm: External Attack Surface Management<a href="https://threatpost.com/external-attack-surface-management/167732/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced EASM solutions are crucial to automating the discovery of the downstream third-party (or fourth-party, or fifth-party, etc.) IT infrastructures that your organization is exposed to, and may be vulnerable to attack, posing a critical risk for your organization.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16-year-old bug in printer software gives hackers admin rights<a href="https://www.bleepingcomputer.com/news/security/16-year-old-bug-in-printer-software-gives-hackers-admin-rights/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 16-year-old security vulnerability found in HP, Xerox, and Samsung printers drivers allows attackers to gain admin rights on systems using the vulnerable driver software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 Heads of State and Governments Including Emmanuel Macron, Imran Khan, and Cyril Ramaphosa Among Those Targeted with Pegasus<a href="https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per The Guardian, the leaked database at the heart of the Pegasus project includes the mobile phone numbers of the French president, Emmanuel Macron, and 13 other heads of state and heads of government.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes bug letting unauthenticated hackers run code as root<a href="https://www.bleepingcomputer.com/news/security/fortinet-fixes-bug-letting-unauthenticated-hackers-run-code-as-root/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released updates for its FortiManager and FortiAnalyzer network management solutions to fix a serious vulnerability that could be exploited to execute arbitrary code with the highest privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How China Transformed Into a Prime Cyber Threat to the U.S.<a href="https://www.nytimes.com/2021/07/19/technology/china-hacking-us.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent attacks for which the U.S. accused China were highly aggressive, and they reveal that China has transformed into a far more sophisticated and mature cyber adversary than a decade ago.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Spies Caught by Facebook<a href="https://cyware.com/news/iranian-spies-caught-by-facebook-a0200e50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook revealed that it tracked and partly disrupted a cyber espionage campaign launched by Iranian hackers, collectively known as Tortoiseshell or Imperial Kitten.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online gamer spills classified docs in effort to win online argument<a href="https://www.theregister.com/2021/07/19/war_thunder_classified_tank_docs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A user of the Hungary-based game developer Gaijin Entertainment's combat simulator War Thunder tried to win an online argument by sharing classified documents in the company's game forums.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Supply Chain Attacks and What is Being Done to Counter Them<a href="https://cyware.com/news/software-supply-chain-attacks-and-what-is-being-done-to-counter-them-e3791357"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the growing use of technology in business processes, security concerns keep piling up. The same goes for the security of supply chains, especially after the devastating SolarWinds attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fighting an emerging cybercrime trend involving imposter domains<a href="https://blogs.microsoft.com/on-the-issues/2021/07/19/cybercrime-homoglyphs-dcu-court-order/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 16, Microsoft’s Digital Crimes Unit (DCU) again secured a court order to take down malicious infrastructure used by cybercriminals to target users of the Office 365 suite.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lake County Health Department announces two data breaches impacting nearly 25,000 patients<a href="https://www.lakemchenryscanner.com/2021/07/18/lake-county-health-department-announces-two-data-breaches-impacting-nearly-25000-patients/?&web_view=true"> Full Text</a>
 </p>
 <details>
