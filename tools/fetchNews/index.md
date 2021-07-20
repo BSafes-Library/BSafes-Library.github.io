@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFiDemon – Recently discovered iPhone Wi-Fi bug could also allow RCE<a href="https://securityaffairs.co/wordpress/120325/hacking/wifidemon-ios-wi-fi-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered iPhone Wi-Fi bug that could crash the WiFi connectivity could be exploited by attackers to achieve remote code execution.
+
+
+
+In June, the researcher Carl Schou discovered a new bug in iPhone that can permanently break users’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
