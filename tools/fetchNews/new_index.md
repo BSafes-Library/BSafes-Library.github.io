@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lake County Health Department announces two data breaches impacting nearly 25,000 patients<a href="https://www.lakemchenryscanner.com/2021/07/18/lake-county-health-department-announces-two-data-breaches-impacting-nearly-25000-patients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jefferson McMillan-Wilhoit, the Chief Health Informatics and Technology Officer for the Lake County Health Department, said the first breach was discovered on July 22, 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Lake & Mchenry County Scanner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New MosaicLoader malware targets software pirates via online ads<a href="https://www.bleepingcomputer.com/news/security/new-mosaicloader-malware-targets-software-pirates-via-online-ads/"> Full Text</a>
 </p>
 <details>
