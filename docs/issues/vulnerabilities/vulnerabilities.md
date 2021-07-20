@@ -8,6 +8,145 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Flaws Ubiquitous in Active Attack Campaigns<a href="https://cyware.com/news/zero-day-flaws-ubiquitous-in-active-attack-campaigns-b1ed1e5c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google discovered four zero-day vulnerabilities existing in popular web browsers such as Chrome, Safari, and Internet Explorer. State-sponsored threat groups were observed exploiting these flaws in separate campaigns. Today, nation-state cybercriminals appear more interested in finding and exploiti ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16-Year-Old Security Bug Affects Millions of HP, Samsung, Xerox Printers<a href="https://thehackernews.com/2021/07/16-year-old-security-bug-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a high severity security vulnerability affecting a software driver used in HP, Xerox, and Samsung printers that has remained undetected since 2005.  Tracked as&nbsp; CVE-2021-3438 &nbsp;(CVSS score: 8.8), the issue concerns a buffer overflow in a print driver installer package named "SSPORT.SYS" that can enable remote privilege and arbitrary code execution. Hundreds of millions of printers have been released worldwide to date with the vulnerable driver in question.  However, there is no evidence that the flaw was abused in real-world attacks.   "A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege," according to an advisory published in May.  The issue was reported to HP by threat intelligence researchers from SentinelLabs on February 18, 2021, following which&nbsp; remedies &nbsp;have been&nbsp; published &nbsp;for the affected printers as of May 19, 2021.   Specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A 16-year-old bug (CVE-2021-3438) in printer driver affects millions of printers worldwide<a href="https://securityaffairs.co/wordpress/120358/security/cve-2021-3438-printer-driver-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a 16-year-old vulnerability (CVE-2021-3438) in an HP, Xerox, and Samsung printers driver that an attacker could exploit to gain admin rights on systems.
+
+
+
+Researchers from SentinelOne discovered a 16-year-old security vulnerability in an HP, Xerox,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux kernel bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/new-linux-kernel-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unprivileged attackers can gain root privileges by exploiting a local privilege escalation (LPE) vulnerability in default configurations of the Linux Kernel's filesystem layer on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in Fortinet FortiManager and FortiAnalyzer allows unauthenticated hackers to run code as root<a href="https://securityaffairs.co/wordpress/120350/security/fortinet-fortimanager-fortianalyzer-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet fixes a serious bug in its FortiManager and FortiAnalyzer network management solutions that could be exploited to execute arbitrary code as root.
+
+
+
+Fortinet has released security updates to address a serious bug, tracked as CVE-2021-32589,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 Years In Hiding – Millions of Printers Worldwide Vulnerable by Newly Discovered Flaw<a href="https://labs.sentinelone.com/cve-2021-3438-16-years-in-hiding-millions-of-printers-worldwide-vulnerable/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs has discovered a high severity flaw in HP, Samsung, and Xerox printer drivers. Since 2005 HP, Samsung, and Xerox have released millions of printers worldwide with the vulnerable driver.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16-year-old bug in printer software gives hackers admin rights<a href="https://www.bleepingcomputer.com/news/security/16-year-old-bug-in-printer-software-gives-hackers-admin-rights/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 16-year-old security vulnerability found in HP, Xerox, and Samsung printers drivers allows attackers to gain admin rights on systems using the vulnerable&nbsp;driver software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes bug letting unauthenticated hackers run code as root<a href="https://www.bleepingcomputer.com/news/security/fortinet-fixes-bug-letting-unauthenticated-hackers-run-code-as-root/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released updates for its FortiManager and FortiAnalyzer network management solutions to fix a serious vulnerability that could be exploited to execute arbitrary code with the highest privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFiDemon – Recently discovered iPhone Wi-Fi bug could also allow RCE<a href="https://securityaffairs.co/wordpress/120325/hacking/wifidemon-ios-wi-fi-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered iPhone Wi-Fi bug that could crash the WiFi connectivity could be exploited by attackers to achieve remote code execution.
+
+
+
+In June, the researcher&nbsp;Carl Schou&nbsp;discovered a new bug in iPhone that can permanently break users’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

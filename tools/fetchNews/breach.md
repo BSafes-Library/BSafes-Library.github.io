@@ -11,6 +11,24 @@ nav_order: 900029
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat actor claims to have stolen 1 TB of data belonging to Saudi Aramco<a href="https://securityaffairs.co/wordpress/120301/data-breach/saudi-aramco-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker claims to have stolen 1 TB of sensitive data from the Saudi Arabian petroleum and natural gas giant, Saudi Aramco.
+
+
+
+Threat actors that goes online with the moniker ZeroX&nbsp; claim to have stolen 1 TB of sensitive data from the Saudi Arabian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Saudi Aramco data breach sees 1 TB stolen data for sale<a href="https://www.bleepingcomputer.com/news/security/saudi-aramco-data-breach-sees-1-tb-stolen-data-for-sale/"> Full Text</a>
 </p>
 <details>

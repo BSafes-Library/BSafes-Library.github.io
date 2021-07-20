@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Linux Cryptojacking Attackers Operating from Romania<a href="https://thehackernews.com/2021/07/researchers-warn-of-linux-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group likely based in Romania and active since at least 2020 has been behind an active cryptojacking campaign targeting Linux-based machines with a previously undocumented SSH brute-forcer written in Golang.  Dubbed " Diicot brute ," the password cracking tool is alleged to be distributed via a software-as-a-service model, with each threat actor furnishing their own unique API keys to facilitate the intrusions, Bitdefender researchers said in a report published last week.   While the goal of the campaign is to deploy Monero mining malware by remotely compromising the devices via brute-force attacks, the researchers connected the gang to at least two&nbsp; DDoS &nbsp;botnets, including a&nbsp; Demonbot &nbsp;variant called chernobyl and a Perl&nbsp; IRC bot , with the XMRig mining payload hosted on a domain named mexalz[.]us since February 2021.   The Romanian cybersecurity technology company said it began its investigation into the group's cyber activities in May 2021, leading to the su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

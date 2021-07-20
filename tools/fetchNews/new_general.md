@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Your Business Needs a Long-Term Remote Security Strategy<a href="https://threatpost.com/business-long-term-remote-security-strategy/167950/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chris Hass, director of information security and research at Automox, discusses the future of work: A hybrid home/office model that will demand new security approaches.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA issues second security directive to secure pipelines against cyberattacks<a href="https://thehill.com//policy/cybersecurity/563843-tsa-issues-second-security-directive-to-secure-pipelines-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security&nbsp;Administration (TSA) on Tuesday issued a second security directive meant to strengthen critical pipelines against cyberattacks in the wake of the crippling ransomware attack on Colonial Pipeline earlier this year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Security Paradigm: External Attack Surface Management<a href="https://threatpost.com/external-attack-surface-management/167732/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced EASM solutions are crucial to automating the discovery of the downstream third-party (or fourth-party, or fifth-party, etc.) IT infrastructures that your organization is exposed to, and may be vulnerable to attack, posing a critical risk for your organization.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How China Transformed Into a Prime Cyber Threat to the U.S.<a href="https://www.nytimes.com/2021/07/19/technology/china-hacking-us.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent attacks for which the U.S. accused China were highly aggressive, and they reveal that China has transformed into a far more sophisticated and mature cyber adversary than a decade ago.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Supply Chain Attacks and What is Being Done to Counter Them<a href="https://cyware.com/news/software-supply-chain-attacks-and-what-is-being-done-to-counter-them-e3791357"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the growing use of technology in business processes, security concerns keep piling up. The same goes for the security of supply chains, especially after the devastating SolarWinds attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fighting an emerging cybercrime trend involving imposter domains<a href="https://blogs.microsoft.com/on-the-issues/2021/07/19/cybercrime-homoglyphs-dcu-court-order/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 16, Microsoft’s Digital Crimes Unit (DCU) again secured a court order to take down malicious infrastructure used by cybercriminals to target users of the Office 365 suite.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

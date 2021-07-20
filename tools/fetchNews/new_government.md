@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peters launches bipartisan investigation into increasing ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563882-peters-launches-bipartisan-investigation-into-increasing-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Homeland Security and Governmental Affairs Committee Chairman Gary Peters (D-Mich.) on Tuesday announced the launch of a bipartisan investigation into the recent string of debilitating ransomware attacks against U.S. companies.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Threat actors may be targeting the 2020 Tokyo Summer Olympics<a href="https://www.bleepingcomputer.com/news/security/fbi-threat-actors-may-be-targeting-the-2020-tokyo-summer-olympics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of threat actors potentially targeting the upcoming Olympic Games, although evidence of attacks planned against the Olympic Games Tokyo 2020 is yet to be uncovered.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Spies Caught by Facebook<a href="https://cyware.com/news/iranian-spies-caught-by-facebook-a0200e50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook revealed that it tracked and partly disrupted a cyber espionage campaign launched by Iranian hackers, collectively known as Tortoiseshell or Imperial Kitten.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

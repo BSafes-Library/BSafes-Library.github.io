@@ -11,6 +11,20 @@ nav_order: 900080
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers blamed for breach of Norwegian parliament email accounts<a href="https://thehill.com//policy/cybersecurity/563776-chinese-hackers-blamed-for-breach-of-norwegian-parliament-email-accounts"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Norwegian government on Monday formally attributed a breach of email accounts associated with the Norwegian parliament, or the Storting, earlier this year to Chinese hackers involved in the exploitation of vulnerabilities in Microsoft’s Exchange Server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 India: Hackers use ransomware to target techies, demand cryptocurrency<a href="https://ciso.economictimes.indiatimes.com/news/hackers-use-ransomware-to-target-techies-demand-cryptocurrency/84541322?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

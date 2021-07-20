@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft secured court order to take down domains used in BEC campaign<a href="https://securityaffairs.co/wordpress/120334/cyber-crime/microsoft-bec-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has seized 17 malicious&nbsp;homoglyph domains used by crooks in a&nbsp;business email compromise (BEC) campaign targeting its users.
+
+
+
+Microsoft's Digital Crimes Unit (DCU)&nbsp;has seized 17 domains that were used by scammers in a&nbsp;business...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies say dozens of pipeline companies breached by Chinese hackers in 2011<a href="https://thehill.com//policy/cybersecurity/563890-federal-agencies-say-dozens-of-pipeline-companies-breached-by-chinese"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the Cybersecurity and Infrastructure Security Agency (CISA) disclosed Tuesday that multiple U.S. natural gas and oil pipeline companies were successfully breached by Chinese hackers for two years beginning in 2011.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online gamer spills classified docs in effort to win online argument<a href="https://www.theregister.com/2021/07/19/war_thunder_classified_tank_docs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A user of the Hungary-based game developer Gaijin Entertainment's combat simulator War Thunder tried to win an online argument by sharing classified documents in the company's game forums.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lake County Health Department announces two data breaches impacting nearly 25,000 patients<a href="https://www.lakemchenryscanner.com/2021/07/18/lake-county-health-department-announces-two-data-breaches-impacting-nearly-25000-patients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jefferson McMillan-Wilhoit, the Chief Health Informatics and Technology Officer for the Lake County Health Department, said the first breach was discovered on July 22, 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Lake &amp; Mchenry County Scanner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
