@@ -37,6 +37,308 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft takes down domains used to scam Office 365 users<a href="https://www.bleepingcomputer.com/news/security/microsoft-takes-down-domains-used-to-scam-office-365-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU) has seized 17 malicious domains used by scammers in a business email compromise (BEC) campaign targeting the company's customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Services Targeted, Work from Home to be Blamed<a href="https://cyware.com/news/financial-services-targeted-work-from-home-to-be-blamed-e0b9fb3a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reliance on a handful of third parties can lead to a single failure point with possible adverse outcomes for financial firms. Moreover, this concentration risk has reportedly increased during the pandemic era.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers blamed for breach of Norwegian parliament email accounts<a href="https://thehill.com//policy/cybersecurity/563776-chinese-hackers-blamed-for-breach-of-norwegian-parliament-email-accounts"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Norwegian government on Monday formally attributed a breach of email accounts associated with the Norwegian parliament, or the Storting, earlier this year to Chinese hackers involved in the exploitation of vulnerabilities in Microsoft’s Exchange Server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Linux Cryptojacking Attackers Operating from Romania<a href="https://thehackernews.com/2021/07/researchers-warn-of-linux-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group likely based in Romania and active since at least 2020 has been behind an active cryptojacking campaign targeting Linux-based machines with a previously undocumented SSH brute-forcer written in Golang.  Dubbed " Diicot brute ," the password cracking tool is alleged to be distributed via a software-as-a-service model, with each threat actor furnishing their own unique API keys to facilitate the intrusions, Bitdefender researchers said in a report published last week.   While the goal of the campaign is to deploy Monero mining malware by remotely compromising the devices via brute-force attacks, the researchers connected the gang to at least two  DDoS  botnets, including a  Demonbot  variant called chernobyl and a Perl  IRC bot , with the XMRig mining payload hosted on a domain named mexalz[.]us since February 2021.   The Romanian cybersecurity technology company said it began its investigation into the group's cyber activities in May 2021, leading to the su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Charges Four Chinese Nationals Working for Global Intrusion Campaign<a href="https://www.lawfareblog.com/justice-department-charges-four-chinese-nationals-working-global-intrusion-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 16, the Department of Justice unsealed a grand jury indictment
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ indicts four members of China-linked APT40 cyberespionage group<a href="https://securityaffairs.co/wordpress/120316/apt/doj-members-apt40.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US DoJ indicted four members of the China-linked cyberespionage group known as APT40 for hacking various entities between 2011 and 2018.
+
+
+
+The U.S. Justice Department (DoJ) indicted four members of the China-linked cyber espionage group APT40 (aka TEMP.Periscope, TEMP.Jumper,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Next for REvil’s Victims? <a href="https://threatpost.com/whats-next-revil-victims/167926/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Podcast: Nothing, says a ransomware negotiator who has tips on staying out of the sad subset of victims left in the lurch, mid-negotiation, after REvil’s servers went up in smoke.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts members of Chinese-backed hacking group APT40<a href="https://www.bleepingcomputer.com/news/security/us-indicts-members-of-chinese-backed-hacking-group-apt40/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the US Department of Justice (DOJ) indicted four members of the Chinese state-sponsored hacking group known as APT40 for hacking various companies, universities, and government entities in the US and worldwide between 2011 and 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Ransomware Gangs Use VMs to Obscure Attacks<a href="https://cyware.com/news/more-ransomware-gangs-use-vms-to-obscure-attacks-72bf3306"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators are continually refining their tactics in a bid to evade detection. This has led to a growing number of attackers relying on Virtual Machines (VMs) to run their ransomware payloads on compromised computers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US, allies blame China for Microsoft Exchange Server hack | Biden walks back criticism of Facebook COVID-19 misinformation<a href="https://thehill.com//policy/cybersecurity/overnights/563780-hillicon-valley-us-allies-blame-china-for-microsoft-exchange"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration, along with a coalition of allied nations, took a major coordinated step in calling out China for its behavior in cyberspace, formally attributing the Microsoft Exchange Server attack to Chinese-linked hackers. The move is likely to increase tensions between the two nations, which have been high under both the Trump and now Biden administrations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclose critical flaws in Advantech router monitoring tool<a href="https://securityaffairs.co/wordpress/120307/iot/advantech-router-monitoring-tool-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos experts disclose details of several critical flaws in a router monitoring application developed by industrial and IoT firm Advantech.
+
+
+
+Cisco Talos researchers discovered multiple critical vulnerabilities in the R-SeeNet application developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan Striking Harder, Targeting More European Banks<a href="https://cyware.com/news/teabot-trojan-striking-harder-targeting-more-european-banks-5704aa3c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prodaft researchers are warning of Android banking botnet dubbed Teabot or Anasta that has been targeting the customers of 60 banks in Europe and is growing rapidly. Moreover, the inclusion of several sophisticated tricks such as targeting crypto wallets and abusing Accessibility Services makes it  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden opens new cyber fight with China<a href="https://thehill.com//policy/technology/563777-biden-opens-new-cyber-battle-with-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden is putting new pressure on China by publicly attributing the wide-ranging Microsoft Exchange Server cyberattack to hackers affiliated with Beijing.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor claims to have stolen 1 TB of data belonging to Saudi Aramco<a href="https://securityaffairs.co/wordpress/120301/data-breach/saudi-aramco-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker claims to have stolen 1 TB of sensitive data from the Saudi Arabian petroleum and natural gas giant, Saudi Aramco.
+
+
+
+Threat actors that goes online with the moniker ZeroX  claim to have stolen 1 TB of sensitive data from the Saudi Arabian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty Joins the Race of Ransomware Targeting VMware ESXi Servers<a href="https://cyware.com/news/hellokitty-joins-the-race-of-ransomware-targeting-vmware-esxi-servers-16742935"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty ransomware actors were spotted leveraging a Linux variant to target VMware’s ESXi servers and virtual machines running on the platform. The notorious ransomware gang gained popularity after targeting the Polish gaming firm CD Projekt. Organizations using such servers should implement hig ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware targeted Khashoggi's wife before his death: report<a href="https://thehill.com//policy/cybersecurity/563731-spyware-targeted-khashoggis-wife-before-his-death-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hanan Elatr, the wife of slain Saudi journalist Jamal Khashoggi, was targeted by the Israeli tech firm NSO Group’s Pegasus spyware just months before he was killed in 2018, The Washington Post reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House formally blames China’s Ministry of State Security for Microsoft Exchange Hack<a href="https://therecord.media/white-house-formally-blames-chinas-ministry-of-state-security-for-microsoft-exchange-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and a coalition of allies on Monday formally attributed the sweeping campaign against Microsoft Exchange email servers to hackers affiliated with China’s Ministry of State Security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of organizations are ineffective at countering phishing and ransomware threats<a href="https://www.helpnetsecurity.com/2021/07/19/countering-phishing-and-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Half of US organizations are not effective at countering phishing and ransomware threats, a recent study by Osterman Research involving professionals from mid-sized and large organizations revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Saudi Aramco data breach sees 1 TB stolen data for sale<a href="https://www.bleepingcomputer.com/news/security/saudi-aramco-data-breach-sees-1-tb-stolen-data-for-sale/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +352,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Storage Misconfiguration at Artwork Archive Exposed Over 420GB User Data<a href="https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/?&web_view=true"> Full Text</a>
@@ -66,7 +368,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, allies blame China-linked hackers for Microsoft Exchange breach<a href="https://thehill.com//homenews/administration/563622-us-allies-blame-china-linked-hackers-for-microsoft-exchange-breach"> Full Text</a>
@@ -82,7 +384,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turns Out That Low-Risk iOS Wi-Fi Naming Bug Can Hack iPhones Remotely<a href="https://thehackernews.com/2021/07/turns-out-that-low-risk-ios-wi-fi.html"> Full Text</a>
@@ -98,7 +400,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Project – how governments use Pegasus spyware against journalists<a href="https://securityaffairs.co/wordpress/120291/malware/pegasus-project-nso-pegasus-spywar.html"> Full Text</a>
@@ -118,7 +420,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US and allies officially accuse China of Microsoft Exchange attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-allies-officially-accuse-china-of-microsoft-exchange-attacks/"> Full Text</a>
@@ -134,7 +436,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Hackers use ransomware to target techies, demand cryptocurrency<a href="https://ciso.economictimes.indiatimes.com/news/hackers-use-ransomware-to-target-techies-demand-cryptocurrency/84541322?&web_view=true"> Full Text</a>
@@ -150,7 +452,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://thehackernews.com/2021/07/five-critical-password-security-rules.html"> Full Text</a>
@@ -166,7 +468,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts show how to bypass Windows Hello feature to login on Windows 10 PCs<a href="https://securityaffairs.co/wordpress/120278/hacking/windows-hello-bypass.html"> Full Text</a>
@@ -186,7 +488,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iPhones running latest iOS hacked to deploy NSO Group spyware<a href="https://www.bleepingcomputer.com/news/security/iphones-running-latest-ios-hacked-to-deploy-nso-group-spyware/"> Full Text</a>
@@ -202,7 +504,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Application security tools ineffective against new and growing threats<a href="https://www.helpnetsecurity.com/2021/07/19/ineffective-application-security-tools/?&web_view=true"> Full Text</a>
@@ -218,7 +520,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Spyware Maker Is in Spotlight Amid Reports of Wide Abuses<a href="https://www.nytimes.com/2021/07/18/world/middleeast/israel-nso-pegasus-spyware.html?&web_view=true"> Full Text</a>
@@ -234,7 +536,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15 Yr-Old Linux Netfilter Bug Let Hackers Bypass All Security Mitigations<a href="https://gbhackers.com/15-year-old-linux-netfilter-vulnerability/?&web_view=true"> Full Text</a>
@@ -250,7 +552,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enea acquires AdaptiveMobile Security to strengthen its 5G network security portfolio<a href="https://www.helpnetsecurity.com/2021/07/19/adaptivemobile-security-enea/?&web_view=true"> Full Text</a>
@@ -266,7 +568,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Uses DLL Sideloading<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/revil-ransomware-uses-dll-sideloading/?&web_view=true"> Full Text</a>
@@ -282,7 +584,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These Inc. 5000 companies are the most vulnerable to cyberattacks<a href="https://cybernews.com/security/these-inc-5000-companies-are-the-most-vulnerable-to-cyberattacks/?&web_view=true"> Full Text</a>
@@ -298,7 +600,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Google, Citizen Lab blow lid off zero-day bug-exploiting spyware sold to governments<a href="https://www.theregister.com/2021/07/16/microsoft_candiru_malware/?&web_view=true"> Full Text</a>
@@ -314,7 +616,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Uncover Yet Another Unpatched Windows Printer Spooler Vulnerability<a href="https://thehackernews.com/2021/07/researcher-uncover-yet-another.html"> Full Text</a>
@@ -330,7 +632,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2021
+July 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Leak Reveals Abuse of Pegasus Spyware to Target Journalists Globally<a href="https://thehackernews.com/2021/07/new-leak-reveals-abuse-of-pegasus.html"> Full Text</a>
