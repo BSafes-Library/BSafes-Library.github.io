@@ -11,6 +11,48 @@ nav_order: 900072
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Financial Services Targeted, Work from Home to be Blamed<a href="https://cyware.com/news/financial-services-targeted-work-from-home-to-be-blamed-e0b9fb3a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reliance on a handful of third parties can lead to a single failure point with possible adverse outcomes for financial firms. Moreover, this concentration risk has reportedly increased during the pandemic era.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US, allies blame China for Microsoft Exchange Server hack | Biden walks back criticism of Facebook COVID-19 misinformation<a href="https://thehill.com//policy/cybersecurity/overnights/563780-hillicon-valley-us-allies-blame-china-for-microsoft-exchange"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration, along with a coalition of allied nations, took a major coordinated step in calling out China for its behavior in cyberspace, formally attributing the Microsoft Exchange Server attack to Chinese-linked hackers. The move is likely to increase tensions between the two nations, which have been high under both the Trump and now Biden administrations.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Half of organizations are ineffective at countering phishing and ransomware threats<a href="https://www.helpnetsecurity.com/2021/07/19/countering-phishing-and-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Half of US organizations are not effective at countering phishing and ransomware threats, a recent study by Osterman Research involving professionals from mid-sized and large organizations revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://thehackernews.com/2021/07/five-critical-password-security-rules.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Charges Four Chinese Nationals Working for Global Intrusion Campaign<a href="https://www.lawfareblog.com/justice-department-charges-four-chinese-nationals-working-global-intrusion-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 16, the Department of Justice unsealed a grand jury indictment
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Ransomware Gangs Use VMs to Obscure Attacks<a href="https://cyware.com/news/more-ransomware-gangs-use-vms-to-obscure-attacks-72bf3306"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators are continually refining their tactics in a bid to evade detection. This has led to a growing number of attackers relying on Virtual Machines (VMs) to run their ransomware payloads on compromised computers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty Joins the Race of Ransomware Targeting VMware ESXi Servers<a href="https://cyware.com/news/hellokitty-joins-the-race-of-ransomware-targeting-vmware-esxi-servers-16742935"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelloKitty ransomware actors were spotted leveraging a Linux variant to target VMware’s ESXi servers and virtual machines running on the platform. The notorious ransomware gang gained popularity after targeting the Polish gaming firm CD Projekt. Organizations using such servers should implement hig ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

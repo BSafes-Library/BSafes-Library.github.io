@@ -11,6 +11,24 @@ nav_order: 900220
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experts disclose critical flaws in Advantech router monitoring tool<a href="https://securityaffairs.co/wordpress/120307/iot/advantech-router-monitoring-tool-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos experts disclose details of several critical flaws in a router monitoring application developed by industrial and IoT firm Advantech.
+
+
+
+Cisco Talos researchers discovered multiple critical vulnerabilities in the R-SeeNet application developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Turns Out That Low-Risk iOS Wi-Fi Naming Bug Can Hack iPhones Remotely<a href="https://thehackernews.com/2021/07/turns-out-that-low-risk-ios-wi-fi.html"> Full Text</a>
 </p>
 <details>

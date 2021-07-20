@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts members of Chinese-backed hacking group APT40<a href="https://www.bleepingcomputer.com/news/security/us-indicts-members-of-chinese-backed-hacking-group-apt40/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the US Department of Justice (DOJ) indicted four members of the Chinese state-sponsored hacking group known as APT40 for hacking various companies, universities, and government entities in the US and worldwide between 2011 and 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

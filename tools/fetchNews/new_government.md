@@ -11,6 +11,34 @@ nav_order: 900075
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden opens new cyber fight with China<a href="https://thehill.com//policy/technology/563777-biden-opens-new-cyber-battle-with-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden is putting new pressure on China by publicly attributing the wide-ranging Microsoft Exchange Server cyberattack to hackers affiliated with Beijing.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House formally blames China’s Ministry of State Security for Microsoft Exchange Hack<a href="https://therecord.media/white-house-formally-blames-chinas-ministry-of-state-security-for-microsoft-exchange-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and a coalition of allies on Monday formally attributed the sweeping campaign against Microsoft Exchange email servers to hackers affiliated with China’s Ministry of State Security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US, allies blame China-linked hackers for Microsoft Exchange breach<a href="https://thehill.com//homenews/administration/563622-us-allies-blame-china-linked-hackers-for-microsoft-exchange-breach"> Full Text</a>
 </p>
 <details>

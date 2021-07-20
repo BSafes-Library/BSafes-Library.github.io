@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Critical Password Security Rules Your Employees Are Ignoring<a href="https://thehackernews.com/2021/07/five-critical-password-security-rules.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Keeper Security's Workplace Password Malpractice Report, many remote workers aren't following best practices for password security.  Password security was a problem even before the advent of widespread remote work. So, what happened post-pandemic?&nbsp; Keeper Security's Workplace Password Malpractice Report &nbsp;sought to find out.  In February 2021, Keeper surveyed 1,000 employees in the U.S. about their work-related password habits -- and discovered that a lot of remote workers are letting password security go by the wayside.  Here are 5 critical password security rules they're ignoring.  1 — Always use strong passwords  Strong passwords are at least eight characters long (preferably more) and consist of random strings of letters, numerals, and special characters. Passwords should never include dictionary words, which are easy to guess, or personal details, which cybercriminals can scrape off social media channels.   37% of respondents to Keeper's survey sai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application security tools ineffective against new and growing threats<a href="https://www.helpnetsecurity.com/2021/07/19/ineffective-application-security-tools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations around the world are faced with the task to digitally transform, many of the traditional tools and services no longer support the needs and architectures of the digitized world.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Inc. 5000 companies are the most vulnerable to cyberattacks<a href="https://cybernews.com/security/these-inc-5000-companies-are-the-most-vulnerable-to-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Such is the scale of the problem that recent data from Atlas VPN suggests that 34% of businesses in the UK are forced to close down after falling victim to a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

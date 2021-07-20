@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.lawfareblog.com/justice-department-charges-four-chinese-nationals-working-global-intrusion-campaign
 
 Law:
 

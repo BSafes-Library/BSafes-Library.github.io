@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft takes down domains used to scam Office 365 users<a href="https://www.bleepingcomputer.com/news/security/microsoft-takes-down-domains-used-to-scam-office-365-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Digital Crimes Unit (DCU)&nbsp;has seized 17 malicious&nbsp;domains used by scammers in a&nbsp;business email compromise (BEC) campaign targeting the company's customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

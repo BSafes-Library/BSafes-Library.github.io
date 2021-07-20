@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeaBot Trojan Striking Harder, Targeting More European Banks<a href="https://cyware.com/news/teabot-trojan-striking-harder-targeting-more-european-banks-5704aa3c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prodaft researchers are warning of Android banking botnet dubbed Teabot or Anasta that has been targeting the customers of 60 banks in Europe and is growing rapidly. Moreover, the inclusion of several sophisticated tricks such as targeting crypto wallets and abusing Accessibility Services makes it  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, allies blame China-linked hackers for Microsoft Exchange breach<a href="https://thehill.com//homenews/administration/563622-us-allies-blame-china-linked-hackers-for-microsoft-exchange-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and several allied countries on Monday are publicly blaming hackers affiliated with the Chinese government for the Microsoft Exchange Server hack that left tens of thousands of organizations vulnerable to compromise earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and allies officially accuse China of Microsoft Exchange attacks<a href="https://www.bleepingcomputer.com/news/security/us-and-allies-officially-accuse-china-of-microsoft-exchange-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US and allies, including the European Union, the United Kingdom, and NATO, are officially blaming China for this year's widespread Microsoft Exchange hacking campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

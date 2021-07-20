@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ indicts four members of China-linked APT40 cyberespionage group<a href="https://securityaffairs.co/wordpress/120316/apt/doj-members-apt40.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US DoJ indicted four members of the China-linked cyberespionage group known as APT40 for hacking various entities between 2011 and 2018.
+
+
+
+The U.S. Justice Department (DoJ) indicted four members of the China-linked cyber espionage group APT40 (aka&nbsp;TEMP.Periscope,&nbsp;TEMP.Jumper,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

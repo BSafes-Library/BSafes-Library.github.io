@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Hackers use ransomware to target techies, demand cryptocurrency<a href="https://ciso.economictimes.indiatimes.com/news/hackers-use-ransomware-to-target-techies-demand-cryptocurrency/84541322?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers targeted their data, especially important files that had been compressed by the techies to transmit from their laptops to their official clients or their offices.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

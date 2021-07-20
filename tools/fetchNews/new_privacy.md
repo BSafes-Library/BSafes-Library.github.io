@@ -11,6 +11,20 @@ nav_order: 900165
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Spyware targeted Khashoggi's wife before his death: report<a href="https://thehill.com//policy/cybersecurity/563731-spyware-targeted-khashoggis-wife-before-his-death-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hanan Elatr, the wife of&nbsp;slain&nbsp;Saudi journalist Jamal&nbsp;Khashoggi, was targeted by the Israeli tech firm&nbsp;NSO Group’s Pegasus spyware just months before he was killed in 2018, The Washington Post reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Project – how governments use Pegasus spyware against journalists<a href="https://securityaffairs.co/wordpress/120291/malware/pegasus-project-nso-pegasus-spywar.html"> Full Text</a>
 </p>
 <details>
