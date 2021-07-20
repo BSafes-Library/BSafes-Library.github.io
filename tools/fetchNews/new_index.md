@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft takes down domains used to scam Office 365 users<a href="https://www.bleepingcomputer.com/news/security/microsoft-takes-down-domains-used-to-scam-office-365-users/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial Services Targeted, Work from Home to be Blamed<a href="https://cyware.com/news/financial-services-targeted-work-from-home-to-be-blamed-e0b9fb3a"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers blamed for breach of Norwegian parliament email accounts<a href="https://thehill.com//policy/cybersecurity/563776-chinese-hackers-blamed-for-breach-of-norwegian-parliament-email-accounts"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Linux Cryptojacking Attackers Operating from Romania<a href="https://thehackernews.com/2021/07/researchers-warn-of-linux-cryptojacking.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department Charges Four Chinese Nationals Working for Global Intrusion Campaign<a href="https://www.lawfareblog.com/justice-department-charges-four-chinese-nationals-working-global-intrusion-campaign"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoJ indicts four members of China-linked APT40 cyberespionage group<a href="https://securityaffairs.co/wordpress/120316/apt/doj-members-apt40.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What’s Next for REvil’s Victims? <a href="https://threatpost.com/whats-next-revil-victims/167926/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US indicts members of Chinese-backed hacking group APT40<a href="https://www.bleepingcomputer.com/news/security/us-indicts-members-of-chinese-backed-hacking-group-apt40/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Ransomware Gangs Use VMs to Obscure Attacks<a href="https://cyware.com/news/more-ransomware-gangs-use-vms-to-obscure-attacks-72bf3306"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: US, allies blame China for Microsoft Exchange Server hack | Biden walks back criticism of Facebook COVID-19 misinformation<a href="https://thehill.com//policy/cybersecurity/overnights/563780-hillicon-valley-us-allies-blame-china-for-microsoft-exchange"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts disclose critical flaws in Advantech router monitoring tool<a href="https://securityaffairs.co/wordpress/120307/iot/advantech-router-monitoring-tool-flaws.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeaBot Trojan Striking Harder, Targeting More European Banks<a href="https://cyware.com/news/teabot-trojan-striking-harder-targeting-more-european-banks-5704aa3c"> Full Text</a>
@@ -235,7 +235,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden opens new cyber fight with China<a href="https://thehill.com//policy/technology/563777-biden-opens-new-cyber-battle-with-china"> Full Text</a>
@@ -251,7 +251,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor claims to have stolen 1 TB of data belonging to Saudi Aramco<a href="https://securityaffairs.co/wordpress/120301/data-breach/saudi-aramco-data-breach.html"> Full Text</a>
@@ -271,7 +271,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloKitty Joins the Race of Ransomware Targeting VMware ESXi Servers<a href="https://cyware.com/news/hellokitty-joins-the-race-of-ransomware-targeting-vmware-esxi-servers-16742935"> Full Text</a>
@@ -288,7 +288,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware targeted Khashoggi's wife before his death: report<a href="https://thehill.com//policy/cybersecurity/563731-spyware-targeted-khashoggis-wife-before-his-death-report"> Full Text</a>
@@ -304,7 +304,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House formally blames China’s Ministry of State Security for Microsoft Exchange Hack<a href="https://therecord.media/white-house-formally-blames-chinas-ministry-of-state-security-for-microsoft-exchange-hack/?&web_view=true"> Full Text</a>
@@ -320,7 +320,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2021
+July 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Half of organizations are ineffective at countering phishing and ransomware threats<a href="https://www.helpnetsecurity.com/2021/07/19/countering-phishing-and-ransomware/?&web_view=true"> Full Text</a>
