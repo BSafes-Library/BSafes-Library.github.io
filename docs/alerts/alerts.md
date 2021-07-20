@@ -42,6 +42,18 @@ CISA encourages administrators to disable the Windows Print spooler service in D
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July, 2021 - NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments <a href="https://publications.bsafes.com/docs/nsa/Russian-GRU-Conducting-Global-Brute-Force-Campaign-to-Compromise-Enterprise-and-Cloud-Environments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA encourages administrators to disable the Windows Print spooler service in Domain Controllers and systems that do not print.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 30, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
