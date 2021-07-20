@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New MosaicLoader malware targets software pirates via online ads<a href="https://www.bleepingcomputer.com/news/security/new-mosaicloader-malware-targets-software-pirates-via-online-ads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing worldwide campaign is pushing new malware dubbed MosaicLoader advertising camouflaged as cracked software via search engine results to infect wannabe software pirates' systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 WiFiDemon – Recently discovered iPhone Wi-Fi bug could also allow RCE<a href="https://securityaffairs.co/wordpress/120325/hacking/wifidemon-ios-wi-fi-rce.html"> Full Text</a>
 </p>
 <details>
