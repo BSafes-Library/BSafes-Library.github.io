@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Officials warn of cybersecurity vulnerabilities in water systems<a href="https://thehill.com//policy/equilibrium-sustainability/564189-officials-warn-of-cybersecurity-vulnerabilities-in-water-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers and experts on Wednesday warned of gaping cybersecurity vulnerabilities in the nation’s critical water sector amid escalating attacks against a number of U.S. organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of stealthy malware found on hacked Pulse Secure devices<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-stealthy-malware-found-on-hacked-pulse-secure-devices/"> Full Text</a>
 </p>
 <details>
