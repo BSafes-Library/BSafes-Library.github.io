@@ -34,6 +34,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kelihos botmaster Peter Levashov gets time served<a href="https://securityaffairs.co/wordpress/120374/cyber-crime/kelihos-botnetmaster-peter-levashov-sentence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US federal judge sentenced Russian hacker Peter Levashov to 33 months, time served, and three years of supervised release for his role in operating the Kelihos botnet.
+
+
+
+The creator of the Kelihos Botnet, Peter Yuryevich Levashov (40), was sentenced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LPE flaw in Linux kernel allows attackers to get root privileges on most distros<a href="https://securityaffairs.co/wordpress/120365/security/lpe-flaw-linux-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a Local Privilege Escalation, tracked as CVE-2021-33909, that could allow attackers to get root access on most Linux distros.
+
+
+
+Qualys researchers discovered a local privilege escalation (LPE) tracked as CVE-2021-33909, aka Sequoia,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
