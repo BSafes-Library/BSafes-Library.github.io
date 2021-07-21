@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+capa 2.0: Better, Faster, Stronger<a href="https://www.fireeye.com/blog/threat-research/2021/07/capa-2-better-stronger-faster.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source tool called capa automatically identifies capabilities in programs using an extensible rule set. The tool supports both malware triage and deep dive reverse engineering.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Researchers Found Flaws in Telegram's Cryptographic Protocol<a href="https://www.inforisktoday.com/researchers-found-flaws-in-telegrams-cryptographic-protocol-a-17108?&web_view=true"> Full Text</a>
 </p>
 <details>
