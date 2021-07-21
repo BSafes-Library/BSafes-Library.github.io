@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exposes MicroLogix PLCs to Remote DoS Attacks<a href="https://www.securityweek.com/vulnerability-exposes-micrologix-plcs-remote-dos-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability affecting Rockwell Automation’s MicroLogix 1100 programmable logic controllers (PLCs) can be exploited to cause a device to enter a persistent fault condition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 capa 2.0: Better, Faster, Stronger<a href="https://www.fireeye.com/blog/threat-research/2021/07/capa-2-better-stronger-faster.html?&web_view=true"> Full Text</a>
 </p>
 <details>
