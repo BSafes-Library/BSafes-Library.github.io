@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers breached over a dozen US pipeline operators<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-breached-over-a-dozen-us-pipeline-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored attackers have breached 13 US oil and natural gas (ONG) pipeline companies between December 2011 to 2013 following a spear-phishing campaign targeting their employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linux Systemd Security Hole Can Enable Unprivileged Users to Cause Denial of Service<a href="https://www.zdnet.com/article/nasty-linux-systemd-security-bug-revealed/?&web_view=true"> Full Text</a>
 </p>
 <details>
