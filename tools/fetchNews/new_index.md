@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes Cloud Clusters Face Cyberattacks via Argo Workflows<a href="https://threatpost.com/kubernetes-cyberattacks-argo-workflows/167997/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured permissions for Argo’s web-facing dashboard allow unauthenticated attackers to run code on Kubernetes targets, including cryptomining containers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares workarounds for SeriousSAM Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-serioussam-windows-10-zero-day-bug/"> Full Text</a>
 </p>
 <details>
