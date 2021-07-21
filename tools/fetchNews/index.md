@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Why Current Botnet Takedown Jurisprudence Should Not Be Replicated<a href="https://www.lawfareblog.com/why-current-botnet-takedown-jurisprudence-should-not-be-replicated"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Restraining orders and other equitable mechanisms of relief were never designed to address such a unique challenge as global cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes Cloud Clusters Face Cyberattacks via Argo Workflows<a href="https://threatpost.com/kubernetes-cyberattacks-argo-workflows/167997/"> Full Text</a>
 </p>
 <details>
