@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+[eBook] A Guide to Stress-Free Cybersecurity for Lean IT Security Teams<a href="https://thehackernews.com/2021/07/ebook-guide-to-stress-free.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's cybersecurity landscape is enough to make any security team concerned. The rapid evolution and increased danger of attack tactics have put even the largest corporations and governments at heightened risk. If the most elite security teams can't prevent these attacks from happening, what can lean security teams look forward to?   Surprisingly, leaner teams have a much greater chance than they think. It might seem counterintuitive, but recent history has shown that large numbers and huge budgets aren't the difference-makers they once were. Indeed, having the right strategy in place is a clear indicator of an organization's success today.  A new guide by XDR provider Cynet ( download it here ) looks to dispel the myth that bigger is always better and shows a smarter way forward for lean IT security teams.  The new guide focuses on helping lean IT security teams plan strategies that can protect their organizations while reducing the level of stress they face. Due to the rise of cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Can the US Curb China's Cyber Ambitions?<a href="https://www.govinfosecurity.com/the-us-curb-chinas-cyber-ambitions-a-17109?&web_view=true"> Full Text</a>
 </p>
 <details>
