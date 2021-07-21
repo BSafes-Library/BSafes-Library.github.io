@@ -37,6 +37,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+XLoader, a $49 spyware that could target both Windows and macOS devices<a href="https://securityaffairs.co/wordpress/120382/malware/xloader-49-dollar-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research (CPR) experts have spotted a cheap malware, dubbed XLoader variant, which was upgraded to target both Windows and macOS PCs.
+
+
+
+XLoader is a very cheap malware strain that is based on the popular Formbook Windows malware. 
+
+
+
+FormBook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 France warns of APT31 cyberspies targeting French organizations<a href="https://www.bleepingcomputer.com/news/security/france-warns-of-apt31-cyberspies-targeting-french-organizations/"> Full Text</a>
 </p>
 <details>
