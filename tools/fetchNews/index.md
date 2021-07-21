@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Safe Security raises $33M to manage and mitigate cyber risk<a href="https://venturebeat.com/2021/07/21/safe-security-raises-33m-to-manage-and-mitigate-cyber-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Safe Security, which provides a platform to measure cyber risk, today announced that it raised $33 million in a strategic investment from BT Group, the U.K.-based telecom provider.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NPM package steals Chrome passwords on Windows via recovery tool<a href="https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/"> Full Text</a>
 </p>
 <details>

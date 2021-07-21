@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Package Caught Stealing Users' Saved Passwords From Browsers<a href="https://thehackernews.com/2021/07/malicious-npm-package-caught-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A software package available from the official NPM repository has been revealed to be actually a front for a tool that's designed to steal saved passwords from the Chrome web browser.  The package in question, named " nodejs_net_server " and downloaded over 1,283 times since February 2019, was last updated seven months ago (version 1.1.2), with its corresponding repository leading to non-existent locations hosted on GitHub.   "It isn't malicious by itself, but it can be when put into the malicious use context," ReversingLabs researcher Karlo Zanki  said  in an analysis shared with The Hacker News. "For instance, this package uses it to perform malicious password stealing and credential exfiltration. Even though this off-the-shelf password recovery tool comes with a graphical user interface, malware authors like to use it as it can also be run from the command line."   While the first version of the package was published just to test the process of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Safe Security raises $33M to manage and mitigate cyber risk<a href="https://venturebeat.com/2021/07/21/safe-security-raises-33m-to-manage-and-mitigate-cyber-risk/?&web_view=true"> Full Text</a>
 </p>
 <details>
