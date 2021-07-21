@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Rail ticket machines in northern England hit by ransomware attack<a href="https://www.reuters.com/world/uk/uks-northern-rails-self-service-ticket-machines-hit-by-ransomware-cyber-attack-2021-07-19/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ticket machines operated by the British government-run Northern Trains have been put out of action by a suspected cyber-attack intended to extort money, the company said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares workarounds for new Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-new-windows-10-zero-day-bug/"> Full Text</a>
 </p>
 <details>
