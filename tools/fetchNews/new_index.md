@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Joker Billing Fraud Malware Apps with 30,000 Downloads Found in Google Play Store<a href="https://www.zdnet.com/article/joker-billing-fraud-malware-found-in-google-play-store/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Joker malware family is a well-known variant that focuses on compromising Android devices. It's designed to spy on its victims, steal information, harvest contact lists, and monitor SMS messaging.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill requiring some critical groups to report cybersecurity incidents<a href="https://thehill.com//policy/cybersecurity/564048-senators-introduce-bill-requiring-some-mandatory-reporting-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the Senate Intelligence Committee and other bipartisan lawmakers on Wednesday formally introduced legislation requiring federal contractors and critical infrastructure groups to report attempted breaches in the wake of months of escalating cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome now comes with up to 50x faster phishing detection<a href="https://www.bleepingcomputer.com/news/security/google-chrome-now-comes-with-up-to-50x-faster-phishing-detection/"> Full Text</a>
 </p>
 <details>
