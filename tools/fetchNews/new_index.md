@@ -37,6 +37,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NPM package steals Chrome passwords on Windows via recovery tool<a href="https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New npm malware has been caught stealing credentials from the Google Chrome web browser by using legitimate password recovery tools on Windows systems. Additionally, this malware listens for incoming connections from the attacker's C2 server and provides advanced capabilities, including screen and camera access. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive Information From Over 80 US Municipalities Left Vulnerable in Massive Data Breach at PeopleGIS<a href="https://www.wizcase.com/blog/us-municipality-breach-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s team of ethical hackers, led by Ata Hakç?l, has found a major breach exposing a number of US cities, all of them using the same web service provider aimed at municipalities.
+</details>
+<div style="text-align: right" markdown="1">
+WizCase
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya ransomware attack highlights cyber vulnerabilities of small businesses<a href="https://thehill.com//policy/cybersecurity/562303-kaseya-ransomware-attack-highlights-cyber-vulnerabilities-of-small"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent ransomware attack on software group Kaseya hit small businesses especially hard, targeting companies that often have few resources to defend themselves and highlighting long-standing vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking Malware and Ransomware Domains in 2021<a href="https://threatpost.com/tracking-malware-and-ransomware-domains-2021/167933/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is the threat of 2021. It’s impacting everything from large enterprises, hospitals, to other aspects of our critical infrastructure. Here, we’ll take a look at actual malware domain traffic and how it correlates to ransomware attacks in the news.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Biden official: ‘We don’t know exactly why’ ransomware gang vanished from the web<a href="https://www.politico.com/news/2021/07/20/biden-official-ransomware-gang-revil-500376?&web_view=true"> Full Text</a>
 </p>
 <details>
