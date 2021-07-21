@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT Group Deploys Android Malware for the First Time<a href="https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro conducted an investigation into a malicious Android malware sample, which is believed to be linked to the StrongPity APT group, that was posted on the Syrian e-Gov website.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The White House Responded to the Chinese Hacks of the Microsoft Exchange Servers This Week. Is It Enough?<a href="https://www.lawfareblog.com/white-house-responded-chinese-hacks-microsoft-exchange-servers-week-it-enough"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DNSFilter secures $30M Series A to step up fight against DNS-based threats<a href="https://techcrunch.com/2021/07/21/dnsfilter-secures-30m-series-a-to-step-up-fight-against-dns-based-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DNSFilter, an artificial intelligence startup that provides DNS-based web content filtering and threat protection, has secured $30 million in Series A funding from Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 StrongPity APT Group Deploys Android Malware for the First Time<a href="https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html?&web_view=true"> Full Text</a>
 </p>
 <details>
