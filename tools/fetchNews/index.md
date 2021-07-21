@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden to appoint Big Tech critic to DOJ antitrust role | House passes host of bills to strengthen cybersecurity in wake of attacks | Bezos returns from flight to space<a href="https://thehill.com//policy/technology/overnights/564005-hillicon-valley-biden-to-appoint-big-tech-critic-to-doj"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenAides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book Biden says Eid al-Adha carries 'special meaning' amid pandemic Manchin to back nominee for public lands chief MORE on Tuesday declared his intent to nominate an individual to lead the Department of Justice’s antitrust division that has the backing of organizations looking to crackdown on anticompetitive behavior among Big Tech companies. Meanwhile, cybersecurity continues to be a hot topic in the nation’s capital, with the House approving a raft of bills Tuesday intended to shore up critical infrastructure against attacks, and the Transportation Security Administration putting out a new directive to protect pipelines from hackers. Outside of the beltway, Amazon founder and former CEO Jeff BezosJeffrey (Jeff) Preston BezosBezos: Critics of billionaires' 'joyrides' to space 'largely right' Bezos 'really excited to figure out' how trip to space changes him Equilibrium/ Sustainability — The gentler side of Shark Week MORE blasted off to the edge of space, drawing criticism from some officials for how funding was obtained. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes host of bills to strengthen cybersecurity in wake of attacks<a href="https://thehill.com//policy/cybersecurity/563994-house-passes-multitude-of-bills-to-strengthen-cybersecurity-in-wake-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved five bipartisan measures designed to enhance various aspects of the nation’s cybersecurity following recent major cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
