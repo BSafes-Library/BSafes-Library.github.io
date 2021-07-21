@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+French President Emmanuel Macron among 14 heads of states on potential spyware list<a href="https://apnews.com/article/technology-europe-middle-east-africa-jamal-khashoggi-8f2973fbd45803c175c653846b7fff68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French President Emmanuel Macron leads a list of 14 current or former heads of state who may have been targeted for hacking by clients of the notorious Israeli spyware firm NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares permissions fix for new Windows 10 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-permissions-fix-for-new-windows-10-zero-day/"> Full Text</a>
 </p>
 <details>

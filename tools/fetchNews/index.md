@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares permissions fix for new Windows 10 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-permissions-fix-for-new-windows-10-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared a temporary fix for a Windows 10 zero-day vulnerability that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware, crypto-scammer seeks foreigner with blockchain account<a href="https://blog.malwarebytes.com/social-engineering/2021/07/beware-crypto-scammer-seeks-foreigner-with-block-chain-account/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Malwarebytes observed a 419-style scam (also known as an advance fee scam) which claims to deliver on the promise of cryptocurrency riches over a WhatsApp conversation.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kelihos botmaster Peter Levashov gets time served<a href="https://securityaffairs.co/wordpress/120374/cyber-crime/kelihos-botnetmaster-peter-levashov-sentence.html"> Full Text</a>
 </p>
 <details>
