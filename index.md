@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+XLoader malware steals logins from macOS and Windows systems<a href="https://www.bleepingcomputer.com/news/security/xloader-malware-steals-logins-from-macos-and-windows-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly popular malware for stealing information from Windows systems has been modified into a new strain called XLoader, which can also target macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Bloomberg and Facebook pledge support for second year of Security Training Scholarship Program for women<a href="https://www.zdnet.com/article/google-bloomberg-and-facebook-pledge-support-for-second-year-of-security-training-scholarship-program-for-women/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The program, run by Women in Cybersecurity (WiCys) and the SANS Institute, is designed to help women advance their careers in cybersecurity by learning fundamental cybersecurity concepts and skills.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 XLoader Windows InfoStealer Malware Now Upgraded to Attack macOS Systems<a href="https://thehackernews.com/2021/07/xloader-windows-infostealer-malware-now.html"> Full Text</a>
 </p>
 <details>
