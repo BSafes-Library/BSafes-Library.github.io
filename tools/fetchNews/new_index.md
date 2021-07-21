@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers Found Flaws in Telegram's Cryptographic Protocol<a href="https://www.inforisktoday.com/researchers-found-flaws-in-telegrams-cryptographic-protocol-a-17108?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws could have enabled attackers to alter the sequences of the messages sent, identify encrypted messages of a client or a server, recover some plaintext from encrypted messages, and wage man-in-the-middle attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 XLoader malware steals logins from macOS and Windows systems<a href="https://www.bleepingcomputer.com/news/security/xloader-malware-steals-logins-from-macos-and-windows-systems/"> Full Text</a>
 </p>
 <details>
