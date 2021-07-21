@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 20, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden to appoint Big Tech critic to DOJ antitrust role | House passes host of bills to strengthen cybersecurity in wake of attacks | Bezos returns from flight to space<a href="https://thehill.com//policy/technology/overnights/564005-hillicon-valley-biden-to-appoint-big-tech-critic-to-doj"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenAides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book Biden says Eid al-Adha carries 'special meaning' amid pandemic Manchin to back nominee for public lands chief MORE on Tuesday declared his intent to nominate an individual to lead the Department of Justice’s antitrust division that has the backing of organizations looking to crackdown on anticompetitive behavior among Big Tech companies. Meanwhile, cybersecurity continues to be a hot topic in the nation’s capital, with the House approving a raft of bills Tuesday intended to shore up critical infrastructure against attacks, and the Transportation Security Administration putting out a new directive to protect pipelines from hackers. Outside of the beltway, Amazon founder and former CEO Jeff BezosJeffrey (Jeff) Preston BezosBezos: Critics of billionaires' 'joyrides' to space 'largely right' Bezos 'really excited to figure out' how trip to space changes him Equilibrium/ Sustainability — The gentler side of Shark Week MORE blasted off to the edge of space, drawing criticism from some officials for how funding was obtained. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes host of bills to strengthen cybersecurity in wake of attacks<a href="https://thehill.com//policy/cybersecurity/563994-house-passes-multitude-of-bills-to-strengthen-cybersecurity-in-wake-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved five bipartisan measures designed to enhance various aspects of the nation’s cybersecurity following recent major cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DuckDuckGo's new email privacy service forwards tracker-free messages<a href="https://www.bleepingcomputer.com/news/security/duckduckgos-new-email-privacy-service-forwards-tracker-free-messages/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Flaws Ubiquitous in Active Attack Campaigns<a href="https://cyware.com/news/zero-day-flaws-ubiquitous-in-active-attack-campaigns-b1ed1e5c"> Full Text</a>
@@ -67,7 +99,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies say dozens of pipeline companies breached by Chinese hackers in 2011<a href="https://thehill.com//policy/cybersecurity/563890-federal-agencies-say-dozens-of-pipeline-companies-breached-by-chinese"> Full Text</a>
@@ -83,7 +115,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 16-Year-Old Security Bug Affects Millions of HP, Samsung, Xerox Printers<a href="https://thehackernews.com/2021/07/16-year-old-security-bug-affects.html"> Full Text</a>
@@ -99,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A 16-year-old bug (CVE-2021-3438) in printer driver affects millions of printers worldwide<a href="https://securityaffairs.co/wordpress/120358/security/cve-2021-3438-printer-driver-flaw.html"> Full Text</a>
@@ -119,7 +151,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers: NSO Group’s Pegasus Spyware Should Spark Bans, Apple Accountability<a href="https://threatpost.com/nso-pegasus-spyware-bans-apple-accountability/167965/"> Full Text</a>
@@ -135,7 +167,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux kernel bug lets you get root on most modern distros<a href="https://www.bleepingcomputer.com/news/security/new-linux-kernel-bug-lets-you-get-root-on-most-modern-distros/"> Full Text</a>
@@ -151,7 +183,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These are the Top Favorite CVEs of Cybercriminals<a href="https://cyware.com/news/these-are-the-top-favorite-cves-of-cybercriminals-9e56fe87"> Full Text</a>
@@ -168,7 +200,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Peters launches bipartisan investigation into increasing ransomware attacks<a href="https://thehill.com//policy/cybersecurity/563882-peters-launches-bipartisan-investigation-into-increasing-ransomware"> Full Text</a>
@@ -184,7 +216,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Malware Hides Itself Among Windows Defender Exclusions to Evade Detection<a href="https://thehackernews.com/2021/07/this-new-malware-hides-itself-among.html"> Full Text</a>
@@ -200,7 +232,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A bug in Fortinet FortiManager and FortiAnalyzer allows unauthenticated hackers to run code as root<a href="https://securityaffairs.co/wordpress/120350/security/fortinet-fortimanager-fortianalyzer-bug.html"> Full Text</a>
@@ -220,7 +252,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Your Business Needs a Long-Term Remote Security Strategy<a href="https://threatpost.com/business-long-term-remote-security-strategy/167950/"> Full Text</a>
@@ -236,7 +268,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Threat actors may be targeting the 2020 Tokyo Summer Olympics<a href="https://www.bleepingcomputer.com/news/security/fbi-threat-actors-may-be-targeting-the-2020-tokyo-summer-olympics/"> Full Text</a>
@@ -252,7 +284,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 16 Years In Hiding – Millions of Printers Worldwide Vulnerable by Newly Discovered Flaw<a href="https://labs.sentinelone.com/cve-2021-3438-16-years-in-hiding-millions-of-printers-worldwide-vulnerable/?&web_view=true"> Full Text</a>
@@ -268,7 +300,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA issues second security directive to secure pipelines against cyberattacks<a href="https://thehill.com//policy/cybersecurity/563843-tsa-issues-second-security-directive-to-secure-pipelines-against"> Full Text</a>
@@ -284,7 +316,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft secured court order to take down domains used in BEC campaign<a href="https://securityaffairs.co/wordpress/120334/cyber-crime/microsoft-bec-campaign.html"> Full Text</a>
@@ -304,7 +336,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Security Paradigm: External Attack Surface Management<a href="https://threatpost.com/external-attack-surface-management/167732/"> Full Text</a>
@@ -320,7 +352,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 16-year-old bug in printer software gives hackers admin rights<a href="https://www.bleepingcomputer.com/news/security/16-year-old-bug-in-printer-software-gives-hackers-admin-rights/"> Full Text</a>
@@ -336,7 +368,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 13 Heads of State and Governments Including Emmanuel Macron, Imran Khan, and Cyril Ramaphosa Among Those Targeted with Pegasus<a href="https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data?&web_view=true"> Full Text</a>
@@ -352,7 +384,7 @@ The Guardian
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet fixes bug letting unauthenticated hackers run code as root<a href="https://www.bleepingcomputer.com/news/security/fortinet-fixes-bug-letting-unauthenticated-hackers-run-code-as-root/"> Full Text</a>
@@ -368,7 +400,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How China Transformed Into a Prime Cyber Threat to the U.S.<a href="https://www.nytimes.com/2021/07/19/technology/china-hacking-us.html?&web_view=true"> Full Text</a>
@@ -384,7 +416,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Spies Caught by Facebook<a href="https://cyware.com/news/iranian-spies-caught-by-facebook-a0200e50"> Full Text</a>
@@ -400,7 +432,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online gamer spills classified docs in effort to win online argument<a href="https://www.theregister.com/2021/07/19/war_thunder_classified_tank_docs/?&web_view=true"> Full Text</a>
@@ -416,7 +448,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Supply Chain Attacks and What is Being Done to Counter Them<a href="https://cyware.com/news/software-supply-chain-attacks-and-what-is-being-done-to-counter-them-e3791357"> Full Text</a>
@@ -432,7 +464,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fighting an emerging cybercrime trend involving imposter domains<a href="https://blogs.microsoft.com/on-the-issues/2021/07/19/cybercrime-homoglyphs-dcu-court-order/?&web_view=true"> Full Text</a>
@@ -448,7 +480,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lake County Health Department announces two data breaches impacting nearly 25,000 patients<a href="https://www.lakemchenryscanner.com/2021/07/18/lake-county-health-department-announces-two-data-breaches-impacting-nearly-25000-patients/?&web_view=true"> Full Text</a>
@@ -464,7 +496,7 @@ Lake & Mchenry County Scanner
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New MosaicLoader malware targets software pirates via online ads<a href="https://www.bleepingcomputer.com/news/security/new-mosaicloader-malware-targets-software-pirates-via-online-ads/"> Full Text</a>
@@ -480,7 +512,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WiFiDemon – Recently discovered iPhone Wi-Fi bug could also allow RCE<a href="https://securityaffairs.co/wordpress/120325/hacking/wifidemon-ios-wi-fi-rce.html"> Full Text</a>
