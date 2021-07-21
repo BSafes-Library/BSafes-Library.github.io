@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The White House Responded to the Chinese Hacks of the Microsoft Exchange Servers This Week. Is It Enough?<a href="https://www.lawfareblog.com/white-house-responded-chinese-hacks-microsoft-exchange-servers-week-it-enough"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration should be applauded for building a broad coalition of allies to condemn China's dangerous cyber activity. Now, the White House should do what it has done to other U.S. adversaries and impose real costs on Beijing.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why Current Botnet Takedown Jurisprudence Should Not Be Replicated<a href="https://www.lawfareblog.com/why-current-botnet-takedown-jurisprudence-should-not-be-replicated"> Full Text</a>
 </p>
 <details>
