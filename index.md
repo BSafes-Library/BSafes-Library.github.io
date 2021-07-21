@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House committee approves slate of bills to improve telecom security<a href="https://thehill.com//policy/cybersecurity/564229-house-committee-approves-slate-of-bills-to-improve-telecom-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Energy and Commerce Committee on Wednesday approved multiple pieces of legislation meant to strengthen telecommunications against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TikTok, Snapchat account hijacker arrested for role in Twitter hack<a href="https://www.bleepingcomputer.com/news/security/tiktok-snapchat-account-hijacker-arrested-for-role-in-twitter-hack/"> Full Text</a>
 </p>
 <details>
