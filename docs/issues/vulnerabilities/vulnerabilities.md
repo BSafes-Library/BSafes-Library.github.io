@@ -8,6 +8,123 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Systemd Security Hole Can Enable Unprivileged Users to Cause Denial of Service<a href="https://www.zdnet.com/article/nasty-linux-systemd-security-bug-revealed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this newest vulnerability enables any unprivileged user to cause a denial of service via a kernel panic. 
+Systemd is used in almost all modern Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exposes MicroLogix PLCs to Remote DoS Attacks<a href="https://www.securityweek.com/vulnerability-exposes-micrologix-plcs-remote-dos-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability affecting Rockwell Automation’s MicroLogix 1100 programmable logic controllers (PLCs) can be exploited to cause a device to enter a persistent fault condition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Found Flaws in Telegram's Cryptographic Protocol<a href="https://www.inforisktoday.com/researchers-found-flaws-in-telegrams-cryptographic-protocol-a-17108?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws could have enabled attackers to alter the sequences of the messages sent, identify encrypted messages of a client or a server, recover some plaintext from encrypted messages, and wage man-in-the-middle attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several New Critical Flaws Affect CODESYS Industrial Automation Software<a href="https://thehackernews.com/2021/07/several-new-critical-flaws-affect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed multiple security vulnerabilities impacting CODESYS automation software and the WAGO programmable logic controller (PLC) platform that could be remotely exploited to take control of a company's cloud operational technology (OT) infrastructure.  The flaws can be turned "into innovative attacks that could put threat actors in position to remotely control a company's cloud OT implementation, and threaten any industrial process managed from the cloud," the New York-headquartered industrial security company Claroty said in a report  shared with The Hacker News, adding they "can be used to target a cloud-based management console from a compromised field device, or take over a company's cloud and attack PLCs and other devices to disrupt operations."   CODESYS is a development environment for programming controller applications, enabling easy configuration of PLCs in industrial control systems. WAGO PFC100/200 is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Being Picked Apart by $49 XLoader Data Stealer<a href="https://threatpost.com/macos-49-xloader-data-stealer/167971/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cheap, easy &amp; prolific, the new version of the old FormBook form-stealer and keylogger has added Mac users to its hit list, and it’s selling like hotcakes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares workarounds for new Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-new-windows-10-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared workarounds for a Windows 10&nbsp;zero-day vulnerability that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares permissions fix for new Windows 10 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-permissions-fix-for-new-windows-10-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared a temporary fix for a Windows 10&nbsp;zero-day vulnerability that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LPE flaw in Linux kernel allows attackers to get root privileges on most distros<a href="https://securityaffairs.co/wordpress/120365/security/lpe-flaw-linux-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a Local Privilege Escalation, tracked as CVE-2021-33909, that could allow attackers to get root access on most Linux distros.
+
+
+
+Qualys researchers discovered a local privilege escalation (LPE) tracked as CVE-2021-33909, aka Sequoia,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

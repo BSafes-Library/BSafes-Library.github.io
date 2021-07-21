@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking Malware and Ransomware Domains in 2021<a href="https://threatpost.com/tracking-malware-and-ransomware-domains-2021/167933/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is the threat of 2021. It’s impacting everything from large enterprises, hospitals, to other aspects of our critical infrastructure. Here, we’ll take a look at actual malware domain traffic and how it correlates to ransomware attacks in the news.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Bloomberg and Facebook pledge support for second year of Security Training Scholarship Program for women<a href="https://www.zdnet.com/article/google-bloomberg-and-facebook-pledge-support-for-second-year-of-security-training-scholarship-program-for-women/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The program, run by Women in Cybersecurity (WiCys) and the SANS Institute, is designed to help women advance their careers in cybersecurity by learning fundamental cybersecurity concepts and skills.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] A Guide to Stress-Free Cybersecurity for Lean IT Security Teams<a href="https://thehackernews.com/2021/07/ebook-guide-to-stress-free.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's cybersecurity landscape is enough to make any security team concerned. The rapid evolution and increased danger of attack tactics have put even the largest corporations and governments at heightened risk. If the most elite security teams can't prevent these attacks from happening, what can lean security teams look forward to?&nbsp;  Surprisingly, leaner teams have a much greater chance than they think. It might seem counterintuitive, but recent history has shown that large numbers and huge budgets aren't the difference-makers they once were. Indeed, having the right strategy in place is a clear indicator of an organization's success today.  A new guide by XDR provider Cynet ( download it here ) looks to dispel the myth that bigger is always better and shows a smarter way forward for lean IT security teams.  The new guide focuses on helping lean IT security teams plan strategies that can protect their organizations while reducing the level of stress they face. Due to the rise of cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden to appoint Big Tech critic to DOJ antitrust role | House passes host of bills to strengthen cybersecurity in wake of attacks | Bezos returns from flight to space<a href="https://thehill.com//policy/technology/overnights/564005-hillicon-valley-biden-to-appoint-big-tech-critic-to-doj"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenAides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book Biden says Eid al-Adha carries 'special meaning' amid pandemic Manchin to back nominee for public lands chief MORE on Tuesday declared his intent to nominate an individual to lead the Department of Justice’s antitrust division that has the backing of organizations looking to crackdown on anticompetitive behavior among Big Tech companies.&nbsp;Meanwhile, cybersecurity continues to be a hot topic in the nation’s capital, with the House approving a raft of bills Tuesday intended to shore up critical infrastructure against attacks, and the Transportation Security Administration putting out a new directive to protect pipelines from hackers. Outside of the beltway, Amazon founder and former CEO Jeff BezosJeffrey (Jeff) Preston BezosBezos: Critics of billionaires' 'joyrides' to space 'largely right' Bezos 'really excited to figure out' how trip to space changes him Equilibrium/ Sustainability — The gentler side of Shark Week MORE blasted off to the edge of space, drawing criticism from some officials for how funding was obtained.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

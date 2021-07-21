@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers breached over a dozen US pipeline operators<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-breached-over-a-dozen-us-pipeline-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored attackers have breached 13 US oil and natural gas (ONG) pipeline companies between December 2011 to 2013 following a&nbsp;spear-phishing campaign targeting their employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

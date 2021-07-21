@@ -34,6 +34,615 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLoader, a $49 spyware that could target both Windows and macOS devices<a href="https://securityaffairs.co/wordpress/120382/malware/xloader-49-dollar-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research (CPR) experts have spotted a cheap malware, dubbed XLoader variant, which was upgraded to target both Windows and macOS PCs.
+
+
+
+XLoader is a very cheap malware strain that is based on the popular Formbook Windows malware. 
+
+
+
+FormBook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France warns of APT31 cyberspies targeting French organizations<a href="https://www.bleepingcomputer.com/news/security/france-warns-of-apt31-cyberspies-targeting-french-organizations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French national cyber-security agency today warned of an ongoing series of attacks against a large number of French organizations coordinated by the Chinese-backed APP31 cyberespionage group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese state hackers breached over a dozen US pipeline operators<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-breached-over-a-dozen-us-pipeline-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored attackers have breached 13 US oil and natural gas (ONG) pipeline companies between December 2011 to 2013 following a spear-phishing campaign targeting their employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Systemd Security Hole Can Enable Unprivileged Users to Cause Denial of Service<a href="https://www.zdnet.com/article/nasty-linux-systemd-security-bug-revealed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this newest vulnerability enables any unprivileged user to cause a denial of service via a kernel panic. 
+Systemd is used in almost all modern Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Launch NSO Probe After Macron Believed Spyware Target<a href="https://threatpost.com/french-launch-nso-probe-after-macron-believed-spyware-targe/167986/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fourteen world leaders were among those found on list of NSO believed targets for its Pegasus spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Package Caught Stealing Users' Saved Passwords From Browsers<a href="https://thehackernews.com/2021/07/malicious-npm-package-caught-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A software package available from the official NPM repository has been revealed to be actually a front for a tool that's designed to steal saved passwords from the Chrome web browser.  The package in question, named " nodejs_net_server " and downloaded over 1,283 times since February 2019, was last updated seven months ago (version 1.1.2), with its corresponding repository leading to non-existent locations hosted on GitHub.   "It isn't malicious by itself, but it can be when put into the malicious use context," ReversingLabs researcher Karlo Zanki  said  in an analysis shared with The Hacker News. "For instance, this package uses it to perform malicious password stealing and credential exfiltration. Even though this off-the-shelf password recovery tool comes with a graphical user interface, malware authors like to use it as it can also be run from the command line."   While the first version of the package was published just to test the process of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Safe Security raises $33M to manage and mitigate cyber risk<a href="https://venturebeat.com/2021/07/21/safe-security-raises-33m-to-manage-and-mitigate-cyber-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Safe Security, which provides a platform to measure cyber risk, today announced that it raised $33 million in a strategic investment from BT Group, the U.K.-based telecom provider.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM package steals Chrome passwords on Windows via recovery tool<a href="https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New npm malware has been caught stealing credentials from the Google Chrome web browser by using legitimate password recovery tools on Windows systems. Additionally, this malware listens for incoming connections from the attacker's C2 server and provides advanced capabilities, including screen and camera access. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive Information From Over 80 US Municipalities Left Vulnerable in Massive Data Breach at PeopleGIS<a href="https://www.wizcase.com/blog/us-municipality-breach-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s team of ethical hackers, led by Ata Hakç?l, has found a major breach exposing a number of US cities, all of them using the same web service provider aimed at municipalities.
+</details>
+<div style="text-align: right" markdown="1">
+WizCase
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya ransomware attack highlights cyber vulnerabilities of small businesses<a href="https://thehill.com//policy/cybersecurity/562303-kaseya-ransomware-attack-highlights-cyber-vulnerabilities-of-small"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent ransomware attack on software group Kaseya hit small businesses especially hard, targeting companies that often have few resources to defend themselves and highlighting long-standing vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking Malware and Ransomware Domains in 2021<a href="https://threatpost.com/tracking-malware-and-ransomware-domains-2021/167933/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is the threat of 2021. It’s impacting everything from large enterprises, hospitals, to other aspects of our critical infrastructure. Here, we’ll take a look at actual malware domain traffic and how it correlates to ransomware attacks in the news.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden official: ‘We don’t know exactly why’ ransomware gang vanished from the web<a href="https://www.politico.com/news/2021/07/20/biden-official-ransomware-gang-revil-500376?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration does not know exactly why the ransomware gang REvil, thought to be based in Russia, has vanished from the dark web, a senior official said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joker Billing Fraud Malware Apps with 30,000 Downloads Found in Google Play Store<a href="https://www.zdnet.com/article/joker-billing-fraud-malware-found-in-google-play-store/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Joker malware family is a well-known variant that focuses on compromising Android devices. It's designed to spy on its victims, steal information, harvest contact lists, and monitor SMS messaging.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill requiring some critical groups to report cybersecurity incidents<a href="https://thehill.com//policy/cybersecurity/564048-senators-introduce-bill-requiring-some-mandatory-reporting-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the Senate Intelligence Committee and other bipartisan lawmakers on Wednesday formally introduced legislation requiring federal contractors and critical infrastructure groups to report attempted breaches in the wake of months of escalating cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome now comes with up to 50x faster phishing detection<a href="https://www.bleepingcomputer.com/news/security/google-chrome-now-comes-with-up-to-50x-faster-phishing-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome now comes with up to 50 times faster phishing detection starting with the latest released version 92, promoted to the stable channel on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity: DHS escalates mandates for key US pipelines in wake of ransomware attack<a href="https://edition.cnn.com/2021/07/20/politics/dhs-increases-cybersecuriy-mandates-key-us-pipelines/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security mandated additional cybersecurity measures this week for critical US pipelines, a move meant to protect against ransomware and other known threats.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Reveals China Breached Dozens of Pipeline Companies in Past Decade<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-201a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Overall, the U.S. government agencies identified and tracked 23 U.S. natural gas pipeline operators targeted from 2011 to 2013 in this spearphishing and intrusion campaign.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exposes MicroLogix PLCs to Remote DoS Attacks<a href="https://www.securityweek.com/vulnerability-exposes-micrologix-plcs-remote-dos-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability affecting Rockwell Automation’s MicroLogix 1100 programmable logic controllers (PLCs) can be exploited to cause a device to enter a persistent fault condition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+capa 2.0: Better, Faster, Stronger<a href="https://www.fireeye.com/blog/threat-research/2021/07/capa-2-better-stronger-faster.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source tool called capa automatically identifies capabilities in programs using an extensible rule set. The tool supports both malware triage and deep dive reverse engineering.
+</details>
+<div style="text-align: right" markdown="1">
+FireEye
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Found Flaws in Telegram's Cryptographic Protocol<a href="https://www.inforisktoday.com/researchers-found-flaws-in-telegrams-cryptographic-protocol-a-17108?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws could have enabled attackers to alter the sequences of the messages sent, identify encrypted messages of a client or a server, recover some plaintext from encrypted messages, and wage man-in-the-middle attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLoader malware steals logins from macOS and Windows systems<a href="https://www.bleepingcomputer.com/news/security/xloader-malware-steals-logins-from-macos-and-windows-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly popular malware for stealing information from Windows systems has been modified into a new strain called XLoader, which can also target macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Bloomberg and Facebook pledge support for second year of Security Training Scholarship Program for women<a href="https://www.zdnet.com/article/google-bloomberg-and-facebook-pledge-support-for-second-year-of-security-training-scholarship-program-for-women/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The program, run by Women in Cybersecurity (WiCys) and the SANS Institute, is designed to help women advance their careers in cybersecurity by learning fundamental cybersecurity concepts and skills.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLoader Windows InfoStealer Malware Now Upgraded to Attack macOS Systems<a href="https://thehackernews.com/2021/07/xloader-windows-infostealer-malware-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed details of an evolving malware that has now been upgraded to steal sensitive information from Apple's macOS operating system.  The malware, dubbed "XLoader," is a successor to another well-known Windows-based info stealer called  Formbook  that's known to vacuum credentials from various web browsers, collect screenshots, log keystrokes, and download and execute files from attacker-controlled domains.   "For as low as $49 on the Darknet, hackers can buy licenses for the new malware, enabling capabilities to harvest log-in credentials, collect screenshots, log keystrokes, and execute malicious files," cybersecurity firm Check Point said in a report  shared with The Hacker News.  Distributed via spoofed emails containing malicious Microsoft Office documents, XLoader is estimated to infected victims spanning across 69 countries between December 1, 2020, and June 1, 2021, with 53% of the infections reported in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shlayer Malware: Continued Use of Flash Updates<a href="https://www.crowdstrike.com/blog/shlayer-malvertising-campaigns-still-using-flash-update-disguise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent Shlayer malvertising campaigns have gone back to using fake Flash updates and social engineering tactics to trick victims into manually installing the malware and compromising their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several New Critical Flaws Affect CODESYS Industrial Automation Software<a href="https://thehackernews.com/2021/07/several-new-critical-flaws-affect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed multiple security vulnerabilities impacting CODESYS automation software and the WAGO programmable logic controller (PLC) platform that could be remotely exploited to take control of a company's cloud operational technology (OT) infrastructure.  The flaws can be turned "into innovative attacks that could put threat actors in position to remotely control a company's cloud OT implementation, and threaten any industrial process managed from the cloud," the New York-headquartered industrial security company Claroty said in a report  shared with The Hacker News, adding they "can be used to target a cloud-based management console from a compromised field device, or take over a company's cloud and attack PLCs and other devices to disrupt operations."   CODESYS is a development environment for programming controller applications, enabling easy configuration of PLCs in industrial control systems. WAGO PFC100/200 is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Being Picked Apart by $49 XLoader Data Stealer<a href="https://threatpost.com/macos-49-xloader-data-stealer/167971/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cheap, easy & prolific, the new version of the old FormBook form-stealer and keylogger has added Mac users to its hit list, and it’s selling like hotcakes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] A Guide to Stress-Free Cybersecurity for Lean IT Security Teams<a href="https://thehackernews.com/2021/07/ebook-guide-to-stress-free.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's cybersecurity landscape is enough to make any security team concerned. The rapid evolution and increased danger of attack tactics have put even the largest corporations and governments at heightened risk. If the most elite security teams can't prevent these attacks from happening, what can lean security teams look forward to?   Surprisingly, leaner teams have a much greater chance than they think. It might seem counterintuitive, but recent history has shown that large numbers and huge budgets aren't the difference-makers they once were. Indeed, having the right strategy in place is a clear indicator of an organization's success today.  A new guide by XDR provider Cynet ( download it here ) looks to dispel the myth that bigger is always better and shows a smarter way forward for lean IT security teams.  The new guide focuses on helping lean IT security teams plan strategies that can protect their organizations while reducing the level of stress they face. Due to the rise of cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can the US Curb China's Cyber Ambitions?<a href="https://www.govinfosecurity.com/the-us-curb-chinas-cyber-ambitions-a-17109?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many security experts and analysts are applauding the U.S. for calling out China's cyber behavior, especially after the White House had focused so much attention on Russia's cyber activities.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rail ticket machines in northern England hit by ransomware attack<a href="https://www.reuters.com/world/uk/uks-northern-rails-self-service-ticket-machines-hit-by-ransomware-cyber-attack-2021-07-19/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ticket machines operated by the British government-run Northern Trains have been put out of action by a suspected cyber-attack intended to extort money, the company said on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares workarounds for new Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-new-windows-10-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared workarounds for a Windows 10 zero-day vulnerability that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French President Emmanuel Macron among 14 heads of states on potential spyware list<a href="https://apnews.com/article/technology-europe-middle-east-africa-jamal-khashoggi-8f2973fbd45803c175c653846b7fff68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French President Emmanuel Macron leads a list of 14 current or former heads of state who may have been targeted for hacking by clients of the notorious Israeli spyware firm NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares permissions fix for new Windows 10 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-permissions-fix-for-new-windows-10-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared a temporary fix for a Windows 10 zero-day vulnerability that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware, crypto-scammer seeks foreigner with blockchain account<a href="https://blog.malwarebytes.com/social-engineering/2021/07/beware-crypto-scammer-seeks-foreigner-with-block-chain-account/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Malwarebytes observed a 419-style scam (also known as an advance fee scam) which claims to deliver on the promise of cryptocurrency riches over a WhatsApp conversation.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kelihos botmaster Peter Levashov gets time served<a href="https://securityaffairs.co/wordpress/120374/cyber-crime/kelihos-botnetmaster-peter-levashov-sentence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US federal judge sentenced Russian hacker Peter Levashov to 33 months, time served, and three years of supervised release for his role in operating the Kelihos botnet.
+
+
+
+The creator of the Kelihos Botnet, Peter Yuryevich Levashov (40), was sentenced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LPE flaw in Linux kernel allows attackers to get root privileges on most distros<a href="https://securityaffairs.co/wordpress/120365/security/lpe-flaw-linux-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a Local Privilege Escalation, tracked as CVE-2021-33909, that could allow attackers to get root access on most Linux distros.
+
+
+
+Qualys researchers discovered a local privilege escalation (LPE) tracked as CVE-2021-33909, aka Sequoia,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden to appoint Big Tech critic to DOJ antitrust role | House passes host of bills to strengthen cybersecurity in wake of attacks | Bezos returns from flight to space<a href="https://thehill.com//policy/technology/overnights/564005-hillicon-valley-biden-to-appoint-big-tech-critic-to-doj"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President BidenJoe BidenAides who clashed with Giuliani intentionally gave him wrong time for Trump debate prep: book Biden says Eid al-Adha carries 'special meaning' amid pandemic Manchin to back nominee for public lands chief MORE on Tuesday declared his intent to nominate an individual to lead the Department of Justice’s antitrust division that has the backing of organizations looking to crackdown on anticompetitive behavior among Big Tech companies. Meanwhile, cybersecurity continues to be a hot topic in the nation’s capital, with the House approving a raft of bills Tuesday intended to shore up critical infrastructure against attacks, and the Transportation Security Administration putting out a new directive to protect pipelines from hackers. Outside of the beltway, Amazon founder and former CEO Jeff BezosJeffrey (Jeff) Preston BezosBezos: Critics of billionaires' 'joyrides' to space 'largely right' Bezos 'really excited to figure out' how trip to space changes him Equilibrium/ Sustainability — The gentler side of Shark Week MORE blasted off to the edge of space, drawing criticism from some officials for how funding was obtained. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes host of bills to strengthen cybersecurity in wake of attacks<a href="https://thehill.com//policy/cybersecurity/563994-house-passes-multitude-of-bills-to-strengthen-cybersecurity-in-wake-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved five bipartisan measures designed to enhance various aspects of the nation’s cybersecurity following recent major cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

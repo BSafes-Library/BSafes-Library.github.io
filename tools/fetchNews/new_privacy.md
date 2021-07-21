@@ -8,6 +8,28 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLoader, a $49 spyware that could target both Windows and macOS devices<a href="https://securityaffairs.co/wordpress/120382/malware/xloader-49-dollar-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research&nbsp;(CPR) experts have spotted a cheap malware, dubbed XLoader variant, which was upgraded to target both Windows and macOS PCs.
+
+
+
+XLoader is a very cheap malware strain that is based on the popular Formbook Windows malware.&nbsp;
+
+
+
+FormBook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

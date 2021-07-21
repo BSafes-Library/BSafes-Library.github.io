@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive Information From Over 80 US Municipalities Left Vulnerable in Massive Data Breach at PeopleGIS<a href="https://www.wizcase.com/blog/us-municipality-breach-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s team of ethical hackers, led by Ata Hakç?l, has found a major breach exposing a number of US cities, all of them using the same web service provider aimed at municipalities.
+</details>
+<div style="text-align: right" markdown="1">
+WizCase
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

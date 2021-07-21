@@ -8,6 +8,118 @@ nav_order: 900075
 
 ## Government
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Launch NSO Probe After Macron Believed Spyware Target<a href="https://threatpost.com/french-launch-nso-probe-after-macron-believed-spyware-targe/167986/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fourteen world leaders were among those found on list of NSO believed targets for its Pegasus spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden official: ‘We don’t know exactly why’ ransomware gang vanished from the web<a href="https://www.politico.com/news/2021/07/20/biden-official-ransomware-gang-revil-500376?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration does not know exactly why the ransomware gang REvil, thought to be based in Russia, has vanished from the dark web, a senior official said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill requiring some critical groups to report cybersecurity incidents<a href="https://thehill.com//policy/cybersecurity/564048-senators-introduce-bill-requiring-some-mandatory-reporting-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the Senate Intelligence Committee and other bipartisan lawmakers on Wednesday formally introduced legislation requiring federal contractors and critical infrastructure groups to report attempted breaches in the wake of months of escalating cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity: DHS escalates mandates for key US pipelines in wake of ransomware attack<a href="https://edition.cnn.com/2021/07/20/politics/dhs-increases-cybersecuriy-mandates-key-us-pipelines/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security mandated additional cybersecurity measures this week for critical US pipelines, a move meant to protect against ransomware and other known threats.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Reveals China Breached Dozens of Pipeline Companies in Past Decade<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-201a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Overall, the U.S. government agencies identified and tracked 23 U.S. natural gas pipeline operators targeted from 2011 to 2013 in this spearphishing and intrusion campaign.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can the US Curb China's Cyber Ambitions?<a href="https://www.govinfosecurity.com/the-us-curb-chinas-cyber-ambitions-a-17109?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many security experts and analysts are applauding the U.S. for calling out China's cyber behavior, especially after the White House had focused so much attention on Russia's cyber activities.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French President Emmanuel Macron among 14 heads of states on potential spyware list<a href="https://apnews.com/article/technology-europe-middle-east-africa-jamal-khashoggi-8f2973fbd45803c175c653846b7fff68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French President Emmanuel Macron leads a list of 14 current or former heads of state who may have been targeted for hacking by clients of the notorious Israeli spyware firm NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+AP News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes host of bills to strengthen cybersecurity in wake of attacks<a href="https://thehill.com//policy/cybersecurity/563994-house-passes-multitude-of-bills-to-strengthen-cybersecurity-in-wake-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved&nbsp;five bipartisan measures designed to enhance various aspects of the nation’s cybersecurity following recent major cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

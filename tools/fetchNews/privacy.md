@@ -8,6 +8,48 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo's new email privacy service forwards tracker-free messages<a href="https://www.bleepingcomputer.com/news/security/duckduckgos-new-email-privacy-service-forwards-tracker-free-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo is rolling out an email privacy feature that strips incoming messages of trackers that can help profile you for better profiling and ad targeting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers: NSO Group’s Pegasus Spyware Should Spark Bans, Apple Accountability<a href="https://threatpost.com/nso-pegasus-spyware-bans-apple-accountability/167965/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Our roundtable of experts weighs in on implications for Apple and lawmakers in the wake of the bombshell report showing widespread surveillance of dissidents, journalists and others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 Heads of State and Governments Including Emmanuel Macron, Imran Khan, and Cyril Ramaphosa Among Those Targeted with Pegasus<a href="https://www.theguardian.com/world/2021/jul/20/emmanuel-macron-identified-in-leaked-pegasus-project-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per The Guardian, the leaked database at the heart of the Pegasus project includes the mobile phone numbers of the French president, Emmanuel Macron, and 13 other heads of state and heads of government.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware, crypto-scammer seeks foreigner with blockchain account<a href="https://blog.malwarebytes.com/social-engineering/2021/07/beware-crypto-scammer-seeks-foreigner-with-block-chain-account/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Malwarebytes observed a 419-style scam (also known as an advance fee scam) which claims to deliver on the promise of cryptocurrency riches over a WhatsApp conversation.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

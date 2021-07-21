@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XLoader, a $49 spyware that could target both Windows and macOS devices<a href="https://securityaffairs.co/wordpress/120382/malware/xloader-49-dollar-spyware.html"> Full Text</a>
@@ -58,7 +58,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France warns of APT31 cyberspies targeting French organizations<a href="https://www.bleepingcomputer.com/news/security/france-warns-of-apt31-cyberspies-targeting-french-organizations/"> Full Text</a>
@@ -74,7 +74,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese state hackers breached over a dozen US pipeline operators<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-breached-over-a-dozen-us-pipeline-operators/"> Full Text</a>
@@ -90,7 +90,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Systemd Security Hole Can Enable Unprivileged Users to Cause Denial of Service<a href="https://www.zdnet.com/article/nasty-linux-systemd-security-bug-revealed/?&web_view=true"> Full Text</a>
@@ -107,7 +107,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Launch NSO Probe After Macron Believed Spyware Target<a href="https://threatpost.com/french-launch-nso-probe-after-macron-believed-spyware-targe/167986/"> Full Text</a>
@@ -123,7 +123,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM Package Caught Stealing Users' Saved Passwords From Browsers<a href="https://thehackernews.com/2021/07/malicious-npm-package-caught-stealing.html"> Full Text</a>
@@ -139,7 +139,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Safe Security raises $33M to manage and mitigate cyber risk<a href="https://venturebeat.com/2021/07/21/safe-security-raises-33m-to-manage-and-mitigate-cyber-risk/?&web_view=true"> Full Text</a>
@@ -155,7 +155,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM package steals Chrome passwords on Windows via recovery tool<a href="https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/"> Full Text</a>
@@ -171,7 +171,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive Information From Over 80 US Municipalities Left Vulnerable in Massive Data Breach at PeopleGIS<a href="https://www.wizcase.com/blog/us-municipality-breach-report/?&web_view=true"> Full Text</a>
@@ -187,7 +187,7 @@ WizCase
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya ransomware attack highlights cyber vulnerabilities of small businesses<a href="https://thehill.com//policy/cybersecurity/562303-kaseya-ransomware-attack-highlights-cyber-vulnerabilities-of-small"> Full Text</a>
@@ -203,7 +203,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tracking Malware and Ransomware Domains in 2021<a href="https://threatpost.com/tracking-malware-and-ransomware-domains-2021/167933/"> Full Text</a>
@@ -219,7 +219,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden official: ‘We don’t know exactly why’ ransomware gang vanished from the web<a href="https://www.politico.com/news/2021/07/20/biden-official-ransomware-gang-revil-500376?&web_view=true"> Full Text</a>
@@ -235,7 +235,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joker Billing Fraud Malware Apps with 30,000 Downloads Found in Google Play Store<a href="https://www.zdnet.com/article/joker-billing-fraud-malware-found-in-google-play-store/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -251,7 +251,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce bill requiring some critical groups to report cybersecurity incidents<a href="https://thehill.com//policy/cybersecurity/564048-senators-introduce-bill-requiring-some-mandatory-reporting-of"> Full Text</a>
@@ -267,7 +267,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome now comes with up to 50x faster phishing detection<a href="https://www.bleepingcomputer.com/news/security/google-chrome-now-comes-with-up-to-50x-faster-phishing-detection/"> Full Text</a>
@@ -283,7 +283,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity: DHS escalates mandates for key US pipelines in wake of ransomware attack<a href="https://edition.cnn.com/2021/07/20/politics/dhs-increases-cybersecuriy-mandates-key-us-pipelines/index.html?&web_view=true"> Full Text</a>
@@ -299,7 +299,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Reveals China Breached Dozens of Pipeline Companies in Past Decade<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-201a?&web_view=true"> Full Text</a>
@@ -315,7 +315,7 @@ US CERT
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Exposes MicroLogix PLCs to Remote DoS Attacks<a href="https://www.securityweek.com/vulnerability-exposes-micrologix-plcs-remote-dos-attacks?&web_view=true"> Full Text</a>
@@ -331,7 +331,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 capa 2.0: Better, Faster, Stronger<a href="https://www.fireeye.com/blog/threat-research/2021/07/capa-2-better-stronger-faster.html?&web_view=true"> Full Text</a>
@@ -347,7 +347,7 @@ FireEye
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Found Flaws in Telegram's Cryptographic Protocol<a href="https://www.inforisktoday.com/researchers-found-flaws-in-telegrams-cryptographic-protocol-a-17108?&web_view=true"> Full Text</a>
@@ -363,7 +363,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XLoader malware steals logins from macOS and Windows systems<a href="https://www.bleepingcomputer.com/news/security/xloader-malware-steals-logins-from-macos-and-windows-systems/"> Full Text</a>
@@ -379,7 +379,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google, Bloomberg and Facebook pledge support for second year of Security Training Scholarship Program for women<a href="https://www.zdnet.com/article/google-bloomberg-and-facebook-pledge-support-for-second-year-of-security-training-scholarship-program-for-women/?&web_view=true"> Full Text</a>
@@ -395,7 +395,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XLoader Windows InfoStealer Malware Now Upgraded to Attack macOS Systems<a href="https://thehackernews.com/2021/07/xloader-windows-infostealer-malware-now.html"> Full Text</a>
@@ -411,7 +411,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shlayer Malware: Continued Use of Flash Updates<a href="https://www.crowdstrike.com/blog/shlayer-malvertising-campaigns-still-using-flash-update-disguise/?&web_view=true"> Full Text</a>
@@ -427,7 +427,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several New Critical Flaws Affect CODESYS Industrial Automation Software<a href="https://thehackernews.com/2021/07/several-new-critical-flaws-affect.html"> Full Text</a>
@@ -443,7 +443,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Being Picked Apart by $49 XLoader Data Stealer<a href="https://threatpost.com/macos-49-xloader-data-stealer/167971/"> Full Text</a>
@@ -459,7 +459,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] A Guide to Stress-Free Cybersecurity for Lean IT Security Teams<a href="https://thehackernews.com/2021/07/ebook-guide-to-stress-free.html"> Full Text</a>
@@ -475,7 +475,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can the US Curb China's Cyber Ambitions?<a href="https://www.govinfosecurity.com/the-us-curb-chinas-cyber-ambitions-a-17109?&web_view=true"> Full Text</a>
@@ -491,7 +491,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rail ticket machines in northern England hit by ransomware attack<a href="https://www.reuters.com/world/uk/uks-northern-rails-self-service-ticket-machines-hit-by-ransomware-cyber-attack-2021-07-19/?&web_view=true"> Full Text</a>
@@ -507,7 +507,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares workarounds for new Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-new-windows-10-zero-day-bug/"> Full Text</a>
@@ -523,7 +523,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French President Emmanuel Macron among 14 heads of states on potential spyware list<a href="https://apnews.com/article/technology-europe-middle-east-africa-jamal-khashoggi-8f2973fbd45803c175c653846b7fff68?&web_view=true"> Full Text</a>
@@ -539,7 +539,7 @@ AP News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares permissions fix for new Windows 10 zero-day<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-permissions-fix-for-new-windows-10-zero-day/"> Full Text</a>
@@ -555,7 +555,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware, crypto-scammer seeks foreigner with blockchain account<a href="https://blog.malwarebytes.com/social-engineering/2021/07/beware-crypto-scammer-seeks-foreigner-with-block-chain-account/?&web_view=true"> Full Text</a>
@@ -571,7 +571,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kelihos botmaster Peter Levashov gets time served<a href="https://securityaffairs.co/wordpress/120374/cyber-crime/kelihos-botnetmaster-peter-levashov-sentence.html"> Full Text</a>
@@ -591,7 +591,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LPE flaw in Linux kernel allows attackers to get root privileges on most distros<a href="https://securityaffairs.co/wordpress/120365/security/lpe-flaw-linux-kernel.html"> Full Text</a>
@@ -611,7 +611,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Biden to appoint Big Tech critic to DOJ antitrust role | House passes host of bills to strengthen cybersecurity in wake of attacks | Bezos returns from flight to space<a href="https://thehill.com//policy/technology/overnights/564005-hillicon-valley-biden-to-appoint-big-tech-critic-to-doj"> Full Text</a>
@@ -627,7 +627,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2021
+July 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House passes host of bills to strengthen cybersecurity in wake of attacks<a href="https://thehill.com//policy/cybersecurity/563994-house-passes-multitude-of-bills-to-strengthen-cybersecurity-in-wake-of"> Full Text</a>

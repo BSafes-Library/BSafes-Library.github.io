@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the Top Favorite CVEs of Cybercriminals<a href="https://cyware.com/news/these-are-the-top-favorite-cves-of-cybercriminals-9e56fe87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of criminal forums, where experts studied 15 cybercrime forums from January 2020 to March 2021, reveals attackers' top favorite CVEs. As per them, most of the discovered CVEs were exploited by nation-state hackers and cybercriminals. At the least, organizations must locate these flaws a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
