@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden official: ‘We don’t know exactly why’ ransomware gang vanished from the web<a href="https://www.politico.com/news/2021/07/20/biden-official-ransomware-gang-revil-500376?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration does not know exactly why the ransomware gang REvil, thought to be based in Russia, has vanished from the dark web, a senior official said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Joker Billing Fraud Malware Apps with 30,000 Downloads Found in Google Play Store<a href="https://www.zdnet.com/article/joker-billing-fraud-malware-found-in-google-play-store/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
 </p>
 <details>
