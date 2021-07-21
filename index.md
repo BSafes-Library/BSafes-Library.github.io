@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+France ANSSI agency warns of APT31 campaign against French organizations<a href="https://securityaffairs.co/wordpress/120392/apt/anssi-warns-apt31-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French cyber-security agency ANSSI warned of an ongoing cyberespionage campaign aimed at French organizations carried out by China-linked APT31 group.
+
+
+
+The French national cyber-security agency ANSSI warned of ongoing attacks against a large number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM Package Steals Passwords via Chrome’s Account-Recovery Tool<a href="https://threatpost.com/npm-package-steals-chrome-passwords/168004/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In another vast software supply-chain attack, the password-stealer is filching credentials from Chrome on Windows systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares workaround for Windows 10 SeriousSAM vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-windows-10-serioussam-vulnerability/"> Full Text</a>
 </p>
 <details>
