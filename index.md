@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of stealthy malware found on hacked Pulse Secure devices<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-stealthy-malware-found-on-hacked-pulse-secure-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) released an alert today about more than a dozen malware samples found on exploited Pulse Secure devices that are largely undetected by antivirus products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of hacked Pulse Secure devices loaded with malware in disguise<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hacked-pulse-secure-devices-loaded-with-malware-in-disguise/"> Full Text</a>
 </p>
 <details>
