@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TikTok, Snapchat account hijacker arrested for role in Twitter hack<a href="https://www.bleepingcomputer.com/news/security/tiktok-snapchat-account-hijacker-arrested-for-role-in-twitter-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fourth suspect has been arrested today for his role in the Twitter hack last year that gave attackers access to the company's internal network exposing high-profile accounts to hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Officials warn of cybersecurity vulnerabilities in water systems<a href="https://thehill.com//policy/equilibrium-sustainability/564189-officials-warn-of-cybersecurity-vulnerabilities-in-water-systems"> Full Text</a>
 </p>
 <details>
