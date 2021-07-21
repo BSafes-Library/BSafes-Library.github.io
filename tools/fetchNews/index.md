@@ -37,6 +37,72 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+REvil’s Gone But its Technique is Relevant<a href="https://cyware.com/news/revils-gone-but-its-technique-is-relevant-ade2e92e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Labs described the use of DLL sideloading in REvil’s attacks after the group made a sudden exit that surprised everyone. Generally, this technique is used by APT groups to avoid raising any flags on security radars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Confirm Diavol Ransomware Steals Data<a href="https://cyware.com/news/experts-confirm-diavol-ransomware-steals-data-5702b296"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts provide proof of Diavol ransomware stealing data from infected systems as opposed to previous claims by the&nbsp;FortiGuard Labs’s researchers. The Diavol group is resilient and evasive in nature. Security professionals need to erect a robust security infra to avoid any unpleasant ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA2721: A New Threat Group Spreading Bandook Malware<a href="https://cyware.com/news/ta2721-a-new-threat-group-spreading-bandook-malware-6318a7c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint discovered a new threat group, TA2721, targeting global organizations across finance, entertainment, and other industries via malspam emails written in Spanish. A highly-targeted campaign by TA2721 suggests that the group has a clear goal and prepares well before launching attacks. Secur ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Current State of Consent Phishing Emails<a href="https://cyware.com/news/current-state-of-consent-phishing-emails-ea5c8a5f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft threat researchers are tracking an increased rise in consent phishing attacks that exploit OAuth request links. The threat actors are attempting to lure targets into providing permission to attacker-owned apps and eventually, sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 France ANSSI agency warns of APT31 campaign against French organizations<a href="https://securityaffairs.co/wordpress/120392/apt/anssi-warns-apt31-attacks.html"> Full Text</a>
 </p>
 <details>
