@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Shlayer Malware: Continued Use of Flash Updates<a href="https://www.crowdstrike.com/blog/shlayer-malvertising-campaigns-still-using-flash-update-disguise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent Shlayer malvertising campaigns have gone back to using fake Flash updates and social engineering tactics to trick victims into manually installing the malware and compromising their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several New Critical Flaws Affect CODESYS Industrial Automation Software<a href="https://thehackernews.com/2021/07/several-new-critical-flaws-affect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed multiple security vulnerabilities impacting CODESYS automation software and the WAGO programmable logic controller (PLC) platform that could be remotely exploited to take control of a company's cloud operational technology (OT) infrastructure.  The flaws can be turned "into innovative attacks that could put threat actors in position to remotely control a company's cloud OT implementation, and threaten any industrial process managed from the cloud," the New York-headquartered industrial security company Claroty said in a report  shared with The Hacker News, adding they "can be used to target a cloud-based management console from a compromised field device, or take over a company's cloud and attack PLCs and other devices to disrupt operations."   CODESYS is a development environment for programming controller applications, enabling easy configuration of PLCs in industrial control systems. WAGO PFC100/200 is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Being Picked Apart by $49 XLoader Data Stealer<a href="https://threatpost.com/macos-49-xloader-data-stealer/167971/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cheap, easy & prolific, the new version of the old FormBook form-stealer and keylogger has added Mac users to its hit list, and it’s selling like hotcakes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 [eBook] A Guide to Stress-Free Cybersecurity for Lean IT Security Teams<a href="https://thehackernews.com/2021/07/ebook-guide-to-stress-free.html"> Full Text</a>
 </p>
 <details>
