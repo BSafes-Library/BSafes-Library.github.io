@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome now comes with up to 50x faster phishing detection<a href="https://www.bleepingcomputer.com/news/security/google-chrome-now-comes-with-up-to-50x-faster-phishing-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome now comes with up to 50 times faster phishing detection starting with the latest released version 92, promoted to the stable channel on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity: DHS escalates mandates for key US pipelines in wake of ransomware attack<a href="https://edition.cnn.com/2021/07/20/politics/dhs-increases-cybersecuriy-mandates-key-us-pipelines/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security mandated additional cybersecurity measures this week for critical US pipelines, a move meant to protect against ransomware and other known threats.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.S. Reveals China Breached Dozens of Pipeline Companies in Past Decade<a href="https://us-cert.cisa.gov/ncas/alerts/aa21-201a?&web_view=true"> Full Text</a>
 </p>
 <details>
