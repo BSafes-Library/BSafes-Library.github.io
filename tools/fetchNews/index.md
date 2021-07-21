@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares workaround for Windows 10 SeriousSAM vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-windows-10-serioussam-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared a workaround for a Windows 10 zero-day vulnerability dubbed SeriousSAM that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indictments, Attribution Unlikely to Deter Chinese Hacking, Researchers Say<a href="https://threatpost.com/indictments-attribution-chinese-hacking/168005/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are skeptical that much will come from calling out China for the Microsoft Exchange attacks and APT40 activity, but the move marks an important foreign-policy change.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DNSFilter secures $30M Series A to step up fight against DNS-based threats<a href="https://techcrunch.com/2021/07/21/dnsfilter-secures-30m-series-a-to-step-up-fight-against-dns-based-threats/?&web_view=true"> Full Text</a>
 </p>
 <details>
