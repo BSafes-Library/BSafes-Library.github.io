@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+XLoader Windows InfoStealer Malware Now Upgraded to Attack macOS Systems<a href="https://thehackernews.com/2021/07/xloader-windows-infostealer-malware-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed details of an evolving malware that has now been upgraded to steal sensitive information from Apple's macOS operating system.  The malware, dubbed "XLoader," is a successor to another well-known Windows-based info stealer called  Formbook  that's known to vacuum credentials from various web browsers, collect screenshots, log keystrokes, and download and execute files from attacker-controlled domains.   "For as low as $49 on the Darknet, hackers can buy licenses for the new malware, enabling capabilities to harvest log-in credentials, collect screenshots, log keystrokes, and execute malicious files," cybersecurity firm Check Point said in a report  shared with The Hacker News.  Distributed via spoofed emails containing malicious Microsoft Office documents, XLoader is estimated to infected victims spanning across 69 countries between December 1, 2020, and June 1, 2021, with 53% of the infections reported in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Shlayer Malware: Continued Use of Flash Updates<a href="https://www.crowdstrike.com/blog/shlayer-malvertising-campaigns-still-using-flash-update-disguise/?&web_view=true"> Full Text</a>
 </p>
 <details>
