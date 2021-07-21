@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linux Systemd Security Hole Can Enable Unprivileged Users to Cause Denial of Service<a href="https://www.zdnet.com/article/nasty-linux-systemd-security-bug-revealed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this newest vulnerability enables any unprivileged user to cause a denial of service via a kernel panic. 
+Systemd is used in almost all modern Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 French Launch NSO Probe After Macron Believed Spyware Target<a href="https://threatpost.com/french-launch-nso-probe-after-macron-believed-spyware-targe/167986/"> Full Text</a>
 </p>
 <details>
