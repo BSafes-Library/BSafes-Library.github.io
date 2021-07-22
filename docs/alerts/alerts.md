@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 - DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Targeting Pulse Secure Devices <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/21/malware-targeting-pulse-secure-devices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of CISA’s ongoing response to Pulse Secure compromises, CISA has analyzed 13 malware samples related to exploited Pulse Secure devices. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 13, 2021 - DHS
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
