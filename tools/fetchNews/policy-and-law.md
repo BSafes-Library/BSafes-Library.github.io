@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kelihos botmaster Peter Levashov gets time served<a href="https://securityaffairs.co/wordpress/120374/cyber-crime/kelihos-botnetmaster-peter-levashov-sentence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US federal judge sentenced Russian hacker Peter Levashov to 33 months, time served, and three years of supervised release for his role in operating the Kelihos botnet.
+
+
+
+The creator of the Kelihos Botnet,&nbsp;Peter Yuryevich Levashov (40), was sentenced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

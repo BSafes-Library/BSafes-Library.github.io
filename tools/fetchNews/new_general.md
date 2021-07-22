@@ -11,6 +11,34 @@ nav_order: 900072
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senators introduce bill to require some cyber incident reporting | UK citizen arrested in connection to 2020 Twitter hack | Officials warn of cyber vulnerabilities in water systems<a href="https://thehill.com//policy/cybersecurity/overnights/564237-hillicon-valley-senators-introduce-bill-to-require-some-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A much-anticipated bipartisan measure to respond to recent major cyberattacks on both the federal government and the private sector was rolled out by Senate Intelligence Committee leaders on Wednesday. The bill would increase the government’s visibility into cyberattacks by requiring some key companies to report breaches.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indictments, Attribution Unlikely to Deter Chinese Hacking, Researchers Say<a href="https://threatpost.com/indictments-attribution-chinese-hacking/168005/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are skeptical that much will come from calling out China for the Microsoft Exchange attacks and APT40 activity, but the move marks an important foreign-policy change.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Tracking Malware and Ransomware Domains in 2021<a href="https://threatpost.com/tracking-malware-and-ransomware-domains-2021/167933/"> Full Text</a>
 </p>
 <details>

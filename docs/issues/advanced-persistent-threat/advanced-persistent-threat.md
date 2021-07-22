@@ -11,6 +11,38 @@ nav_order: 900010
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+France ANSSI agency warns of APT31 campaign against French organizations<a href="https://securityaffairs.co/wordpress/120392/apt/anssi-warns-apt31-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French cyber-security agency ANSSI warned of an ongoing cyberespionage campaign aimed at French organizations carried out by China-linked APT31 group.
+
+
+
+The French national cyber-security agency ANSSI warned of ongoing attacks against a large number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT Group Deploys Android Malware for the First Time<a href="https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro conducted an investigation into a malicious Android malware sample, which is believed to be linked to the StrongPity APT group, that was posted on the Syrian e-Gov website.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 France warns of APT31 cyberspies targeting French organizations<a href="https://www.bleepingcomputer.com/news/security/france-warns-of-apt31-cyberspies-targeting-french-organizations/"> Full Text</a>
 </p>
 <details>

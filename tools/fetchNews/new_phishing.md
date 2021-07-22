@@ -11,6 +11,20 @@ nav_order: 900160
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Current State of Consent Phishing Emails<a href="https://cyware.com/news/current-state-of-consent-phishing-emails-ea5c8a5f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft threat researchers are tracking an increased rise in consent phishing attacks that exploit OAuth request links. The threat actors are attempting to lure targets into providing permission to attacker-owned apps and eventually, sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Beware, crypto-scammer seeks foreigner with blockchain account<a href="https://blog.malwarebytes.com/social-engineering/2021/07/beware-crypto-scammer-seeks-foreigner-with-block-chain-account/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

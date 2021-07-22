@@ -11,6 +11,48 @@ nav_order: 900220
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares workaround for Windows 10 SeriousSAM vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-windows-10-serioussam-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared a workaround for a Windows 10 zero-day vulnerability dubbed SeriousSAM that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares workarounds for SeriousSAM Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-serioussam-windows-10-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared workarounds for a Windows 10&nbsp;zero-day vulnerability that can let attackers gain admin rights on vulnerable systems and execute arbitrary code with SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 21 Vulnerabilities Across Seven Products<a href="https://www.securityweek.com/adobe-patches-21-vulnerabilities-across-seven-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seven vulnerabilities have been addressed in Adobe After Effects for Windows and macOS. Five of them can allow arbitrary code execution and they have been rated critical.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linux Systemd Security Hole Can Enable Unprivileged Users to Cause Denial of Service<a href="https://www.zdnet.com/article/nasty-linux-systemd-security-bug-revealed/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

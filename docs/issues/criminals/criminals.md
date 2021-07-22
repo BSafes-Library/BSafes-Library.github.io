@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok, Snapchat account hijacker arrested for role in Twitter hack<a href="https://www.bleepingcomputer.com/news/security/tiktok-snapchat-account-hijacker-arrested-for-role-in-twitter-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fourth suspect has been arrested today for his role in the Twitter hack last year that gave attackers access to the company's internal network exposing high-profile accounts to hijacking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil’s Gone But its Technique is Relevant<a href="https://cyware.com/news/revils-gone-but-its-technique-is-relevant-ade2e92e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Labs described the use of DLL sideloading in REvil’s attacks after the group made a sudden exit that surprised everyone. Generally, this technique is used by APT groups to avoid raising any flags on security radars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

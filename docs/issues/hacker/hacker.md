@@ -11,6 +11,21 @@ nav_order: 900080
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+TA2721: A New Threat Group Spreading Bandook Malware<a href="https://cyware.com/news/ta2721-a-new-threat-group-spreading-bandook-malware-6318a7c0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint discovered a new threat group, TA2721, targeting global organizations across finance, entertainment, and other industries via malspam emails written in Spanish. A highly-targeted campaign by TA2721 suggests that the group has a clear goal and prepares well before launching attacks. Secur ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese state hackers breached over a dozen US pipeline operators<a href="https://www.bleepingcomputer.com/news/security/chinese-state-hackers-breached-over-a-dozen-us-pipeline-operators/"> Full Text</a>
 </p>
 <details>

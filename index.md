@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senators introduce bill to require some cyber incident reporting | UK citizen arrested in connection to 2020 Twitter hack | Officials warn of cyber vulnerabilities in water systems<a href="https://thehill.com//policy/cybersecurity/overnights/564237-hillicon-valley-senators-introduce-bill-to-require-some-cyber"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House committee approves slate of bills to improve telecom security<a href="https://thehill.com//policy/cybersecurity/564229-house-committee-approves-slate-of-bills-to-improve-telecom-security"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok, Snapchat account hijacker arrested for role in Twitter hack<a href="https://www.bleepingcomputer.com/news/security/tiktok-snapchat-account-hijacker-arrested-for-role-in-twitter-hack/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials warn of cybersecurity vulnerabilities in water systems<a href="https://thehill.com//policy/equilibrium-sustainability/564189-officials-warn-of-cybersecurity-vulnerabilities-in-water-systems"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of stealthy malware found on hacked Pulse Secure devices<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-stealthy-malware-found-on-hacked-pulse-secure-devices/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of hacked Pulse Secure devices loaded with malware in disguise<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hacked-pulse-secure-devices-loaded-with-malware-in-disguise/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil’s Gone But its Technique is Relevant<a href="https://cyware.com/news/revils-gone-but-its-technique-is-relevant-ade2e92e"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Confirm Diavol Ransomware Steals Data<a href="https://cyware.com/news/experts-confirm-diavol-ransomware-steals-data-5702b296"> Full Text</a>
@@ -163,7 +163,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA2721: A New Threat Group Spreading Bandook Malware<a href="https://cyware.com/news/ta2721-a-new-threat-group-spreading-bandook-malware-6318a7c0"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Current State of Consent Phishing Emails<a href="https://cyware.com/news/current-state-of-consent-phishing-emails-ea5c8a5f"> Full Text</a>
@@ -196,7 +196,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France ANSSI agency warns of APT31 campaign against French organizations<a href="https://securityaffairs.co/wordpress/120392/apt/anssi-warns-apt31-attacks.html"> Full Text</a>
@@ -216,7 +216,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM Package Steals Passwords via Chrome’s Account-Recovery Tool<a href="https://threatpost.com/npm-package-steals-chrome-passwords/168004/"> Full Text</a>
@@ -232,7 +232,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares workaround for Windows 10 SeriousSAM vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-windows-10-serioussam-vulnerability/"> Full Text</a>
@@ -248,7 +248,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indictments, Attribution Unlikely to Deter Chinese Hacking, Researchers Say<a href="https://threatpost.com/indictments-attribution-chinese-hacking/168005/"> Full Text</a>
@@ -264,7 +264,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DNSFilter secures $30M Series A to step up fight against DNS-based threats<a href="https://techcrunch.com/2021/07/21/dnsfilter-secures-30m-series-a-to-step-up-fight-against-dns-based-threats/?&web_view=true"> Full Text</a>
@@ -280,7 +280,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StrongPity APT Group Deploys Android Malware for the First Time<a href="https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The White House Responded to the Chinese Hacks of the Microsoft Exchange Servers This Week. Is It Enough?<a href="https://www.lawfareblog.com/white-house-responded-chinese-hacks-microsoft-exchange-servers-week-it-enough"> Full Text</a>
@@ -312,7 +312,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Current Botnet Takedown Jurisprudence Should Not Be Replicated<a href="https://www.lawfareblog.com/why-current-botnet-takedown-jurisprudence-should-not-be-replicated"> Full Text</a>
@@ -328,7 +328,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes Cloud Clusters Face Cyberattacks via Argo Workflows<a href="https://threatpost.com/kubernetes-cyberattacks-argo-workflows/167997/"> Full Text</a>
@@ -344,7 +344,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares workarounds for SeriousSAM Windows 10 zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-serioussam-windows-10-zero-day-bug/"> Full Text</a>
@@ -360,7 +360,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2021
+July 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches 21 Vulnerabilities Across Seven Products<a href="https://www.securityweek.com/adobe-patches-21-vulnerabilities-across-seven-products?&web_view=true"> Full Text</a>

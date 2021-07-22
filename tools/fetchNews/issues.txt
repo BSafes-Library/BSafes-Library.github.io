@@ -32,6 +32,7 @@
 Alerts:
 . https://www.lawfareblog.com/justice-department-charges-four-chinese-nationals-working-global-intrusion-campaign
 . https://www.bleepingcomputer.com/news/security/fbi-threat-actors-may-be-targeting-the-2020-tokyo-summer-olympics/
+. https://www.bleepingcomputer.com/news/security/cisa-warns-of-stealthy-malware-found-on-hacked-pulse-secure-devices/
 
 Law:
 
