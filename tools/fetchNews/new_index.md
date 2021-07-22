@@ -37,6 +37,250 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 22, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+MITRE updates list of top 25 most dangerous software bugs<a href="https://www.bleepingcomputer.com/news/security/mitre-updates-list-of-top-25-most-dangerous-software-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has shared this year's top 25 list of most common and dangerous weaknesses plaguing software throughout the previous two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TicketClub Italy Database of Over 340,000 Users Offered for Sale on Dark Web Forum<a href="https://securityaffairs.co/wordpress/120406/data-breach/ticketclub-italy-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor with the alias “bl4ckt0r” published the TicketClub Italy database with over 340,957 users for sale and released several meaningful data dumps which may confirm the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Hackers Distributed Android Trojan via Syrian e-Government Portal<a href="https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor has been tracked in a new campaign deploying Android malware via the Syrian e-Government Web Portal, indicating an upgraded arsenal designed to compromise victims.  "To the best of our knowledge, this is the first time that the group has been publicly observed using malicious Android applications as part of its attacks," Trend Micro researchers Zhengyu Dong, Fyodor Yarochkin, and Steven Du  said  in a technical write-up published Wednesday.  StrongPity , also codenamed  Promethium  by Microsoft, is believed to have been active since 2012 and has typically focused on targets across Turkey and Syria. In June 2020, the espionage threat actor was  connected  to a wave of activities that banked on watering hole attacks and tampered installers, which abuse the popularity of legitimate applications, to infect targets with malware.   "Promethium has been resilient over the years," Cisco Talos  disclosed  last year. "Its campai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA analyzed stealthy malware found on compromised Pulse Secure devices<a href="https://securityaffairs.co/wordpress/120412/hacking/pulse-secure-cisa-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA released an alert today about several stealth malware samples that were found on compromised Pulse Secure devices.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published a security alert related to the discovery of 13 malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Windows 10 Workaround Fix for ‘SeriousSAM’ Bug<a href="https://threatpost.com/win-10-serioussam/168034/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A privilege elevation bug in Windows 10 opens all systems to attackers to access data and create new accounts on systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian asks customers to patch critical Jira vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-asks-customers-to-patch-critical-jira-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian is prompting its enterprise customers to patch a critical vulnerability in multiple versions of its Jira Data Center and Jira Service Management Data Center products. The vulnerability tracked as CVE-2020-36239 can give remote attackers code execution abilities, due to a missing authentication flaw in Ehcache RMI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in IoT Malware Attacks Raises Security Concerns<a href="https://cyware.com/news/rise-in-iot-malware-attacks-raises-security-concerns-aa63b818"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler analyzed 575 million device transactions, along with 300,000 IoT-specific malware attack attempts. This revealed that IoT malware has witnessed a rise of 700% as compared to pre-pandemic numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reduce End-User Password Change Frustrations<a href="https://thehackernews.com/2021/07/reduce-end-user-password-change.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations today must give attention to their cybersecurity posture, including policies, procedures, and technical solutions for cybersecurity challenges.   This often results in a greater burden on the IT service desk staff as end-users encounter issues related to security software, policies, and password restrictions.   One of the most common areas where security may cause challenges for end-users is password policies and password changes. What are these issues? How can organizations reduce end-user password change frustration? First, let's consider the standard password policy, its role, and general settings affecting end-users.  What are password policies?  Most organizations today have a password policy in place. So, what is a password policy? Password policies define the types and content of passwords allowed or required of end-users in an identity and access management system. Various aspects of the password that businesses control may include the password's required
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joker Malware Continues to Go Strong Against Android Users<a href="https://cyware.com/news/joker-malware-continues-to-go-strong-against-android-users-f7128619"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler’s ThreatLabZ research team recently observed a new Joker malware variant that was distributed via 11 different apps on Google Play Store.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle Warns of Critical Remotely Exploitable Weblogic Server Flaws<a href="https://thehackernews.com/2021/07/oracle-warns-of-critical-remotely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle on Tuesday released its quarterly  Critical Patch Update for July 2021  with 342 fixes spanning across multiple products, some of which could be exploited by a remote attacker to take control of an affected system.  Chief among them is  CVE-2019-2729 , a critical deserialization vulnerability via XMLDecoder in Oracle WebLogic Server Web Services that's remotely exploitable without authentication. It's worth noting that the weakness was originally addressed as part of an  out-of-band security update  in June 2019.   Oracle WebLogic Server is an application server that functions as a platform for developing, deploying, and running enterprise Java-based applications.  The flaw, which is rated 9.8 out of a maximum of 10 on the CVSS severity scale, affects WebLogic Server versions 11.1.2.4 and 11.2.5.0 and exists within the Oracle Hyperion Infrastructure Technology.  Also fixed in WebLogic Server are six other flaws, three of which have been assigned a CVSS score of 9.8 out
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Government Says Limited Number of Users Affected by Olympic Ticket Data Leak<a href="https://www.zdnet.com/article/tokyo-govt-officials-say-olympic-ticket-data-leaked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The news came one day after the FBI released a private industry alert urging organizations working with the Tokyo 2020 Summer Olympics to prepare for a wave of cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive medical data of cancer patients at Jefferson Health potentially breached following third-party hack<a href="https://portswigger.net/daily-swig/sensitive-medical-data-of-cancer-patients-at-jefferson-health-potentially-breached-following-third-party-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For some patients, a Social Security number was also included, the healthcare provider said in a statement. Financial account, insurance, and payment card information was not involved, it added.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Data of Over 6000 Humana Customers Leaked Online by Cybercriminals<a href="https://securityaffairs.co/wordpress/120402/data-breach/humana-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked information includes patients’ names, IDs, email addresses, password hashes, Medicare Advantage Plan listings, medical treatment data, and more. The data dates back to 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+cURL developers take a second shot at fixing information disclosure flaw<a href="https://portswigger.net/daily-swig/curl-developers-take-a-second-shot-at-fixing-information-disclosure-flaw?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attempted resolution of the flaw (CVE-2021-22898) failed to address an almost identical bug in the software which also presented an information disclosure or potential data leak vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Campaign Leveraging Exchange Vulnerability Potentially Linked to Iran<a href="https://www.secureworks.com/blog/ongoing-campaign-leveraging-exchange-vulnerability-potentially-linked-to-iran?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis by Secureworks CTU researchers suggests that an Iranian threat group, possibly Oilrig, was responsible for the activity that started with the compromise of the Exchange Servers.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Another Hacker Arrested for 2020 Twitter Hack and Massive Bitcoin Scam<a href="https://thehackernews.com/2021/07/another-hacker-arrested-for-2020.html"> Full Text</a>
 </p>
 <details>
@@ -50,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TicketClub Italy Database Offered in Dark Web<a href="https://securityaffairs.co/wordpress/120406/data-breach/ticketclub-italy-data-leak.html"> Full Text</a>
@@ -70,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Humana customers have their medical data leaked online by threat actors<a href="https://securityaffairs.co/wordpress/120402/data-breach/humana-data-leak.html"> Full Text</a>
