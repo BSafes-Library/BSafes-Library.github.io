@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 21, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senators introduce bill to require some cyber incident reporting | UK citizen arrested in connection to 2020 Twitter hack | Officials warn of cyber vulnerabilities in water systems<a href="https://thehill.com//policy/cybersecurity/overnights/564237-hillicon-valley-senators-introduce-bill-to-require-some-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A much-anticipated bipartisan measure to respond to recent major cyberattacks on both the federal government and the private sector was rolled out by Senate Intelligence Committee leaders on Wednesday. The bill would increase the government’s visibility into cyberattacks by requiring some key companies to report breaches.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House committee approves slate of bills to improve telecom security<a href="https://thehill.com//policy/cybersecurity/564229-house-committee-approves-slate-of-bills-to-improve-telecom-security"> Full Text</a>
 </p>
 <details>
