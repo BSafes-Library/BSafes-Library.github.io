@@ -34,6 +34,94 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle fixes critical RCE vulnerabilities in Weblogic Server<a href="https://securityaffairs.co/wordpress/120439/security/oracle-weblogic-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle released its Critical Patch Update for July 2021, it fixes hundreds of flaws, including Critical Remotely Exploitable vulnerabilities in Weblogic Server.
+
+
+
+Oracle this week released its quarterly Critical Patch Update for July 2021 that contains...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics<a href="https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expected cyberattacks on Tokyo Olympics likely include attempts to hijack video feeds, the Feds warn.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB helps Dutch police identify members of phishing developer gang Fraud Family<a href="https://securityaffairs.co/wordpress/120428/cyber-crime/fraud-family-members-identified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from threat intelligence firm Group-IB helps Dutch police identify members of phishing developer gang known as Fraud Family.
+
+
+
+Group-IB, one of the leading providers of solutions dedicated to detecting and preventing cyberattacks, identifying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Networks Exposed Through Cloud-Based Operational Tech<a href="https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical ICS vulnerabilities can be exploited through leading cloud-management platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day<a href="https://threatpost.com/apple-iphone-pegasus-zero-day/168040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Update now: The ream of bugs includes some remotely exploitable code execution flaws. Still to come: a fix for what makes iPhones easy prey for Pegasus spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
