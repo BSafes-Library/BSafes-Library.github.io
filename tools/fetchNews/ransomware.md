@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Confirm Diavol Ransomware Steals Data<a href="https://cyware.com/news/experts-confirm-diavol-ransomware-steals-data-5702b296"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts provide proof of Diavol ransomware stealing data from infected systems as opposed to previous claims by the&nbsp;FortiGuard Labs’s researchers. The Diavol group is resilient and evasive in nature. Security professionals need to erect a robust security infra to avoid any unpleasant ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

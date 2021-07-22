@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Hacker Arrested for 2020 Twitter Hack and Massive Bitcoin Scam<a href="https://thehackernews.com/2021/07/another-hacker-arrested-for-2020.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TicketClub Italy Database Offered in Dark Web<a href="https://securityaffairs.co/wordpress/120406/data-breach/ticketclub-italy-data-leak.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Humana customers have their medical data leaked online by threat actors<a href="https://securityaffairs.co/wordpress/120402/data-breach/humana-data-leak.html"> Full Text</a>

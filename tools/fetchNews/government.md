@@ -11,6 +11,62 @@ nav_order: 900075
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+House committee approves slate of bills to improve telecom security<a href="https://thehill.com//policy/cybersecurity/564229-house-committee-approves-slate-of-bills-to-improve-telecom-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Energy and Commerce Committee on Wednesday approved multiple pieces of legislation meant to strengthen telecommunications against cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials warn of cybersecurity vulnerabilities in water systems<a href="https://thehill.com//policy/equilibrium-sustainability/564189-officials-warn-of-cybersecurity-vulnerabilities-in-water-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers and experts on Wednesday warned of gaping cybersecurity vulnerabilities in the nation’s critical water sector amid escalating attacks against a number of U.S. organizations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of stealthy malware found on hacked Pulse Secure devices<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-stealthy-malware-found-on-hacked-pulse-secure-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) released an alert today about more than a dozen malware samples found on exploited Pulse Secure devices that are largely undetected by antivirus products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The White House Responded to the Chinese Hacks of the Microsoft Exchange Servers This Week. Is It Enough?<a href="https://www.lawfareblog.com/white-house-responded-chinese-hacks-microsoft-exchange-servers-week-it-enough"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration should be applauded for building a broad coalition of allies to condemn China's dangerous cyber activity. Now, the White House should do what it has done to other U.S. adversaries and impose real costs on Beijing.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 French Launch NSO Probe After Macron Believed Spyware Target<a href="https://threatpost.com/french-launch-nso-probe-after-macron-believed-spyware-targe/167986/"> Full Text</a>
 </p>
 <details>
