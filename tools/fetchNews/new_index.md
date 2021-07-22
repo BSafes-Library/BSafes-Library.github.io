@@ -34,6 +34,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TicketClub Italy Database Offered in Dark Web<a href="https://securityaffairs.co/wordpress/120406/data-breach/ticketclub-italy-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A database belonging to TicketClub Italy, a company providing coupons platform for offline purchases, is available for sale on darkweb hacking forums.
+
+
+
+TicketClub is an Italian company providing a mobile-based coupons platform for offline purchases....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Humana customers have their medical data leaked online by threat actors<a href="https://securityaffairs.co/wordpress/120402/data-breach/humana-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a DB containing sensitive health insurance data belonging to customers of US insurance giant Humana.
+
+
+
+An SQL database containing what appears to be highly sensitive health insurance data of more than 6,000 patients has been leaked on a popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
