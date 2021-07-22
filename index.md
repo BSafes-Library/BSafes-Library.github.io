@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE updates list of top 25 most dangerous software bugs<a href="https://www.bleepingcomputer.com/news/security/mitre-updates-list-of-top-25-most-dangerous-software-bugs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TicketClub Italy Database of Over 340,000 Users Offered for Sale on Dark Web Forum<a href="https://securityaffairs.co/wordpress/120406/data-breach/ticketclub-italy-data-leak.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Hackers Distributed Android Trojan via Syrian e-Government Portal<a href="https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA analyzed stealthy malware found on compromised Pulse Secure devices<a href="https://securityaffairs.co/wordpress/120412/hacking/pulse-secure-cisa-malware.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Issues Windows 10 Workaround Fix for ‘SeriousSAM’ Bug<a href="https://threatpost.com/win-10-serioussam/168034/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian asks customers to patch critical Jira vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-asks-customers-to-patch-critical-jira-vulnerability/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rise in IoT Malware Attacks Raises Security Concerns<a href="https://cyware.com/news/rise-in-iot-malware-attacks-raises-security-concerns-aa63b818"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reduce End-User Password Change Frustrations<a href="https://thehackernews.com/2021/07/reduce-end-user-password-change.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joker Malware Continues to Go Strong Against Android Users<a href="https://cyware.com/news/joker-malware-continues-to-go-strong-against-android-users-f7128619"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle Warns of Critical Remotely Exploitable Weblogic Server Flaws<a href="https://thehackernews.com/2021/07/oracle-warns-of-critical-remotely.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese Government Says Limited Number of Users Affected by Olympic Ticket Data Leak<a href="https://www.zdnet.com/article/tokyo-govt-officials-say-olympic-ticket-data-leaked/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive medical data of cancer patients at Jefferson Health potentially breached following third-party hack<a href="https://portswigger.net/daily-swig/sensitive-medical-data-of-cancer-patients-at-jefferson-health-potentially-breached-following-third-party-hack?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Data of Over 6000 Humana Customers Leaked Online by Cybercriminals<a href="https://securityaffairs.co/wordpress/120402/data-breach/humana-data-leak.html?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 cURL developers take a second shot at fixing information disclosure flaw<a href="https://portswigger.net/daily-swig/curl-developers-take-a-second-shot-at-fixing-information-disclosure-flaw?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Campaign Leveraging Exchange Vulnerability Potentially Linked to Iran<a href="https://www.secureworks.com/blog/ongoing-campaign-leveraging-exchange-vulnerability-potentially-linked-to-iran?&web_view=true"> Full Text</a>

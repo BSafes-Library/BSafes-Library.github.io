@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Hacker Arrested for 2020 Twitter Hack and Massive Bitcoin Scam<a href="https://thehackernews.com/2021/07/another-hacker-arrested-for-2020.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. citizen has been arrested in the Spanish town of Estepona over his alleged involvement in the July 2020 hack of Twitter, resulting in the compromise of 130 high-profile accounts.  Joseph O'Connor , 22, has been&nbsp; charged &nbsp;with intentionally accessing a computer without authorization and obtaining information from a protected computer, as well as for making extortive communications. The Spanish National Police made the arrest pursuant to a U.S. warrant.   Besides his role in the Twitter hack, O'Connor is also charged with computer intrusions related to takeovers of TikTok and Snapchat user accounts and cyberstalking an unnamed juvenile victim.  The&nbsp; great Twitter hack &nbsp;of July 15, 2020, emerged as one of the biggest security lapses in the social media platform's history after O'Connor, along with&nbsp; Mason Sheppard, Nima Fazeli, and Graham Ivan Clark , managed to gain access to Twitter's internal tools, abusing it to breach the accounts of politicians, celebritie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Hackers Distributed Android Trojan via Syrian e-Government Portal<a href="https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor has been tracked in a new campaign deploying Android malware via the Syrian e-Government Web Portal, indicating an upgraded arsenal designed to compromise victims.  "To the best of our knowledge, this is the first time that the group has been publicly observed using malicious Android applications as part of its attacks," Trend Micro researchers Zhengyu Dong, Fyodor Yarochkin, and Steven Du&nbsp; said &nbsp;in a technical write-up published Wednesday.  StrongPity , also codenamed&nbsp; Promethium &nbsp;by Microsoft, is believed to have been active since 2012 and has typically focused on targets across Turkey and Syria. In June 2020, the espionage threat actor was&nbsp; connected &nbsp;to a wave of activities that banked on watering hole attacks and tampered installers, which abuse the popularity of legitimate applications, to infect targets with malware.   "Promethium has been resilient over the years," Cisco Talos&nbsp; disclosed &nbsp;last year. "Its campai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

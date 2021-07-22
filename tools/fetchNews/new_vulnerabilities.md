@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE updates list of top 25 most dangerous software bugs<a href="https://www.bleepingcomputer.com/news/security/mitre-updates-list-of-top-25-most-dangerous-software-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has shared this year's top 25 list of most common and dangerous weaknesses plaguing software throughout the previous two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Windows 10 Workaround Fix for ‘SeriousSAM’ Bug<a href="https://threatpost.com/win-10-serioussam/168034/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A privilege elevation bug in Windows 10 opens all systems to attackers to access data and create new accounts on systems.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian asks customers to patch critical Jira vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-asks-customers-to-patch-critical-jira-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian is prompting&nbsp;its enterprise customers to patch a critical vulnerability in multiple versions of its Jira Data Center and Jira Service Management Data Center products. The vulnerability tracked as&nbsp;CVE-2020-36239 can give remote attackers code execution abilities, due to&nbsp;a missing authentication flaw in Ehcache RMI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle Warns of Critical Remotely Exploitable Weblogic Server Flaws<a href="https://thehackernews.com/2021/07/oracle-warns-of-critical-remotely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle on Tuesday released its quarterly&nbsp; Critical Patch Update for July 2021 &nbsp;with 342 fixes spanning across multiple products, some of which could be exploited by a remote attacker to take control of an affected system.  Chief among them is&nbsp; CVE-2019-2729 , a critical deserialization vulnerability via XMLDecoder in Oracle WebLogic Server Web Services that's remotely exploitable without authentication. It's worth noting that the weakness was originally addressed as part of an&nbsp; out-of-band security update &nbsp;in June 2019.   Oracle WebLogic Server is an application server that functions as a platform for developing, deploying, and running enterprise Java-based applications.  The flaw, which is rated 9.8 out of a maximum of 10 on the CVSS severity scale, affects WebLogic Server versions 11.1.2.4 and 11.2.5.0 and exists within the Oracle Hyperion Infrastructure Technology.  Also fixed in WebLogic Server are six other flaws, three of which have been assigned a CVSS score of 9.8 out
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+cURL developers take a second shot at fixing information disclosure flaw<a href="https://portswigger.net/daily-swig/curl-developers-take-a-second-shot-at-fixing-information-disclosure-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attempted resolution of the flaw (CVE-2021-22898) failed to address an almost identical bug in the software which also presented an information disclosure or potential data leak vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Campaign Leveraging Exchange Vulnerability Potentially Linked to Iran<a href="https://www.secureworks.com/blog/ongoing-campaign-leveraging-exchange-vulnerability-potentially-linked-to-iran?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis by Secureworks CTU researchers suggests that an Iranian threat group, possibly Oilrig, was responsible for the activity that started with the compromise of the Exchange Servers.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

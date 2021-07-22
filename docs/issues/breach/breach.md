@@ -11,6 +11,34 @@ nav_order: 900029
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Japanese Government Says Limited Number of Users Affected by Olympic Ticket Data Leak<a href="https://www.zdnet.com/article/tokyo-govt-officials-say-olympic-ticket-data-leaked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The news came one day after the FBI released a private industry alert urging organizations working with the Tokyo 2020 Summer Olympics to prepare for a wave of cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive medical data of cancer patients at Jefferson Health potentially breached following third-party hack<a href="https://portswigger.net/daily-swig/sensitive-medical-data-of-cancer-patients-at-jefferson-health-potentially-breached-following-third-party-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For some patients, a Social Security number was also included, the healthcare provider said in a statement. Financial account, insurance, and payment card information was not involved, it added.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TicketClub Italy Database Offered in Dark Web<a href="https://securityaffairs.co/wordpress/120406/data-breach/ticketclub-italy-data-leak.html"> Full Text</a>
 </p>
 <details>
