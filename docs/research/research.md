@@ -18,6 +18,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• An exploratory study of mode efficacy in cybersecurity training [HTML](https://papers.bsafes.com/docs/education/An-exploratory-study-of-mode-efficacy-in-cybersecurity-training/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity capabilities in organizations and governmental agencies continue to lag behind the threats.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 25, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
