@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter reveals surprisingly low two-factor auth (2FA) adoption rate<a href="https://www.bleepingcomputer.com/news/security/twitter-reveals-surprisingly-low-two-factor-auth-2fa-adoption-rate/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CRM Database of Guntrader Website Gets Breached and Leaks Information of 110,000 Users<a href="https://www.theregister.com/2021/07/23/guntrader_hacked_111k_users_sql_database/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nasty macOS Malware XCSSET Now Targets Google Chrome, Telegram Software<a href="https://thehackernews.com/2021/07/nasty-macos-malware-xcsset-now-targets.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 80 US Municipalities’ Sensitive Information, Including Resident’s Personal Data, Left Vulnerable in Massive Data Breach<a href="https://securityaffairs.co/wordpress/120477/data-breach/us-municipalities-data-breach.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 User data privacy decisions can be easily manipulated<a href="https://www.helpnetsecurity.com/2021/07/23/user-data-privacy/?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wake up! Identify API Vulnerabilities Proactively, From Production Back to Code<a href="https://thehackernews.com/2021/07/wake-up-identify-api-vulnerabilities.html"> Full Text</a>
@@ -138,7 +138,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Is An Identity and Access Management So-lution and How Can Businesses Benefit From It?<a href="https://securityaffairs.co/wordpress/120474/security/identity-and-access-management-businesses.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Significant Historical Cyber-Intrusion Campaigns Targeting ICS<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/20/significant-historical-cyber-intrusion-campaigns-targeting-ics?&web_view=true"> Full Text</a>
@@ -174,7 +174,7 @@ US CERT
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch Police Arrest Two Hackers Tied to "Fraud Family" Cybercrime Ring<a href="https://thehackernews.com/2021/07/dutch-police-arrest-two-hackers-tied-to.html"> Full Text</a>
@@ -190,7 +190,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya obtained a universal decryptor for REvil ransomware attack<a href="https://securityaffairs.co/wordpress/120467/cyber-crime/kaseya-obtained-revil-universal-decryptor.html"> Full Text</a>
@@ -210,7 +210,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Successfully Hide Malware Inside an AI Neural Network<a href="https://www.vice.com/en/article/bvzp78/researchers-hid-malware-inside-an-ais-neurons-and-it-worked-scarily-well?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Report Portugal: Q2 2021<a href="https://securityaffairs.co/wordpress/120455/malware/threat-report-portugal-q2-2021.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bug Bounty and VDP Platform YesWeHack Raises $18.8 Million<a href="https://www.securityweek.com/bug-bounty-and-vdp-platform-yeswehack-raises-188-million?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai software update triggered a bug that took offline major sites<a href="https://securityaffairs.co/wordpress/120447/security/akamai-outage.html"> Full Text</a>
@@ -282,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Wi‑Fi routers still using default passwords making them susceptible to attacks<a href="https://www.welivesecurity.com/2021/07/22/popular-wi-fi-router-vulnerable-default-password-attack/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybereason acquires empow to enhance its XDR features<a href="https://www.helpnetsecurity.com/2021/07/22/cybereason-empow/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saudi Aramco Hit With $50 Million Cyber Extortion Demand over Stolen Data<a href="https://ciso.economictimes.indiatimes.com/news/saudi-aramco-facing-usd-50m-cyber-extortion-over-leaked-data/84627648?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sysdig acquires Apolicy to help customers secure Infrastructure As Code and automate remediation<a href="https://www.helpnetsecurity.com/2021/07/22/sysdig-apolicy/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Democrats introduce bill to hold platforms accountable for misinformation during health crises | Website outages hit Olympics, Amazon and major banks<a href="https://thehill.com//policy/technology/overnights/564439-hillicon-valley-democrats-introduce-bill-to-hold-platforms"> Full Text</a>
@@ -362,7 +362,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phish Swims Past Email Security With Milanote Pages<a href="https://threatpost.com/phish-email-security-milanote/168021/"> Full Text</a>
@@ -378,7 +378,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya obtains universal decryptor for REvil ransomware victims<a href="https://www.bleepingcomputer.com/news/security/kaseya-obtains-universal-decryptor-for-revil-ransomware-victims/"> Full Text</a>
@@ -394,7 +394,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce bipartisan bill to secure critical groups against hackers<a href="https://thehill.com//policy/cybersecurity/564414-senators-introduce-bipartisan-bill-to-secure-critical-groups-against"> Full Text</a>
@@ -410,7 +410,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai DNS global outage takes down major websites, online services<a href="https://www.bleepingcomputer.com/news/security/akamai-dns-global-outage-takes-down-major-websites-online-services/"> Full Text</a>
@@ -426,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya obtains key to decrypt systems weeks after ransomware attack<a href="https://thehill.com//policy/technology/564401-kaseya-obtains-key-to-decrypt-systems-weeks-after-ransomware-attack"> Full Text</a>
@@ -442,7 +442,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang breached CNA’s network via fake browser update<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-breached-cna-s-network-via-fake-browser-update/"> Full Text</a>
@@ -458,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Gets Universal Decryptor to Help REvil Ransomware Victims<a href="https://thehackernews.com/2021/07/kaseya-gets-universal-decryptor-to-help.html"> Full Text</a>
@@ -474,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle fixes critical RCE vulnerabilities in Weblogic Server<a href="https://securityaffairs.co/wordpress/120439/security/oracle-weblogic-server-flaws.html"> Full Text</a>
@@ -494,7 +494,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics<a href="https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/"> Full Text</a>
@@ -510,7 +510,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group-IB helps Dutch police identify members of phishing developer gang Fraud Family<a href="https://securityaffairs.co/wordpress/120428/cyber-crime/fraud-family-members-identified.html"> Full Text</a>
@@ -530,7 +530,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Networks Exposed Through Cloud-Based Operational Tech<a href="https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/"> Full Text</a>
@@ -546,7 +546,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day<a href="https://threatpost.com/apple-iphone-pegasus-zero-day/168040/"> Full Text</a>
