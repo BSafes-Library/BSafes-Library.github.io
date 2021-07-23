@@ -34,7 +34,447 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter reveals surprisingly low two-factor auth (2FA) adoption rate<a href="https://www.bleepingcomputer.com/news/security/twitter-reveals-surprisingly-low-two-factor-auth-2fa-adoption-rate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has revealed in its latest transparency report that only 2.3% of all active accounts have enabled at least one method of two-factor authentication (2FA) between July and December 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CRM Database of Guntrader Website Gets Breached and Leaks Information of 110,000 Users<a href="https://www.theregister.com/2021/07/23/guntrader_hacked_111k_users_sql_database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals hacked into a website used for buying and selling firearms, making off with a 111,000-entry database containing partial information from a CRM product used by gun shops across the UK.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nasty macOS Malware XCSSET Now Targets Google Chrome, Telegram Software<a href="https://thehackernews.com/2021/07/nasty-macos-malware-xcsset-now-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware known for targeting macOS operating system has been updated once again to add more features to its toolset that allows it to amass and exfiltrate sensitive data stored in a variety of apps, including apps such as Google Chrome and Telegram, as part of further "refinements in its tactics."  XCSSET was  uncovered  in August 2020, when it was found targeting Mac developers using an unusual means of distribution that involved injecting a malicious payload into Xcode IDE projects that's executed at the time of building project files in Xcode.   The malware comes with numerous capabilities, such as reading and dumping Safari cookies, injecting malicious JavaScript code into various websites, stealing information from applications, such as Notes, WeChat, Skype, Telegram, and encrypting user files.  Earlier this April, XCSSET  received an upgrade  that enabled the malware authors to target macOS 11 Big Sur as well as Macs running on M1 chipset by circumventing new secu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80 US Municipalities’ Sensitive Information, Including Resident’s Personal Data, Left Vulnerable in Massive Data Breach<a href="https://securityaffairs.co/wordpress/120477/data-breach/us-municipalities-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s team of ethical hackers, led by Ata Hakçıl, has found a major breach exposing a number of US cities, all of them using the same web service provider aimed at municipalities.
+
+
+
+Original post at https://www.wizcase.com/blog/us-municipality-breach-report/
+
+
+
+...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+User data privacy decisions can be easily manipulated<a href="https://www.helpnetsecurity.com/2021/07/23/user-data-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research from Copenhagen Business School finds designers of cookie banners can affect privacy choices by manipulating choice architecture and with simple changes can increase absolute consent by 17%.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wake up! Identify API Vulnerabilities Proactively, From Production Back to Code<a href="https://thehackernews.com/2021/07/wake-up-identify-api-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After more than 20 years in the making, now it's official: APIs are everywhere. In a 2021 survey,  73% of enterprises reported that they already publish more than 50 APIs , and this number is constantly growing.  APIs have crucial roles to play in virtually every industry today, and their importance is increasing steadily, as they move to the forefront of business strategies. This comes as no surprise: APIs seamlessly connect disparate apps and devices, bringing business synergies and efficiencies never witnessed before.   However, APIs have vulnerabilities just like any other component of the software. Adding to that, if they aren't rigorously tested from a security standpoint, they can also introduce a whole new array of attack surfaces and expose you to unprecedented risks. If you wait until production to discover API vulnerabilities, you can incur substantial delays.  APIs are attractive to attackers, not just businesses  Keep in mind that APIs do more than simply connect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is An Identity and Access Management So-lution and How Can Businesses Benefit From It?<a href="https://securityaffairs.co/wordpress/120474/security/identity-and-access-management-businesses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How businesses can benefit from the adoption of an identity and access management solution.
+
+
+
+Businesses that use outdated manual processes to grant and control access to their IT resources are getting left behind. This article describes what an identity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Significant Historical Cyber-Intrusion Campaigns Targeting ICS<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/20/significant-historical-cyber-intrusion-campaigns-targeting-ics?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To raise awareness of the risks and improve the protection of critical infrastructure, CISA and the FBI have released a Joint Cybersecurity Advisory as well as updates to five alerts and advisories.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Police Arrest Two Hackers Tied to "Fraud Family" Cybercrime Ring<a href="https://thehackernews.com/2021/07/dutch-police-arrest-two-hackers-tied-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities in the Netherlands have  arrested  two alleged individuals belonging to a Dutch cybercriminal collective who were involved in developing, selling, and renting sophisticated phishing frameworks to other threat actors in what's known as a "Fraud-as-a-Service" operation.  The apprehended suspects, a 24-year-old software engineer and a 15-year-old boy, are said to have been the main developer and seller of the phishing frameworks that were employed to collect login data from bank customers. The attacks primarily singled out users in the Netherlands and Belgium.  Believed to be active since at least 2020, the cybercriminal syndicate has been codenamed " Fraud Family " by cybersecurity firm Group-IB. The frameworks come with phishing kits, tools designed to steal information, and web panels, which allow the fraudsters to interact with the actual phishing site in real time and retrieve the stolen user data.   "The phishing frameworks a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya obtained a universal decryptor for REvil ransomware attack<a href="https://securityaffairs.co/wordpress/120467/cyber-crime/kaseya-obtained-revil-universal-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The software provider Kaseya announced to have obtained a universal decryptor for the REvil ransomware.
+
+
+
+Earlier this month, a massive supply chain attack conducted by the REvil ransomware gang hit the cloud-based managed service provider platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Successfully Hide Malware Inside an AI Neural Network<a href="https://www.vice.com/en/article/bvzp78/researchers-hid-malware-inside-an-ais-neurons-and-it-worked-scarily-well?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the study by Chinese researchers, malware can be embedded directly into the artificial neurons that make up machine learning models in a way that keeps them from being detected.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q2 2021<a href="https://securityaffairs.co/wordpress/120455/malware/threat-report-portugal-q2-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q1 2021 compiles data collected on the malicious campaigns that occurred from April to June, Q2, of 2021
+
+
+
+The Portuguese Abuse Open Feed 0xSI_f33d is an open sharing database with the ability to collect indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug Bounty and VDP Platform YesWeHack Raises $18.8 Million<a href="https://www.securityweek.com/bug-bounty-and-vdp-platform-yeswehack-raises-188-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding round included investments from Banque des Territoires and Eiffel Investment Group, as well as existing investors Normandie Participations and CNP Assurances.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai software update triggered a bug that took offline major sites<a href="https://securityaffairs.co/wordpress/120447/security/akamai-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple major websites, including Steam, AWS, Amazon, Google, and Salesforce, went offline due to Akamai DNS global outage.
+
+
+
+A software configuration update triggered a bug in the Akamai DNS which took offline major websites, including Steam, the PlayStation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Wi‑Fi routers still using default passwords making them susceptible to attacks<a href="https://www.welivesecurity.com/2021/07/22/popular-wi-fi-router-vulnerable-default-password-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study by technology website Comparitech revealed one in 16 home Wi-Fi routers is still using the manufacturer’s default admin password and leaving the door open to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason acquires empow to enhance its XDR features<a href="https://www.helpnetsecurity.com/2021/07/22/cybereason-empow/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason announced the acquisition of empow, a security analytics company based in Tel Aviv. The acquisition of empow will enable the integration of empow prediction technology into Cybereason XDR.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Aramco Hit With $50 Million Cyber Extortion Demand over Stolen Data<a href="https://ciso.economictimes.indiatimes.com/news/saudi-aramco-facing-usd-50m-cyber-extortion-over-leaked-data/84627648?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saudi Aramco acknowledged that leaked data from the company being used in a cyber-extortion attempt involving a USD 50 million ransom demand likely came from one of its contractors.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sysdig acquires Apolicy to help customers secure Infrastructure As Code and automate remediation<a href="https://www.helpnetsecurity.com/2021/07/22/sysdig-apolicy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal, the terms of which kept secret, will bolster Sysdig’s capabilities by strengthening cloud and container security with compliance and governance enforcement, Sysdig CEO Suresh Vasudevan said.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats introduce bill to hold platforms accountable for misinformation during health crises | Website outages hit Olympics, Amazon and major banks<a href="https://thehill.com//policy/technology/overnights/564439-hillicon-valley-democrats-introduce-bill-to-hold-platforms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Democratic senators introduced a new Section 230 reform bill Thursday that aims to hold tech companies accountable for spreading health misinformation, building off Democrats’ push to weed out false claims about COVID-19 vaccines as the Biden administration struggles to meet its goal of having 70 percent of Americans vaccinated. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phish Swims Past Email Security With Milanote Pages<a href="https://threatpost.com/phish-email-security-milanote/168021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The “Evernote for creatives” is anchoring a rapidly spiking phishing campaign, evading SEGs with ease.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya obtains universal decryptor for REvil ransomware victims<a href="https://www.bleepingcomputer.com/news/security/kaseya-obtains-universal-decryptor-for-revil-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya received a universal decryptor that allows victims of the July 2nd REvil ransomware attack to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bipartisan bill to secure critical groups against hackers<a href="https://thehill.com//policy/cybersecurity/564414-senators-introduce-bipartisan-bill-to-secure-critical-groups-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of two Senate committees on Thursday introduced legislation to shore up the cybersecurity of critical infrastructure after months of crippling cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai DNS global outage takes down major websites, online services<a href="https://www.bleepingcomputer.com/news/security/akamai-dns-global-outage-takes-down-major-websites-online-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai is investigating an ongoing outage affecting many major websites and online services including Steam, the PlayStation Network, Newegg, AWS, Amazon, Google, and Salesforce.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya obtains key to decrypt systems weeks after ransomware attack<a href="https://thehill.com//policy/technology/564401-kaseya-obtains-key-to-decrypt-systems-weeks-after-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software company Kaseya on Thursday obtained a key to decrypt its systems and that of customers, which were locked down by a ransomware attack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang breached CNA’s network via fake browser update<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-breached-cna-s-network-via-fake-browser-update/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading US insurance company CNA Financial has provided a glimpse into how Phoenix CryptoLocker operators breached its network, stole data, and deployed ransomware payloads in a ransomware attack that hit its network in March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Gets Universal Decryptor to Help REvil Ransomware Victims<a href="https://thehackernews.com/2021/07/kaseya-gets-universal-decryptor-to-help.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly three weeks after Florida-based software vendor Kaseya was hit by a  widespread supply-chain ransomware attack , the company on Thursday said it obtained a universal decryptor to unlock systems and help customers recover their data.   "On July 21, Kaseya obtained a decryptor for victims of the REvil ransomware attack, and we're working to remediate customers impacted by the incident," the company  said  in a statement. "Kaseya obtained the tool from a third-party and have teams actively helping customers affected by the ransomware to restore their environments, with no reports of any problem or issues associated with the decryptor."  It's not immediately unclear if Kaseya paid any ransom. It's worth noting that REvil affiliates had  demanded a ransom of $70 million  — an amount that was subsequently lowered to $50 million — but soon after, the ransomware gang mysteriously  went off the grid , shutting down their payment sites and data leak portal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle fixes critical RCE vulnerabilities in Weblogic Server<a href="https://securityaffairs.co/wordpress/120439/security/oracle-weblogic-server-flaws.html"> Full Text</a>
@@ -54,7 +494,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics<a href="https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/"> Full Text</a>
@@ -70,7 +510,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group-IB helps Dutch police identify members of phishing developer gang Fraud Family<a href="https://securityaffairs.co/wordpress/120428/cyber-crime/fraud-family-members-identified.html"> Full Text</a>
@@ -90,7 +530,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Networks Exposed Through Cloud-Based Operational Tech<a href="https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/"> Full Text</a>
@@ -106,7 +546,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2021
+July 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day<a href="https://threatpost.com/apple-iphone-pegasus-zero-day/168040/"> Full Text</a>

@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wake up! Identify API Vulnerabilities Proactively, From Production Back to Code<a href="https://thehackernews.com/2021/07/wake-up-identify-api-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After more than 20 years in the making, now it's official: APIs are everywhere. In a 2021 survey,&nbsp; 73% of enterprises reported that they already publish more than 50 APIs , and this number is constantly growing.  APIs have crucial roles to play in virtually every industry today, and their importance is increasing steadily, as they move to the forefront of business strategies. This comes as no surprise: APIs seamlessly connect disparate apps and devices, bringing business synergies and efficiencies never witnessed before.&nbsp;  However, APIs have vulnerabilities just like any other component of the software. Adding to that, if they aren't rigorously tested from a security standpoint, they can also introduce a whole new array of attack surfaces and expose you to unprecedented risks. If you wait until production to discover API vulnerabilities, you can incur substantial delays.  APIs are attractive to attackers, not just businesses  Keep in mind that APIs do more than simply connect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Wi‑Fi routers still using default passwords making them susceptible to attacks<a href="https://www.welivesecurity.com/2021/07/22/popular-wi-fi-router-vulnerable-default-password-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study by technology website Comparitech revealed one in 16 home Wi-Fi routers is still using the manufacturer’s default admin password and leaving the door open to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle fixes critical RCE vulnerabilities in Weblogic Server<a href="https://securityaffairs.co/wordpress/120439/security/oracle-weblogic-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle released its&nbsp;Critical Patch Update for July 2021, it fixes hundreds of flaws, including Critical Remotely Exploitable vulnerabilities in Weblogic Server.
+
+
+
+Oracle this week released its quarterly&nbsp;Critical Patch Update for July 2021&nbsp;that contains...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Networks Exposed Through Cloud-Based Operational Tech<a href="https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical ICS vulnerabilities can be exploited through leading cloud-management platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day<a href="https://threatpost.com/apple-iphone-pegasus-zero-day/168040/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Update now: The ream of bugs includes some remotely exploitable code execution flaws. Still to come: a fix for what makes iPhones easy prey for Pegasus spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phish Swims Past Email Security With Milanote Pages<a href="https://threatpost.com/phish-email-security-milanote/168021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The “Evernote for creatives” is anchoring a rapidly spiking phishing campaign, evading SEGs with ease.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug Bounty and VDP Platform YesWeHack Raises $18.8 Million<a href="https://www.securityweek.com/bug-bounty-and-vdp-platform-yeswehack-raises-188-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding round included investments from Banque des Territoires and Eiffel Investment Group, as well as existing investors Normandie Participations and CNP Assurances.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason acquires empow to enhance its XDR features<a href="https://www.helpnetsecurity.com/2021/07/22/cybereason-empow/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason announced the acquisition of empow, a security analytics company based in Tel Aviv. The acquisition of empow will enable the integration of empow prediction technology into Cybereason XDR.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sysdig acquires Apolicy to help customers secure Infrastructure As Code and automate remediation<a href="https://www.helpnetsecurity.com/2021/07/22/sysdig-apolicy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal, the terms of which kept secret, will bolster Sysdig’s capabilities by strengthening cloud and container security with compliance and governance enforcement, Sysdig CEO Suresh Vasudevan said.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya obtains universal decryptor for REvil ransomware victims<a href="https://www.bleepingcomputer.com/news/security/kaseya-obtains-universal-decryptor-for-revil-ransomware-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaseya received a universal decryptor that allows victims of the July 2nd REvil ransomware attack to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

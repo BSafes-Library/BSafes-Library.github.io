@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in IoT Malware Attacks Raises Security Concerns<a href="https://cyware.com/news/rise-in-iot-malware-attacks-raises-security-concerns-aa63b818"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler analyzed 575 million device transactions, along with 300,000 IoT-specific malware attack attempts. This revealed that IoT malware has witnessed a rise of 700% as compared to pre-pandemic numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,84 @@ nav_order: 900072
 
 ## General
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter reveals surprisingly low two-factor auth (2FA) adoption rate<a href="https://www.bleepingcomputer.com/news/security/twitter-reveals-surprisingly-low-two-factor-auth-2fa-adoption-rate/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has revealed in its latest transparency report that only 2.3% of all active accounts have enabled at least one method of two-factor authentication (2FA) between July and December 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is An Identity and Access Management So-lution and How Can Businesses Benefit From It?<a href="https://securityaffairs.co/wordpress/120474/security/identity-and-access-management-businesses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How businesses can benefit from the adoption of an identity and access management solution.
+
+
+
+Businesses that use outdated manual processes to grant and control access to their IT resources are getting left behind. This article describes what an identity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q2 2021<a href="https://securityaffairs.co/wordpress/120455/malware/threat-report-portugal-q2-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: Q1 2021 compiles data collected on the malicious campaigns that occurred from April to June, Q2, of 2021
+
+
+
+The Portuguese Abuse Open Feed&nbsp;0xSI_f33d&nbsp;is an open sharing database with the ability to collect indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats introduce bill to hold platforms accountable for misinformation during health crises | Website outages hit Olympics, Amazon and major banks<a href="https://thehill.com//policy/technology/overnights/564439-hillicon-valley-democrats-introduce-bill-to-hold-platforms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Democratic senators introduced a new Section 230 reform bill Thursday that aims to hold tech companies accountable for spreading health misinformation, building off Democrats’ push to weed out false claims about COVID-19 vaccines as the Biden administration struggles to meet its goal of having 70 percent of Americans vaccinated.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Gets Universal Decryptor to Help REvil Ransomware Victims<a href="https://thehackernews.com/2021/07/kaseya-gets-universal-decryptor-to-help.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly three weeks after Florida-based software vendor Kaseya was hit by a&nbsp; widespread supply-chain ransomware attack , the company on Thursday said it obtained a universal decryptor to unlock systems and help customers recover their data.   "On July 21, Kaseya obtained a decryptor for victims of the REvil ransomware attack, and we're working to remediate customers impacted by the incident," the company&nbsp; said &nbsp;in a statement. "Kaseya obtained the tool from a third-party and have teams actively helping customers affected by the ransomware to restore their environments, with no reports of any problem or issues associated with the decryptor."  It's not immediately unclear if Kaseya paid any ransom. It's worth noting that REvil affiliates had&nbsp; demanded a ransom of $70 million &nbsp;— an amount that was subsequently lowered to $50 million — but soon after, the ransomware gang mysteriously&nbsp; went off the grid , shutting down their payment sites and data leak portal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

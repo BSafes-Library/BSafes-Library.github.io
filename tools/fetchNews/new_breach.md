@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CRM Database of Guntrader Website Gets Breached and Leaks Information of 110,000 Users<a href="https://www.theregister.com/2021/07/23/guntrader_hacked_111k_users_sql_database/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals hacked into a website used for buying and selling firearms, making off with a 111,000-entry database containing partial information from a CRM product used by gun shops across the UK.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80 US Municipalities’ Sensitive Information, Including Resident’s Personal Data, Left Vulnerable in Massive Data Breach<a href="https://securityaffairs.co/wordpress/120477/data-breach/us-municipalities-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WizCase’s&nbsp;team of ethical hackers, led by Ata Hakçıl, has found a major breach exposing a number of US cities, all of them using the same web service provider aimed at municipalities.
+
+
+
+Original post at https://www.wizcase.com/blog/us-municipality-breach-report/
+
+
+
+...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Aramco Hit With $50 Million Cyber Extortion Demand over Stolen Data<a href="https://ciso.economictimes.indiatimes.com/news/saudi-aramco-facing-usd-50m-cyber-extortion-over-leaked-data/84627648?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saudi Aramco acknowledged that leaked data from the company being used in a cyber-extortion attempt involving a USD 50 million ransom demand likely came from one of its contractors.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

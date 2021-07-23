@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai software update triggered a bug that took offline major sites<a href="https://securityaffairs.co/wordpress/120447/security/akamai-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple major websites, including Steam, AWS, Amazon, Google, and Salesforce, went offline due to Akamai DNS global outage.
+
+
+
+A software configuration update triggered a bug in the Akamai DNS which took offline major websites, including Steam, the PlayStation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai DNS global outage takes down major websites, online services<a href="https://www.bleepingcomputer.com/news/security/akamai-dns-global-outage-takes-down-major-websites-online-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai is investigating an ongoing outage affecting many major websites and online services including Steam, the PlayStation Network, Newegg, AWS, Amazon, Google, and Salesforce.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

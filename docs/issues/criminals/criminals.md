@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Police Arrest Two Hackers Tied to "Fraud Family" Cybercrime Ring<a href="https://thehackernews.com/2021/07/dutch-police-arrest-two-hackers-tied-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities in the Netherlands have&nbsp; arrested &nbsp;two alleged individuals belonging to a Dutch cybercriminal collective who were involved in developing, selling, and renting sophisticated phishing frameworks to other threat actors in what's known as a "Fraud-as-a-Service" operation.  The apprehended suspects, a 24-year-old software engineer and a 15-year-old boy, are said to have been the main developer and seller of the phishing frameworks that were employed to collect login data from bank customers. The attacks primarily singled out users in the Netherlands and Belgium.  Believed to be active since at least 2020, the cybercriminal syndicate has been codenamed " Fraud Family " by cybersecurity firm Group-IB. The frameworks come with phishing kits, tools designed to steal information, and web panels, which allow the fraudsters to interact with the actual phishing site in real time and retrieve the stolen user data.   "The phishing frameworks a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang breached CNA’s network via fake browser update<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-breached-cna-s-network-via-fake-browser-update/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading US insurance company CNA Financial has provided a glimpse into how Phoenix CryptoLocker operators breached its network, stole data, and deployed ransomware payloads in a ransomware attack that hit its network in March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics<a href="https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expected cyberattacks on Tokyo Olympics likely include attempts to hijack video feeds, the Feds warn.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB helps Dutch police identify members of phishing developer gang Fraud Family<a href="https://securityaffairs.co/wordpress/120428/cyber-crime/fraud-family-members-identified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from threat intelligence firm Group-IB helps Dutch police identify members of phishing developer gang known as Fraud Family.
+
+
+
+Group-IB, one of&nbsp;the leading providers of&nbsp;solutions dedicated to&nbsp;detecting and preventing cyberattacks, identifying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

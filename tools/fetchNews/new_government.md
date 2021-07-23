@@ -11,6 +11,20 @@ nav_order: 900075
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bipartisan bill to secure critical groups against hackers<a href="https://thehill.com//policy/cybersecurity/564414-senators-introduce-bipartisan-bill-to-secure-critical-groups-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of two Senate committees on Thursday introduced legislation to shore up the cybersecurity of critical infrastructure&nbsp;after months of crippling cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA analyzed stealthy malware found on compromised Pulse Secure devices<a href="https://securityaffairs.co/wordpress/120412/hacking/pulse-secure-cisa-malware.html"> Full Text</a>
 </p>
 <details>

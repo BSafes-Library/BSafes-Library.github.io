@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reduce End-User Password Change Frustrations<a href="https://thehackernews.com/2021/07/reduce-end-user-password-change.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations today must give attention to their cybersecurity posture, including policies, procedures, and technical solutions for cybersecurity challenges.&nbsp;  This often results in a greater burden on the IT service desk staff as end-users encounter issues related to security software, policies, and password restrictions.&nbsp;  One of the most common areas where security may cause challenges for end-users is password policies and password changes. What are these issues? How can organizations reduce end-user password change frustration? First, let's consider the standard password policy, its role, and general settings affecting end-users.  What are password policies?  Most organizations today have a password policy in place. So, what is a password policy? Password policies define the types and content of passwords allowed or required of end-users in an identity and access management system. Various aspects of the password that businesses control may include the password's required
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
