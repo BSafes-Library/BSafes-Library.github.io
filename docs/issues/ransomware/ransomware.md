@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 23rd 2021 - Kaseya decrypted<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-23rd-2021-kaseya-decrypted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has quite a bit of news ranging from the USA formally accusing China of the recent ProxyLogon vulnerability and Kaseya mysteriously obtaining the universal decryption key.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

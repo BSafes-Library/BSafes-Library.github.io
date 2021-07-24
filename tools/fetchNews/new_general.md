@@ -11,6 +11,76 @@ nav_order: 900072
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Amazon employees petition company to investigate discrimination allegations | ACLU calls for investigation into Alaska official over tweets | Electric cars to outsell combustion vehicles by 2036<a href="https://thehill.com//policy/technology/overnights/564613-hillicon-valley-amazon-employees-petition-company-to-investigate"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon employees are pushing for the tech giant to investigate allegations of discrimination, with hundreds of employees taking a stand after multiple lawsuits and company leadership seeming to agree to look into their concerns.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord CDN and API Abuses Drive Wave of Malware Detections<a href="https://threatpost.com/discord-malware-researchers/168096/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targets of Discord malware expand far beyond gamers. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Steps to Improving Ransomware Resiliency<a href="https://threatpost.com/improving-ransomware-resiliency/168091/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alex Restrepo, cybersecurity researcher at Veritas, lays out the key concepts that organizations should be paying attention to now and implementing today.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial services accounting for nearly 40% of all phishing URLs<a href="https://www.helpnetsecurity.com/2021/07/22/financial-services-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vade report revealed that there has been a major jump in phishing attacks since the start of the year with a 281 percent spike in May and another 284 percent increase in June.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than half of all Aussies continue to encounter forms of cyber scams in 2021<a href="https://www.zdnet.com/article/more-than-half-of-all-aussies-continue-to-encounter-forms-of-cyber-scams-in-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of those Australians who encountered a scam in 2021, 9% lost money as a result, a three percentage point increase on 2018, and slightly higher than the global average of 7%.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Twitter reveals surprisingly low two-factor auth (2FA) adoption rate<a href="https://www.bleepingcomputer.com/news/security/twitter-reveals-surprisingly-low-two-factor-auth-2fa-adoption-rate/"> Full Text</a>
 </p>
 <details>

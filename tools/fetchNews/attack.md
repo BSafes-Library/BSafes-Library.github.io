@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Significant Historical Cyber-Intrusion Campaigns Targeting ICS<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/07/20/significant-historical-cyber-intrusion-campaigns-targeting-ics?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To raise awareness of the risks and improve the protection of critical infrastructure, CISA and the FBI have released a Joint Cybersecurity Advisory as well as updates to five alerts and advisories.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya obtained a universal decryptor for REvil ransomware attack<a href="https://securityaffairs.co/wordpress/120467/cyber-crime/kaseya-obtained-revil-universal-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The software provider Kaseya announced to have obtained a universal decryptor for the REvil ransomware.
+
+
+
+Earlier this month, a massive supply chain attack conducted by the REvil ransomware gang&nbsp;hit&nbsp;the cloud-based managed service provider platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

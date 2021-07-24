@@ -11,6 +11,34 @@ nav_order: 900220
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes bug that breaks iPhone WiFi when joining rogue hotspots<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-bug-that-breaks-iphone-wifi-when-joining-rogue-hotspots/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has rolled out iOS 14.7 earlier this week with security updates to address dozens of iOS and macOS vulnerabilities, including a severe iOS bug dubbed WiFiDemon&nbsp;that could lead to&nbsp;denial of service or arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of web apps vulnerable to DNS cache poisoning via ‘forgot password’ feature<a href="https://portswigger.net/daily-swig/dozens-of-web-apps-vulnerable-to-dns-cache-poisoning-via-forgot-password-feature?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a study of 146 web applications, Timo Longin, security researcher at SEC Consult, found misconfigurations that malicious actors could exploit to redirect password reset emails to their own servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Wake up! Identify API Vulnerabilities Proactively, From Production Back to Code<a href="https://thehackernews.com/2021/07/wake-up-identify-api-vulnerabilities.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian hacker Pavel Tsurkan pleads guilty for operating a proxy botnet.<a href="https://securityaffairs.co/wordpress/120483/cyber-crime/proxy-botnet-estonian-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Estonian hacker Pavel Tsurkan has pleaded guilty in a United States court to the counts of computer fraud and of creating and operating a proxy botnet.
+
+
+
+The Estonian national Pavel Tsurkan has pleaded guilty in a United States court to two counts of computer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

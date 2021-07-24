@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+S.Africa's Transnet says it has identified and isolated source of IT disruption<a href="https://www.reuters.com/article/us-safrica-transnet-terminals/s-africas-transnet-says-it-has-identified-and-isolated-source-of-it-disruption-idUSKBN2ET107?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Africa’s state-owned firm Transnet said that it had identified and isolated the source of disruption to its IT systems that impacted its container terminals. As per Reuters, the freight logistics firm was hit by a suspected cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

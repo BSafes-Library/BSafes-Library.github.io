@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2021
+July 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Obtaining password hashes of Windows systems with PetitPotam attack<a href="https://securityaffairs.co/wordpress/120489/hacking/windows-petitpotam-attack.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2021
+July 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker enters the ransomware scene, asks for partners<a href="https://blog.malwarebytes.com/threat-analysis/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners/?&web_view=true"> Full Text</a>
@@ -70,7 +70,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2021
+July 24, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 S.Africa's Transnet says it has identified and isolated source of IT disruption<a href="https://www.reuters.com/article/us-safrica-transnet-terminals/s-africas-transnet-says-it-has-identified-and-isolated-source-of-it-disruption-idUSKBN2ET107?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2021
+July 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress Focuses on Industrial Control System Security<a href="https://www.govinfosecurity.com/congress-focuses-on-industrial-control-system-security-a-17133?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PetitPotam attack allows take over of Windows domains<a href="https://www.bleepingcomputer.com/news/microsoft/new-petitpotam-attack-allows-take-over-of-windows-domains/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Amazon employees petition company to investigate discrimination allegations | ACLU calls for investigation into Alaska official over tweets | Electric cars to outsell combustion vehicles by 2036<a href="https://thehill.com//policy/technology/overnights/564613-hillicon-valley-amazon-employees-petition-company-to-investigate"> Full Text</a>
@@ -134,7 +134,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonian hacker Pavel Tsurkan pleads guilty for operating a proxy botnet.<a href="https://securityaffairs.co/wordpress/120483/cyber-crime/proxy-botnet-estonian-hacker.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord CDN and API Abuses Drive Wave of Malware Detections<a href="https://threatpost.com/discord-malware-researchers/168096/"> Full Text</a>
@@ -170,7 +170,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Windows 11 installers now used to infect you with malware<a href="https://www.bleepingcomputer.com/news/security/fake-windows-11-installers-now-used-to-infect-you-with-malware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Steps to Improving Ransomware Resiliency<a href="https://threatpost.com/improving-ransomware-resiliency/168091/"> Full Text</a>
@@ -202,7 +202,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS malware steals Telegram accounts, Google Chrome data<a href="https://www.bleepingcomputer.com/news/security/macos-malware-steals-telegram-accounts-google-chrome-data/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 23rd 2021 - Kaseya decrypted<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-23rd-2021-kaseya-decrypted/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber attackers will have weaponised tech environments to harm or kill humans by 2025: Report<a href="https://ciso.economictimes.indiatimes.com/news/cyber-attackers-will-have-weaponised-tech-environments-to-harm-or-kill-humans-by-2025-report/84673026?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes bug that breaks iPhone WiFi when joining rogue hotspots<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-bug-that-breaks-iphone-wifi-when-joining-rogue-hotspots/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial services accounting for nearly 40% of all phishing URLs<a href="https://www.helpnetsecurity.com/2021/07/22/financial-services-phishing/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers deploy cryptominers on Kubernetes clusters via Argo Workflows<a href="https://www.bleepingcomputer.com/news/security/attackers-deploy-cryptominers-on-kubernetes-clusters-via-argo-workflows/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of web apps vulnerable to DNS cache poisoning via ‘forgot password’ feature<a href="https://portswigger.net/daily-swig/dozens-of-web-apps-vulnerable-to-dns-cache-poisoning-via-forgot-password-feature?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2021
+July 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than half of all Aussies continue to encounter forms of cyber scams in 2021<a href="https://www.zdnet.com/article/more-than-half-of-all-aussies-continue-to-encounter-forms-of-cyber-scams-in-2021/?&web_view=true"> Full Text</a>

@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+July 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Obtaining password hashes of Windows systems with PetitPotam attack<a href="https://securityaffairs.co/wordpress/120489/hacking/windows-petitpotam-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher found a flaw in Windows OS, tracked as PetitPotam, that can be exploited to force remote Windows machines to share their password hashes.
+
+
+
+Security researcher&nbsp;Gilles Lionel (aka&nbsp;Topotam) has discovered a vulnerability in the Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PetitPotam attack allows take over of Windows domains<a href="https://www.bleepingcomputer.com/news/microsoft/new-petitpotam-attack-allows-take-over-of-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new NTLM relay attack called&nbsp;PetitPotam has been discovered that allows threat actors to take over a domain controller, and thus an entire Windows domain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attackers will have weaponised tech environments to harm or kill humans by 2025: Report<a href="https://ciso.economictimes.indiatimes.com/news/cyber-attackers-will-have-weaponised-tech-environments-to-harm-or-kill-humans-by-2025-report/84673026?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new release from Gartner, researchers have estimated that cyberattackers will have weaponised operational technology (OT) environments to successfully harm or kill humans by the year 2025.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
