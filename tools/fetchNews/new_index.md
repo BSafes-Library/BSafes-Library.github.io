@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Obtaining password hashes of Windows systems with PetitPotam attack<a href="https://securityaffairs.co/wordpress/120489/hacking/windows-petitpotam-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher found a flaw in Windows OS, tracked as PetitPotam, that can be exploited to force remote Windows machines to share their password hashes.
+
+
+
+Security researcher Gilles Lionel (aka Topotam) has discovered a vulnerability in the Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AvosLocker enters the ransomware scene, asks for partners<a href="https://blog.malwarebytes.com/threat-analysis/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners/?&web_view=true"> Full Text</a>
 </p>
 <details>
