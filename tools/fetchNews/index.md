@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PetitPotam NTLM Relay Attack Lets Hackers Take Over Windows Domains<a href="https://thehackernews.com/2021/07/new-petitpotam-ntlm-relay-attack-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered security flaw in the Windows operating system can be exploited to coerce remote Windows servers, including Domain Controllers, to authenticate with a malicious destination, thereby allowing an adversary to stage an  NTLM relay attack  and completely take over a Windows domain.  The issue, dubbed " PetitPotam ," was discovered by security researcher Gilles Lionel, who shared technical details and proof-of-concept (PoC) code last week, noting that the flaw works by forcing "Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw function."  MS-EFSRPC  is Microsoft's Encrypting File System Remote Protocol that's used to perform "maintenance and management operations on encrypted data that is stored remotely and accessed over a network."   Specifically, the attack enables a domain controller to authenticate against a remote NTLM under a bad actor's control using the MS-EFSRPC interface and share its authen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

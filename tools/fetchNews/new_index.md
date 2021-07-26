@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 26, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft publishes mitigations for the PetitPotam attack<a href="https://securityaffairs.co/wordpress/120550/security/petitpotam-attack-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published mitigations for the recently discovered PetitPotam attack that allows attackers to force remote Windows machines to share their password hashes. 
+
+
+
+Microsoft has released mitigations for the recently discovered PetitPotam NTLM attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New PetitPotam NTLM Relay Attack Lets Hackers Take Over Windows Domains<a href="https://thehackernews.com/2021/07/new-petitpotam-ntlm-relay-attack-lets.html"> Full Text</a>
 </p>
 <details>
