@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor offers Clubhouse secret database containing 3.8B phone numbers<a href="https://securityaffairs.co/wordpress/120553/hacking/threat-actor-offers-clubhouse-secret-database-containing-3-8b-phone-numbers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is offering for sale on hacking forums the secret database Clubhouse containing 3.8B phone numbers.
+
+
+
+Clubhouse is a&nbsp;social audio&nbsp;app&nbsp;for&nbsp;iOS&nbsp;and&nbsp;Android&nbsp;where users can communicate in voice chat rooms that accommodate groups of thousands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

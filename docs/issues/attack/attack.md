@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+July 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp chief: US allies' national security officials targeted with NSO malware<a href="https://thehill.com//policy/cybersecurity/564740-whatsapp-chief-us-allies-national-security-officials-targeted-with-nso"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-ranking government officials around the world were targeted by governments using spyware from&nbsp;NSO Group, according to WhatsApp head Will Cathcart.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese computers hit by a wiper malware ahead of 2021 Tokyo Olympics<a href="https://securityaffairs.co/wordpress/120513/malware/2021-tokyo-olympics-wiper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese researchers spotted an Olympics-themed wiper targeting Japanese users ahead of the 2021 Tokyo Olympics.
+
+
+
+Tokyo Olympics could be a great opportunity for cybercriminals and malware authors, the US FBI warned private US companies&nbsp;of cyberattacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
