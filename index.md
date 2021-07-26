@@ -34,6 +34,142 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp chief: US allies' national security officials targeted with NSO malware<a href="https://thehill.com//policy/cybersecurity/564740-whatsapp-chief-us-allies-national-security-officials-targeted-with-nso"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-ranking government officials around the world were targeted by governments using spyware from NSO Group, according to WhatsApp head Will Cathcart.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor offers Clubhouse secret database containing 3.8B phone numbers<a href="https://securityaffairs.co/wordpress/120553/hacking/threat-actor-offers-clubhouse-secret-database-containing-3-8b-phone-numbers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is offering for sale on hacking forums the secret database Clubhouse containing 3.8B phone numbers.
+
+
+
+Clubhouse is a social audio app for iOS and Android where users can communicate in voice chat rooms that accommodate groups of thousands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks target Kubernetes installs via Argo Workflows to deploy miners<a href="https://securityaffairs.co/wordpress/120544/malware/kubernetes-attacks-argo-workflows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target Kubernetes installs via Argo Workflows to cryptocurrency miners, security researchers from Intezer warn. 
+
+
+
+Researchers from Intezer uncovered new attacks on Kubernetes (K8s) installs via misconfigured Argo Workflows aimed at deploying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XCSSET MacOS malware targets Telegram, Google Chrome data and more<a href="https://securityaffairs.co/wordpress/120532/cyber-crime/xcsset-macos-malware-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XCSSET macOS malware continues to evolve, now it is able to steal login information from multiple apps, including Telegram and Google Chrome.
+
+
+
+Security researchers from Trend Micro continues to monitor the evolution of the XCSSET macOS malware, new variants...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 324<a href="https://securityaffairs.co/wordpress/120533/breaking-news/security-affairs-newsletter-round-324.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box. 
+
+
+
+ If you want to also receive for free the international press subscribe here. 
+
+
+
+HelloKitty...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares mitigations for new PetitPotam NTLM relay attack<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigations-for-new-petitpotam-ntlm-relay-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released mitigations for the new PetitPotam NTLM relay attack that allows taking over a domain controller or other Windows servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese computers hit by a wiper malware ahead of 2021 Tokyo Olympics<a href="https://securityaffairs.co/wordpress/120513/malware/2021-tokyo-olympics-wiper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese researchers spotted an Olympics-themed wiper targeting Japanese users ahead of the 2021 Tokyo Olympics.
+
+
+
+Tokyo Olympics could be a great opportunity for cybercriminals and malware authors, the US FBI warned private US companies of cyberattacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
