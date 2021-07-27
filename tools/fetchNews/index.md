@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Double Encryption: When Ransomware Recovery Gets Complicated<a href="https://securityintelligence.com/articles/double-encryption-extortion-ransomware-recovery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the Double extortion tactic, the cybercriminals demand two ransoms — one for a decryption utility and the other for the deletion of the victim’s stolen information from their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Brazil creates cyberattack response network<a href="https://www.zdnet.com/article/brazil-creates-cyberattack-response-network/?&web_view=true"> Full Text</a>
 </p>
 <details>
