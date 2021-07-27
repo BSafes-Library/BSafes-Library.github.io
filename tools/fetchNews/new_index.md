@@ -37,6 +37,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware automates Windows domain encryption via group policies<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-automates-windows-domain-encryption-via-group-policies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An new version of the LockBit 2.0 ransomware has been found that automates the encryption of a Windows domain using Active Directory group policies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia's BRI Life Probes Reported Data Leak of 2 Million Users<a href="https://www.reuters.com/business/finance/indonesias-bri-life-probes-reported-data-leak-2-million-users-2021-07-27/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BRI Life, the insurance arm of Indonesia's Bank Rakyat Indonesia (BRI), said that it was investigating claims that the personal details of over two million of its customers had been advertised for sale by unidentified hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook tightens teen protections | FBI cautions against banning ransomware payments | Republicans probe White House-social media collaboration<a href="https://thehill.com//policy/technology/overnights/565137-hillicon-valley-facebook-tightens-teen-protections-fbi-cautions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under intense Congressional and regulatory scrutiny, Facebook tightened protections for teens across its platform Tuesday by limiting ad targeting. In the cyber world, the FBI cautioned against banning ransomware payments in a hearing after a spate of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bug Could Let Attackers Hijack Zimbra Server by Sending Malicious Email<a href="https://thehackernews.com/2021/07/new-bug-could-let-attackers-hijack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered multiple security vulnerabilities in Zimbra email collaboration software that could be potentially exploited to compromise email accounts by sending a malicious message and even achieve a full takeover of the mail server when hosted on a cloud infrastructure.  The flaws — tracked as CVE-2021-35208  and CVE-2021-35208  — were discovered and reported in Zimbra 8.8.15 by researchers from code quality and security solutions provider SonarSource in May 2021. Mitigations have since been  released  in Zimbra versions 8.8.15 Patch 23 and 9.0.0 Patch 16.   CVE-2021-35208  (CVSS score: 5.4) - Stored XSS Vulnerability in ZmMailMsgView.java  CVE-2021-35209  (CVSS score: 6.1) - Proxy Servlet Open Redirect Vulnerability   "A combination of these vulnerabilities could enable an unauthenticated attacker to compromise a complete Zimbra webmail server of a targeted organization,"  said  SonarSource vulnerability researcher, Simon Scannell, who identif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Zimbra could allow to takeover webmail server of a targeted organization<a href="https://securityaffairs.co/wordpress/120603/hacking/zimbra-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered flaws in Zimbra email collaboration software that could allow attackers to compromise email accounts by sending a malicious email. 
+
+
+
+Cybersecurity researchers have discovered multiple security vulnerabilities, tracked as CVE-2021-35208 and CVE-2021-35208,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom Saves Victims Nearly €1 Over 5 Years<a href="https://threatpost.com/no-more-ransom-saves-victims-e1-5-years/168192/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No More Ransom is collecting decryptors so ransomware victims don’t have to pay to get their data back and attackers don’t get rich.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UC San Diego Health discloses data breach after phishing attack<a href="https://www.bleepingcomputer.com/news/security/uc-san-diego-health-discloses-data-breach-after-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UC San Diego Health, the academic health system of the University of California, San Diego, has disclosed a data breach after the compromise of some employees' email accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams just got this new protection against phishing attacks<a href="https://www.zdnet.com/article/microsoft-teams-just-got-this-new-protection-against-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The additional phishing protection in Microsoft Teams is available for organizations using Defender for Office 365 to guard against phishing attacks that use weaponized URLs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top FBI official advises Congress against banning ransomware payments<a href="https://thehill.com//policy/cybersecurity/565110-top-fbi-official-advises-congress-against-banning-ransomware-payments"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior FBI official advised members of the Senate Judiciary Committee on Tuesday against the idea of banning companies from paying hackers behind ransomware attacks, which have become a national security concern in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Zero-Day Bugs Plague Kaseya Unitrends Backup Servers<a href="https://threatpost.com/zero-days-kaseya-unitrends-backup-servers/168180/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unpatched flaws include RCE and authenticated privilege escalation on the client-side: Just the latest woe for the ransomware-walloped MSP. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiper Malware Riding the 2021 Tokyo Olympic Games<a href="https://www.fortinet.com/blog/threat-research/wiper-malware-riding-tokyo-olympic-games?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wee hours of the Tokyo Olympic Games, an interesting Wiper malware surfaced that reminds of the same destructive malware that targeted the Pyeongchang Winter Games. This one is called “Olympic Destroyer.”
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers flooded the Babuk ransomware gang’s forum with gay porn images<a href="https://securityaffairs.co/wordpress/120583/deep-web/babuk-ransomware-forum-hacked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of May, the Babuk ransomware operators rebranded their ransomware leak site into Payload[.]bin and started offering the opportunity to other gangs to use it to leak data stolen from their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Group Praying Mantis Hits IIS Web Servers with Deserialization Flaws and Memory Resident Malware<a href="https://www.csoonline.com/article/3626814/apt-group-hits-iis-web-servers-with-deserialization-flaws-and-memory-resident-malware.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated, likely government-sponsored threat actor has been compromising major public and private organizations over the past year by exploiting deserialization flaws in public-facing ASP.NET applications to deploy fileless malware.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa's Transnet Declares Force Majeure at Container Terminals<a href="https://www.reuters.com/article/us-transnet-cyber/south-africas-transnet-declares-force-majeure-at-container-terminals-idUSKBN2EX0PV?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The document sent to customers and dated on Monday said the force majeure would be implemented with immediate effect. It would impact container terminals in Durban, Ngqura, Port Elizabeth, and Cape Town.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DIVD discloses three new unpatched Kaseya Unitrends zero-days<a href="https://securityaffairs.co/wordpress/120591/security/kaseya-unitrends-zero-days.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn of three new zero-day vulnerabilities in the Kaseya Unitrends service. The vulnerabilities include remote code execution and authenticated privilege escalation on the client side.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to prevent corporate credentials ending up on the dark web<a href="https://www.helpnetsecurity.com/2021/07/27/dark-web-corporate-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not just small and medium-sized enterprises that are seeing their credentials shared on hacker forums. This year, SpyCloud found almost 26 million Fortune 1000 business accounts and 543 million employee credentials circulating on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida DEO Discloses Data Breach Affecting 58,000 Accounts<a href="https://www.darkreading.com/attacks-breaches/florida-deo-discloses-data-breach-affecting-58-000-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach has affected the unemployment benefits system and targeted 57,920 claimant accounts. The breach affected accounts within the Reemployment Assistance Claims and Benefits Information System, commonly known as CONNECT.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google launches new Bug Hunters vulnerability rewards platform<a href="https://www.bleepingcomputer.com/news/google/google-launches-new-bug-hunters-vulnerability-rewards-platform/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber insurance startup At-Bay raises $185 million at $1.35 billion valuation<a href="https://www.reuters.com/article/us-cyber-fundraising/cyber-insurance-startup-at-bay-raises-185-million-at-1-35-billion-valuation-idUSKBN2EX1SF?&web_view=true"> Full Text</a>
@@ -66,7 +342,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Bugs Found in 3 Open-Source Software Used by Several Businesses<a href="https://thehackernews.com/2021/07/several-bugs-found-in-3-open-source.html"> Full Text</a>
@@ -82,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Africa’s logistics company Transnet SOC hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/120596/cyber-crime/transnet-soc-cyber-attack.html"> Full Text</a>
@@ -102,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches Actively Exploited Zero-Day in iOS, MacOS<a href="https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/"> Full Text</a>
@@ -118,7 +394,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams now automatically blocks phishing attempts<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-now-automatically-blocks-phishing-attempts/"> Full Text</a>
@@ -134,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Are Users Ignoring Multi-Factor Authentication?<a href="https://www.securityweek.com/why-are-users-ignoring-multi-factor-authentication?&web_view=true"> Full Text</a>
@@ -150,7 +426,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Turning to 'Exotic' Programming Languages for Malware Development<a href="https://thehackernews.com/2021/07/hackers-turning-to-exotic-programming.html"> Full Text</a>
@@ -166,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DIVD discloses three new unpatched Kaseya Unitrends zero-days<a href="https://securityaffairs.co/wordpress/120591/security/kaseya-unitrends-zero-days.html"> Full Text</a>
@@ -186,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS COVID passes targeted by scammers<a href="https://www.itsecurityguru.org/2021/07/27/nhs-covid-passes-targeted-by-scammers/?&web_view=true"> Full Text</a>
@@ -202,7 +478,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers flooded the Babuk ransomware gang’s forum with gay porn images<a href="https://securityaffairs.co/wordpress/120583/deep-web/babuk-ransomware-forum-hacked.html"> Full Text</a>
@@ -222,7 +498,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 36% of organizations suffered a serious cloud security data leak or a breach in the past year<a href="https://www.helpnetsecurity.com/2021/07/27/cloud-security-data-leak/?&web_view=true"> Full Text</a>
@@ -238,7 +514,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel defence minister to visit France to discuss NSO, Iran<a href="https://www.reuters.com/world/israel-defence-minister-visit-france-discuss-nso-iran-2021-07-27/?&web_view=true"> Full Text</a>
@@ -254,7 +530,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Urgent 0-Day Bug Patch for Mac, iPhone and iPad Devices<a href="https://thehackernews.com/2021/07/apple-releases-urgent-0-day-bug-patch.html"> Full Text</a>
@@ -270,7 +546,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hiding Malware inside a model of a neural network<a href="https://securityaffairs.co/wordpress/120558/malware/hiding-malware-model-neural-network.html?&web_view=true"> Full Text</a>
@@ -286,7 +562,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double Encryption: When Ransomware Recovery Gets Complicated<a href="https://securityintelligence.com/articles/double-encryption-extortion-ransomware-recovery/?&web_view=true"> Full Text</a>
@@ -302,7 +578,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil creates cyberattack response network<a href="https://www.zdnet.com/article/brazil-creates-cyberattack-response-network/?&web_view=true"> Full Text</a>
@@ -318,7 +594,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple patches zero-day vulnerability in iOS, iPadOS, macOS under active attack<a href="https://www.theregister.com/2021/07/27/apple_patches_zeroday/?&web_view=true"> Full Text</a>
@@ -334,7 +610,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers are using fake Microsoft 11 installers to spread malware<a href="https://www.cyberscoop.com/microsoft-11-fake-installer-kaspersky-malware/?&web_view=true"> Full Text</a>
@@ -350,7 +626,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 18 Companies to Participate in NIST 'Zero Trust' Project<a href="https://www.govinfosecurity.com/18-companies-to-participate-in-nist-zero-trust-project-a-17145?&web_view=true"> Full Text</a>
