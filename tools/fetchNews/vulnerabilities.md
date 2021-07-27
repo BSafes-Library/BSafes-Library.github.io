@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes CVE-2021-30807 flaw, the 13th zero-day this year<a href="https://securityaffairs.co/wordpress/120576/security/apple-cve-2021-30807-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released a security update that addresses CVE-2021-30807 flaw in macOS and iOS that may have been actively exploited to deliver malware
+
+
+
+Apple addressed a security flaw, tracked as CVE-2021-30807, in macOS and iOS that may have been actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes zero-day affecting iPhones and Macs, exploited in the wild<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-zero-day-affecting-iphones-and-macs-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address a zero-day vulnerability exploited in the wild and impacting iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security vulnerabilities in IDEMIA access control devices could allow attackers to ‘remotely open doors’<a href="https://portswigger.net/daily-swig/security-vulnerabilities-in-idemia-access-control-devices-could-allow-attackers-to-remotely-open-doors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in biometric access control devices manufactured by IDEMIA could lead to remote code execution (RCE), denial of service, and arbitrary file read/write, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Mitigate Microsoft Windows 10, 11 SeriousSAM Vulnerability<a href="https://thehackernews.com/2021/07/how-to-mitigate-microsoft-windows-10-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Windows 10 and Windows 11 users are at risk of a new unpatched vulnerability that was recently disclosed publicly.  As we reported last week, the vulnerability — SeriousSAM  — allows attackers with low-level permissions to access Windows system files to perform a Pass-the-Hash (and potentially Silver Ticket) attack.&nbsp;  Attackers can exploit this vulnerability to obtain hashed passwords stored in the Security Account Manager (SAM) and Registry, and ultimately run arbitrary code with SYSTEM privileges.  SeriousSAM vulnerability, tracked as CVE-2021-36934 , exists in the default configuration of Windows 10 and Windows 11, specifically due to a setting that allows 'read' permissions to the built-in user's group that contains all local users.  As a result, built-in local users have access to read the SAM files and the Registry, where they can also view the hashes. Once the attacker has 'User' access, they can use a tool such as Mimikatz to gain access to the Re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of unpatched Kaseya Unitrends backup vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/researchers-warn-of-unpatched-kaseya-unitrends-backup-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn of new zero-day vulnerabilities in the Kaseya Unitrends service and advise users not to expose the service to the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal fixes bug that sent random images to wrong contacts<a href="https://www.bleepingcomputer.com/news/security/signal-fixes-bug-that-sent-random-images-to-wrong-contacts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal has fixed a serious bug in its Android app that, in some cases, sent random unintended pictures to contacts without an obvious explanation. Although the issue was reported in December 2020, given the difficulty of reproducing the bug, it isn't until this month that a fix was pushed out.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches new Bug Hunters vulnerability rewards platform<a href="https://www.bleepingcomputer.com/news/google/google-launches-new-bug-hunters-vulnerability-rewards-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a new platform and community designed to host all its Vulnerability Rewards Programs (VRP) under the same roof.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Bugs Found in 3 Open-Source Software Used by Several Businesses<a href="https://thehackernews.com/2021/07/several-bugs-found-in-3-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed nine security vulnerabilities affecting three open-source projects —&nbsp; EspoCRM ,&nbsp; Pimcore , and&nbsp; Akaunting &nbsp;— that are widely used by several small to medium businesses and, if successfully exploited, could provide a pathway to more sophisticated attacks.  All the security flaws in question, which impact EspoCRM v6.1.6, Pimcore Customer Data Framework v3.0.0, Pimcore AdminBundle v6.8.0, and Akaunting v2.1.12, were fixed within a day of responsible disclosure, researchers Wiktor Sędkowski of Nokia and Trevor Christiansen of Rapid7 noted. Six of the nine flaws were uncovered in the Akaunting project.   EspoCRM is an open-source customer relationship management (CRM) application, while Pimcore is an open-source enterprise software platform for customer data management, digital asset management, content management, and digital commerce. Akaunting, on the other hand, is an open-source and online accounting software designed for invoice and expe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Actively Exploited Zero-Day in iOS, MacOS<a href="https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Company urges iPhone, iPad and Mac users to install updates to fix a critical memory corruption flaw that can allow for attackers to take over a system.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DIVD discloses three new unpatched Kaseya Unitrends zero-days<a href="https://securityaffairs.co/wordpress/120591/security/kaseya-unitrends-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found three new zero-day flaws in the Kaseya Unitrends service and warn users to avoid exposing the service to the Internet. 
+
+
+
+Security researchers warn of three new zero-day vulnerabilities in the Kaseya Unitrends service. The vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent 0-Day Bug Patch for Mac, iPhone and iPad Devices<a href="https://thehackernews.com/2021/07/apple-releases-urgent-0-day-bug-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out an urgent security update for&nbsp; iOS, iPadOS , and&nbsp; macOS &nbsp;to address a zero-day flaw that it said may have been actively exploited, making it the thirteenth such vulnerability Apple has patched since the start of this year.  The updates, which arrive less than a week after the company released iOS 14.7, iPadOS 14.7, and macOS Big Sur 11.5 to the public, fixes a memory corruption issue ( CVE-2021-30807 ) in the IOMobileFrameBuffer component, a kernel extension for managing the screen&nbsp; framebuffer , that could be abused to execute arbitrary code with kernel privileges.  The company said it addressed the issue with improved memory handling, noting it's "aware of a report that this issue may have been actively exploited." As is typically the case, additional details about the flaw have not been disclosed to prevent the weaponization of the vulnerability for additional attacks. Apple credited an anonymous researcher for discovering and reporting the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches zero-day vulnerability in iOS, iPadOS, macOS under active attack<a href="https://www.theregister.com/2021/07/27/apple_patches_zeroday/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug, CVE-2021-30807, was found in the iGiant's IOMobileFrameBuffer code, a kernel extension for managing the screen frame buffer that could be abused to run malicious code on the affected device.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google launches new Bug Hunters vulnerability rewards platform<a href="https://www.bleepingcomputer.com/news/google/google-launches-new-bug-hunters-vulnerability-rewards-platform/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber insurance startup At-Bay raises $185 million at $1.35 billion valuation<a href="https://www.reuters.com/article/us-cyber-fundraising/cyber-insurance-startup-at-bay-raises-185-million-at-1-35-billion-valuation-idUSKBN2EX1SF?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Bugs Found in 3 Open-Source Software Used by Several Businesses<a href="https://thehackernews.com/2021/07/several-bugs-found-in-3-open-source.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Africa’s logistics company Transnet SOC hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/120596/cyber-crime/transnet-soc-cyber-attack.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches Actively Exploited Zero-Day in iOS, MacOS<a href="https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams now automatically blocks phishing attempts<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-now-automatically-blocks-phishing-attempts/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Are Users Ignoring Multi-Factor Authentication?<a href="https://www.securityweek.com/why-are-users-ignoring-multi-factor-authentication?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Turning to 'Exotic' Programming Languages for Malware Development<a href="https://thehackernews.com/2021/07/hackers-turning-to-exotic-programming.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DIVD discloses three new unpatched Kaseya Unitrends zero-days<a href="https://securityaffairs.co/wordpress/120591/security/kaseya-unitrends-zero-days.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS COVID passes targeted by scammers<a href="https://www.itsecurityguru.org/2021/07/27/nhs-covid-passes-targeted-by-scammers/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers flooded the Babuk ransomware gang’s forum with gay porn images<a href="https://securityaffairs.co/wordpress/120583/deep-web/babuk-ransomware-forum-hacked.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 36% of organizations suffered a serious cloud security data leak or a breach in the past year<a href="https://www.helpnetsecurity.com/2021/07/27/cloud-security-data-leak/?&web_view=true"> Full Text</a>
@@ -238,7 +238,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel defence minister to visit France to discuss NSO, Iran<a href="https://www.reuters.com/world/israel-defence-minister-visit-france-discuss-nso-iran-2021-07-27/?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Urgent 0-Day Bug Patch for Mac, iPhone and iPad Devices<a href="https://thehackernews.com/2021/07/apple-releases-urgent-0-day-bug-patch.html"> Full Text</a>
@@ -270,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hiding Malware inside a model of a neural network<a href="https://securityaffairs.co/wordpress/120558/malware/hiding-malware-model-neural-network.html?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Double Encryption: When Ransomware Recovery Gets Complicated<a href="https://securityintelligence.com/articles/double-encryption-extortion-ransomware-recovery/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil creates cyberattack response network<a href="https://www.zdnet.com/article/brazil-creates-cyberattack-response-network/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple patches zero-day vulnerability in iOS, iPadOS, macOS under active attack<a href="https://www.theregister.com/2021/07/27/apple_patches_zeroday/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers are using fake Microsoft 11 installers to spread malware<a href="https://www.cyberscoop.com/microsoft-11-fake-installer-kaspersky-malware/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 18 Companies to Participate in NIST 'Zero Trust' Project<a href="https://www.govinfosecurity.com/18-companies-to-participate-in-nist-zero-trust-project-a-17145?&web_view=true"> Full Text</a>

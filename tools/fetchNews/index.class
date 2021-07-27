@@ -34,6 +34,338 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches new Bug Hunters vulnerability rewards platform<a href="https://www.bleepingcomputer.com/news/google/google-launches-new-bug-hunters-vulnerability-rewards-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced a new platform and community designed to host all its Vulnerability Rewards Programs (VRP) under the same roof.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber insurance startup At-Bay raises $185 million at $1.35 billion valuation<a href="https://www.reuters.com/article/us-cyber-fundraising/cyber-insurance-startup-at-bay-raises-185-million-at-1-35-billion-valuation-idUSKBN2EX1SF?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance startup At-Bay said on Tuesday it raised $185 million at a $1.35 billion valuation to expand its business as many in the cyber industry face growing losses due to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Bugs Found in 3 Open-Source Software Used by Several Businesses<a href="https://thehackernews.com/2021/07/several-bugs-found-in-3-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed nine security vulnerabilities affecting three open-source projects —  EspoCRM ,  Pimcore , and  Akaunting  — that are widely used by several small to medium businesses and, if successfully exploited, could provide a pathway to more sophisticated attacks.  All the security flaws in question, which impact EspoCRM v6.1.6, Pimcore Customer Data Framework v3.0.0, Pimcore AdminBundle v6.8.0, and Akaunting v2.1.12, were fixed within a day of responsible disclosure, researchers Wiktor Sędkowski of Nokia and Trevor Christiansen of Rapid7 noted. Six of the nine flaws were uncovered in the Akaunting project.   EspoCRM is an open-source customer relationship management (CRM) application, while Pimcore is an open-source enterprise software platform for customer data management, digital asset management, content management, and digital commerce. Akaunting, on the other hand, is an open-source and online accounting software designed for invoice and expe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa’s logistics company Transnet SOC hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/120596/cyber-crime/transnet-soc-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transnet SOC Ltd, a large South African rail, port and pipeline company, announced it was hit by a disruptive cyber attack. 
+
+
+
+South Africa’s logistics company Transnet SOC was hit last week by a disruptive cyberattack that halted its operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Actively Exploited Zero-Day in iOS, MacOS<a href="https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Company urges iPhone, iPad and Mac users to install updates to fix a critical memory corruption flaw that can allow for attackers to take over a system.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams now automatically blocks phishing attempts<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-now-automatically-blocks-phishing-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has extended Defender for Office 365 Safe Links protection to Microsoft Teams to safeguard users from malicious URL-based phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Are Users Ignoring Multi-Factor Authentication?<a href="https://www.securityweek.com/why-are-users-ignoring-multi-factor-authentication?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new transparency report released this month, the social media giant Facebook said that barely 2.3 percent of all its active accounts have enabled at least one method of two-factor authentication between July and December last year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Turning to 'Exotic' Programming Languages for Malware Development<a href="https://thehackernews.com/2021/07/hackers-turning-to-exotic-programming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly shifting to "exotic" programming languages such as Go, Rust, Nim, and Dlang that can better circumvent conventional security protections, evade analysis, and hamper reverse engineering efforts.  "Malware authors are known for their ability to adapt and modify their skills and behaviors to take advantage of newer technologies,"  said  Eric Milam, Vice President of threat research at BlackBerry. "That tactic has multiple benefits from the development cycle and inherent lack of coverage from protective products."  On the one hand, languages like Rust are more secure as they offer guarantees like  memory-safe programming , but they can also be a double-edged sword when malware engineers abuse the same features designed to offer increased safeguards to their advantage, thereby making malware less susceptible to exploitation and thwart attempts to  activate a kill-switch  and render them powerless.   Noting that binaries written i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DIVD discloses three new unpatched Kaseya Unitrends zero-days<a href="https://securityaffairs.co/wordpress/120591/security/kaseya-unitrends-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found three new zero-day flaws in the Kaseya Unitrends service and warn users to avoid exposing the service to the Internet. 
+
+
+
+Security researchers warn of three new zero-day vulnerabilities in the Kaseya Unitrends service. The vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS COVID passes targeted by scammers<a href="https://www.itsecurityguru.org/2021/07/27/nhs-covid-passes-targeted-by-scammers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Egress has warned that COVID passport phishing emails are circulating – and directed users to fake NHS websites. These passes allow people to show their vaccination details or test results, and are considered an official COVID-19 status.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers flooded the Babuk ransomware gang’s forum with gay porn images<a href="https://securityaffairs.co/wordpress/120583/deep-web/babuk-ransomware-forum-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Babuk ransomware operators seem to have suffered a ransomware attack, threat actors flooded their forum gay orgy porn images.
+
+
+
+At the end of June, the Babuk Locker ransomware was leaked online allowing threat actors to use it to create their own version...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+36% of organizations suffered a serious cloud security data leak or a breach in the past year<a href="https://www.helpnetsecurity.com/2021/07/27/cloud-security-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud adoption accelerates, engineering and security teams say that risks—and the costs of addressing them—are increasing. The findings are part of the State of Cloud Security 2021 survey conducted by Fugue and Sonatype.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel defence minister to visit France to discuss NSO, Iran<a href="https://www.reuters.com/world/israel-defence-minister-visit-france-discuss-nso-iran-2021-07-27/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli Defence Minister Benny Gantz will travel to France this week to discuss spyware sold by Israeli cyber firm NSO that was allegedly used to target French President Emmanuel Macron.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent 0-Day Bug Patch for Mac, iPhone and iPad Devices<a href="https://thehackernews.com/2021/07/apple-releases-urgent-0-day-bug-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out an urgent security update for  iOS, iPadOS , and  macOS  to address a zero-day flaw that it said may have been actively exploited, making it the thirteenth such vulnerability Apple has patched since the start of this year.  The updates, which arrive less than a week after the company released iOS 14.7, iPadOS 14.7, and macOS Big Sur 11.5 to the public, fixes a memory corruption issue ( CVE-2021-30807 ) in the IOMobileFrameBuffer component, a kernel extension for managing the screen  framebuffer , that could be abused to execute arbitrary code with kernel privileges.  The company said it addressed the issue with improved memory handling, noting it's "aware of a report that this issue may have been actively exploited." As is typically the case, additional details about the flaw have not been disclosed to prevent the weaponization of the vulnerability for additional attacks. Apple credited an anonymous researcher for discovering and reporting the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hiding Malware inside a model of a neural network<a href="https://securityaffairs.co/wordpress/120558/malware/hiding-malware-model-neural-network.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Zhi Wang, Chaoge Liu, and Xiang Cui presented a technique to deliver malware through neural network models to evade the detection without impacting the performance of the network.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double Encryption: When Ransomware Recovery Gets Complicated<a href="https://securityintelligence.com/articles/double-encryption-extortion-ransomware-recovery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the Double extortion tactic, the cybercriminals demand two ransoms — one for a decryption utility and the other for the deletion of the victim’s stolen information from their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil creates cyberattack response network<a href="https://www.zdnet.com/article/brazil-creates-cyberattack-response-network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Created through a presidential decree signed on July 16, the Federal Cyber Incident Management Network will encompass the Institutional Security Office of the presidency as well as all bodies and entities under the federal government administration.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches zero-day vulnerability in iOS, iPadOS, macOS under active attack<a href="https://www.theregister.com/2021/07/27/apple_patches_zeroday/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug, CVE-2021-30807, was found in the iGiant's IOMobileFrameBuffer code, a kernel extension for managing the screen frame buffer that could be abused to run malicious code on the affected device.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers are using fake Microsoft 11 installers to spread malware<a href="https://www.cyberscoop.com/microsoft-11-fake-installer-kaspersky-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Kaspersky has warned that crooks were exploiting people overeager to get their hands on the Microsoft operating system update, due for fall release, with fake installers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+18 Companies to Participate in NIST 'Zero Trust' Project<a href="https://www.govinfosecurity.com/18-companies-to-participate-in-nist-zero-trust-project-a-17145?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST has selected 18 technology companies to demonstrate "zero trust" security architectures as it prepares to draft guidance for use of the model by federal agencies, which the private sector can also follow.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile County Commission notifies employees of data breach<a href="https://www.wkrg.com/news/mobile-county-commission-notifies-employees-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information that may have been exposed includes names, dates of birth, and Social Security numbers, as well as the health insurance contract numbers and routing numbers for direct deposit.
+</details>
+<div style="text-align: right" markdown="1">
+WKRG News 5
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

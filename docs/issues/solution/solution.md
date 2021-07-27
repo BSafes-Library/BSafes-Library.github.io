@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams now automatically blocks phishing attempts<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-now-automatically-blocks-phishing-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has extended Defender for Office 365 Safe Links protection to Microsoft Teams&nbsp;to safeguard users from malicious URL-based phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

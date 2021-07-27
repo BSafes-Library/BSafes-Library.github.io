@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Africa’s logistics company Transnet SOC hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/120596/cyber-crime/transnet-soc-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transnet&nbsp;SOC&nbsp;Ltd,&nbsp;a large&nbsp;South African&nbsp;rail, port and pipeline company, announced it was hit by a disruptive cyber attack. 
+
+
+
+South Africa’s logistics company Transnet SOC was hit last week by a disruptive cyberattack that halted its operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
