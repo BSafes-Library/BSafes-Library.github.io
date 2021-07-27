@@ -34,6 +34,406 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP now secures removable storage, printers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-now-secures-removable-storage-printers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added new removable storage device and printer controls to Microsoft Defender for Endpoint, the enterprise version of its Windows 10 Defender antivirus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Continuous Threats and Attacks Piercing Windows OS<a href="https://cyware.com/news/continuous-threats-and-attacks-piercing-windows-os-3ef70964"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple cyberattacks have been found targeting Windows OS. Its users were targeted, almost on a daily basis, with some new malware, vulnerability, or attack vector.  Therefore, the best solution is to always stay updated and frequently install the latest patches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech groups urge Congress to 'dig deeper' on Facebook role in Capitol riot | Kaseya denies paying hackers for decryption key | Tech coalition expands tracking of extremist content<a href="https://thehill.com//policy/technology/overnights/564916-hillicon-valley-tech-groups-urge-congress-to-dig-deeper-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The day before members of a House select committee tasked with investigating the Jan. 6 Capitol riot are set to hold their first hearing, a group of tech accountability groups sent a report renewing their request for lawmakers to look into what they called Facebooks’s “significant responsibility” in the attack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIMI: A Visual Take on Email Authentication and Security<a href="https://thehackernews.com/2021/07/bimi-visual-take-on-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a saying that goes something like, "Do not judge a book by its cover." Yet, we all know we can not help but do just that - especially when it comes to online security.  Logos play a significant role in whether or not we open an email and how we assess the importance of each message. Brand Indicators for Message Identification, or BIMI, aims to make it easier for us to quickly identify important information within emails using branding guidelines and visual cues found in logos.   In recent years, users are often unsure about the authenticity of emails, and this has become a major issue for businesses fighting spam. BIMI  gives email users access to information about a brand's identity. A company has complete control and freedom over what logo to attach to authenticated emails. Overall, BIMI acts as an additional layer of security to the existing email authentication process.  What is BIMI, and how does it strengthen the security of your emails?   BIMI is a standa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes CVE-2021-30807 flaw, the 13th zero-day this year<a href="https://securityaffairs.co/wordpress/120576/security/apple-cve-2021-30807-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released a security update that addresses CVE-2021-30807 flaw in macOS and iOS that may have been actively exploited to deliver malware
+
+
+
+Apple addressed a security flaw, tracked as CVE-2021-30807, in macOS and iOS that may have been actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: IoT Piranhas Are Swarming Industrial Controls<a href="https://threatpost.com/podcast-iot-industrial-controls/168078/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enormous botnets of IoT devices are going after decades-old legacy systems that are rife in systems that control crucial infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes zero-day affecting iPhones and Macs, exploited in the wild<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-zero-day-affecting-iphones-and-macs-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address a zero-day vulnerability exploited in the wild and impacting iPhones, iPads, and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security vulnerabilities in IDEMIA access control devices could allow attackers to ‘remotely open doors’<a href="https://portswigger.net/daily-swig/security-vulnerabilities-in-idemia-access-control-devices-could-allow-attackers-to-remotely-open-doors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in biometric access control devices manufactured by IDEMIA could lead to remote code execution (RCE), denial of service, and arbitrary file read/write, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya denies paying hackers for decryption key after ransomware attack<a href="https://thehill.com//policy/cybersecurity/564909-kaseya-denies-paying-hackers-for-decryption-key-after-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software company Kaseya on Monday strongly denied paying to get access to a key to decrypt its systems following a massive ransomware attack on the company that impacted up to 1,500 organizations earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Mitigate Microsoft Windows 10, 11 SeriousSAM Vulnerability<a href="https://thehackernews.com/2021/07/how-to-mitigate-microsoft-windows-10-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Windows 10 and Windows 11 users are at risk of a new unpatched vulnerability that was recently disclosed publicly.  As we reported last week, the vulnerability — SeriousSAM  — allows attackers with low-level permissions to access Windows system files to perform a Pass-the-Hash (and potentially Silver Ticket) attack.   Attackers can exploit this vulnerability to obtain hashed passwords stored in the Security Account Manager (SAM) and Registry, and ultimately run arbitrary code with SYSTEM privileges.  SeriousSAM vulnerability, tracked as CVE-2021-36934 , exists in the default configuration of Windows 10 and Windows 11, specifically due to a setting that allows 'read' permissions to the built-in user's group that contains all local users.  As a result, built-in local users have access to read the SAM files and the Registry, where they can also view the hashes. Once the attacker has 'User' access, they can use a tool such as Mimikatz to gain access to the Re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom helped ransomware victims to save almost €1B<a href="https://securityaffairs.co/wordpress/120567/cyber-crime/no-more-ransom-5th-anniversary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The No More Ransom initiative celebrates its fifth anniversary, over 6 million victims of ransomware attacks recover their files for free saving almost €1 billion in payments.
+
+
+
+No More Ransom is celebrating its 5th anniversary, the initiative allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The True Impact of Ransomware Attacks<a href="https://threatpost.com/true-impact-of-ransomware-attacks/168029/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keeper’s research reveals that in addition to knocking systems offline, ransomware attacks degrade productivity, cause organizations to incur significant indirect costs, and mar their reputations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of unpatched Kaseya Unitrends backup vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/researchers-warn-of-unpatched-kaseya-unitrends-backup-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn of new zero-day vulnerabilities in the Kaseya Unitrends service and advise users not to expose the service to the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What We Learn from MITRE's Most Dangerous Software Weaknesses List<a href="https://www.securityweek.com/what-we-learn-mitres-most-dangerous-software-weaknesses-list?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MITRE Top 25 list is compiled from NIST’s NVD database and the CVSS scores for each CVE, with a formula applied to score each weakness based on prevalence and severity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of LemonDuck Malware Targeting Windows and Linux Systems<a href="https://thehackernews.com/2021/07/microsoft-warns-of-lemonduck-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An infamous cross-platform crypto-mining malware has continued to refine and improve upon its techniques to strike both Windows and Linux operating systems by setting its sights on older vulnerabilities, while simultaneously latching on to a variety of spreading mechanisms to maximize the effectiveness of its campaigns.  "LemonDuck, an actively updated and robust malware that's primarily known for its botnet and cryptocurrency mining objectives, followed the same trajectory when it adopted more sophisticated behavior and escalated its operations," Microsoft  said  in a technical write-up published last week. "Today, beyond using resources for its traditional bot and mining activities, LemonDuck steals credentials, removes security controls, spreads via emails, moves laterally, and ultimately drops more tools for human-operated activity."   The malware is notorious for its ability to propagate rapidly across an infected network to facilitate information theft an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hiding Malware inside a model of a neural network<a href="https://securityaffairs.co/wordpress/120558/malware/hiding-malware-model-neural-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated how to hide malware inside an image classifier within a neural network in order to bypass the defense solutions.
+
+
+
+Researchers Zhi Wang, Chaoge Liu, and Xiang Cui presented a technique to deliver malware through neural network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom saves almost €1 billion in ransomware payments in 5 years<a href="https://www.bleepingcomputer.com/news/security/no-more-ransom-saves-almost-1-billion-in-ransomware-payments-in-5-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The No More Ransom project celebrates its fifth anniversary today after helping over six million ransomware victims recover their files and saving them almost €1 billion in ransomware payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Weeks-long Malspam Campaign Abusing HTML Smuggling to Bypass Email Security Systems<a href="https://therecord.media/microsoft-warns-of-weeks-long-malspam-campaign-abusing-html-smuggling/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As explained by SecureTeam and Outflank, HTML smuggling is a technique that allows threat actors to assemble malicious files on users’ devices by clever use of HTML5 and JavaScript code.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal fixes bug that sent random images to wrong contacts<a href="https://www.bleepingcomputer.com/news/security/signal-fixes-bug-that-sent-random-images-to-wrong-contacts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal has fixed a serious bug in its Android app that, in some cases, sent random unintended pictures to contacts without an obvious explanation. Although the issue was reported in December 2020, given the difficulty of reproducing the bug, it isn't until this month that a fix was pushed out.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dahua, Hikvision out of security camera industry group<a href="https://therecord.media/dahua-hikvision-out-of-security-camera-industry-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both Dahua and Hickvision, two of China’s largest security camera makers, are no longer members of the Security Industry Association (SIA), the largest trade organization for surveillance vendors.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Releases Open Source Tool for Hunting Malicious Code in Dependencies<a href="https://www.securityweek.com/gitlab-releases-open-source-tool-hunting-malicious-code-dependencies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What GitLab sets out to achieve with the new open source tool -- named Package Hunter -- is the detection of malicious code that would execute within an application’s dependencies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile County Commission notifies employees of data breach<a href="https://www.wkrg.com/news/mobile-county-commission-notifies-employees-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information that may have been exposed includes names, dates of birth, and Social Security numbers, as well as the health insurance contract numbers and routing numbers for direct deposit.
+</details>
+<div style="text-align: right" markdown="1">
+WKRG News 5
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft publishes mitigations for the PetitPotam attack<a href="https://securityaffairs.co/wordpress/120550/security/petitpotam-attack-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published mitigations for the recently discovered PetitPotam attack that allows attackers to force remote Windows machines to share their password hashes. 
+
+
+
+Microsoft has released mitigations for the recently discovered PetitPotam NTLM attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PetitPotam NTLM Relay Attack Lets Hackers Take Over Windows Domains<a href="https://thehackernews.com/2021/07/new-petitpotam-ntlm-relay-attack-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly uncovered security flaw in the Windows operating system can be exploited to coerce remote Windows servers, including Domain Controllers, to authenticate with a malicious destination, thereby allowing an adversary to stage an  NTLM relay attack  and completely take over a Windows domain.  The issue, dubbed " PetitPotam ," was discovered by security researcher Gilles Lionel, who shared technical details and proof-of-concept (PoC) code last week, noting that the flaw works by forcing "Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw function."  MS-EFSRPC  is Microsoft's Encrypting File System Remote Protocol that's used to perform "maintenance and management operations on encrypted data that is stored remotely and accessed over a network."   Specifically, the attack enables a domain controller to authenticate against a remote NTLM under a bad actor's control using the MS-EFSRPC interface and share its authen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

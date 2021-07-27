@@ -8,6 +8,108 @@ nav_order: 900072
 
 ## General
 ---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Continuous Threats and Attacks Piercing Windows OS<a href="https://cyware.com/news/continuous-threats-and-attacks-piercing-windows-os-3ef70964"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple cyberattacks have been found targeting Windows OS. Its users were targeted, almost on a daily basis, with some new malware, vulnerability, or attack vector.  Therefore, the best solution is to always stay updated and frequently install the latest patches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech groups urge Congress to 'dig deeper' on Facebook role in Capitol riot | Kaseya denies paying hackers for decryption key | Tech coalition expands tracking of extremist content<a href="https://thehill.com//policy/technology/overnights/564916-hillicon-valley-tech-groups-urge-congress-to-dig-deeper-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The day before members of a House select committee&nbsp;tasked with&nbsp;investigating the Jan. 6 Capitol riot&nbsp;are set to hold their first hearing, a group of tech accountability groups sent a report renewing their request for lawmakers to look into what they called Facebooks’s “significant responsibility” in the attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BIMI: A Visual Take on Email Authentication and Security<a href="https://thehackernews.com/2021/07/bimi-visual-take-on-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a saying that goes something like, "Do not judge a book by its cover." Yet, we all know we can not help but do just that - especially when it comes to online security.  Logos play a significant role in whether or not we open an email and how we assess the importance of each message. Brand Indicators for Message Identification, or BIMI, aims to make it easier for us to quickly identify important information within emails using branding guidelines and visual cues found in logos.&nbsp;  In recent years, users are often unsure about the authenticity of emails, and this has become a major issue for businesses fighting spam. BIMI  gives email users access to information about a brand's identity. A company has complete control and freedom over what logo to attach to authenticated emails. Overall, BIMI acts as an additional layer of security to the existing email authentication process.  What is BIMI, and how does it strengthen the security of your emails?&nbsp;  BIMI is a standa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom helped ransomware victims to save almost €1B<a href="https://securityaffairs.co/wordpress/120567/cyber-crime/no-more-ransom-5th-anniversary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The No More Ransom initiative celebrates its fifth anniversary, over 6 million victims of ransomware attacks recover their files for free saving almost €1 billion in payments.
+
+
+
+No More Ransom is celebrating its 5th anniversary, the initiative allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The True Impact of Ransomware Attacks<a href="https://threatpost.com/true-impact-of-ransomware-attacks/168029/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keeper’s research reveals that in addition to knocking systems offline, ransomware attacks degrade productivity, cause organizations to incur significant indirect costs, and mar their reputations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What We Learn from MITRE's Most Dangerous Software Weaknesses List<a href="https://www.securityweek.com/what-we-learn-mitres-most-dangerous-software-weaknesses-list?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MITRE Top 25 list is compiled from NIST’s NVD database and the CVSS scores for each CVE, with a formula applied to score each weakness based on prevalence and severity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom saves almost €1 billion in ransomware payments in 5 years<a href="https://www.bleepingcomputer.com/news/security/no-more-ransom-saves-almost-1-billion-in-ransomware-payments-in-5-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The No More Ransom project celebrates its fifth anniversary today after helping over six million ransomware victims recover their files and saving them almost €1 billion in ransomware payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

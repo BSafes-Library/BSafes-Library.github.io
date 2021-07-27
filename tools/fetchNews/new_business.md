@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya denies paying hackers for decryption key after ransomware attack<a href="https://thehill.com//policy/cybersecurity/564909-kaseya-denies-paying-hackers-for-decryption-key-after-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software company Kaseya on Monday strongly denied paying to get access to a key to decrypt its systems following a massive ransomware attack on the company that impacted up to 1,500 organizations earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dahua, Hikvision out of security camera industry group<a href="https://therecord.media/dahua-hikvision-out-of-security-camera-industry-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both Dahua and Hickvision, two of China’s largest security camera makers, are no longer members of the Security Industry Association (SIA), the largest trade organization for surveillance vendors.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

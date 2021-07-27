@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP now secures removable storage, printers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-now-secures-removable-storage-printers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Continuous Threats and Attacks Piercing Windows OS<a href="https://cyware.com/news/continuous-threats-and-attacks-piercing-windows-os-3ef70964"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech groups urge Congress to 'dig deeper' on Facebook role in Capitol riot | Kaseya denies paying hackers for decryption key | Tech coalition expands tracking of extremist content<a href="https://thehill.com//policy/technology/overnights/564916-hillicon-valley-tech-groups-urge-congress-to-dig-deeper-on"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BIMI: A Visual Take on Email Authentication and Security<a href="https://thehackernews.com/2021/07/bimi-visual-take-on-email.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes CVE-2021-30807 flaw, the 13th zero-day this year<a href="https://securityaffairs.co/wordpress/120576/security/apple-cve-2021-30807-zero-day.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Podcast: IoT Piranhas Are Swarming Industrial Controls<a href="https://threatpost.com/podcast-iot-industrial-controls/168078/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes zero-day affecting iPhones and Macs, exploited in the wild<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-zero-day-affecting-iphones-and-macs-exploited-in-the-wild/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security vulnerabilities in IDEMIA access control devices could allow attackers to ‘remotely open doors’<a href="https://portswigger.net/daily-swig/security-vulnerabilities-in-idemia-access-control-devices-could-allow-attackers-to-remotely-open-doors?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya denies paying hackers for decryption key after ransomware attack<a href="https://thehill.com//policy/cybersecurity/564909-kaseya-denies-paying-hackers-for-decryption-key-after-ransomware-attack"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Mitigate Microsoft Windows 10, 11 SeriousSAM Vulnerability<a href="https://thehackernews.com/2021/07/how-to-mitigate-microsoft-windows-10-11.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No More Ransom helped ransomware victims to save almost €1B<a href="https://securityaffairs.co/wordpress/120567/cyber-crime/no-more-ransom-5th-anniversary.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The True Impact of Ransomware Attacks<a href="https://threatpost.com/true-impact-of-ransomware-attacks/168029/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers warn of unpatched Kaseya Unitrends backup vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/researchers-warn-of-unpatched-kaseya-unitrends-backup-vulnerabilities/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What We Learn from MITRE's Most Dangerous Software Weaknesses List<a href="https://www.securityweek.com/what-we-learn-mitres-most-dangerous-software-weaknesses-list?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of LemonDuck Malware Targeting Windows and Linux Systems<a href="https://thehackernews.com/2021/07/microsoft-warns-of-lemonduck-malware.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hiding Malware inside a model of a neural network<a href="https://securityaffairs.co/wordpress/120558/malware/hiding-malware-model-neural-network.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No More Ransom saves almost €1 billion in ransomware payments in 5 years<a href="https://www.bleepingcomputer.com/news/security/no-more-ransom-saves-almost-1-billion-in-ransomware-payments-in-5-years/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Weeks-long Malspam Campaign Abusing HTML Smuggling to Bypass Email Security Systems<a href="https://therecord.media/microsoft-warns-of-weeks-long-malspam-campaign-abusing-html-smuggling/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal fixes bug that sent random images to wrong contacts<a href="https://www.bleepingcomputer.com/news/security/signal-fixes-bug-that-sent-random-images-to-wrong-contacts/"> Full Text</a>
@@ -350,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dahua, Hikvision out of security camera industry group<a href="https://therecord.media/dahua-hikvision-out-of-security-camera-industry-group/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Releases Open Source Tool for Hunting Malicious Code in Dependencies<a href="https://www.securityweek.com/gitlab-releases-open-source-tool-hunting-malicious-code-dependencies?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mobile County Commission notifies employees of data breach<a href="https://www.wkrg.com/news/mobile-county-commission-notifies-employees-of-data-breach/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ WKRG News 5
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft publishes mitigations for the PetitPotam attack<a href="https://securityaffairs.co/wordpress/120550/security/petitpotam-attack-mitigations.html"> Full Text</a>
@@ -418,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2021
+July 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PetitPotam NTLM Relay Attack Lets Hackers Take Over Windows Domains<a href="https://thehackernews.com/2021/07/new-petitpotam-ntlm-relay-attack-lets.html"> Full Text</a>

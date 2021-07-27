@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: IoT Piranhas Are Swarming Industrial Controls<a href="https://threatpost.com/podcast-iot-industrial-controls/168078/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enormous botnets of IoT devices are going after decades-old legacy systems that are rife in systems that control crucial infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

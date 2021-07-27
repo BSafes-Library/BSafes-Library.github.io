@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP now secures removable storage, printers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-now-secures-removable-storage-printers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft&nbsp;has added new removable storage device and printer controls to Microsoft Defender for Endpoint, the enterprise version of its Windows 10 Defender antivirus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Releases Open Source Tool for Hunting Malicious Code in Dependencies<a href="https://www.securityweek.com/gitlab-releases-open-source-tool-hunting-malicious-code-dependencies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What GitLab sets out to achieve with the new open source tool -- named Package Hunter -- is the detection of malicious code that would execute within an application’s dependencies.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft publishes mitigations for the PetitPotam attack<a href="https://securityaffairs.co/wordpress/120550/security/petitpotam-attack-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft published mitigations for the recently discovered PetitPotam attack that allows attackers to force remote Windows machines to share their password hashes. 
+
+
+
+Microsoft has released mitigations for the recently discovered PetitPotam NTLM attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
