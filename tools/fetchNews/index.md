@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent 0-Day Bug Patch for Mac, iPhone and iPad Devices<a href="https://thehackernews.com/2021/07/apple-releases-urgent-0-day-bug-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out an urgent security update for  iOS, iPadOS , and  macOS  to address a zero-day flaw that it said may have been actively exploited, making it the thirteenth such vulnerability Apple has patched since the start of this year.  The updates, which arrive less than a week after the company released iOS 14.7, iPadOS 14.7, and macOS Big Sur 11.5 to the public, fixes a memory corruption issue ( CVE-2021-30807 ) in the IOMobileFrameBuffer component, a kernel extension for managing the screen  framebuffer , that could be abused to execute arbitrary code with kernel privileges.  The company said it addressed the issue with improved memory handling, noting it's "aware of a report that this issue may have been actively exploited." As is typically the case, additional details about the flaw have not been disclosed to prevent the weaponization of the vulnerability for additional attacks. Apple credited an anonymous researcher for discovering and reporting the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hiding Malware inside a model of a neural network<a href="https://securityaffairs.co/wordpress/120558/malware/hiding-malware-model-neural-network.html?&web_view=true"> Full Text</a>
 </p>
 <details>
