@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brazil creates cyberattack response network<a href="https://www.zdnet.com/article/brazil-creates-cyberattack-response-network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Created through a presidential decree signed on July 16, the Federal Cyber Incident Management Network will encompass the Institutional Security Office of the presidency as well as all bodies and entities under the federal government administration.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches zero-day vulnerability in iOS, iPadOS, macOS under active attack<a href="https://www.theregister.com/2021/07/27/apple_patches_zeroday/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug, CVE-2021-30807, was found in the iGiant's IOMobileFrameBuffer code, a kernel extension for managing the screen frame buffer that could be abused to run malicious code on the affected device.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scammers are using fake Microsoft 11 installers to spread malware<a href="https://www.cyberscoop.com/microsoft-11-fake-installer-kaspersky-malware/?&web_view=true"> Full Text</a>
 </p>
 <details>
