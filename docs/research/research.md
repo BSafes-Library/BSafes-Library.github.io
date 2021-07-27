@@ -30,6 +30,18 @@ The government industry was one of three main industries where 95% of all record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Is There a Relationship Between the Number of Female Students Who Were Cyberbullied and the Number of Female Students Who Seriously Considered Attempting Suicide? [HTML](https://papers.bsafes.com/docs/cyberbully/Is-There-a-Relationship-Between-the-Number-of-Female-Students-Who-Were-Cyberbullied-and-the-Number-of-Female-Students-Who-Seriously-Considered-Attempting-Suicide/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In the United States, cyberbullying has become a major public health concern. Indeed, many people who are victims of cyberbullying consider harming themselves. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
