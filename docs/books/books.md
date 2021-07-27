@@ -14,6 +14,7 @@ nav_order: 400
 * [Behavioral Skills Training to Teach Online Safety Responses to Youth with Autism Spectrum Disorder](https://papers.bsafes.com/docs/behavior/behavioral-sklls-training-to-teach-online-safety-responses-to-youth-with-autism-spectrum-disorder/)
 * [Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus](https://papers.bsafes.com/docs/cybercrime/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
 * [Blockchain-mediated Licensing - Legal Engineering for Artist Empowerment, by Charles Adjovu; Ewa Fabian](https://papers.bsafes.com/docs/cryptocurrency/blockchain-mediated-licensing/)
+* [CYBERSECURITY - CREATING A CYBERSECURITY CULTURE, by Steven Edward Ogden](https://papers.bsafes.com/docs/education/CYBERSECURITY-CREATING-A-CYBERSECURITY-CULTURE/)
 * [Cybersecurity in Elections - Models of Interagency Collaboration, by Sam van der Staak and Peter Wolf](https://papers.bsafes.com/docs/Politics/cybersecurity-in-elections/)
 * [Crypto and Blockchain Fundamentals, by Mary C. Lacity](https://papers.bsafes.com/docs/cryptocurrency/crypto-and-blockchain-fundamentals/)
 * [Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects, by Samantha G. Echevarria](https://papers.bsafes.com/docs/behavior/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
