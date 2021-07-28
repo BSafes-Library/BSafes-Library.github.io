@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware group claims to be Darkside and REvil succesor<a href="https://securityaffairs.co/wordpress/120611/malware/blackmatter-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter ransomware gang, a new threat actor appears in the threat landscape and claims to combine TTPs of Darkside and REvil.
+
+
+
+BlackMatter is a new ransomware gang that started its activity this week, the cybercriminals group claims to be the successor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
