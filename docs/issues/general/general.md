@@ -11,6 +11,48 @@ nav_order: 900072
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook tightens teen protections | FBI cautions against banning ransomware payments | Republicans probe White House-social media collaboration<a href="https://thehill.com//policy/technology/overnights/565137-hillicon-valley-facebook-tightens-teen-protections-fbi-cautions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under intense Congressional and regulatory scrutiny, Facebook tightened protections for teens across its platform Tuesday by limiting ad targeting. In the cyber world, the FBI cautioned against banning ransomware payments in a hearing after a spate of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No More Ransom Saves Victims Nearly €1 Over 5 Years<a href="https://threatpost.com/no-more-ransom-saves-victims-e1-5-years/168192/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No More Ransom is collecting decryptors so ransomware victims don’t have to pay to get their data back and attackers don’t get rich.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to prevent corporate credentials ending up on the dark web<a href="https://www.helpnetsecurity.com/2021/07/27/dark-web-corporate-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not just small and medium-sized enterprises that are seeing their credentials shared on hacker forums. This year, SpyCloud found almost 26 million Fortune 1000 business accounts and 543 million employee credentials circulating on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why Are Users Ignoring Multi-Factor Authentication?<a href="https://www.securityweek.com/why-are-users-ignoring-multi-factor-authentication?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

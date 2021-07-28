@@ -11,6 +11,20 @@ nav_order: 900027
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+South Africa's Transnet Declares Force Majeure at Container Terminals<a href="https://www.reuters.com/article/us-transnet-cyber/south-africas-transnet-declares-force-majeure-at-container-terminals-idUSKBN2EX0PV?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The document sent to customers and dated on Monday said the force majeure would be implemented with immediate effect. It would impact container terminals in Durban, Ngqura, Port Elizabeth, and Cape Town.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber insurance startup At-Bay raises $185 million at $1.35 billion valuation<a href="https://www.reuters.com/article/us-cyber-fundraising/cyber-insurance-startup-at-bay-raises-185-million-at-1-35-billion-valuation-idUSKBN2EX1SF?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

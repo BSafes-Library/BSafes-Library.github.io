@@ -11,6 +11,20 @@ nav_order: 900075
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Top FBI official advises Congress against banning ransomware payments<a href="https://thehill.com//policy/cybersecurity/565110-top-fbi-official-advises-congress-against-banning-ransomware-payments"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior FBI official advised members of the Senate Judiciary Committee on Tuesday against the idea of banning companies from paying hackers behind ransomware attacks, which have&nbsp;become a national security concern in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Israel defence minister to visit France to discuss NSO, Iran<a href="https://www.reuters.com/world/israel-defence-minister-visit-france-discuss-nso-iran-2021-07-27/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

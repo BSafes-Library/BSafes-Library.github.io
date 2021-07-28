@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesia's BRI Life Probes Reported Data Leak of 2 Million Users<a href="https://www.reuters.com/business/finance/indonesias-bri-life-probes-reported-data-leak-2-million-users-2021-07-27/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BRI Life, the insurance arm of Indonesia's Bank Rakyat Indonesia (BRI), said that it was investigating claims that the personal details of over two million of its customers had been advertised for sale by unidentified hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UC San Diego Health discloses data breach after phishing attack<a href="https://www.bleepingcomputer.com/news/security/uc-san-diego-health-discloses-data-breach-after-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UC San Diego Health,&nbsp;the academic health system of the University of California, San Diego, has disclosed a data breach after the compromise of&nbsp;some employees' email accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida DEO Discloses Data Breach Affecting 58,000 Accounts<a href="https://www.darkreading.com/attacks-breaches/florida-deo-discloses-data-breach-affecting-58-000-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach has affected the unemployment benefits system and targeted 57,920 claimant accounts. The breach affected accounts within the Reemployment Assistance Claims and Benefits Information System, commonly known as CONNECT.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

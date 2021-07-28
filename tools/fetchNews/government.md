@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel defence minister to visit France to discuss NSO, Iran<a href="https://www.reuters.com/world/israel-defence-minister-visit-france-discuss-nso-iran-2021-07-27/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli Defence Minister Benny Gantz will travel to France this week to discuss spyware sold by Israeli cyber firm NSO that was allegedly used to target French President Emmanuel Macron.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil creates cyberattack response network<a href="https://www.zdnet.com/article/brazil-creates-cyberattack-response-network/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Created through a presidential decree signed on July 16, the Federal Cyber Incident Management Network will encompass the Institutional Security Office of the presidency as well as all bodies and entities under the federal government administration.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

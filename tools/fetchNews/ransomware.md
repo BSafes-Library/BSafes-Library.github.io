@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Double Encryption: When Ransomware Recovery Gets Complicated<a href="https://securityintelligence.com/articles/double-encryption-extortion-ransomware-recovery/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the Double extortion tactic, the cybercriminals demand two ransoms — one for a decryption utility and the other for the deletion of the victim’s stolen information from their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

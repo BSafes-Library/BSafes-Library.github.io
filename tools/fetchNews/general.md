@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Are Users Ignoring Multi-Factor Authentication?<a href="https://www.securityweek.com/why-are-users-ignoring-multi-factor-authentication?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new transparency report released this month, the social media giant Facebook said that barely 2.3 percent of all its active accounts have enabled at least one method of two-factor authentication between July and December last year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+36% of organizations suffered a serious cloud security data leak or a breach in the past year<a href="https://www.helpnetsecurity.com/2021/07/27/cloud-security-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud adoption accelerates, engineering and security teams say that risks—and the costs of addressing them—are increasing. The findings are part of the State of Cloud Security 2021 survey conducted by Fugue and Sonatype.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

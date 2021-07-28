@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS COVID passes targeted by scammers<a href="https://www.itsecurityguru.org/2021/07/27/nhs-covid-passes-targeted-by-scammers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEO of Egress has warned that COVID passport phishing emails are circulating – and directed users to fake NHS websites. These passes allow people to show their vaccination details or test results, and are considered an official COVID-19 status.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

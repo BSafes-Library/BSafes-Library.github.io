@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Group Praying Mantis Hits IIS Web Servers with Deserialization Flaws and Memory Resident Malware<a href="https://www.csoonline.com/article/3626814/apt-group-hits-iis-web-servers-with-deserialization-flaws-and-memory-resident-malware.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated, likely government-sponsored threat actor has been compromising major public and private organizations over the past year by exploiting deserialization flaws in public-facing ASP.NET applications to deploy fileless malware.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

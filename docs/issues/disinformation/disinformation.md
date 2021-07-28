@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden says Russia spreading misinformation ahead of 2022 elections<a href="https://thehill.com//homenews/administration/565121-biden-says-russia-spreading-misinformation-ahead-of-2022-elections"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden said Tuesday that he has been briefed on Russian efforts to spread misinformation related to the 2022 midterm elections.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

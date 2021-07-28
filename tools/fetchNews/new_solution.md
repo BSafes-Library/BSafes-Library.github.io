@@ -11,6 +11,20 @@ nav_order: 900195
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams just got this new protection against phishing attacks<a href="https://www.zdnet.com/article/microsoft-teams-just-got-this-new-protection-against-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The additional phishing protection in Microsoft Teams is available for organizations using Defender for Office 365 to guard against phishing attacks that use weaponized URLs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams now automatically blocks phishing attempts<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-now-automatically-blocks-phishing-attempts/"> Full Text</a>
 </p>
 <details>

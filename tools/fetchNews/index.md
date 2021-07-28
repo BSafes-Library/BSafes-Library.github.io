@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden says Russia spreading misinformation ahead of 2022 elections<a href="https://thehill.com//homenews/administration/565121-biden-says-russia-spreading-misinformation-ahead-of-2022-elections"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden said Tuesday that he has been briefed on Russian efforts to spread misinformation related to the 2022 midterm elections.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware automates Windows domain encryption via group policies<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-automates-windows-domain-encryption-via-group-policies/"> Full Text</a>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesia's BRI Life Probes Reported Data Leak of 2 Million Users<a href="https://www.reuters.com/business/finance/indonesias-bri-life-probes-reported-data-leak-2-million-users-2021-07-27/?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook tightens teen protections | FBI cautions against banning ransomware payments | Republicans probe White House-social media collaboration<a href="https://thehill.com//policy/technology/overnights/565137-hillicon-valley-facebook-tightens-teen-protections-fbi-cautions"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bug Could Let Attackers Hijack Zimbra Server by Sending Malicious Email<a href="https://thehackernews.com/2021/07/new-bug-could-let-attackers-hijack.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Zimbra could allow to takeover webmail server of a targeted organization<a href="https://securityaffairs.co/wordpress/120603/hacking/zimbra-vulnerabilities.html"> Full Text</a>
@@ -118,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No More Ransom Saves Victims Nearly €1 Over 5 Years<a href="https://threatpost.com/no-more-ransom-saves-victims-e1-5-years/168192/"> Full Text</a>
@@ -134,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UC San Diego Health discloses data breach after phishing attack<a href="https://www.bleepingcomputer.com/news/security/uc-san-diego-health-discloses-data-breach-after-phishing-attack/"> Full Text</a>
@@ -150,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams just got this new protection against phishing attacks<a href="https://www.zdnet.com/article/microsoft-teams-just-got-this-new-protection-against-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -166,7 +182,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top FBI official advises Congress against banning ransomware payments<a href="https://thehill.com//policy/cybersecurity/565110-top-fbi-official-advises-congress-against-banning-ransomware-payments"> Full Text</a>
@@ -182,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Zero-Day Bugs Plague Kaseya Unitrends Backup Servers<a href="https://threatpost.com/zero-days-kaseya-unitrends-backup-servers/168180/"> Full Text</a>
@@ -198,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wiper Malware Riding the 2021 Tokyo Olympic Games<a href="https://www.fortinet.com/blog/threat-research/wiper-malware-riding-tokyo-olympic-games?&web_view=true"> Full Text</a>
@@ -214,7 +230,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers flooded the Babuk ransomware gang’s forum with gay porn images<a href="https://securityaffairs.co/wordpress/120583/deep-web/babuk-ransomware-forum-hacked.html?&web_view=true"> Full Text</a>
@@ -230,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Group Praying Mantis Hits IIS Web Servers with Deserialization Flaws and Memory Resident Malware<a href="https://www.csoonline.com/article/3626814/apt-group-hits-iis-web-servers-with-deserialization-flaws-and-memory-resident-malware.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -246,7 +262,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Africa's Transnet Declares Force Majeure at Container Terminals<a href="https://www.reuters.com/article/us-transnet-cyber/south-africas-transnet-declares-force-majeure-at-container-terminals-idUSKBN2EX0PV?&web_view=true"> Full Text</a>
@@ -262,7 +278,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DIVD discloses three new unpatched Kaseya Unitrends zero-days<a href="https://securityaffairs.co/wordpress/120591/security/kaseya-unitrends-zero-days.html?&web_view=true"> Full Text</a>
@@ -278,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to prevent corporate credentials ending up on the dark web<a href="https://www.helpnetsecurity.com/2021/07/27/dark-web-corporate-credentials/?&web_view=true"> Full Text</a>
@@ -294,7 +310,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida DEO Discloses Data Breach Affecting 58,000 Accounts<a href="https://www.darkreading.com/attacks-breaches/florida-deo-discloses-data-breach-affecting-58-000-accounts?&web_view=true"> Full Text</a>
