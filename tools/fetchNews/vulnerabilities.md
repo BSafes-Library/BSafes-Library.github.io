@@ -11,6 +11,52 @@ nav_order: 900220
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Bug Could Let Attackers Hijack Zimbra Server by Sending Malicious Email<a href="https://thehackernews.com/2021/07/new-bug-could-let-attackers-hijack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered multiple security vulnerabilities in Zimbra email collaboration software that could be potentially exploited to compromise email accounts by sending a malicious message and even achieve a full takeover of the mail server when hosted on a cloud infrastructure.  The flaws — tracked as CVE-2021-35208  and CVE-2021-35208  — were discovered and reported in Zimbra 8.8.15 by researchers from code quality and security solutions provider SonarSource in May 2021. Mitigations have since been&nbsp; released &nbsp;in Zimbra versions 8.8.15 Patch 23 and 9.0.0 Patch 16.   CVE-2021-35208 &nbsp;(CVSS score: 5.4) - Stored XSS Vulnerability in ZmMailMsgView.java  CVE-2021-35209 &nbsp;(CVSS score: 6.1) - Proxy Servlet Open Redirect Vulnerability   "A combination of these vulnerabilities could enable an unauthenticated attacker to compromise a complete Zimbra webmail server of a targeted organization,"&nbsp; said &nbsp;SonarSource vulnerability researcher, Simon Scannell, who identif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Zimbra could allow to takeover webmail server of a targeted organization<a href="https://securityaffairs.co/wordpress/120603/hacking/zimbra-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered flaws in Zimbra email collaboration software that could allow attackers to compromise email accounts by sending a malicious email. 
+
+
+
+Cybersecurity researchers have discovered multiple security vulnerabilities, tracked as CVE-2021-35208&nbsp;and&nbsp;CVE-2021-35208,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Zero-Day Bugs Plague Kaseya Unitrends Backup Servers<a href="https://threatpost.com/zero-days-kaseya-unitrends-backup-servers/168180/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unpatched flaws include RCE and authenticated privilege escalation on the client-side: Just the latest woe for the ransomware-walloped MSP. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google launches new Bug Hunters vulnerability rewards platform<a href="https://www.bleepingcomputer.com/news/google/google-launches-new-bug-hunters-vulnerability-rewards-platform/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers posed as flirtatious UK aerobics instructor while targeting US defense contractor's employee<a href="https://thehill.com//policy/technology/565236-hackers-posed-as-flirtatious-uk-aerobics-instructor-while-targeting-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers&nbsp;said&nbsp;that hackers with ties to the Iranian government targeted U.S. defense contractors in attempts to install malware, including by posing as a United Kingdom-based aerobics instructor.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Implant PlugX Variant on Compromised MS Exchange Servers<a href="https://thehackernews.com/2021/07/chinese-hackers-implant-plugx-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese cyberespionage group known for targeting Southeast Asia leveraged flaws in the Microsoft Exchange Server that came to light earlier this March to deploy a previously undocumented variant of a remote access trojan (RAT) on compromised systems.  Attributing the intrusions to a threat actor named&nbsp; PKPLUG &nbsp;(aka&nbsp; Mustang Panda &nbsp;and HoneyMyte), Palo Alto Networks' Unit 42 threat intelligence team said it identified a new version of the modular PlugX malware, called Thor, that was delivered as a post-exploitation tool to one of the breached servers.  Dating back to as early as 2008,&nbsp; PlugX &nbsp;is a fully-featured second-stage implant with capabilities such as file upload, download, and modification, keystroke logging, webcam control, and access to a remote command shell.   "The variant observed [...] is unique in that it contains a change to its core source code: the replacement of its trademark word 'PLUG' to 'THOR,'" Unit 42 researchers Mike Harbison an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Posed as Aerobics Instructors for Years to Target Aerospace Employees<a href="https://thehackernews.com/2021/07/hackers-posed-as-aerobics-instructors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian cyberespionage group masqueraded as an aerobics instructor on Facebook in an attempt to infect the machine of an employee of an aerospace defense contractor with malware as part of a years-long social engineering and targeted malware campaign.  Enterprise security firm Proofpoint attributed the covert operation to a state-aligned threat actor it tracks as TA456, and by the wider cybersecurity community under the monikers Tortoiseshell and Imperial Kitten.   "Using the social media persona 'Marcella Flores,' TA456 built a relationship across corporate and personal communication platforms with an employee of a small subsidiary of an aerospace defense contractor," Proofpoint&nbsp; said &nbsp;in a report shared with The Hacker News. "In early June 2021, the threat actor attempted to capitalize on this relationship by sending the target malware via an ongoing email communication chain."   Earlier this month, Facebook&nbsp; revealed &nbsp;it took steps to dismantle a &amp;quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Software Cracks: A Shady Work of Threat Actors<a href="https://cyware.com/news/fake-software-cracks-a-shady-work-of-threat-actors-30788ec6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These types of software are distributed via shady sites, YouTube, and torrents to trick victims into believing that they are downloading the latest software or a game installer.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

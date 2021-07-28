@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Protect fails Android security tests once more<a href="https://www.bleepingcomputer.com/news/google/google-play-protect-fails-android-security-tests-once-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Play Protect, the Android built-in malware defense system, has failed the real-world tests of antivirus testing lab AV-TEST after detecting just over two thirds out of more than 20,000 malicious apps it was pitted against.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Microsoft Hyper-V bug could haunt orgs for a long time<a href="https://www.bleepingcomputer.com/news/security/critical-microsoft-hyper-v-bug-could-haunt-orgs-for-a-long-time/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details are now available for a vulnerability that affects Hyper-V, Microsoft's native hypervisor for creating virtual machines on Windows systems and in Azure cloud computing environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

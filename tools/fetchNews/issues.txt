@@ -31,7 +31,7 @@
 
 Alerts:
 . https://securityaffairs.co/wordpress/120412/hacking/pulse-secure-cisa-malware.html
-. 
+. https://www.bleepingcomputer.com/news/security/fbi-reveals-top-targeted-vulnerabilities-of-the-last-two-years/ 
 
 Law:
 

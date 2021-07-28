@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Olympics Broadcaster Announces His Computer Password on Live TV<a href="https://www.vice.com/en/article/n7b9mm/olympics-broadcaster-announces-his-computer-password-on-live-tv?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what is, at least so far, the biggest cybersecurity blunder of the Tokyo Olympics, an Italian TV announcer did not realize he was on air when he asked the password for his computer.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

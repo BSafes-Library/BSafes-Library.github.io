@@ -34,7 +34,452 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2021
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New US security memorandum bolsters critical infrastructure cybersecurity<a href="https://www.bleepingcomputer.com/news/security/new-us-security-memorandum-bolsters-critical-infrastructure-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US President Joe Biden today issued a national security memorandum designed to help strengthen the security of critical infrastructure by setting baseline performance goals for critical infrastructure owners and operators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where does the SME fit into a supply chain attack?<a href="https://www.helpnetsecurity.com/2021/07/28/sme-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every company has a duty to protect its customers from supply chain attacks while simultaneously taking action to prevent being a supply chain victim of its own suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden moves to boost critical infrastructure cybersecurity | Activists protest Facebook's 'failure' on disinformation | States appeal dismissal of Facebook antitrust case<a href="https://thehill.com//policy/technology/overnights/565357-hillicon-valley-biden-moves-to-boost-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After major cybersecurity attacks, such as the one that impacted Colonial Pipeline, President BidenJoe BidenRealClearPolitics reporter says Freedom Caucus shows how much GOP changed under Trump Iowa governor suggests immigrants partially to blame for rising COVID-19 cases Biden officials pledge to confront cybersecurity challenges head-on MORE issued a national security memorandum to amp up cybersecurity infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UBEL is the New Oscorp — Android Credential Stealing Malware Active in the Wild<a href="https://thehackernews.com/2021/07/ubel-is-new-oscorp-android-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android malware that was observed abusing accessibility services in the device to hijack user credentials from European banking applications has morphed into an entirely new botnet as part of a renewed campaign that began in May 2021.  Italy's CERT-AGID, in late January, disclosed details about  Oscorp , a mobile malware developed to attack multiple financial targets with the goal of stealing funds from unsuspecting victims. Its features include the ability to intercept SMS messages and make phone calls and perform Overlay Attacks for more than 150 mobile applications by making use of lookalike login screens to siphon valuable data.   The malware was distributed through malicious SMS messages, with the attacks often conducted in real-time by posing as bank operators to dupe targets over the phone and surreptitiously gain access to the infected device via WebRTC protocol and ultimately conduct unauthorized bank transfers. While no new activities were reported since then, it appe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK, and Australian agencies warn of top routinely exploited issues<a href="https://securityaffairs.co/wordpress/120644/hacking/top-routinely-flaws-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint report published by US, UK, and Australian cyber security agencies warns of the top routinely exploited vulnerabilities in 2020.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Australian Cyber Security Centre (ACSC),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden: Severe cyberattacks could escalate to 'real shooting war'<a href="https://www.bleepingcomputer.com/news/security/biden-severe-cyberattacks-could-escalate-to-real-shooting-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden warned that cyberattacks leading to severe security breaches could lead to a "real shooting war" with another major world power.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average time to fix high severity vulnerabilities grows from 197 days to 246 days in 6 months: report<a href="https://www.zdnet.com/article/average-time-to-fix-high-vulnerabilities-grows-from-197-days-to-246-days-in-6-months-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest AppSec Stats Flash report from NTT Application Security has found that the remediation rate for severe vulnerabilities is on the decline, while the average time to fix is on the rise.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers posed as flirtatious UK aerobics instructor while targeting US defense contractor's employee<a href="https://thehill.com//policy/technology/565236-hackers-posed-as-flirtatious-uk-aerobics-instructor-while-targeting-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers said that hackers with ties to the Iranian government targeted U.S. defense contractors in attempts to install malware, including by posing as a United Kingdom-based aerobics instructor. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Implant PlugX Variant on Compromised MS Exchange Servers<a href="https://thehackernews.com/2021/07/chinese-hackers-implant-plugx-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese cyberespionage group known for targeting Southeast Asia leveraged flaws in the Microsoft Exchange Server that came to light earlier this March to deploy a previously undocumented variant of a remote access trojan (RAT) on compromised systems.  Attributing the intrusions to a threat actor named  PKPLUG  (aka  Mustang Panda  and HoneyMyte), Palo Alto Networks' Unit 42 threat intelligence team said it identified a new version of the modular PlugX malware, called Thor, that was delivered as a post-exploitation tool to one of the breached servers.  Dating back to as early as 2008,  PlugX  is a fully-featured second-stage implant with capabilities such as file upload, download, and modification, keystroke logging, webcam control, and access to a remote command shell.   "The variant observed [...] is unique in that it contains a change to its core source code: the replacement of its trademark word 'PLUG' to 'THOR,'" Unit 42 researchers Mike Harbison an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyberspies used a new PlugX variant, dubbed THOR, in attacks against MS Exchange Servers<a href="https://securityaffairs.co/wordpress/120636/malware/chinese-cyberspies-thor-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked cyberespionage group, tracked as  PKPLUG, employed a previously undocumented strain of a RAT dubbed THOR in recent attacks. 
+
+
+
+A China-linked cyberespionage group tracked as PKPLUG (aka Mustang Panda and HoneyMyte), which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Protect fails Android security tests once more<a href="https://www.bleepingcomputer.com/news/security/google-play-protect-fails-android-security-tests-once-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Play Protect, the Android built-in malware defense system, has failed the real-world tests of antivirus testing lab AV-TEST after detecting just over two thirds out of more than 20,000 malicious apps it was pitted against.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Olympics Broadcaster Announces His Computer Password on Live TV<a href="https://www.vice.com/en/article/n7b9mm/olympics-broadcaster-announces-his-computer-password-on-live-tv?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what is, at least so far, the biggest cybersecurity blunder of the Tokyo Olympics, an Italian TV announcer did not realize he was on air when he asked the password for his computer.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden moves to boost critical infrastructure cybersecurity<a href="https://thehill.com//policy/cybersecurity/565170-biden-to-sign-memorandum-boosting-infrastructure-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Wednesday will sign a national security memorandum aimed at increasing cybersecurity for critical systems in the wake of major cyberattacks on companies such as Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Posed as Aerobics Instructors for Years to Target Aerospace Employees<a href="https://thehackernews.com/2021/07/hackers-posed-as-aerobics-instructors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian cyberespionage group masqueraded as an aerobics instructor on Facebook in an attempt to infect the machine of an employee of an aerospace defense contractor with malware as part of a years-long social engineering and targeted malware campaign.  Enterprise security firm Proofpoint attributed the covert operation to a state-aligned threat actor it tracks as TA456, and by the wider cybersecurity community under the monikers Tortoiseshell and Imperial Kitten.   "Using the social media persona 'Marcella Flores,' TA456 built a relationship across corporate and personal communication platforms with an employee of a small subsidiary of an aerospace defense contractor," Proofpoint  said  in a report shared with The Hacker News. "In early June 2021, the threat actor attempted to capitalize on this relationship by sending the target malware via an ongoing email communication chain."   Earlier this month, Facebook  revealed  it took steps to dismantle a &quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Cost of a Data Breach study: average Cost of Data Breach exceeds $4.2M<a href="https://securityaffairs.co/wordpress/120627/data-breach/cost-of-data-breach-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 'Cost of a Data Breach' report commissioned by IBM Security states that the cost of a data breach exceeded $4.2 million during the COVID19 pandemic.
+
+
+
+IBM Security presented today the annual study "Cost of Data Breach," conducted by Ponemon Institute...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Protect fails Android security tests once more<a href="https://www.bleepingcomputer.com/news/google/google-play-protect-fails-android-security-tests-once-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Play Protect, the Android built-in malware defense system, has failed the real-world tests of antivirus testing lab AV-TEST after detecting just over two thirds out of more than 20,000 malicious apps it was pitted against.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration officials endorse ransomware reporting rules<a href="https://therecord.media/biden-administration-officials-endorse-ransomware-reporting-rules/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A handful of key Biden administration officials on Tuesday voiced support for legislation that would mandate certain businesses report ransomware attacks to the government.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Android apps must provide privacy information by April 2022<a href="https://www.bleepingcomputer.com/news/google/google-android-apps-must-provide-privacy-information-by-april-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced today more details regarding their upcoming Google Play 'Safety section' feature that provides users information about the data collected and used by an Android app.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tencent suspends signups to WeChat, citing 'security upgrade' and need to comply with Chinese laws<a href="https://www.theregister.com/2021/07/28/tencent_suspends_new_wechat_accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The upgrade is expected to conclude in "early August". Tencent hasn't defined a range of dates that fits within that phrase, leaving open the possibility that the suspension could last a week or more.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Microsoft Hyper-V bug could haunt orgs for a long time<a href="https://www.bleepingcomputer.com/news/security/critical-microsoft-hyper-v-bug-could-haunt-orgs-for-a-long-time/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details are now available for a vulnerability that affects Hyper-V, Microsoft's native hypervisor for creating virtual machines on Windows systems and in Azure cloud computing environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Axie Infinity Player Wallets Targeted by Poisoned Google Ads Content<a href="https://www.cyren.com/blog/articles/axie-infinity-player-wallets-targeted-by-poisoned-google-ads-content?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top NFT Ethereum-based game Axie infinity, is a Pokemon-like play-to-earn game that lets its users earn SLP (Smooth Love Potion). Threat actors are targeting the players with a fake crypto wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyren
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI reveals top targeted vulnerabilities of the last two years<a href="https://www.bleepingcomputer.com/news/security/fbi-reveals-top-targeted-vulnerabilities-of-the-last-two-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint security advisory issued today by several cybersecurity agencies from the US, the UK, and Australia reveals the top 30 most targeted security vulnerabilities of the last two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Fake Windows 11 Installers Spreading Adware<a href="https://cyware.com/news/beware-fake-windows-11-installers-spreading-adware-87fca1f4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky discovered a significant rise in malicious links for bogus Windows 11 installers. The primary purpose of the executable is to download different types of malicious software on the device.  Therefore, it is recommended that users avoid downloading installations from third-party websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Northern Ireland suspends vaccine passport system after data leak<a href="https://www.bleepingcomputer.com/news/security/northern-ireland-suspends-vaccine-passport-system-after-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Northern Ireland's Department of Health (DoH) has temporarily halted its COVID-19 vaccine certification web service and mobile apps following a data exposure incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Increasing Use of ‘Exotic’ Programming Languages for Malware Development<a href="https://cyware.com/news/increasing-use-of-exotic-programming-languages-for-malware-development-4d6a5519"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have been found using new 'exotic' programming languages for carrying out cyber attacks. A recently published report suggests that the use of a few specific languages is becoming a trend to develop new malware.&nbsp; To identify and prevent such threats, security researchers suggest ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The State of Web Application Security<a href="https://cyware.com/news/the-state-of-web-application-security-6e551dfc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report from the F5 Labs, web application exploits were used in 57% of the most significant cybersecurity incidents that occurred in the last five years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Software Cracks: A Shady Work of Threat Actors<a href="https://cyware.com/news/fake-software-cracks-a-shady-work-of-threat-actors-30788ec6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These types of software are distributed via shady sites, YouTube, and torrents to trick victims into believing that they are downloading the latest software or a game installer.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Testify on Pipeline Cybersecurity Measures<a href="https://www.govinfosecurity.com/experts-testify-on-pipeline-cybersecurity-measures-a-17159?&web_view=true"> Full Text</a>
@@ -50,7 +495,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2021
+July 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware targets companies with revenue of $100 million and more<a href="https://therecord.media/blackmatter-ransomware-targets-companies-with-revenues-of-100-million-and-more/?&web_view=true"> Full Text</a>
@@ -66,7 +511,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 28, 2021
+July 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware group claims to be Darkside and REvil succesor<a href="https://securityaffairs.co/wordpress/120611/malware/blackmatter-ransomware.html"> Full Text</a>
@@ -86,7 +531,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2021
+July 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware now encrypts Windows domains using group policies<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-encrypts-windows-domains-using-group-policies/"> Full Text</a>

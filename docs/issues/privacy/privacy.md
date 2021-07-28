@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: Android apps must provide privacy information by April 2022<a href="https://www.bleepingcomputer.com/news/google/google-android-apps-must-provide-privacy-information-by-april-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced today more details regarding their upcoming Google Play 'Safety section' feature that provides users information about the data collected and used by an Android app.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

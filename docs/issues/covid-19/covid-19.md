@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Northern Ireland suspends vaccine passport system after data leak<a href="https://www.bleepingcomputer.com/news/security/northern-ireland-suspends-vaccine-passport-system-after-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Northern Ireland's Department of Health (DoH) has temporarily halted its COVID-19&nbsp;vaccine certification web service and mobile apps following a data exposure incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

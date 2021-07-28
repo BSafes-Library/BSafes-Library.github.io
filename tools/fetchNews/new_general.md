@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where does the SME fit into a supply chain attack?<a href="https://www.helpnetsecurity.com/2021/07/28/sme-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every company has a duty to protect its customers from supply chain attacks while simultaneously taking action to prevent being a supply chain victim of its own suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average time to fix high severity vulnerabilities grows from 197 days to 246 days in 6 months: report<a href="https://www.zdnet.com/article/average-time-to-fix-high-vulnerabilities-grows-from-197-days-to-246-days-in-6-months-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest AppSec Stats Flash report from NTT Application Security has found that the remediation rate for severe vulnerabilities is on the decline, while the average time to fix is on the rise.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Cost of a Data Breach study: average Cost of Data Breach exceeds $4.2M<a href="https://securityaffairs.co/wordpress/120627/data-breach/cost-of-data-breach-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 'Cost of a Data Breach' report commissioned by IBM Security states that the cost of a data breach exceeded $4.2 million during the COVID19 pandemic.
+
+
+
+IBM Security presented today the annual study "Cost of Data Breach," conducted by Ponemon Institute...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The State of Web Application Security<a href="https://cyware.com/news/the-state-of-web-application-security-6e551dfc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report from the F5 Labs, web application exploits were used in 57% of the most significant cybersecurity incidents that occurred in the last five years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
