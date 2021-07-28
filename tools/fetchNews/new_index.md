@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experts Testify on Pipeline Cybersecurity Measures<a href="https://www.govinfosecurity.com/experts-testify-on-pipeline-cybersecurity-measures-a-17159?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate hearing came just one week after the TSA issued its second cybersecurity directive, requiring owners and operators of critical pipelines to implement cybersecurity controls.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware targets companies with revenue of $100 million and more<a href="https://therecord.media/blackmatter-ransomware-targets-companies-with-revenues-of-100-million-and-more/?&web_view=true"> Full Text</a>
 </p>
 <details>
