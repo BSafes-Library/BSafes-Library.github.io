@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware targets companies with revenue of $100 million and more<a href="https://therecord.media/blackmatter-ransomware-targets-companies-with-revenues-of-100-million-and-more/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang launched into operation this week, claiming to combine the best features of the now-defunct Darkside and REvil ransomware groups, Recorded Future analysts have discovered.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware group claims to be Darkside and REvil succesor<a href="https://securityaffairs.co/wordpress/120611/malware/blackmatter-ransomware.html"> Full Text</a>
 </p>
 <details>
