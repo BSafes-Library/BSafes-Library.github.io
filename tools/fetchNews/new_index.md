@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 27, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden says Russia spreading misinformation ahead of 2022 elections<a href="https://thehill.com//homenews/administration/565121-biden-says-russia-spreading-misinformation-ahead-of-2022-elections"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden said Tuesday that he has been briefed on Russian efforts to spread misinformation related to the 2022 midterm elections.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware automates Windows domain encryption via group policies<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-automates-windows-domain-encryption-via-group-policies/"> Full Text</a>
 </p>
 <details>
