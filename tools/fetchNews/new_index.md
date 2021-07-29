@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Poll finds Americans eager to regulate Big Tech | Protesters heap pressure onto ShotSpotter | Twitter debuts shopping feature<a href="https://thehill.com//policy/technology/overnights/565554-hillicon-valley-poll-finds-americans-eager-to-regulate-big-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A poll released today by CAP Action and Public Citizen shows just how far out of public favor America’s Big Tech companies have gotten. Not only are Americans worried about the size and influence of the companies but, according to the survey, they support taking steps to regulate them. In other news, activists in Chicago rallied Thursday calling on the city to end its contracts with the controversial gun detection company ShotSpotter.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Estonia arrests hacker who stole 286K ID scans from govt database<a href="https://www.bleepingcomputer.com/news/security/estonia-arrests-hacker-who-stole-286k-id-scans-from-govt-database/"> Full Text</a>
 </p>
 <details>
