@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+RCE bug in Moodle e-learning platform could be abused to steal data, manipulate results<a href="https://portswigger.net/daily-swig/finders-cheaters-rce-bug-in-moodle-e-learning-platform-could-be-abused-to-steal-data-manipulate-results?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability in a popular e-learning platform could be abused to allow access to students’ data and test papers – and possibly even manipulate exam results.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Analytical report on DDoS attacks in the second quarter of 2021<a href="https://securelist.com/ddos-attacks-in-q2-2021/103424/?&web_view=true"> Full Text</a>
 </p>
 <details>

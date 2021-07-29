@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Analytical report on DDoS attacks in the second quarter of 2021<a href="https://securelist.com/ddos-attacks-in-q2-2021/103424/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The month of April 2021 saw the active distribution of a new DDoS botnet called Simps — the name under which it introduced itself to its victims  — that was distributed via YouTube and Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Microsoft Browser Bug to Deploy VBA Malware on Targeted PCs<a href="https://thehackernews.com/2021/07/hackers-exploit-microsoft-browser-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor has been exploiting a now-patched zero-day flaw in Internet Explorer browser to deliver a fully-featured VBA-based remote access trojan (RAT) capable of accessing files stored in compromised Windows systems, and downloading and executing malicious payloads as part of an "unusual" campaign.  The backdoor is distributed via a decoy document named "Manifest.docx" that loads the exploit code for the vulnerability from an embedded template, which, in turn, executes shellcode to deploy the RAT, according to cybersecurity firm Malwarebytes, which spotted the suspicious Word file on July 21, 2021.  The malware-laced document claims to be a "Manifesto of the inhabitants of Crimea" calling on the citizens to oppose Russian President Vladimir Putin and "create a unified platform called 'People's Resistance.'"   The Internet Explorer flaw, tracked as CVE-2021-26411 , is notable for the fact that it was abused by the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Six Malicious Linux Shell Scripts Used to Evade Defenses and How to Stop Them<a href="https://threatpost.com/six-malicious-linux-shell-scripts-how-to-stop-them/168127/"> Full Text</a>
 </p>
 <details>
