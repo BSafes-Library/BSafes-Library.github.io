@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA’s Top 30 Bugs: One’s Old Enough to Buy Beer<a href="https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are patches or remediations for all of them, but they’re still being picked apart. Why should attackers stop if the flaws remain unpatched, as so many do? 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Praying Mantis is now Preying on Microsoft's IIS Servers<a href="https://cyware.com/news/praying-mantis-is-now-preying-on-microsofts-iis-servers-36788559"> Full Text</a>
 </p>
 <details>
