@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer ransomware gang rebrands as the Grief group<a href="https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-gang-rebrands-as-the-grief-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a period of little to no activity, the DoppelPaymer ransomware operation has made a rebranding move, now going by the name Grief (a.k.a. Pay or Grief).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolCyber emerges from stealth with $20M in funding from ForgePoint<a href="https://siliconangle.com/2021/07/29/mssp-solcyber-comes-stealth-20m-funding-forgepoint/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The managed security service provider SolCyber Managed Security Services Inc. launched out of stealth mode and announced that it has raised $20 million in Series A funding led by ForgePoint Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Gangs — Haron and BlackMatter — Emerge on Cybercrime Forums<a href="https://thehackernews.com/2021/07/new-ransomware-gangs-haron-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new ransomware-as-service (RaaS) programs have appeared on the threat radar this month, with one group professing to be a successor to  DarkSide  and  REvil , the two infamous ransomware syndicates that went off the grid following major attacks on Colonial Pipeline and Kaseya over the past few months.  "The project has incorporated in itself the best features of DarkSide, REvil, and LockBit," the operators behind the new BlackMatter group said in their darknet public blog, making promises to not strike organizations in several industries, including healthcare, critical infrastructure, oil and gas, defense, non-profit, and government sectors.   According to Flashpoint, the BlackMatter threat actor registered an account on Russian-language forums XSS and Exploit on July 19, quickly following it up with a post stating they are looking to purchase access to infected corporate networks comprising anywhere between 500 and 15,000 hosts in the U.S., Canada, Australia, and the U.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0, the first ransomware that uses group policies to encrypt Windows domains<a href="https://securityaffairs.co/wordpress/120664/cyber-crime/lockbit-2-0-ransomware-group-policies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the LockBit 2.0 ransomware is now able to encrypt Windows domains by using Active Directory group policies.  
+
+
+
+Researchers from MalwareHunterTeam and BleepingComputer, along with the malware expert Vitali Kremez reported spotted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Cost of Data Breach 2021 Report Pegs Incident Cost at $4.2 Million<a href="https://cyware.com/news/ibm-cost-of-data-breach-2021-report-pegs-incident-cost-at-42-million-cb3b5e85"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. suffered the highest data breach cost at $9.05 million per incident, followed by the Middle East at $6.93 million and Canada at $5.4 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best Practices to Thwart Business Email Compromise (BEC) Attacks<a href="https://thehackernews.com/2021/07/best-practices-to-thwart-business-email_29.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business email compromise (BEC) refers to all types of email attacks that do not have payloads. Although there are numerous types, there are essentially two main mechanisms through which attackers penetrate organizations utilizing BEC techniques, spoofing and account take-over attacks.  In a recent  study , 71% of organizations acknowledged they had seen a business email compromise (BEC) attack during the past year. Forty-three percent of organizations experienced a security incident in the last 12 months, with 35% stating that BEC/phishing attacks account for more than 50% of the incidents.  The  FBI's Internet Crime Complaint Center  (IC3) reports that BEC scams were the most expensive of cyberattacks in 2020, with 19,369 complaints and adjusted losses of approximately $1.8 billion. Recent BEC attacks include spoofing attacks on Shark Tank Host Barbara Corcoran, who lost  $380,000 ; the Puerto Rican government attacks that amounted to $4 million, and Japanese media giant, Nikkei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Microsoft Hyper-V could allow RCE and DoS<a href="https://securityaffairs.co/wordpress/120654/hacking/critical-microsoft-hyper-v-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts disclose details about a critical flaw in Microsoft Hyper-V, tracked as CVE-2021-28476, that can allow executing arbitrary code on it.
+
+
+
+Researchers Peleg Hadar of SafeBreach and Ophir Harpaz of Guardicore disclose details...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Sell Data of Unknown Number of British Columbians Stolen from Homewood Health<a href="https://bc.ctvnews.ca/unknown-number-of-british-columbians-personal-information-for-sale-online-after-health-company-extorted-1.5525715?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CTV News has confirmed at least some of the information leaked online is authentic, though the bulk of the data is still on the auction block at Marketo, a leaked data marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+CTV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware Uses VNC to Spy and Steal Passwords from Victims<a href="https://thehackernews.com/2021/07/new-android-malware-uses-vnc-to-spy-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Android-based remote access trojan (RAT) has been found to use screen recording features to steal sensitive information on the device, including banking credentials, and open the door for on-device fraud.  Dubbed "Vultur" due to its use of Virtual Network Computing (VNC)'s remote screen-sharing technology to gain full visibility on targeted users, the mobile malware was distributed via the official Google Play Store and masqueraded as an app named "Protection Guard," attracting over 5,000 installations. Banking and crypto-wallet apps from entities located in Italy, Australia, and Spain were the primary targets.  "For the first time we are seeing an Android banking trojan that has screen recording and keylogging as the main strategy to harvest login credentials in an automated and scalable way," researchers from ThreatFabric  said  in a write-up shared with The Hacker News.   "The actors chose to steer away from the commo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Security: 5 Big Statements From Satya Nadella<a href="https://www.crn.com/news/security/microsoft-security-5-big-statements-from-satya-nadella?itc=refresh&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft CEO Satya Nadella touted the Redmond-based technology giant’s latest momentum in its cybersecurity business during the company’s fiscal fourth-quarter earnings call.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 30 Critical Security Vulnerabilities Most Exploited by Hackers<a href="https://thehackernews.com/2021/07/top-30-critical-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence agencies in Australia, the U.K., and the U.S. issued a joint advisory on Wednesday detailing the most exploited vulnerabilities in 2020 and 2021, once again demonstrating how threat actors are able to weaponize publicly disclosed flaws to their advantage swiftly.  "Cyber actors continue to exploit publicly known—and often dated—software vulnerabilities against broad target sets, including public and private sector organizations worldwide," the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Australian Cyber Security Centre (ACSC), the United Kingdom's National Cyber Security Centre (NCSC), and the U.S. Federal Bureau of Investigation (FBI)  noted .  "However, entities worldwide can mitigate the vulnerabilities listed in this report by applying the available patches to their systems and implementing a centralized patch management system."   The top 30 vulnerabilities span a wide range of software, including remote work, virtual pri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vultur Android Malware Records Smartphones via VNC to Steal Passwords<a href="https://therecord.media/new-android-malware-records-smartphones-via-vnc-to-steal-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a new Android malware that uses the VNC technology to record and broadcast a victim’s smartphone activity, allowing attackers to collect keyboard presses and app passwords.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over half a million cybersecurity incidents reported in India during first half of 2021: Govt<a href="https://ciso.economictimes.indiatimes.com/news/over-6-07-lakh-cyber-security-incidents-reported-in-india-during-first-half-of-2021-govt/84850600?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government informed that CERT-In has reported a total of 394,499, 1,158,208 and 607,220 cybersecurity incidents observed during the year 2019, 2020 and 2021 (upto June), respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
