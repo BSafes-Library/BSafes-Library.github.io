@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Noetic Cyber raises $20M to automate cybersecurity remediation<a href="https://venturebeat.com/2021/07/28/noetic-cyber-raises-20m-to-automate-cybersecurity-remediation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Noetic Cyber today emerged from stealth with $20 million, including $15 million in series A funding from Energy Impact Partners, TenEleven Ventures, and Glasswing Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 RCE bug in Moodle e-learning platform could be abused to steal data, manipulate results<a href="https://portswigger.net/daily-swig/finders-cheaters-rce-bug-in-moodle-e-learning-platform-could-be-abused-to-steal-data-manipulate-results?&web_view=true"> Full Text</a>
 </p>
 <details>
