@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Estonia arrests hacker who stole 286K ID scans from govt database<a href="https://www.bleepingcomputer.com/news/security/estonia-arrests-hacker-who-stole-286k-id-scans-from-govt-database/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Tallinn man was arrested a week ago in Estonia under suspicion that he has exploited a government photo transfer service vulnerability to download ID scans of 286,438 Estonians from the Identity Documents Database (KMAIS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UC San Diego Health Breach Tied to Phishing Attack<a href="https://threatpost.com/uc-san-diego-health-breach/168250/"> Full Text</a>
 </p>
 <details>
