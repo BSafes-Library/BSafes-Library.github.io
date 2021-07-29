@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UC San Diego Health Breach Tied to Phishing Attack<a href="https://threatpost.com/uc-san-diego-health-breach/168250/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employee email takeover exposed personal, medical data of students, employees and patients.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA’s Top 30 Bugs: One’s Old Enough to Buy Beer<a href="https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/"> Full Text</a>
 </p>
 <details>
