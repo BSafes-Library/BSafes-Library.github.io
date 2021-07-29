@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NSA shares guidance on how to secure your wireless devices<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-wireless-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US National Security Agency (NSA) today published guidance on how to properly secure wireless devices against potential attacks targeting them when traveling or working remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Serious Vulnerabilities Found in Firmware Used by Many IP Camera Vendors<a href="https://www.securityweek.com/serious-vulnerabilities-found-firmware-used-many-ip-camera-vendors?&web_view=true"> Full Text</a>
 </p>
 <details>
