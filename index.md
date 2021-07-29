@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Serious Vulnerabilities Found in Firmware Used by Many IP Camera Vendors<a href="https://www.securityweek.com/serious-vulnerabilities-found-firmware-used-many-ip-camera-vendors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IP cameras offered by a dozen vendors are exposed to remote attacks due to several serious vulnerabilities found in the firmware they all share, according to French cybersecurity firm RandoriSec.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New destructive Meteor wiper malware used in Iranian railway attack<a href="https://www.bleepingcomputer.com/news/security/new-destructive-meteor-wiper-malware-used-in-iranian-railway-attack/"> Full Text</a>
 </p>
 <details>
