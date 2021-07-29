@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Protect fails Android security tests once more<a href="https://www.bleepingcomputer.com/news/security/google-play-protect-fails-android-security-tests-once-more/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Play Protect, the Android built-in malware defense system, has failed the real-world tests of antivirus testing lab AV-TEST after detecting just over two thirds out of more than 20,000 malicious apps it was pitted against.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tencent suspends signups to WeChat, citing 'security upgrade' and need to comply with Chinese laws<a href="https://www.theregister.com/2021/07/28/tencent_suspends_new_wechat_accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The upgrade is expected to conclude in "early August". Tencent hasn't defined a range of dates that fits within that phrase, leaving open the possibility that the suspension could last a week or more.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

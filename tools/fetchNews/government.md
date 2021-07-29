@@ -8,6 +8,122 @@ nav_order: 900075
 
 ## Government
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New US security memorandum bolsters critical infrastructure cybersecurity<a href="https://www.bleepingcomputer.com/news/security/new-us-security-memorandum-bolsters-critical-infrastructure-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US President Joe Biden today issued a national security memorandum designed to help strengthen the security of critical infrastructure by setting baseline&nbsp;performance goals for critical infrastructure owners and operators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Biden moves to boost critical infrastructure cybersecurity | Activists protest Facebook's 'failure' on disinformation | States appeal dismissal of Facebook antitrust case<a href="https://thehill.com//policy/technology/overnights/565357-hillicon-valley-biden-moves-to-boost-critical-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After major cybersecurity attacks, such as the one that impacted Colonial Pipeline, President BidenJoe BidenRealClearPolitics reporter says Freedom Caucus shows how much GOP changed under Trump Iowa governor suggests immigrants partially to blame for rising COVID-19 cases Biden officials pledge to confront cybersecurity challenges head-on MORE issued a national security memorandum to amp up cybersecurity infrastructure.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK, and Australian agencies warn of top routinely exploited issues<a href="https://securityaffairs.co/wordpress/120644/hacking/top-routinely-flaws-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint report published by US, UK, and Australian cyber security agencies warns of the top routinely exploited vulnerabilities in 2020.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Australian Cyber Security Centre (ACSC),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden: Severe cyberattacks could escalate to 'real shooting war'<a href="https://www.bleepingcomputer.com/news/security/biden-severe-cyberattacks-could-escalate-to-real-shooting-war/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Joe Biden warned that cyberattacks leading to severe security breaches could lead to a "real shooting war" with another major world power.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden moves to boost critical infrastructure cybersecurity<a href="https://thehill.com//policy/cybersecurity/565170-biden-to-sign-memorandum-boosting-infrastructure-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Wednesday will sign a national security memorandum aimed at increasing cybersecurity for critical systems in the wake of major cyberattacks on&nbsp;companies such as Colonial Pipeline.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration officials endorse ransomware reporting rules<a href="https://therecord.media/biden-administration-officials-endorse-ransomware-reporting-rules/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A handful of key Biden administration officials on Tuesday voiced support for legislation that would mandate certain businesses report ransomware attacks to the government.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI reveals top targeted vulnerabilities of the last two years<a href="https://www.bleepingcomputer.com/news/security/fbi-reveals-top-targeted-vulnerabilities-of-the-last-two-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint security advisory issued today by several cybersecurity agencies from the US, the UK, and Australia reveals&nbsp;the top 30&nbsp;most targeted security vulnerabilities of the last two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Testify on Pipeline Cybersecurity Measures<a href="https://www.govinfosecurity.com/experts-testify-on-pipeline-cybersecurity-measures-a-17159?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate hearing came just one week after the TSA issued its second cybersecurity directive, requiring owners and operators of critical pipelines to implement cybersecurity controls.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

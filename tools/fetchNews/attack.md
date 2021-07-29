@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese cyberspies used a new PlugX variant, dubbed THOR, in attacks against MS Exchange Servers<a href="https://securityaffairs.co/wordpress/120636/malware/chinese-cyberspies-thor-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked cyberespionage group, tracked as  PKPLUG, employed a previously undocumented strain of a RAT dubbed THOR in recent attacks. 
+
+
+
+A China-linked cyberespionage group tracked as PKPLUG&nbsp;(aka&nbsp;Mustang Panda&nbsp;and HoneyMyte), which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Axie Infinity Player Wallets Targeted by Poisoned Google Ads Content<a href="https://www.cyren.com/blog/articles/axie-infinity-player-wallets-targeted-by-poisoned-google-ads-content?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top NFT Ethereum-based game Axie infinity, is a Pokemon-like play-to-earn game that lets its users earn SLP (Smooth Love Potion). Threat actors are targeting the players with a fake crypto wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyren
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

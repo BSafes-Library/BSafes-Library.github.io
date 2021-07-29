@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoppelPaymer ransomware gang rebrands as the Grief group<a href="https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-gang-rebrands-as-the-grief-group/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolCyber emerges from stealth with $20M in funding from ForgePoint<a href="https://siliconangle.com/2021/07/29/mssp-solcyber-comes-stealth-20m-funding-forgepoint/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Gangs — Haron and BlackMatter — Emerge on Cybercrime Forums<a href="https://thehackernews.com/2021/07/new-ransomware-gangs-haron-and.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 2.0, the first ransomware that uses group policies to encrypt Windows domains<a href="https://securityaffairs.co/wordpress/120664/cyber-crime/lockbit-2-0-ransomware-group-policies.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM Cost of Data Breach 2021 Report Pegs Incident Cost at $4.2 Million<a href="https://cyware.com/news/ibm-cost-of-data-breach-2021-report-pegs-incident-cost-at-42-million-cb3b5e85"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Best Practices to Thwart Business Email Compromise (BEC) Attacks<a href="https://thehackernews.com/2021/07/best-practices-to-thwart-business-email_29.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Microsoft Hyper-V could allow RCE and DoS<a href="https://securityaffairs.co/wordpress/120654/hacking/critical-microsoft-hyper-v-bug.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Sell Data of Unknown Number of British Columbians Stolen from Homewood Health<a href="https://bc.ctvnews.ca/unknown-number-of-british-columbians-personal-information-for-sale-online-after-health-company-extorted-1.5525715?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ CTV News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Uses VNC to Spy and Steal Passwords from Victims<a href="https://thehackernews.com/2021/07/new-android-malware-uses-vnc-to-spy-and.html"> Full Text</a>
@@ -186,7 +186,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Security: 5 Big Statements From Satya Nadella<a href="https://www.crn.com/news/security/microsoft-security-5-big-statements-from-satya-nadella?itc=refresh&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 30 Critical Security Vulnerabilities Most Exploited by Hackers<a href="https://thehackernews.com/2021/07/top-30-critical-security.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vultur Android Malware Records Smartphones via VNC to Steal Passwords<a href="https://therecord.media/new-android-malware-records-smartphones-via-vnc-to-steal-passwords/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over half a million cybersecurity incidents reported in India during first half of 2021: Govt<a href="https://ciso.economictimes.indiatimes.com/news/over-6-07-lakh-cyber-security-incidents-reported-in-india-during-first-half-of-2021-govt/84850600?&web_view=true"> Full Text</a>

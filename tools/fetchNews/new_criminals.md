@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer ransomware gang rebrands as the Grief group<a href="https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-gang-rebrands-as-the-grief-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a period of little to no activity, the DoppelPaymer ransomware operation has made a rebranding move, now going by the name Grief (a.k.a. Pay or Grief).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Gangs — Haron and BlackMatter — Emerge on Cybercrime Forums<a href="https://thehackernews.com/2021/07/new-ransomware-gangs-haron-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new ransomware-as-service (RaaS) programs have appeared on the threat radar this month, with one group professing to be a successor to&nbsp; DarkSide &nbsp;and&nbsp; REvil , the two infamous ransomware syndicates that went off the grid following major attacks on Colonial Pipeline and Kaseya over the past few months.  "The project has incorporated in itself the best features of DarkSide, REvil, and LockBit," the operators behind the new BlackMatter group said in their darknet public blog, making promises to not strike organizations in several industries, including healthcare, critical infrastructure, oil and gas, defense, non-profit, and government sectors.   According to Flashpoint, the BlackMatter threat actor registered an account on Russian-language forums XSS and Exploit on July 19, quickly following it up with a post stating they are looking to purchase access to infected corporate networks comprising anywhere between 500 and 15,000 hosts in the U.S., Canada, Australia, and the U.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Sell Data of Unknown Number of British Columbians Stolen from Homewood Health<a href="https://bc.ctvnews.ca/unknown-number-of-british-columbians-personal-information-for-sale-online-after-health-company-extorted-1.5525715?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CTV News has confirmed at least some of the information leaked online is authentic, though the bulk of the data is still on the auction block at Marketo, a leaked data marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+CTV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

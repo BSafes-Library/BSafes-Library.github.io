@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in Microsoft Hyper-V could allow RCE and DoS<a href="https://securityaffairs.co/wordpress/120654/hacking/critical-microsoft-hyper-v-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts disclose details about a critical flaw in Microsoft Hyper-V, tracked as CVE-2021-28476, that can allow executing arbitrary code on it.
+
+
+
+Researchers&nbsp;Peleg Hadar&nbsp;of SafeBreach&nbsp;and&nbsp;Ophir Harpaz&nbsp;of Guardicore disclose details...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 30 Critical Security Vulnerabilities Most Exploited by Hackers<a href="https://thehackernews.com/2021/07/top-30-critical-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence agencies in Australia, the U.K., and the U.S. issued a joint advisory on Wednesday detailing the most exploited vulnerabilities in 2020 and 2021, once again demonstrating how threat actors are able to weaponize publicly disclosed flaws to their advantage swiftly.  "Cyber actors continue to exploit publicly known—and often dated—software vulnerabilities against broad target sets, including public and private sector organizations worldwide," the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Australian Cyber Security Centre (ACSC), the United Kingdom's National Cyber Security Centre (NCSC), and the U.S. Federal Bureau of Investigation (FBI)&nbsp; noted .  "However, entities worldwide can mitigate the vulnerabilities listed in this report by applying the available patches to their systems and implementing a centralized patch management system."   The top 30 vulnerabilities span a wide range of software, including remote work, virtual pri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
