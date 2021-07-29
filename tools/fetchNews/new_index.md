@@ -37,6 +37,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter and Haron, two new ransomware gangs in the threat landscape<a href="https://securityaffairs.co/wordpress/120670/malware/blackmatter-haron-ransomware-gangs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber threat landscape change continuously, recently two new ransomware-as-service (RaaS) operations named BlackMatter and Haron made the headlines.
+
+
+
+Recently, two new ransomware gangs, named BlackMatter and Haron, announced the beginning of the operations.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NSA shares guidance on how to secure your wireless devices<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-wireless-devices/"> Full Text</a>
 </p>
 <details>
