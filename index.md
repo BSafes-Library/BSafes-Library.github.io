@@ -37,6 +37,40 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Praying Mantis is now Preying on Microsoft's IIS Servers<a href="https://cyware.com/news/praying-mantis-is-now-preying-on-microsofts-iis-servers-36788559"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sygnia researchers reported a new APT group—Praying Mantis or TG1021—targeting Microsoft IIS web servers to reach victims’ internal networks to steal sensitive data. To stay protected, researchers recommend patching .NET deserialization vulnerabilities and scanning internet-facing IIS servers with  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Hidden Inside Neural Network Models has Over 90% Efficacy<a href="https://cyware.com/news/malware-hidden-inside-neural-network-models-has-over-90-efficacy-ab38b6a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new research attack method demonstrated that replacing up to 50% of neurons in the AlextNet model with malware can go undetected under security tools, as the model’s accuracy remained above 93.1%. Popular technologies such as machine learning and neural networks are still at their nascent stage,  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter and Haron, two new ransomware gangs in the threat landscape<a href="https://securityaffairs.co/wordpress/120670/malware/blackmatter-haron-ransomware-gangs.html"> Full Text</a>
 </p>
 <details>
