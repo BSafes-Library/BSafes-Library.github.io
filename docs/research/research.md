@@ -117,6 +117,18 @@ This paper conceptualizes and proposes the current thesis topic: how does media 
 May 14, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Privacy in the Public Eye - Frogs Boiling and the Right to Privacy [HTML](https://papers.bsafes.com/docs/privacy/Privacy-in-the-Public-Eye%20-Frogs-Boiling-and-the-Right-to-Privacy/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper presents a qualitative study, consisting of six focus groups organized according to the age of participants, on public attitudes surrounding the right to privacy.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Information Age Imperialism: China, ‘Race,’ and Neo-Colonialism in Africa and Latin America [HTML](https://papers.bsafes.com/docs/politics/information-age-imperialism-china-race-and-neo-colonialism-in-africa-and-latin-america/)
 </p>
 <details>
