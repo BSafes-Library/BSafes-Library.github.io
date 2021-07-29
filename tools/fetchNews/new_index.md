@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New destructive Meteor wiper malware used in Iranian railway attack<a href="https://www.bleepingcomputer.com/news/security/new-destructive-meteor-wiper-malware-used-in-iranian-railway-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new file wiping malware called Meteor was discovered used in the recent attacks against Iran's railway system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Israeli Government Agencies Visit NSO Group Offices<a href="https://threatpost.com/government-nso-offices/168241/"> Full Text</a>
 </p>
 <details>
