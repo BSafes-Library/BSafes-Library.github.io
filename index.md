@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+What Can Be Done to Enhance Electrical Grid Security?<a href="https://www.govinfosecurity.com/what-be-done-to-enhance-electrical-grid-security-a-17173?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of adequate security features in critical electrical grid equipment poses a serious U.S. cybersecurity threat, according to federal officials who testified at a US Congress hearing this week.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LockBit 2.0 Abuses Windows Domains to Propagate<a href="https://cyware.com/news/lockbit-20-abuses-windows-domains-to-propagate-856d1683"> Full Text</a>
 </p>
 <details>
