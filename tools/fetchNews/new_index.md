@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to block logins on old Android devices starting September<a href="https://www.bleepingcomputer.com/news/google/google-to-block-logins-on-old-android-devices-starting-september/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Delhi government plans IT shield to ward off cyber threats<a href="https://timesofindia.indiatimes.com/city/delhi/delhi-govt-plans-it-shield-to-ward-off-cyber-threats/articleshow/84841270.cms?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Several C&C Servers Linked to WellMess Malware<a href="https://thehackernews.com/2021/07/experts-uncover-several-c-servers.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonia ‘s police arrested a Tallin resident who stole 286K ID scans from a government DB<a href="https://securityaffairs.co/wordpress/120684/cyber-crime/estonia-s-police-hacker-id-scans.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI packages caught stealing credit card numbers, Discord tokens<a href="https://www.bleepingcomputer.com/news/security/pypi-packages-caught-stealing-credit-card-numbers-discord-tokens/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Entertainment Tech Provider D-Box Discloses Ransomware Attack Impacting IT Systems<a href="https://portswigger.net/daily-swig/entertainment-tech-provider-d-box-recovering-from-ransomware-attack?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Malicious Typosquatted Python Libraries Found On PyPI Repository<a href="https://thehackernews.com/2021/07/several-malicious-typosquatted-python.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meteor was the wiper used against Iran’s national railway system<a href="https://securityaffairs.co/wordpress/120679/malware/meteor-wiper-irans-national-railway.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web ads offering corporate network access increase seven-fold<a href="https://www.helpnetsecurity.com/2021/07/29/dark-web-ads-offering-corporate-network-access/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Wiper Malware Was Behind Recent Cyberattack On Iranian Train System<a href="https://thehackernews.com/2021/07/a-new-wiper-malware-was-behind-recent.html"> Full Text</a>
@@ -202,7 +202,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arrests made over European ATM ‘jackpotting’ spree<a href="https://portswigger.net/daily-swig/arrests-made-over-european-atm-jackpotting-spree?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware can penetrate quickly, significantly damaging an organization<a href="https://www.helpnetsecurity.com/2021/07/29/ransomware-can-penetrate-quickly/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why a Cyber Pearl Harbor Will Never Happen<a href="https://www.flyingpenguin.com/?p=34283&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Flying Penguin
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover New Solarmarker Malware Activity Focused on Credential and Information Theft<a href="https://www.zdnet.com/article/cisco-researchers-spotlight-solarmarker-malware/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phantom Warships Are Courting Chaos in Conflict Zones<a href="https://www.wired.com/story/fake-warships-ais-signals-russia-crimea/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Calgary’s parking authority exposed drivers’ personal data and tickets<a href="https://techcrunch.com/2021/07/28/calgarys-parking-authority-exposed-drivers-personal-data-and-tickets/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phony Call Centers Tricking Users Into Installing Ransomware and Data-Stealers<a href="https://thehackernews.com/2021/07/phony-call-centers-tricking-users-into.html"> Full Text</a>
