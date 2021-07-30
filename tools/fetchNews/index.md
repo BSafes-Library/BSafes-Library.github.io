@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An Indian firm facing 1,738 cyber attacks a week on average, claims report<a href="https://ciso.economictimes.indiatimes.com/news/an-indian-firm-facing-1738-cyber-attacks-a-week-on-average-claims-report/84879895?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organization in India faced cyberattack 1,738 times on average per week in the last six months compared to 757 attacks per organization globally, a report showed on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Home Affairs asks for a rush on Critical Infrastructure Bill to allow ASD to act lawfully<a href="https://www.zdnet.com/article/home-affairs-asks-for-a-rush-on-critical-infrastructure-bill-to-allow-asd-to-act-lawfully/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Home Affairs has requested a rush for the passage of the country's looming critical infrastructure Bill, saying the sector specific rules could be nutted out following Royal Assent.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BazaCall: Phony call centers lead to exfiltration and ransomware<a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/?&web_view=true"> Full Text</a>
 </p>
 <details>
