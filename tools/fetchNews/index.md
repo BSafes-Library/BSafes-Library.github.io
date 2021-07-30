@@ -37,6 +37,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linux eBPF bug gets root privileges on Ubuntu - Exploit released<a href="https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher released exploit code for a high-severity vulnerability in Linux kernel eBPF (Extended Berkeley Packet Filter) that can give an attacker increased privileges on Ubuntu machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm, now valued at $500M+<a href="https://finance.yahoo.com/news/activefence-comes-shadows-100m-funding-050802629.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ActiveFence has quietly built a tech platform to filter out threats as they are being formed and planned to make it easier for trust and safety teams to combat them on platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survey: Pandemic Has Left Public Sector IT Exposed<a href="https://www.nextgov.com/cybersecurity/2021/07/survey-pandemic-has-left-public-sector-it-exposed/184136/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three in four public sector technology practitioners flag remote work policies as the top risk-inducing factor for cyberattacks, according to a survey released this week by IT firm SolarWinds.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Babuk: Biting off More than they Could Chew by Aiming to Encrypt VM and *nix Systems?<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-biting-off-more-than-they-could-chew-by-aiming-to-encrypt-vm-and-nix-systems/?&web_view=true"> Full Text</a>
 </p>
 <details>

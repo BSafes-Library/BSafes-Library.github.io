@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Amazon gets $888 million GDPR fine for behavioral advertising<a href="https://www.bleepingcomputer.com/news/technology/amazon-gets-888-million-gdpr-fine-for-behavioral-advertising/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has quietly been hit with a record-breaking €746 million fine for alleged GDPR violations regarding how it performs targeted behavioral advertising.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Linux eBPF bug gets root privileges on Ubuntu - Exploit released<a href="https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/"> Full Text</a>
 </p>
 <details>
