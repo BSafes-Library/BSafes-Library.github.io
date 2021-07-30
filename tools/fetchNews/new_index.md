@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Life Cycle of a Breached Database – Krebs on Security<a href="https://krebsonsecurity.com/2021/07/the-life-cycle-of-a-breached-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a website’s user database gets compromised, that information invariably turns up on hacker forums whereby cybercriminals can use their infrastructure to crack user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Python team fixes bug that allowed takeover of PyPI repository<a href="https://therecord.media/python-team-fixes-bug-that-allowed-takeover-of-pypi-repository/?&web_view=true"> Full Text</a>
 </p>
 <details>
