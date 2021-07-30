@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+MDBR Stops Ransomware, Phishing, Malware, and More<a href="https://www.cisecurity.org/blog/mdbr-stops-ransomware-phishing-malware-and-more/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MDBR service from CIS is available at no cost to all U.S. SLTT organizations, as well as all public and private hospitals in the U.S., in partnership with technology provider Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why isn’t cloud backup part of common security practices?<a href="https://www.helpnetsecurity.com/2021/07/30/cloud-backup-security-practices/?&web_view=true"> Full Text</a>
 </p>
 <details>
