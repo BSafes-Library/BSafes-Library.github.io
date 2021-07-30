@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Python team fixes bug that allowed takeover of PyPI repository<a href="https://therecord.media/python-team-fixes-bug-that-allowed-takeover-of-pypi-repository/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python security team has fixed today three vulnerabilities impacting the Python Package Index (PyPI), including one that could have allowed a threat actor to take full control over the portal.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google claims no instances of foreign interference campaigns targeting Australia<a href="https://www.zdnet.com/article/google-claims-no-instances-of-foreign-interference-campaigns-targeting-australia/?&web_view=true"> Full Text</a>
 </p>
 <details>
