@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Babuk: Biting off More than they Could Chew by Aiming to Encrypt VM and *nix Systems?<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-biting-off-more-than-they-could-chew-by-aiming-to-encrypt-vm-and-nix-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent announcement on their forum indicates that the infamous Babuk ransomware operators are now expressly targeting Linux/UNIX systems, as well as ESXi and VMware systems.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 What Can Be Done to Enhance Electrical Grid Security?<a href="https://www.govinfosecurity.com/what-be-done-to-enhance-electrical-grid-security-a-17173?&web_view=true"> Full Text</a>
 </p>
 <details>
