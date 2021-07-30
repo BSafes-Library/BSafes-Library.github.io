@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google claims no instances of foreign interference campaigns targeting Australia<a href="https://www.zdnet.com/article/google-claims-no-instances-of-foreign-interference-campaigns-targeting-australia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While conceding that foreign interference campaigns on its platforms targeting other jurisdictions have made their way to Australia, Google said none pursued the country specifically.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MDBR Stops Ransomware, Phishing, Malware, and More<a href="https://www.cisecurity.org/blog/mdbr-stops-ransomware-phishing-malware-and-more/?&web_view=true"> Full Text</a>
 </p>
 <details>
