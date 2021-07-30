@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Why isn’t cloud backup part of common security practices?<a href="https://www.helpnetsecurity.com/2021/07/30/cloud-backup-security-practices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent Sophos survey found that the average post-attack remediation costs, including lost business, grew to nearly $2 million in 2021, about 10 times the size of the ransom payment itself.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Remote Code Execution Flaws Patched in WordPress Download Manager Plugin<a href="https://www.securityweek.com/remote-code-execution-flaws-patched-wordpress-download-manager-plugin?&web_view=true"> Full Text</a>
 </p>
 <details>
