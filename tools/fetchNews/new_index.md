@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Poll finds Americans eager to regulate Big Tech | Protesters heap pressure onto ShotSpotter | Twitter debuts shopping feature<a href="https://thehill.com//policy/technology/overnights/565554-hillicon-valley-poll-finds-americans-eager-to-regulate-big-tech"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonia arrests hacker who stole 286K ID scans from govt database<a href="https://www.bleepingcomputer.com/news/security/estonia-arrests-hacker-who-stole-286k-id-scans-from-govt-database/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UC San Diego Health Breach Tied to Phishing Attack<a href="https://threatpost.com/uc-san-diego-health-breach/168250/"> Full Text</a>
@@ -82,7 +82,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA’s Top 30 Bugs: One’s Old Enough to Buy Beer<a href="https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/"> Full Text</a>
@@ -98,7 +98,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Praying Mantis is now Preying on Microsoft's IIS Servers<a href="https://cyware.com/news/praying-mantis-is-now-preying-on-microsofts-iis-servers-36788559"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Hidden Inside Neural Network Models has Over 90% Efficacy<a href="https://cyware.com/news/malware-hidden-inside-neural-network-models-has-over-90-efficacy-ab38b6a9"> Full Text</a>
@@ -132,7 +132,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter and Haron, two new ransomware gangs in the threat landscape<a href="https://securityaffairs.co/wordpress/120670/malware/blackmatter-haron-ransomware-gangs.html"> Full Text</a>
@@ -156,7 +156,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA shares guidance on how to secure your wireless devices<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-wireless-devices/"> Full Text</a>
@@ -172,7 +172,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serious Vulnerabilities Found in Firmware Used by Many IP Camera Vendors<a href="https://www.securityweek.com/serious-vulnerabilities-found-firmware-used-many-ip-camera-vendors?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New destructive Meteor wiper malware used in Iranian railway attack<a href="https://www.bleepingcomputer.com/news/security/new-destructive-meteor-wiper-malware-used-in-iranian-railway-attack/"> Full Text</a>
@@ -204,7 +204,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Government Agencies Visit NSO Group Offices<a href="https://threatpost.com/government-nso-offices/168241/"> Full Text</a>
@@ -220,7 +220,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Microsoft Hyper-V could allow RCE and DoS<a href="https://securityaffairs.co/wordpress/120654/hacking/critical-microsoft-hyper-v-bug.html?&web_view=true"> Full Text</a>
@@ -236,7 +236,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chipotle’s marketing account hacked to send phishing emails<a href="https://www.bleepingcomputer.com/news/security/chipotle-s-marketing-account-hacked-to-send-phishing-emails/"> Full Text</a>
@@ -252,7 +252,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Noetic Cyber raises $20M to automate cybersecurity remediation<a href="https://venturebeat.com/2021/07/28/noetic-cyber-raises-20m-to-automate-cybersecurity-remediation/?&web_view=true"> Full Text</a>
@@ -268,7 +268,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE bug in Moodle e-learning platform could be abused to steal data, manipulate results<a href="https://portswigger.net/daily-swig/finders-cheaters-rce-bug-in-moodle-e-learning-platform-could-be-abused-to-steal-data-manipulate-results?&web_view=true"> Full Text</a>
@@ -284,7 +284,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analytical report on DDoS attacks in the second quarter of 2021<a href="https://securelist.com/ddos-attacks-in-q2-2021/103424/?&web_view=true"> Full Text</a>
@@ -300,7 +300,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Microsoft Browser Bug to Deploy VBA Malware on Targeted PCs<a href="https://thehackernews.com/2021/07/hackers-exploit-microsoft-browser-bug.html"> Full Text</a>
@@ -316,7 +316,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2021
+July 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six Malicious Linux Shell Scripts Used to Evade Defenses and How to Stop Them<a href="https://threatpost.com/six-malicious-linux-shell-scripts-how-to-stop-them/168127/"> Full Text</a>

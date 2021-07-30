@@ -66,6 +66,18 @@ Since the development of internet communication platforms and social media, the 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Effects of Social Technology on Older Adults in a Residential Living Facility [HTML](https://papers.bsafes.com/docs/health/Effects-of-Social-Technology-on-Older-Adults-in-a-Residential-Living-Facility/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Loneliness and social isolation impact physical and mental health negatively for older adults. Researchers noted an increased relevance of the need for social technology with the emergence of COVID-19. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
