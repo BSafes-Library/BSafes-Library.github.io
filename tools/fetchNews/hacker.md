@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Microsoft Browser Bug to Deploy VBA Malware on Targeted PCs<a href="https://thehackernews.com/2021/07/hackers-exploit-microsoft-browser-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor has been exploiting a now-patched zero-day flaw in Internet Explorer browser to deliver a fully-featured VBA-based remote access trojan (RAT) capable of accessing files stored in compromised Windows systems, and downloading and executing malicious payloads as part of an "unusual" campaign.  The backdoor is distributed via a decoy document named "Manifest.docx" that loads the exploit code for the vulnerability from an embedded template, which, in turn, executes shellcode to deploy the RAT, according to cybersecurity firm Malwarebytes, which spotted the suspicious Word file on July 21, 2021.&nbsp; The malware-laced document claims to be a "Manifesto of the inhabitants of Crimea" calling on the citizens to oppose Russian President Vladimir Putin and "create a unified platform called 'People's Resistance.'"   The Internet Explorer flaw, tracked as CVE-2021-26411 , is notable for the fact that it was abused by the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonia ‘s police arrested a Tallin resident who stole 286K ID scans from a government DB<a href="https://securityaffairs.co/wordpress/120684/cyber-crime/estonia-s-police-hacker-id-scans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Estonia 's police arrested a man from Tallinn that is suspected to be the hacker who stole 286K ID scans from the government systems.
+
+
+
+Estonian police arrested a man from Tallinn that is suspected to have stolen 286,438 belonging to Estonians citizens...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrests made over European ATM ‘jackpotting’ spree<a href="https://portswigger.net/daily-swig/arrests-made-over-european-atm-jackpotting-spree?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Belarusian nationals have been arrested in connection with a spate of ATM ‘jackpotting’ attacks in which cash machines across Europe were illegally induced into dispensing €230,000 ($273,000).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

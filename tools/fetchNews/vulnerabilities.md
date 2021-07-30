@@ -11,6 +11,34 @@ nav_order: 900220
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Serious Vulnerabilities Found in Firmware Used by Many IP Camera Vendors<a href="https://www.securityweek.com/serious-vulnerabilities-found-firmware-used-many-ip-camera-vendors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IP cameras offered by a dozen vendors are exposed to remote attacks due to several serious vulnerabilities found in the firmware they all share, according to French cybersecurity firm RandoriSec.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE bug in Moodle e-learning platform could be abused to steal data, manipulate results<a href="https://portswigger.net/daily-swig/finders-cheaters-rce-bug-in-moodle-e-learning-platform-could-be-abused-to-steal-data-manipulate-results?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability in a popular e-learning platform could be abused to allow access to students’ data and test papers – and possibly even manipulate exam results.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in Microsoft Hyper-V could allow RCE and DoS<a href="https://securityaffairs.co/wordpress/120654/hacking/critical-microsoft-hyper-v-bug.html"> Full Text</a>
 </p>
 <details>

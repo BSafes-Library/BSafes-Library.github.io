@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Delhi government plans IT shield to ward off cyber threats<a href="https://timesofindia.indiatimes.com/city/delhi/delhi-govt-plans-it-shield-to-ward-off-cyber-threats/articleshow/84841270.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delhi government is going to carry out a major security audit of all its IT systems, websites, web-enabled applications, web services and mobile applications against any cyberattack or threat.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

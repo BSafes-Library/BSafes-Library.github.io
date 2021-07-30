@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entertainment Tech Provider D-Box Discloses Ransomware Attack Impacting IT Systems<a href="https://portswigger.net/daily-swig/entertainment-tech-provider-d-box-recovering-from-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent statement, the Canadian immersive entertainment technology provider said it was “gradually resuming its activities following a ransomware cyber-attack” first publicly disclosed on July 14.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meteor was the wiper used against Iran’s national railway system<a href="https://securityaffairs.co/wordpress/120679/malware/meteor-wiper-irans-national-railway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;recent attack against Iran’s national railway system&nbsp;was caused by a wiper malware dubbed&nbsp;Meteor&nbsp;and not by a ransomware as initially thought.
+
+
+
+According to research from Amnpardaz&nbsp;and&nbsp;SentinelOne, the recent attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,286 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to block logins on old Android devices starting September<a href="https://www.bleepingcomputer.com/news/google/google-to-block-logins-on-old-android-devices-starting-september/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is emailing Android users to let them know that, starting late September, they will no longer be able to log in to their Google accounts on devices running Android 2.3.7 (Gingerbread) and lower.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Delhi government plans IT shield to ward off cyber threats<a href="https://timesofindia.indiatimes.com/city/delhi/delhi-govt-plans-it-shield-to-ward-off-cyber-threats/articleshow/84841270.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delhi government is going to carry out a major security audit of all its IT systems, websites, web-enabled applications, web services and mobile applications against any cyberattack or threat.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Several C&C Servers Linked to WellMess Malware<a href="https://thehackernews.com/2021/07/experts-uncover-several-c-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Friday unmasked new command-and-control (C2) infrastructure belonging to the Russian threat actor tracked as APT29, aka Cozy Bear, that has been spotted actively serving WellMess malware as part of an ongoing attack campaign.  More than 30 C2 servers operated by the Russian foreign intelligence have been uncovered, Microsoft-owned cybersecurity subsidiary RiskIQ  said  in a report shared with The Hacker News.  APT29, the moniker assigned to government operatives working for Russia's Foreign Intelligence Service (SVR), is believed to have been the  mastermind behind the massive SolarWinds supply chain attack  that came to light late last year, with the U.K. and U.S. governments formally pinning the intrusions on Russia earlier this April.   The activity is being tracked by the cybersecurity community under various codenames, including UNC2452 (FireEye), Nobelium (Microsoft), SolarStorm (Unit 42), StellarParticle (Crowdstrike), Dark Halo (Volexity), and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonia ‘s police arrested a Tallin resident who stole 286K ID scans from a government DB<a href="https://securityaffairs.co/wordpress/120684/cyber-crime/estonia-s-police-hacker-id-scans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Estonia 's police arrested a man from Tallinn that is suspected to be the hacker who stole 286K ID scans from the government systems.
+
+
+
+Estonian police arrested a man from Tallinn that is suspected to have stolen 286,438 belonging to Estonians citizens...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI packages caught stealing credit card numbers, Discord tokens<a href="https://www.bleepingcomputer.com/news/security/pypi-packages-caught-stealing-credit-card-numbers-discord-tokens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) registry has removed several Python packages this week aimed at stealing users' credit card numbers, Discord tokens, and granting arbitrary code execution capabilities to attackers. These malicious packages were downloaded over 30,000 times according to the researchers who caught them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entertainment Tech Provider D-Box Discloses Ransomware Attack Impacting IT Systems<a href="https://portswigger.net/daily-swig/entertainment-tech-provider-d-box-recovering-from-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent statement, the Canadian immersive entertainment technology provider said it was “gradually resuming its activities following a ransomware cyber-attack” first publicly disclosed on July 14.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Malicious Typosquatted Python Libraries Found On PyPI Repository<a href="https://thehackernews.com/2021/07/several-malicious-typosquatted-python.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as eight Python packages that were downloaded more than 30,000 times have been removed from the PyPI portal for containing malicious code, once again highlighting how software package repositories are evolving into a popular target for supply chain attacks.  "Lack of moderation and automated security controls in public software repositories allow even inexperienced attackers to use them as a platform to spread malware, whether through typosquatting, dependency confusion, or simple social engineering attacks," JFrog researchers Andrey Polkovnichenko, Omer Kaspi, and Shachar Menashe  said  Thursday.   PyPI, short for Python Package Index, is the official third-party software repository for Python, with package manager utilities like  pip  relying on it as the default source for packages and their dependencies.  The Python packages in question, which were found to be obfuscated using Base64 encoding, are listed below -   pytagora (uploaded by leonora123)  pytagora2 (upl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meteor was the wiper used against Iran’s national railway system<a href="https://securityaffairs.co/wordpress/120679/malware/meteor-wiper-irans-national-railway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attack against Iran’s national railway system was caused by a wiper malware dubbed Meteor and not by a ransomware as initially thought.
+
+
+
+According to research from Amnpardaz and SentinelOne, the recent attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web ads offering corporate network access increase seven-fold<a href="https://www.helpnetsecurity.com/2021/07/29/dark-web-ads-offering-corporate-network-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first quarter of 2021, the number of users who placed ads for buying and selling access and also for seeking hacking partners tripled compared to Q1 2020, according to Positive Technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Wiper Malware Was Behind Recent Cyberattack On Iranian Train System<a href="https://thehackernews.com/2021/07/a-new-wiper-malware-was-behind-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack that derailed websites of Iran's transport ministry and its national railway system earlier this month, causing widespread disruptions in train services, was the result of a never-before-seen reusable wiper malware called "Meteor."  The campaign — dubbed " MeteorExpress " — has not been linked to any previously identified threat group or to additional attacks, making it the first incident involving the deployment of this malware, according to researchers from Iranian antivirus firm  Amn Pardaz  and SentinelOne. Meteor is believed to have been in the works over the past three years.  "Despite a lack of specific indicators of compromise, we were able to recover most of the attack components," SentinelOne's Principal Threat Researcher, Juan Andres Guerrero-Saade, noted. "Behind this outlandish tale of stopped trains and glib trolls, we found the fingerprints of an unfamiliar attacker," adding the offensive is "designed t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arrests made over European ATM ‘jackpotting’ spree<a href="https://portswigger.net/daily-swig/arrests-made-over-european-atm-jackpotting-spree?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Belarusian nationals have been arrested in connection with a spate of ATM ‘jackpotting’ attacks in which cash machines across Europe were illegally induced into dispensing €230,000 ($273,000).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware can penetrate quickly, significantly damaging an organization<a href="https://www.helpnetsecurity.com/2021/07/29/ransomware-can-penetrate-quickly/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Cloudian survey found that traditional ransomware defenses are failing, with 54% of all victims having anti-phishing training and 49% having perimeter defenses in place at the time of attack.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why a Cyber Pearl Harbor Will Never Happen<a href="https://www.flyingpenguin.com/?p=34283&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The easy answer is really a semantic one: nothing that can be done in cyber (information technology) is directly comparable to widespread kinetic destruction of military forces.
+</details>
+<div style="text-align: right" markdown="1">
+Flying Penguin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New Solarmarker Malware Activity Focused on Credential and Information Theft<a href="https://www.zdnet.com/article/cisco-researchers-spotlight-solarmarker-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report by Cisco Talos added that Microsoft researchers believe the Solarmarker campaign is using SEO poisoning in order to make their dropper files highly visible in search engine results.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phantom Warships Are Courting Chaos in Conflict Zones<a href="https://www.wired.com/story/fake-warships-ais-signals-russia-crimea/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By international law, all but the smallest commercial ships have to install AIS transponders which broadcast their identity, position, course, and speed to other ships in the area every few seconds.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Calgary’s parking authority exposed drivers’ personal data and tickets<a href="https://techcrunch.com/2021/07/28/calgarys-parking-authority-exposed-drivers-personal-data-and-tickets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A logging server, containing technical logs, parking tickets, and payment and driver information, used to monitor the authority’s parking system for bugs and errors was left exposed on the internet.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phony Call Centers Tricking Users Into Installing Ransomware and Data-Stealers<a href="https://thehackernews.com/2021/07/phony-call-centers-tricking-users-into.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malicious campaign that employs phony call centers has been found to trick victims into downloading malware capable of data exfiltration as well as deploying ransomware on infected systems.  The attacks — dubbed "BazaCall" — eschew traditional social engineering techniques that rely on rogue URLs and malware-laced documents in favor of a vishing-like method wherein targeted users are sent email messages informing them of a forthcoming subscription charge unless they call a specific phone number.  By tricking the recipients into calling the number, the unsuspecting victims are connected with an actual human operator at a fraudulent call center, who then provide them with instructions to download the BazaLoader malware.   BazaLoader (aka BazarBackdoor) is a C++-based downloader with the ability to install various types of malicious programs on infected computers, including deploying ransomware and other malware to steal sensitive data from victimized systems. First
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

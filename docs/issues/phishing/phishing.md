@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phony Call Centers Tricking Users Into Installing Ransomware and Data-Stealers<a href="https://thehackernews.com/2021/07/phony-call-centers-tricking-users-into.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malicious campaign that employs phony call centers has been found to trick victims into downloading malware capable of data exfiltration as well as deploying ransomware on infected systems.  The attacks — dubbed "BazaCall" — eschew traditional social engineering techniques that rely on rogue URLs and malware-laced documents in favor of a vishing-like method wherein targeted users are sent email messages informing them of a forthcoming subscription charge unless they call a specific phone number.  By tricking the recipients into calling the number, the unsuspecting victims are connected with an actual human operator at a fraudulent call center, who then provide them with instructions to download the BazaLoader malware.   BazaLoader&nbsp;(aka BazarBackdoor) is a C++-based downloader with the ability to install various types of malicious programs on infected computers, including deploying ransomware and other malware to steal sensitive data from victimized systems. First
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
