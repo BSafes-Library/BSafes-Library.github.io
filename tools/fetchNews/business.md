@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolCyber emerges from stealth with $20M in funding from ForgePoint<a href="https://siliconangle.com/2021/07/29/mssp-solcyber-comes-stealth-20m-funding-forgepoint/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The managed security service provider SolCyber Managed Security Services Inc. launched out of stealth mode and announced that it has raised $20 million in Series A funding led by ForgePoint Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Security: 5 Big Statements From Satya Nadella<a href="https://www.crn.com/news/security/microsoft-security-5-big-statements-from-satya-nadella?itc=refresh&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft CEO Satya Nadella touted the Redmond-based technology giant’s latest momentum in its cybersecurity business during the company’s fiscal fourth-quarter earnings call.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

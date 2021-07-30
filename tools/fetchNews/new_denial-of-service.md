@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analytical report on DDoS attacks in the second quarter of 2021<a href="https://securelist.com/ddos-attacks-in-q2-2021/103424/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The month of April 2021 saw the active distribution of a new DDoS botnet called Simps — the name under which it introduced itself to its victims  — that was distributed via YouTube and Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

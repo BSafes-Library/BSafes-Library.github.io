@@ -11,6 +11,20 @@ nav_order: 900072
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Poll finds Americans eager to regulate Big Tech | Protesters heap pressure onto ShotSpotter | Twitter debuts shopping feature<a href="https://thehill.com//policy/technology/overnights/565554-hillicon-valley-poll-finds-americans-eager-to-regulate-big-tech"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A poll released today by CAP Action and Public Citizen shows just how far out of public favor America’s Big Tech companies have gotten. Not only are Americans worried about the size and influence of the companies but, according to the survey, they support taking steps to regulate them. In other news, activists in Chicago rallied Thursday calling on the city to end its contracts with the controversial gun detection company ShotSpotter.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IBM Cost of Data Breach 2021 Report Pegs Incident Cost at $4.2 Million<a href="https://cyware.com/news/ibm-cost-of-data-breach-2021-report-pegs-incident-cost-at-42-million-cb3b5e85"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900027
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Noetic Cyber raises $20M to automate cybersecurity remediation<a href="https://venturebeat.com/2021/07/28/noetic-cyber-raises-20m-to-automate-cybersecurity-remediation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Noetic Cyber today emerged from stealth with $20 million, including $15 million in series A funding from Energy Impact Partners, TenEleven Ventures, and Glasswing Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SolCyber emerges from stealth with $20M in funding from ForgePoint<a href="https://siliconangle.com/2021/07/29/mssp-solcyber-comes-stealth-20m-funding-forgepoint/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,42 @@ nav_order: 900031
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Estonia arrests hacker who stole 286K ID scans from govt database<a href="https://www.bleepingcomputer.com/news/security/estonia-arrests-hacker-who-stole-286k-id-scans-from-govt-database/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Tallinn man was arrested a week ago in Estonia under suspicion that he has exploited a government photo transfer service vulnerability to download ID scans of 286,438 Estonians from the Identity Documents Database (KMAIS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter and Haron, two new ransomware gangs in the threat landscape<a href="https://securityaffairs.co/wordpress/120670/malware/blackmatter-haron-ransomware-gangs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber threat landscape change continuously, recently two new ransomware-as-service (RaaS) operations named BlackMatter and Haron made the headlines.
+
+
+
+Recently, two new ransomware gangs, named BlackMatter and Haron, announced the beginning of the operations.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DoppelPaymer ransomware gang rebrands as the Grief group<a href="https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-gang-rebrands-as-the-grief-group/"> Full Text</a>
 </p>
 <details>

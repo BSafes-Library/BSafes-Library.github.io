@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Praying Mantis is now Preying on Microsoft's IIS Servers<a href="https://cyware.com/news/praying-mantis-is-now-preying-on-microsofts-iis-servers-36788559"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sygnia researchers reported a new APT group—Praying Mantis or TG1021—targeting Microsoft IIS web servers to reach victims’ internal networks to steal sensitive data. To stay protected, researchers recommend patching .NET deserialization vulnerabilities and scanning internet-facing IIS servers with  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

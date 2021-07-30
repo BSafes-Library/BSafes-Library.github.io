@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Cost of Data Breach 2021 Report Pegs Incident Cost at $4.2 Million<a href="https://cyware.com/news/ibm-cost-of-data-breach-2021-report-pegs-incident-cost-at-42-million-cb3b5e85"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. suffered the highest data breach cost at $9.05 million per incident, followed by the Middle East at $6.93 million and Canada at $5.4 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best Practices to Thwart Business Email Compromise (BEC) Attacks<a href="https://thehackernews.com/2021/07/best-practices-to-thwart-business-email_29.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business email compromise (BEC) refers to all types of email attacks that do not have payloads. Although there are numerous types, there are essentially two main mechanisms through which attackers penetrate organizations utilizing BEC techniques, spoofing and account take-over attacks.  In a recent&nbsp; study , 71% of organizations acknowledged they had seen a business email compromise (BEC) attack during the past year. Forty-three percent of organizations experienced a security incident in the last 12 months, with 35% stating that BEC/phishing attacks account for more than 50% of the incidents.  The&nbsp; FBI's Internet Crime Complaint Center &nbsp;(IC3) reports that BEC scams were the most expensive of cyberattacks in 2020, with 19,369 complaints and adjusted losses of approximately $1.8 billion. Recent BEC attacks include spoofing attacks on Shark Tank Host Barbara Corcoran, who lost&nbsp; $380,000 ; the Puerto Rican government attacks that amounted to $4 million, and Japanese media giant, Nikkei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over half a million cybersecurity incidents reported in India during first half of 2021: Govt<a href="https://ciso.economictimes.indiatimes.com/news/over-6-07-lakh-cyber-security-incidents-reported-in-india-during-first-half-of-2021-govt/84850600?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government informed that CERT-In has reported a total of 394,499, 1,158,208 and 607,220 cybersecurity incidents observed during the year 2019, 2020 and 2021 (upto June), respectively.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

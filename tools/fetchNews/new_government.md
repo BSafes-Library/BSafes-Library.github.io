@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA’s Top 30 Bugs: One’s Old Enough to Buy Beer<a href="https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are patches or remediations for all of them, but they’re still being picked apart. Why should attackers stop if the flaws remain unpatched, as so many do? 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA shares guidance on how to secure your wireless devices<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-wireless-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US National Security Agency (NSA) today published guidance on how to properly secure wireless devices&nbsp;against potential attacks targeting them when traveling or working remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Government Agencies Visit NSO Group Offices<a href="https://threatpost.com/government-nso-offices/168241/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities opened an investigation into the secretive Israeli security firm. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
