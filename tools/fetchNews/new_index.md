@@ -37,6 +37,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Remote Code Execution Flaws Patched in WordPress Download Manager Plugin<a href="https://www.securityweek.com/remote-code-execution-flaws-patched-wordpress-download-manager-plugin?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability patched recently in the WordPress Download Manager plugin could be abused to execute arbitrary code under specific configurations, the Wordfence team at Defiant warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3490 – Pwning Linux kernel eBPF on Ubuntu machines<a href="https://securityaffairs.co/wordpress/120688/hacking/cve-2021-3490-linux-kernel-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher published an exploit code for a high-severity privilege escalation flaw (CVE-2021-3490) in Linux kernel eBPF on Ubuntu machines. 
+
+
+
+The security researcher Manfred Paul of the RedRocket CTF team released the exploit code for a high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 EY Australia acquires Melbourne MSP SecureWorx<a href="https://www.crn.com.au/news/ey-australia-acquires-melbourne-msp-secureworx-568041?&web_view=true"> Full Text</a>
 </p>
 <details>
