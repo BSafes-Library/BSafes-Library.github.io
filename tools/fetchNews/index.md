@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats urge tech CEOs to combat Spanish disinformation | Amazon fined $886M by EU regulators<a href="https://thehill.com//policy/technology/overnights/565711-hillicon-valley-democrats-urge-tech-ceos-to-combat-spanish"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platform Nextdoor has joined several other tech companies in facing scrutiny from congressional Democrats, who want to know how the platforms are working to combat the spread of disinformation in Spanish and other non-english languages.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA launches vulnerability disclosure platform for federal agencies<a href="https://www.bleepingcomputer.com/news/security/cisa-launches-vulnerability-disclosure-platform-for-federal-agencies/"> Full Text</a>
 </p>
 <details>
