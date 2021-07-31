@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 30th 2021 - €1 billion saved<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-30th-2021-1-billion-saved/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware continues to be active this week, with new threat actors releasing new features, No More Ransom turning five, and a veteran group rebrands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Node.js fixes severe HTTP bug that could let attackers crash apps<a href="https://www.bleepingcomputer.com/news/security/nodejs-fixes-severe-http-bug-that-could-let-attackers-crash-apps/"> Full Text</a>
 </p>
 <details>
