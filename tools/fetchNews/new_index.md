@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 31, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware gang rises from the ashes of DarkSide, REvil<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-gang-rises-from-the-ashes-of-darkside-revil/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A new ransomware gang named BlackMatter is purchasing access to corporate networks while claiming to include the best features from the notorious and now-defunct REvil and DarkSide operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI warns investors of fraudsters posing as brokers and advisers<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-investors-of-fraudsters-posing-as-brokers-and-advisers/"> Full Text</a>
 </p>
 <details>
