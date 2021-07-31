@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://www.bleepingcomputer.com/news/security/doj-solarwinds-hackers-breached-emails-from-27-us-attorneys-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice says that the Microsoft Office 365 email accounts of employees at 27 US Attorneys' offices were breached by the Russian Foreign Intelligence Service (SVR) during the SolarWinds global hacking spree.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 30th 2021 - €1 billion saved<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-30th-2021-1-billion-saved/"> Full Text</a>
 </p>
 <details>
