@@ -11,6 +11,20 @@ nav_order: 900031
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Babuk: Biting off More than they Could Chew by Aiming to Encrypt VM and *nix Systems?<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-biting-off-more-than-they-could-chew-by-aiming-to-encrypt-vm-and-nix-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent announcement on their forum indicates that the infamous Babuk ransomware operators are now expressly targeting Linux/UNIX systems, as well as ESXi and VMware systems.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Estonia ‘s police arrested a Tallin resident who stole 286K ID scans from a government DB<a href="https://securityaffairs.co/wordpress/120684/cyber-crime/estonia-s-police-hacker-id-scans.html"> Full Text</a>
 </p>
 <details>

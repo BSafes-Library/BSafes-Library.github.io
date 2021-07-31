@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web ads offering corporate network access increase seven-fold<a href="https://www.helpnetsecurity.com/2021/07/29/dark-web-ads-offering-corporate-network-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first quarter of 2021, the number of users who placed ads for buying and selling access and also for seeking hacking partners tripled compared to Q1 2020, according to Positive Technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why a Cyber Pearl Harbor Will Never Happen<a href="https://www.flyingpenguin.com/?p=34283&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The easy answer is really a semantic one: nothing that can be done in cyber (information technology) is directly comparable to widespread kinetic destruction of military forces.
+</details>
+<div style="text-align: right" markdown="1">
+Flying Penguin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phantom Warships Are Courting Chaos in Conflict Zones<a href="https://www.wired.com/story/fake-warships-ais-signals-russia-crimea/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By international law, all but the smallest commercial ships have to install AIS transponders which broadcast their identity, position, course, and speed to other ships in the area every few seconds.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

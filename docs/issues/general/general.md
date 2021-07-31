@@ -11,6 +11,62 @@ nav_order: 900072
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats urge tech CEOs to combat Spanish disinformation | Amazon fined $886M by EU regulators<a href="https://thehill.com//policy/technology/overnights/565711-hillicon-valley-democrats-urge-tech-ceos-to-combat-spanish"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platform Nextdoor has&nbsp;joined several other tech&nbsp;companies in facing scrutiny from congressional Democrats, who want to know how the platforms are&nbsp;working to combat the spread of disinformation in Spanish and other non-english languages.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why isn’t cloud backup part of common security practices?<a href="https://www.helpnetsecurity.com/2021/07/30/cloud-backup-security-practices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent Sophos survey found that the average post-attack remediation costs, including lost business, grew to nearly $2 million in 2021, about 10 times the size of the ransom payment itself.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survey: Pandemic Has Left Public Sector IT Exposed<a href="https://www.nextgov.com/cybersecurity/2021/07/survey-pandemic-has-left-public-sector-it-exposed/184136/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three in four public sector technology practitioners flag remote work policies as the top risk-inducing factor for cyberattacks, according to a survey released this week by IT firm SolarWinds.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Can Be Done to Enhance Electrical Grid Security?<a href="https://www.govinfosecurity.com/what-be-done-to-enhance-electrical-grid-security-a-17173?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of adequate security features in critical electrical grid equipment poses a serious U.S. cybersecurity threat, according to federal officials who testified at a US Congress hearing this week.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dark web ads offering corporate network access increase seven-fold<a href="https://www.helpnetsecurity.com/2021/07/29/dark-web-ads-offering-corporate-network-access/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js fixes severe HTTP bug that could let attackers crash apps<a href="https://www.bleepingcomputer.com/news/security/nodejs-fixes-severe-http-bug-that-could-let-attackers-crash-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Node.js has released updates for a high severity vulnerability that could be exploited by attackers to crash the process and cause unexpected behaviors. The use-after-free vulnerability, tracked as&nbsp;CVE-2021-22930 is to do with how HTTP2 streams are handled in the language.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python team fixes bug that allowed takeover of PyPI repository<a href="https://therecord.media/python-team-fixes-bug-that-allowed-takeover-of-pypi-repository/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python security team has fixed today three vulnerabilities impacting the Python Package Index (PyPI), including one that could have allowed a threat actor to take full control over the portal.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Code Execution Flaws Patched in WordPress Download Manager Plugin<a href="https://www.securityweek.com/remote-code-execution-flaws-patched-wordpress-download-manager-plugin?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability patched recently in the WordPress Download Manager plugin could be abused to execute arbitrary code under specific configurations, the Wordfence team at Defiant warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3490 – Pwning Linux kernel eBPF on Ubuntu machines<a href="https://securityaffairs.co/wordpress/120688/hacking/cve-2021-3490-linux-kernel-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher published an exploit code for a high-severity privilege escalation flaw (CVE-2021-3490) in Linux kernel eBPF on Ubuntu machines. 
+
+
+
+The security researcher Manfred Paul&nbsp;of the&nbsp;RedRocket&nbsp;CTF team released the exploit code for a high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux eBPF bug gets root privileges on Ubuntu - Exploit released<a href="https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher released exploit code for a high-severity vulnerability in Linux kernel eBPF (Extended Berkeley Packet Filter) that can give an attacker increased privileges on Ubuntu machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

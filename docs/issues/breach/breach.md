@@ -11,6 +11,34 @@ nav_order: 900029
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://www.bleepingcomputer.com/news/security/doj-solarwinds-hackers-breached-emails-from-27-us-attorneys-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Department of Justice says that the Microsoft Office 365 email accounts&nbsp;of employees at 27 US Attorneys' offices were breached by the&nbsp;Russian Foreign Intelligence Service (SVR) during the&nbsp;SolarWinds global hacking spree.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Life Cycle of a Breached Database – Krebs on Security<a href="https://krebsonsecurity.com/2021/07/the-life-cycle-of-a-breached-database/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a website’s user database gets compromised, that information invariably turns up on hacker forums whereby cybercriminals can use their infrastructure to crack user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Calgary’s parking authority exposed drivers’ personal data and tickets<a href="https://techcrunch.com/2021/07/28/calgarys-parking-authority-exposed-drivers-personal-data-and-tickets/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

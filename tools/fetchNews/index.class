@@ -34,6 +34,395 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://www.bleepingcomputer.com/news/security/doj-solarwinds-hackers-breached-emails-from-27-us-attorneys-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice says that the Microsoft Office 365 email accounts of employees at 27 US Attorneys' offices were breached by the Russian Foreign Intelligence Service (SVR) during the SolarWinds global hacking spree.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - July 30th 2021 - €1 billion saved<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-30th-2021-1-billion-saved/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware continues to be active this week, with new threat actors releasing new features, No More Ransom turning five, and a veteran group rebrands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js fixes severe HTTP bug that could let attackers crash apps<a href="https://www.bleepingcomputer.com/news/security/nodejs-fixes-severe-http-bug-that-could-let-attackers-crash-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Node.js has released updates for a high severity vulnerability that could be exploited by attackers to crash the process and cause unexpected behaviors. The use-after-free vulnerability, tracked as CVE-2021-22930 is to do with how HTTP2 streams are handled in the language.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Democrats urge tech CEOs to combat Spanish disinformation | Amazon fined $886M by EU regulators<a href="https://thehill.com//policy/technology/overnights/565711-hillicon-valley-democrats-urge-tech-ceos-to-combat-spanish"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platform Nextdoor has joined several other tech companies in facing scrutiny from congressional Democrats, who want to know how the platforms are working to combat the spread of disinformation in Spanish and other non-english languages.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA launches vulnerability disclosure platform for federal agencies<a href="https://www.bleepingcomputer.com/news/security/cisa-launches-vulnerability-disclosure-platform-for-federal-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) today launched a new vulnerability disclosure policy (VDP) platform for US federal civilian agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Life Cycle of a Breached Database – Krebs on Security<a href="https://krebsonsecurity.com/2021/07/the-life-cycle-of-a-breached-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a website’s user database gets compromised, that information invariably turns up on hacker forums whereby cybercriminals can use their infrastructure to crack user passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python team fixes bug that allowed takeover of PyPI repository<a href="https://therecord.media/python-team-fixes-bug-that-allowed-takeover-of-pypi-repository/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python security team has fixed today three vulnerabilities impacting the Python Package Index (PyPI), including one that could have allowed a threat actor to take full control over the portal.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google claims no instances of foreign interference campaigns targeting Australia<a href="https://www.zdnet.com/article/google-claims-no-instances-of-foreign-interference-campaigns-targeting-australia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While conceding that foreign interference campaigns on its platforms targeting other jurisdictions have made their way to Australia, Google said none pursued the country specifically.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MDBR Stops Ransomware, Phishing, Malware, and More<a href="https://www.cisecurity.org/blog/mdbr-stops-ransomware-phishing-malware-and-more/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MDBR service from CIS is available at no cost to all U.S. SLTT organizations, as well as all public and private hospitals in the U.S., in partnership with technology provider Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why isn’t cloud backup part of common security practices?<a href="https://www.helpnetsecurity.com/2021/07/30/cloud-backup-security-practices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent Sophos survey found that the average post-attack remediation costs, including lost business, grew to nearly $2 million in 2021, about 10 times the size of the ransom payment itself.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Code Execution Flaws Patched in WordPress Download Manager Plugin<a href="https://www.securityweek.com/remote-code-execution-flaws-patched-wordpress-download-manager-plugin?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability patched recently in the WordPress Download Manager plugin could be abused to execute arbitrary code under specific configurations, the Wordfence team at Defiant warns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3490 – Pwning Linux kernel eBPF on Ubuntu machines<a href="https://securityaffairs.co/wordpress/120688/hacking/cve-2021-3490-linux-kernel-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher published an exploit code for a high-severity privilege escalation flaw (CVE-2021-3490) in Linux kernel eBPF on Ubuntu machines. 
+
+
+
+The security researcher Manfred Paul of the RedRocket CTF team released the exploit code for a high-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EY Australia acquires Melbourne MSP SecureWorx<a href="https://www.crn.com.au/news/ey-australia-acquires-melbourne-msp-secureworx-568041?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based in Melbourne, SecureWorx specializes in multi-cloud services, managed security operations, and security advisory services for customers dealing with sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Indian firm facing 1,738 cyber attacks a week on average, claims report<a href="https://ciso.economictimes.indiatimes.com/news/an-indian-firm-facing-1738-cyber-attacks-a-week-on-average-claims-report/84879895?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organization in India faced cyberattack 1,738 times on average per week in the last six months compared to 757 attacks per organization globally, a report showed on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Home Affairs asks for a rush on Critical Infrastructure Bill to allow ASD to act lawfully<a href="https://www.zdnet.com/article/home-affairs-asks-for-a-rush-on-critical-infrastructure-bill-to-allow-asd-to-act-lawfully/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Home Affairs has requested a rush for the passage of the country's looming critical infrastructure Bill, saying the sector specific rules could be nutted out following Royal Assent.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazaCall: Phony call centers lead to exfiltration and ransomware<a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a target recipient does decide to call the phone number indicated in the email, they will speak with a real person from a fraudulent call center set up by BazaCall’s operators.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon gets $888 million GDPR fine for behavioral advertising<a href="https://www.bleepingcomputer.com/news/technology/amazon-gets-888-million-gdpr-fine-for-behavioral-advertising/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has quietly been hit with a record-breaking €746 million fine for alleged GDPR violations regarding how it performs targeted behavioral advertising.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux eBPF bug gets root privileges on Ubuntu - Exploit released<a href="https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher released exploit code for a high-severity vulnerability in Linux kernel eBPF (Extended Berkeley Packet Filter) that can give an attacker increased privileges on Ubuntu machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm, now valued at $500M+<a href="https://finance.yahoo.com/news/activefence-comes-shadows-100m-funding-050802629.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ActiveFence has quietly built a tech platform to filter out threats as they are being formed and planned to make it easier for trust and safety teams to combat them on platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survey: Pandemic Has Left Public Sector IT Exposed<a href="https://www.nextgov.com/cybersecurity/2021/07/survey-pandemic-has-left-public-sector-it-exposed/184136/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three in four public sector technology practitioners flag remote work policies as the top risk-inducing factor for cyberattacks, according to a survey released this week by IT firm SolarWinds.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk: Biting off More than they Could Chew by Aiming to Encrypt VM and *nix Systems?<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-biting-off-more-than-they-could-chew-by-aiming-to-encrypt-vm-and-nix-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent announcement on their forum indicates that the infamous Babuk ransomware operators are now expressly targeting Linux/UNIX systems, as well as ESXi and VMware systems.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Can Be Done to Enhance Electrical Grid Security?<a href="https://www.govinfosecurity.com/what-be-done-to-enhance-electrical-grid-security-a-17173?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lack of adequate security features in critical electrical grid equipment poses a serious U.S. cybersecurity threat, according to federal officials who testified at a US Congress hearing this week.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0 Abuses Windows Domains to Propagate<a href="https://cyware.com/news/lockbit-20-abuses-windows-domains-to-propagate-856d1683"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new LockBit variant has been discovered that comes with automated encryption of a Windows domain. It has multiple advanced features and is now abusing the Active Directory group policies.&nbsp;The new tactics indicate that Lockbit developers are well versed with Windows OS and are leaving no ston ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of AvosLocker, It’s Hiring!<a href="https://cyware.com/news/beware-of-avoslocker-its-hiring-69d2e807"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware first came to light in late June after an attack on the City of Geneva. Its operators are now searching for affiliates via several underground forums.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

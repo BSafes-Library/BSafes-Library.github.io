@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://www.bleepingcomputer.com/news/security/doj-solarwinds-hackers-breached-emails-from-27-us-attorneys-offices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - July 30th 2021 - €1 billion saved<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-30th-2021-1-billion-saved/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Node.js fixes severe HTTP bug that could let attackers crash apps<a href="https://www.bleepingcomputer.com/news/security/nodejs-fixes-severe-http-bug-that-could-let-attackers-crash-apps/"> Full Text</a>
@@ -82,7 +82,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Democrats urge tech CEOs to combat Spanish disinformation | Amazon fined $886M by EU regulators<a href="https://thehill.com//policy/technology/overnights/565711-hillicon-valley-democrats-urge-tech-ceos-to-combat-spanish"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA launches vulnerability disclosure platform for federal agencies<a href="https://www.bleepingcomputer.com/news/security/cisa-launches-vulnerability-disclosure-platform-for-federal-agencies/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Life Cycle of a Breached Database – Krebs on Security<a href="https://krebsonsecurity.com/2021/07/the-life-cycle-of-a-breached-database/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python team fixes bug that allowed takeover of PyPI repository<a href="https://therecord.media/python-team-fixes-bug-that-allowed-takeover-of-pypi-repository/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google claims no instances of foreign interference campaigns targeting Australia<a href="https://www.zdnet.com/article/google-claims-no-instances-of-foreign-interference-campaigns-targeting-australia/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MDBR Stops Ransomware, Phishing, Malware, and More<a href="https://www.cisecurity.org/blog/mdbr-stops-ransomware-phishing-malware-and-more/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ CIS
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why isn’t cloud backup part of common security practices?<a href="https://www.helpnetsecurity.com/2021/07/30/cloud-backup-security-practices/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote Code Execution Flaws Patched in WordPress Download Manager Plugin<a href="https://www.securityweek.com/remote-code-execution-flaws-patched-wordpress-download-manager-plugin?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-3490 – Pwning Linux kernel eBPF on Ubuntu machines<a href="https://securityaffairs.co/wordpress/120688/hacking/cve-2021-3490-linux-kernel-bug.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EY Australia acquires Melbourne MSP SecureWorx<a href="https://www.crn.com.au/news/ey-australia-acquires-melbourne-msp-secureworx-568041?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Indian firm facing 1,738 cyber attacks a week on average, claims report<a href="https://ciso.economictimes.indiatimes.com/news/an-indian-firm-facing-1738-cyber-attacks-a-week-on-average-claims-report/84879895?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: Home Affairs asks for a rush on Critical Infrastructure Bill to allow ASD to act lawfully<a href="https://www.zdnet.com/article/home-affairs-asks-for-a-rush-on-critical-infrastructure-bill-to-allow-asd-to-act-lawfully/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazaCall: Phony call centers lead to exfiltration and ransomware<a href="https://www.microsoft.com/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon gets $888 million GDPR fine for behavioral advertising<a href="https://www.bleepingcomputer.com/news/technology/amazon-gets-888-million-gdpr-fine-for-behavioral-advertising/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux eBPF bug gets root privileges on Ubuntu - Exploit released<a href="https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm, now valued at $500M+<a href="https://finance.yahoo.com/news/activefence-comes-shadows-100m-funding-050802629.html?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Survey: Pandemic Has Left Public Sector IT Exposed<a href="https://www.nextgov.com/cybersecurity/2021/07/survey-pandemic-has-left-public-sector-it-exposed/184136/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk: Biting off More than they Could Chew by Aiming to Encrypt VM and *nix Systems?<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-biting-off-more-than-they-could-chew-by-aiming-to-encrypt-vm-and-nix-systems/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Can Be Done to Enhance Electrical Grid Security?<a href="https://www.govinfosecurity.com/what-be-done-to-enhance-electrical-grid-security-a-17173?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 2.0 Abuses Windows Domains to Propagate<a href="https://cyware.com/news/lockbit-20-abuses-windows-domains-to-propagate-856d1683"> Full Text</a>
@@ -407,7 +407,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of AvosLocker, It’s Hiring!<a href="https://cyware.com/news/beware-of-avoslocker-its-hiring-69d2e807"> Full Text</a>

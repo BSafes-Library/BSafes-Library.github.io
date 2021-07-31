@@ -11,6 +11,48 @@ nav_order: 900075
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA launches vulnerability disclosure platform for federal agencies<a href="https://www.bleepingcomputer.com/news/security/cisa-launches-vulnerability-disclosure-platform-for-federal-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Cybersecurity and Infrastructure Security Agency (CISA) today launched a new vulnerability&nbsp;disclosure policy (VDP) platform for US federal civilian agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MDBR Stops Ransomware, Phishing, Malware, and More<a href="https://www.cisecurity.org/blog/mdbr-stops-ransomware-phishing-malware-and-more/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MDBR service from CIS is available at no cost to all U.S. SLTT organizations, as well as all public and private hospitals in the U.S., in partnership with technology provider Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+CIS
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Home Affairs asks for a rush on Critical Infrastructure Bill to allow ASD to act lawfully<a href="https://www.zdnet.com/article/home-affairs-asks-for-a-rush-on-critical-infrastructure-bill-to-allow-asd-to-act-lawfully/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Home Affairs has requested a rush for the passage of the country's looming critical infrastructure Bill, saying the sector specific rules could be nutted out following Royal Assent.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 India: Delhi government plans IT shield to ward off cyber threats<a href="https://timesofindia.indiatimes.com/city/delhi/delhi-govt-plans-it-shield-to-ward-off-cyber-threats/articleshow/84841270.cms?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

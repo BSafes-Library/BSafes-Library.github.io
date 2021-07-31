@@ -11,6 +11,62 @@ nav_order: 900027
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google claims no instances of foreign interference campaigns targeting Australia<a href="https://www.zdnet.com/article/google-claims-no-instances-of-foreign-interference-campaigns-targeting-australia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While conceding that foreign interference campaigns on its platforms targeting other jurisdictions have made their way to Australia, Google said none pursued the country specifically.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EY Australia acquires Melbourne MSP SecureWorx<a href="https://www.crn.com.au/news/ey-australia-acquires-melbourne-msp-secureworx-568041?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based in Melbourne, SecureWorx specializes in multi-cloud services, managed security operations, and security advisory services for customers dealing with sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon gets $888 million GDPR fine for behavioral advertising<a href="https://www.bleepingcomputer.com/news/technology/amazon-gets-888-million-gdpr-fine-for-behavioral-advertising/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon has quietly been hit with a record-breaking&nbsp;€746 million fine for alleged GDPR violations regarding how it performs targeted behavioral advertising.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm, now valued at $500M+<a href="https://finance.yahoo.com/news/activefence-comes-shadows-100m-funding-050802629.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ActiveFence has quietly built a tech platform to filter out threats as they are being formed and planned to make it easier for trust and safety teams to combat them on platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google to block logins on old Android devices starting September<a href="https://www.bleepingcomputer.com/news/google/google-to-block-logins-on-old-android-devices-starting-september/"> Full Text</a>
 </p>
 <details>

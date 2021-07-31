@@ -11,6 +11,20 @@ nav_order: 900015
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+An Indian firm facing 1,738 cyber attacks a week on average, claims report<a href="https://ciso.economictimes.indiatimes.com/news/an-indian-firm-facing-1738-cyber-attacks-a-week-on-average-claims-report/84879895?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organization in India faced cyberattack 1,738 times on average per week in the last six months compared to 757 attacks per organization globally, a report showed on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Entertainment Tech Provider D-Box Discloses Ransomware Attack Impacting IT Systems<a href="https://portswigger.net/daily-swig/entertainment-tech-provider-d-box-recovering-from-ransomware-attack?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
