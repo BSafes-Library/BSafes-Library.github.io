@@ -34,6 +34,154 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://therecord.media/doj-says-solarwinds-hack-impacted-27-state-attorneys-offices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian hackers who orchestrated the SolarWinds supply chain attack pivoted to the internal network of the US DoJ, from where they gained access to Microsoft Office 365 email accounts belonging to employees at 27 state attorneys’ offices.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Banking Trojan Vultur uses screen recording for credentials stealing<a href="https://securityaffairs.co/wordpress/120696/malware/android-banking-trojan-vultur.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new strain of Android banking Trojan dubbed Vultur that uses screen recording and keylogging for the capturing of login credentials. 
+
+
+
+ThreatFabric researchers discovered a new Android banking Trojan, tracked as Vultur, that uses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Shares More Information on Protecting Systems Against PetitPotam Attacks<a href="https://www.securityweek.com/microsoft-shares-more-information-protecting-systems-against-petitpotam-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PetitPotam is the name assigned to a vulnerability that can be exploited by an unauthenticated attacker to get a targeted server to connect to an arbitrary server and perform NTLM authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evidence suggests Russia's SVR is still using 'WellMess' malware, despite US warnings<a href="https://www.cyberscoop.com/riskiq-apt29-cozy-bear-c2-wellmess-biden-putin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RiskIQ said in a report that it uncovered active hacking infrastructure that Western governments attributed last summer to the Russian SVR intelligence agency-linked APT29 or Cozy Bear, which it used at the time to try to steal Covid-19 research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attempt volume sets record, reaches more than 300 million for first half of 2021: SonicWall<a href="https://www.zdnet.com/article/ransomware-attack-volume-sets-record-reaches-more-than-300-million-for-first-half-of-2021-sonicwall/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from SonicWall found that attempted ransomware attacks skyrocketed in the first half of 2021, with 304.7 million attempted attacks seen by SonicWall's security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: This Windows and Linux malware does everything it can to stay on your network<a href="https://www.zdnet.com/article/microsoft-this-unusual-windows-and-linux-malware-does-everything-it-can-to-stay-on-your-network/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has continued its analysis of the LemonDuck malware, known for installing crypto-miners in enterprise environments. It makes a strong case for why it is worth removing it from your network.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's 30 servers Russian intelligence uses to fling malware at the West, beams RiskIQ<a href="https://www.theregister.com/2021/07/30/riskiq_reveals_30_svr_apt29_c2_servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of 30 servers thought to be used by Russia's SVR spy agency (aka APT29) as part of its ongoing campaigns to steal Western intellectual property were made public today by RiskIQ.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PayPal Credential Phishing Scam Conducted Via Live Chat Service<a href="https://heimdalsecurity.com/blog/new-paypal-credential-phishing-scam-conducted-via-live-chat-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As credential phishing is usually conducted via a simple URL link, it is easy to overlook some subtle or exaggerated tactics that threat actors have been using to steal credentials from unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hackers accessed over two dozen federal prosecutors' offices: DOJ<a href="https://thehill.com//policy/cybersecurity/565751-doj-says-solarwinds-hackers-accessed-over-two-dozen-prosecutors-offices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) said Friday that the hackers behind the major SolarWinds attack compromised employee accounts in more than two dozen federal prosecutors’ offices. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
