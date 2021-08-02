@@ -34,6 +34,9 @@ Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-reveals-top-targeted-vulnerabilities-of-the-last-two-years/ 
 . https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/
 . https://www.bleepingcomputer.com/news/security/cisa-launches-vulnerability-disclosure-platform-for-federal-agencies/
+. https://www.bleepingcomputer.com/news/security/fbi-warns-investors-of-fraudsters-posing-as-brokers-and-advisers/
+. https://therecord.media/doj-says-solarwinds-hack-impacted-27-state-attorneys-offices/?&web_view=true
+
 
 Law:
 

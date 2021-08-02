@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+August 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 325<a href="https://securityaffairs.co/wordpress/120717/breaking-news/security-affairs-newsletter-round-325.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe&nbsp;here.  
+
+
+
+Crooks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attempt volume sets record, reaches more than 300 million for first half of 2021: SonicWall<a href="https://www.zdnet.com/article/ransomware-attack-volume-sets-record-reaches-more-than-300-million-for-first-half-of-2021-sonicwall/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from SonicWall found that attempted ransomware attacks skyrocketed in the first half of 2021, with 304.7 million attempted attacks seen by SonicWall's security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's 30 servers Russian intelligence uses to fling malware at the West, beams RiskIQ<a href="https://www.theregister.com/2021/07/30/riskiq_reveals_30_svr_apt29_c2_servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of 30 servers thought to be used by Russia's SVR spy agency (aka APT29) as part of its ongoing campaigns to steal Western intellectual property were made public today by RiskIQ.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

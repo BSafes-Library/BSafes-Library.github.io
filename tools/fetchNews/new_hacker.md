@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEmperor, a new Chinese-speaking threat actor targets Southeast Asia<a href="https://securityaffairs.co/wordpress/120721/apt/ghostemperor-chinese-speaking-threat-actor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky experts spotted a previously undocumented Chinese-speaking threat actor, tracked as GhostEmperor, that is targeting Microsoft Exchange flaws in attacks on high-profile victims.
+
+
+
+Kaspersky spotted a new Chinese-speaking threat actor, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evidence suggests Russia's SVR is still using 'WellMess' malware, despite US warnings<a href="https://www.cyberscoop.com/riskiq-apt29-cozy-bear-c2-wellmess-biden-putin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RiskIQ said in a report that it uncovered active hacking infrastructure that Western governments attributed last summer to the Russian SVR intelligence agency-linked APT29 or Cozy Bear, which it used at the time to try to steal Covid-19 research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hackers accessed over two dozen federal prosecutors' offices: DOJ<a href="https://thehill.com//policy/cybersecurity/565751-doj-says-solarwinds-hackers-accessed-over-two-dozen-prosecutors-offices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) said Friday that the hackers behind the major SolarWinds&nbsp;attack compromised employee accounts in&nbsp;more than two dozen federal prosecutors’ offices. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

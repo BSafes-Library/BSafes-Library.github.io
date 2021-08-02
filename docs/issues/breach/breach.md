@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors leaked data stolen from EA, including FIFA code<a href="https://securityaffairs.co/wordpress/120711/data-breach/ea-stolen-data-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors that hacked Electronic Arts in June have leaked full data dump stolen from the company after the failure of the negotiation with the victim.
+
+
+
+In June, hackers have compromised the network of the gaming giant&nbsp;Electronic Arts (EA) and claimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds hackers breached 27 state attorneys’ offices<a href="https://securityaffairs.co/wordpress/120704/cyber-warfare-2/solarwinds-hackers-breached-state-attorneys-offices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Office 365 email accounts&nbsp;of employees at 27 US Attorneys' offices were breached by the&nbsp;Russia-linked SVR group as part of the&nbsp;SolarWinds hack, DoJ warns. 
+
+
+
+The US&nbsp;Department of Justice revealed that the Microsoft Office 365 email accounts&nbsp;of...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://therecord.media/doj-says-solarwinds-hack-impacted-27-state-attorneys-offices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian hackers who orchestrated the SolarWinds supply chain attack pivoted to the internal network of the US DoJ, from where they gained access to Microsoft Office 365 email accounts belonging to employees at 27 state attorneys’ offices.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
