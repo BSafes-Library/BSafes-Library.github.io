@@ -30,6 +30,18 @@ The government industry was one of three main industries where 95% of all record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Problem of Pornography [HTML](https://archive-1.bsafes.com/docs/T/The-Problem-of-Pornography/)
+</p>
+<details>
+  <summary>Abstract</summary>
+His eyes met mine as he scoffed, “It’s just videos. It’s not like it’s real or anything. It’s not that big of a deal!” It should not have surprised me then, that our relationship would end with his gaze trailing another woman, as he had spent so much of the years we dated with his eyes lingering on other women on screens, pages, and incognito tabs on his phone.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
