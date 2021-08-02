@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2021
+August 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bot protection now generally available in Azure Web Application Firewall<a href="https://www.bleepingcomputer.com/news/security/bot-protection-now-generally-available-in-azure-web-application-firewall/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2021
+August 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostEmperor, a new Chinese-speaking threat actor targets Southeast Asia<a href="https://securityaffairs.co/wordpress/120721/apt/ghostemperor-chinese-speaking-threat-actor.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 01, 2021
+August 01, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bot protection now generally available in Azure Web Application Firewall<a href="https://www.bleepingcomputer.com/news/microsoft/bot-protection-now-generally-available-in-azure-web-application-firewall/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2021
+August 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 325<a href="https://securityaffairs.co/wordpress/120717/breaking-news/security-affairs-newsletter-round-325.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware gang returns as new BlackMatter operation<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-gang-returns-as-new-blackmatter-operation/"> Full Text</a>
@@ -126,7 +126,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors leaked data stolen from EA, including FIFA code<a href="https://securityaffairs.co/wordpress/120711/data-breach/ea-stolen-data-leaked.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote print server gives anyone Windows admin privileges on a PC<a href="https://www.bleepingcomputer.com/news/microsoft/remote-print-server-gives-anyone-windows-admin-privileges-on-a-pc/"> Full Text</a>
@@ -162,7 +162,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hackers breached 27 state attorneys’ offices<a href="https://securityaffairs.co/wordpress/120704/cyber-warfare-2/solarwinds-hackers-breached-state-attorneys-offices.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware gang rises from the ashes of DarkSide, REvil<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-gang-rises-from-the-ashes-of-darkside-revil/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns investors of fraudsters posing as brokers and advisers<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-investors-of-fraudsters-posing-as-brokers-and-advisers/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ: SolarWinds hackers breached emails from 27 US Attorneys’ offices<a href="https://therecord.media/doj-says-solarwinds-hack-impacted-27-state-attorneys-offices/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Banking Trojan Vultur uses screen recording for credentials stealing<a href="https://securityaffairs.co/wordpress/120696/malware/android-banking-trojan-vultur.html"> Full Text</a>
@@ -250,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Shares More Information on Protecting Systems Against PetitPotam Attacks<a href="https://www.securityweek.com/microsoft-shares-more-information-protecting-systems-against-petitpotam-attacks?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evidence suggests Russia's SVR is still using 'WellMess' malware, despite US warnings<a href="https://www.cyberscoop.com/riskiq-apt29-cozy-bear-c2-wellmess-biden-putin/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attempt volume sets record, reaches more than 300 million for first half of 2021: SonicWall<a href="https://www.zdnet.com/article/ransomware-attack-volume-sets-record-reaches-more-than-300-million-for-first-half-of-2021-sonicwall/?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: This Windows and Linux malware does everything it can to stay on your network<a href="https://www.zdnet.com/article/microsoft-this-unusual-windows-and-linux-malware-does-everything-it-can-to-stay-on-your-network/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here's 30 servers Russian intelligence uses to fling malware at the West, beams RiskIQ<a href="https://www.theregister.com/2021/07/30/riskiq_reveals_30_svr_apt29_c2_servers/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2021
+July 31, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PayPal Credential Phishing Scam Conducted Via Live Chat Service<a href="https://heimdalsecurity.com/blog/new-paypal-credential-phishing-scam-conducted-via-live-chat-service/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2021
+July 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds hackers accessed over two dozen federal prosecutors' offices: DOJ<a href="https://thehill.com//policy/cybersecurity/565751-doj-says-solarwinds-hackers-accessed-over-two-dozen-prosecutors-offices"> Full Text</a>

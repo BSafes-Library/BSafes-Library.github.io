@@ -6,6 +6,54 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021 - DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA ANNOUNCES NEW VULNERABILITY DISCLOSURE POLICY (VDP) PLATFORM <a href="https://www.cisa.gov/blog/2021/07/29/cisa-announces-new-vulnerability-disclosure-policy-vdp-platform"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last fall, we issued the final version of Binding Operational Directive (BOD 20-01), which was issued in support of the Office of Management and Budget M-20-32, “Improving Vulnerability Identification, Management, and Remediation”. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021 - DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Routinely Exploited Vulnerabilities <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-209a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This advisory provides details on the top 30 vulnerabilities—primarily Common Vulnerabilities and Exposures (CVEs)—routinely exploited by malicious cyber actors in 2020 and those being widely exploited thus far in 2021.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2021 - DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Posing as Brokers or Investment Advisers – Investor Alert <a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/fraudsters"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraudsters may falsely claim to be registered with the Securities and Exchange Commission (SEC), the Financial Industry Regulatory Authority (FINRA) or a state securities regulator in order to lure investors into scams, or even impersonate real investment professionals who actually are registered with these organizations. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2021 - DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Pulse Connect Secure Vulnerabilities <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-110a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On March 31, 2021, Ivanti released the Pulse Secure Connect Integrity Tool to detect the integrity of Pulse Connect Secure appliances. Their technical bulletin states ...
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 21, 2021 - DHS
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
