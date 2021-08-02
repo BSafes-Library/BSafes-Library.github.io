@@ -513,6 +513,18 @@ Many online chat applications live in a grey area between the legitimate web and
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Exposure to Pornography Among Young Eritreans - An Exploratory Study [HTML](https://papers.bsafes.com/docs/pornography/Exposure-to-Pornography-Among-Young-Eritreans-An-Exploratory-Study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The pornography industry is a multibillion-dollar global industry, and it has been normalized in many aspects of popular culture. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack [HTML](https://papers.bsafes.com/docs/cybercrime/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
 </p>
 <details>
