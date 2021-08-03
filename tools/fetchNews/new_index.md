@@ -34,6 +34,423 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome to no longer show secure website indicators<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-no-longer-show-secure-website-indicators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome will no longer show whether a site you are visiting is secure and only show when you visit an insecure website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This new phishing attack is 'sneakier than usual', Microsoft warns<a href="https://www.zdnet.com/article/microsoft-watch-out-for-this-sneakier-than-usual-phishing-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Security Intelligence team has issued an alert to Office 365 users and admins to be on the lookout for a "crafty" phishing email with spoofed sender addresses.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Social media giants fail to block 84 percent of antisemitic content: report | White House cyber chief backs new federal bureau to track threats<a href="https://thehill.com//policy/technology/overnights/566017-hillicon-valley-social-media-giants-fail-to-block-84-percent-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report published Monday found that social media platforms are failing to block the vast majority of reported antisemitic content, with Facebook and Twitter in particular showing the “poorest rate of enforcement action.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper PTS Security Flaws Threaten 80% of Hospitals in the U.S.<a href="https://thehackernews.com/2021/08/pwnedpiper-pts-security-flaws-threaten.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed a set of nine vulnerabilities known as " PwnedPiper " that left a widely-used pneumatic tube system (PTS) vulnerable to critical attacks, including a possibility of complete takeover.  The security weaknesses, disclosed by American cybersecurity firm Armis, impact the Translogic PTS system by Swisslog Healthcare, which is installed in about 80% of all major hospitals in North America and in no fewer than 3,000 hospitals worldwide.   "These vulnerabilities can enable an unauthenticated attacker to take over Translogic PTS stations and essentially gain complete control over the PTS network of a target hospital," Armis researchers Ben Seri and Barak Hadad said. "This type of control could enable sophisticated and worrisome ransomware attacks, as well as allow attackers to leak sensitive hospital information."  Pneumatic tube systems are internal logistics and transport solutions that are used to transport blood s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Responsible Cyber Offense<a href="https://www.lawfareblog.com/responsible-cyber-offense"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive operations will continue apace in the foreseeable future—conducted by the United States, its allies and its adversaries. The choice is whether and how to engage in them responsibly and minimize cost to societies.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do You Trust Your Smart TV?<a href="https://securityaffairs.co/wordpress/120752/iot/smart-tv-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Did you ever stop to think that the office smart TV used for company presentations, Zoom meetings, and other work-related activities may not be so trustworthy?
+
+
+
+In our latest video, we demonstrate an attack scenario that can occur within any organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘PwnedPiper’: Devastating Bugs in >80% of Hospital Pneumatics<a href="https://threatpost.com/pwnedpiper-bugs-hospital-pneumatics/168277/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Podcast: Blood samples aren’t martinis. You can’t shake them. But bugs in pneumatic control systems could lead to that, RCE or ransomware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PetitPotam attacks can be blocked using new method<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-attacks-can-be-blocked-using-new-method/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have devised a way to block the recently disclosed PetitPotam attack vector that allows hackers to take control of a Windows domain controller easily.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six Ways Malicious Linux Shell Scripts Evade Defenses<a href="https://cyware.com/news/six-ways-malicious-linux-shell-scripts-evade-defenses-3806f478"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using shell scripts in various sophisticated evasion techniques. Security analysts published a report describing six ways hackers use malicious Linux shell scripts to hide their attacks. They strongly recommend the use of EDR systems for monitoring suspicious events, processes, a ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House cyber chief backs new federal bureau to track threats<a href="https://thehill.com//policy/cybersecurity/566007-white-house-cyber-chief-backs-new-federal-bureau-to-track-cyber-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Cyber Director Chris Inglis on Monday made the case for establishing an office within the Department of Homeland Security (DHS) to track and analyze cybersecurity incidents in order to ensure the nation has an early warning system to understand adversary efforts to target U.S. organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Hacking Group Targets Microsoft IIS Servers with ASP.NET Exploits<a href="https://thehackernews.com/2021/08/new-apt-hacking-group-targets-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new highly capable and persistent threat actor has been targeting major high-profile public and private entities in the U.S. as part of a series of targeted cyber intrusion attacks by exploiting internet-facing Microsoft Internet Information Services ( IIS ) servers to infiltrate their networks.  Israeli cybersecurity firm Sygnia, which identified the campaign, is tracking the advanced, stealthy adversary under the moniker "Praying Mantis" or "TG2021."   "TG1021 uses a custom-made malware framework, built around a common core, tailor-made for IIS servers. The toolset is completely volatile, reflectively loaded into an affected machine's memory and leaves little-to-no trace on infected targets," the researchers  said . "The threat actor also uses an additional stealthy backdoor and several post-exploitations modules to perform network reconnaissance, elevate privileges, and move laterally within networks."    Besides exhibiting capabilities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper flaws in PTS systems affect 80% of major US hospitals<a href="https://securityaffairs.co/wordpress/120741/hacking/pwnedpiper-flaws-pts-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers disclosed multiple flaws, dubbed PwnedPiper, that left a widely-used pneumatic tube system (PTS) vulnerable to attacks. 
+
+
+
+Researchers from cybersecurity Armis disclosed a set of nine vulnerabilities collectively tracked as PwnedPiper...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper critical bug set impacts major hospitals in North America<a href="https://www.bleepingcomputer.com/news/security/pwnedpiper-critical-bug-set-impacts-major-hospitals-in-north-america/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pneumatic tube system (PTS) stations used in thousands of hospitals worldwide are vulnerable to a set of nine critical security issues collectively referred to as PwnedPiper.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations still rely on weak security for remote workers<a href="https://www.helpnetsecurity.com/2021/08/02/weak-security-remote-workers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new survey of IT security leaders showed almost 80 percent believe remote workers are at more risk for phishing attacks now because they’re isolated from their organizations’ security teams.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Python Package Repository Patches Critical Supply Chain Flaw<a href="https://thehackernews.com/2021/08/pypi-python-package-repository-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Python Package Index (PyPI) last week issued fixes for three vulnerabilities, one among which could be abused to achieve arbitrary code execution and take full control of the official third-party software repository.  The security weaknesses were  discovered  and reported by Japanese security researcher RyotaK, who in the past has disclosed critical vulnerabilities in the  Homebrew Cask repository  and Cloudflare's  CDNJS library . He was awarded a total of $3,000 as part of the bug bounty program.   The list of three vulnerabilities is as follows -   Vulnerability in Legacy Document Deletion on PyPI  - An exploitable vulnerability in the mechanisms for deleting legacy documentation hosting deployment tooling on PyPI, which would allow an attacker to remove documentation for projects not under their control.  Vulnerability in Role Deletion on PyPI  - An exploitable vulnerability in the mechanisms for deleting roles on PyPI was discovered by a security researcher
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More evidence suggests that DarkSide and BlackMatter are the same group<a href="https://securityaffairs.co/wordpress/120732/cyber-crime/darkside-blackmatter-ransomware-similarities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found evidence that the DarkSide ransomware gang has rebranded as a new BlackMatter ransomware operation.
+
+
+
+BleepingComputer found evidence that after the clamorous Colonia Pipeline attack, the DarkSide ransomware gang has rebranded as a new BlackMatter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer’s Rebranding as Grief<a href="https://cyware.com/news/doppelpaymers-rebranding-as-grief-75570226"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoppelPaymer ransomware operation was rebranded as Grief with identical encryption algorithms, i.e. 2048-bit RSA and 256-bit AES and other minor code changes. The new effort by DoppelPaymer appears to be more about staying low profile than going sophisticated in nature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solarmarker InfoStealer Malware Once Again Making its Way Into the Wild<a href="https://thehackernews.com/2021/08/solarmarker-infostealer-malware-once.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare and education sectors are the frequent targets of a new surge in credential harvesting activity from what's a "highly modular" .NET-based information stealer and keylogger, charting the course for the threat actor's continued evolution while simultaneously remaining under the radar.  Dubbed " Solarmarker ," the malware campaign is believed to be active since September 2020, with telemetry data pointing to malicious actions as early as April 2020, according to Cisco Talos. "At its core, the Solarmarker campaign appears to be conducted by a fairly sophisticated actor largely focused on credential and residual information theft," Talos researchers Andrew Windsor and Chris Neal  said  in a technical write-up published last week.   Infections consist of multiple moving parts, chief among them being a .NET assembly module that serves as a system profiler and staging ground on the victim host for command-and-control (C2) communications and fur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Download Manager Plugin was affected by two flaws<a href="https://securityaffairs.co/wordpress/120724/breaking-news/wordpress-download-manager-plugin-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit a vulnerability in the WordPress Download Manager plugin, tracked as CVE-2021-34639, to execute arbitrary code under specific configurations.
+
+
+
+Researchers from Wordfence team discovered a vulnerability, tracked as CVE-2021-34639,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK universities awarded funding for research into IoT, smart home security<a href="https://portswigger.net/daily-swig/uk-universities-awarded-funding-for-research-into-iot-smart-home-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of British universities have been awarded a grant to explore the security issues surrounding IoT and smart home devices, as well as to determine ways to warn consumers of the risks.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thailand's Vaccine Appointment Registration Platform Leaks Over 20,000 Applicants' Emails and Personal Details<a href="https://thethaiger.com/coronavirus/foreigners-able-to-register-on-vaccine-site-despite-data-leaks-glitches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Screenshots of publicly accessible backdoors that revealed the emails and personal details of over 20,000 applicants started appearing online raising safety and privacy concerns.
+</details>
+<div style="text-align: right" markdown="1">
+Thaiger
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GhostEmperor Chinese-speaking Threat Actor Targets Southeast Asian Countries<a href="https://securityaffairs.co/wordpress/120721/apt/ghostemperor-chinese-speaking-threat-actor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky spotted a new Chinese-speaking threat actor, tracked as GhostEmperor, that is targeting Microsoft Exchange vulnerabilities in attacks aimed at high-profile victims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Agrees to Settle Lawsuit Over ‘Zoombombing’<a href="https://www.nytimes.com/2021/08/01/technology/zoom-lawsuit-zoombombing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The videoconferencing company said it would pay $85 million to settle the suit, which claimed that it violated users’ privacy, in part by allowing hackers to interrupt online meetings.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WeTransfer phishing attack spoofs file-sharing to steal credential<a href="https://www.hackread.com/wetransfer-phishing-attack-spoofs-steal-credential/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email appears to be sent by WeTransfer as it bears the sender name Wetransfer and has the title View Files Sent Via WeTransfer. The similarity is enough to come across as a genuine email.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Leak 751GB Data Stolen from Electronic Arts Including Game Source Code, Internal Tools<a href="https://therecord.media/hackers-leak-full-ea-data-after-failed-extortion-attempt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a copy of the dump obtained by The Record, the leaked files contain the source code of the FIFA 21 soccer game, including tools to support the company’s server-side services.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
