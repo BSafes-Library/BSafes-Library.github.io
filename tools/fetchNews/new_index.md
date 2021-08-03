@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ivanti acquires cybersecurity startup RiskSense<a href="https://siliconangle.com/2021/08/02/ivanti-acquires-cybersecurity-startup-risksense/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti announced it has acquired vulnerability management software provider RiskSense to drive the next evolution of patch management. The terms of the RiskSense transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed Remote Code Execution issue in Firepower Device Manager On-Box software<a href="https://securityaffairs.co/wordpress/120761/security/cisco-firepower-device-manager.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a vulnerability in the Firepower Device Manager (FDM) On-Box software that allows attackers to execute arbitrary code on vulnerable devices. 
+
+
+
+Cisco has addressed a vulnerability in the Firepower Device Manager (FDM) On-Box software,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE Cybersecurity Council launches ‘National Bug Bounty Programme’<a href="https://www.khaleejtimes.com/business/local/uae-cybersecurity-council-launches-national-bug-bounty-programme?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to promote the culture of cybersecurity and protect the country’s digital transformation and overall achievements in line with the country's leadership directives.
+</details>
+<div style="text-align: right" markdown="1">
+Khaleej Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Code Execution Flaw Found in Cisco Firepower Device Manager On-Box Software<a href="https://www.securityweek.com/code-execution-flaw-found-cisco-firepower-device-manager-box-software?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +102,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2021
+August 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target Major Southeast Asian Telecom Companies<a href="https://thehackernews.com/2021/08/chinese-hackers-target-major-southeast.html"> Full Text</a>
@@ -66,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found potential remote code execution in PyPI<a href="https://securityaffairs.co/wordpress/120755/hacking/pypi-potential-rce.html"> Full Text</a>
@@ -86,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CDW acquires Focal Point to enhance its identity management and data protection services<a href="https://www.helpnetsecurity.com/2021/08/03/cdw-focal-point/?&web_view=true"> Full Text</a>
@@ -102,7 +154,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2021
+August 03, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cynet Empowers IT Resellers and Service Providers to Become Fully Qualified MSSPs<a href="https://thehackernews.com/2020/01/managed-cybersecurity-services.html"> Full Text</a>
@@ -118,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Household Data of 35 Million US Residents Exposed in Database Misconfiguration<a href="https://www.hackread.com/household-data-database-us-residents-exposed/?&web_view=true"> Full Text</a>
@@ -134,7 +186,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regulations against ransomware payment not ideal solution<a href="https://www.zdnet.com/article/regulations-against-ransomware-payment-not-ideal-solution/?&web_view=true"> Full Text</a>
@@ -150,7 +202,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APTs Launched DeadRinger Campaign to Strike Major Telecommunications Companies in Southeast Asia<a href="https://www.zdnet.com/article/deadringer-chinese-apts-strike-major-telecommunications-companies/?&web_view=true"> Full Text</a>
@@ -166,7 +218,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Continues its Marathon to New Records: Report<a href="https://cisomag.eccouncil.org/ransomware-continues-its-marathon-to-new-records-report/?&web_view=true"> Full Text</a>
@@ -182,7 +234,7 @@ EC Council
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vaccination Registration System of Italy’s Lazio Region Goes Down in Apparent Ransomware Attack<a href="https://www.nbcnews.com/tech/tech-news/italian-vaccine-registration-system-down-apparent-ransomware-attack-n1275757?&web_view=true"> Full Text</a>
@@ -198,7 +250,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Record by Recorded Future<a href="https://therecord.media/cyber-highlights-in-the-massive-infrastructure-spending-deal/?&web_view=true"> Full Text</a>
