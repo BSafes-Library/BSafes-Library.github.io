@@ -34,6 +34,186 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code Execution Flaw Found in Cisco Firepower Device Manager On-Box Software<a href="https://www.securityweek.com/code-execution-flaw-found-cisco-firepower-device-manager-box-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking giant Cisco has addressed a vulnerability in the Firepower Device Manager (FDM) On-Box software that could be exploited to gain code execution on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Major Southeast Asian Telecom Companies<a href="https://thehackernews.com/2021/08/chinese-hackers-target-major-southeast.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three distinct clusters of malicious activities operating on behalf of Chinese state interests have staged a series of attacks to target networks belonging to at least five major telecommunications companies located in Southeast Asian countries since 2017.  "The goal of the attackers behind these intrusions was to gain and maintain continuous access to telecommunication providers and to facilitate cyber espionage by collecting sensitive information, compromising high-profile business assets such as the billing servers that contain Call Detail Record (CDR) data, as well as key network components such as the Domain Controllers, Web Servers and Microsoft Exchange servers," Cybereason's Lior Rochberger, Tom Fakterman, Daniel Frank, and Assaf Dahan  revealed  in a technical analysis published Tuesday.   The Boston-based cybersecurity firm linked the campaigns to three different Chinese threat actors, namely  Gallium  (aka Soft Cell),  Naikon  APT (aka APT30 or Lotus Panda), a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found potential remote code execution in PyPI<a href="https://securityaffairs.co/wordpress/120755/hacking/pypi-potential-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the GitHub Actions workflow for PyPI ’s source repository could be exploited to potentially execute arbitrary code on pypi.org.
+
+
+
+Security researcher RyotaK disclosed three flaws in PyPI, the most severe one could potentially lead to the compromise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CDW acquires Focal Point to enhance its identity management and data protection services<a href="https://www.helpnetsecurity.com/2021/08/03/cdw-focal-point/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CDW announced that it has acquired Focal Point Data Risk, a U.S-based provider of cybersecurity services with customers across a diverse set of industries. Terms of the transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet Empowers IT Resellers and Service Providers to Become Fully Qualified MSSPs<a href="https://thehackernews.com/2020/01/managed-cybersecurity-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cyber incidents increase in scope and impact, more and more organizations come to realize that outsourcing their defenses is the best practice—significantly increasing the Managed Security Service Provider (MSSP) market opportunities.   Until recently, IT integrators, VARs, and MSPs haven't participated in the growing and profitable MSSP market as it entailed massive investments in building an in-house skilled security team.   However, this is beginning to change as a result of certain security vendors, like Cynet, that provide a purpose-built partner offering that enables IT integrators, VARs, and MSPs to provide managed security service with zero investment in hardware or personnel.   Their offering includes a 24/7 SOC that trains and supports the partner's existing team and a security platform that consolidates and automates breach protection (including endpoint, user, and network security), making it simple to operate by any IT professional.   To learn more about th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Household Data of 35 Million US Residents Exposed in Database Misconfiguration<a href="https://www.hackread.com/household-data-database-us-residents-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Elasticsearch database was left exposed without any security authentication which means it could have been accessed by anyone with access to a web browser, and a valid URL.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulations against ransomware payment not ideal solution<a href="https://www.zdnet.com/article/regulations-against-ransomware-payment-not-ideal-solution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paying the ransoms not only encourages threat actors to engage in future ransomware attacks, but also provides funds for these groups to act against nations, governments, and foreign policy interests.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APTs Launched DeadRinger Campaign to Strike Major Telecommunications Companies in Southeast Asia<a href="https://www.zdnet.com/article/deadringer-chinese-apts-strike-major-telecommunications-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason believes the attacks are the work of advanced persistent threat (APT) groups linked to Chinese state-sponsorship due to overlaps in tactics and techniques with other known Chinese APTs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Continues its Marathon to New Records: Report<a href="https://cisomag.eccouncil.org/ransomware-continues-its-marathon-to-new-records-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals always aim high when targeting organizations and demanding ransom. The pandemic has given opportunistic hackers time to come up with innovative phishing attacks and extortion schemes.
+</details>
+<div style="text-align: right" markdown="1">
+EC Council
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vaccination Registration System of Italy’s Lazio Region Goes Down in Apparent Ransomware Attack<a href="https://www.nbcnews.com/tech/tech-news/italian-vaccine-registration-system-down-apparent-ransomware-attack-n1275757?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have attacked the vaccination registration system in one of Italy’s largest regions, temporarily blocking residents from booking new vaccination appointments, officials said.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/cyber-highlights-in-the-massive-infrastructure-spending-deal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan physical infrastructure deal unveiled on Sunday contains several cybersecurity provisions, including some meant to bolster state and local digital efforts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

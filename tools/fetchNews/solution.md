@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PetitPotam attacks can be blocked using new method<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-attacks-can-be-blocked-using-new-method/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have devised a way to block the recently disclosed PetitPotam attack vector that allows hackers to take control of a Windows domain controller easily.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

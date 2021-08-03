@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Hacking Group Targets Microsoft IIS Servers with ASP.NET Exploits<a href="https://thehackernews.com/2021/08/new-apt-hacking-group-targets-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new highly capable and persistent threat actor has been targeting major high-profile public and private entities in the U.S. as part of a series of targeted cyber intrusion attacks by exploiting internet-facing Microsoft Internet Information Services ( IIS ) servers to infiltrate their networks.  Israeli cybersecurity firm Sygnia, which identified the campaign, is tracking the advanced, stealthy adversary under the moniker "Praying Mantis" or "TG2021."   "TG1021 uses a custom-made malware framework, built around a common core, tailor-made for IIS servers. The toolset is completely volatile, reflectively loaded into an affected machine's memory and leaves little-to-no trace on infected targets," the researchers&nbsp; said . "The threat actor also uses an additional stealthy backdoor and several post-exploitations modules to perform network reconnaissance, elevate privileges, and move laterally within networks."&nbsp;   Besides exhibiting capabilities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

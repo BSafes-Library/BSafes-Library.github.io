@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome to no longer show secure website indicators<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-no-longer-show-secure-website-indicators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome will no longer show whether a site you are visiting is secure and only show when you visit an insecure website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Social media giants fail to block 84 percent of antisemitic content: report | White House cyber chief backs new federal bureau to track threats<a href="https://thehill.com//policy/technology/overnights/566017-hillicon-valley-social-media-giants-fail-to-block-84-percent-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report published Monday found that social media platforms are failing to block the vast majority of reported antisemitic content, with Facebook and Twitter in particular showing the “poorest rate of enforcement action.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do You Trust Your Smart TV?<a href="https://securityaffairs.co/wordpress/120752/iot/smart-tv-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Did you ever stop to think that the office smart TV used for company presentations, Zoom meetings, and other work-related activities may not be so trustworthy?
+
+
+
+In our latest video, we demonstrate an attack scenario that can occur within any organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations still rely on weak security for remote workers<a href="https://www.helpnetsecurity.com/2021/08/02/weak-security-remote-workers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new survey of IT security leaders showed almost 80 percent believe remote workers are at more risk for phishing attacks now because they’re isolated from their organizations’ security teams.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GhostEmperor Chinese-speaking Threat Actor Targets Southeast Asian Countries<a href="https://securityaffairs.co/wordpress/120721/apt/ghostemperor-chinese-speaking-threat-actor.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky spotted a new Chinese-speaking threat actor, tracked as GhostEmperor, that is targeting Microsoft Exchange vulnerabilities in attacks aimed at high-profile victims.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

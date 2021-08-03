@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More evidence suggests that DarkSide and BlackMatter are the same group<a href="https://securityaffairs.co/wordpress/120732/cyber-crime/darkside-blackmatter-ransomware-similarities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found evidence that the DarkSide ransomware gang has rebranded as a new BlackMatter ransomware operation.
+
+
+
+BleepingComputer found evidence that after the clamorous Colonia Pipeline attack, the DarkSide ransomware gang has rebranded as a new BlackMatter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Leak 751GB Data Stolen from Electronic Arts Including Game Source Code, Internal Tools<a href="https://therecord.media/hackers-leak-full-ea-data-after-failed-extortion-attempt/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a copy of the dump obtained by The Record, the leaked files contain the source code of the FIFA 21 soccer game, including tools to support the company’s server-side services.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

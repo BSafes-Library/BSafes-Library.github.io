@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APTs Launched DeadRinger Campaign to Strike Major Telecommunications Companies in Southeast Asia<a href="https://www.zdnet.com/article/deadringer-chinese-apts-strike-major-telecommunications-companies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason believes the attacks are the work of advanced persistent threat (APT) groups linked to Chinese state-sponsorship due to overlaps in tactics and techniques with other known Chinese APTs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
