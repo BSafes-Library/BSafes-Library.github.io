@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PayPal Credential Phishing Scam Conducted Via Live Chat Service<a href="https://heimdalsecurity.com/blog/new-paypal-credential-phishing-scam-conducted-via-live-chat-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As credential phishing is usually conducted via a simple URL link, it is easy to overlook some subtle or exaggerated tactics that threat actors have been using to steal credentials from unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

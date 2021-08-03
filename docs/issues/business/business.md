@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Agrees to Settle Lawsuit Over ‘Zoombombing’<a href="https://www.nytimes.com/2021/08/01/technology/zoom-lawsuit-zoombombing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The videoconferencing company said it would pay $85 million to settle the suit, which claimed that it violated users’ privacy, in part by allowing hackers to interrupt online meetings.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

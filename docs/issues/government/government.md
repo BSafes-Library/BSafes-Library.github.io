@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Responsible Cyber Offense<a href="https://www.lawfareblog.com/responsible-cyber-offense"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive operations will continue apace in the foreseeable future—conducted by the United States, its allies and its adversaries. The choice is whether and how to engage in them responsibly and minimize cost to societies.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House cyber chief backs new federal bureau to track threats<a href="https://thehill.com//policy/cybersecurity/566007-white-house-cyber-chief-backs-new-federal-bureau-to-track-cyber-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Cyber Director Chris Inglis on Monday made the case for establishing an office within the Department of Homeland Security (DHS) to track and analyze cybersecurity incidents in order to ensure the nation has an early warning system to&nbsp;understand adversary efforts to target U.S. organizations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

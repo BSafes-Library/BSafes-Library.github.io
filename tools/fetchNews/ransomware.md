@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware gang returns as new BlackMatter operation<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-gang-returns-as-new-blackmatter-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Encryption algorithms found in a decryptor show that the notorious DarkSide ransomware gang has rebranded as a new BlackMatter ransomware operation and is actively performing&nbsp;attacks on corporate entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper PTS Security Flaws Threaten 80% of Hospitals in the U.S.<a href="https://thehackernews.com/2021/08/pwnedpiper-pts-security-flaws-threaten.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday disclosed a set of nine vulnerabilities known as " PwnedPiper " that left a widely-used pneumatic tube system (PTS) vulnerable to critical attacks, including a possibility of complete takeover.  The security weaknesses, disclosed by American cybersecurity firm Armis, impact the Translogic PTS system by Swisslog Healthcare, which is installed in about 80% of all major hospitals in North America and in no fewer than 3,000 hospitals worldwide.   "These vulnerabilities can enable an unauthenticated attacker to take over Translogic PTS stations and essentially gain complete control over the PTS network of a target hospital," Armis researchers Ben Seri and Barak Hadad said. "This type of control could enable sophisticated and worrisome ransomware attacks, as well as allow attackers to leak sensitive hospital information."  Pneumatic tube systems are internal logistics and transport solutions that are used to transport blood s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘PwnedPiper’: Devastating Bugs in &gt;80% of Hospital Pneumatics<a href="https://threatpost.com/pwnedpiper-bugs-hospital-pneumatics/168277/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Podcast: Blood samples aren’t martinis. You can’t shake them. But bugs in pneumatic control systems could lead to that, RCE or ransomware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper flaws in PTS systems affect 80% of major US hospitals<a href="https://securityaffairs.co/wordpress/120741/hacking/pwnedpiper-flaws-pts-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers disclosed multiple flaws, dubbed PwnedPiper, that left a widely-used pneumatic tube system (PTS) vulnerable to attacks. 
+
+
+
+Researchers from cybersecurity Armis disclosed a set of nine vulnerabilities collectively tracked as PwnedPiper...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Python Package Repository Patches Critical Supply Chain Flaw<a href="https://thehackernews.com/2021/08/pypi-python-package-repository-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Python Package Index (PyPI) last week issued fixes for three vulnerabilities, one among which could be abused to achieve arbitrary code execution and take full control of the official third-party software repository.  The security weaknesses were&nbsp; discovered &nbsp;and reported by Japanese security researcher RyotaK, who in the past has disclosed critical vulnerabilities in the&nbsp; Homebrew Cask repository &nbsp;and Cloudflare's&nbsp; CDNJS library . He was awarded a total of $3,000 as part of the bug bounty program.   The list of three vulnerabilities is as follows -   Vulnerability in Legacy Document Deletion on PyPI &nbsp;- An exploitable vulnerability in the mechanisms for deleting legacy documentation hosting deployment tooling on PyPI, which would allow an attacker to remove documentation for projects not under their control.  Vulnerability in Role Deletion on PyPI &nbsp;- An exploitable vulnerability in the mechanisms for deleting roles on PyPI was discovered by a security researcher
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Download Manager Plugin was affected by two flaws<a href="https://securityaffairs.co/wordpress/120724/breaking-news/wordpress-download-manager-plugin-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit a vulnerability in the WordPress Download Manager plugin, tracked as CVE-2021-34639, to execute arbitrary code under specific configurations.
+
+
+
+Researchers from Wordfence team discovered a vulnerability, tracked as CVE-2021-34639,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

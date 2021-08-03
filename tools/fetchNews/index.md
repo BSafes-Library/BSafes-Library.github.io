@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome to no longer show secure website indicators<a href="https://www.bleepingcomputer.com/news/google/google-chrome-to-no-longer-show-secure-website-indicators/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This new phishing attack is 'sneakier than usual', Microsoft warns<a href="https://www.zdnet.com/article/microsoft-watch-out-for-this-sneakier-than-usual-phishing-attack/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Social media giants fail to block 84 percent of antisemitic content: report | White House cyber chief backs new federal bureau to track threats<a href="https://thehill.com//policy/technology/overnights/566017-hillicon-valley-social-media-giants-fail-to-block-84-percent-of"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PwnedPiper PTS Security Flaws Threaten 80% of Hospitals in the U.S.<a href="https://thehackernews.com/2021/08/pwnedpiper-pts-security-flaws-threaten.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Responsible Cyber Offense<a href="https://www.lawfareblog.com/responsible-cyber-offense"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Do You Trust Your Smart TV?<a href="https://securityaffairs.co/wordpress/120752/iot/smart-tv-security.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘PwnedPiper’: Devastating Bugs in >80% of Hospital Pneumatics<a href="https://threatpost.com/pwnedpiper-bugs-hospital-pneumatics/168277/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows PetitPotam attacks can be blocked using new method<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-attacks-can-be-blocked-using-new-method/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six Ways Malicious Linux Shell Scripts Evade Defenses<a href="https://cyware.com/news/six-ways-malicious-linux-shell-scripts-evade-defenses-3806f478"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House cyber chief backs new federal bureau to track threats<a href="https://thehill.com//policy/cybersecurity/566007-white-house-cyber-chief-backs-new-federal-bureau-to-track-cyber-threats"> Full Text</a>
@@ -199,7 +199,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New APT Hacking Group Targets Microsoft IIS Servers with ASP.NET Exploits<a href="https://thehackernews.com/2021/08/new-apt-hacking-group-targets-microsoft.html"> Full Text</a>
@@ -215,7 +215,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PwnedPiper flaws in PTS systems affect 80% of major US hospitals<a href="https://securityaffairs.co/wordpress/120741/hacking/pwnedpiper-flaws-pts-systems.html"> Full Text</a>
@@ -235,7 +235,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PwnedPiper critical bug set impacts major hospitals in North America<a href="https://www.bleepingcomputer.com/news/security/pwnedpiper-critical-bug-set-impacts-major-hospitals-in-north-america/"> Full Text</a>
@@ -251,7 +251,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations still rely on weak security for remote workers<a href="https://www.helpnetsecurity.com/2021/08/02/weak-security-remote-workers/?&web_view=true"> Full Text</a>
@@ -267,7 +267,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Python Package Repository Patches Critical Supply Chain Flaw<a href="https://thehackernews.com/2021/08/pypi-python-package-repository-patches.html"> Full Text</a>
@@ -283,7 +283,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More evidence suggests that DarkSide and BlackMatter are the same group<a href="https://securityaffairs.co/wordpress/120732/cyber-crime/darkside-blackmatter-ransomware-similarities.html"> Full Text</a>
@@ -303,7 +303,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoppelPaymer’s Rebranding as Grief<a href="https://cyware.com/news/doppelpaymers-rebranding-as-grief-75570226"> Full Text</a>
@@ -319,7 +319,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2021
+August 02, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solarmarker InfoStealer Malware Once Again Making its Way Into the Wild<a href="https://thehackernews.com/2021/08/solarmarker-infostealer-malware-once.html"> Full Text</a>
@@ -335,7 +335,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Download Manager Plugin was affected by two flaws<a href="https://securityaffairs.co/wordpress/120724/breaking-news/wordpress-download-manager-plugin-flaws.html"> Full Text</a>
@@ -355,7 +355,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK universities awarded funding for research into IoT, smart home security<a href="https://portswigger.net/daily-swig/uk-universities-awarded-funding-for-research-into-iot-smart-home-security?&web_view=true"> Full Text</a>
@@ -371,7 +371,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thailand's Vaccine Appointment Registration Platform Leaks Over 20,000 Applicants' Emails and Personal Details<a href="https://thethaiger.com/coronavirus/foreigners-able-to-register-on-vaccine-site-despite-data-leaks-glitches?&web_view=true"> Full Text</a>
@@ -387,7 +387,7 @@ Thaiger
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GhostEmperor Chinese-speaking Threat Actor Targets Southeast Asian Countries<a href="https://securityaffairs.co/wordpress/120721/apt/ghostemperor-chinese-speaking-threat-actor.html?&web_view=true"> Full Text</a>
@@ -403,7 +403,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom Agrees to Settle Lawsuit Over ‘Zoombombing’<a href="https://www.nytimes.com/2021/08/01/technology/zoom-lawsuit-zoombombing.html?&web_view=true"> Full Text</a>
@@ -419,7 +419,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WeTransfer phishing attack spoofs file-sharing to steal credential<a href="https://www.hackread.com/wetransfer-phishing-attack-spoofs-steal-credential/?&web_view=true"> Full Text</a>
@@ -435,7 +435,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2021
+August 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Leak 751GB Data Stolen from Electronic Arts Including Game Source Code, Internal Tools<a href="https://therecord.media/hackers-leak-full-ea-data-after-failed-extortion-attempt/?&web_view=true"> Full Text</a>

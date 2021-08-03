@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This new phishing attack is 'sneakier than usual', Microsoft warns<a href="https://www.zdnet.com/article/microsoft-watch-out-for-this-sneakier-than-usual-phishing-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Security Intelligence team has issued an alert to Office 365 users and admins to be on the lookout for a "crafty" phishing email with spoofed sender addresses.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WeTransfer phishing attack spoofs file-sharing to steal credential<a href="https://www.hackread.com/wetransfer-phishing-attack-spoofs-steal-credential/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email appears to be sent by WeTransfer as it bears the sender name Wetransfer and has the title View Files Sent Via WeTransfer. The similarity is enough to come across as a genuine email.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

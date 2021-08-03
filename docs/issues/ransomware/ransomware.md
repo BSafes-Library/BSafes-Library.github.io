@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelPaymer’s Rebranding as Grief<a href="https://cyware.com/news/doppelpaymers-rebranding-as-grief-75570226"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoppelPaymer ransomware operation was rebranded as Grief with identical encryption algorithms, i.e. 2048-bit RSA and 256-bit AES and other minor code changes. The new effort by DoppelPaymer appears to be more about staying low profile than going sophisticated in nature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

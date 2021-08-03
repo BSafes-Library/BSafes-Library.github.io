@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bot protection now generally available in Azure Web Application Firewall<a href="https://www.bleepingcomputer.com/news/security/bot-protection-now-generally-available-in-azure-web-application-firewall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that the Web Application Firewall (WAF) bot protection feature&nbsp;has reached general availability on Azure on Application Gateway starting this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Shares More Information on Protecting Systems Against PetitPotam Attacks<a href="https://www.securityweek.com/microsoft-shares-more-information-protecting-systems-against-petitpotam-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PetitPotam is the name assigned to a vulnerability that can be exploited by an unauthenticated attacker to get a targeted server to connect to an arbitrary server and perform NTLM authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
