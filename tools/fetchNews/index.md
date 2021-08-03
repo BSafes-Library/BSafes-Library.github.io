@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+‘DeadRinger’ Targeted Exchange Servers Long Before Discovery<a href="https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage campaigns linked to China attacked telecoms via ProxyLogon bugs, stealing call records and maintaining persistence, as far back as 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Raccoon Stealer-as-a-Service Aims to Steal Cookies, Cryptocurrencies<a href="https://www.zdnet.com/article/raccoon-stealer-as-a-service-will-now-try-to-steal-your-cryptocurrency/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
 </p>
 <details>
