@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies are failing to protect sensitive data, Senate report finds<a href="https://www.cyberscoop.com/senate-homeland-federal-cybersecurity-ig-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Released by the panel on Tuesday, the report expresses concerns about the state of federal agencies’ cyber posture during an overall 8% rise in security incidents across agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Raccoon Stealer Bundles Malware, Propagates Via Google SEO<a href="https://threatpost.com/raccoon-stealer-google-seo/168301/"> Full Text</a>
 </p>
 <details>
