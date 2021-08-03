@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Raccoon Stealer-as-a-Service Aims to Steal Cookies, Cryptocurrencies<a href="https://www.zdnet.com/article/raccoon-stealer-as-a-service-will-now-try-to-steal-your-cryptocurrency/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new campaign tracked by Sophos researchers, the malware was spread not through spam emails but, instead, droppers disguised as installers for cracked and pirated software.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ivanti acquires cybersecurity startup RiskSense<a href="https://siliconangle.com/2021/08/02/ivanti-acquires-cybersecurity-startup-risksense/?&web_view=true"> Full Text</a>
 </p>
 <details>

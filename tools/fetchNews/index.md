@@ -34,6 +34,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti acquires cybersecurity startup RiskSense<a href="https://siliconangle.com/2021/08/02/ivanti-acquires-cybersecurity-startup-risksense/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti announced it has acquired vulnerability management software provider RiskSense to drive the next evolution of patch management. The terms of the RiskSense transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed Remote Code Execution issue in Firepower Device Manager On-Box software<a href="https://securityaffairs.co/wordpress/120761/security/cisco-firepower-device-manager.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a vulnerability in the Firepower Device Manager (FDM) On-Box software that allows attackers to execute arbitrary code on vulnerable devices. 
+
+
+
+Cisco has addressed a vulnerability in the Firepower Device Manager (FDM) On-Box software,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE Cybersecurity Council launches ‘National Bug Bounty Programme’<a href="https://www.khaleejtimes.com/business/local/uae-cybersecurity-council-launches-national-bug-bounty-programme?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to promote the culture of cybersecurity and protect the country’s digital transformation and overall achievements in line with the country's leadership directives.
+</details>
+<div style="text-align: right" markdown="1">
+Khaleej Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
