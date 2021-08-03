@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+BazaCall Spreading BazaLoader and Ransomware Payloads Again<a href="https://cyware.com/news/bazacall-spreading-bazaloader-and-ransomware-payloads-again-ac0e32d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered an attack campaign by BazaLoader operators.  These attacks are tricking users into calling a particular phone number, an actual human at a fake call center, to persuade them into downloading malware.  The inclusion of the human element has made this threat even more serious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransom demands reaching $1.2M, smaller companies increasingly targeted<a href="https://www.helpnetsecurity.com/2021/08/03/ransom-demands/?&web_view=true"> Full Text</a>
 </p>
 <details>
