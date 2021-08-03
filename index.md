@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Raccoon Stealer Bundles Malware, Propagates Via Google SEO<a href="https://threatpost.com/raccoon-stealer-google-seo/168301/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update to the stealer-as-a-service platform hides in pirated software, pilfers crypto-coins and installs a software dropper for downloads of more malware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ‘DeadRinger’ Targeted Exchange Servers Long Before Discovery<a href="https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/"> Full Text</a>
 </p>
 <details>
