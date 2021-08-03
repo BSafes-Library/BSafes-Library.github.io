@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Constant review of third-party security critical as ransomware threat climbs<a href="https://www.zdnet.com/article/constant-review-of-third-party-security-critical-as-ransomware-threat-climbs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If they are complacent, businesses will face risks of supply chain attacks even after doing due diligence in assessing their third-party suppliers' security posture before establishing a partnership.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Finite State Raises $30 Million in Series B Funding<a href="https://www.securityweek.com/finite-state-raises-30-million-series-b-funding?&web_view=true"> Full Text</a>
 </p>
 <details>
