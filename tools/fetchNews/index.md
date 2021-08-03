@@ -34,6 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEmperor - Another Chinese APT Group Targeting Southeast Asia<a href="https://cyware.com/news/ghostemperor-another-chinese-apt-group-targeting-southeast-asia-72c7ddb4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky documented a new Chinese-speaking threat actor—GhostEmperor—targeting Microsoft Exchange flaws in high-profile attacks in Southeast Asia. The group uses a formerly unknown Windows kernel-mode rootkit to gain remote control over targeted servers. Recently, several Chinese APT groups have b ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
