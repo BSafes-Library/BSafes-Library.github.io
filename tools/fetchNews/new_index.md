@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT groups target telecom companies in Southeast Asia<a href="https://securityaffairs.co/wordpress/120765/apt/china-linked-apt-groups-asian-telecos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China linked APT groups have targeted networks of at least five major telecommunications companies operating in Southeast Asia since 2017.
+
+
+
+Cybereason researchers identified three clusters of activity associated with China-linked threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
