@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Volumes Hit Record Highs as 2021 Wears On<a href="https://threatpost.com/ransomware-volumes-record-highs-2021/168327/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second quarter of the year saw the highest volumes of ransomware attacks ever, with Ryuk leading the way.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GhostEmperor - Another Chinese APT Group Targeting Southeast Asia<a href="https://cyware.com/news/ghostemperor-another-chinese-apt-group-targeting-southeast-asia-72c7ddb4"> Full Text</a>
 </p>
 <details>
