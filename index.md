@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate report finds major cybersecurity shortcomings among federal agencies<a href="https://thehill.com//policy/cybersecurity/566107-senate-report-finds-major-cybersecurity-shortcomings-among-federal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan report released by the Senate Homeland Security and Governmental Affairs Committee on Tuesday found “stark” shortcomings in the cybersecurity posture of many major federal agencies in the midst of escalating cyberattacks against both the U.S. government and private sector. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
