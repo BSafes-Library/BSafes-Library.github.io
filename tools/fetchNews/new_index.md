@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate report finds major cyber shortcomings in federal agencies | Gig firms seek Mass. ballot question to classify workers as contractors | Blizzard's president steps down after workplace protests<a href="https://thehill.com//policy/technology/overnights/566197-hillicon-valley-senate-report-finds-major-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Senate report is casting further doubt on U.S. cybersecurity, detailing “stark” shortcomings in the federal government's posture. Bipartisan leaders of the panel behind the report are pushing for more action following recent major cyber incidents, including the SolarWinds hack and vulnerabilities in Microsoft’s Exchange Server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
