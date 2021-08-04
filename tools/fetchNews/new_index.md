@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – August 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/120773/breaking-news/cyber-defense-magazine-august-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine August 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 148 pages of excellent content. 
+
+
+
+Cyber Defense eMagazine August Edition for 2021Grab this PDF version and help fund our operations:https://cyberdefensemagazine.tradepub.com/free/w_cyba125/Here's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Lures Defense Contractor in Catfishing-Malware Scam<a href="https://threatpost.com/iranian-apt-defense-contractor-catfish/168332/"> Full Text</a>
 </p>
 <details>
