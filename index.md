@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Office 365: Phishing Variant Bypasses Microsoft’s Own Secure Email Gateway<a href="https://cofense.com/blog/office-365-phishing-variant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The body of the email explains that Microsoft service has expired; in this case, it's their “Business Basic package.” The threat actor ensured their campaign looked similar to Microsoft-themed emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Russia tells UN it wants vast expansion of cybercrime offenses, plus network backdoors, online censorship<a href="https://www.theregister.com/2021/08/03/russia_cybercrime_laws/?&web_view=true"> Full Text</a>
 </p>
 <details>
