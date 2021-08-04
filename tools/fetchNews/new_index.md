@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Isle of Wight schools hit by ransomware<a href="https://www.computing.co.uk/news/4035404/isle-wight-schools-hit-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, which encrypted data, hit the schools and their umbrella organization the Isle of Wight of Education Federation between July 28th and 29th, according to the Federation.
+</details>
+<div style="text-align: right" markdown="1">
+Computing
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT31 targets Russia for the first time<a href="https://securityaffairs.co/wordpress/120796/apt/china-linked-apt31-targets-russia-for-the-first-time.html"> Full Text</a>
 </p>
 <details>
