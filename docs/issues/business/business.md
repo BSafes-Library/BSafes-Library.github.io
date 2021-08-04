@@ -11,6 +11,48 @@ nav_order: 900027
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco, Sonatype and Others Join Open Source Security Foundation<a href="https://www.securityweek.com/cisco-sonatype-and-others-join-open-source-security-foundation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With open source software (OSS) becoming a central pillar of the application development lifecycle, ensuring the security of open source code is essential to securing modern software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finite State Raises $30 Million in Series B Funding<a href="https://www.securityweek.com/finite-state-raises-30-million-series-b-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2017, the Columbus, Ohio-based company provides cybersecurity controls at the firmware layer, in an attempt to secure the device supply chain and mitigate risks to OT and IT environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti acquires cybersecurity startup RiskSense<a href="https://siliconangle.com/2021/08/02/ivanti-acquires-cybersecurity-startup-risksense/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti announced it has acquired vulnerability management software provider RiskSense to drive the next evolution of patch management. The terms of the RiskSense transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CDW acquires Focal Point to enhance its identity management and data protection services<a href="https://www.helpnetsecurity.com/2021/08/03/cdw-focal-point/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

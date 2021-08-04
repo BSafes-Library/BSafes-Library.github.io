@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Continues its Marathon to New Records: Report<a href="https://cisomag.eccouncil.org/ransomware-continues-its-marathon-to-new-records-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals always aim high when targeting organizations and demanding ransom. The pandemic has given opportunistic hackers time to come up with innovative phishing attacks and extortion schemes.
+</details>
+<div style="text-align: right" markdown="1">
+EC Council
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/cyber-highlights-in-the-massive-infrastructure-spending-deal/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan physical infrastructure deal unveiled on Sunday contains several cybersecurity provisions, including some meant to bolster state and local digital efforts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

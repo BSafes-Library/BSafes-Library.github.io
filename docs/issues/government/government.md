@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Works to Create AI Risk Management Framework<a href="https://www.careersinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology is working to develop risk management guidance around the use of artificial intelligence and machine learning, the agency has announced.
+</details>
+<div style="text-align: right" markdown="1">
+Careers Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate report finds major cybersecurity shortcomings among federal agencies<a href="https://thehill.com//policy/cybersecurity/566107-senate-report-finds-major-cybersecurity-shortcomings-among-federal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan report released by the Senate Homeland Security and Governmental Affairs Committee on Tuesday found “stark” shortcomings in the cybersecurity posture of many major federal agencies in the midst of escalating cyberattacks against both the U.S. government and private sector.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies are failing to protect sensitive data, Senate report finds<a href="https://www.cyberscoop.com/senate-homeland-federal-cybersecurity-ig-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Released by the panel on Tuesday, the report expresses concerns about the state of federal agencies’ cyber posture during an overall 8% rise in security incidents across agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE Cybersecurity Council launches ‘National Bug Bounty Programme’<a href="https://www.khaleejtimes.com/business/local/uae-cybersecurity-council-launches-national-bug-bounty-programme?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to promote the culture of cybersecurity and protect the country’s digital transformation and overall achievements in line with the country's leadership directives.
+</details>
+<div style="text-align: right" markdown="1">
+Khaleej Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

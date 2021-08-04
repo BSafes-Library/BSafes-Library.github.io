@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code Execution Flaw Found in Cisco Firepower Device Manager On-Box Software<a href="https://www.securityweek.com/code-execution-flaw-found-cisco-firepower-device-manager-box-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking giant Cisco has addressed a vulnerability in the Firepower Device Manager (FDM) On-Box software that could be exploited to gain code execution on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found potential remote code execution in PyPI<a href="https://securityaffairs.co/wordpress/120755/hacking/pypi-potential-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the GitHub Actions workflow for PyPI ’s source repository could be exploited to potentially execute arbitrary code on pypi.org.
+
+
+
+Security researcher RyotaK disclosed three flaws in PyPI, the most severe one could potentially lead to the compromise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,94 @@ nav_order: 900072
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – August 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/120773/breaking-news/cyber-defense-magazine-august-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine August 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 148 pages of excellent content. 
+
+
+
+Cyber Defense eMagazine August Edition for 2021Grab this PDF version and help fund our operations:https://cyberdefensemagazine.tradepub.com/free/w_cyba125/Here's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate report finds major cyber shortcomings in federal agencies | Gig firms seek Mass. ballot question to classify workers as contractors | Blizzard's president steps down after workplace protests<a href="https://thehill.com//policy/technology/overnights/566197-hillicon-valley-senate-report-finds-major-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Senate report is casting further doubt on&nbsp;U.S. cybersecurity,&nbsp;detailing “stark” shortcomings in the federal government's posture. Bipartisan leaders of the panel behind the report are pushing for more action following recent major cyber incidents, including the SolarWinds hack and vulnerabilities in Microsoft’s Exchange Server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Volumes Hit Record Highs as 2021 Wears On<a href="https://threatpost.com/ransomware-volumes-record-highs-2021/168327/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second quarter of the year saw the highest volumes of ransomware attacks ever, with Ryuk leading the way.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom demands reaching $1.2M, smaller companies increasingly targeted<a href="https://www.helpnetsecurity.com/2021/08/03/ransom-demands/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the average ransom demand steadily increased, the average payout made for ransomware claims decreased slightly from the first half of 2020 to the first half of 2021, according to Coalition.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four-fold increase in software supply chain attacks predicted in 2021 – ENISA report<a href="https://portswigger.net/daily-swig/four-fold-increase-in-software-supply-chain-attacks-predicted-in-2021-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the findings, ENISA revealed that around 50% of the supply chain attacks studied were attributed to known APT groups, while 42% were not attributed to a particular source.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Constant review of third-party security critical as ransomware threat climbs<a href="https://www.zdnet.com/article/constant-review-of-third-party-security-critical-as-ransomware-threat-climbs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If they are complacent, businesses will face risks of supply chain attacks even after doing due diligence in assessing their third-party suppliers' security posture before establishing a partnership.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Continues its Marathon to New Records: Report<a href="https://cisomag.eccouncil.org/ransomware-continues-its-marathon-to-new-records-report/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

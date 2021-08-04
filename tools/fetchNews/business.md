@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CDW acquires Focal Point to enhance its identity management and data protection services<a href="https://www.helpnetsecurity.com/2021/08/03/cdw-focal-point/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CDW announced that it has acquired Focal Point Data Risk, a U.S-based provider of cybersecurity services with customers across a diverse set of industries. Terms of the transaction were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet Empowers IT Resellers and Service Providers to Become Fully Qualified MSSPs<a href="https://thehackernews.com/2020/01/managed-cybersecurity-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cyber incidents increase in scope and impact, more and more organizations come to realize that outsourcing their defenses is the best practice—significantly increasing the Managed Security Service Provider (MSSP) market opportunities.   Until recently, IT integrators, VARs, and MSPs haven't participated in the growing and profitable MSSP market as it entailed massive investments in building an in-house skilled security team.   However, this is beginning to change as a result of certain security vendors, like Cynet, that provide a purpose-built partner offering that enables IT integrators, VARs, and MSPs to provide managed security service with zero investment in hardware or personnel.   Their offering includes a 24/7 SOC that trains and supports the partner's existing team and a security platform that consolidates and automates breach protection (including endpoint, user, and network security), making it simple to operate by any IT professional.   To learn more about th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

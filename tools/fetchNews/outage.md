@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vaccination Registration System of Italy’s Lazio Region Goes Down in Apparent Ransomware Attack<a href="https://www.nbcnews.com/tech/tech-news/italian-vaccine-registration-system-down-apparent-ransomware-attack-n1275757?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have attacked the vaccination registration system in one of Italy’s largest regions, temporarily blocking residents from booking new vaccination appointments, officials said.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

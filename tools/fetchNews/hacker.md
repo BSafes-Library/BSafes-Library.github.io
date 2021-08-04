@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Major Southeast Asian Telecom Companies<a href="https://thehackernews.com/2021/08/chinese-hackers-target-major-southeast.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three distinct clusters of malicious activities operating on behalf of Chinese state interests have staged a series of attacks to target networks belonging to at least five major telecommunications companies located in Southeast Asian countries since 2017.  "The goal of the attackers behind these intrusions was to gain and maintain continuous access to telecommunication providers and to facilitate cyber espionage by collecting sensitive information, compromising high-profile business assets such as the billing servers that contain Call Detail Record (CDR) data, as well as key network components such as the Domain Controllers, Web Servers and Microsoft Exchange servers," Cybereason's Lior Rochberger, Tom Fakterman, Daniel Frank, and Assaf Dahan&nbsp; revealed &nbsp;in a technical analysis published Tuesday.   The Boston-based cybersecurity firm linked the campaigns to three different Chinese threat actors, namely&nbsp; Gallium &nbsp;(aka Soft Cell),&nbsp; Naikon &nbsp;APT (aka APT30 or Lotus Panda), a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

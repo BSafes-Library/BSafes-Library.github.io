@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.careersinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193?&web_view=true
 
 
 Law:

@@ -11,6 +11,53 @@ nav_order: 900010
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Lures Defense Contractor in Catfishing-Malware Scam<a href="https://threatpost.com/iranian-apt-defense-contractor-catfish/168332/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake aerobics-instructor profile delivers malware in a supply-chain attack attempt from TA456.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT groups target telecom companies in Southeast Asia<a href="https://securityaffairs.co/wordpress/120765/apt/china-linked-apt-groups-asian-telecos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China linked APT groups have targeted networks of at least five major telecommunications companies operating in Southeast Asia since 2017.
+
+
+
+Cybereason researchers identified&nbsp;three clusters of activity associated with China-linked threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEmperor - Another Chinese APT Group Targeting Southeast Asia<a href="https://cyware.com/news/ghostemperor-another-chinese-apt-group-targeting-southeast-asia-72c7ddb4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky documented a new Chinese-speaking threat actor—GhostEmperor—targeting Microsoft Exchange flaws in high-profile attacks in Southeast Asia. The group uses a formerly unknown Windows kernel-mode rootkit to gain remote control over targeted servers. Recently, several Chinese APT groups have b ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China-linked APTs Launched DeadRinger Campaign to Strike Major Telecommunications Companies in Southeast Asia<a href="https://www.zdnet.com/article/deadringer-chinese-apts-strike-major-telecommunications-companies/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

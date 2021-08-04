@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazaCall Spreading BazaLoader and Ransomware Payloads Again<a href="https://cyware.com/news/bazacall-spreading-bazaloader-and-ransomware-payloads-again-ac0e32d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered an attack campaign by BazaLoader operators.  These attacks are tricking users into calling a particular phone number, an actual human at a fake call center, to persuade them into downloading malware.  The inclusion of the human element has made this threat even more serious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Crime-as-a-Service, anyone can be an attacker<a href="https://www.helpnetsecurity.com/2021/08/03/crime-as-a-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crime-as-a-Service is the practice of experienced cybercriminals selling access to the tools and knowledge needed to execute cybercrime – in particular, it’s often used to create phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raccoon Stealer Bundles Malware, Propagates Via Google SEO<a href="https://threatpost.com/raccoon-stealer-google-seo/168301/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update to the stealer-as-a-service platform hides in pirated software, pilfers crypto-coins and installs a software dropper for downloads of more malware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘DeadRinger’ Targeted Exchange Servers Long Before Discovery<a href="https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberespionage campaigns linked to China attacked telecoms via ProxyLogon bugs, stealing call records and maintaining persistence, as far back as 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

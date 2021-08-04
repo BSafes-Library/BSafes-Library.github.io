@@ -34,7 +34,27 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – August 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/120773/breaking-news/cyber-defense-magazine-august-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine August 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with over 148 pages of excellent content. 
+
+
+
+Cyber Defense eMagazine August Edition for 2021Grab this PDF version and help fund our operations:https://cyberdefensemagazine.tradepub.com/free/w_cyba125/Here's...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Lures Defense Contractor in Catfishing-Malware Scam<a href="https://threatpost.com/iranian-apt-defense-contractor-catfish/168332/"> Full Text</a>
@@ -50,7 +70,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2021
+August 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senate report finds major cyber shortcomings in federal agencies | Gig firms seek Mass. ballot question to classify workers as contractors | Blizzard's president steps down after workplace protests<a href="https://thehill.com//policy/technology/overnights/566197-hillicon-valley-senate-report-finds-major-cybersecurity"> Full Text</a>
@@ -66,7 +86,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT groups target telecom companies in Southeast Asia<a href="https://securityaffairs.co/wordpress/120765/apt/china-linked-apt-groups-asian-telecos.html"> Full Text</a>
@@ -86,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2021
+August 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack hits Italy's Lazio region, affects COVID-19 site<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-italys-lazio-region-affects-covid-19-site/"> Full Text</a>
@@ -102,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Volumes Hit Record Highs as 2021 Wears On<a href="https://threatpost.com/ransomware-volumes-record-highs-2021/168327/"> Full Text</a>
@@ -118,7 +138,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostEmperor - Another Chinese APT Group Targeting Southeast Asia<a href="https://cyware.com/news/ghostemperor-another-chinese-apt-group-targeting-southeast-asia-72c7ddb4"> Full Text</a>
@@ -135,7 +155,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2021
+August 03, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX ransomware hits Italy's Lazio region, affects COVID-19 site<a href="https://www.bleepingcomputer.com/news/security/ransomexx-ransomware-hits-italys-lazio-region-affects-covid-19-site/"> Full Text</a>
@@ -151,7 +171,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Works to Create AI Risk Management Framework<a href="https://www.careersinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193?&web_view=true"> Full Text</a>
@@ -167,7 +187,7 @@ Careers Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazaCall Spreading BazaLoader and Ransomware Payloads Again<a href="https://cyware.com/news/bazacall-spreading-bazaloader-and-ransomware-payloads-again-ac0e32d6"> Full Text</a>
@@ -183,7 +203,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom demands reaching $1.2M, smaller companies increasingly targeted<a href="https://www.helpnetsecurity.com/2021/08/03/ransom-demands/?&web_view=true"> Full Text</a>
@@ -199,7 +219,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With Crime-as-a-Service, anyone can be an attacker<a href="https://www.helpnetsecurity.com/2021/08/03/crime-as-a-service/?&web_view=true"> Full Text</a>
@@ -215,7 +235,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four-fold increase in software supply chain attacks predicted in 2021 – ENISA report<a href="https://portswigger.net/daily-swig/four-fold-increase-in-software-supply-chain-attacks-predicted-in-2021-report?&web_view=true"> Full Text</a>
@@ -231,7 +251,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco, Sonatype and Others Join Open Source Security Foundation<a href="https://www.securityweek.com/cisco-sonatype-and-others-join-open-source-security-foundation?&web_view=true"> Full Text</a>
@@ -247,7 +267,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2021
+August 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate report finds major cybersecurity shortcomings among federal agencies<a href="https://thehill.com//policy/cybersecurity/566107-senate-report-finds-major-cybersecurity-shortcomings-among-federal"> Full Text</a>
@@ -263,7 +283,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Constant review of third-party security critical as ransomware threat climbs<a href="https://www.zdnet.com/article/constant-review-of-third-party-security-critical-as-ransomware-threat-climbs/?&web_view=true"> Full Text</a>
@@ -279,7 +299,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finite State Raises $30 Million in Series B Funding<a href="https://www.securityweek.com/finite-state-raises-30-million-series-b-funding?&web_view=true"> Full Text</a>
@@ -295,7 +315,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies are failing to protect sensitive data, Senate report finds<a href="https://www.cyberscoop.com/senate-homeland-federal-cybersecurity-ig-report/?&web_view=true"> Full Text</a>
@@ -311,7 +331,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raccoon Stealer Bundles Malware, Propagates Via Google SEO<a href="https://threatpost.com/raccoon-stealer-google-seo/168301/"> Full Text</a>
@@ -327,7 +347,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘DeadRinger’ Targeted Exchange Servers Long Before Discovery<a href="https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/"> Full Text</a>
@@ -343,7 +363,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Raccoon Stealer-as-a-Service Aims to Steal Cookies, Cryptocurrencies<a href="https://www.zdnet.com/article/raccoon-stealer-as-a-service-will-now-try-to-steal-your-cryptocurrency/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -359,7 +379,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti acquires cybersecurity startup RiskSense<a href="https://siliconangle.com/2021/08/02/ivanti-acquires-cybersecurity-startup-risksense/?&web_view=true"> Full Text</a>
@@ -375,7 +395,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed Remote Code Execution issue in Firepower Device Manager On-Box software<a href="https://securityaffairs.co/wordpress/120761/security/cisco-firepower-device-manager.html"> Full Text</a>
@@ -395,7 +415,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2021
+August 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAE Cybersecurity Council launches ‘National Bug Bounty Programme’<a href="https://www.khaleejtimes.com/business/local/uae-cybersecurity-council-launches-national-bug-bounty-programme?&web_view=true"> Full Text</a>
