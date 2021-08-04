@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Python Packages Stealing Discord Tokens and Much More<a href="https://cyware.com/news/python-packages-stealing-discord-tokens-and-much-more-429ec854"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight libraries contained malicious code and were removed by the officials. While two of the eight enabled an attacker to remotely run commands on the target’s device, the other six were stealers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Apache Hadoop YARN Exploited for Cryptomining<a href="https://cyware.com/news/misconfigured-apache-hadoop-yarn-exploited-for-cryptomining-abdbd6b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report has revealed that cybercriminals are taking advantage of misconfigured Apache Hadoop YARN. The report includes details about payload delivery, attack tactics, and basic security advice. Experts highlight that disabling the targeted system’s protection offered by cloud services has b ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Infrastructure Linked to APT29’s WellMess Malware<a href="https://cyware.com/news/new-infrastructure-linked-to-apt29s-wellmess-malware-852a9b2d"> Full Text</a>
 </p>
 <details>
