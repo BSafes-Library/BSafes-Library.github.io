@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Kaseya ransomware attack sets off race to hack service providers -researchers<a href="https://www.reuters.com/article/us-usa-cyber-providers/kaseya-ransomware-attack-sets-off-race-to-hack-service-providers-researchers-idUSKBN2F4268?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now that criminals see how powerful MSP attacks can be, “they are already busy, they have already moved on and we don’t know where,” said Victor Gevers, head of the Dutch institute that warned Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AWS S3 can be a security risk for your business<a href="https://www.helpnetsecurity.com/2021/08/04/aws-s3-security-risk/?&web_view=true"> Full Text</a>
 </p>
 <details>

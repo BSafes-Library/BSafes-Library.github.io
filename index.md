@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Unique Paypal Credential Phishing Scam<a href="https://cyware.com/news/a-unique-paypal-credential-phishing-scam-2f0b959f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor sends an email, which does not raise any suspicions, with the subject line stating to initiate a live chat regarding a service notice related to the target’s PayPal account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Kaseya ransomware attack sets off race to hack service providers -researchers<a href="https://www.reuters.com/article/us-usa-cyber-providers/kaseya-ransomware-attack-sets-off-race-to-hack-service-providers-researchers-idUSKBN2F4268?&web_view=true"> Full Text</a>
 </p>
 <details>
