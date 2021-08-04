@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AWS S3 can be a security risk for your business<a href="https://www.helpnetsecurity.com/2021/08/04/aws-s3-security-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the use of AWS S3 increases, so have the content types that are stored and shared on it. AWS S3 buckets are now exposed via additional channels and APIs, which create new security blind spots that
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Office 365: Phishing Variant Bypasses Microsoft’s Own Secure Email Gateway<a href="https://cofense.com/blog/office-365-phishing-variant/?&web_view=true"> Full Text</a>
 </p>
 <details>
