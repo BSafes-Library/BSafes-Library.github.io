@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Energy group ERG reports minor disruptions after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/energy-group-erg-reports-minor-disruptions-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian energy company ERG reports "only a few minor disruptions" affecting its information and communications technology (ICT) infrastructure following a ransomware attack on its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Technology Ventures discloses ransomware attack and data breach<a href="https://securityaffairs.co/wordpress/120816/data-breach/advanced-technology-ventures-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American venture capital firm Advanced Technology Ventures (ATV) disclosed a ransomware attack, crooks also stole data of some private investors.
+
+
+
+Advanced Technology Ventures (ATV) is an American venture capital firm with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘I’m Calling About Your Car Warranty’, aka PII Hijinx<a href="https://threatpost.com/im-calling-about-your-car-warranty-aka-pii-hijinx/168375/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Hat: Researchers created 300 fake identities, signed them up on 185 legit sites, then tracked how much the sites used signup PII to pester the accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Several Malware Families Targeting IIS Web Servers With Malicious Modules<a href="https://thehackernews.com/2021/08/several-malware-families-targeting-iis.html"> Full Text</a>
 </p>
 <details>
