@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Several Malware Families Targeting IIS Web Servers With Malicious Modules<a href="https://thehackernews.com/2021/08/several-malware-families-targeting-iis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A systematic analysis of attacks against Microsoft's Internet Information Services (IIS) servers has revealed as many as 14 malware families, 10 of them newly documented, indicating that the Windows-based web server software continues to be a hotbed for  natively developed malware  for close to eight years.  The findings were presented today by ESET malware researcher Zuzana Hromcova at the  Black Hat USA security conference .  "The various kinds of native IIS malware identified are server-side malware and the two things it can do best is, first, see and intercept all communications to the server, and second, affect how the requests are processed," Hromcova told in an interview with The Hacker News. "Their motivations range from cybercrime to espionage, and a technique called SEO fraud."   IIS is an extensible web server software developed by Microsoft, enabling developers to take advantage of its modular architecture and use additional IIS modules to expand on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical, high severity pre-auth flaws in VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-high-severity-pre-auth-flaws-in-vpn-routers/"> Full Text</a>
 </p>
 <details>
