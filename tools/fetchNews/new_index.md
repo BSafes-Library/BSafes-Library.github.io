@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INFRA:HALT security bugs impact critical industrial control devices<a href="https://www.bleepingcomputer.com/news/security/infra-halt-security-bugs-impact-critical-industrial-control-devices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LemonDuck Botnet Evolves to Allow Hands-on-Keyboard Attacks<a href="https://therecord.media/lemonduck-botnet-evolves-to-allow-hands-on-keyboard-intrusions/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Federal Agencies Were Attacked With Chinese Webdav-O Virus<a href="https://thehackernews.com/2021/08/russian-federal-agencies-were-attacked.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Van Buren Is Good News for Cybersecurity<a href="https://www.lawfareblog.com/why-van-buren-good-news-cybersecurity"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INFRA:HALT flaws impact OT devices from hundreds of vendors<a href="https://securityaffairs.co/wordpress/120781/hacking/infrahalt-ot-devices.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Dangles SharePoint File-Shares<a href="https://threatpost.com/phishing-sharepoint-file-shares/168356/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cobalt Strike bugs allow takedown of attackers’ servers<a href="https://www.bleepingcomputer.com/news/security/new-cobalt-strike-bugs-allow-takedown-of-attackers-servers/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advanced Technology Ventures Suffers Ransomware Attack Impacting Personal Information of Limited Partners<a href="https://techcrunch.com/2021/08/03/atv-venture-capital-ransomware/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chinese Spyware Being Used in Widespread Cyber Espionage Attacks<a href="https://thehackernews.com/2021/08/new-chinese-spyware-being-used-in.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds says shareholders' cyber disclosure lawsuit fails<a href="https://www.reuters.com/article/us-securities-cyber-solarwinds/solarwinds-says-shareholders-cyber-disclosure-lawsuit-fails-idUSKBN2F4285?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA, CISA Publish Technical Report with Guidance on Hardening Kubernetes Clusters<a href="https://therecord.media/nsa-cisa-publish-kubernetes-hardening-guide/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telos acquires Diamond Fortress Technologies to expand into the touchless biometrics services market<a href="https://www.helpnetsecurity.com/2021/08/04/telos-diamond-fortress-technologies/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 92% of pharmaceutical companies have at least one exposed database<a href="https://www.helpnetsecurity.com/2021/08/03/pharmaceutical-companies-exposed-database/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social engineering goes automatic: New robocall bot on Telegram can trick you into giving up your password<a href="https://cybernews.com/security/new-robocall-bot-on-telegram-can-trick-you-into-giving-up-your-password/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA and CISA share Kubernetes security recommendations <a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-kubernetes-security-recommendations/"> Full Text</a>
