@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Van Buren Is Good News for Cybersecurity<a href="https://www.lawfareblog.com/why-van-buren-good-news-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One reason why Van Buren is good news for cybersecurity is that companies will actually need to improve the security of their systems, instead of hoping the threat of CFAA lawsuits or prosecutions will rescue them from their mistakes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and CISA share Kubernetes security recommendations <a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-kubernetes-security-recommendations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) and the Cybersecurity and Infrastructure Security Agency (CISA) have published comprehensive recommendations for strengthening the security of an organization's Kubernetes system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

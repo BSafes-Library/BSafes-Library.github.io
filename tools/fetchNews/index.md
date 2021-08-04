@@ -34,7 +34,235 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INFRA:HALT security bugs impact critical industrial control devices<a href="https://www.bleepingcomputer.com/news/security/infra-halt-security-bugs-impact-critical-industrial-control-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-severity and critical vulnerabilities collectively referred to as INFRA:HALT are affecting all versions of NicheStack below 4.3, a proprietary TCP/IP stack used by at least 200 industrial automation vendors, many in the leading segment of the market.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LemonDuck Botnet Evolves to Allow Hands-on-Keyboard Attacks<a href="https://therecord.media/lemonduck-botnet-evolves-to-allow-hands-on-keyboard-intrusions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively new term in the cybersecurity world, hands-on-keyboard attacks are when threat actors stop using automated scripts and manually log into an infected system to execute commands themselves.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Federal Agencies Were Attacked With Chinese Webdav-O Virus<a href="https://thehackernews.com/2021/08/russian-federal-agencies-were-attacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An amalgam of multiple state-sponsored threat groups from China may have been behind a string of targeted attacks against Russian federal executive authorities in 2020.  The latest research, published by Singapore-headquartered company Group-IB, delves into a piece of computer virus called " Webdav-O " that was detected in the intrusions, with the cybersecurity firm observing similarities between the tool and that of popular Trojan called " BlueTraveller ," that's known to be connected to a Chinese threat group called TaskMasters and deployed in malicious activities with the aim of espionage and plundering confidential documents.   "Chinese APTs are one of the most numerous and aggressive hacker communities," researchers Anastasia Tikhonova and Dmitry Kupin  said . "Hackers mostly target state agencies, industrial facilities, military contractors, and research institutes. The main objective is espionage: attackers gain access to confidential data
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Van Buren Is Good News for Cybersecurity<a href="https://www.lawfareblog.com/why-van-buren-good-news-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One reason why Van Buren is good news for cybersecurity is that companies will actually need to improve the security of their systems, instead of hoping the threat of CFAA lawsuits or prosecutions will rescue them from their mistakes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INFRA:HALT flaws impact OT devices from hundreds of vendors<a href="https://securityaffairs.co/wordpress/120781/hacking/infrahalt-ot-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INFRA:HALT is a set of vulnerabilities affecting a popular TCP/IP library commonly OT devices manufactured by more than 200 vendors. 
+
+
+
+Security researchers from security teams at Forescout and JFrog have disclosed today 14 vulnerabilities that impact...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Dangles SharePoint File-Shares<a href="https://threatpost.com/phishing-sharepoint-file-shares/168356/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers spoof sender addresses to appear legitimate in a crafty campaign that can slip past numerous detections, Microsoft researchers have discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cobalt Strike bugs allow takedown of attackers’ servers<a href="https://www.bleepingcomputer.com/news/security/new-cobalt-strike-bugs-allow-takedown-of-attackers-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered Cobalt Strike denial of service (DoS) vulnerabilities that allow blocking beacon command-and-control (C2) communication channels and new deployments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Technology Ventures Suffers Ransomware Attack Impacting Personal Information of Limited Partners<a href="https://techcrunch.com/2021/08/03/atv-venture-capital-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its letter to the Maine AG’s office, ATV said it believes the names, email addresses, phone numbers, and Social Security numbers of the individual investors in its funds were stolen in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinese Spyware Being Used in Widespread Cyber Espionage Attacks<a href="https://thehackernews.com/2021/08/new-chinese-spyware-being-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor presumed to be of Chinese origin has been linked to a series of 10 attacks targeting Mongolia, Russia, Belarus, Canada, and the U.S. from January to July 2021 that involve the deployment of a remote access trojan (RAT) on infected systems, according to new research.  The intrusions have been attributed to an advanced persistent threat named APT31 (FireEye), which is tracked by the cybersecurity community under the monikers Zirconium (Microsoft), Judgement Panda (CrowdStrike), and Bronze Vinewood (Secureworks).   The group is a "China-nexus cyber espionage actor focused on obtaining information that can provide the Chinese government and state-owned enterprises with political, economic, and military advantages,"  according  to FireEye.  Positive Technologies, in a  write-up  published Tuesday, revealed a new malware dropper that was used to facilitate the attacks, including the retrieval of next-stage encrypted payloads from a remote command-and-control server,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says shareholders' cyber disclosure lawsuit fails<a href="https://www.reuters.com/article/us-securities-cyber-solarwinds/solarwinds-says-shareholders-cyber-disclosure-lawsuit-fails-idUSKBN2F4285?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds urged a Texas federal judge to dismiss a lawsuit alleging the software company that was targeted by hackers misled shareholders about its cybersecurity measures ahead of a massive breach.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA Publish Technical Report with Guidance on Hardening Kubernetes Clusters<a href="https://therecord.media/nsa-cisa-publish-kubernetes-hardening-guide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Through this guidance, CISA and NSA officials hope to provide system administrators with a secure baseline for future Kubernetes configurations that will avoid intrusions by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telos acquires Diamond Fortress Technologies to expand into the touchless biometrics services market<a href="https://www.helpnetsecurity.com/2021/08/04/telos-diamond-fortress-technologies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telos announced that it has acquired the assets of Diamond Fortress Technologies, including all patents, and will integrate the ONYX touchless fingerprinting software with its IDTrust360 platform.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+92% of pharmaceutical companies have at least one exposed database<a href="https://www.helpnetsecurity.com/2021/08/03/pharmaceutical-companies-exposed-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Reposify, 46% of pharmaceutical companies had an exposed SMB service. SMB exposures were previously exploited in other infamous attacks, like WannaCry, NotPetya, Nachi, and Blaster worms.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social engineering goes automatic: New robocall bot on Telegram can trick you into giving up your password<a href="https://cybernews.com/security/new-robocall-bot-on-telegram-can-trick-you-into-giving-up-your-password/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The so-called OTP Bot can trick victims into sending criminals passwords to their bank accounts, email, and other online services – all without any direct interaction with the victim.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA and CISA share Kubernetes security recommendations <a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-kubernetes-security-recommendations/"> Full Text</a>

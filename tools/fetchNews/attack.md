@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hits Italy's Lazio region, affects COVID-19 site<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-italys-lazio-region-affects-covid-19-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazio region in Italy has suffered a reported ransomware&nbsp;attack that has disabled the region's IT systems, including the COVID-19&nbsp;vaccination registration portal.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

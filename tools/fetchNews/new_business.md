@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says shareholders' cyber disclosure lawsuit fails<a href="https://www.reuters.com/article/us-securities-cyber-solarwinds/solarwinds-says-shareholders-cyber-disclosure-lawsuit-fails-idUSKBN2F4285?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds urged a Texas federal judge to dismiss a lawsuit alleging the software company that was targeted by hackers misled shareholders about its cybersecurity measures ahead of a massive breach.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telos acquires Diamond Fortress Technologies to expand into the touchless biometrics services market<a href="https://www.helpnetsecurity.com/2021/08/04/telos-diamond-fortress-technologies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telos announced that it has acquired the assets of Diamond Fortress Technologies, including all patents, and will integrate the ONYX touchless fingerprinting software with its IDTrust360 platform.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

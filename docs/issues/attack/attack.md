@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Federal Agencies Were Attacked With Chinese Webdav-O Virus<a href="https://thehackernews.com/2021/08/russian-federal-agencies-were-attacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An amalgam of multiple state-sponsored threat groups from China may have been behind a string of targeted attacks against Russian federal executive authorities in 2020.  The latest research, published by Singapore-headquartered company Group-IB, delves into a piece of computer virus called " Webdav-O " that was detected in the intrusions, with the cybersecurity firm observing similarities between the tool and that of popular Trojan called " BlueTraveller ," that's known to be connected to a Chinese threat group called TaskMasters and deployed in malicious activities with the aim of espionage and plundering confidential documents.   "Chinese APTs are one of the most numerous and aggressive hacker communities," researchers Anastasia Tikhonova and Dmitry Kupin&nbsp; said . "Hackers mostly target state agencies, industrial facilities, military contractors, and research institutes. The main objective is espionage: attackers gain access to confidential data
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Technology Ventures Suffers Ransomware Attack Impacting Personal Information of Limited Partners<a href="https://techcrunch.com/2021/08/03/atv-venture-capital-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its letter to the Maine AG’s office, ATV said it believes the names, email addresses, phone numbers, and Social Security numbers of the individual investors in its funds were stolen in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinese Spyware Being Used in Widespread Cyber Espionage Attacks<a href="https://thehackernews.com/2021/08/new-chinese-spyware-being-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor presumed to be of Chinese origin has been linked to a series of 10 attacks targeting Mongolia, Russia, Belarus, Canada, and the U.S. from January to July 2021 that involve the deployment of a remote access trojan (RAT) on infected systems, according to new research.  The intrusions have been attributed to an advanced persistent threat named&nbsp;APT31&nbsp;(FireEye), which is tracked by the cybersecurity community under the monikers Zirconium (Microsoft), Judgement Panda (CrowdStrike), and Bronze Vinewood (Secureworks).   The group is a "China-nexus cyber espionage actor focused on obtaining information that can provide the Chinese government and state-owned enterprises with political, economic, and military advantages,"&nbsp; according &nbsp;to FireEye.  Positive Technologies, in a&nbsp; write-up &nbsp;published Tuesday, revealed a new malware dropper that was used to facilitate the attacks, including the retrieval of next-stage encrypted payloads from a remote command-and-control server,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

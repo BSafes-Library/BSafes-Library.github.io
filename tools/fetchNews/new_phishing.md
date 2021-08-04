@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Dangles SharePoint File-Shares<a href="https://threatpost.com/phishing-sharepoint-file-shares/168356/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers spoof sender addresses to appear legitimate in a crafty campaign that can slip past numerous detections, Microsoft researchers have discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
