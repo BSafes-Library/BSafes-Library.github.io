@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Infrastructure Linked to APT29’s WellMess Malware<a href="https://cyware.com/news/new-infrastructure-linked-to-apt29s-wellmess-malware-852a9b2d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RiskIQ laid bare more than 30 active C&amp;C servers delivering WellMess and WellMail malware, allegedly owned by Russian-speaking attack group APT29. It is infamous for targeted attacks aimed at U.S. organizations.&nbsp;Federal agencies and organizations are suggested to stay vigilant, focus on pr ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in dating site OkCupid could be used to trick users into ‘liking’ or messaging other profiles<a href="https://portswigger.net/daily-swig/vulnerability-in-dating-site-okcupid-could-be-used-to-trick-users-into-liking-or-messaging-other-profiles?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in popular dating site OkCupid meant an attacker could dupe users into unknowingly ‘liking’ or sending messages to other profiles. The flaw has now been patched.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A Unique Paypal Credential Phishing Scam<a href="https://cyware.com/news/a-unique-paypal-credential-phishing-scam-2f0b959f"> Full Text</a>
 </p>
 <details>
