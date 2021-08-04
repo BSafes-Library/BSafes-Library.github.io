@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We COVID-Clicked on Garbage, Report Finds: Podcast<a href="https://threatpost.com/we-covid-clicked-on-garbage-report-podcast/168340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Were we work-from-home clicking zombies? Steganography attacks snagged three out of eight recipients. Nasty CAPTCHAs suckered 50 times more clicks during 2020. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
