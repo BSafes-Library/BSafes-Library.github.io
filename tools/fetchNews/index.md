@@ -34,6 +34,46 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware recruiting insiders to breach corporate networks<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-recruiting-insiders-to-breach-corporate-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit 2.0 ransomware gang is actively recruiting corporate insiders to help them breach and encrypt networks. In return, the insider is promised million-dollar payouts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA and NSA publish guidance to secure Kubernetes deployments<a href="https://securityaffairs.co/wordpress/120807/security/kubernetes-guidance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA and NSA released new guidance that provides recommendations on how to harden Kubernetes deployments and minimize the risk of hack.
+
+
+
+US CISA and NSA released new guidance that provides recommendations to harden Kubernetes deployments. 
+
+
+
+Kubernetes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 4, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
