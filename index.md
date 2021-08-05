@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Critical Security Patches to Fix Small Business VPN Router Bugs<a href="https://thehackernews.com/2021/08/cisco-issues-critical-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco has rolled out patches to address critical vulnerabilities impacting its Small Business VPN routers that could be abused by a remote attacker to execute arbitrary code and even cause a denial-of-service (DoS) condition.  The issues, tracked as CVE-2021-1609 (CVSS score: 9.8) and CVE-2021-1610 (CVSS score: 7.2), reside in the web-based management interface of the Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers running a firmware release prior to version 1.0.03.22. Both the issues stem from a lack of proper validation of HTTP requests, thus permitting a bad actor to send a specially-crafted HTTP request to a vulnerable device.   Successful exploitation of CVE-2021-1609 could allow an unauthenticated, remote attacker to execute arbitrary code on the device or cause the device to reload, resulting in a DoS condition. CVE-2021-1610, concerns a command injection vulnerability that, if exploited, could permit an authenticated adve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
