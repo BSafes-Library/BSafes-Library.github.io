@@ -11,6 +11,62 @@ nav_order: 900220
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical, high severity pre-auth flaws in VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-high-severity-pre-auth-flaws-in-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed pre-auth security vulnerabilities impacting multiple Small Business VPN routers and allowing remote attackers to trigger a denial of service condition or execute commands and arbitrary code on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in dating site OkCupid could be used to trick users into ‘liking’ or messaging other profiles<a href="https://portswigger.net/daily-swig/vulnerability-in-dating-site-okcupid-could-be-used-to-trick-users-into-liking-or-messaging-other-profiles?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in popular dating site OkCupid meant an attacker could dupe users into unknowingly ‘liking’ or sending messages to other profiles. The flaw has now been patched.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS S3 can be a security risk for your business<a href="https://www.helpnetsecurity.com/2021/08/04/aws-s3-security-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the use of AWS S3 increases, so have the content types that are stored and shared on it. AWS S3 buckets are now exposed via additional channels and APIs, which create new security blind spots that
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use-after-free discovered vulnerability in Tinyobjloader<a href="https://blog.talosintelligence.com/2021/08/vuln-spotlight-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A use-after-free vulnerability exists in the LoadObj() functionality of tinyobjloader v0.9.25 and v1.0.6. A specially crafted file can cause a use-after-free, leading to code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 INFRA:HALT security bugs impact critical industrial control devices<a href="https://www.bleepingcomputer.com/news/security/infra-halt-security-bugs-impact-critical-industrial-control-devices/"> Full Text</a>
 </p>
 <details>

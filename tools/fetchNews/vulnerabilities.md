@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INFRA:HALT security bugs impact critical industrial control devices<a href="https://www.bleepingcomputer.com/news/security/infra-halt-security-bugs-impact-critical-industrial-control-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-severity and critical vulnerabilities collectively referred to as INFRA:HALT are affecting all versions of NicheStack below 4.3, a proprietary TCP/IP stack used by at least 200 industrial automation vendors, many in the leading segment of the market.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INFRA:HALT flaws impact OT devices from hundreds of vendors<a href="https://securityaffairs.co/wordpress/120781/hacking/infrahalt-ot-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INFRA:HALT is a set of vulnerabilities affecting a popular TCP/IP library commonly OT devices manufactured by more than 200 vendors. 
+
+
+
+Security researchers from security teams at Forescout and JFrog have disclosed today 14 vulnerabilities that impact...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cobalt Strike bugs allow takedown of attackers’ servers<a href="https://www.bleepingcomputer.com/news/security/new-cobalt-strike-bugs-allow-takedown-of-attackers-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered Cobalt Strike denial of service (DoS) vulnerabilities that allow blocking beacon command-and-control (C2) communication channels and new&nbsp;deployments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

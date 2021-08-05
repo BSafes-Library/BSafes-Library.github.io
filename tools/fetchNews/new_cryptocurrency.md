@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Apache Hadoop YARN Exploited for Cryptomining<a href="https://cyware.com/news/misconfigured-apache-hadoop-yarn-exploited-for-cryptomining-abdbd6b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report has revealed that cybercriminals are taking advantage of misconfigured Apache Hadoop YARN. The report includes details about payload delivery, attack tactics, and basic security advice. Experts highlight that disabling the targeted system’s protection offered by cloud services has b ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

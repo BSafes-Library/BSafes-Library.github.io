@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LemonDuck Botnet Evolves to Allow Hands-on-Keyboard Attacks<a href="https://therecord.media/lemonduck-botnet-evolves-to-allow-hands-on-keyboard-intrusions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively new term in the cybersecurity world, hands-on-keyboard attacks are when threat actors stop using automated scripts and manually log into an infected system to execute commands themselves.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social engineering goes automatic: New robocall bot on Telegram can trick you into giving up your password<a href="https://cybernews.com/security/new-robocall-bot-on-telegram-can-trick-you-into-giving-up-your-password/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The so-called OTP Bot can trick victims into sending criminals passwords to their bank accounts, email, and other online services – all without any direct interaction with the victim.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

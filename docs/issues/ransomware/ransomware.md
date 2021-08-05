@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware recruiting insiders to breach corporate networks<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-recruiting-insiders-to-breach-corporate-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit 2.0 ransomware gang is actively recruiting corporate insiders to help them breach and encrypt networks. In return, the insider is promised million-dollar payouts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

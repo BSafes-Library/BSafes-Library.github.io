@@ -11,6 +11,24 @@ nav_order: 900029
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Advanced Technology Ventures discloses ransomware attack and data breach<a href="https://securityaffairs.co/wordpress/120816/data-breach/advanced-technology-ventures-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American&nbsp;venture capital&nbsp;firm Advanced Technology Ventures (ATV) disclosed a ransomware attack, crooks also stole data of some private investors.
+
+
+
+Advanced Technology Ventures&nbsp;(ATV) is an American&nbsp;venture capital&nbsp;firm with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 92% of pharmaceutical companies have at least one exposed database<a href="https://www.helpnetsecurity.com/2021/08/03/pharmaceutical-companies-exposed-database/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

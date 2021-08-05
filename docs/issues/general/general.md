@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senators highlight security threats from China during rare public hearing | Facebook suspends accounts of NYU researchers who've criticized platform<a href="https://thehill.com//policy/technology/overnights/566419-hillicon-valley-senators-highlight-security-threats-from-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the Senate Intelligence Committee and other officials warned Wednesday of increasing threats from China on a number of fronts, including the stealing of intellectual property, malign influence and cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Cyber-terror cases went down to 12 in 2019 from 21 in 2018, as per NCRB data<a href="https://timesofindia.indiatimes.com/india/cyber-terror-cases-went-down-to-12-in-2019-from-21-in-2018-as-per-ncrb-data/articleshow/85009977.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-terror cases – or cases registered under Section 66F of the IT Act across the country - went down to 12 in 2019 from 21 in 2018, according to NCRB data cited by the Home Ministry.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
