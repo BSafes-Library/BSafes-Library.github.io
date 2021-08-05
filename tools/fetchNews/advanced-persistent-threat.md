@@ -8,6 +8,39 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Infrastructure Linked to APT29’s WellMess Malware<a href="https://cyware.com/news/new-infrastructure-linked-to-apt29s-wellmess-malware-852a9b2d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RiskIQ laid bare more than 30 active C&amp;C servers delivering WellMess and WellMail malware, allegedly owned by Russian-speaking attack group APT29. It is infamous for targeted attacks aimed at U.S. organizations.&nbsp;Federal agencies and organizations are suggested to stay vigilant, focus on pr ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT31 targets Russia for the first time<a href="https://securityaffairs.co/wordpress/120796/apt/china-linked-apt31-targets-russia-for-the-first-time.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT31 group employed a new strain of malware in attacks aimed at entities in Mongolia, Belarus, Canada, the US, and Russia.
+
+
+
+Researchers from  Positive Technologies reported that China-linked APT31 group has been using a new piece of malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

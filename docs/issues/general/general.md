@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salesforce Release Updates — A Cautionary Tale for Security Teams<a href="https://thehackernews.com/2021/08/salesforce-release-updates-cautionary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the surface, Salesforce seems like a classic Software-as-a-Service (SaaS) platform. Someone might even argue that Salesforce invented the SaaS market. However, the more people work with the full offering of Salesforce, the more they realize that it goes beyond a traditional SaaS platform's capabilities.  For example, few people talk about managing the security aspects of&nbsp; Salesforce Release Updates. &nbsp;By understanding what Release Updates are, why they pose a security risk, and how security teams can mitigate risk, Salesforce customers can better protect sensitive information.  How to ensure the right configurations for your Salesforce security  What are Salesforce Release Updates?  Since Salesforce does not automatically update its platform, it does not follow the traditional SaaS model. For example, most SaaS platforms have two types of releases, security, and product improvements. Urgent security updates are released as soon as a security vulnerability is known, and product i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Graph Foundation launches bug bounty program<a href="https://www.zdnet.com/article/graph-foundation-launches-bug-bounty-program/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, the project said a new bug bounty program has been launched on Immunefi, a DeFi-based bug bounty platform that has paid out over $3 million in rewards to date.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volume of cyber intrusion activity globally jumped 125%: Accenture<a href="https://www.zdnet.com/article/volume-of-cyber-intrusion-activity-globally-jumped-125-accenture/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by the security division at Accenture found that 54% of all ransomware or extortion victims were companies with annual revenues between $1 billion and $9.9 billion.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram for Mac bug lets you save self-destructing messages forever<a href="https://www.bleepingcomputer.com/news/security/telegram-for-mac-bug-lets-you-save-self-destructing-messages-forever/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Researchers have discovered a way for users on Telegram for Mac to keep specific self-destructing messages forever or view them without the sender ever knowing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Security Flaws Expose Mitsubishi Safety PLCs to Remote Attacks<a href="https://thehackernews.com/2021/08/unpatched-security-flaws-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple unpatched security vulnerabilities have been disclosed in Mitsubishi safety programmable logic controllers (PLCs) that could be exploited by an adversary to acquire legitimate user names registered in the module via a brute-force attack, unauthorized login to the CPU module, and even cause a denial-of-service (DoS) condition.  The security weaknesses, disclosed by&nbsp; Nozomi Networks , concern the implementation of an authentication mechanism in the&nbsp; MELSEC communication protocol &nbsp;that's used to exchange data with the target devices that is used for communication with target devices by reading and writing data to the CPU module.   A quick summary of the flaws is listed below -   Username Brute-force (CVE-2021-20594, CVSS score: 5.9) - Usernames used during authentication are effectively brute-forceable  Anti-password Brute-force Functionality Leads to Overly Restrictive Account Lockout Mechanism (CVE-2021-20598, CVSS score: 3.7)  - The implementation to thwart brute-force at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security company warns of Mitsubishi industrial control vulnerabilities<a href="https://www.zdnet.com/article/security-company-warns-of-mitsubishi-industrial-control-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity company Nozomi Networks Labs has warned the industrial control system (ICS) security community about five vulnerabilities affecting Mitsubishi safety PLCs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical, high severity vulnerabilities in VPN routers<a href="https://securityaffairs.co/wordpress/120829/security/cisco-vpn-routers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed critical, high severity pre-auth security vulnerabilities impacting multiple Small Business VPN routers.
+
+
+
+Cisco addressed critical and high severity pre-auth security vulnerabilities that impact multiple Small Business VPN routers. 
+
+
+
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Critical Security Patches to Fix Small Business VPN Router Bugs<a href="https://thehackernews.com/2021/08/cisco-issues-critical-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment major Cisco has rolled out patches to address critical vulnerabilities impacting its Small Business VPN routers that could be abused by a remote attacker to execute arbitrary code and even cause a denial-of-service (DoS) condition.  The issues, tracked as CVE-2021-1609 (CVSS score: 9.8) and CVE-2021-1610 (CVSS score: 7.2), reside in the web-based management interface of the Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers running a firmware release prior to version 1.0.03.22. Both the issues stem from a lack of proper validation of HTTP requests, thus permitting a bad actor to send a specially-crafted HTTP request to a vulnerable device.   Successful exploitation of CVE-2021-1609 could allow an unauthenticated, remote attacker to execute arbitrary code on the device or cause the device to reload, resulting in a DoS condition. CVE-2021-1610, concerns a command injection vulnerability that, if exploited, could permit an authenticated adve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

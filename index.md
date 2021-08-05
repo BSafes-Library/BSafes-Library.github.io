@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometheus: The $250 service behind recent malware attacks<a href="https://www.bleepingcomputer.com/news/security/prometheus-the-250-service-behind-recent-malware-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Examining Unique Magento Backdoors<a href="https://blog.sucuri.net/2021/08/examining-unique-magento-backdoors.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Salesforce Release Updates — A Cautionary Tale for Security Teams<a href="https://thehackernews.com/2021/08/salesforce-release-updates-cautionary.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian energy company ERG hit by LockBit 2.0 ransomware gang<a href="https://securityaffairs.co/wordpress/120841/cyber-crime/erg-lockbit-2-0-ransomware.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google expects delays in enforcing 2FA for Chrome extension devs<a href="https://www.bleepingcomputer.com/news/google/google-expects-delays-in-enforcing-2fa-for-chrome-extension-devs/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch a Hacker Hijack a Capsule Hotel’s Lights, Fans, and Beds<a href="https://www.wired.com/story/capsule-hotel-hack-lights-fan-bed/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Wide Range of Cyber Attacks Leveraging Prometheus TDS Malware Service<a href="https://thehackernews.com/2021/08/a-wide-range-of-cyber-attacks.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram for Mac bug lets you save self-destructing messages forever<a href="https://www.bleepingcomputer.com/news/security/telegram-for-mac-bug-lets-you-save-self-destructing-messages-forever/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A US official explains why the White House decided not to ban ransomware payments<a href="https://www.cyberscoop.com/anne-neuberger-ransomware-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Security Flaws Expose Mitsubishi Safety PLCs to Remote Attacks<a href="https://thehackernews.com/2021/08/unpatched-security-flaws-expose.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge just got a 'Super Duper Secure Mode' upgrade<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-just-got-a-super-duper-secure-mode-upgrade/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals are manipulating reality to reshape the modern threat landscape<a href="https://www.helpnetsecurity.com/2021/08/05/cybercriminals-manipulating-reality/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security company warns of Mitsubishi industrial control vulnerabilities<a href="https://www.zdnet.com/article/security-company-warns-of-mitsubishi-industrial-control-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Graph Foundation launches bug bounty program<a href="https://www.zdnet.com/article/graph-foundation-launches-bug-bounty-program/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Edge Super Duper Secure Mode turns off the JavaScript JIT compiler for extra security<a href="https://www.zdnet.com/article/edge-super-duper-secure-mode-turns-off-the-javascript-jit-compiler-for-extra-security/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volume of cyber intrusion activity globally jumped 125%: Accenture<a href="https://www.zdnet.com/article/volume-of-cyber-intrusion-activity-globally-jumped-125-accenture/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Evolution<a href="https://www.secureworks.com/research/ransomware-evolution?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Secure Works
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical, high severity vulnerabilities in VPN routers<a href="https://securityaffairs.co/wordpress/120829/security/cisco-vpn-routers-flaws.html"> Full Text</a>
@@ -334,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Critical Security Patches to Fix Small Business VPN Router Bugs<a href="https://thehackernews.com/2021/08/cisco-issues-critical-security-patches.html"> Full Text</a>

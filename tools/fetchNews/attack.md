@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya ransomware attack sets off race to hack service providers -researchers<a href="https://www.reuters.com/article/us-usa-cyber-providers/kaseya-ransomware-attack-sets-off-race-to-hack-service-providers-researchers-idUSKBN2F4268?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now that criminals see how powerful MSP attacks can be, “they are already busy, they have already moved on and we don’t know where,” said Victor Gevers, head of the Dutch institute that warned Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Isle of Wight schools hit by ransomware<a href="https://www.computing.co.uk/news/4035404/isle-wight-schools-hit-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, which encrypted data, hit the schools and their umbrella organization the Isle of Wight of Education Federation between July 28th and 29th, according to the Federation.
+</details>
+<div style="text-align: right" markdown="1">
+Computing
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

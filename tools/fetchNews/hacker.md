@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘I’m Calling About Your Car Warranty’, aka PII Hijinx<a href="https://threatpost.com/im-calling-about-your-car-warranty-aka-pii-hijinx/168375/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Hat: Researchers created 300 fake identities, signed them up on 185 legit sites, then tracked how much the sites used signup PII to pester the accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

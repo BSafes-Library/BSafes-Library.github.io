@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus: The $250 service behind recent malware attacks<a href="https://www.bleepingcomputer.com/news/security/prometheus-the-250-service-behind-recent-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers investigating multiple malware distribution campaigns found that an underground traffic distribution service called Prometheus is responsible for delivering threats that often lead to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian&nbsp;energy company ERG hit by LockBit 2.0 ransomware gang<a href="https://securityaffairs.co/wordpress/120841/cyber-crime/erg-lockbit-2-0-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ERG SPA,&nbsp;an Italian&nbsp;energy company, reports a minor impact on its operations after the recent ransomware attack conducted by LockBit 2.0 gang.
+
+
+
+Recently the Italian&nbsp;energy company ERG was hit by the LockBit 2.0 ransomware gang, now the company reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Wide Range of Cyber Attacks Leveraging Prometheus TDS Malware Service<a href="https://thehackernews.com/2021/08/a-wide-range-of-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple cybercriminal groups are leveraging a malware-as-a-service (MaaS) solution to distribute a wide range of malicious software distribution campaigns that result in the deployment of payloads such as&nbsp;Campo Loader,&nbsp;Hancitor,&nbsp; IcedID ,&nbsp; QBot ,&nbsp; Buer Loader , and&nbsp;SocGholish&nbsp;against individuals in Belgium as well as government agencies, companies, and corporations in the U.S.   Dubbed " Prometheus TDS " (short for Traffic Direction System) and available for sale on underground platforms for $250 a month since August 2020, the service is designed to distribute malware-laced Word and Excel documents and divert users to phishing and malicious sites, according to a Group-IB report  shared with The Hacker News.  More than 3,000 email addresses are said to have been singled out via malicious campaigns in which Prometheus TDS was used to send malicious emails, with banking and finance, retail, energy and mining, cybersecurity, healthcare, IT, and insurance emerging the prominent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

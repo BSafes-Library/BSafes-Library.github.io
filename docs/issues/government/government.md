@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A US official explains why the White House decided not to ban ransomware payments<a href="https://www.cyberscoop.com/anne-neuberger-ransomware-cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration backed away from the idea of banning ransomware payments after meetings with the private sector and cybersecurity experts, a top cybersecurity official said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

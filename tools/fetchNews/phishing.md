@@ -11,6 +11,34 @@ nav_order: 900160
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Unique Paypal Credential Phishing Scam<a href="https://cyware.com/news/a-unique-paypal-credential-phishing-scam-2f0b959f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor sends an email, which does not raise any suspicions, with the subject line stating to initiate a live chat regarding a service notice related to the target’s PayPal account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365: Phishing Variant Bypasses Microsoft’s Own Secure Email Gateway<a href="https://cofense.com/blog/office-365-phishing-variant/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The body of the email explains that Microsoft service has expired; in this case, it's their “Business Basic package.” The threat actor ensured their campaign looked similar to Microsoft-themed emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Dangles SharePoint File-Shares<a href="https://threatpost.com/phishing-sharepoint-file-shares/168356/"> Full Text</a>
 </p>
 <details>

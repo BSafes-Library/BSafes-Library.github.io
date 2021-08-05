@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google expects delays in enforcing 2FA for Chrome extension devs<a href="https://www.bleepingcomputer.com/news/google/google-expects-delays-in-enforcing-2fa-for-chrome-extension-devs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says that enforcing two-step verification on Google accounts of Chrome Web Store developers will take longer than expected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge just got a 'Super Duper Secure Mode' upgrade<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-just-got-a-super-duper-secure-mode-upgrade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that the Edge Vulnerability Research team is experimenting with a new feature dubbed "Super Duper Secure Mode" and designed to bring security improvements without significant performance losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

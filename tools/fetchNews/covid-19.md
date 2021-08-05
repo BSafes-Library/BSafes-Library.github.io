@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+August 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We COVID-Clicked on Garbage, Report Finds: Podcast<a href="https://threatpost.com/we-covid-clicked-on-garbage-report-podcast/168340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Were we work-from-home clicking zombies? Steganography attacks snagged three out of eight recipients. Nasty CAPTCHAs suckered 50 times more clicks during 2020. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

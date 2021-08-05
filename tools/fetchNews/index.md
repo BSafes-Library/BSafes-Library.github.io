@@ -34,7 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 05, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus: The $250 service behind recent malware attacks<a href="https://www.bleepingcomputer.com/news/security/prometheus-the-250-service-behind-recent-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers investigating multiple malware distribution campaigns found that an underground traffic distribution service called Prometheus is responsible for delivering threats that often lead to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Examining Unique Magento Backdoors<a href="https://blog.sucuri.net/2021/08/examining-unique-magento-backdoors.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These backdoors are intentionally hidden from public view, rendering any remote or external scanners futile, and the dynamic nature of these backdoors makes signature-based detection less reliable.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salesforce Release Updates — A Cautionary Tale for Security Teams<a href="https://thehackernews.com/2021/08/salesforce-release-updates-cautionary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the surface, Salesforce seems like a classic Software-as-a-Service (SaaS) platform. Someone might even argue that Salesforce invented the SaaS market. However, the more people work with the full offering of Salesforce, the more they realize that it goes beyond a traditional SaaS platform's capabilities.  For example, few people talk about managing the security aspects of  Salesforce Release Updates.  By understanding what Release Updates are, why they pose a security risk, and how security teams can mitigate risk, Salesforce customers can better protect sensitive information.  How to ensure the right configurations for your Salesforce security  What are Salesforce Release Updates?  Since Salesforce does not automatically update its platform, it does not follow the traditional SaaS model. For example, most SaaS platforms have two types of releases, security, and product improvements. Urgent security updates are released as soon as a security vulnerability is known, and product i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian energy company ERG hit by LockBit 2.0 ransomware gang<a href="https://securityaffairs.co/wordpress/120841/cyber-crime/erg-lockbit-2-0-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ERG SPA, an Italian energy company, reports a minor impact on its operations after the recent ransomware attack conducted by LockBit 2.0 gang.
+
+
+
+Recently the Italian energy company ERG was hit by the LockBit 2.0 ransomware gang, now the company reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google expects delays in enforcing 2FA for Chrome extension devs<a href="https://www.bleepingcomputer.com/news/google/google-expects-delays-in-enforcing-2fa-for-chrome-extension-devs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says that enforcing two-step verification on Google accounts of Chrome Web Store developers will take longer than expected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch a Hacker Hijack a Capsule Hotel’s Lights, Fans, and Beds<a href="https://www.wired.com/story/capsule-hotel-hack-lights-fan-bed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher exploited IoT flaws that allowed him to hijack the controls for any room at the hotel to mess with its lights, ventilation, and the beds in each room that convert to a couch.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Wide Range of Cyber Attacks Leveraging Prometheus TDS Malware Service<a href="https://thehackernews.com/2021/08/a-wide-range-of-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple cybercriminal groups are leveraging a malware-as-a-service (MaaS) solution to distribute a wide range of malicious software distribution campaigns that result in the deployment of payloads such as Campo Loader, Hancitor,  IcedID ,  QBot ,  Buer Loader , and SocGholish against individuals in Belgium as well as government agencies, companies, and corporations in the U.S.   Dubbed " Prometheus TDS " (short for Traffic Direction System) and available for sale on underground platforms for $250 a month since August 2020, the service is designed to distribute malware-laced Word and Excel documents and divert users to phishing and malicious sites, according to a Group-IB report  shared with The Hacker News.  More than 3,000 email addresses are said to have been singled out via malicious campaigns in which Prometheus TDS was used to send malicious emails, with banking and finance, retail, energy and mining, cybersecurity, healthcare, IT, and insurance emerging the prominent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram for Mac bug lets you save self-destructing messages forever<a href="https://www.bleepingcomputer.com/news/security/telegram-for-mac-bug-lets-you-save-self-destructing-messages-forever/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Researchers have discovered a way for users on Telegram for Mac to keep specific self-destructing messages forever or view them without the sender ever knowing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A US official explains why the White House decided not to ban ransomware payments<a href="https://www.cyberscoop.com/anne-neuberger-ransomware-cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration backed away from the idea of banning ransomware payments after meetings with the private sector and cybersecurity experts, a top cybersecurity official said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Security Flaws Expose Mitsubishi Safety PLCs to Remote Attacks<a href="https://thehackernews.com/2021/08/unpatched-security-flaws-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple unpatched security vulnerabilities have been disclosed in Mitsubishi safety programmable logic controllers (PLCs) that could be exploited by an adversary to acquire legitimate user names registered in the module via a brute-force attack, unauthorized login to the CPU module, and even cause a denial-of-service (DoS) condition.  The security weaknesses, disclosed by  Nozomi Networks , concern the implementation of an authentication mechanism in the  MELSEC communication protocol  that's used to exchange data with the target devices that is used for communication with target devices by reading and writing data to the CPU module.   A quick summary of the flaws is listed below -   Username Brute-force (CVE-2021-20594, CVSS score: 5.9) - Usernames used during authentication are effectively brute-forceable  Anti-password Brute-force Functionality Leads to Overly Restrictive Account Lockout Mechanism (CVE-2021-20598, CVSS score: 3.7)  - The implementation to thwart brute-force at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge just got a 'Super Duper Secure Mode' upgrade<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-just-got-a-super-duper-secure-mode-upgrade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that the Edge Vulnerability Research team is experimenting with a new feature dubbed "Super Duper Secure Mode" and designed to bring security improvements without significant performance losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals are manipulating reality to reshape the modern threat landscape<a href="https://www.helpnetsecurity.com/2021/08/05/cybercriminals-manipulating-reality/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defenders are struggling to counter these complex attacks and gain visibility into new environments, such as the cloud, containers, and business communication applications.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security company warns of Mitsubishi industrial control vulnerabilities<a href="https://www.zdnet.com/article/security-company-warns-of-mitsubishi-industrial-control-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity company Nozomi Networks Labs has warned the industrial control system (ICS) security community about five vulnerabilities affecting Mitsubishi safety PLCs.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Graph Foundation launches bug bounty program<a href="https://www.zdnet.com/article/graph-foundation-launches-bug-bounty-program/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, the project said a new bug bounty program has been launched on Immunefi, a DeFi-based bug bounty platform that has paid out over $3 million in rewards to date.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Edge Super Duper Secure Mode turns off the JavaScript JIT compiler for extra security<a href="https://www.zdnet.com/article/edge-super-duper-secure-mode-turns-off-the-javascript-jit-compiler-for-extra-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lead of Microsoft Edge Vulnerability Research Johnathan Norman has detailed an experiment in Edge that disabled the JavaScript JIT compiler to enable some extra security protections.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volume of cyber intrusion activity globally jumped 125%: Accenture<a href="https://www.zdnet.com/article/volume-of-cyber-intrusion-activity-globally-jumped-125-accenture/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by the security division at Accenture found that 54% of all ransomware or extortion victims were companies with annual revenues between $1 billion and $9.9 billion.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Evolution<a href="https://www.secureworks.com/research/ransomware-evolution?&web_view=true"> Full Text</a>
@@ -50,7 +310,7 @@ Secure Works
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical, high severity vulnerabilities in VPN routers<a href="https://securityaffairs.co/wordpress/120829/security/cisco-vpn-routers-flaws.html"> Full Text</a>
@@ -74,7 +334,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Critical Security Patches to Fix Small Business VPN Router Bugs<a href="https://thehackernews.com/2021/08/cisco-issues-critical-security-patches.html"> Full Text</a>
