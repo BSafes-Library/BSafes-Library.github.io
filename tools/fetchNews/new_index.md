@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senators highlight security threats from China during rare public hearing | Facebook suspends accounts of NYU researchers who've criticized platform<a href="https://thehill.com//policy/technology/overnights/566419-hillicon-valley-senators-highlight-security-threats-from-china"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators highlight national security threats from China during rare public hearing<a href="https://thehill.com//policy/cybersecurity/566414-senators-highlight-national-security-threats-from-china-during-rare"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 We COVID-Clicked on Garbage, Report Finds: Podcast<a href="https://threatpost.com/we-covid-clicked-on-garbage-report-podcast/168340/"> Full Text</a>
@@ -82,7 +82,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Energy group ERG reports minor disruptions after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/energy-group-erg-reports-minor-disruptions-after-ransomware-attack/"> Full Text</a>
@@ -98,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advanced Technology Ventures discloses ransomware attack and data breach<a href="https://securityaffairs.co/wordpress/120816/data-breach/advanced-technology-ventures-ransomware-attack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘I’m Calling About Your Car Warranty’, aka PII Hijinx<a href="https://threatpost.com/im-calling-about-your-car-warranty-aka-pii-hijinx/168375/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Malware Families Targeting IIS Web Servers With Malicious Modules<a href="https://thehackernews.com/2021/08/several-malware-families-targeting-iis.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical, high severity pre-auth flaws in VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-high-severity-pre-auth-flaws-in-vpn-routers/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python Packages Stealing Discord Tokens and Much More<a href="https://cyware.com/news/python-packages-stealing-discord-tokens-and-much-more-429ec854"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured Apache Hadoop YARN Exploited for Cryptomining<a href="https://cyware.com/news/misconfigured-apache-hadoop-yarn-exploited-for-cryptomining-abdbd6b5"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Infrastructure Linked to APT29’s WellMess Malware<a href="https://cyware.com/news/new-infrastructure-linked-to-apt29s-wellmess-malware-852a9b2d"> Full Text</a>
@@ -216,7 +216,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in dating site OkCupid could be used to trick users into ‘liking’ or messaging other profiles<a href="https://portswigger.net/daily-swig/vulnerability-in-dating-site-okcupid-could-be-used-to-trick-users-into-liking-or-messaging-other-profiles?&web_view=true"> Full Text</a>
@@ -232,7 +232,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Unique Paypal Credential Phishing Scam<a href="https://cyware.com/news/a-unique-paypal-credential-phishing-scam-2f0b959f"> Full Text</a>
@@ -248,7 +248,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya ransomware attack sets off race to hack service providers -researchers<a href="https://www.reuters.com/article/us-usa-cyber-providers/kaseya-ransomware-attack-sets-off-race-to-hack-service-providers-researchers-idUSKBN2F4268?&web_view=true"> Full Text</a>
@@ -264,7 +264,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS S3 can be a security risk for your business<a href="https://www.helpnetsecurity.com/2021/08/04/aws-s3-security-risk/?&web_view=true"> Full Text</a>
@@ -280,7 +280,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365: Phishing Variant Bypasses Microsoft’s Own Secure Email Gateway<a href="https://cofense.com/blog/office-365-phishing-variant/?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cofense
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia tells UN it wants vast expansion of cybercrime offenses, plus network backdoors, online censorship<a href="https://www.theregister.com/2021/08/03/russia_cybercrime_laws/?&web_view=true"> Full Text</a>
@@ -312,7 +312,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Use-after-free discovered vulnerability in Tinyobjloader<a href="https://blog.talosintelligence.com/2021/08/vuln-spotlight-.html?&web_view=true"> Full Text</a>
@@ -328,7 +328,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2021
+August 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware recruiting insiders to breach corporate networks<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-recruiting-insiders-to-breach-corporate-networks/"> Full Text</a>
@@ -344,7 +344,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA and NSA publish guidance to secure Kubernetes deployments<a href="https://securityaffairs.co/wordpress/120807/security/kubernetes-guidance.html"> Full Text</a>
@@ -368,7 +368,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Isle of Wight schools hit by ransomware<a href="https://www.computing.co.uk/news/4035404/isle-wight-schools-hit-ransomware?&web_view=true"> Full Text</a>
@@ -384,7 +384,7 @@ Computing
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT31 targets Russia for the first time<a href="https://securityaffairs.co/wordpress/120796/apt/china-linked-apt31-targets-russia-for-the-first-time.html"> Full Text</a>
@@ -404,7 +404,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2021
+August 4, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Cyber-terror cases went down to 12 in 2019 from 21 in 2018, as per NCRB data<a href="https://timesofindia.indiatimes.com/india/cyber-terror-cases-went-down-to-12-in-2019-from-21-in-2018-as-per-ncrb-data/articleshow/85009977.cms?&web_view=true"> Full Text</a>
