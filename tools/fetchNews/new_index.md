@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 04, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senators highlight security threats from China during rare public hearing | Facebook suspends accounts of NYU researchers who've criticized platform<a href="https://thehill.com//policy/technology/overnights/566419-hillicon-valley-senators-highlight-security-threats-from-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the Senate Intelligence Committee and other officials warned Wednesday of increasing threats from China on a number of fronts, including the stealing of intellectual property, malign influence and cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Senators highlight national security threats from China during rare public hearing<a href="https://thehill.com//policy/cybersecurity/566414-senators-highlight-national-security-threats-from-china-during-rare"> Full Text</a>
 </p>
 <details>
