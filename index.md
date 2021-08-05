@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 5, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Evolution<a href="https://www.secureworks.com/research/ransomware-evolution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have evolved and the ransomware-as-a-service (RaaS) model became popular because the use of affiliates enables ransomware operators to attack more victims with little effort.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical, high severity vulnerabilities in VPN routers<a href="https://securityaffairs.co/wordpress/120829/security/cisco-vpn-routers-flaws.html"> Full Text</a>
 </p>
 <details>
