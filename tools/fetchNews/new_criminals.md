@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert provided leak indicators for Conti ransomware operations that were recently disclosed by a disgruntled affiliate.
+
+
+
+An affiliate of the&nbsp;Conti RaaS&nbsp;has leaked the training material provided by the group to the customers of its RaaS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Sophisticated Group' Behind Alaska Cyberattack, Agency Says<a href="https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agency-says?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The department said the group had “exploited a vulnerable website and spread from there.” The department said it would not provide additional details on the nature &amp; scope of the attack at this time.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

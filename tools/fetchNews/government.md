@@ -8,6 +8,90 @@ nav_order: 900075
 
 ## Government
 ---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Extends ICT SCRM Task Force Until 2023<a href="https://www.meritalk.com/articles/cisa-extends-ict-scrm-task-force-until-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 2, the CISA announced that it would be extending the Information and Communications Technology (ICT) Supply Chain Risk Management (SCRM) Task Force to July 31, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Meritalk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA teams up with Microsoft, Google, Amazon to fight ransomware<a href="https://www.bleepingcomputer.com/news/security/cisa-teams-up-with-microsoft-google-amazon-to-fight-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has announced the launch of Joint Cyber Defense Collaborative (JCDC), a partnership across public and private sectors focused on defending US critical infrastructure from ransomware and other cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bipartisan bill to sanction nations involved in ransomware attacks<a href="https://thehill.com//policy/cybersecurity/566610-senators-introduce-legislation-to-sanction-nations-involved-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Intelligence Committee Vice Chairman Marco Rubio (R-Fla.) and Sen. Dianne FeinsteinDianne Emiel FeinsteinNearly 140 Democrats urge EPA to 'promptly' allow California to set its own vehicle pollution standards Biden signs bill to bolster crime victims fund Stripping opportunity from DC's children MORE (D-Calif.) on Thursday introduced legislation that would sanction countries involved in state-sponsored ransomware attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal cyber agency kicks off collaborative to defend the U.S. against cyberattacks<a href="https://thehill.com//policy/cybersecurity/566585-federal-cyber-agency-stands-up-center-to-defend-the-us-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Thursday kicked off a new effort to help defend the U.S. against cyberattacks, which have multiplied in recent months.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers roll out bipartisan bill to help track cyber crimes<a href="https://thehill.com//policy/cybersecurity/566553-lawmakers-roll-out-bipartisan-bill-to-help-track-cybercrimes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House and Senate lawmakers on Thursday introduced legislation intended to help the federal government better track and analyze cyber crime following a sharp increase in cyberattacks over the past year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware Free Wi-Fi: Government Urges Workers to Avoid Public Networks<a href="https://www.nytimes.com/2021/08/04/us/politics/nsa-public-wifi.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA warned all federal employees, leading defense contractors, and civilian personnel that hackers could take advantage of the public Wi-Fi in coffee shops, airports, and hotel rooms.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

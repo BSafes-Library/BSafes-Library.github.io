@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Infrastructure Bill Allocates $2 Billion to Cybersecurity<a href="https://www.securityweek.com/us-infrastructure-bill-allocates-2-billion-cybersecurity?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple to Scan Every Device for Child Abuse Content — But Experts Fear for Privacy<a href="https://thehackernews.com/2021/08/apple-to-scan-every-device-for-child.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OrangeTee Real Estate Group Website Taken Down Following Security Breach<a href="https://www.channelnewsasia.com/business/orangetee-data-security-breach-real-estate-2096391?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Channel News Asia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addresses critical flaws in its products<a href="https://securityaffairs.co/wordpress/120870/security/vmware-critical-vulnerabilities.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security expert warns of 'stolen' zero-day vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252504895/Matt-Tait-warns-of-stolen-zero-day-vulnerabilities?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Sophisticated Group' Behind Alaska Cyberattack, Agency Says<a href="https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agency-says?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter Ransomware Joins the List of Ransomware Families Targeting VMware ESXi Servers<a href="https://securityaffairs.co/wordpress/120862/cyber-crime/blackmatter-ransomware-linux-version.html?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistan government approves new cybersecurity policy, cybercrime agency<a href="https://portswigger.net/daily-swig/pakistan-government-approves-new-cybersecurity-policy-cybercrime-agency?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeadRinger APT Group Targets Southeast Asian Telecommunications Firms<a href="https://cyware.com/news/deadringer-apt-group-targets-southeast-asian-telecommunications-firms-5d0b0e8e"> Full Text</a>
@@ -219,7 +219,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government Joins Hands with Amazon, Microsoft, Google, and Other Tech Firms to Tackle Ransomware Threats<a href="https://www.techradar.com/in/news/us-government-teams-up-with-tech-giants-to-tackle-the-next-big-cyberattack?&web_view=true"> Full Text</a>
@@ -235,7 +235,7 @@ Tech Radar
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Wiper Malware Caused Iranian Trains to Halt<a href="https://cyware.com/news/a-wiper-malware-caused-iranian-trains-to-halt-652d42dc"> Full Text</a>

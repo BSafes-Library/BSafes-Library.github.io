@@ -11,6 +11,48 @@ nav_order: 900075
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. Infrastructure Bill Allocates $2 Billion to Cybersecurity<a href="https://www.securityweek.com/us-infrastructure-bill-allocates-2-billion-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. senators unveiled the finalized $1.2 trillion bipartisan infrastructure bill, which the White House says will allocate roughly $2 billion to improving the country’s cybersecurity capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan government approves new cybersecurity policy, cybercrime agency<a href="https://portswigger.net/daily-swig/pakistan-government-approves-new-cybersecurity-policy-cybercrime-agency?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan Telecommunication Authority (PTA) has announced that a new cybersecurity policy and accompanying cybersecurity agency has been approved for the South Asian nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Joins Hands with Amazon, Microsoft, Google, and Other Tech Firms to Tackle Ransomware Threats<a href="https://www.techradar.com/in/news/us-government-teams-up-with-tech-giants-to-tackle-the-next-big-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government has announced that it will partner with Amazon, Microsoft, Google, and other tech companies as part of a new initiative aimed at bolstering the country's cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Extends ICT SCRM Task Force Until 2023<a href="https://www.meritalk.com/articles/cisa-extends-ict-scrm-task-force-until-2023/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

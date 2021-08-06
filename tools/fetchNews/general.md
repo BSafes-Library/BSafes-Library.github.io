@@ -11,6 +11,20 @@ nav_order: 900072
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Federal cyber agency kicks off effort to defend US against cyberattacks | Senators introduce bill to sanction nations tied to ransomware attacks | Amazon pushes back corporate reopening<a href="https://thehill.com//policy/cybersecurity/overnights/566617-hillicon-valley-federal-cyber-agency-kicks-off-effort-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new program kicked off Thursday aimed at defending the U.S. against cyberattacks, and a bipartisan group of lawmakers introduced legislation to help the federal government better track and analyze cyber crime.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Salesforce Release Updates — A Cautionary Tale for Security Teams<a href="https://thehackernews.com/2021/08/salesforce-release-updates-cautionary.html"> Full Text</a>
 </p>
 <details>

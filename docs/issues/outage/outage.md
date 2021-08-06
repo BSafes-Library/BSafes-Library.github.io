@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OrangeTee Real Estate Group Website Taken Down Following Security Breach<a href="https://www.channelnewsasia.com/business/orangetee-data-security-breach-real-estate-2096391?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation was launched to assess if the data held in the network could be compromised. OT Group said its preliminary investigations showed that there was a breach of data security.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Wiper Malware Caused Iranian Trains to Halt<a href="https://cyware.com/news/a-wiper-malware-caused-iranian-trains-to-halt-652d42dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne linked the cyberattack on Iran’s train system incident to a new threat actor they named MeteorExpresss, which used a hitherto unknown wiper. Early analysis, along with reconstructed and recovered attacker artifacts, revealed that the attacker compromised Group Policy to spread a cab fil ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

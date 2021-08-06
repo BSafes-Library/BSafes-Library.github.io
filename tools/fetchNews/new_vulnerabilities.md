@@ -11,6 +11,52 @@ nav_order: 900220
 August 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses critical flaws in its products<a href="https://securityaffairs.co/wordpress/120870/security/vmware-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical vulnerability that affects multiple products that could be exploited to gain access to confidential information. 
+
+
+
+VMware has released security updates to address multiple flaws in its products, including a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert warns of 'stolen' zero-day vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252504895/Matt-Tait-warns-of-stolen-zero-day-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During Black Hat 2021, the COO of Corellium discussed three main threats that have ramped up: stolen zero days, zero days being exploited in the wild and supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 India's Koo, a Twitter-like Service, Found Vulnerable to Critical Worm Attacks<a href="https://thehackernews.com/2021/08/indias-koo-twitter-like-service-found.html"> Full Text</a>
 </p>
 <details>

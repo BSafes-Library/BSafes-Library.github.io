@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadRinger APT Group Targets Southeast Asian Telecommunications Firms<a href="https://cyware.com/news/deadringer-apt-group-targets-southeast-asian-telecommunications-firms-5d0b0e8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason exposed DeadRinger - clustered activities by Chinese espionage groups that targeted at least five global telecom providers in Southeast Asia. The goal of the campaigns was to target telecommunications firms to facilitate cyber espionage by gathering important information and subsequently ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

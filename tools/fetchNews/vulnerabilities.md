@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Koo, a Twitter-like Service, Found Vulnerable to Critical Worm Attacks<a href="https://thehackernews.com/2021/08/indias-koo-twitter-like-service-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Koo, India's homegrown Twitter clone, recently patched a serious security vulnerability that could have been exploited to execute arbitrary JavaScript code against hundreds of thousands of its users, spreading the attack across the platform.  The vulnerability involves a&nbsp; stored cross-site scripting flaw &nbsp;(also known as persistent XSS) in Koo's web application that allows malicious scripts to be embedded directly into the affected web application.  To carry out the attack, all a malicious actor had to do was log into the service via the web application and post an XSS-encoded payload to its timeline, which automatically gets executed on behalf of all users who saw the post.   The issue was discovered by security researcher&nbsp; Rahul Kankrale &nbsp;in July, following which a fix was rolled out by Koo on July 3.  Using cross-site scripting, an attacker can perform actions on behalf of users with the same privileges as the user and steal web browser's secrets, such as authentication
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches to Fix Critical Bugs Affecting Multiple Products<a href="https://thehackernews.com/2021/08/vmware-issues-patches-to-fix-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates for multiple products to address a critical vulnerability that could be exploited to gain access to confidential information.  Tracked as&nbsp; CVE-2021-22002 &nbsp;(CVSS score: 8.6) and&nbsp; CVE-2021-22003 &nbsp;(CVSS score: 3.7), the flaws affect VMware Workspace One Access (Access), VMware Identity Manager (vIDM), VMware vRealize Automation (vRA), VMware Cloud Foundation, and vRealize Suite Lifecycle Manager.   CVE-2021-22002 concerns an issue with how VMware Workspace One Access and Identity Manager allow the "/cfg" web app and diagnostic endpoints to be accessed via port 443 by tampering with a host header, resulting in a server-side request.  "A malicious actor with network access to port 443 could tamper with host headers to facilitate access to the /cfg web app, in addition a malicious actor could access /cfg diagnostic endpoints without authentication," the company&nbsp; said &nbsp;in its advisory. Suleyman Bayir of Trendyol has been credited with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DNS vulnerability allows 'nation-state level spying' on companies<a href="https://www.bleepingcomputer.com/news/security/new-dns-vulnerability-allows-nation-state-level-spying-on-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a new class of DNS vulnerabilities impacting major DNS-as-a-Service (DNSaaS) providers that could allow attackers to access sensitive information from corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows PrintNightmare zero-days get free unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-printnightmare-zero-days-get-free-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch has been released to protect Windows users from all new PrintNightmare zero-day vulnerabilities discovered since June.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twelve Year-old Vulnerability Impacting at Least 20 Router Models Could Allow Network Compromise<a href="https://portswigger.net/daily-swig/decade-long-vulnerability-in-multiple-routers-could-allow-network-compromise?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered by Evan Grant of Tenable, the critical path traversal flaw is tracked as CVE-2021–20090, with a CVSS of 9.8, and is exploitable by unauthenticated, remote attackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

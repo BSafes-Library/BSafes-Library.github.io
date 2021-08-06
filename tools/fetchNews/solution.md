@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open source tool WARCannon simplifies web-wide vulnerability research<a href="https://portswigger.net/daily-swig/black-hat-2021-warcannon-simplifies-web-wide-vulnerability-research?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers and bug bounty hunters can use WARCannon to non-invasively test regex patterns across the entire internet for corresponding vulnerability indicators.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential leak detection tool Scrapesy aims to reduce incident response times<a href="https://portswigger.net/daily-swig/black-hat-usa-credential-leak-detection-tool-scrapesy-aims-to-reduce-incident-response?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool, which scrapes both the clear web and dark web for exposed credentials, is designed for use by workers in security operations, incident response, threat intelligence, and pen testing roles.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotting brand impersonation with Swin transformers and Siamese neural networks<a href="https://www.microsoft.com/security/blog/2021/08/04/spotting-brand-impersonation-with-swin-transformers-and-siamese-neural-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using a combination of ML techniques, Microsoft developed a detection system that outperforms all visual fingerprint-based benchmarks on all metrics while maintaining a 90% hit rate.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
