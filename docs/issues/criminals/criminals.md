@@ -11,6 +11,34 @@ nav_order: 900031
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Prometheus Traffic Distribution System Used to Propagate Multiple Malware Campaigns<a href="https://therecord.media/meet-prometheus-the-secret-tds-behind-some-of-todays-malware-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered Prometheus traffic distribution system is helping malware and cybercrime gangs distribute their malicious payloads to unsuspecting users using hacked websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus TDS: The $250 service behind recent malware attacks<a href="https://www.bleepingcomputer.com/news/security/prometheus-tds-the-250-service-behind-recent-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers investigating multiple malware distribution campaigns found that an underground traffic distribution service called Prometheus is responsible for delivering threats that often lead to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals are manipulating reality to reshape the modern threat landscape<a href="https://www.helpnetsecurity.com/2021/08/05/cybercriminals-manipulating-reality/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

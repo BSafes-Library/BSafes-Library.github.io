@@ -11,6 +11,20 @@ nav_order: 900080
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ITG18: Operational Security Errors Continue to Plague Sizable Iranian Threat Group<a href="https://securityintelligence.com/posts/itg18-operational-security-errors-plague-iranian-threat-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM Security X-Force researchers continue to track the infrastructure and activity of a suspected Iranian threat group ITG18. This group’s TTPs overlap with Charming Kitten, Phosphorus, and TA453.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Watch a Hacker Hijack a Capsule Hotel’s Lights, Fans, and Beds<a href="https://www.wired.com/story/capsule-hotel-hack-lights-fan-bed/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

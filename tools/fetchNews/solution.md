@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Edge Super Duper Secure Mode turns off the JavaScript JIT compiler for extra security<a href="https://www.zdnet.com/article/edge-super-duper-secure-mode-turns-off-the-javascript-jit-compiler-for-extra-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lead of Microsoft Edge Vulnerability Research Johnathan Norman has detailed an experiment in Edge that disabled the JavaScript JIT compiler to enable some extra security protections.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

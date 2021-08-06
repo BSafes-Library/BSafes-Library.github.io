@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware affiliate leaked gang’s training material and tools<a href="https://securityaffairs.co/wordpress/120852/cyber-crime/conti-ransomware-affiliate-leaks-training-materia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of the Conti RaaS has leaked the training material shared by the group with its network along with the info about one of the operators.
+
+
+
+An affiliate of the Conti RaaS has leaked the training material provided by the group to the customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Angry Conti ransomware affiliate leaks gang's attack playbook<a href="https://www.bleepingcomputer.com/news/security/angry-conti-ransomware-affiliate-leaks-gangs-attack-playbook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A disgruntled Conti affiliate has leaked the gang's training material when conducting attacks, including information about one of the ransomware's operators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reindeer Leaked the Sensitive Data of Over 300,000 People Due to Misconfigured Amazon S3 Bucket<a href="https://www.securitymagazine.com/articles/95782-reindeer-leaked-the-sensitive-data-of-more-than-300000-people?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The misconfigured S3 bucket compromised the details of over 300,000 customers from various Reindeer clients. Patrón was the client firm with the most customers’ PIIs exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

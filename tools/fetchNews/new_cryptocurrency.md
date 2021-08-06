@@ -8,6 +8,32 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominer ELFs Using MSR to Boost Mining Process<a href="https://securityaffairs.co/wordpress/120848/cyber-crime/cryptominer-elfs-msr-mining-performance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs Threat Research Team recently observed&nbsp;Golang-based worm dropping&nbsp;cryptominer binaries which use the MSR (Model Specific Register) driver.
+
+
+
+&nbsp;By&nbsp;UPTYCS THREAT RESEARCH&nbsp;
+
+
+
+Original research by Siddarth Sharma
+
+
+
+The Uptycs Threat Research...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

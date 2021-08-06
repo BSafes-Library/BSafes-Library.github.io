@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Evolution<a href="https://www.secureworks.com/research/ransomware-evolution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have evolved and the ransomware-as-a-service (RaaS) model became popular because the use of affiliates enables ransomware operators to attack more victims with little effort.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
