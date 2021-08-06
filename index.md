@@ -34,6 +34,224 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Infrastructure Bill Allocates $2 Billion to Cybersecurity<a href="https://www.securityweek.com/us-infrastructure-bill-allocates-2-billion-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. senators unveiled the finalized $1.2 trillion bipartisan infrastructure bill, which the White House says will allocate roughly $2 billion to improving the country’s cybersecurity capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple to Scan Every Device for Child Abuse Content — But Experts Fear for Privacy<a href="https://thehackernews.com/2021/08/apple-to-scan-every-device-for-child.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday said it's introducing new child safety features in iOS, iPadOS, watchOS, and macOS as part of its efforts to limit the spread of Child Sexual Abuse Material (CSAM) in the U.S.  To that effect, the iPhone maker said it intends to begin client-side scanning of images shared via every Apple device for known child abuse content as they are being uploaded into iCloud Photos, in addition to leveraging on-device machine learning to vet all iMessage images sent or received by minor accounts (aged under 13) to warn parents of sexually explicit photos in the messaging platform.  Furthermore, Apple also plans to update Siri and Search to stage an intervention when users try to perform searches for CSAM-related topics, alerting the "interest in this topic is harmful and problematic."  "Messages uses on-device machine learning to analyze image attachments and determine if a photo is sexually explicit," Apple  noted . "The feature is designed so that A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert provided leak indicators for Conti ransomware operations that were recently disclosed by a disgruntled affiliate.
+
+
+
+An affiliate of the Conti RaaS has leaked the training material provided by the group to the customers of its RaaS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OrangeTee Real Estate Group Website Taken Down Following Security Breach<a href="https://www.channelnewsasia.com/business/orangetee-data-security-breach-real-estate-2096391?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation was launched to assess if the data held in the network could be compromised. OT Group said its preliminary investigations showed that there was a breach of data security.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses critical flaws in its products<a href="https://securityaffairs.co/wordpress/120870/security/vmware-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical vulnerability that affects multiple products that could be exploited to gain access to confidential information. 
+
+
+
+VMware has released security updates to address multiple flaws in its products, including a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert warns of 'stolen' zero-day vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252504895/Matt-Tait-warns-of-stolen-zero-day-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During Black Hat 2021, the COO of Corellium discussed three main threats that have ramped up: stolen zero days, zero days being exploited in the wild and supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Sophisticated Group' Behind Alaska Cyberattack, Agency Says<a href="https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agency-says?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The department said the group had “exploited a vulnerable website and spread from there.” The department said it would not provide additional details on the nature & scope of the attack at this time.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware Joins the List of Ransomware Families Targeting VMware ESXi Servers<a href="https://securityaffairs.co/wordpress/120862/cyber-crime/blackmatter-ransomware-linux-version.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is the latest ransomware that is able to target VM platforms, some of the other ransomware operations that do the same are REvil, RansomExx/Defray, Mespinoza, HelloKitty, and Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan government approves new cybersecurity policy, cybercrime agency<a href="https://portswigger.net/daily-swig/pakistan-government-approves-new-cybersecurity-policy-cybercrime-agency?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan Telecommunication Authority (PTA) has announced that a new cybersecurity policy and accompanying cybersecurity agency has been approved for the South Asian nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadRinger APT Group Targets Southeast Asian Telecommunications Firms<a href="https://cyware.com/news/deadringer-apt-group-targets-southeast-asian-telecommunications-firms-5d0b0e8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason exposed DeadRinger - clustered activities by Chinese espionage groups that targeted at least five global telecom providers in Southeast Asia. The goal of the campaigns was to target telecommunications firms to facilitate cyber espionage by gathering important information and subsequently ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Joins Hands with Amazon, Microsoft, Google, and Other Tech Firms to Tackle Ransomware Threats<a href="https://www.techradar.com/in/news/us-government-teams-up-with-tech-giants-to-tackle-the-next-big-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government has announced that it will partner with Amazon, Microsoft, Google, and other tech companies as part of a new initiative aimed at bolstering the country's cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Wiper Malware Caused Iranian Trains to Halt<a href="https://cyware.com/news/a-wiper-malware-caused-iranian-trains-to-halt-652d42dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne linked the cyberattack on Iran’s train system incident to a new threat actor they named MeteorExpresss, which used a hitherto unknown wiper. Early analysis, along with reconstructed and recovered attacker artifacts, revealed that the attacker compromised Group Policy to spread a cab fil ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 6, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

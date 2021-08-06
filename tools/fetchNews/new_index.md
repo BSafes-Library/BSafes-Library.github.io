@@ -37,6 +37,224 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 6, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+U.S. Infrastructure Bill Allocates $2 Billion to Cybersecurity<a href="https://www.securityweek.com/us-infrastructure-bill-allocates-2-billion-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. senators unveiled the finalized $1.2 trillion bipartisan infrastructure bill, which the White House says will allocate roughly $2 billion to improving the country’s cybersecurity capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple to Scan Every Device for Child Abuse Content — But Experts Fear for Privacy<a href="https://thehackernews.com/2021/08/apple-to-scan-every-device-for-child.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday said it's introducing new child safety features in iOS, iPadOS, watchOS, and macOS as part of its efforts to limit the spread of Child Sexual Abuse Material (CSAM) in the U.S.  To that effect, the iPhone maker said it intends to begin client-side scanning of images shared via every Apple device for known child abuse content as they are being uploaded into iCloud Photos, in addition to leveraging on-device machine learning to vet all iMessage images sent or received by minor accounts (aged under 13) to warn parents of sexually explicit photos in the messaging platform.  Furthermore, Apple also plans to update Siri and Search to stage an intervention when users try to perform searches for CSAM-related topics, alerting the "interest in this topic is harmful and problematic."  "Messages uses on-device machine learning to analyze image attachments and determine if a photo is sexually explicit," Apple  noted . "The feature is designed so that A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert provided leak indicators for Conti ransomware operations that were recently disclosed by a disgruntled affiliate.
+
+
+
+An affiliate of the Conti RaaS has leaked the training material provided by the group to the customers of its RaaS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OrangeTee Real Estate Group Website Taken Down Following Security Breach<a href="https://www.channelnewsasia.com/business/orangetee-data-security-breach-real-estate-2096391?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation was launched to assess if the data held in the network could be compromised. OT Group said its preliminary investigations showed that there was a breach of data security.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses critical flaws in its products<a href="https://securityaffairs.co/wordpress/120870/security/vmware-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has addressed a critical vulnerability that affects multiple products that could be exploited to gain access to confidential information. 
+
+
+
+VMware has released security updates to address multiple flaws in its products, including a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert warns of 'stolen' zero-day vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252504895/Matt-Tait-warns-of-stolen-zero-day-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During Black Hat 2021, the COO of Corellium discussed three main threats that have ramped up: stolen zero days, zero days being exploited in the wild and supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Sophisticated Group' Behind Alaska Cyberattack, Agency Says<a href="https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agency-says?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The department said the group had “exploited a vulnerable website and spread from there.” The department said it would not provide additional details on the nature & scope of the attack at this time.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware Joins the List of Ransomware Families Targeting VMware ESXi Servers<a href="https://securityaffairs.co/wordpress/120862/cyber-crime/blackmatter-ransomware-linux-version.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is the latest ransomware that is able to target VM platforms, some of the other ransomware operations that do the same are REvil, RansomExx/Defray, Mespinoza, HelloKitty, and Babuk.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan government approves new cybersecurity policy, cybercrime agency<a href="https://portswigger.net/daily-swig/pakistan-government-approves-new-cybersecurity-policy-cybercrime-agency?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan Telecommunication Authority (PTA) has announced that a new cybersecurity policy and accompanying cybersecurity agency has been approved for the South Asian nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeadRinger APT Group Targets Southeast Asian Telecommunications Firms<a href="https://cyware.com/news/deadringer-apt-group-targets-southeast-asian-telecommunications-firms-5d0b0e8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason exposed DeadRinger - clustered activities by Chinese espionage groups that targeted at least five global telecom providers in Southeast Asia. The goal of the campaigns was to target telecommunications firms to facilitate cyber espionage by gathering important information and subsequently ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Joins Hands with Amazon, Microsoft, Google, and Other Tech Firms to Tackle Ransomware Threats<a href="https://www.techradar.com/in/news/us-government-teams-up-with-tech-giants-to-tackle-the-next-big-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government has announced that it will partner with Amazon, Microsoft, Google, and other tech companies as part of a new initiative aimed at bolstering the country's cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Wiper Malware Caused Iranian Trains to Halt<a href="https://cyware.com/news/a-wiper-malware-caused-iranian-trains-to-halt-652d42dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne linked the cyberattack on Iran’s train system incident to a new threat actor they named MeteorExpresss, which used a hitherto unknown wiper. Early analysis, along with reconstructed and recovered attacker artifacts, revealed that the attacker compromised Group Policy to spread a cab fil ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Open source tool WARCannon simplifies web-wide vulnerability research<a href="https://portswigger.net/daily-swig/black-hat-2021-warcannon-simplifies-web-wide-vulnerability-research?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +268,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India's Koo, a Twitter-like Service, Found Vulnerable to Critical Worm Attacks<a href="https://thehackernews.com/2021/08/indias-koo-twitter-like-service-found.html"> Full Text</a>
@@ -66,7 +284,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware also targets VMware ESXi servers<a href="https://securityaffairs.co/wordpress/120862/cyber-crime/blackmatter-ransomware-linux-version.html"> Full Text</a>
@@ -86,7 +304,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Extends ICT SCRM Task Force Until 2023<a href="https://www.meritalk.com/articles/cisa-extends-ict-scrm-task-force-until-2023/?&web_view=true"> Full Text</a>
@@ -102,7 +320,7 @@ Meritalk
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Issues Patches to Fix Critical Bugs Affecting Multiple Products<a href="https://thehackernews.com/2021/08/vmware-issues-patches-to-fix-critical.html"> Full Text</a>
@@ -118,7 +336,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of BlackMatter ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-blackmatter-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -134,7 +352,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Federal cyber agency kicks off effort to defend US against cyberattacks | Senators introduce bill to sanction nations tied to ransomware attacks | Amazon pushes back corporate reopening<a href="https://thehill.com//policy/cybersecurity/overnights/566617-hillicon-valley-federal-cyber-agency-kicks-off-effort-to"> Full Text</a>
@@ -150,7 +368,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Hat: Charming Kitten  Leaves More Paw Prints<a href="https://threatpost.com/black-hat-charming-kitten-opsec-goofs-training-videos/168394/"> Full Text</a>
@@ -166,7 +384,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA teams up with Microsoft, Google, Amazon to fight ransomware<a href="https://www.bleepingcomputer.com/news/security/cisa-teams-up-with-microsoft-google-amazon-to-fight-ransomware/"> Full Text</a>
@@ -182,7 +400,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce bipartisan bill to sanction nations involved in ransomware attacks<a href="https://thehill.com//policy/cybersecurity/566610-senators-introduce-legislation-to-sanction-nations-involved-in"> Full Text</a>
@@ -198,7 +416,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware affiliate leaked gang’s training material and tools<a href="https://securityaffairs.co/wordpress/120852/cyber-crime/conti-ransomware-affiliate-leaks-training-materia.html"> Full Text</a>
@@ -218,7 +436,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DNS vulnerability allows 'nation-state level spying' on companies<a href="https://www.bleepingcomputer.com/news/security/new-dns-vulnerability-allows-nation-state-level-spying-on-companies/"> Full Text</a>
@@ -234,7 +452,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ITG18: Operational Security Errors Continue to Plague Sizable Iranian Threat Group<a href="https://securityintelligence.com/posts/itg18-operational-security-errors-plague-iranian-threat-group/?&web_view=true"> Full Text</a>
@@ -250,7 +468,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal cyber agency kicks off collaborative to defend the U.S. against cyberattacks<a href="https://thehill.com//policy/cybersecurity/566585-federal-cyber-agency-stands-up-center-to-defend-the-us-against"> Full Text</a>
@@ -266,7 +484,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptominer ELFs Using MSR to Boost Mining Process<a href="https://securityaffairs.co/wordpress/120848/cyber-crime/cryptominer-elfs-msr-mining-performance.html"> Full Text</a>
@@ -294,7 +512,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Angry Conti ransomware affiliate leaks gang's attack playbook<a href="https://www.bleepingcomputer.com/news/security/angry-conti-ransomware-affiliate-leaks-gangs-attack-playbook/"> Full Text</a>
@@ -310,7 +528,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Prometheus Traffic Distribution System Used to Propagate Multiple Malware Campaigns<a href="https://therecord.media/meet-prometheus-the-secret-tds-behind-some-of-todays-malware-campaigns/?&web_view=true"> Full Text</a>
@@ -326,7 +544,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers roll out bipartisan bill to help track cyber crimes<a href="https://thehill.com//policy/cybersecurity/566553-lawmakers-roll-out-bipartisan-bill-to-help-track-cybercrimes"> Full Text</a>
@@ -342,7 +560,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows PrintNightmare zero-days get free unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-printnightmare-zero-days-get-free-unofficial-patch/"> Full Text</a>
@@ -358,7 +576,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credential leak detection tool Scrapesy aims to reduce incident response times<a href="https://portswigger.net/daily-swig/black-hat-usa-credential-leak-detection-tool-scrapesy-aims-to-reduce-incident-response?&web_view=true"> Full Text</a>
@@ -374,7 +592,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2021
+August 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometheus TDS: The $250 service behind recent malware attacks<a href="https://www.bleepingcomputer.com/news/security/prometheus-tds-the-250-service-behind-recent-malware-attacks/"> Full Text</a>
@@ -390,7 +608,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twelve Year-old Vulnerability Impacting at Least 20 Router Models Could Allow Network Compromise<a href="https://portswigger.net/daily-swig/decade-long-vulnerability-in-multiple-routers-could-allow-network-compromise?&web_view=true"> Full Text</a>
@@ -406,7 +624,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware Free Wi-Fi: Government Urges Workers to Avoid Public Networks<a href="https://www.nytimes.com/2021/08/04/us/politics/nsa-public-wifi.html?&web_view=true"> Full Text</a>
@@ -422,7 +640,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reindeer Leaked the Sensitive Data of Over 300,000 People Due to Misconfigured Amazon S3 Bucket<a href="https://www.securitymagazine.com/articles/95782-reindeer-leaked-the-sensitive-data-of-more-than-300000-people?&web_view=true"> Full Text</a>
@@ -438,7 +656,7 @@ Security Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2021
+August 5, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spotting brand impersonation with Swin transformers and Siamese neural networks<a href="https://www.microsoft.com/security/blog/2021/08/04/spotting-brand-impersonation-with-swin-transformers-and-siamese-neural-networks/?&web_view=true"> Full Text</a>
