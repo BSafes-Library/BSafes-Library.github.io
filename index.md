@@ -34,6 +34,426 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open source tool WARCannon simplifies web-wide vulnerability research<a href="https://portswigger.net/daily-swig/black-hat-2021-warcannon-simplifies-web-wide-vulnerability-research?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers and bug bounty hunters can use WARCannon to non-invasively test regex patterns across the entire internet for corresponding vulnerability indicators.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Koo, a Twitter-like Service, Found Vulnerable to Critical Worm Attacks<a href="https://thehackernews.com/2021/08/indias-koo-twitter-like-service-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Koo, India's homegrown Twitter clone, recently patched a serious security vulnerability that could have been exploited to execute arbitrary JavaScript code against hundreds of thousands of its users, spreading the attack across the platform.  The vulnerability involves a  stored cross-site scripting flaw  (also known as persistent XSS) in Koo's web application that allows malicious scripts to be embedded directly into the affected web application.  To carry out the attack, all a malicious actor had to do was log into the service via the web application and post an XSS-encoded payload to its timeline, which automatically gets executed on behalf of all users who saw the post.   The issue was discovered by security researcher  Rahul Kankrale  in July, following which a fix was rolled out by Koo on July 3.  Using cross-site scripting, an attacker can perform actions on behalf of users with the same privileges as the user and steal web browser's secrets, such as authentication
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware also targets VMware ESXi servers<a href="https://securityaffairs.co/wordpress/120862/cyber-crime/blackmatter-ransomware-linux-version.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter gang rapidly evolves, the group has developed a Linux version that allows operators to targets VMware's ESXi VM platform. 
+
+
+
+The BlackMatter ransomware gang has implemented a Linux encryptor to targets VMware ESXi virtual machine platform....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Extends ICT SCRM Task Force Until 2023<a href="https://www.meritalk.com/articles/cisa-extends-ict-scrm-task-force-until-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 2, the CISA announced that it would be extending the Information and Communications Technology (ICT) Supply Chain Risk Management (SCRM) Task Force to July 31, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Meritalk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches to Fix Critical Bugs Affecting Multiple Products<a href="https://thehackernews.com/2021/08/vmware-issues-patches-to-fix-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates for multiple products to address a critical vulnerability that could be exploited to gain access to confidential information.  Tracked as  CVE-2021-22002  (CVSS score: 8.6) and  CVE-2021-22003  (CVSS score: 3.7), the flaws affect VMware Workspace One Access (Access), VMware Identity Manager (vIDM), VMware vRealize Automation (vRA), VMware Cloud Foundation, and vRealize Suite Lifecycle Manager.   CVE-2021-22002 concerns an issue with how VMware Workspace One Access and Identity Manager allow the "/cfg" web app and diagnostic endpoints to be accessed via port 443 by tampering with a host header, resulting in a server-side request.  "A malicious actor with network access to port 443 could tamper with host headers to facilitate access to the /cfg web app, in addition a malicious actor could access /cfg diagnostic endpoints without authentication," the company  said  in its advisory. Suleyman Bayir of Trendyol has been credited with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of BlackMatter ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-blackmatter-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The BlackMatter gang has joined the ranks of ransomware operations to develop a Linux encryptor that targets VMware's ESXi virtual machine platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Federal cyber agency kicks off effort to defend US against cyberattacks | Senators introduce bill to sanction nations tied to ransomware attacks | Amazon pushes back corporate reopening<a href="https://thehill.com//policy/cybersecurity/overnights/566617-hillicon-valley-federal-cyber-agency-kicks-off-effort-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new program kicked off Thursday aimed at defending the U.S. against cyberattacks, and a bipartisan group of lawmakers introduced legislation to help the federal government better track and analyze cyber crime.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat: Charming Kitten  Leaves More Paw Prints<a href="https://threatpost.com/black-hat-charming-kitten-opsec-goofs-training-videos/168394/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM X-Force detailed the custom-made “LittleLooter” data stealer and 4+ hours of ITG18 operator training videos revealed by an opsec goof. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA teams up with Microsoft, Google, Amazon to fight ransomware<a href="https://www.bleepingcomputer.com/news/security/cisa-teams-up-with-microsoft-google-amazon-to-fight-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has announced the launch of Joint Cyber Defense Collaborative (JCDC), a partnership across public and private sectors focused on defending US critical infrastructure from ransomware and other cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bipartisan bill to sanction nations involved in ransomware attacks<a href="https://thehill.com//policy/cybersecurity/566610-senators-introduce-legislation-to-sanction-nations-involved-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Intelligence Committee Vice Chairman Marco Rubio (R-Fla.) and Sen. Dianne FeinsteinDianne Emiel FeinsteinNearly 140 Democrats urge EPA to 'promptly' allow California to set its own vehicle pollution standards Biden signs bill to bolster crime victims fund Stripping opportunity from DC's children MORE (D-Calif.) on Thursday introduced legislation that would sanction countries involved in state-sponsored ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware affiliate leaked gang’s training material and tools<a href="https://securityaffairs.co/wordpress/120852/cyber-crime/conti-ransomware-affiliate-leaks-training-materia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of the Conti RaaS has leaked the training material shared by the group with its network along with the info about one of the operators.
+
+
+
+An affiliate of the Conti RaaS has leaked the training material provided by the group to the customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DNS vulnerability allows 'nation-state level spying' on companies<a href="https://www.bleepingcomputer.com/news/security/new-dns-vulnerability-allows-nation-state-level-spying-on-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a new class of DNS vulnerabilities impacting major DNS-as-a-Service (DNSaaS) providers that could allow attackers to access sensitive information from corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ITG18: Operational Security Errors Continue to Plague Sizable Iranian Threat Group<a href="https://securityintelligence.com/posts/itg18-operational-security-errors-plague-iranian-threat-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM Security X-Force researchers continue to track the infrastructure and activity of a suspected Iranian threat group ITG18. This group’s TTPs overlap with Charming Kitten, Phosphorus, and TA453.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal cyber agency kicks off collaborative to defend the U.S. against cyberattacks<a href="https://thehill.com//policy/cybersecurity/566585-federal-cyber-agency-stands-up-center-to-defend-the-us-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Thursday kicked off a new effort to help defend the U.S. against cyberattacks, which have multiplied in recent months. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominer ELFs Using MSR to Boost Mining Process<a href="https://securityaffairs.co/wordpress/120848/cyber-crime/cryptominer-elfs-msr-mining-performance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs Threat Research Team recently observed Golang-based worm dropping cryptominer binaries which use the MSR (Model Specific Register) driver.
+
+
+
+ By UPTYCS THREAT RESEARCH 
+
+
+
+Original research by Siddarth Sharma
+
+
+
+The Uptycs Threat Research...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Angry Conti ransomware affiliate leaks gang's attack playbook<a href="https://www.bleepingcomputer.com/news/security/angry-conti-ransomware-affiliate-leaks-gangs-attack-playbook/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A disgruntled Conti affiliate has leaked the gang's training material when conducting attacks, including information about one of the ransomware's operators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Prometheus Traffic Distribution System Used to Propagate Multiple Malware Campaigns<a href="https://therecord.media/meet-prometheus-the-secret-tds-behind-some-of-todays-malware-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered Prometheus traffic distribution system is helping malware and cybercrime gangs distribute their malicious payloads to unsuspecting users using hacked websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers roll out bipartisan bill to help track cyber crimes<a href="https://thehill.com//policy/cybersecurity/566553-lawmakers-roll-out-bipartisan-bill-to-help-track-cybercrimes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House and Senate lawmakers on Thursday introduced legislation intended to help the federal government better track and analyze cyber crime following a sharp increase in cyberattacks over the past year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows PrintNightmare zero-days get free unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-printnightmare-zero-days-get-free-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch has been released to protect Windows users from all new PrintNightmare zero-day vulnerabilities discovered since June.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential leak detection tool Scrapesy aims to reduce incident response times<a href="https://portswigger.net/daily-swig/black-hat-usa-credential-leak-detection-tool-scrapesy-aims-to-reduce-incident-response?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool, which scrapes both the clear web and dark web for exposed credentials, is designed for use by workers in security operations, incident response, threat intelligence, and pen testing roles.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus TDS: The $250 service behind recent malware attacks<a href="https://www.bleepingcomputer.com/news/security/prometheus-tds-the-250-service-behind-recent-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers investigating multiple malware distribution campaigns found that an underground traffic distribution service called Prometheus is responsible for delivering threats that often lead to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twelve Year-old Vulnerability Impacting at Least 20 Router Models Could Allow Network Compromise<a href="https://portswigger.net/daily-swig/decade-long-vulnerability-in-multiple-routers-could-allow-network-compromise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered by Evan Grant of Tenable, the critical path traversal flaw is tracked as CVE-2021–20090, with a CVSS of 9.8, and is exploitable by unauthenticated, remote attackers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware Free Wi-Fi: Government Urges Workers to Avoid Public Networks<a href="https://www.nytimes.com/2021/08/04/us/politics/nsa-public-wifi.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA warned all federal employees, leading defense contractors, and civilian personnel that hackers could take advantage of the public Wi-Fi in coffee shops, airports, and hotel rooms.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reindeer Leaked the Sensitive Data of Over 300,000 People Due to Misconfigured Amazon S3 Bucket<a href="https://www.securitymagazine.com/articles/95782-reindeer-leaked-the-sensitive-data-of-more-than-300000-people?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The misconfigured S3 bucket compromised the details of over 300,000 customers from various Reindeer clients. Patrón was the client firm with the most customers’ PIIs exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spotting brand impersonation with Swin transformers and Siamese neural networks<a href="https://www.microsoft.com/security/blog/2021/08/04/spotting-brand-impersonation-with-swin-transformers-and-siamese-neural-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using a combination of ML techniques, Microsoft developed a detection system that outperforms all visual fingerprint-based benchmarks on all metrics while maintaining a 90% hit rate.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 05, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,18 @@ nav_order: 1200500
 
 ## Cases
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Van Buren Is Good News for Cybersecurity <a href="https://www.lawfareblog.com/why-van-buren-good-news-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After years of uncertainty, the Supreme Court finally shed some light in June on the meaning of a notoriously vague law, the Computer Fraud and Abuse Act (CFAA). The CFAA is an important tool for deterring and punishing cybercrime. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 19, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
