@@ -34,6 +34,290 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel<a href="https://www.securityweek.com/collective-intelligence-realities-and-hardships-crowdsourced-threat-intel?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology has advanced and converged to support sharing in more recent times, there has been a stronger desire to leverage these new technical capabilities for greater sharing at higher volumes and faster speeds.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX ransomware hit computer manufacturer and distributor GIGABYTE<a href="https://securityaffairs.co/wordpress/120887/cyber-crime/gigabyte-ransomexx-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese manufacturer and distributor of computer hardware  GIGABYTE was a victim of the RansomEXX ransomware gang.
+
+
+
+RansomEXX ransomware gang hit the Taiwanese manufacturer and distributor of computer hardware  GIGABYTE and claims to have stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus TDS – Underground Service Distributing Several Malware Families<a href="https://www.securityweek.com/prometheus-tds-underground-service-distributing-several-malware-families?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB has shared a technical analysis of Prometheus TDS, an underground service that has been used for the distribution of various malware families, such as Buer Loader, Campo Loader, Hancitor, IcedID, QBot, and SocGholish.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerability, tracked as CVE-2021-22937 is a high-severity remote code execution vulnerability that resides in the admin web interface of Pulse Connect Secure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Updates Cyber Resiliency Guide to Account for Increasingly Sophisticated Threats<a href="https://www.nextgov.com/cybersecurity/2021/08/nist-updates-cyber-resiliency-guide-account-increasingly-sophisticated-threats/184328/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a draft update to its flagship cyber resiliency publication, experts from the National Institute of Standards and Technology offer a next-gen strategy for protecting critical information technology systems from their inside out.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 6th 2021 - Insider threat edition<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-6th-2021-insider-threat-edition/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there is one thing we learned this week, it's that not only are corporations vulnerable to insider threats but so are ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination<a href="https://thehill.com//policy/technology/overnights/566794-hillicon-valley-cryptocurrency-clash-complicates-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenSchumer moves to shut down debate on T infrastructure bill The job of shielding journalists is not finished Up next in the culture wars: Adding women to the draft MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Making the Joint Cyber Defense Collaborative Work<a href="https://www.lawfareblog.com/making-joint-cyber-defense-collaborative-work"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the Joint Cyber Defense Collaborative gets off the ground, CISA and Congress will need to take key steps to consolidate its functions and powers and work with ongoing initiatives within the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golang Cryptomining Worm Offers 15% Speed Boost<a href="https://threatpost.com/golang-cryptomining-worm-speed-boost/168456/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest variants of the Monero-mining malware exploit known web server bugs and add efficiency to the mining process.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PetitPotam vulnerability gets an unofficial free patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-vulnerability-gets-an-unofficial-free-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch is now available to block attackers from taking over domain controllers and compromising entire Windows domains via PetitPotam NTLM relay attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX ransomware leaks files stolen from Italian luxury brand Zegna<a href="https://securityaffairs.co/wordpress/120898/data-breach/ransomexx-ransomware-zegna.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomEXX ransomware operators hit the popular Italian luxury fashion house  Ermenegildo Zegna Holding and started leaking stolen files. 
+
+
+
+Zegna is one of the most famous Italian luxury fashion houses. It was founded in 1910 by Ermenegildo Zegna in Trivero, Biella...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco: Firewall manager RCE bug is a zero-day, patch incoming<a href="https://www.bleepingcomputer.com/news/security/cisco-firewall-manager-rce-bug-is-a-zero-day-patch-incoming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Thursday security advisory update, Cisco revealed that a remote code execution (RCE) vulnerability in the Adaptive Security Device Manager (ADSM) Launcher disclosed last month is a zero-day bug that has yet to receive a security update.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Ivanti addressed a critical vulnerability in its Pulse Connect Secure VPN appliances that could be exploited to execute arbitrary code with root privileges. 
+
+
+
+IT firm Ivanti released security updates to address multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer hardware giant GIGABYTE hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Taiwanese motherboard maker Gigabyte has suffered a RansomEXX ransomware attack where threat actors threaten to release 112 GB of data if a ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs and the Name Game Distraction – Krebs on Security<a href="https://krebsonsecurity.com/2021/08/ransomware-gangs-and-the-name-game-distraction/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A key goal of subterfuge is to throw investigators off the scent or to temporarily direct their attention elsewhere. Cybercriminal gangs also perform similar disappearing acts whenever it suits them.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IAM Misconfigurations: More Organizations Fail to Take Precautions<a href="https://unit42.paloaltonetworks.com/iam-misconfigurations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers observed a 60% increase in the number of organizations that configure Google Cloud storage buckets so they are accessible to all users, putting their data at higher risk.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Early Affirm employees raise $70M for SentiLink, an identity verification startup<a href="https://techcrunch.com/2021/08/05/ex-affirm-risk-leaders-raise-70m-for-sentilink-an-identity-verification-startup/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Craft Ventures led the round, Felicis Ventures, Andreessen Horowitz (a16z), and NYCA also participated, which brings the company’s total raised to $85 million since its 2017 inception.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
