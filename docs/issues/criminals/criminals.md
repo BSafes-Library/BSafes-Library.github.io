@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus TDS – Underground Service Distributing Several Malware Families<a href="https://www.securityweek.com/prometheus-tds-underground-service-distributing-several-malware-families?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB has shared a technical analysis of Prometheus TDS, an underground service that has been used for the distribution of various malware families, such as Buer Loader, Campo Loader, Hancitor, IcedID, QBot, and SocGholish.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs and the Name Game Distraction – Krebs on Security<a href="https://krebsonsecurity.com/2021/08/ransomware-gangs-and-the-name-game-distraction/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A key goal of subterfuge is to throw investigators off the scent or to temporarily direct their attention elsewhere. Cybercriminal gangs also perform similar disappearing acts whenever it suits them.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

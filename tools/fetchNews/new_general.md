@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel<a href="https://www.securityweek.com/collective-intelligence-realities-and-hardships-crowdsourced-threat-intel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology has advanced and converged to support sharing in more recent times, there has been a stronger desire to leverage these new technical capabilities for greater sharing at higher volumes and faster speeds.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination<a href="https://thehill.com//policy/technology/overnights/566794-hillicon-valley-cryptocurrency-clash-complicates-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenSchumer moves to shut down debate on T infrastructure bill The job of shielding journalists is not finished Up next in the culture wars: Adding women to the draft MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Making the Joint Cyber Defense Collaborative Work<a href="https://www.lawfareblog.com/making-joint-cyber-defense-collaborative-work"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the Joint Cyber Defense Collaborative gets off the ground, CISA and Congress will need to take key steps to consolidate its functions and powers and work with ongoing initiatives within the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IAM Misconfigurations: More Organizations Fail to Take Precautions<a href="https://unit42.paloaltonetworks.com/iam-misconfigurations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers observed a 60% increase in the number of organizations that configure Google Cloud storage buckets so they are accessible to all users, putting their data at higher risk.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

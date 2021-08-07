@@ -32,7 +32,7 @@
 Alerts:
 . https://www.careersinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193?&web_view=true
 . https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-kubernetes-security-recommendations/
-
+. https://www.nextgov.com/cybersecurity/2021/08/nist-updates-cyber-resiliency-guide-account-increasingly-sophisticated-threats/184328/?&web_view=true
 
 Law:
 

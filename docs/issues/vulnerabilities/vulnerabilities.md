@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe vulnerability, tracked as CVE-2021-22937 is a high-severity remote code execution vulnerability that resides in the admin web interface of Pulse Connect Secure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows PetitPotam vulnerability gets an unofficial free patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-vulnerability-gets-an-unofficial-free-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch is now available to block attackers from taking over domain controllers and compromising entire Windows domains via PetitPotam&nbsp;NTLM relay attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco: Firewall manager RCE bug is a zero-day, patch incoming<a href="https://www.bleepingcomputer.com/news/security/cisco-firewall-manager-rce-bug-is-a-zero-day-patch-incoming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Thursday security advisory update, Cisco revealed that a remote code execution (RCE) vulnerability in the Adaptive Security Device Manager (ADSM) Launcher disclosed last month is a zero-day bug that has yet to receive a security update.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Ivanti addressed a critical vulnerability in its Pulse Connect Secure VPN appliances that could be exploited to execute arbitrary code with root privileges. 
+
+
+
+IT firm Ivanti released security updates to address multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

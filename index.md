@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021
+August 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel<a href="https://www.securityweek.com/collective-intelligence-realities-and-hardships-crowdsourced-threat-intel?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021
+August 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX ransomware hit computer manufacturer and distributor GIGABYTE<a href="https://securityaffairs.co/wordpress/120887/cyber-crime/gigabyte-ransomexx-ransomware.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021
+August 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometheus TDS – Underground Service Distributing Several Malware Families<a href="https://www.securityweek.com/prometheus-tds-underground-service-distributing-several-malware-families?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021
+August 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021
+August 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Updates Cyber Resiliency Guide to Account for Increasingly Sophisticated Threats<a href="https://www.nextgov.com/cybersecurity/2021/08/nist-updates-cyber-resiliency-guide-account-increasingly-sophisticated-threats/184328/?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 6th 2021 - Insider threat edition<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-6th-2021-insider-threat-edition/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination<a href="https://thehill.com//policy/technology/overnights/566794-hillicon-valley-cryptocurrency-clash-complicates-infrastructure"> Full Text</a>
@@ -150,7 +150,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Making the Joint Cyber Defense Collaborative Work<a href="https://www.lawfareblog.com/making-joint-cyber-defense-collaborative-work"> Full Text</a>
@@ -166,7 +166,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Golang Cryptomining Worm Offers 15% Speed Boost<a href="https://threatpost.com/golang-cryptomining-worm-speed-boost/168456/"> Full Text</a>
@@ -182,7 +182,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows PetitPotam vulnerability gets an unofficial free patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-vulnerability-gets-an-unofficial-free-patch/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX ransomware leaks files stolen from Italian luxury brand Zegna<a href="https://securityaffairs.co/wordpress/120898/data-breach/ransomexx-ransomware-zegna.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco: Firewall manager RCE bug is a zero-day, patch incoming<a href="https://www.bleepingcomputer.com/news/security/cisco-firewall-manager-rce-bug-is-a-zero-day-patch-incoming/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021
+August 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Computer hardware giant GIGABYTE hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gangs and the Name Game Distraction – Krebs on Security<a href="https://krebsonsecurity.com/2021/08/ransomware-gangs-and-the-name-game-distraction/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IAM Misconfigurations: More Organizations Fail to Take Precautions<a href="https://unit42.paloaltonetworks.com/iam-misconfigurations/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021
+August 6, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Early Affirm employees raise $70M for SentiLink, an identity verification startup<a href="https://techcrunch.com/2021/08/05/ex-affirm-risk-leaders-raise-70m-for-sentilink-an-identity-verification-startup/?&web_view=true"> Full Text</a>

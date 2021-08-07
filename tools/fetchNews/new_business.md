@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Early Affirm employees raise $70M for SentiLink, an identity verification startup<a href="https://techcrunch.com/2021/08/05/ex-affirm-risk-leaders-raise-70m-for-sentilink-an-identity-verification-startup/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While Craft Ventures led the round, Felicis Ventures, Andreessen Horowitz (a16z), and NYCA also participated, which brings the company’s total raised to $85 million since its 2017 inception.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

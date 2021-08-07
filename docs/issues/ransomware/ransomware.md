@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 6th 2021 - Insider threat edition<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-6th-2021-insider-threat-edition/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there is one thing we learned this week, it's that not only are corporations vulnerable to insider threats but so are ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer hardware giant GIGABYTE hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Taiwanese motherboard maker Gigabyte has suffered a RansomEXX ransomware attack where threat actors threaten to release 112 GB of data if a ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
