@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX ransomware hit computer manufacturer and distributor GIGABYTE<a href="https://securityaffairs.co/wordpress/120887/cyber-crime/gigabyte-ransomexx-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese manufacturer and distributor of computer hardware  GIGABYTE was a victim of the RansomEXX ransomware gang.
+
+
+
+RansomEXX ransomware gang hit the Taiwanese manufacturer and distributor of computer hardware  GIGABYTE and claims to have stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer hardware giant GIGABYTE hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Taiwanese motherboard maker Gigabyte has suffered a RansomEXX ransomware attack where threat actors threaten to release 112 GB of data if a ransom is not paid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

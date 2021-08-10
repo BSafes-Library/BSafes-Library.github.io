@@ -8,6 +8,98 @@ nav_order: 900072
 
 ## General
 ---
+August 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 326<a href="https://securityaffairs.co/wordpress/120929/breaking-news/security-affairs-newsletter-round-326.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe&nbsp;here.
+
+
+
+GhostEmperor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro: 80% of global orgs anticipate customer data breach in the next year<a href="https://venturebeat.com/2021/08/06/trend-micro-80-percent-global-orgs-anticipate-customer-data-breach-in-next-year/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A staggering 86% of global organizations believe they will suffer serious cyber attacks in the next year and 80% reported they are likely to experience a data breach, according to a new report by Trend Micro and the Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password of three random words better than complex variation, experts say<a href="https://www.theguardian.com/technology/2021/aug/07/password-of-three-random-words-better-than-complex-variation-experts-say?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Cyber Security Centre (NCSC), part of the U.K Government's Communications Headquarters, highlighted its “three random words” recommendation in a new blog post.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel<a href="https://www.securityweek.com/collective-intelligence-realities-and-hardships-crowdsourced-threat-intel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology has advanced and converged to support sharing in more recent times, there has been a stronger desire to leverage these new technical capabilities for greater sharing at higher volumes and faster speeds.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination<a href="https://thehill.com//policy/technology/overnights/566794-hillicon-valley-cryptocurrency-clash-complicates-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenGOP senator vows to slow-walk T infrastructure bill, sparking standoff The Senate should support innovation and pass the Lummis-Wyden-Toomey amendment The "compromise" crypto amendment is no compromise at all MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Making the Joint Cyber Defense Collaborative Work<a href="https://www.lawfareblog.com/making-joint-cyber-defense-collaborative-work"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the Joint Cyber Defense Collaborative gets off the ground, CISA and Congress will need to take key steps to consolidate its functions and powers and work with ongoing initiatives within the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+August 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1M compromised cards available for free in the underground market<a href="https://securityaffairs.co/wordpress/120941/cyber-crime/1m-compromised-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB detected an unconventional post on several carding forums containing links to a file containing 1 million compromised cards.  
+
+
+
+On August 2, Group-IB Threat Intelligence &amp; Attribution system detected an unconventional post on several carding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Kentucky discovers data breach during scheduled pen-test<a href="https://therecord.media/university-of-kentucky-discovers-data-breach-during-scheduled-pen-test/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Kentucky said it discovered a security breach of one of its test-taking platforms during a scheduled security penetration test carried out by a third party in early June.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert provided leak indicators for Conti ransomware operations that were recently disclosed by a disgruntled affiliate.
+
+
+
+An affiliate of the&nbsp;Conti RaaS&nbsp;has leaked the training material provided by the group to the customers of its RaaS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

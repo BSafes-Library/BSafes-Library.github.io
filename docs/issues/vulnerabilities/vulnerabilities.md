@@ -8,17 +8,138 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
-August 7, 2021 <br>
+August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html?&amp;web_view=true"> Full Text</a>
+A Critical Random Number Generator Flaw Affects Billions of IoT Devices<a href="https://thehackernews.com/2021/08/a-critical-random-number-generator-flaw.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The most severe vulnerability, tracked as CVE-2021-22937 is a high-severity remote code execution vulnerability that resides in the admin web interface of Pulse Connect Secure.
+A critical vulnerability has been disclosed in hardware random number generators used in billions of Internet of Things (IoT) devices whereby it fails to properly generate random numbers, thus undermining their security and putting them at risk of attacks.  "It turns out that these 'randomly' chosen numbers aren't always as random as you'd like when it comes to IoT devices," Bishop Fox researchers Dan Petro and Allan Cecil&nbsp; said &nbsp;in an analysis published last week. "In fact, in many cases, devices are choosing encryption keys of 0 or worse. This can lead to a catastrophic collapse of security for any upstream use."   Random number generation ( RNG ) is a&nbsp; crucial process &nbsp;that undergirds several cryptographic applications, including key generation, nonces, and salting. On traditional operating systems, it's derived from a cryptographically secure pseudorandom number generator (CSPRNG) that uses entropy obtained from a high-quality seed source.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get New Urgent Update for Poorly Patched Critical Flaw<a href="https://thehackernews.com/2021/08/pulse-secure-vpns-get-new-urgent-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has shipped a fix for a critical post-authentication remote code execution (RCE) vulnerability in its Connect Secure virtual private network (VPN) appliances to address an incomplete patch for an actively exploited flaw it previously resolved in October 2020.  "The Pulse Connect Secure appliance suffers from an uncontrolled archive extraction vulnerability which allows an attacker to overwrite arbitrary files, resulting in Remote Code Execution as root," NCC Group's Richard Warren&nbsp; disclosed &nbsp;on Friday. "This vulnerability is a bypass of the patch for&nbsp; CVE-2020-8260 ."   "An attacker with such access will be able to circumvent any restrictions enforced via the web application, as well as remount the filesystem, allowing them to create a persistent backdoor, extract and decrypt credentials, compromise VPN clients, or pivot into the internal network," Warren added.  The disclosure comes days after Ivanti, the company behind Pulse Secure,&nbsp; p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper: Serious Flaws in Pneumatic Tubing System<a href="https://cyware.com/news/pwnedpiper-serious-flaws-in-pneumatic-tubing-system-c73b4c9e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts discovered a set of nine vulnerabilities, aka PwnedPiper, in the TransLogic Pneumatic Tube Systems from Swisslog Healthcare. The flaws impact around 80% of U.S. hospitals, with a possibility of complete system takeover. The vendor urged institutions to patch flaws and also provided ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A zero-day RCE in Cisco ADSM has yet to be fixed<a href="https://securityaffairs.co/wordpress/120923/breaking-news/zero-day-rce-cisco-adsm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) vulnerability in the Cisco Adaptive Security Device Manager (ADSM) Launcher disclosed in July has yet to be addressed.
+
+
+
+Cisco provided an update on a remote code execution (RCE) vulnerability (CVE-2021-1585) in the Adaptive...
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers scanned for ProxyShell vulnerability, Patch Now<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-servers-scanned-for-proxyshell-vulnerability-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are now actively scanning for the Microsoft Exchange ProxyShell&nbsp;remote code execution vulnerabilities after technical details were released at the Black Hat conference.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited bug bypasses authentication on millions of routers<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-bug-bypasses-authentication-on-millions-of-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors actively exploit a critical authentication bypass vulnerability impacting home routers with Arcadyan firmware to take them over and deploy Mirai botnet malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Go, Rust "net" library affected by critical IP address validation vulnerability<a href="https://www.bleepingcomputer.com/news/security/go-rust-net-library-affected-by-critical-ip-address-validation-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The commonly used&nbsp;"net"&nbsp;library in Go and Rust languages is also impacted by the mixed-format IP address validation vulnerability. The bug has to do with how "net" treats IP addresses as decimal, even when they are provided in a mixed (octal-decimal) format,&nbsp;and therefore&nbsp;making applications vulnerable to SSRF and RFI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-20090 actively exploited to target millions of IoT devices worldwide<a href="https://securityaffairs.co/wordpress/120908/hacking/cve-2021-20090-iot-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical authentication bypass issue (CVE-2021-20090) affecting home routers with Arcadyan firmware. 
+
+
+
+Threat actors actively exploit a critical authentication bypass vulnerability, tracked as&nbsp;CVE-2021-20090,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---
@@ -68,20 +189,6 @@ Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---
-August 06, 2021 <br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
----
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -97,20 +204,6 @@ VMware has released security updates to address multiple flaws in its products, 
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
----
-August 6, 2021 <br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Security expert warns of 'stolen' zero-day vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252504895/Matt-Tait-warns-of-stolen-zero-day-vulnerabilities?&amp;web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-During Black Hat 2021, the COO of Corellium discussed three main threats that have ramped up: stolen zero days, zero days being exploited in the wild and supply chain attacks.
-</details>
-<div style="text-align: right" markdown="1">
-Tech Target
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---

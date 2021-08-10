@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 6th 2021 - Insider threat edition<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-6th-2021-insider-threat-edition/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there is one thing we learned this week, it's that not only are corporations vulnerable to insider threats but so are ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX ransomware leaks files stolen from Italian&nbsp;luxury brand Zegna<a href="https://securityaffairs.co/wordpress/120898/data-breach/ransomexx-ransomware-zegna.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomEXX ransomware operators hit the popular Italian&nbsp;luxury fashion house  Ermenegildo Zegna Holding and started leaking stolen files. 
+
+
+
+Zegna&nbsp;is one of the most famous Italian&nbsp;luxury fashion houses. It was founded in 1910 by&nbsp;Ermenegildo Zegna&nbsp;in&nbsp;Trivero,&nbsp;Biella...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,17 +34,662 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021 -- [General](/docs/issues/general/general/)<br>
+August 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel<a href="https://www.securityweek.com/collective-intelligence-realities-and-hardships-crowdsourced-threat-intel?&web_view=true"> Full Text</a>
+One million stolen credit cards leaked to promote carding market<a href="https://www.bleepingcomputer.com/news/security/one-million-stolen-credit-cards-leaked-to-promote-carding-market/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-As technology has advanced and converged to support sharing in more recent times, there has been a stronger desire to leverage these new technical capabilities for greater sharing at higher volumes and faster speeds.
+ A threat actor is promoting a new criminal carding marketplace by releasing one million credit cards stolen between 2018 and 2019 on hacking forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chanel Korea apologizes for personal data leak<a href="http://www.koreaherald.com/view.php?ud=20210809000699&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it had learned that the personal information of some customers from its database -- including names, birth dates, phone numbers, and shopping histories -- had been breached last week.
+</details>
+<div style="text-align: right" markdown="1">
+Korea Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency amendment blocked in Senate | Dems press Facebook over suspension of researchers' accounts | Thousands push back against Apple plan to scan US iPhones for child sexual abuse images<a href="https://thehill.com//policy/technology/overnights/567052-hillicon-valley-cryptocurrency-amendment-blocked-in-senate-dems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MORE CRYPTO COMPLICATIONS: A bipartisan amendment to redefine who would be subject to new cryptocurrency regulation requirements under the Senate infrastructure bill was blocked Monday after Sen. Richard ShelbyRichard Craig ShelbyGOP senator vows to slow-walk T infrastructure bill, sparking standoff The Hill's Morning Report - Presented by Facebook - Infrastructure bill poised for Senate weekend vote  On The Money: Trump asks court to block release of tax returns to Congress | Private sector adds 330K jobs in July, well short of expectations MORE (R-Ala.) tried to attach his untreated proposal to boost military spending by $50 billion.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Critical Random Number Generator Flaw Affects Billions of IoT Devices<a href="https://thehackernews.com/2021/08/a-critical-random-number-generator-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been disclosed in hardware random number generators used in billions of Internet of Things (IoT) devices whereby it fails to properly generate random numbers, thus undermining their security and putting them at risk of attacks.  "It turns out that these 'randomly' chosen numbers aren't always as random as you'd like when it comes to IoT devices," Bishop Fox researchers Dan Petro and Allan Cecil  said  in an analysis published last week. "In fact, in many cases, devices are choosing encryption keys of 0 or worse. This can lead to a catastrophic collapse of security for any upstream use."   Random number generation ( RNG ) is a  crucial process  that undergirds several cryptographic applications, including key generation, nonces, and salting. On traditional operating systems, it's derived from a cryptographically secure pseudorandom number generator (CSPRNG) that uses entropy obtained from a high-quality seed source.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StealthWorker botnet targets Synology NAS devices to drop ransomware<a href="https://securityaffairs.co/wordpress/120962/malware/synology-nas-devices-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor Synology has warned customers that the StealthWorker botnet is targeting their NAS devices to deliver ransomware. 
+
+
+
+Taiwan-based vendor Synology has warned customers that the StealthWorker botnet is conducting brute-force attacks in an attempt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Glowworm’ Attack Turns Power Light Flickers into Audio<a href="https://threatpost.com/glowworm-attack-light-flickers-audio/168501/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found an entirely new attack vector for eavesdropping on Zoom and other virtual meetings.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FlyTrap malware hijacks thousands of Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/flytrap-malware-hijacks-thousands-of-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android threat that researchers call FlyTrap has been hijacking Facebook accounts of users in more than 140 countries by stealing session cookies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joplin: City Computer Shutdown Was Ransomware Attack<a href="https://www.securityweek.com/joplin-city-computer-shutdown-was-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insurer for Joplin paid $320,00 to an unknown person after a ransomware attack shut down the city’s government’s computer system last month, Joplin City Manager Nick Edwards said Thursday.
 </details>
 <div style="text-align: right" markdown="1">
 Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands sign open letter arguing against Apple plan to scan US iPhones for child sexual abuse images<a href="https://thehill.com//policy/technology/567040-privacy-advocates-raise-concerns-around-apple-plan-to-scan-iphones-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of security and privacy tech advocates are pushing back against Apple’s recently announced plan to scan iPhones and iPads for images of child sexual abuse stored in the cloud, citing concerns around privacy and surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users Can Be Just As Dangerous As Hackers<a href="https://thehackernews.com/2021/08/users-can-be-just-as-dangerous-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the problems stemming from our systemic failure with cybersecurity, which ranges from decades-old software-development practices to Chinese and Russian cyber-attacks, one problem gets far less attention than it should—the insider threat.  But the reality is that most organizations should be at least as worried about user management as they are about Bond villain-type hackers launching compromises from abroad.  Most organizations have deployed single sign-on and modern identity-management solutions. These generally allow easy on-boarding, user management, and off-boarding.  However, on mobile devices, these solutions have been less effective. Examples include mobile applications such as WhatsApp, Signal, Telegram, or even SMS-which are common in the workforce.  All of these tools allow for low-friction, agile communication in an increasingly mobile business environment. Today, many of these tools offer end-to-end encryption (e2ee), which is a boon when viewed through the lens of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Joplin paid a 320K ransom after a ransomware Attack<a href="https://securityaffairs.co/wordpress/120956/cyber-crime/city-of-joplin-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit City of Joplin forcing the IT staff to shutdown the City computer. Finally the insurer for Joplin paid $320,000 to threat actors. 
+
+
+
+A ransomware attack last month hit the City of Joplin forcing the IT staff to shut down the city’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cutting Through the Noise from Daily Alerts<a href="https://threatpost.com/cutting-through-the-noise-from-daily-alerts/168319/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The biggest challenge for security teams today is the quality of the threat intelligence platforms and feeds. How much of the intel is garbage and unusable? Threat intelligence process itself spans and feeds into many external and internal systems and applications. Without actionable data, it is impossible to understand the relevance and potential impact of a threat. Learn how Threat Intelligence management plays a role to help prioritize and act fast.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds Fusion ransomware attack detection to Azure Sentinel<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak affects about 3,000 NYC students and 100 employees, officials confirm<a href="https://districtadministration.com/data-leak-affects-about-3000-nyc-students-and-100-employees-officials-confirm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one student within the public school system managed to access a Google Drive that contained the private information of students and department employees across the city.
+</details>
+<div style="text-align: right" markdown="1">
+districtadministration
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators reach bipartisan deal on cryptocurrency amendment<a href="https://thehill.com//policy/cybersecurity/567001-senators-reach-bipartisan-deal-on-cryptocurrency-amendment"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Republican Sens. Pat Toomey (Pa.) and Cynthia LummisCynthia  Marie LummisThe Senate should support innovation and pass the Lummis-Wyden-Toomey amendment The "compromise" crypto amendment is no compromise at all Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination MORE (Wyo.) said an amendment to the infrastructure bill that would redefine who falls subject to cryptocurrency regulation requirements will be brought for a unanimous consent vote on Monday afternoon after a group  of bipartisan senators and the Treasury Department came to an agreement.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! New Android Malware Hacks Thousands of Facebook Accounts<a href="https://thehackernews.com/2021/08/beware-new-android-malware-hacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android trojan has been found to compromise Facebook accounts of over 10,000 users in at least 144 countries since March 2021 via fraudulent apps distributed through Google Play Store and other third-party app marketplaces.  Dubbed " FlyTrap ," the previously undocumented malware is believed to be part of a family of trojans that employ social engineering tricks to breach Facebook accounts as part of a session hijacking campaign orchestrated by malicious actors operating out of Vietnam, according to a  report  published by Zimperium's zLabs today and shared with The Hacker News.    Although the offending nine applications have since been pulled from Google Play, they continue to be available in third-party app stores, "highlighting the risk of sideloaded applications to mobile endpoints and user data," Zimperium malware researcher Aazim Yaswant said. The list of apps is as follows -   GG Voucher (com.luxcarad.cardid)   Vote European Football (com.gardengu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Cyber Security Centre warns of a surge of LockBit 2.0 ransomware attacks<a href="https://securityaffairs.co/wordpress/120950/cyber-crime/australia-lockbit-2-0-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) warns of a surge of LockBit 2.0 ransomware attacks against Australian organizations starting July 2021. 
+
+
+
+The Australian Cyber Security Centre (ACSC) warns of an escalation in LockBit 2.0 ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google drops Bluetooth Titan Security Keys in favor of NFC versions<a href="https://www.bleepingcomputer.com/news/security/google-drops-bluetooth-titan-security-keys-in-favor-of-nfc-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is discontinuing the Bluetooth Titan Security Key to focus on security keys with Near Field Communication (NFC) functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Checkmarx’s Dustico acquisition bolsters the open source software supply chain<a href="https://venturebeat.com/2021/08/09/checkmarxs-dustico-acquisition-bolsters-the-open-source-software-supply-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security testing (AST) company Checkmarx has acquired Dustico, a platform for detecting backdoors and other malicious activity in the open source software supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get New Urgent Update for Poorly Patched Critical Flaw<a href="https://thehackernews.com/2021/08/pulse-secure-vpns-get-new-urgent-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has shipped a fix for a critical post-authentication remote code execution (RCE) vulnerability in its Connect Secure virtual private network (VPN) appliances to address an incomplete patch for an actively exploited flaw it previously resolved in October 2020.  "The Pulse Connect Secure appliance suffers from an uncontrolled archive extraction vulnerability which allows an attacker to overwrite arbitrary files, resulting in Remote Code Execution as root," NCC Group's Richard Warren  disclosed  on Friday. "This vulnerability is a bypass of the patch for  CVE-2020-8260 ."   "An attacker with such access will be able to circumvent any restrictions enforced via the web application, as well as remount the filesystem, allowing them to create a persistent backdoor, extract and decrypt credentials, compromise VPN clients, or pivot into the internal network," Warren added.  The disclosure comes days after Ivanti, the company behind Pulse Secure,  p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are probing Microsoft Exchange servers for ProxyShell flaws<a href="https://securityaffairs.co/wordpress/120931/hacking/microsoft-exchange-proxyshell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively scanning for the Microsoft Exchange ProxyShell RCE flaws after technical details were released at the Black Hat conference. 
+
+
+
+Threat actors started actively scanning for the Microsoft Exchange ProxyShell remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google drops Bluetooth Titan Security Keys in favor of NFC versions<a href="https://www.bleepingcomputer.com/news/google/google-drops-bluetooth-titan-security-keys-in-favor-of-nfc-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is discontinuing the Bluetooth Titan Security Key to focus on security keys with Near Field Communication (NFC) functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cinobi Banking Trojan Targets Japanese Cryptocurrency Exchange Users via Malvertising Campaign<a href="https://www.trendmicro.com/en_us/research/21/h/cinobi-banking-trojan-targets-users-of-cryptocurrency-exchanges-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious app abused sideloading flaws to load and start the Cinobi banking trojan. This is a new campaign from Water Kappa that is aimed at users of web browsers other than Internet Explorer.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology warns of malware infecting NAS devices with ransomware<a href="https://www.bleepingcomputer.com/news/security/synology-warns-of-malware-infecting-nas-devices-with-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based NAS maker Synology has warned customers that the StealthWorker botnet is targeting their network-attached storage devices in ongoing brute-force attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enfilade: Open source tool flags ransomware and bot infections in MongoDB instances<a href="https://portswigger.net/daily-swig/enfilade-open-source-tool-flags-ransomware-and-bot-infections-in-mongodb-instances?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Aditya Sood and Rohit Bansal created an open-source tool that detects internet-facing MongoDB instances and whether they’ve been infected with ransomware or Meow malware has been launched.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in John Deere Systems Show Agriculture's Cyber Risk<a href="https://www.bankinfosecurity.com/flaws-in-john-deere-systems-show-agricultures-cyber-risk-a-17240?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous vulnerabilities uncovered in tractor manufacturer John Deere's systems underscore the cyber risks that come in tandem with the productivity gains from high-tech farming.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian govt warns of escalating LockBit ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/australian-govt-warns-of-escalating-lockbit-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) warns of an increase of LockBit 2.0 ransomware attacks against Australian organizations starting July 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FatalRAT: Another Trojan Exploiting Telegram<a href="https://cyware.com/news/fatalrat-another-trojan-exploiting-telegram-51b56fea"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram channels have become quite the hot seat for threat actors. Lately, a new Remote Access Trojan (RAT) has entered the landscape, propagating via Telegram channels.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1M compromised cards available for free in the underground market<a href="https://securityaffairs.co/wordpress/120941/cyber-crime/1m-compromised-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB detected an unconventional post on several carding forums containing links to a file containing 1 million compromised cards.  
+
+
+
+On August 2, Group-IB Threat Intelligence & Attribution system detected an unconventional post on several carding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PwnedPiper: Serious Flaws in Pneumatic Tubing System<a href="https://cyware.com/news/pwnedpiper-serious-flaws-in-pneumatic-tubing-system-c73b4c9e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts discovered a set of nine vulnerabilities, aka PwnedPiper, in the TransLogic Pneumatic Tube Systems from Swisslog Healthcare. The flaws impact around 80% of U.S. hospitals, with a possibility of complete system takeover. The vendor urged institutions to patch flaws and also provided ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 326<a href="https://securityaffairs.co/wordpress/120929/breaking-news/security-affairs-newsletter-round-326.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+GhostEmperor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A zero-day RCE in Cisco ADSM has yet to be fixed<a href="https://securityaffairs.co/wordpress/120923/breaking-news/zero-day-rce-cisco-adsm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution (RCE) vulnerability in the Cisco Adaptive Security Device Manager (ADSM) Launcher disclosed in July has yet to be addressed.
+
+
+
+Cisco provided an update on a remote code execution (RCE) vulnerability (CVE-2021-1585) in the Adaptive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers scanned for ProxyShell vulnerability, Patch Now<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-servers-scanned-for-proxyshell-vulnerability-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are now actively scanning for the Microsoft Exchange ProxyShell remote code execution vulnerabilities after technical details were released at the Black Hat conference.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited bug bypasses authentication on millions of routers<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-bug-bypasses-authentication-on-millions-of-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors actively exploit a critical authentication bypass vulnerability impacting home routers with Arcadyan firmware to take them over and deploy Mirai botnet malicious payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro: 80% of global orgs anticipate customer data breach in the next year<a href="https://venturebeat.com/2021/08/06/trend-micro-80-percent-global-orgs-anticipate-customer-data-breach-in-next-year/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A staggering 86% of global organizations believe they will suffer serious cyber attacks in the next year and 80% reported they are likely to experience a data breach, according to a new report by Trend Micro and the Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Go, Rust "net" library affected by critical IP address validation vulnerability<a href="https://www.bleepingcomputer.com/news/security/go-rust-net-library-affected-by-critical-ip-address-validation-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The commonly used "net" library in Go and Rust languages is also impacted by the mixed-format IP address validation vulnerability. The bug has to do with how "net" treats IP addresses as decimal, even when they are provided in a mixed (octal-decimal) format, and therefore making applications vulnerable to SSRF and RFI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password of three random words better than complex variation, experts say<a href="https://www.theguardian.com/technology/2021/aug/07/password-of-three-random-words-better-than-complex-variation-experts-say?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Cyber Security Centre (NCSC), part of the U.K Government's Communications Headquarters, highlighted its “three random words” recommendation in a new blog post.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-20090 actively exploited to target millions of IoT devices worldwide<a href="https://securityaffairs.co/wordpress/120908/hacking/cve-2021-20090-iot-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical authentication bypass issue (CVE-2021-20090) affecting home routers with Arcadyan firmware. 
+
+
+
+Threat actors actively exploit a critical authentication bypass vulnerability, tracked as CVE-2021-20090,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attempt to breach Illinois State Police FOID website<a href="https://news.yahoo.com/hackers-attempt-breach-illinois-state-130000577.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Illinois State Police have said that they have added additional online security requirements to FOID online application system after hackers attempted to breach the site.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -70,65 +715,49 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+August 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Prometheus TDS – Underground Service Distributing Several Malware Families<a href="https://www.securityweek.com/prometheus-tds-underground-service-distributing-several-malware-families?&web_view=true"> Full Text</a>
+University of Kentucky discovers data breach during scheduled pen-test<a href="https://therecord.media/university-of-kentucky-discovers-data-breach-during-scheduled-pen-test/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Group-IB has shared a technical analysis of Prometheus TDS, an underground service that has been used for the distribution of various malware families, such as Buer Loader, Campo Loader, Hancitor, IcedID, QBot, and SocGholish.
+The University of Kentucky said it discovered a security breach of one of its test-taking platforms during a scheduled security penetration test carried out by a third party in early June.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Checkmarx acquires open-source supply chain security startup Dustico<a href="https://techcrunch.com/2021/08/05/checkmarx-acquires-open-source-supply-chain-security-startup-dustico/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2020, Dustico provides a dynamic source-code analysis platform that employs machine learning to detect malicious attacks and backdoors in software supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collective Intelligence: Realities and Hardships of Crowdsourced Threat Intel<a href="https://www.securityweek.com/collective-intelligence-realities-and-hardships-crowdsourced-threat-intel?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology has advanced and converged to support sharing in more recent times, there has been a stronger desire to leverage these new technical capabilities for greater sharing at higher volumes and faster speeds.
 </details>
 <div style="text-align: right" markdown="1">
 Security Week
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Ivanti fixed a critical code execution issue in Pulse Connect Secure VPN<a href="https://securityaffairs.co/wordpress/120880/security/pulse-connect-secure-vpn-flaw-2.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The most severe vulnerability, tracked as CVE-2021-22937 is a high-severity remote code execution vulnerability that resides in the admin web interface of Pulse Connect Secure.
-</details>
-<div style="text-align: right" markdown="1">
-Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2021 -- [Government](/docs/issues/government/government/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-NIST Updates Cyber Resiliency Guide to Account for Increasingly Sophisticated Threats<a href="https://www.nextgov.com/cybersecurity/2021/08/nist-updates-cyber-resiliency-guide-account-increasingly-sophisticated-threats/184328/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-In a draft update to its flagship cyber resiliency publication, experts from the National Institute of Standards and Technology offer a next-gen strategy for protecting critical information technology systems from their inside out.
-</details>
-<div style="text-align: right" markdown="1">
-Nextgov
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-The Week in Ransomware - August 6th 2021 - Insider threat edition<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-6th-2021-insider-threat-edition/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-If there is one thing we learned this week, it's that not only are corporations vulnerable to insider threats but so are ransomware operations.
-</details>
-<div style="text-align: right" markdown="1">
-BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -141,10 +770,26 @@ Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path fo
 </p>
 <details>
   <summary>Abstract</summary>
-As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenSchumer moves to shut down debate on T infrastructure bill The job of shielding journalists is not finished Up next in the culture wars: Adding women to the draft MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation. 
+As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenGOP senator vows to slow-walk T infrastructure bill, sparking standoff The Senate should support innovation and pass the Lummis-Wyden-Toomey amendment The "compromise" crypto amendment is no compromise at all MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation. 
 </details>
 <div style="text-align: right" markdown="1">
 The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple to Scan Every Device for Child Abuse Content — But Experts Fear for Privacy<a href="https://thehackernews.com/2021/08/apple-to-scan-every-device-for-child.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday said it's introducing new child safety features in iOS, iPadOS, watchOS, and macOS as part of its efforts to limit the spread of Child Sexual Abuse Material (CSAM) in the U.S.  To that effect, the iPhone maker said it intends to begin client-side scanning of images shared via every Apple device for known child abuse content as they are being uploaded into iCloud Photos, in addition to leveraging on-device machine learning to vet all iMessage images sent or received by minor accounts (aged under 13) to warn parents of sexually explicit photos shared over the messaging platform.  Furthermore, Apple also plans to update Siri and Search to stage an intervention when users try to perform searches for CSAM-related topics, alerting that the "interest in this topic is harmful and problematic."  "Messages uses on-device machine learning to analyze image attachments and determine if a photo is sexually explicit," Apple  noted . "The feature is desi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -185,6 +830,38 @@ Threatpost
 August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 6th 2021 - Insider threat edition<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-6th-2021-insider-threat-edition/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there is one thing we learned this week, it's that not only are corporations vulnerable to insider threats but so are ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows PetitPotam vulnerability gets an unofficial free patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-petitpotam-vulnerability-gets-an-unofficial-free-patch/"> Full Text</a>
 </p>
 <details>
@@ -198,7 +875,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+August 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX ransomware leaks files stolen from Italian luxury brand Zegna<a href="https://securityaffairs.co/wordpress/120898/data-breach/ransomexx-ransomware-zegna.html"> Full Text</a>
@@ -254,7 +931,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+August 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Computer hardware giant GIGABYTE hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/"> Full Text</a>
@@ -270,87 +947,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Ransomware Gangs and the Name Game Distraction – Krebs on Security<a href="https://krebsonsecurity.com/2021/08/ransomware-gangs-and-the-name-game-distraction/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A key goal of subterfuge is to throw investigators off the scent or to temporarily direct their attention elsewhere. Cybercriminal gangs also perform similar disappearing acts whenever it suits them.
-</details>
-<div style="text-align: right" markdown="1">
-Krebs on Security
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [General](/docs/issues/general/general/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-IAM Misconfigurations: More Organizations Fail to Take Precautions<a href="https://unit42.paloaltonetworks.com/iam-misconfigurations/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Unit 42 researchers observed a 60% increase in the number of organizations that configure Google Cloud storage buckets so they are accessible to all users, putting their data at higher risk.
-</details>
-<div style="text-align: right" markdown="1">
-Palo Alto Networks
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Business](/docs/issues/business/business/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Early Affirm employees raise $70M for SentiLink, an identity verification startup<a href="https://techcrunch.com/2021/08/05/ex-affirm-risk-leaders-raise-70m-for-sentilink-an-identity-verification-startup/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-While Craft Ventures led the round, Felicis Ventures, Andreessen Horowitz (a16z), and NYCA also participated, which brings the company’s total raised to $85 million since its 2017 inception.
-</details>
-<div style="text-align: right" markdown="1">
-TechCrunch
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-U.S. Infrastructure Bill Allocates $2 Billion to Cybersecurity<a href="https://www.securityweek.com/us-infrastructure-bill-allocates-2-billion-cybersecurity?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-U.S. senators unveiled the finalized $1.2 trillion bipartisan infrastructure bill, which the White House says will allocate roughly $2 billion to improving the country’s cybersecurity capabilities.
-</details>
-<div style="text-align: right" markdown="1">
-Security Week
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Apple to Scan Every Device for Child Abuse Content — But Experts Fear for Privacy<a href="https://thehackernews.com/2021/08/apple-to-scan-every-device-for-child.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Apple on Thursday said it's introducing new child safety features in iOS, iPadOS, watchOS, and macOS as part of its efforts to limit the spread of Child Sexual Abuse Material (CSAM) in the U.S.  To that effect, the iPhone maker said it intends to begin client-side scanning of images shared via every Apple device for known child abuse content as they are being uploaded into iCloud Photos, in addition to leveraging on-device machine learning to vet all iMessage images sent or received by minor accounts (aged under 13) to warn parents of sexually explicit photos in the messaging platform.  Furthermore, Apple also plans to update Siri and Search to stage an intervention when users try to perform searches for CSAM-related topics, alerting the "interest in this topic is harmful and problematic."  "Messages uses on-device machine learning to analyze image attachments and determine if a photo is sexually explicit," Apple  noted . "The feature is designed so that A
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+August 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
@@ -365,38 +962,6 @@ An affiliate of the Conti RaaS has leaked the training material provided by th
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-OrangeTee Real Estate Group Website Taken Down Following Security Breach<a href="https://www.channelnewsasia.com/business/orangetee-data-security-breach-real-estate-2096391?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-An investigation was launched to assess if the data held in the network could be compromised. OT Group said its preliminary investigations showed that there was a breach of data security.
-</details>
-<div style="text-align: right" markdown="1">
-Channel News Asia
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-New Amazon Kindle Bug Could've Let Attackers Hijack Your eBook Reader<a href="https://thehackernews.com/2021/08/new-amazon-kindle-bug-couldve-let.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Amazon earlier this April addressed a critical vulnerability in its Kindle e-book reader platform that could have been potentially exploited to take full control over a user's device, resulting in the theft of sensitive information by just deploying a malicious e-book.  "By sending Kindle users a single malicious e-book, a threat actor could have stolen any information stored on the device, from Amazon account credentials to billing information," Yaniv Balmas, head of cyber research at Check Point, said in an emailed statement. "The security vulnerabilities allow an attacker to target a very specific audience."   In other words, if a threat actor wanted to single out a specific group of people or demographic, it's possible for the adversary to choose a popular e-book in a language or dialect that's widely spoken among the group to tailor and orchestrate a highly targeted cyber attack.  Upon responsibly disclosing  the issue to Amazon in February 2021, t
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -417,120 +982,6 @@ VMware has released security updates to address multiple flaws in its products, 
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Security expert warns of 'stolen' zero-day vulnerabilities<a href="https://searchsecurity.techtarget.com/news/252504895/Matt-Tait-warns-of-stolen-zero-day-vulnerabilities?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-During Black Hat 2021, the COO of Corellium discussed three main threats that have ramped up: stolen zero days, zero days being exploited in the wild and supply chain attacks.
-</details>
-<div style="text-align: right" markdown="1">
-Tech Target
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-'Sophisticated Group' Behind Alaska Cyberattack, Agency Says<a href="https://www.securityweek.com/sophisticated-group-behind-alaska-cyberattack-agency-says?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The department said the group had “exploited a vulnerable website and spread from there.” The department said it would not provide additional details on the nature & scope of the attack at this time.
-</details>
-<div style="text-align: right" markdown="1">
-Security Week
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-BlackMatter Ransomware Joins the List of Ransomware Families Targeting VMware ESXi Servers<a href="https://securityaffairs.co/wordpress/120862/cyber-crime/blackmatter-ransomware-linux-version.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-This is the latest ransomware that is able to target VM platforms, some of the other ransomware operations that do the same are REvil, RansomExx/Defray, Mespinoza, HelloKitty, and Babuk.
-</details>
-<div style="text-align: right" markdown="1">
-Security Affairs
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Pakistan government approves new cybersecurity policy, cybercrime agency<a href="https://portswigger.net/daily-swig/pakistan-government-approves-new-cybersecurity-policy-cybercrime-agency?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The Pakistan Telecommunication Authority (PTA) has announced that a new cybersecurity policy and accompanying cybersecurity agency has been approved for the South Asian nation.
-</details>
-<div style="text-align: right" markdown="1">
-The Daily Swig
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-DeadRinger APT Group Targets Southeast Asian Telecommunications Firms<a href="https://cyware.com/news/deadringer-apt-group-targets-southeast-asian-telecommunications-firms-5d0b0e8e"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Cybereason exposed DeadRinger - clustered activities by Chinese espionage groups that targeted at least five global telecom providers in Southeast Asia. The goal of the campaigns was to target telecommunications firms to facilitate cyber espionage by gathering important information and subsequently ...
-    Read More
-</details>
-<div style="text-align: right" markdown="1">
-Cyware Alerts - Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Government](/docs/issues/government/government/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-US Government Joins Hands with Amazon, Microsoft, Google, and Other Tech Firms to Tackle Ransomware Threats<a href="https://www.techradar.com/in/news/us-government-teams-up-with-tech-giants-to-tackle-the-next-big-cyberattack?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The US government has announced that it will partner with Amazon, Microsoft, Google, and other tech companies as part of a new initiative aimed at bolstering the country's cyber defenses.
-</details>
-<div style="text-align: right" markdown="1">
-Tech Radar
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-A Wiper Malware Caused Iranian Trains to Halt<a href="https://cyware.com/news/a-wiper-malware-caused-iranian-trains-to-halt-652d42dc"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-SentinelOne linked the cyberattack on Iran’s train system incident to a new threat actor they named MeteorExpresss, which used a hitherto unknown wiper. Early analysis, along with reconstructed and recovered attacker artifacts, revealed that the attacker compromised Group Policy to spread a cab fil ...
-    Read More
-</details>
-<div style="text-align: right" markdown="1">
-Cyware Alerts - Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

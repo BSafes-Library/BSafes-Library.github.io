@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands sign open letter arguing against Apple plan to scan US iPhones for child sexual abuse images<a href="https://thehill.com//policy/technology/567040-privacy-advocates-raise-concerns-around-apple-plan-to-scan-iphones-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of security and privacy&nbsp;tech advocates are pushing back against Apple’s recently announced plan to scan iPhones and iPads for images of child sexual abuse stored in the cloud, citing concerns around privacy and surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -15,7 +29,7 @@ Apple to Scan Every Device for Child Abuse Content — But Experts Fear for Priv
 </p>
 <details>
   <summary>Abstract</summary>
-Apple on Thursday said it's introducing new child safety features in iOS, iPadOS, watchOS, and macOS as part of its efforts to limit the spread of Child Sexual Abuse Material (CSAM) in the U.S.  To that effect, the iPhone maker said it intends to begin client-side scanning of images shared via every Apple device for known child abuse content as they are being uploaded into iCloud Photos, in addition to leveraging on-device machine learning to vet all iMessage images sent or received by minor accounts (aged under 13) to warn parents of sexually explicit photos in the messaging platform.  Furthermore, Apple also plans to update Siri and Search to stage an intervention when users try to perform searches for CSAM-related topics, alerting the "interest in this topic is harmful and problematic."  "Messages uses on-device machine learning to analyze image attachments and determine if a photo is sexually explicit," Apple&nbsp; noted . "The feature is designed so that A
+Apple on Thursday said it's introducing new child safety features in iOS, iPadOS, watchOS, and macOS as part of its efforts to limit the spread of Child Sexual Abuse Material (CSAM) in the U.S.  To that effect, the iPhone maker said it intends to begin client-side scanning of images shared via every Apple device for known child abuse content as they are being uploaded into iCloud Photos, in addition to leveraging on-device machine learning to vet all iMessage images sent or received by minor accounts (aged under 13) to warn parents of sexually explicit photos shared over the messaging platform.  Furthermore, Apple also plans to update Siri and Search to stage an intervention when users try to perform searches for CSAM-related topics, alerting that the "interest in this topic is harmful and problematic."  "Messages uses on-device machine learning to analyze image attachments and determine if a photo is sexually explicit," Apple&nbsp; noted . "The feature is desi
 </details>
 <div style="text-align: right" markdown="1">
 The Hacker News

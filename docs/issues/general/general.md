@@ -8,6 +8,112 @@ nav_order: 900072
 
 ## General
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Cryptocurrency amendment blocked in Senate | Dems press Facebook over suspension of researchers' accounts | Thousands push back against Apple plan to scan US iPhones for child sexual abuse images<a href="https://thehill.com//policy/technology/overnights/567052-hillicon-valley-cryptocurrency-amendment-blocked-in-senate-dems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MORE CRYPTO COMPLICATIONS: A bipartisan amendment to redefine who would be subject to new cryptocurrency regulation requirements under the Senate infrastructure bill was blocked Monday after Sen. Richard ShelbyRichard Craig ShelbyGOP senator vows to slow-walk T infrastructure bill, sparking standoff The Hill's Morning Report - Presented by Facebook - Infrastructure bill poised for Senate weekend vote  On The Money: Trump asks court to block release of tax returns to Congress | Private sector adds 330K jobs in July, well short of expectations MORE (R-Ala.) tried to attach his untreated proposal to boost military spending by $50 billion.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Users Can Be Just As Dangerous As Hackers<a href="https://thehackernews.com/2021/08/users-can-be-just-as-dangerous-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the problems stemming from our systemic failure with cybersecurity, which ranges from decades-old software-development practices to Chinese and Russian cyber-attacks, one problem gets far less attention than it should—the insider threat.  But the reality is that most organizations should be at least as worried about user management as they are about Bond villain-type hackers launching compromises from abroad.  Most organizations have deployed single sign-on and modern identity-management solutions. These generally allow easy on-boarding, user management, and off-boarding.  However, on mobile devices, these solutions have been less effective. Examples include mobile applications such as WhatsApp, Signal, Telegram, or even SMS-which are common in the workforce.  All of these tools allow for low-friction, agile communication in an increasingly mobile business environment. Today, many of these tools offer end-to-end encryption (e2ee), which is a boon when viewed through the lens of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cutting Through the Noise from Daily Alerts<a href="https://threatpost.com/cutting-through-the-noise-from-daily-alerts/168319/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The biggest challenge for security teams today is the quality of the threat intelligence platforms and feeds. How much of the intel is garbage and unusable? Threat intelligence process itself spans and feeds into many external and internal systems and applications. Without actionable data, it is impossible to understand the relevance and potential impact of a threat. Learn how Threat Intelligence management plays a role to help prioritize and act fast.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in John Deere Systems Show Agriculture's Cyber Risk<a href="https://www.bankinfosecurity.com/flaws-in-john-deere-systems-show-agricultures-cyber-risk-a-17240?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous vulnerabilities uncovered in tractor manufacturer John Deere's systems underscore the cyber risks that come in tandem with the productivity gains from high-tech farming.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 326<a href="https://securityaffairs.co/wordpress/120929/breaking-news/security-affairs-newsletter-round-326.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the international press subscribe&nbsp;here.
+
+
+
+GhostEmperor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro: 80% of global orgs anticipate customer data breach in the next year<a href="https://venturebeat.com/2021/08/06/trend-micro-80-percent-global-orgs-anticipate-customer-data-breach-in-next-year/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A staggering 86% of global organizations believe they will suffer serious cyber attacks in the next year and 80% reported they are likely to experience a data breach, according to a new report by Trend Micro and the Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password of three random words better than complex variation, experts say<a href="https://www.theguardian.com/technology/2021/aug/07/password-of-three-random-words-better-than-complex-variation-experts-say?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Cyber Security Centre (NCSC), part of the U.K Government's Communications Headquarters, highlighted its “three random words” recommendation in a new blog post.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -29,7 +135,7 @@ Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path fo
 </p>
 <details>
   <summary>Abstract</summary>
-As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenSchumer moves to shut down debate on T infrastructure bill The job of shielding journalists is not finished Up next in the culture wars: Adding women to the draft MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation.&nbsp;
+As the Senate looks to wrap up the $1.2 trillion bipartisan infrastructure bill, competing amendments on cryptocurrency regulation are emerging as another challenge. The White House came out in support of an amendment put forward by a trio of bipartisan senators, but Senate Finance Committee Chairman Ron WydenRonald (Ron) Lee WydenGOP senator vows to slow-walk T infrastructure bill, sparking standoff The Senate should support innovation and pass the Lummis-Wyden-Toomey amendment The "compromise" crypto amendment is no compromise at all MORE (D-Ore.) and two Republicans who offered an amendment of their own, argued the administration-backed amendment could stifle innovation.&nbsp;
 </details>
 <div style="text-align: right" markdown="1">
 The Hill
@@ -47,20 +153,6 @@ As the Joint Cyber Defense Collaborative gets off the ground, CISA and Congress 
 </details>
 <div style="text-align: right" markdown="1">
 Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
----
-August 6, 2021 <br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-IAM Misconfigurations: More Organizations Fail to Take Precautions<a href="https://unit42.paloaltonetworks.com/iam-misconfigurations/?&amp;web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Unit 42 researchers observed a 60% increase in the number of organizations that configure Google Cloud storage buckets so they are accessible to all users, putting their data at higher risk.
-</details>
-<div style="text-align: right" markdown="1">
-Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---

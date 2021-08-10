@@ -22,17 +22,21 @@ BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---
-August 06, 2021 <br>
+August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Computer hardware giant GIGABYTE hit by RansomEXX ransomware<a href="https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/"> Full Text</a>
+RansomEXX ransomware leaks files stolen from Italian&nbsp;luxury brand Zegna<a href="https://securityaffairs.co/wordpress/120898/data-breach/ransomexx-ransomware-zegna.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-​Taiwanese motherboard maker Gigabyte has suffered a RansomEXX ransomware attack where threat actors threaten to release 112 GB of data if a ransom is not paid.
+RansomEXX ransomware operators hit the popular Italian&nbsp;luxury fashion house  Ermenegildo Zegna Holding and started leaking stolen files. 
+
+
+
+Zegna&nbsp;is one of the most famous Italian&nbsp;luxury fashion houses. It was founded in 1910 by&nbsp;Ermenegildo Zegna&nbsp;in&nbsp;Trivero,&nbsp;Biella...
 </details>
 <div style="text-align: right" markdown="1">
-BleepingComputer
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 ---

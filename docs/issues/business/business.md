@@ -8,14 +8,56 @@ nav_order: 900027
 
 ## Business
 ---
-August 6, 2021 <br>
+August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Early Affirm employees raise $70M for SentiLink, an identity verification startup<a href="https://techcrunch.com/2021/08/05/ex-affirm-risk-leaders-raise-70m-for-sentilink-an-identity-verification-startup/?&amp;web_view=true"> Full Text</a>
+Google drops Bluetooth Titan Security Keys in favor of NFC versions<a href="https://www.bleepingcomputer.com/news/security/google-drops-bluetooth-titan-security-keys-in-favor-of-nfc-versions/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-While Craft Ventures led the round, Felicis Ventures, Andreessen Horowitz (a16z), and NYCA also participated, which brings the company’s total raised to $85 million since its 2017 inception.
+Google is discontinuing the Bluetooth Titan Security Key to focus on security keys with&nbsp;Near Field Communication (NFC)&nbsp;functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Checkmarx’s Dustico acquisition bolsters the open source software supply chain<a href="https://venturebeat.com/2021/08/09/checkmarxs-dustico-acquisition-bolsters-the-open-source-software-supply-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security testing (AST) company Checkmarx has acquired Dustico, a platform for detecting backdoors and other malicious activity in the open source software supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google drops Bluetooth Titan Security Keys in favor of NFC versions<a href="https://www.bleepingcomputer.com/news/google/google-drops-bluetooth-titan-security-keys-in-favor-of-nfc-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is discontinuing the Bluetooth Titan Security Key to focus on security keys with&nbsp;Near Field Communication (NFC)&nbsp;functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Checkmarx acquires open-source supply chain security startup Dustico<a href="https://techcrunch.com/2021/08/05/checkmarx-acquires-open-source-supply-chain-security-startup-dustico/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2020, Dustico provides a dynamic source-code analysis platform that employs machine learning to detect malicious attacks and backdoors in software supply chains.
 </details>
 <div style="text-align: right" markdown="1">
 TechCrunch

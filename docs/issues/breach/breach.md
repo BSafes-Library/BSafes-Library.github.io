@@ -8,18 +8,92 @@ nav_order: 900029
 
 ## Breach
 ---
-August 6, 2021 <br>
+August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-RansomEXX ransomware leaks files stolen from Italian&nbsp;luxury brand Zegna<a href="https://securityaffairs.co/wordpress/120898/data-breach/ransomexx-ransomware-zegna.html"> Full Text</a>
+One million stolen credit cards leaked to promote carding market<a href="https://www.bleepingcomputer.com/news/security/one-million-stolen-credit-cards-leaked-to-promote-carding-market/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-RansomEXX ransomware operators hit the popular Italian&nbsp;luxury fashion house  Ermenegildo Zegna Holding and started leaking stolen files. 
+&nbsp;A threat actor is promoting a new criminal&nbsp;carding marketplace by releasing one million credit cards stolen between 2018 and 2019 on hacking forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chanel Korea apologizes for personal data leak<a href="http://www.koreaherald.com/view.php?ud=20210809000699&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it had learned that the personal information of some customers from its database -- including names, birth dates, phone numbers, and shopping histories -- had been breached last week.
+</details>
+<div style="text-align: right" markdown="1">
+Korea Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak affects about 3,000 NYC students and 100 employees, officials confirm<a href="https://districtadministration.com/data-leak-affects-about-3000-nyc-students-and-100-employees-officials-confirm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one student within the public school system managed to access a Google Drive that contained the private information of students and department employees across the city.
+</details>
+<div style="text-align: right" markdown="1">
+districtadministration
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1M compromised cards available for free in the underground market<a href="https://securityaffairs.co/wordpress/120941/cyber-crime/1m-compromised-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB detected an unconventional post on several carding forums containing links to a file containing 1 million compromised cards.  
 
 
 
-Zegna&nbsp;is one of the most famous Italian&nbsp;luxury fashion houses. It was founded in 1910 by&nbsp;Ermenegildo Zegna&nbsp;in&nbsp;Trivero,&nbsp;Biella...
+On August 2, Group-IB Threat Intelligence &amp; Attribution system detected an unconventional post on several carding...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Kentucky discovers data breach during scheduled pen-test<a href="https://therecord.media/university-of-kentucky-discovers-data-breach-during-scheduled-pen-test/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Kentucky said it discovered a security breach of one of its test-taking platforms during a scheduled security penetration test carried out by a third party in early June.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Leak Indicators – What to block, in your SOC….<a href="https://securityaffairs.co/wordpress/120876/cyber-crime/conti-ransomware-leak-indicators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert provided leak indicators for Conti ransomware operations that were recently disclosed by a disgruntled affiliate.
+
+
+
+An affiliate of the&nbsp;Conti RaaS&nbsp;has leaked the training material provided by the group to the customers of its RaaS,...
 </details>
 <div style="text-align: right" markdown="1">
 Security Affairs

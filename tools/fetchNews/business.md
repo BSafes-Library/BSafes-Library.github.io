@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Checkmarx acquires open-source supply chain security startup Dustico<a href="https://techcrunch.com/2021/08/05/checkmarx-acquires-open-source-supply-chain-security-startup-dustico/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2020, Dustico provides a dynamic source-code analysis platform that employs machine learning to detect malicious attacks and backdoors in software supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are probing Microsoft Exchange servers for ProxyShell flaws<a href="https://securityaffairs.co/wordpress/120931/hacking/microsoft-exchange-proxyshell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively scanning for the Microsoft Exchange ProxyShell&nbsp;RCE flaws after technical details were released at the Black Hat conference. 
+
+
+
+Threat actors started actively scanning for the Microsoft Exchange ProxyShell&nbsp;remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attempt to breach Illinois State Police FOID website<a href="https://news.yahoo.com/hackers-attempt-breach-illinois-state-130000577.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Illinois State Police have said that they have added additional online security requirements to FOID online application system after hackers attempted to breach the site.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
