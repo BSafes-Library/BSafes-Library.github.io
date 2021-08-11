@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Unhappy Affiliate Spills Conti’s Attack Secrets<a href="https://cyware.com/news/unhappy-affiliate-spills-contis-attack-secrets-41e3d6f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of Conti ransomware leaked the manuals and technical guides—used by the gang to train new members—on a cybercrime forum owing to financial conflicts.  The leaked information is said to be the  holy grail  of the penetration testing team working behind the Conti gang. The files were upl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New AdLoad malware variant slips through Apple's XProtect defenses<a href="https://www.bleepingcomputer.com/news/apple/new-adload-malware-variant-slips-through-apples-xprotect-defenses/"> Full Text</a>
 </p>
 <details>
