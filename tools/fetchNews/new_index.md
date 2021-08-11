@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers raise concerns over federal division of cybersecurity responsibilities<a href="https://thehill.com//policy/cybersecurity/567444-lawmakers-raise-concerns-over-federal-division-of-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of the House Homeland Security Committee on Wednesday raised concerns about the division of responsibilities among key federal cybersecurity officials, noting that without clarification, the situation could “stunt” the response to cybersecurity challenges. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Accenture has been hit by a LockBit 2.0 ransomware attack<a href="https://securityaffairs.co/wordpress/121048/data-breach/accenture-lockbit-2-0-ransomware-attack.html"> Full Text</a>
 </p>
 <details>
