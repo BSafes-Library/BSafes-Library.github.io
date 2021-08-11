@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Attack Cross-Chain DeFi Platform Poly Network and Steal Hundreds of Millions Worth of Crypto Assets<a href="https://www.coindesk.com/cross-chain-defi-site-poly-network-hacked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poly Network, a protocol launched by the founder of Chinese blockchain project Neo, operates on the Binance Smart Chain, Ethereum, and Polygon blockchains. This attack struck each chain consecutively.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Desk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

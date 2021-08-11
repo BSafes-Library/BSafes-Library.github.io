@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discontinues Bluetooth security keys to focus on NFC versions<a href="https://therecord.media/google-discontinues-bluetooth-security-keys-to-focus-on-nfc-versions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Only two security key models will be available from tomorrow, namely Titan keys with USB-A and USB-C connectors, both of which also support NFC (Near Field Communication) for mobile connectivity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

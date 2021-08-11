@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google drops Bluetooth Titan Security Keys in favor of NFC versions<a href="https://www.bleepingcomputer.com/news/security/google-drops-bluetooth-titan-security-keys-in-favor-of-nfc-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is discontinuing the Bluetooth Titan Security Key to focus on security keys with&nbsp;Near Field Communication (NFC)&nbsp;functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Checkmarx’s Dustico acquisition bolsters the open source software supply chain<a href="https://venturebeat.com/2021/08/09/checkmarxs-dustico-acquisition-bolsters-the-open-source-software-supply-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security testing (AST) company Checkmarx has acquired Dustico, a platform for detecting backdoors and other malicious activity in the open source software supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google drops Bluetooth Titan Security Keys in favor of NFC versions<a href="https://www.bleepingcomputer.com/news/google/google-drops-bluetooth-titan-security-keys-in-favor-of-nfc-versions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is discontinuing the Bluetooth Titan Security Key to focus on security keys with&nbsp;Near Field Communication (NFC)&nbsp;functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

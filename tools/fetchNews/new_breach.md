@@ -8,6 +8,74 @@ nav_order: 900029
 
 ## Breach
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$611 million stolen in Poly Network cross-chain hack<a href="https://securityaffairs.co/wordpress/121005/cyber-crime/poly-network-cross-chain-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cross-chain protocol Poly Network has been hacked, threat actors stole $611 million making this hack the largest DeFi hack&nbsp;to date.
+
+
+
+$611 million has reportedly been stolen in one of the largest cryptocurrency hacks.
+
+
+
+The cross-chain protocol...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crytek confirms Egregor ransomware attack, customer data theft<a href="https://www.bleepingcomputer.com/news/security/crytek-confirms-egregor-ransomware-attack-customer-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Game developer and publisher Crytek has confirmed that the Egregor ransomware gang breached its network in October 2020, encrypting systems and stealing files containing customers' personal info later leaked on the gang's dark web leak site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FlyTrap, a new Android Trojan compromised thousands of Facebook accounts<a href="https://securityaffairs.co/wordpress/120971/malware/flytrap-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new Android trojan, dubbed FlyTrap, that compromised Facebook accounts of over 10,000 users in at least 144 countries since March 2021. 
+
+
+
+Zimperium's zLabs researchers spotted a new Android trojan, dubbed FlyTrap, that already compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies Still Exposing Sensitive Data via Known Salesforce Misconfiguration<a href="https://www.securityweek.com/companies-still-exposing-sensitive-data-known-salesforce-misconfiguration?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the misconfiguration has been known since at least last year and Salesforce has taken steps to prevent incidents, security company Varonis says it’s still seeing many affected organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

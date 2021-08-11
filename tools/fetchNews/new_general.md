@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senate package brings cybersecurity billions | Twitter suspends Taylor Greene, again | Amazon gets NSA contract<a href="https://thehill.com//policy/technology/overnights/567243-hillicon-valley-senate-package-brings-cybersecurity-billions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What an avalanche of a news day! Albany aside, the Senate has finally approved the roughly $1 trillion bipartisan infrastructure package. Democrats also started&nbsp;debate over their multi-trillion spending plan, with cybersecurity and&nbsp;tech investments included in both.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connected Farms Easy Pickings for Global Food Supply-Chain Hack<a href="https://threatpost.com/connected-farms-food-supply-chain-hack/168547/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Deere security bugs could allow cyberattackers to damage crops, surrounding property or even people; impact harvests; or destroy farmland for years.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fuzz Off: How to Shake Up Code to Get It Right – Podcast<a href="https://threatpost.com/fuzz-off-how-to-shake-up-code-to-get-it-right-podcast/168487/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Is fuzzing for the cybersec elite, or should it be accessible to all software developers? FuzzCon panelists say join the party as they share fuzzing wins &amp; fails. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail became a top target for ransomware and data-theft<a href="https://cybernews.com/news/retail-became-a-top-target-for-ransomware-and-data-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sophos, retail and education sector faced the highest level of ransomware attacks during 2020, with 44% of organizations hit (compared to 37% across all industry sectors).
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The challenges healthcare CISOs face in an evolving threat landscape<a href="https://www.helpnetsecurity.com/2021/08/10/challenges-healthcare-cisos-face/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the healthcare sector – and especially those engaged in delivering healthcare services – have always been juicy targets for cyberattackers. The pandemic further boosted this trend.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

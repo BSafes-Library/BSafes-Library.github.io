@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Attacks Rise, Warns ACSC<a href="https://cyware.com/news/lockbit-ransomware-attacks-rise-warns-acsc-21260202"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) issued an alert warning of increasing attacks on Australian organizations across multiple industry sectors by the LockBit 2.0 ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois’ FOID Card System Hit By Cyber Attack<a href="https://1440wrok.com/illinois-foid-card-system-hit-by-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the heels of cyber attacks on the Illinois Attorney General's Office and the Illinois Department of Employment Security, comes word of trouble for the Illinois State Police (ISP).
+</details>
+<div style="text-align: right" markdown="1">
+1440wrok
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX Hackers Threaten to Leak Data of Intel, AMD After Attack on Gigabyte<a href="https://ciso.economictimes.indiatimes.com/news/hackers-threaten-to-leak-data-of-intel-amd-in-gigabyte-attack/85202435?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomExx gang is threatening to release more than 112 GB of data that may include confidential documents from chip makers Intel and AMD and American firm Megatrends.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

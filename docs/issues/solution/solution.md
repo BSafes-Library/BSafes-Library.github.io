@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Sentinel uses Fusion ML to detect ransomware attacks<a href="https://securityaffairs.co/wordpress/120983/security/microsoft-azure-sentinel-detects-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform used the Fusion machine learning model to detect ransomware attack.
+
+
+
+Microsoft Azure Sentinel cloud-native SIEM is using the Fusion machine learning model...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows security update blocks PetitPotam NTLM relay attacks<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-blocks-petitpotam-ntlm-relay-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates that block the PetitPotam NTLM relay attack that allows a threat actor to take over a Windows domain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox adds enhanced cookie clearing, HTTPS by default in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-adds-enhanced-cookie-clearing-https-by-default-in-private-browsing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla says that,&nbsp;starting in Firefox 91 released today, users will be able to fully erase the browser history for all visited websites&nbsp;which prevents privacy violations due to "sneaky third-party cookies sticking around."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

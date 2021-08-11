@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands sign open letter arguing against Apple plan to scan US iPhones for child sexual abuse images<a href="https://thehill.com//policy/technology/567040-privacy-advocates-raise-concerns-around-apple-plan-to-scan-iphones-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of security and privacy&nbsp;tech advocates are pushing back against Apple’s recently announced plan to scan iPhones and iPads for images of child sexual abuse stored in the cloud, citing concerns around privacy and surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

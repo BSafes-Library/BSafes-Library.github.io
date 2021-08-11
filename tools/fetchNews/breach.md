@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One million stolen credit cards leaked to promote carding market<a href="https://www.bleepingcomputer.com/news/security/one-million-stolen-credit-cards-leaked-to-promote-carding-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+&nbsp;A threat actor is promoting a new criminal&nbsp;carding marketplace by releasing one million credit cards stolen between 2018 and 2019 on hacking forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chanel Korea apologizes for personal data leak<a href="http://www.koreaherald.com/view.php?ud=20210809000699&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it had learned that the personal information of some customers from its database -- including names, birth dates, phone numbers, and shopping histories -- had been breached last week.
+</details>
+<div style="text-align: right" markdown="1">
+Korea Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data leak affects about 3,000 NYC students and 100 employees, officials confirm<a href="https://districtadministration.com/data-leak-affects-about-3000-nyc-students-and-100-employees-officials-confirm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one student within the public school system managed to access a Google Drive that contained the private information of students and department employees across the city.
+</details>
+<div style="text-align: right" markdown="1">
+districtadministration
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

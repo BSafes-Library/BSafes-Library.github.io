@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Critical Random Number Generator Flaw Affects Billions of IoT Devices<a href="https://thehackernews.com/2021/08/a-critical-random-number-generator-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been disclosed in hardware random number generators used in billions of Internet of Things (IoT) devices whereby it fails to properly generate random numbers, thus undermining their security and putting them at risk of attacks.  "It turns out that these 'randomly' chosen numbers aren't always as random as you'd like when it comes to IoT devices," Bishop Fox researchers Dan Petro and Allan Cecil&nbsp; said &nbsp;in an analysis published last week. "In fact, in many cases, devices are choosing encryption keys of 0 or worse. This can lead to a catastrophic collapse of security for any upstream use."   Random number generation ( RNG ) is a&nbsp; crucial process &nbsp;that undergirds several cryptographic applications, including key generation, nonces, and salting. On traditional operating systems, it's derived from a cryptographically secure pseudorandom number generator (CSPRNG) that uses entropy obtained from a high-quality seed source.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pulse Secure VPNs Get New Urgent Update for Poorly Patched Critical Flaw<a href="https://thehackernews.com/2021/08/pulse-secure-vpns-get-new-urgent-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure has shipped a fix for a critical post-authentication remote code execution (RCE) vulnerability in its Connect Secure virtual private network (VPN) appliances to address an incomplete patch for an actively exploited flaw it previously resolved in October 2020.  "The Pulse Connect Secure appliance suffers from an uncontrolled archive extraction vulnerability which allows an attacker to overwrite arbitrary files, resulting in Remote Code Execution as root," NCC Group's Richard Warren&nbsp; disclosed &nbsp;on Friday. "This vulnerability is a bypass of the patch for&nbsp; CVE-2020-8260 ."   "An attacker with such access will be able to circumvent any restrictions enforced via the web application, as well as remount the filesystem, allowing them to create a persistent backdoor, extract and decrypt credentials, compromise VPN clients, or pivot into the internal network," Warren added.  The disclosure comes days after Ivanti, the company behind Pulse Secure,&nbsp; p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

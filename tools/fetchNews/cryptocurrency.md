@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators reach bipartisan deal on cryptocurrency amendment<a href="https://thehill.com//policy/cybersecurity/567001-senators-reach-bipartisan-deal-on-cryptocurrency-amendment"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Republican Sens. Pat Toomey (Pa.) and Cynthia LummisCynthia  Marie LummisThe Senate should support innovation and pass the Lummis-Wyden-Toomey amendment The "compromise" crypto amendment is no compromise at all Hillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination MORE (Wyo.) said an amendment to the infrastructure bill that would redefine who falls subject to cryptocurrency regulation requirements will be brought for a unanimous consent vote on Monday afternoon after a group&nbsp; of bipartisan senators and the Treasury Department came to an agreement.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cinobi Banking Trojan Targets Japanese Cryptocurrency Exchange Users via Malvertising Campaign<a href="https://www.trendmicro.com/en_us/research/21/h/cinobi-banking-trojan-targets-users-of-cryptocurrency-exchanges-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious app abused sideloading flaws to load and start the Cinobi banking trojan. This is a new campaign from Water Kappa that is aimed at users of web browsers other than Internet Explorer.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

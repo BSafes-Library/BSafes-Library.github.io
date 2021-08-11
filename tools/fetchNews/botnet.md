@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StealthWorker botnet targets Synology NAS devices to drop ransomware<a href="https://securityaffairs.co/wordpress/120962/malware/synology-nas-devices-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor Synology has warned customers that the StealthWorker botnet is targeting their NAS devices to deliver ransomware. 
+
+
+
+Taiwan-based vendor Synology has warned customers that the StealthWorker botnet is conducting brute-force attacks in an attempt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

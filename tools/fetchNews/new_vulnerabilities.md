@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft revives deprecated RDCMan after fixing security flaw<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-revives-deprecated-rdcman-after-fixing-security-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revived the&nbsp;Remote Desktop Connection Manager (RDCMan) app that was deprecated last year due to an&nbsp;important severity information disclosure bug the company decided not to fix.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical preauth vulnerabilities in Magento<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-preauth-vulnerabilities-in-magento/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a large Patch Tuesday security update that fixes critical vulnerabilities in Magento and important bugs in Adobe Connect.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft August 2021 Patch Tuesday fixes 3 zero-days, 44 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2021-patch-tuesday-fixes-3-zero-days-44-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's August 2021 Patch Tuesday, and with it comes fixes for three zero-day vulnerabilities and a total of 44&nbsp;flaws, so please be nice to your Windows admins as they scramble to installed patches.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows Print Spooler PrintNightmare vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-print-spooler-printnightmare-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed the PrintNightmare vulnerability in the Windows Print Spooler by requiring users to have administrative privileges when using the Point and Print feature to install printer drivers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth Bypass Bug Exploited, Affecting Millions of Routers<a href="https://threatpost.com/auth-bypass-bug-routers-exploited/168491/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A mere three days after disclosure, cyberattackers are hijacking home routers from 20 vendors &amp; ISPs to add them to a Mirai-variant botnet used for carrying out DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

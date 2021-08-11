@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate includes over $1.9 billion for cybersecurity in infrastructure bill<a href="https://thehill.com//policy/cybersecurity/567204-over-1-billion-in-cybersecurity-funds-included-in-senate-passed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate included more than $1.9 billion in cybersecurity funds as part of the roughly $1 trillion bipartisan infrastructure package approved Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

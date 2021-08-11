@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Cyber Security Centre warns of a surge of LockBit 2.0 ransomware attacks<a href="https://securityaffairs.co/wordpress/120950/cyber-crime/australia-lockbit-2-0-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Australian Cyber Security Centre (ACSC)&nbsp;warns of a surge of LockBit 2.0 ransomware attacks against Australian&nbsp;organizations starting July 2021. 
+
+
+
+The&nbsp;Australian Cyber Security Centre (ACSC)&nbsp;warns of an escalation in LockBit 2.0 ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds Fusion ransomware attack detection to Azure Sentinel<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential&nbsp;ransomware activity using the Fusion machine learning model.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enfilade: Open source tool flags ransomware and bot infections in MongoDB instances<a href="https://portswigger.net/daily-swig/enfilade-open-source-tool-flags-ransomware-and-bot-infections-in-mongodb-instances?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Aditya Sood and Rohit Bansal created an open-source tool that detects internet-facing MongoDB instances and whether they’ve been infected with ransomware or Meow malware has been launched.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

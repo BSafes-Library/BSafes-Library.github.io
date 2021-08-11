@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joplin: City Computer Shutdown Was Ransomware Attack<a href="https://www.securityweek.com/joplin-city-computer-shutdown-was-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insurer for Joplin paid $320,00 to an unknown person after a ransomware attack shut down the city’s government’s computer system last month, Joplin City Manager Nick Edwards said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

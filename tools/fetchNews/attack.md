@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Glowworm’ Attack Turns Power Light Flickers into Audio<a href="https://threatpost.com/glowworm-attack-light-flickers-audio/168501/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found an entirely new attack vector for eavesdropping on Zoom and other virtual meetings.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Joplin paid a 320K ransom after a ransomware Attack<a href="https://securityaffairs.co/wordpress/120956/cyber-crime/city-of-joplin-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit City of Joplin forcing the IT staff to shutdown the City computer. Finally the insurer for Joplin paid $320,000 to threat actors. 
+
+
+
+A ransomware attack last month hit the City of Joplin forcing the IT staff to shut down the city’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
