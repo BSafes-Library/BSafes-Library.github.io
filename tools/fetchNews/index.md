@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UNC215, an alleged China-linked APT group targets Israel orgs<a href="https://securityaffairs.co/wordpress/121039/apt/unc215-targets-israel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors UNC215 targeted Israeli organizations in a long-running campaign and used false flags to trick victims into believing the attacks was from Iran.
+
+
+
+A China-linked cyber-espionage group has targeted Israeli organizations and government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Intel Addresses High-Severity Flaws in NUC 9 Extreme Laptops, Ethernet Linux Drivers<a href="https://www.securityweek.com/intel-patches-high-severity-flaws-nuc-9-extreme-laptops-ethernet-linux-drivers?&web_view=true"> Full Text</a>
 </p>
 <details>
