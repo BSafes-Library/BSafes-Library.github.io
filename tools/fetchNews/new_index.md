@@ -37,6 +37,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The cost of unwanted bot traffic - up to $250M a year<a href="https://cybernews.com/news/the-cost-of-unwanted-bot-traffic-up-to-250m-a-year/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the pandemic, online presence has become crucial for retail businesses. It has also led to the challenge of evasive malicious bots that are now leaching off of already vulnerable businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBREACH: A New Attack Against Databases<a href="https://cyware.com/news/dbreach-a-new-attack-against-databases-f7c299ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed a new type of attack called  Database Reconnaissance and Exfiltration via Adaptive Compression Heuristics (DBREACH)  against databases at the Black Hat US 2021 hybrid event. It could result in information disclosure and loss. Attackers can further  monitor the database us ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UNC215, an alleged China-linked APT group targets Israel orgs<a href="https://securityaffairs.co/wordpress/121039/apt/unc215-targets-israel.html"> Full Text</a>
 </p>
 <details>
