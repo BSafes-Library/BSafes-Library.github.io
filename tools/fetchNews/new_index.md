@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Online Scammers Impersonate the Australian Taxation Office for Tax Season<a href="https://cofense.com/blog/ato-tax-phish/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the government sending out tax communications, stimulus checks and more in the wake of COVID-19, scammers are taking advantage of the fact that an email from the ATO would not seem out of place.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Nine Critical & High-Severity Bugs<a href="https://threatpost.com/sap-patches-critical-bugs/168558/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts urged enterprises to patch fast: SAP vulnerabilities are being weaponized in a matter of hours.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Crypto Hack Earned Crooks $600 Million<a href="https://threatpost.com/crypto-hack-600-million/168554/"> Full Text</a>
 </p>
 <details>
