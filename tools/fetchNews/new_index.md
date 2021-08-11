@@ -34,7 +34,257 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AdLoad malware variant slips through Apple's XProtect defenses<a href="https://www.bleepingcomputer.com/news/apple/new-adload-malware-variant-slips-through-apples-xprotect-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new AdLoad malware variant is slipping through Apple's YARA signature-based XProtect built-in antivirus tech to infect Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities discovered in AT&T Labs’ Xmill utility<a href="https://blog.talosintelligence.com/2021/08/vuln-spotlight-att.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could take advantage of these issues to carry out a variety of malicious actions, including corrupting the application’s memory and gaining the ability to execute remote code.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$600M in digital tokens lost in hack of cryptocurrency site<a href="https://thehill.com//policy/cybersecurity/567322-600m-in-digital-tokens-lost-in-hack-of-cryptocurrency-site"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency platform has lost around $600 million in digital tokens in a hacking attack believed to be one the largest ever thefts in the cryptocurrency market.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Managed DNS Services Cloud Let Attackers Spy On DNS Traffic<a href="https://thehackernews.com/2021/08/bugs-in-managed-dns-services-cloud-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new class of vulnerabilities impacting major DNS-as-a-Service (DNSaaS) providers that could allow attackers to exfiltrate sensitive information from corporate networks.  "We found a simple loophole that allowed us to intercept a portion of worldwide dynamic DNS traffic going through managed DNS providers like Amazon and Google," researchers Shir Tamari and Ami Luttwak from infrastructure security firm Wiz  said .   Calling it a "bottomless well of valuable intel," the treasure trove of information contains internal and external IP addresses, computer names, employee names and locations, and details about organizations' web domains. The findings were  presented  at the Black Hat USA 2021 security conference last week.  "The traffic that leaked to us from internal network traffic provides malicious actors all the intel they would ever need to launch a successful attack," the researchers added. "More than t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical flaws in Magento, patch it immediately<a href="https://securityaffairs.co/wordpress/121028/security/magento-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe security updates for August 2021 have addressed critical vulnerabilities in Magento and important bugs in Adobe Connect. 
+
+
+
+Adobe security updates for August 2021 address a total of 29 flaws, including critical vulnerabilities in Magento and important...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya's universal REvil decryption key leaked on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/kaseyas-universal-revil-decryption-key-leaked-on-a-hacking-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The universal decryption key for REvil's attack on Kaseya's customers has been leaked on hacking forums allowing researchers their first glimpse of the mysterious key.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Flaw with DNSaaS Providers Exploited for Intelligence Gathering<a href="https://cyware.com/news/a-flaw-with-dnsaas-providers-exploited-for-intelligence-gathering-fbb1053b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of DNS vulnerabilities was found impacting DNS-as-a-Service (DNSaaS) providers. It enables cybercriminals to rip off sensitive corporate data. The flaws could allow intelligence harvesting simply by using a domain registration technique.  There are mitigation   steps available   that can be f ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSPs and MSSPs Can Increase Profit Margins With Cynet 360 Platform<a href="https://thehackernews.com/2020/06/msps-mssps-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cyber threats keep on increasing in volume and sophistication, more and more organizations acknowledge that outsourcing their security operations to a 3rd-party service provider is a practice that makes the most sense.  To address this demand, managed security services providers (MSSPs) and managed service providers (MSPs) continuously search for the right products that would empower their teams to deliver high-quality and scalable services.  Cynet 360 Autonomous Breach Protection platform offers a multitenant security solution for MSSP/MSP, providing automated, all-in-one products that include a robust SOAR layer, on top of attack prevention and detection. (Learn more about  Cynet's partner program for MSPs and MSSPs  here).  Service providers typically have a skilled security team at their disposal. The challenge is how to leverage this skill to serve as many customers as possible without compromising on the quality of the service. That makes each minute of each team member a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patch Tuesday security updates fix PrintNightmare flaws<a href="https://securityaffairs.co/wordpress/121014/security/microsoft-patch-tuesday-august-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released patch Tuesday security updates for August that address 120 CVEs in Microsoft products including a zero-day actively exploited in the wild. 
+
+
+
+Microsoft released patch Tuesday security updates for August that address 120 CVEs in multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 Initial Access Broker Trends: Cybercrime Service Evolves<a href="https://www.govinfosecurity.com/10-initial-access-broker-trends-cybercrime-service-evolves-a-17249?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of trying to identify victims and gain remote access, they can select from a menu of options, picking victims based on their revenue, country and sector, and the type of access being offered.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Over $600 Million Worth of Cryptocurrencies from Poly Network<a href="https://thehackernews.com/2021/08/hacker-steal-over-600-million-worth-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have siphoned $611 million worth of cryptocurrencies from a blockchain-based financial network in what's believed to be one of the largest heists targeting the digital asset industry, putting it ahead of breaches targeting exchanges Coincheck  and Mt. Gox  in recent years.  Poly Network, a China-based cross-chain decentralized finance (DeFi) platform for swapping tokens across multiple blockchains such as Bitcoin and Ethereum, on Tuesday  disclosed  unidentified actors had exploited a vulnerability in its system to plunder thousands of digital tokens such as Ether.  "The hacker exploited a vulnerability between contract calls," Poly Network said.    The stolen Binance Chain, Ethereum, and Polygon assets are said to have been transferred to three different wallets, with the company urging miners of affected blockchain and centralized crypto exchanges to blocklist tokens coming from the addresses. The three wallet addresses are as follows -    Ethereum: 0xC8a65Fadf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0 is Now Hiring Corporate Insiders<a href="https://cyware.com/news/lockbit-20-is-now-hiring-corporate-insiders-2493d2dd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit 2.0 ransomware group is hiring and promising corporate insiders millions of dollars if they assist attackers in infiltrating and encrypting corporate networks. The recent finding indicates the LockBit gang probably wants to remove the middleman hackers for companies’ login credentials. Such ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Group Takes Advantage of Vulnerable Exchange Servers<a href="https://www.govinfosecurity.com/conti-group-takes-advantage-vulnerable-exchange-servers-a-17252?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some patched on-premises Microsoft Exchange email servers are still proving to be vulnerable. Conti ransomware group is now leveraging backdoors that persist, cybersecurity firm Pondurance reports.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento Update Released to Fix Critical Flaws Affecting E-Commerce Sites<a href="https://thehackernews.com/2021/08/magento-update-released-fix-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Tuesday shipped  security updates  to remediate multiple critical vulnerabilities in its Magento e-commerce platform that could be abused by an attacker to execute arbitrary code and take control of a vulnerable system.  The  issues  affect 2.3.7, 2.4.2-p1, 2.4.2, and earlier versions of Magento Commerce, and 2.3.7, 2.4.2-p1, and all prior versions of Magento Open Source edition. Of the 26 flaws addressed, 20 are rated critical, and six are rated Important in severity. None of the vulnerabilities fixed this month by Adobe are listed as publicly known or under active attack at the time of release.   The most concerning of the bugs are as follows -   CVE-2021-36021, CVE-2021-36024, CVE-2021-36025, CVE-2021-36034, CVE-2021-36035, CVE-2021-36040, CVE-2021-36041, and CVE-2021-36042  (CVSS score: 9.1) - Arbitrary code execution due to improper input validation  CVE-2021-36022 and CVE-2021-36023  (CVSS score: 9.1) - Arbitrary code execution due to OS command injection  CVE-2021-3602
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Windows Updates to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2021/08/microsoft-releases-windows-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out  security updates  to address a total of 44 security issues affecting its software products and services, one of which it says is an actively exploited zero-day in the wild.  The update, which is the smallest release since December 2019, squashes seven Critical and 37 Important bugs in Windows, .NET Core & Visual Studio, Azure, Microsoft Graphics Component, Microsoft Office, Microsoft Scripting Engine, Microsoft Windows Codecs Library, Remote Desktop Client, among others. This is in addition to  seven security flaws  it patched in the Microsoft Edge browser on August 5.  Chief among the patched issues is  CVE-2021-36948  (CVSS score: 7.8), an elevation of privilege flaw affecting Windows Update Medic Service — a service that enables remediation and protection of Windows Update components — which could be abused to run malicious programs with escalated permissions.   Microsoft's Threat Intelligence Center has been credited with reporting the flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft revives deprecated RDCMan after fixing security flaw<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-revives-deprecated-rdcman-after-fixing-security-flaw/"> Full Text</a>
@@ -50,7 +300,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Attacks Rise, Warns ACSC<a href="https://cyware.com/news/lockbit-ransomware-attacks-rise-warns-acsc-21260202"> Full Text</a>
@@ -66,7 +316,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senate package brings cybersecurity billions | Twitter suspends Taylor Greene, again | Amazon gets NSA contract<a href="https://thehill.com//policy/technology/overnights/567243-hillicon-valley-senate-package-brings-cybersecurity-billions"> Full Text</a>
@@ -82,7 +332,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Believe Chinese Hackers Are Behind Several Attacks Targeting Israel<a href="https://thehackernews.com/2021/08/experts-believe-chinese-hackers-are.html"> Full Text</a>
@@ -98,7 +348,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $611 million stolen in Poly Network cross-chain hack<a href="https://securityaffairs.co/wordpress/121005/cyber-crime/poly-network-cross-chain-hack.html"> Full Text</a>
@@ -122,7 +372,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Connected Farms Easy Pickings for Global Food Supply-Chain Hack<a href="https://threatpost.com/connected-farms-food-supply-chain-hack/168547/"> Full Text</a>
@@ -138,7 +388,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe fixes critical preauth vulnerabilities in Magento<a href="https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-preauth-vulnerabilities-in-magento/"> Full Text</a>
@@ -154,7 +404,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Attack Cross-Chain DeFi Platform Poly Network and Steal Hundreds of Millions Worth of Crypto Assets<a href="https://www.coindesk.com/cross-chain-defi-site-poly-network-hacked?&web_view=true"> Full Text</a>
@@ -170,7 +420,7 @@ Coin Desk
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate includes over $1.9 billion for cybersecurity in infrastructure bill<a href="https://thehill.com//policy/cybersecurity/567204-over-1-billion-in-cybersecurity-funds-included-in-senate-passed"> Full Text</a>
@@ -186,7 +436,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting New Auth Bypass Bug Affecting Millions of Arcadyan Routers<a href="https://thehackernews.com/2021/08/hackers-exploiting-new-auth-bypass-bug.html"> Full Text</a>
@@ -202,7 +452,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New eCh0raix ransomware variant targets NAS devices from both QNAP and Synology vendors<a href="https://securityaffairs.co/wordpress/120994/cyber-crime/ech0raix-ransomware-qnap-synology.html"> Full Text</a>
@@ -222,7 +472,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fuzz Off: How to Shake Up Code to Get It Right – Podcast<a href="https://threatpost.com/fuzz-off-how-to-shake-up-code-to-get-it-right-podcast/168487/"> Full Text</a>
@@ -238,7 +488,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crytek confirms Egregor ransomware attack, customer data theft<a href="https://www.bleepingcomputer.com/news/security/crytek-confirms-egregor-ransomware-attack-customer-data-theft/"> Full Text</a>
@@ -254,7 +504,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retail became a top target for ransomware and data-theft<a href="https://cybernews.com/news/retail-became-a-top-target-for-ransomware-and-data-theft/?&web_view=true"> Full Text</a>
@@ -270,7 +520,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure Sentinel uses Fusion ML to detect ransomware attacks<a href="https://securityaffairs.co/wordpress/120983/security/microsoft-azure-sentinel-detects-ransomware.html"> Full Text</a>
@@ -290,7 +540,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows security update blocks PetitPotam NTLM relay attacks<a href="https://www.bleepingcomputer.com/news/microsoft/windows-security-update-blocks-petitpotam-ntlm-relay-attacks/"> Full Text</a>
@@ -306,7 +556,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Illinois’ FOID Card System Hit By Cyber Attack<a href="https://1440wrok.com/illinois-foid-card-system-hit-by-cyber-attack/?&web_view=true"> Full Text</a>
@@ -322,7 +572,7 @@ On the heels of cyber attacks on the Illinois Attorney General's Office and the 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FlyTrap, a new Android Trojan compromised thousands of Facebook accounts<a href="https://securityaffairs.co/wordpress/120971/malware/flytrap-trojan.html"> Full Text</a>
@@ -342,7 +592,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft August 2021 Patch Tuesday fixes 3 zero-days, 44 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2021-patch-tuesday-fixes-3-zero-days-44-flaws/"> Full Text</a>
@@ -358,7 +608,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google discontinues Bluetooth security keys to focus on NFC versions<a href="https://therecord.media/google-discontinues-bluetooth-security-keys-to-focus-on-nfc-versions/?&web_view=true"> Full Text</a>
@@ -374,7 +624,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows Print Spooler PrintNightmare vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-print-spooler-printnightmare-vulnerability/"> Full Text</a>
@@ -390,7 +640,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Companies Still Exposing Sensitive Data via Known Salesforce Misconfiguration<a href="https://www.securityweek.com/companies-still-exposing-sensitive-data-known-salesforce-misconfiguration?&web_view=true"> Full Text</a>
@@ -406,7 +656,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over $600 million reportedly stolen in cryptocurrency hack<a href="https://www.bleepingcomputer.com/news/security/over-600-million-reportedly-stolen-in-cryptocurrency-hack/"> Full Text</a>
@@ -422,7 +672,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX Hackers Threaten to Leak Data of Intel, AMD After Attack on Gigabyte<a href="https://ciso.economictimes.indiatimes.com/news/hackers-threaten-to-leak-data-of-intel-amd-in-gigabyte-attack/85202435?&web_view=true"> Full Text</a>
@@ -438,7 +688,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox adds enhanced cookie clearing, HTTPS by default in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-adds-enhanced-cookie-clearing-https-by-default-in-private-browsing/"> Full Text</a>
@@ -454,7 +704,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The challenges healthcare CISOs face in an evolving threat landscape<a href="https://www.helpnetsecurity.com/2021/08/10/challenges-healthcare-cisos-face/?&web_view=true"> Full Text</a>
@@ -470,7 +720,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2021
+August 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 eCh0raix ransomware now targets both QNAP and Synology NAS devices<a href="https://www.bleepingcomputer.com/news/security/ech0raix-ransomware-now-targets-both-qnap-and-synology-nas-devices/"> Full Text</a>
@@ -486,7 +736,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2021
+August 9, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Hat: Scaling Automated Disinformation for Misery and Profit<a href="https://threatpost.com/scaling-automated-disinformation/168484/"> Full Text</a>
@@ -502,7 +752,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2021
+August 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Auth Bypass Bug Exploited, Affecting Millions of Routers<a href="https://threatpost.com/auth-bypass-bug-routers-exploited/168491/"> Full Text</a>
