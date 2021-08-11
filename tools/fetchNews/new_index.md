@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hack Earned Crooks $600 Million<a href="https://threatpost.com/crypto-hack-600-million/168554/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one of the largest cryptocurrency hacks to date, cyberattackers reportedly stole millions from the decentralized finance (DeFi) platform Poly Network.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Unhappy Affiliate Spills Conti’s Attack Secrets<a href="https://cyware.com/news/unhappy-affiliate-spills-contis-attack-secrets-41e3d6f7"> Full Text</a>
 </p>
 <details>
