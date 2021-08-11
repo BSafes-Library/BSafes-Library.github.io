@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+August 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat: Scaling Automated Disinformation for Misery and Profit<a href="https://threatpost.com/scaling-automated-disinformation/168484/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated the power deep neural networks enlisted to create a bot army with the firepower to shape public opinion and spark QAnon 2.0. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Believe Chinese Hackers Are Behind Several Attacks Targeting Israel<a href="https://thehackernews.com/2021/08/experts-believe-chinese-hackers-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese cyber espionage group has been linked to a string of intrusion activities targeting Israeli government institutions, IT providers, and telecommunications companies at least since 2019.  FireEye's Mandiant threat intelligence arm attributed the campaign to an operator it tracks as "UNC215", a Chinese espionage operation that's believed to have singled out organizations around the world dating back as far as 2014, linking the group with "low confidence" to an advanced persistent threat (APT) widely known as&nbsp; APT27 , Emissary Panda, or Iron Tiger.  "UNC215 has compromised organizations in the government, technology, telecommunications, defense, finance, entertainment, and health care sectors," FireEye's Israel and U.S. threat intel teams&nbsp; said &nbsp;in a report published today.   "The group targets data and organizations which are of great interest to Beijing's financial, diplomatic, and strategic objectives," the findings refl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting New Auth Bypass Bug Affecting Millions of Arcadyan Routers<a href="https://thehackernews.com/2021/08/hackers-exploiting-new-auth-bypass-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unidentified threat actors are actively exploiting a critical authentication bypass vulnerability to hijack home routers as part of an effort to co-opt them to a Mirai-variant botnet used for carrying out DDoS attacks, merely two days after its public disclosure.  Tracked as&nbsp; CVE-2021-20090 &nbsp;(CVSS score: 9.9), the&nbsp; weakness &nbsp;concerns a&nbsp; path traversal vulnerability &nbsp;in the web interfaces of&nbsp; routers with Arcadyan firmware &nbsp;that could allow unauthenticated remote attackers to bypass authentication.   Disclosed by Tenable on August 3, the issue is believed to have existed for at least 10 years, affecting at least 20 models across 17 different vendors, including Asus, Beeline, British Telecom, Buffalo, Deutsche Telekom, Orange, Telstra, Telus, Verizon, and Vodafone.  Successful exploitation of the could enable an attacker to circumvent authentication barriers and potentially gain access to sensitive information, including valid request tokens, which could be used to make requests to alte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New eCh0raix ransomware variant targets NAS devices from both QNAP and Synology vendors<a href="https://securityaffairs.co/wordpress/120994/cyber-crime/ech0raix-ransomware-qnap-synology.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the eCh0raix ransomware is able to target Network-Attached Storage (NAS) devices from both&nbsp;QNAP and Synology vendors. 
+
+
+
+A newly variant of the&nbsp;eCh0raix ransomware is able to infect Network-Attached Storage (NAS) devices from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+eCh0raix ransomware now targets both QNAP and Synology NAS devices<a href="https://www.bleepingcomputer.com/news/security/ech0raix-ransomware-now-targets-both-qnap-and-synology-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered&nbsp;eCh0raix ransomware variant has added support for encrypting both&nbsp;QNAP and Synology Network-Attached Storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
