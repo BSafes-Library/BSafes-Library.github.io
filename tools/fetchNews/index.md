@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Accenture confirms hack after LockBit ransomware data leak threats<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-hack-after-lockbit-ransomware-data-leak-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture, a global IT consultancy giant has likely been hit by a ransomware cyberattack. The ransomware group LockBit is threatening to publish data on its leak site within hours, as seen by BleepingComputer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OwnBackup Raises $240 Million at $3.35 Billion Valuation<a href="https://www.securityweek.com/ownbackup-raises-240-million-335-billion-valuation?&web_view=true"> Full Text</a>
 </p>
 <details>

@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ProxyShell - Another MS Exchange Flaw Gaining Traction Among Attackers<a href="https://cyware.com/news/proxyshell-another-ms-exchange-flaw-gaining-traction-among-attackers-666acadf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity researcher recently spotted threat actors actively trying to exploit Microsoft Exchange servers by targeting ProxyShell vulnerabilities. The newly discovered vulnerabilities could be exploited via the Client Access Service (CAS), which runs in IIS on port 443. Experts recommend appl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Accenture confirms hack after LockBit ransomware data leak threats<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-hack-after-lockbit-ransomware-data-leak-threats/"> Full Text</a>
 </p>
 <details>
