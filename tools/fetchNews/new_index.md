@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Norton and Avast are merging into an $8 billion antivirus empire<a href="https://www.theverge.com/2021/8/11/22619667/nortonlifelock-avast-merger-deal-anti-virus-cyber-security-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NortonLifeLock and Avast are merging in a deal worth more than $8 billion. The deal will see NortonLifelock acquire all of Avast’s shares, and create a much larger cybersecurity firm.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ProxyShell - Another MS Exchange Flaw Gaining Traction Among Attackers<a href="https://cyware.com/news/proxyshell-another-ms-exchange-flaw-gaining-traction-among-attackers-666acadf"> Full Text</a>
 </p>
 <details>
