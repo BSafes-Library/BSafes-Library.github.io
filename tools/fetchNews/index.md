@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers return portion of $600 million stolen from cryptocurrency site<a href="https://thehill.com//policy/cybersecurity/567390-hackers-return-portion-of-600-million-stolen-from-cryptocurrency-site"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers behind the breach of cryptocurrency company Poly Network on Wednesday returned almost half of the $600 million in digital tokens they stole following a plea from the company to do so.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Nine Critical and High-Severity Vulnerabilities Patched in SAP Products<a href="https://www.securityweek.com/nine-critical-and-high-severity-vulnerabilities-patched-sap-products?&web_view=true"> Full Text</a>
 </p>
 <details>
