@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nine Critical and High-Severity Vulnerabilities Patched in SAP Products<a href="https://www.securityweek.com/nine-critical-and-high-severity-vulnerabilities-patched-sap-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German enterprise software giant SAP has released 19 new and updated security notes, including for nine new vulnerabilities that have been rated critical or high severity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The cost of unwanted bot traffic - up to $250M a year<a href="https://cybernews.com/news/the-cost-of-unwanted-bot-traffic-up-to-250m-a-year/?&web_view=true"> Full Text</a>
 </p>
 <details>
