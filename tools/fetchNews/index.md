@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OwnBackup Raises $240 Million at $3.35 Billion Valuation<a href="https://www.securityweek.com/ownbackup-raises-240-million-335-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data protection solutions provider OwnBackup on Tuesday announced raising $240 million in a Series E funding round led by Alkeon Capital and B Capital Group at a valuation of $3.35 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 XMRig-based Cryptomining Worm with 15% Speed Boost<a href="https://cyware.com/news/xmrig-based-cryptomining-worm-with-15-speed-boost-27bd175e"> Full Text</a>
 </p>
 <details>
