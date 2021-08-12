@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experts Shed Light On New Russian Malware-as-a-Service Written in Rust<a href="https://thehackernews.com/2021/08/experts-shed-light-on-new-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent information-stealing malware sold and distributed on underground Russian underground forums has been written in Rust, signalling a new trend where threat actors are increasingly adopting  exotic programming languages  to bypass security protections, evade analysis, and hamper reverse engineering efforts.  Dubbed " Ficker Stealer ," it's notable for being propagated via Trojanized web links and compromised websites, luring in victims to scam landing pages purportedly offering free downloads of  legitimate paid services  like Spotify Music, YouTube Premium, and other Microsoft Store applications.   "Ficker is sold and distributed as Malware-as-a-Service (MaaS), via underground Russian online forums," BlackBerry's research and intelligence team said in a report published today. "Its creator, whose alias is @ficker, offers several paid packages, with different levels of subscription fees to use their malicious program."  First seen in the wi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 OMB Spells Out Federal Agencies' Cybersecurity Timelines<a href="https://www.govinfosecurity.com/omb-spells-out-agencies-cybersecurity-timelines-a-17264?&web_view=true"> Full Text</a>
 </p>
 <details>
