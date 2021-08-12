@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant’s Advantage Platform To Get A Boost With Intrigue Acquisition<a href="https://www.crn.com/news/security/mandiant-s-advantage-platform-to-get-a-boost-with-intrigue-acquisition?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye-owned Mandiant on Tuesday announced it has acquired attack surface management startup Intrigue in a move to bolster the Mandiant Advantage software-as-a-service platform.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

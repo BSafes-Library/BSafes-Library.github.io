@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers raise concerns over federal division of cybersecurity responsibilities<a href="https://thehill.com//policy/cybersecurity/567444-lawmakers-raise-concerns-over-federal-division-of-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bipartisan leaders of the House Homeland Security Committee on Wednesday raised concerns about the division of responsibilities among key federal cybersecurity officials, noting that without clarification, the situation could “stunt” the response to cybersecurity challenges.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

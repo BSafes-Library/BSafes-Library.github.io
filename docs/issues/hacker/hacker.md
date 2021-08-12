@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors behind the Poly Network hack are returning stolen funds<a href="https://securityaffairs.co/wordpress/121057/hacking/poly-network-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor who hacked Poly Network cross-chain protocol stealing $611 million worth of cryptocurrency assets returns the stolen funds. 
+
+
+
+The threat actor behind the hack of the Poly Network cross-chain protocol is now returning the stolen funds....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Group Targets Israel, Pretends to be Iranian<a href="https://cyware.com/news/chinese-hacker-group-targets-israel-pretends-to-be-iranian-8013a0a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC215 used new TTPs to evade detection and attribution, implement false flags, and exploit trusted relationships for lateral propagation. As per Mandiant, the threat actor is still active.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

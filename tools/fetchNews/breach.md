@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture confirms hack after LockBit ransomware data leak threats<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-hack-after-lockbit-ransomware-data-leak-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture, a global IT consultancy giant has likely been hit by a ransomware cyberattack. The ransomware group LockBit is threatening to publish data on its leak site within hours, as seen by BleepingComputer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya's universal REvil decryption key leaked on a hacking forum<a href="https://www.bleepingcomputer.com/news/security/kaseyas-universal-revil-decryption-key-leaked-on-a-hacking-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The universal decryption key for REvil's attack on Kaseya's customers has been leaked on hacking forums allowing researchers their first glimpse of the mysterious key.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Over $600 Million Worth of Cryptocurrencies from Poly Network<a href="https://thehackernews.com/2021/08/hacker-steal-over-600-million-worth-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have siphoned $611 million worth of cryptocurrencies from a blockchain-based financial network in what's believed to be one of the largest heists targeting the digital asset industry, putting it ahead of breaches targeting exchanges Coincheck  and Mt. Gox  in recent years.  Poly Network, a China-based cross-chain decentralized finance (DeFi) platform for swapping tokens across multiple blockchains such as Bitcoin and Ethereum, on Tuesday&nbsp; disclosed &nbsp;unidentified actors had exploited a vulnerability in its system to plunder thousands of digital tokens such as Ether.  "The hacker exploited a vulnerability between contract calls," Poly Network said.&nbsp;   The stolen Binance Chain, Ethereum, and Polygon assets are said to have been transferred to three different wallets, with the company urging miners of affected blockchain and centralized crypto exchanges to blocklist tokens coming from the addresses. The three wallet addresses are as follows -&nbsp;   Ethereum: 0xC8a65Fadf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

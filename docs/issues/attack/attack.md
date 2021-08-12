@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Giant Accenture Hit by LockBit Ransomware; Hackers Threaten to Leak Data<a href="https://thehackernews.com/2021/08/it-giant-accenture-hit-by-lockbit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global IT consultancy giant Accenture has become the latest company to be hit by the LockBit ransomware gang, according to a post made by the operators on their dark web portal, likely filling a void left in the wake of DarkSide and REvil shutdown.  "These people are beyond privacy and security. I really hope that their services are better than what I saw as an insider," read a message posted on the data leak website. Accenture&nbsp; said &nbsp;it has since restored the affected systems from backups.   LockBit, like its now-defunct DarkSide and REvil counterparts, operates using a ransomware-as-a-service (RaaS) model, roping in other cybercriminals (aka affiliates) to carry out the intrusion using its platform, with the payments often divided between the criminal entity directing the attack and the core developers of the malware.   The ransomware group emerged on the threat landscape in September 2019, and in June 2021 launched LockBit 2.0 along with an advertising campaign to recruit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

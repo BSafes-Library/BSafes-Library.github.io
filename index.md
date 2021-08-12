@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang uses PrintNightmare to breach Windows servers<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-printnightmare-to-breach-windows-servers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 If a QR code leads you to a Bitcoin ATM at a gas station, it's a scam<a href="https://blog.malwarebytes.com/scams/2021/08/if-a-qr-code-leads-you-to-a-bitcoin-atm-at-a-gas-station-its-a-scam/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Companies Can Protect Themselves from Password Spraying Attacks<a href="https://thehackernews.com/2021/08/how-companies-can-protect-themselves.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of a new unpatched Windows Print Spooler RCE zero-day<a href="https://securityaffairs.co/wordpress/121068/hacking/windows-print-spooler-rce-zero-day.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European police round up 23 suspected scammers accused of $1.2 million fraud<a href="https://www.cyberscoop.com/europol-bec-ireland-netherlands-romania-23/?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT Giant Accenture Hit by LockBit Ransomware; Hackers Threaten to Leak Data<a href="https://thehackernews.com/2021/08/it-giant-accenture-hit-by-lockbit.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors behind the Poly Network hack are returning stolen funds<a href="https://securityaffairs.co/wordpress/121057/hacking/poly-network-hackers.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hacker Group Targets Israel, Pretends to be Iranian<a href="https://cyware.com/news/chinese-hacker-group-targets-israel-pretends-to-be-iranian-8013a0a9"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake COVID vaccine card sales ramp up on Dark Web<a href="https://www.techrepublic.com/article/fake-covid-vaccine-card-sales-ramp-up-on-dark-web/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AlphaBay Dark Web Marketplace Claims to be Back in Business Four Years After FBI Seizure<a href="https://www.cyberscoop.com/alphabay-dark-web-fbi-flashpoint/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: Labor tries the Senate after ransomware payments Bill flops in the House of Reps<a href="https://www.zdnet.com/article/labor-tries-the-senate-after-ransomware-payments-bill-flops-in-the-house-of-reps/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant’s Advantage Platform To Get A Boost With Intrigue Acquisition<a href="https://www.crn.com/news/security/mandiant-s-advantage-platform-to-get-a-boost-with-intrigue-acquisition?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Use IISerpent Server-side Malware to Manipulate Search Engine Results and Conduct Fraud<a href="https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2021
+August 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya’s ‘Master Key’ to REvil Attack Leaked Online<a href="https://threatpost.com/kaseyas-master-key-to-revil-attack-leaked-online/168565/"> Full Text</a>
@@ -266,7 +266,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2021
+August 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Another Unpatched Windows Print Spooler RCE Vulnerability<a href="https://thehackernews.com/2021/08/microsoft-security-bulletin-warns-of.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Labor tries the Senate after ransomware payments Bill flops in the House of Reps<a href="https://www.zdnet.com/article/labor-tries-the-senate-after-ransomware-payments-bill-flops-in-the-house-of-reps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bill that would require entities to inform the Australian government before they make a ransomware payment has been introduced to the Senate by the federal opposition.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

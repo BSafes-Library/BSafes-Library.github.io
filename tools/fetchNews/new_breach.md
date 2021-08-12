@@ -11,6 +11,20 @@ nav_order: 900029
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Kaseya’s ‘Master Key’ to REvil Attack Leaked Online<a href="https://threatpost.com/kaseyas-master-key-to-revil-attack-leaked-online/168565/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decryptor is of little use to other companies hit in the spate of attacks unleashed before the notorious ransomware group went dark, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Accenture confirms hack after LockBit ransomware data leak threats<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-hack-after-lockbit-ransomware-data-leak-threats/"> Full Text</a>
 </p>
 <details>

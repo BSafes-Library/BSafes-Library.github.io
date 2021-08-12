@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Companies Can Protect Themselves from Password Spraying Attacks<a href="https://thehackernews.com/2021/08/how-companies-can-protect-themselves.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using many types of attacks to compromise business-critical data. These can include zero-day attacks, supply chain attacks, and others. However, one of the most common ways that hackers get into your environment is by compromising passwords.  The password spraying attack is a special kind of password attack that can prove effective in compromising your environment. Let's look closer at the password spraying attack and how organizations can prevent it.  Beware of compromised credentials  Are compromised credentials dangerous to your environment? Yes! Compromised credentials allow an attacker to "walk in the front door" of your environment with legitimate credentials. They assume all the rights and permissions to systems, data, and resources the compromised account can access.  The compromise of a privileged account is even worse. Privileged accounts are accounts that have high levels of access, such as an administrator user account. These types of accounts r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

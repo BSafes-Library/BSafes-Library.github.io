@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Rand Paul suspended one week by YouTube over COVID-19 mask claims | Crypto industry seeks to build momentum after losing Senate fight | Senators introduce bill to promote app store competition<a href="https://thehill.com//policy/technology/overnights/567465-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A busy mid-week work day saw a well-known Republican member of the Senate get temporarily suspended from YouTube due to allegations he was spreading incorrect information on the COVID-19 pandemic. Meanwhile,&nbsp;cryptocurrency leaders are gathering their strength and preparing to weigh in on the upcoming House debate on the infrastructure package, and legislation was introduced to promote app store competition.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSPs and MSSPs Can Increase Profit Margins With Cynet 360 Platform<a href="https://thehackernews.com/2020/06/msps-mssps-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cyber threats keep on increasing in volume and sophistication, more and more organizations acknowledge that outsourcing their security operations to a 3rd-party service provider is a practice that makes the most sense.  To address this demand, managed security services providers (MSSPs) and managed service providers (MSPs) continuously search for the right products that would empower their teams to deliver high-quality and scalable services.  Cynet 360 Autonomous Breach Protection platform offers a multitenant security solution for MSSP/MSP, providing automated, all-in-one products that include a robust SOAR layer, on top of attack prevention and detection. (Learn more about&nbsp; Cynet's partner program for MSPs and MSSPs &nbsp;here).  Service providers typically have a skilled security team at their disposal. The challenge is how to leverage this skill to serve as many customers as possible without compromising on the quality of the service. That makes each minute of each team member a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+10 Initial Access Broker Trends: Cybercrime Service Evolves<a href="https://www.govinfosecurity.com/10-initial-access-broker-trends-cybercrime-service-evolves-a-17249?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of trying to identify victims and gain remote access, they can select from a menu of options, picking victims based on their revenue, country and sector, and the type of access being offered.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

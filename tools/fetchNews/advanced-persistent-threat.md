@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC215, an alleged China-linked APT group targets Israel orgs<a href="https://securityaffairs.co/wordpress/121039/apt/unc215-targets-israel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors UNC215 targeted Israeli organizations in a long-running campaign and used false flags to trick victims into believing the attacks was from Iran.
+
+
+
+A China-linked cyber-espionage group has targeted Israeli organizations and government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
