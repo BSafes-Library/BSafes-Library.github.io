@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US has made progress on cyber but more needed, report says | Democrat urges changes for 'problematic' crypto language in infrastructure bill | Facebook may be forced to unwind Giphy acquisition<a href="https://thehill.com//policy/technology/overnights/567666-hillicon-valley-report-finds-us-government-has-made-progress-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of a string of cybersecurity attacks, a report issued Thursday found the federal government is making progress against threats. But the committee behind the report said there is still work to be done.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers now backdoor Microsoft Exchange using ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-now-backdoor-microsoft-exchange-using-proxyshell-exploits/"> Full Text</a>
 </p>
 <details>
