@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Notorious AlphaBay darknet market comes back to life<a href="https://www.bleepingcomputer.com/news/security/notorious-alphabay-darknet-market-comes-back-to-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AlphaBay darkweb market has come back to life after an administrator of the original project relaunched it over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report finds US government has made progress on cybersecurity, more work remains<a href="https://thehill.com//policy/cybersecurity/567577-report-finds-while-us-government-has-made-progress-on-cybersecurity-more"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government has made “significant” progress on strengthening the United States against cyber threats over the past year, but more work remains, a congressionally-established bipartisan committee concluded in a report published Thursday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 August 2021 ICS Patch Tuesday: Siemens, Schneider Address Over 50 Flaws<a href="https://www.securityweek.com/august-2021-ics-patch-tuesday-siemens-schneider-address-over-50-flaws?&web_view=true"> Full Text</a>
 </p>
 <details>
