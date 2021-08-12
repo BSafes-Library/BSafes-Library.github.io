@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malicious Actors Employ Impersonation Scams to Infect Users with Flubot Malware<a href="https://cybernews.com/news/britons-targeted-by-a-flubot-malware-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious hackers are impersonating delivery services and sending phishing text messages to Britons to trick them into downloading Flubot malware, according to UK mobile network Three.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Experts Shed Light On New Russian Malware-as-a-Service Written in Rust<a href="https://thehackernews.com/2021/08/experts-shed-light-on-new-russian.html"> Full Text</a>
 </p>
 <details>
