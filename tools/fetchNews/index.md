@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+August 2021 ICS Patch Tuesday: Siemens, Schneider Address Over 50 Flaws<a href="https://www.securityweek.com/august-2021-ics-patch-tuesday-siemens-schneider-address-over-50-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric on Tuesday released 18 security advisories addressing a total of more than 50 vulnerabilities affecting their products used in industrial settings.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A Simple Software Fix Could Limit Location Data Sharing<a href="https://www.wired.com/story/pretty-good-phone-privacy-imsi-wireless-carriers/?&web_view=true"> Full Text</a>
 </p>
 <details>
