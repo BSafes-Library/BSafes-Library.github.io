@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A Simple Software Fix Could Limit Location Data Sharing<a href="https://www.wired.com/story/pretty-good-phone-privacy-imsi-wireless-carriers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Paul Schmitt and Barath Raghavan have created a scheme called Pretty Good Phone Privacy that can mask wireless users' locations from carriers with a simple software upgrade.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ukraine shuts down money laundering cryptocurrency exchanges<a href="https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-money-laundering-cryptocurrency-exchanges/"> Full Text</a>
 </p>
 <details>
