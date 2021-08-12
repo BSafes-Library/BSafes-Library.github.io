@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Evasive Office 365 phishing campaign active since July 2020<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-evasive-office-365-phishing-campaign-active-since-july-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that a year-long and highly evasive spear-phishing campaign has targeted Office 365 customers in multiple waves of attacks starting with July 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arctic Wolf appoints Nick Schneider as CEO<a href="https://www.helpnetsecurity.com/2021/08/12/arctic-wolf-nick-schneider/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arctic Wolf announced that Nick Schneider, president and chief revenue officer, has been appointed as CEO, succeeding Brian NeSmith who will serve as executive chairman of the Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Signed MSI files, Raccoon and Amadey are used for installing ServHelper RAT<a href="https://blog.talosintelligence.com/2021/08/raccoon-and-amadey-install-servhelper.html?&web_view=true"> Full Text</a>
 </p>
 <details>
