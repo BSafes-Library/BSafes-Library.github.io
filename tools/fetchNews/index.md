@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukraine shuts down money laundering cryptocurrency exchanges<a href="https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-money-laundering-cryptocurrency-exchanges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) took down a network of cryptocurrency exchanges used to anonymize transactions since the beginning of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime victims lose an estimated $318 billion annually<a href="https://www.comparitech.com/blog/vpn-privacy/cybercrime-cost/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the estimates by Comparitech researchers, 71.1 million people fall victim to cybercrimes globally each year which equates to nearly 900 victims per 100,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at US Waste Management Firm Exposes Employees’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-waste-management-firm-exposes-employees-healthcare-details?&web_view=true"> Full Text</a>
 </p>
 <details>
