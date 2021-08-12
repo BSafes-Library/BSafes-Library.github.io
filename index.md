@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMB Spells Out Federal Agencies' Cybersecurity Timelines<a href="https://www.govinfosecurity.com/omb-spells-out-agencies-cybersecurity-timelines-a-17264?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of Management and Budget is ordering federal agencies to begin identifying "critical software" that needs protection as part of the effort to fulfill President Joe Biden's cybersecurity executive order issued in May.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
