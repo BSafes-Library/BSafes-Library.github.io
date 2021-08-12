@@ -37,6 +37,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms another Windows print spooler zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-another-windows-print-spooler-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has issued an advisory for another zero-day Windows print spooler vulnerability tracked as CVE-2021-36958 that allows local attackers to gain SYSTEM privileges on a computer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Rand Paul suspended one week by YouTube over COVID-19 mask claims | Crypto industry seeks to build momentum after losing Senate fight | Senators introduce bill to promote app store competition<a href="https://thehill.com//policy/technology/overnights/567465-hillicon-valley"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A busy mid-week work day saw a well-known Republican member of the Senate get temporarily suspended from YouTube due to allegations he was spreading incorrect information on the COVID-19 pandemic. Meanwhile, cryptocurrency leaders are gathering their strength and preparing to weigh in on the upcoming House debate on the infrastructure package, and legislation was introduced to promote app store competition. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Friends’ Reunion Anchors Video Swindle<a href="https://threatpost.com/friends-reunion-video-swindle/168583/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spam was on the rise in Q2, with video fraud and COVID-19-related efforts in the mix.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker behind biggest cryptocurrency heist ever returns stolen funds<a href="https://www.bleepingcomputer.com/news/security/hacker-behind-biggest-cryptocurrency-heist-ever-returns-stolen-funds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor who hacked Poly Network's cross-chain interoperability protocol yesterday to steal over $600 million worth of cryptocurrency assets is now returning the stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consulting group Accenture hit by cyberattack<a href="https://thehill.com//policy/cybersecurity/567458-consulting-group-accenture-hit-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global consulting group Accenture confirmed Wednesday that it had been hit by a cyberattack, becoming the latest in a string of organizations in recent months to be targeted. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker behind biggest cryptocurrency heist ever returns stolen funds<a href="https://www.bleepingcomputer.com/news/cryptocurrency/hacker-behind-biggest-cryptocurrency-heist-ever-returns-stolen-funds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor who hacked Poly Network's cross-chain interoperability protocol yesterday to steal over $600 million worth of cryptocurrency assets is now returning the stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers raise concerns over federal division of cybersecurity responsibilities<a href="https://thehill.com//policy/cybersecurity/567444-lawmakers-raise-concerns-over-federal-division-of-cybersecurity"> Full Text</a>
 </p>
 <details>
