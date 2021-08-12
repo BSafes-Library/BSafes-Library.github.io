@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CobaltSpam tool can flood Cobalt Strike malware servers<a href="https://therecord.media/cobaltspam-tool-can-flood-cobalt-strike-malware-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has published this week a tool to flood Cobalt Strike servers—often used by malware gangs—with fake beacons in order to corrupt their internal databases of infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js developers fix high-risk vulnerability that could allow remote domain hijacking<a href="https://portswigger.net/daily-swig/node-js-developers-fix-high-risk-vulnerability-that-could-allow-remote-domain-hijacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the JavaScript runtime environment have released a security advisory today (August 12) warning users to update to the latest version to protect against a series of bugs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Notorious AlphaBay darknet market comes back to life<a href="https://www.bleepingcomputer.com/news/security/notorious-alphabay-darknet-market-comes-back-to-life/"> Full Text</a>
 </p>
 <details>
