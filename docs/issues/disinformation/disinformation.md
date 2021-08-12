@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Friends’ Reunion Anchors Video Swindle<a href="https://threatpost.com/friends-reunion-video-swindle/168583/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spam was on the rise in Q2, with video fraud and COVID-19-related efforts in the mix.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

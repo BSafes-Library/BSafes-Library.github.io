@@ -8,6 +8,53 @@ nav_order: 900015
 
 ## Attack
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consulting group Accenture hit by cyberattack<a href="https://thehill.com//policy/cybersecurity/567458-consulting-group-accenture-hit-by-cyberattack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global consulting group Accenture confirmed Wednesday that it had been hit by a cyberattack, becoming the latest in a string of organizations in recent months to be targeted.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture has been hit by a LockBit 2.0 ransomware attack<a href="https://securityaffairs.co/wordpress/121048/data-breach/accenture-lockbit-2-0-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global consulting giant Accenture has allegedly been hit by a ransomware attack carried out by LockBit 2.0 ransomware operators.
+
+
+
+IT and consulting giant Accenture&nbsp;was hit by a ransomware attack carried out by  LockBit 2.0 ransomware operators,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBREACH: A New Attack Against Databases<a href="https://cyware.com/news/dbreach-a-new-attack-against-databases-f7c299ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have detailed a new type of attack called  Database Reconnaissance and Exfiltration via Adaptive Compression Heuristics (DBREACH)  against databases at the Black Hat US 2021 hybrid event. It could result in information disclosure and loss. Attackers can further  monitor the database us ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

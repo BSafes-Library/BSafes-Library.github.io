@@ -8,6 +8,21 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0 is Now Hiring Corporate Insiders<a href="https://cyware.com/news/lockbit-20-is-now-hiring-corporate-insiders-2493d2dd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit 2.0 ransomware group is hiring and promising corporate insiders millions of dollars if they assist attackers in infiltrating and encrypting corporate networks. The recent finding indicates the LockBit gang probably wants to remove the middleman hackers for companies’ login credentials. Such ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

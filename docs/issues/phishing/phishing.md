@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Scammers Impersonate the Australian Taxation Office for Tax Season<a href="https://cofense.com/blog/ato-tax-phish/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the government sending out tax communications, stimulus checks and more in the wake of COVID-19, scammers are taking advantage of the fact that an email from the ATO would not seem out of place.
+</details>
+<div style="text-align: right" markdown="1">
+Cofense
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

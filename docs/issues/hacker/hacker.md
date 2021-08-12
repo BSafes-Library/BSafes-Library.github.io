@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers return portion of $600 million stolen from cryptocurrency site<a href="https://thehill.com//policy/cybersecurity/567390-hackers-return-portion-of-600-million-stolen-from-cryptocurrency-site"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers behind the breach of cryptocurrency company Poly Network on Wednesday returned almost half of the $600 million in digital tokens they stole following a plea from the company to do so.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

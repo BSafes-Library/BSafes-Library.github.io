@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norton and Avast are merging into an $8 billion antivirus empire<a href="https://www.theverge.com/2021/8/11/22619667/nortonlifelock-avast-merger-deal-anti-virus-cyber-security-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NortonLifeLock and Avast are merging in a deal worth more than $8 billion. The deal will see NortonLifelock acquire all of Avast’s shares, and create a much larger cybersecurity firm.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OwnBackup Raises $240 Million at $3.35 Billion Valuation<a href="https://www.securityweek.com/ownbackup-raises-240-million-335-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data protection solutions provider OwnBackup on Tuesday announced raising $240 million in a Series E funding round led by Alkeon Capital and B Capital Group at a valuation of $3.35 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

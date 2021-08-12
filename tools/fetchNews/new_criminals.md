@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker behind biggest cryptocurrency heist ever returns stolen funds<a href="https://www.bleepingcomputer.com/news/cryptocurrency/hacker-behind-biggest-cryptocurrency-heist-ever-returns-stolen-funds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor who hacked Poly Network's&nbsp;cross-chain interoperability protocol yesterday to steal over $600 million worth of&nbsp;cryptocurrency assets is now returning the stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unhappy Affiliate Spills Conti’s Attack Secrets<a href="https://cyware.com/news/unhappy-affiliate-spills-contis-attack-secrets-41e3d6f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of Conti ransomware leaked the manuals and technical guides—used by the gang to train new members—on a cybercrime forum owing to financial conflicts.  The leaked information is said to be the  holy grail  of the penetration testing team working behind the Conti gang. The files were upl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware Group Takes Advantage of Vulnerable Exchange Servers<a href="https://www.govinfosecurity.com/conti-group-takes-advantage-vulnerable-exchange-servers-a-17252?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some patched on-premises Microsoft Exchange email servers are still proving to be vulnerable. Conti ransomware group is now leveraging backdoors that persist, cybersecurity firm Pondurance reports.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

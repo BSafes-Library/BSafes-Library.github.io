@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The cost of unwanted bot traffic - up to $250M a year<a href="https://cybernews.com/news/the-cost-of-unwanted-bot-traffic-up-to-250m-a-year/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the pandemic, online presence has become crucial for retail businesses. It has also led to the challenge of evasive malicious bots that are now leaching off of already vulnerable businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

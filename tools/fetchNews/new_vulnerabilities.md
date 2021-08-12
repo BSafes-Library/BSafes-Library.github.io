@@ -8,6 +8,184 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms another Windows print spooler zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-another-windows-print-spooler-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has issued an advisory for another zero-day Windows print spooler vulnerability tracked as CVE-2021-36958 that allows local attackers to gain SYSTEM privileges on a computer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Critical and High-Severity Vulnerabilities Patched in SAP Products<a href="https://www.securityweek.com/nine-critical-and-high-severity-vulnerabilities-patched-sap-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German enterprise software giant SAP has released 19 new and updated security notes, including for nine new vulnerabilities that have been rated critical or high severity.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Addresses High-Severity Flaws in NUC 9 Extreme Laptops, Ethernet Linux Drivers<a href="https://www.securityweek.com/intel-patches-high-severity-flaws-nuc-9-extreme-laptops-ethernet-linux-drivers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel on Tuesday released six new security advisories to inform customers about the availability of firmware and software updates that address a total of 15 vulnerabilities across several products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyShell - Another MS Exchange Flaw Gaining Traction Among Attackers<a href="https://cyware.com/news/proxyshell-another-ms-exchange-flaw-gaining-traction-among-attackers-666acadf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity researcher recently spotted threat actors actively trying to exploit Microsoft Exchange servers by targeting ProxyShell vulnerabilities. The newly discovered vulnerabilities could be exploited via the Client Access Service (CAS), which runs in IIS on port 443. Experts recommend appl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Nine Critical &amp; High-Severity Bugs<a href="https://threatpost.com/sap-patches-critical-bugs/168558/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts urged enterprises to patch fast: SAP vulnerabilities are being weaponized in a matter of hours.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities discovered in AT&amp;T Labs’ Xmill utility<a href="https://blog.talosintelligence.com/2021/08/vuln-spotlight-att.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could take advantage of these issues to carry out a variety of malicious actions, including corrupting the application’s memory and gaining the ability to execute remote code.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Managed DNS Services Cloud Let Attackers Spy On DNS Traffic<a href="https://thehackernews.com/2021/08/bugs-in-managed-dns-services-cloud-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new class of vulnerabilities impacting major DNS-as-a-Service (DNSaaS) providers that could allow attackers to exfiltrate sensitive information from corporate networks.  "We found a simple loophole that allowed us to intercept a portion of worldwide dynamic DNS traffic going through managed DNS providers like Amazon and Google," researchers Shir Tamari and Ami Luttwak from infrastructure security firm Wiz&nbsp; said .   Calling it a "bottomless well of valuable intel," the treasure trove of information contains internal and external IP addresses, computer names, employee names and locations, and details about organizations' web domains. The findings were&nbsp; presented &nbsp;at the Black Hat USA 2021 security conference last week.  "The traffic that leaked to us from internal network traffic provides malicious actors all the intel they would ever need to launch a successful attack," the researchers added. "More than t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixes critical flaws in Magento, patch it immediately<a href="https://securityaffairs.co/wordpress/121028/security/magento-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe security updates for August 2021 have addressed critical vulnerabilities in Magento and important bugs in Adobe Connect. 
+
+
+
+Adobe security updates for August 2021 address a total of 29 flaws, including critical vulnerabilities in Magento and important...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Flaw with DNSaaS Providers Exploited for Intelligence Gathering<a href="https://cyware.com/news/a-flaw-with-dnsaas-providers-exploited-for-intelligence-gathering-fbb1053b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of DNS vulnerabilities was found impacting DNS-as-a-Service (DNSaaS) providers. It enables cybercriminals to rip off sensitive corporate data. The flaws could allow intelligence harvesting simply by using a domain registration technique.  There are mitigation   steps available   that can be f ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patch Tuesday security updates fix PrintNightmare flaws<a href="https://securityaffairs.co/wordpress/121014/security/microsoft-patch-tuesday-august-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released patch Tuesday security updates for August that address 120 CVEs in Microsoft products including a zero-day actively exploited in the wild. 
+
+
+
+Microsoft released patch Tuesday security updates for August that address 120 CVEs in multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento Update Released to Fix Critical Flaws Affecting E-Commerce Sites<a href="https://thehackernews.com/2021/08/magento-update-released-fix-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Tuesday shipped&nbsp; security updates &nbsp;to remediate multiple critical vulnerabilities in its Magento e-commerce platform that could be abused by an attacker to execute arbitrary code and take control of a vulnerable system.  The&nbsp; issues &nbsp;affect 2.3.7, 2.4.2-p1, 2.4.2, and earlier versions of Magento Commerce, and 2.3.7, 2.4.2-p1, and all prior versions of Magento Open Source edition. Of the 26 flaws addressed, 20 are rated critical, and six are rated Important in severity. None of the vulnerabilities fixed this month by Adobe are listed as publicly known or under active attack at the time of release.   The most concerning of the bugs are as follows -   CVE-2021-36021, CVE-2021-36024, CVE-2021-36025, CVE-2021-36034, CVE-2021-36035, CVE-2021-36040, CVE-2021-36041, and CVE-2021-36042 &nbsp;(CVSS score: 9.1) - Arbitrary code execution due to improper input validation  CVE-2021-36022 and CVE-2021-36023 &nbsp;(CVSS score: 9.1) - Arbitrary code execution due to OS command injection  CVE-2021-3602
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Windows Updates to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2021/08/microsoft-releases-windows-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out&nbsp; security updates &nbsp;to address a total of 44 security issues affecting its software products and services, one of which it says is an actively exploited zero-day in the wild.  The update, which is the smallest release since December 2019, squashes seven Critical and 37 Important bugs in Windows, .NET Core &amp; Visual Studio, Azure, Microsoft Graphics Component, Microsoft Office, Microsoft Scripting Engine, Microsoft Windows Codecs Library, Remote Desktop Client, among others. This is in addition to&nbsp; seven security flaws &nbsp;it patched in the Microsoft Edge browser on August 5.  Chief among the patched issues is&nbsp; CVE-2021-36948 &nbsp;(CVSS score: 7.8), an elevation of privilege flaw affecting Windows Update Medic Service — a service that enables remediation and protection of Windows Update components — which could be abused to run malicious programs with escalated permissions.   Microsoft's Threat Intelligence Center has been credited with reporting the flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

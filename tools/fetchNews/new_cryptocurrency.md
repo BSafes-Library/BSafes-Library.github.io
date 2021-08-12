@@ -8,6 +8,62 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker behind biggest cryptocurrency heist ever returns stolen funds<a href="https://www.bleepingcomputer.com/news/security/hacker-behind-biggest-cryptocurrency-heist-ever-returns-stolen-funds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor who hacked Poly Network's&nbsp;cross-chain interoperability protocol yesterday to steal over $600 million worth of&nbsp;cryptocurrency assets is now returning the stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XMRig-based Cryptomining Worm with 15% Speed Boost<a href="https://cyware.com/news/xmrig-based-cryptomining-worm-with-15-speed-boost-27bd175e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Golang crypto-worm has been found dropping Monero-mining malware on targeted machines. The crypto-worm is based on XMRig and abuses known web server vulnerabilities. It has the ability to speed up the mining process by 15%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hack Earned Crooks $600 Million<a href="https://threatpost.com/crypto-hack-600-million/168554/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In one of the largest cryptocurrency hacks to date, cyberattackers reportedly stole millions from the decentralized finance (DeFi) platform Poly Network.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$600M in digital tokens lost in hack of cryptocurrency site<a href="https://thehill.com//policy/cybersecurity/567322-600m-in-digital-tokens-lost-in-hack-of-cryptocurrency-site"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency platform has lost around $600 million in digital tokens in a hacking attack believed to be one the largest ever thefts in the cryptocurrency market.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
