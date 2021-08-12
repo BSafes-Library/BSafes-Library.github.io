@@ -37,6 +37,58 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Waste Management Firm Exposes Employees’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-waste-management-firm-exposes-employees-healthcare-details?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at US waste management firm Waste Management Resources has apparently exposed the healthcare information of current and former employees, as well as their dependents.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber Ransomware operators use PrintNightmare exploits to infect Windows servers<a href="https://securityaffairs.co/wordpress/121076/malware/magniber-ransomware-printnightmare-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Magniber Ransomware are using PrintNightmare exploits in attacks aimed at Windows servers.
+
+
+
+Threat actors behind the Magniber Ransomware are exploiting the PrintNightmare flaws (CVE-2021-1675, CVE-2021-34527, and CVE-2021-36958)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payments Explode Amid ‘Quadruple Extortion’<a href="https://threatpost.com/ransomware-payments-quadruple-extortion/168622/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 puts the average payout at over half a million, while Barracuda has tracked a 64 percent year over year spike in the number of attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hacker claims cryptocurrency site was targeted 'for fun,'<a href="https://thehill.com//policy/cybersecurity/567553-hacker-claims-cryptocurrency-site-was-targeted-for-fun"> Full Text</a>
 </p>
 <details>
