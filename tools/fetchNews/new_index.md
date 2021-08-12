@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 12, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers now backdoor Microsoft Exchange using ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-now-backdoor-microsoft-exchange-using-proxyshell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting Microsoft Exchange servers using the ProxyShell vulnerability to install backdoors for later access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro warns customers of zero-day attacks against its products<a href="https://securityaffairs.co/wordpress/121082/security/trend-micro-zero-day-attacks.html"> Full Text</a>
 </p>
 <details>
