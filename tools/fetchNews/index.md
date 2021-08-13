@@ -37,6 +37,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+eCh0raix Combo: Targeting Both QNAP and Synology<a href="https://cyware.com/news/ech0raix-combo-targeting-both-qnap-and-synology-508c2e91"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto disclosed that a new eCh0raix variant is now capable of encrypting both QNAP and Synology Network-Attached Storage (NAS) devices. Therefore, researchers recommend updating device firmware as the first step of defense. Also, it is recommended to create complex passwords and limit connectio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chaos: Ransomware or Wiper?<a href="https://cyware.com/news/chaos-ransomware-or-wiper-5c0357e1"> Full Text</a>
 </p>
 <details>
