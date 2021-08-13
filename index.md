@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senators want answers about Amazon's biometric data collection | House members release companion bill targeting app stores | Google files to dismiss Ohio lawsuit<a href="https://thehill.com//policy/technology/overnights/567821-hillicon-valley-senators-want-answers-about-amazons-biometric"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senators from both sides of the aisle joined together to press Amazon for details about its palm print scanners program, which lets shoppers pay in Amazon stores without ever taking out cash or cards. The senators said the program raises questions about the e-commerce giant’s plans for using the biometric data. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Embrace CAPTCHAs to Hide Phishing, Malware<a href="https://threatpost.com/cyberattackers-captchas-phishing-malware/168684/"> Full Text</a>
 </p>
 <details>
