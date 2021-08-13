@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 365 exposes Microsoft Azure credentials in plaintext<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows 365 exposes Microsoft Azure credentials in plain-text<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"> Full Text</a>
 </p>
 <details>
