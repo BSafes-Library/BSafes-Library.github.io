@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake COVID vaccine card sales ramp up on Dark Web<a href="https://www.techrepublic.com/article/fake-covid-vaccine-card-sales-ramp-up-on-dark-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even as the COVID-19 delta variant spreads, many people would rather pay money for a phony vaccine card than get the actual shot for free, according to Check Point Research.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+If a QR code leads you to a Bitcoin ATM at a gas station, it's a scam<a href="https://blog.malwarebytes.com/scams/2021/08/if-a-qr-code-leads-you-to-a-bitcoin-atm-at-a-gas-station-its-a-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether by QR code and bogus website or plain old unsolicited telephone call, the outcome is typically the same. Monthly fees going out of the victim’s bank account until they notice something amiss.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

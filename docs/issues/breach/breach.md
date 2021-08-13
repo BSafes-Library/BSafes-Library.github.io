@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Waste Management Firm Exposes Employees’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-waste-management-firm-exposes-employees-healthcare-details?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at US waste management firm Waste Management Resources has apparently exposed the healthcare information of current and former employees, as well as their dependents.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

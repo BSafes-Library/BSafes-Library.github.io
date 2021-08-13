@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a new unpatched Windows Print Spooler RCE zero-day<a href="https://securityaffairs.co/wordpress/121068/hacking/windows-print-spooler-rce-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of another zero-day Windows print spooler vulnerability, tracked as CVE-2021-36958, that could allow local attackers to gain SYSTEM privileges.
+
+
+
+Microsoft published a security advisory to warn its customers of another remote code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Another Unpatched Windows Print Spooler RCE Vulnerability<a href="https://thehackernews.com/2021/08/microsoft-security-bulletin-warns-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after releasing&nbsp; Patch Tuesday updates , Microsoft acknowledged yet another remote code execution vulnerability in the Windows Print Spooler component, adding that it's working to remediate the issue in an upcoming security update.  Tracked as&nbsp; CVE-2021-36958 &nbsp;(CVSS score: 7.3), the unpatched flaw is the latest to join a&nbsp; list &nbsp;of&nbsp; bugs &nbsp;collectively known as&nbsp; PrintNightmare &nbsp;that have plagued the printer service and come to light in recent months. Victor Mata of FusionX, Accenture Security, who has been credited with reporting the flaw,&nbsp; said &nbsp;the issue was disclosed to Microsoft in December 2020.   "A remote code execution vulnerability exists when the Windows Print Spooler service improperly performs privileged file operations," the company said in its out-of-band bulletin, echoing the vulnerability details for&nbsp; CVE-2021-34481 . "An attacker who successfully exploited this vulnerability could run arbitrary code with SYSTEM privileges. An attacker could then
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

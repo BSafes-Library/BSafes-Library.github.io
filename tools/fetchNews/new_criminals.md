@@ -11,6 +11,66 @@ nav_order: 900031
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Rogue Marketplace AlphaBay Reboots<a href="https://threatpost.com/rogue-marketplace-alphabay-reboots/168648/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illicit underground marketplace relaunches years after takedown. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious AlphaBay darknet market comes back to life<a href="https://www.bleepingcomputer.com/news/security/notorious-alphabay-darknet-market-comes-back-to-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AlphaBay darkweb market has come back to life after an administrator of the original project relaunched it over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime victims lose an estimated $318 billion annually<a href="https://www.comparitech.com/blog/vpn-privacy/cybercrime-cost/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the estimates by Comparitech researchers, 71.1 million people fall victim to cybercrimes globally each year which equates to nearly 900 victims per 100,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber Ransomware operators use PrintNightmare exploits to infect Windows servers<a href="https://securityaffairs.co/wordpress/121076/malware/magniber-ransomware-printnightmare-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Magniber Ransomware are using PrintNightmare exploits in attacks aimed at Windows servers.
+
+
+
+Threat actors behind the Magniber Ransomware are exploiting the PrintNightmare flaws (CVE-2021-1675,&nbsp;CVE-2021-34527, and&nbsp;CVE-2021-36958)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang uses PrintNightmare to breach Windows servers<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-printnightmare-to-breach-windows-servers/"> Full Text</a>
 </p>
 <details>

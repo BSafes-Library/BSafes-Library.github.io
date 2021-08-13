@@ -11,6 +11,48 @@ nav_order: 900160
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+QR Code Scammers Get Creative with Bitcoin ATMs<a href="https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting everyone from job hunters to Bitcoin traders to college students wanting a break on their student loans, by exploiting the popular technology’s trust relationship with users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Evasive Office 365 phishing campaign active since July 2020<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-evasive-office-365-phishing-campaign-active-since-july-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that a year-long and highly evasive spear-phishing campaign has targeted Office 365 customers in multiple waves of attacks starting with July 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Actors Employ Impersonation Scams to Infect Users with Flubot Malware<a href="https://cybernews.com/news/britons-targeted-by-a-flubot-malware-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious hackers are impersonating delivery services and sending phishing text messages to Britons to trick them into downloading Flubot malware, according to UK mobile network Three.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 If a QR code leads you to a Bitcoin ATM at a gas station, it's a scam<a href="https://blog.malwarebytes.com/scams/2021/08/if-a-qr-code-leads-you-to-a-bitcoin-atm-at-a-gas-station-its-a-scam/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

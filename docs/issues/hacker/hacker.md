@@ -11,6 +11,34 @@ nav_order: 900080
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers now backdoor Microsoft Exchange using ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-now-backdoor-microsoft-exchange-using-proxyshell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting Microsoft Exchange servers using the ProxyShell vulnerability to install backdoors for later access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims cryptocurrency site was targeted 'for fun,'<a href="https://thehill.com//policy/cybersecurity/567553-hacker-claims-cryptocurrency-site-was-targeted-for-fun"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A person claiming to be&nbsp;behind the massive $600 million cryptocurrency breach said on Thursday they stole the digital tokens "for fun."
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat actors behind the Poly Network hack are returning stolen funds<a href="https://securityaffairs.co/wordpress/121057/hacking/poly-network-hackers.html"> Full Text</a>
 </p>
 <details>

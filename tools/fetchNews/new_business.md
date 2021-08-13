@@ -11,6 +11,20 @@ nav_order: 900027
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Arctic Wolf appoints Nick Schneider as CEO<a href="https://www.helpnetsecurity.com/2021/08/12/arctic-wolf-nick-schneider/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arctic Wolf announced that Nick Schneider, president and chief revenue officer, has been appointed as CEO, succeeding Brian NeSmith who will serve as executive chairman of the Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mandiant’s Advantage Platform To Get A Boost With Intrigue Acquisition<a href="https://www.crn.com/news/security/mandiant-s-advantage-platform-to-get-a-boost-with-intrigue-acquisition?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

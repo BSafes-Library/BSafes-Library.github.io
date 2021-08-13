@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+August 12, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub deprecates account passwords for authenticating Git operations<a href="https://www.bleepingcomputer.com/news/security/github-deprecates-account-passwords-for-authenticating-git-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub&nbsp;has announced today that account passwords will no longer be accepted for&nbsp;authenticating Git operations starting tomorrow.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US has made progress on cyber but more needed, report says | Democrat urges changes for 'problematic' crypto language in infrastructure bill | Facebook may be forced to unwind Giphy acquisition<a href="https://thehill.com//policy/technology/overnights/567666-hillicon-valley-report-finds-us-government-has-made-progress-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of a string of cybersecurity attacks, a report issued Thursday found the federal government is making progress against threats. But the committee behind the report said there is still work to be done.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report finds US government has made progress on cybersecurity, more work remains<a href="https://thehill.com//policy/cybersecurity/567577-report-finds-while-us-government-has-made-progress-on-cybersecurity-more"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government has made “significant” progress on strengthening the United States against cyber threats over the past year, but more work remains, a congressionally-established bipartisan committee concluded in a report published Thursday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payments Explode Amid ‘Quadruple Extortion’<a href="https://threatpost.com/ransomware-payments-quadruple-extortion/168622/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 puts the average payout at over half a million, while Barracuda has tracked a 64 percent year over year spike in the number of attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMB Spells Out Federal Agencies' Cybersecurity Timelines<a href="https://www.govinfosecurity.com/omb-spells-out-agencies-cybersecurity-timelines-a-17264?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of Management and Budget is ordering federal agencies to begin identifying "critical software" that needs protection as part of the effort to fulfill President Joe Biden's cybersecurity executive order issued in May.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

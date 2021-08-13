@@ -34,6 +34,430 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub deprecates account passwords for authenticating Git operations<a href="https://www.bleepingcomputer.com/news/security/github-deprecates-account-passwords-for-authenticating-git-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has announced today that account passwords will no longer be accepted for authenticating Git operations starting tomorrow.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: US has made progress on cyber but more needed, report says | Democrat urges changes for 'problematic' crypto language in infrastructure bill | Facebook may be forced to unwind Giphy acquisition<a href="https://thehill.com//policy/technology/overnights/567666-hillicon-valley-report-finds-us-government-has-made-progress-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of a string of cybersecurity attacks, a report issued Thursday found the federal government is making progress against threats. But the committee behind the report said there is still work to be done.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now backdoor Microsoft Exchange using ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-now-backdoor-microsoft-exchange-using-proxyshell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting Microsoft Exchange servers using the ProxyShell vulnerability to install backdoors for later access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro warns customers of zero-day attacks against its products<a href="https://securityaffairs.co/wordpress/121082/security/trend-micro-zero-day-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firms Trend Micro is warning its customers of attacks exploiting zero-day vulnerabilities in its Apex One and Apex One as a Service products. 
+
+
+
+On July 28, Trend Micro released security patches for multiple incorrect permission assignment...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue Marketplace AlphaBay Reboots<a href="https://threatpost.com/rogue-marketplace-alphabay-reboots/168648/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Illicit underground marketplace relaunches years after takedown. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code Scammers Get Creative with Bitcoin ATMs<a href="https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting everyone from job hunters to Bitcoin traders to college students wanting a break on their student loans, by exploiting the popular technology’s trust relationship with users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Evasive Office 365 phishing campaign active since July 2020<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-evasive-office-365-phishing-campaign-active-since-july-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that a year-long and highly evasive spear-phishing campaign has targeted Office 365 customers in multiple waves of attacks starting with July 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arctic Wolf appoints Nick Schneider as CEO<a href="https://www.helpnetsecurity.com/2021/08/12/arctic-wolf-nick-schneider/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arctic Wolf announced that Nick Schneider, president and chief revenue officer, has been appointed as CEO, succeeding Brian NeSmith who will serve as executive chairman of the Board of Directors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signed MSI files, Raccoon and Amadey are used for installing ServHelper RAT<a href="https://blog.talosintelligence.com/2021/08/raccoon-and-amadey-install-servhelper.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although ServHelper has existed since at least early 2019, we detected the use of other malware families to install it. The installation comes as a GoLang dropper, .NET dropper, or PowerShell script.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+July 2021’s Most Wanted Malware: Snake Keylogger Enters Top 10 for First Time - Check Point Software<a href="https://blog.checkpoint.com/2021/08/12/july-2021s-most-wanted-malware-snake-keylogger-enters-top-10-for-first-time/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research reports that Trickbot is the most prevalent malware for the third month running, while Snake Keylogger enters the index for the first time taking second place.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AdLoad Malware 2021 Samples Skate Past Apple XProtect<a href="https://threatpost.com/adload-malware-apple-xprotect/168634/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crush of new attacks using the well-known adware involves at least 150 updated samples, many of which aren’t recognized by Apple’s built-in security controls. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CobaltSpam tool can flood Cobalt Strike malware servers<a href="https://therecord.media/cobaltspam-tool-can-flood-cobalt-strike-malware-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has published this week a tool to flood Cobalt Strike servers—often used by malware gangs—with fake beacons in order to corrupt their internal databases of infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js developers fix high-risk vulnerability that could allow remote domain hijacking<a href="https://portswigger.net/daily-swig/node-js-developers-fix-high-risk-vulnerability-that-could-allow-remote-domain-hijacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the JavaScript runtime environment have released a security advisory today (August 12) warning users to update to the latest version to protect against a series of bugs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious AlphaBay darknet market comes back to life<a href="https://www.bleepingcomputer.com/news/security/notorious-alphabay-darknet-market-comes-back-to-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AlphaBay darkweb market has come back to life after an administrator of the original project relaunched it over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report finds US government has made progress on cybersecurity, more work remains<a href="https://thehill.com//policy/cybersecurity/567577-report-finds-while-us-government-has-made-progress-on-cybersecurity-more"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government has made “significant” progress on strengthening the United States against cyber threats over the past year, but more work remains, a congressionally-established bipartisan committee concluded in a report published Thursday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+August 2021 ICS Patch Tuesday: Siemens, Schneider Address Over 50 Flaws<a href="https://www.securityweek.com/august-2021-ics-patch-tuesday-siemens-schneider-address-over-50-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric on Tuesday released 18 security advisories addressing a total of more than 50 vulnerabilities affecting their products used in industrial settings.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Simple Software Fix Could Limit Location Data Sharing<a href="https://www.wired.com/story/pretty-good-phone-privacy-imsi-wireless-carriers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers Paul Schmitt and Barath Raghavan have created a scheme called Pretty Good Phone Privacy that can mask wireless users' locations from carriers with a simple software upgrade.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine shuts down money laundering cryptocurrency exchanges<a href="https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-money-laundering-cryptocurrency-exchanges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) took down a network of cryptocurrency exchanges used to anonymize transactions since the beginning of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime victims lose an estimated $318 billion annually<a href="https://www.comparitech.com/blog/vpn-privacy/cybercrime-cost/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the estimates by Comparitech researchers, 71.1 million people fall victim to cybercrimes globally each year which equates to nearly 900 victims per 100,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Waste Management Firm Exposes Employees’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-waste-management-firm-exposes-employees-healthcare-details?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at US waste management firm Waste Management Resources has apparently exposed the healthcare information of current and former employees, as well as their dependents.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber Ransomware operators use PrintNightmare exploits to infect Windows servers<a href="https://securityaffairs.co/wordpress/121076/malware/magniber-ransomware-printnightmare-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Magniber Ransomware are using PrintNightmare exploits in attacks aimed at Windows servers.
+
+
+
+Threat actors behind the Magniber Ransomware are exploiting the PrintNightmare flaws (CVE-2021-1675, CVE-2021-34527, and CVE-2021-36958)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Payments Explode Amid ‘Quadruple Extortion’<a href="https://threatpost.com/ransomware-payments-quadruple-extortion/168622/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 puts the average payout at over half a million, while Barracuda has tracked a 64 percent year over year spike in the number of attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims cryptocurrency site was targeted 'for fun,'<a href="https://thehill.com//policy/cybersecurity/567553-hacker-claims-cryptocurrency-site-was-targeted-for-fun"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A person claiming to be behind the massive $600 million cryptocurrency breach said on Thursday they stole the digital tokens "for fun."
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Actors Employ Impersonation Scams to Infect Users with Flubot Malware<a href="https://cybernews.com/news/britons-targeted-by-a-flubot-malware-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious hackers are impersonating delivery services and sending phishing text messages to Britons to trick them into downloading Flubot malware, according to UK mobile network Three.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Shed Light On New Russian Malware-as-a-Service Written in Rust<a href="https://thehackernews.com/2021/08/experts-shed-light-on-new-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent information-stealing malware sold and distributed on underground Russian underground forums has been written in Rust, signalling a new trend where threat actors are increasingly adopting  exotic programming languages  to bypass security protections, evade analysis, and hamper reverse engineering efforts.  Dubbed " Ficker Stealer ," it's notable for being propagated via Trojanized web links and compromised websites, luring in victims to scam landing pages purportedly offering free downloads of  legitimate paid services  like Spotify Music, YouTube Premium, and other Microsoft Store applications.   "Ficker is sold and distributed as Malware-as-a-Service (MaaS), via underground Russian online forums," BlackBerry's research and intelligence team said in a report published today. "Its creator, whose alias is @ficker, offers several paid packages, with different levels of subscription fees to use their malicious program."  First seen in the wi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMB Spells Out Federal Agencies' Cybersecurity Timelines<a href="https://www.govinfosecurity.com/omb-spells-out-agencies-cybersecurity-timelines-a-17264?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of Management and Budget is ordering federal agencies to begin identifying "critical software" that needs protection as part of the effort to fulfill President Joe Biden's cybersecurity executive order issued in May.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

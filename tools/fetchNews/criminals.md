@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang uses PrintNightmare to breach Windows servers<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-printnightmare-to-breach-windows-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators have added PrintNightmare exploits to their arsenal and are targeting Windows servers to deploy&nbsp;Magniber ransomware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European police round up 23 suspected scammers accused of $1.2 million fraud<a href="https://www.cyberscoop.com/europol-bec-ireland-netherlands-romania-23/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international police operation resulted in 23 arrests of suspects behind a BEC scheme that last year turned to capitalizing on COVID-19 fears, Europol announced on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AlphaBay Dark Web Marketplace Claims to be Back in Business Four Years After FBI Seizure<a href="https://www.cyberscoop.com/alphabay-dark-web-fbi-flashpoint/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged resurrection of AlphaBay, dubbed the Amazon of the dark web, shows how difficult it can be for law enforcement agencies to keep some cybercrime venues shuttered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use IISerpent Server-side Malware to Manipulate Search Engine Results and Conduct Fraud<a href="https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contrary to IISpy and IIStealer, IISerpent affects neither the compromised server nor the server’s users. In fact, it ignores all requests coming from legitimate visitors of the compromised sites.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
