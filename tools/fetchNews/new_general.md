@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT threat evolution in Q2 2021<a href="https://securelist.com/it-threat-evolution-q2-2021/103597/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware has been around for a long time, it has evolved over time as attackers have improved and refined their tactics. We have seen a shift away from random, speculative attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealth is never enough, or Revealing Formbook successor's C&amp;C infrastructure<a href="https://research.checkpoint.com/2021/stealth-is-never-enough-or-revealing-formbook-successors-cc-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As opposed to Formbook, its successor XLoader comes without C&amp;C panel source code and is sold only by subscription. Instead, it uses the centralized C2 infrastructure provided by the XLoader creators.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of cybersecurity attacks are from repeat offenders<a href="https://www.helpnetsecurity.com/2021/08/13/cybersecurity-attacks-repeat-offenders/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lack of awareness and knowledge gaps are a weak link for leadership who are responsible for strategic planning of cyber defenses, leaving organizations exposed to risks, a Ponemon survey reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

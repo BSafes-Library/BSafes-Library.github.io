@@ -11,6 +11,52 @@ nav_order: 900220
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro warns customers of zero-day attacks against its products<a href="https://securityaffairs.co/wordpress/121082/security/trend-micro-zero-day-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firms Trend Micro is warning its customers of attacks exploiting zero-day vulnerabilities in its Apex One and Apex One as a Service products. 
+
+
+
+On July 28, Trend Micro released security patches for multiple incorrect permission assignment...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js developers fix high-risk vulnerability that could allow remote domain hijacking<a href="https://portswigger.net/daily-swig/node-js-developers-fix-high-risk-vulnerability-that-could-allow-remote-domain-hijacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the JavaScript runtime environment have released a security advisory today (August 12) warning users to update to the latest version to protect against a series of bugs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+August 2021 ICS Patch Tuesday: Siemens, Schneider Address Over 50 Flaws<a href="https://www.securityweek.com/august-2021-ics-patch-tuesday-siemens-schneider-address-over-50-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric on Tuesday released 18 security advisories addressing a total of more than 50 vulnerabilities affecting their products used in industrial settings.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of a new unpatched Windows Print Spooler RCE zero-day<a href="https://securityaffairs.co/wordpress/121068/hacking/windows-print-spooler-rce-zero-day.html"> Full Text</a>
 </p>
 <details>

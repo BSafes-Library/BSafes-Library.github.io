@@ -8,6 +8,38 @@ nav_order: 900195
 
 ## Solution
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google open-sourced Allstar tool to secure GitHub repositories<a href="https://securityaffairs.co/wordpress/121102/security/allstar-tool-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has open-sourced the&nbsp;Allstar&nbsp;tool that can be used to secure GitHub projects and prevent security misconfigurations.
+
+
+
+Google has open-sourced the&nbsp;Allstar&nbsp;tool that can be used to secure GitHub projects by enforcing a set of security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One-click Microsoft Outlook button makes it a breeze for workers to report phishing emails<a href="https://cybernews.com/news/one-click-microsoft-outlook-button-makes-it-a-breeze-for-workers-to-report-phishing-emails/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the U.K. NCSC has published a guide on how IT administrators can add the new button to Outlook on Microsoft Office 365 suites across their organizations to report phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

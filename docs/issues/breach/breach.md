@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Months after the Accellion breach, more victims emerge<a href="https://searchsecurity.techtarget.com/news/252505277/Months-after-the-Accellion-breach-more-victims-emerge?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Accellion breach occurred last December, but more victims have come to light in recent weeks as investigations, notifications and disclosures stretch on through the summer.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

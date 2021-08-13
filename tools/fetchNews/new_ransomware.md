@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware joins ongoing PrintNightmare attacks<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-joins-ongoing-printnightmare-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware gang is now also actively exploiting Windows&nbsp;print spooler&nbsp;PrintNightmare vulnerability for lateral movement through&nbsp;their victims' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DeepBlueMagic Ransomware Strain Ransomware Discovered Using Third-party Disk Encryption Tool<a href="https://heimdalsecurity.com/blog/new-ransomware-method-deepbluemagic-strain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By cleverly making use of a legitimate third-party disk encryption tool, the DeepBlueMagic ransomware encryption process targets the different disk drives on the endpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

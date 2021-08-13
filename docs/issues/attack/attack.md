@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Is There A Surge In Ransomware Attacks?<a href="https://thehackernews.com/2021/08/why-is-there-surge-in-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is presently combating two pandemics--coronavirus and ransomware attacks. Both have partially shut down parts of the economy. However, in the case of cybersecurity, lax security measures allow hackers to have an easy way to rake in millions.  It's pretty simple for hackers to gain financially, using malicious software to access and encrypt data and hold it hostage until the victim pays the ransom.  Cyber attacks are more frequent now because it is effortless for hackers to execute them. Further, the payment methods are now friendlier to them. In addition, businesses are&nbsp; willing to pay a ransom &nbsp;because of the growing reliance on digital infrastructure, giving hackers more incentives to attempt more breaches.&nbsp;  Bolder cybercriminals  A few years back, cybercriminals played psychological games before getting bank passwords and using their technical know-how to steal money from people's accounts. They are bolder now because it is easy for them to buy ransomware software
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a evasive year-long spear-phishing campaign targeting Office 365 users<a href="https://securityaffairs.co/wordpress/121090/hacking/spear-phishing-targeting-office-365-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a long-running spear-phishing campaign that has targeted Office 365 customers in multiple attacks since July 2020. 
+
+
+
+Microsoft revealed that a year-long spear-phishing campaign has targeted Office 365 customers in multiple attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
