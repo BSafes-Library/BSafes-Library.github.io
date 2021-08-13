@@ -34,7 +34,271 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware joins ongoing PrintNightmare attacks<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-joins-ongoing-printnightmare-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware gang is now also actively exploiting Windows print spooler PrintNightmare vulnerability for lateral movement through their victims' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Months after the Accellion breach, more victims emerge<a href="https://searchsecurity.techtarget.com/news/252505277/Months-after-the-Accellion-breach-more-victims-emerge?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Accellion breach occurred last December, but more victims have come to light in recent weeks as investigations, notifications and disclosures stretch on through the summer.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spotted Using Morse Code in Phishing Attacks to Evade Detection<a href="https://thehackernews.com/2021/08/hackers-spotted-using-morse-code-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed details of an evasive year-long social engineering campaign wherein the operators kept changing their obfuscation and encryption mechanisms every 37 days on average, including relying on Morse code, in an attempt to cover their tracks and surreptitiously harvest user credentials.  The phishing attacks take the form of invoice-themed lures mimicking financial-related business transactions, with the emails containing an HTML file ("XLS.HTML"). The ultimate objective is to harvest usernames and passwords, which are subsequently used as an initial entry point for later infiltration attempts.   Microsoft likened the attachment to a "jigsaw puzzle," noting that individual parts of the HTML file are designed to appear innocuous and slip past endpoint security software, only to reveal its true colors when these segments are decoded and assembled together. The company did not identify the hackers behind the operation.  "This phishing campaign ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google open-sourced Allstar tool to secure GitHub repositories<a href="https://securityaffairs.co/wordpress/121102/security/allstar-tool-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has open-sourced the Allstar tool that can be used to secure GitHub projects and prevent security misconfigurations.
+
+
+
+Google has open-sourced the Allstar tool that can be used to secure GitHub projects by enforcing a set of security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Sites Abused in Aggah Spear-Phishing Campaign<a href="https://threatpost.com/aggah-wordpress-spearphishing/168657/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan-linked threat group’s campaign uses compromised WordPress sites to deliver the Warzone RAT to manufacturing companies in Taiwan and South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DeepBlueMagic Ransomware Strain Ransomware Discovered Using Third-party Disk Encryption Tool<a href="https://heimdalsecurity.com/blog/new-ransomware-method-deepbluemagic-strain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By cleverly making use of a legitimate third-party disk encryption tool, the DeepBlueMagic ransomware encryption process targets the different disk drives on the endpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Is There A Surge In Ransomware Attacks?<a href="https://thehackernews.com/2021/08/why-is-there-surge-in-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is presently combating two pandemics--coronavirus and ransomware attacks. Both have partially shut down parts of the economy. However, in the case of cybersecurity, lax security measures allow hackers to have an easy way to rake in millions.  It's pretty simple for hackers to gain financially, using malicious software to access and encrypt data and hold it hostage until the victim pays the ransom.  Cyber attacks are more frequent now because it is effortless for hackers to execute them. Further, the payment methods are now friendlier to them. In addition, businesses are  willing to pay a ransom  because of the growing reliance on digital infrastructure, giving hackers more incentives to attempt more breaches.   Bolder cybercriminals  A few years back, cybercriminals played psychological games before getting bank passwords and using their technical know-how to steal money from people's accounts. They are bolder now because it is easy for them to buy ransomware software
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a evasive year-long spear-phishing campaign targeting Office 365 users<a href="https://securityaffairs.co/wordpress/121090/hacking/spear-phishing-targeting-office-365-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a long-running spear-phishing campaign that has targeted Office 365 customers in multiple attacks since July 2020. 
+
+
+
+Microsoft revealed that a year-long spear-phishing campaign has targeted Office 365 customers in multiple attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One-click Microsoft Outlook button makes it a breeze for workers to report phishing emails<a href="https://cybernews.com/news/one-click-microsoft-outlook-button-makes-it-a-breeze-for-workers-to-report-phishing-emails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the U.K. NCSC has published a guide on how IT administrators can add the new button to Outlook on Microsoft Office 365 suites across their organizations to report phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Searching for Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/08/hackers-actively-searching-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively carrying out opportunistic  scanning  and  exploitation  of Exchange servers using a new exploit chain leveraging a trio of flaws affecting on-premises installations, making them the latest set of bugs after ProxyLogon vulnerabilities were exploited en masse at the start of the year.  The remote code execution flaws have been collectively dubbed "ProxyShell." At least 30,000 machines are affected by the vulnerabilities,  according  to a Shodan scan performed by Jan Kopriva of SANS Internet Storm Center.  "Started to see in the wild exploit attempts against our honeypot infrastructure for the Exchange ProxyShell vulnerabilities," NCC Group's Richard Warren  tweeted , noting that one of the intrusions resulted in the deployment of a "C# aspx webshell in the /aspnet_client/ directory."  Patched in early March 2021,  ProxyLogon  is the moniker for CVE-2021-26855, a server-side request forgery vulnerability in Exchange Server tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT threat evolution in Q2 2021<a href="https://securelist.com/it-threat-evolution-q2-2021/103597/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware has been around for a long time, it has evolved over time as attackers have improved and refined their tactics. We have seen a shift away from random, speculative attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Exploiting Windows Print Spooler Vulnerabilities<a href="https://thehackernews.com/2021/08/ransomware-gangs-exploiting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators such as Magniber and Vice Society are actively exploiting vulnerabilities in Windows Print Spooler to compromise victims and spread laterally across a victim's network to deploy file-encrypting payloads on targeted systems.  "Multiple, distinct threat actors view this vulnerability as attractive to use during their attacks and may indicate that this vulnerability will continue to see more widespread adoption and incorporation by various adversaries moving forward," Cisco Talos  said  in a report published Thursday, corroborating an  independent analysis  from CrowdStrike, which observed instances of Magniber ransomware infections targeting entities in South Korea.   While Magniber ransomware was first spotted in late 2017 singling out victims in South Korea through malvertising campaigns, Vice Society is a new entrant that emerged on the ransomware landscape in mid-2021, primarily targeting public school districts and other educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discovers Cybercriminals Using Morse Code to Evade Detection<a href="https://www.cyberscoop.com/morse-code-microsoft-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not very often, though, that cyberattackers turn to Morse Code for operational security. But that's what played a part in a year-long phishing campaign that Microsoft researchers outlined.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealth is never enough, or Revealing Formbook successor's C&C infrastructure<a href="https://research.checkpoint.com/2021/stealth-is-never-enough-or-revealing-formbook-successors-cc-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As opposed to Formbook, its successor XLoader comes without C&C panel source code and is sold only by subscription. Instead, it uses the centralized C2 infrastructure provided by the XLoader creators.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point Research
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of cybersecurity attacks are from repeat offenders<a href="https://www.helpnetsecurity.com/2021/08/13/cybersecurity-attacks-repeat-offenders/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lack of awareness and knowledge gaps are a weak link for leadership who are responsible for strategic planning of cyber defenses, leaving organizations exposed to risks, a Ponemon survey reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers are getting hacked via ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-servers-are-getting-hacked-via-proxyshell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting Microsoft Exchange servers using the ProxyShell vulnerability to install backdoors for later access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021 -- [General](/docs/issues/general/general/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub deprecates account passwords for authenticating Git operations<a href="https://www.bleepingcomputer.com/news/security/github-deprecates-account-passwords-for-authenticating-git-operations/"> Full Text</a>
@@ -50,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: US has made progress on cyber but more needed, report says | Democrat urges changes for 'problematic' crypto language in infrastructure bill | Facebook may be forced to unwind Giphy acquisition<a href="https://thehill.com//policy/technology/overnights/567666-hillicon-valley-report-finds-us-government-has-made-progress-on"> Full Text</a>
@@ -66,7 +330,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers now backdoor Microsoft Exchange using ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/microsoft/hackers-now-backdoor-microsoft-exchange-using-proxyshell-exploits/"> Full Text</a>
@@ -82,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro warns customers of zero-day attacks against its products<a href="https://securityaffairs.co/wordpress/121082/security/trend-micro-zero-day-attacks.html"> Full Text</a>
@@ -102,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue Marketplace AlphaBay Reboots<a href="https://threatpost.com/rogue-marketplace-alphabay-reboots/168648/"> Full Text</a>
@@ -118,7 +382,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QR Code Scammers Get Creative with Bitcoin ATMs<a href="https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/"> Full Text</a>
@@ -134,7 +398,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Evasive Office 365 phishing campaign active since July 2020<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-evasive-office-365-phishing-campaign-active-since-july-2020/"> Full Text</a>
@@ -150,7 +414,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arctic Wolf appoints Nick Schneider as CEO<a href="https://www.helpnetsecurity.com/2021/08/12/arctic-wolf-nick-schneider/?&web_view=true"> Full Text</a>
@@ -166,7 +430,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signed MSI files, Raccoon and Amadey are used for installing ServHelper RAT<a href="https://blog.talosintelligence.com/2021/08/raccoon-and-amadey-install-servhelper.html?&web_view=true"> Full Text</a>
@@ -182,7 +446,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 July 2021’s Most Wanted Malware: Snake Keylogger Enters Top 10 for First Time - Check Point Software<a href="https://blog.checkpoint.com/2021/08/12/july-2021s-most-wanted-malware-snake-keylogger-enters-top-10-for-first-time/?&web_view=true"> Full Text</a>
@@ -198,7 +462,7 @@ Check Point Research
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AdLoad Malware 2021 Samples Skate Past Apple XProtect<a href="https://threatpost.com/adload-malware-apple-xprotect/168634/"> Full Text</a>
@@ -214,7 +478,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CobaltSpam tool can flood Cobalt Strike malware servers<a href="https://therecord.media/cobaltspam-tool-can-flood-cobalt-strike-malware-servers/?&web_view=true"> Full Text</a>
@@ -230,7 +494,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Node.js developers fix high-risk vulnerability that could allow remote domain hijacking<a href="https://portswigger.net/daily-swig/node-js-developers-fix-high-risk-vulnerability-that-could-allow-remote-domain-hijacking?&web_view=true"> Full Text</a>
@@ -246,7 +510,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notorious AlphaBay darknet market comes back to life<a href="https://www.bleepingcomputer.com/news/security/notorious-alphabay-darknet-market-comes-back-to-life/"> Full Text</a>
@@ -262,7 +526,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report finds US government has made progress on cybersecurity, more work remains<a href="https://thehill.com//policy/cybersecurity/567577-report-finds-while-us-government-has-made-progress-on-cybersecurity-more"> Full Text</a>
@@ -278,7 +542,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 August 2021 ICS Patch Tuesday: Siemens, Schneider Address Over 50 Flaws<a href="https://www.securityweek.com/august-2021-ics-patch-tuesday-siemens-schneider-address-over-50-flaws?&web_view=true"> Full Text</a>
@@ -294,7 +558,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Simple Software Fix Could Limit Location Data Sharing<a href="https://www.wired.com/story/pretty-good-phone-privacy-imsi-wireless-carriers/?&web_view=true"> Full Text</a>
@@ -310,7 +574,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine shuts down money laundering cryptocurrency exchanges<a href="https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-money-laundering-cryptocurrency-exchanges/"> Full Text</a>
@@ -326,7 +590,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime victims lose an estimated $318 billion annually<a href="https://www.comparitech.com/blog/vpn-privacy/cybercrime-cost/?&web_view=true"> Full Text</a>
@@ -342,7 +606,7 @@ Comparitech
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at US Waste Management Firm Exposes Employees’ Healthcare Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-waste-management-firm-exposes-employees-healthcare-details?&web_view=true"> Full Text</a>
@@ -358,7 +622,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magniber Ransomware operators use PrintNightmare exploits to infect Windows servers<a href="https://securityaffairs.co/wordpress/121076/malware/magniber-ransomware-printnightmare-exploits.html"> Full Text</a>
@@ -378,7 +642,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Payments Explode Amid ‘Quadruple Extortion’<a href="https://threatpost.com/ransomware-payments-quadruple-extortion/168622/"> Full Text</a>
@@ -394,7 +658,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker claims cryptocurrency site was targeted 'for fun,'<a href="https://thehill.com//policy/cybersecurity/567553-hacker-claims-cryptocurrency-site-was-targeted-for-fun"> Full Text</a>
@@ -410,7 +674,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Actors Employ Impersonation Scams to Infect Users with Flubot Malware<a href="https://cybernews.com/news/britons-targeted-by-a-flubot-malware-scam/?&web_view=true"> Full Text</a>
@@ -426,7 +690,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Shed Light On New Russian Malware-as-a-Service Written in Rust<a href="https://thehackernews.com/2021/08/experts-shed-light-on-new-russian.html"> Full Text</a>
@@ -442,7 +706,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2021
+August 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OMB Spells Out Federal Agencies' Cybersecurity Timelines<a href="https://www.govinfosecurity.com/omb-spells-out-agencies-cybersecurity-timelines-a-17264?&web_view=true"> Full Text</a>
