@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Exchange Servers Under Active Attack via ProxyShell Bugs<a href="https://threatpost.com/exchange-servers-attack-proxyshell/168661/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s an entirely new attack surface in Exchange, a researcher revealed at Black Hat, and threat actors are now exploiting servers vulnerable to the RCE bugs. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Windows 365 exposes Microsoft Azure credentials in plaintext<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"> Full Text</a>
 </p>
 <details>

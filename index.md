@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Emails from Lithuanian Ministry of Foreign Affairs for sale on data-trading forum<a href="https://www.bleepingcomputer.com/news/security/emails-from-lithuanian-ministry-of-foreign-affairs-for-sale-on-data-trading-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lithuanian Ministry of Foreign Affairs has declined to comment about the authenticity of email files allegedly stolen from its network and offered for sale on a data-trading forum.Lith
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New InfoStealer Malware Spread Via Russian Underground Forum<a href="https://gbhackers.com/ficker/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new info-stealer malware “Ficker” and is distributed via a Russian underground forum by threat actors as Malware-as-a-Service (MaaS) model to attack Windows users.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Exchange Servers Under Active Attack via ProxyShell Bugs<a href="https://threatpost.com/exchange-servers-attack-proxyshell/168661/"> Full Text</a>
 </p>
 <details>
