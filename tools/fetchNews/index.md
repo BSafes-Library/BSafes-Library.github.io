@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits vaccine records for thousands of Canada's Durham Region children<a href="https://toronto.ctvnews.ca/cyberattack-hits-vaccine-records-for-thousands-of-durham-region-children-ctv-news-investigation-1.5543525?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of more than 3000 children in daycares throughout Durham Region was stolen in a cyberattack early this year that CTV News Toronto has learned is larger than previously known.
+</details>
+<div style="text-align: right" markdown="1">
+CTV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 eCh0raix Combo: Targeting Both QNAP and Synology<a href="https://cyware.com/news/ech0raix-combo-targeting-both-qnap-and-synology-508c2e91"> Full Text</a>
 </p>
 <details>
