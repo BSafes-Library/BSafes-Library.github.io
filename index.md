@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz<a href="https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The filing claims, among other things, that Huawei used BES’s Data Exchange System "to create a backdoor and obtain data important to Pakistan’s national security and to spy on Pakistani citizens."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SynAck ransomware releases decryption keys after El_Cometa rebrand<a href="https://www.bleepingcomputer.com/news/security/synack-ransomware-releases-decryption-keys-after-el-cometa-rebrand/"> Full Text</a>
 </p>
 <details>
