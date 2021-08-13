@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in gym management software let hackers change user workout results<a href="https://www.bleepingcomputer.com/news/security/bugs-in-gym-management-software-let-hackers-change-user-workout-results/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found vulnerabilities in the Wodify fitness platform that allows an attacker to view and modify user workouts from any of the more than 5,000 gyms that use the solution worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cornell University Researchers Uncover Backdoor Attack to Evade Any Known Defense<a href="https://www.zdnet.com/article/cornell-university-researchers-discover-code-poisoning-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers have uncovered a new type of backdoor attack that they showed can "manipulate natural-language modeling systems to produce incorrect outputs and evade any known defense."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
