@@ -37,6 +37,43 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Updated AdLoad Malware Capable of Bypassing Apple's Defenses<a href="https://cyware.com/news/updated-adload-malware-capable-of-bypassing-apples-defenses-ad1eaa37"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne warned against a new AdLoad malware variant that bypasses Apple's YARA signature-based XProtect built-in antivirus tech to infect macOS. Hundreds of unique samples of AdLoad adware were found circulating in the wild that remained undetected for almost ten months. Researchers emphasize t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware also exploits PrintNightmare flaws in its attack<a href="https://securityaffairs.co/wordpress/121110/cyber-crime/vice-society-ransomware-printnightmare-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another ransomware gang, the Vice Society ransomware operators, is using Windows print spooler PrintNightmare exploits in its attacks.
+
+
+
+The Vice Society ransomware operators are actively exploiting Windows print spooler PrintNightmare vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack hits vaccine records for thousands of Canada's Durham Region children<a href="https://toronto.ctvnews.ca/cyberattack-hits-vaccine-records-for-thousands-of-durham-region-children-ctv-news-investigation-1.5543525?&web_view=true"> Full Text</a>
 </p>
 <details>
