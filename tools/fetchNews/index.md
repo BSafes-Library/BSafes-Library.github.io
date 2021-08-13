@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams will alert users of incoming spam calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-alert-users-of-incoming-spam-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding a spam call notification feature to the Microsoft 365 Teams collaboration platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UNC215 Impersonated an Iranian Group to Target Israeli Organizations<a href="https://cyware.com/news/unc215-impersonated-an-iranian-group-to-target-israeli-organizations-2b079a24"> Full Text</a>
 </p>
 <details>

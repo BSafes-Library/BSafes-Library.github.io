@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware gang releases master decryption keys for old victims<a href="https://securityaffairs.co/wordpress/121116/malware/synack-ransomware-decryption-keys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SynAck ransomware gang released the master decryption keys for their operations and rebranded as a new group dubbed El_Cometa group.
+
+
+
+Good news for the victims of the SynAck ransomware gang, the group released the master decryption keys to allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams will alert users of incoming spam calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-alert-users-of-incoming-spam-calls/"> Full Text</a>
 </p>
 <details>
