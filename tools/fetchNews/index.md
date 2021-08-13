@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chaos: Ransomware or Wiper?<a href="https://cyware.com/news/chaos-ransomware-or-wiper-5c0357e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware named Chaos has been discovered on an underground forum claiming to be a ransomware but, an analysis by researchers suggests it is a wiper under development. It has been in development since June and  could become a serious and dangerous threat for organizations in near future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz<a href="https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/?&web_view=true"> Full Text</a>
 </p>
 <details>
