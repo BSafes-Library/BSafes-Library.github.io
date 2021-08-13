@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 13, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Windows 365 exposes Microsoft Azure credentials in plain-text<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware gang releases decryption keys for old victims<a href="https://therecord.media/synack-ransomware-gang-releases-decryption-keys-for-old-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The El_Cometa ransomware gang, formerly known as SynAck, has released today master decryption keys (verified by Michael Gillespie) for the victims they infected between July 2017 and early 2021.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 SynAck ransomware gang releases master decryption keys for old victims<a href="https://securityaffairs.co/wordpress/121116/malware/synack-ransomware-decryption-keys.html"> Full Text</a>
 </p>
 <details>
