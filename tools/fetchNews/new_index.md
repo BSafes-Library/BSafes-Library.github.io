@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Facebook Adds End-to-End Encryption for Audio and Video Calls in Messenger<a href="https://thehackernews.com/2021/08/facebook-adds-end-to-end-encryption-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Friday said it's extending end-to-end encryption (E2EE) for voice and video calls in Messenger, along with testing a new opt-in setting that will turn on end-to-end encryption for Instagram DMs.  "The content of your messages and calls in an end-to-end encrypted conversation is protected from the moment it leaves your device to the moment it reaches the receiver's device," Messenger's Ruth Kricheli  said  in a post. "This means that nobody else, including Facebook, can see or listen to what's sent or said. Keep in mind, you can report an end-to-end encrypted message to us if something's wrong."  The social media behemoth said E2EE is becoming the industry standard for improved privacy and security.   It's worth noting that the company's flagship messaging service gained support for E2EE in text chats  in 2016, when it added a " secret conversation " option to its app, while communications on its sister platform What
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dumping user’s Microsoft Azure credentials in plaintext from Windows 365<a href="https://securityaffairs.co/wordpress/121124/hacking/windows-365-mimikaz-credentials.html"> Full Text</a>
 </p>
 <details>
