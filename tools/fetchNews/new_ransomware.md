@@ -11,6 +11,56 @@ nav_order: 900180
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 13th 2021 - The rise of LockBit<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-13th-2021-the-rise-of-lockbit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we saw an existing operation rise in attacks while existing ransomware operations turn to Windows vulnerabilities to elevate their privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware gang releases master decryption keys for old victims<a href="https://securityaffairs.co/wordpress/121116/malware/synack-ransomware-decryption-keys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SynAck ransomware gang released the master decryption keys for their operations and rebranded as a new group dubbed El_Cometa group.
+
+
+
+Good news for the victims of the SynAck ransomware gang, the group released the master decryption keys to allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware also exploits PrintNightmare flaws in its attack<a href="https://securityaffairs.co/wordpress/121110/cyber-crime/vice-society-ransomware-printnightmare-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another ransomware gang, the Vice Society ransomware operators, is using Windows print spooler PrintNightmare exploits in its attacks.
+
+
+
+The Vice Society ransomware operators are actively exploiting Windows print spooler PrintNightmare vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware joins ongoing PrintNightmare attacks<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-joins-ongoing-printnightmare-attacks/"> Full Text</a>
 </p>
 <details>

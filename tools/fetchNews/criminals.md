@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Exploiting Windows Print Spooler Vulnerabilities<a href="https://thehackernews.com/2021/08/ransomware-gangs-exploiting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators such as Magniber and Vice Society are actively exploiting vulnerabilities in Windows Print Spooler to compromise victims and spread laterally across a victim's network to deploy file-encrypting payloads on targeted systems.  "Multiple, distinct threat actors view this vulnerability as attractive to use during their attacks and may indicate that this vulnerability will continue to see more widespread adoption and incorporation by various adversaries moving forward," Cisco Talos&nbsp; said &nbsp;in a report published Thursday, corroborating an&nbsp; independent analysis &nbsp;from CrowdStrike, which observed instances of Magniber ransomware infections targeting entities in South Korea.   While Magniber ransomware was first spotted in late 2017 singling out victims in South Korea through malvertising campaigns, Vice Society is a new entrant that emerged on the ransomware landscape in mid-2021, primarily targeting public school districts and other educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discovers Cybercriminals Using Morse Code to Evade Detection<a href="https://www.cyberscoop.com/morse-code-microsoft-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not very often, though, that cyberattackers turn to Morse Code for operational security. But that's what played a part in a year-long phishing campaign that Microsoft researchers outlined.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

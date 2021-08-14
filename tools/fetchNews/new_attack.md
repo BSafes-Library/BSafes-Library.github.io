@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Glowworm Attack Recovers Device's Sound from Its LED Power Indicator<a href="https://thehackernews.com/2021/08/new-glowworm-attack-recovers-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel technique leverages optical emanations from a device's power indicator LED to recover sounds from connected peripherals and spy on electronic conversations from a distance of as much as 35 meters.  Dubbed the " Glowworm attack ," the findings were published by a group of academics from the Ben-Gurion University of the Negev earlier this week, describing the method as "an optical&nbsp; TEMPEST &nbsp;attack that can be used by eavesdroppers to recover sound by analysing optical measurements obtained via an electro-optical sensor directed at the power indicator LED of various devices."  Accompanying the experimental setup is an optical-audio transformation (OAT) that allows for retrieving sound by isolating the speech from the optical measurements obtained by directing an electro-optical sensor at the device's power indicator LED.   TEMPEST is the codename for unintentional intelligence-bearing emanations produced by electronic and electromechanical information-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scripps Health Reports Financial Toll of Ransomware Attack<a href="https://www.govinfosecurity.com/scripps-health-reports-financial-toll-ransomware-attack-a-17288?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent ransomware attack that disrupted Scripps Health's IT systems and patient care for nearly a month has so far cost the San Diego-based organization nearly $113 million, including $91.6 million in lost revenue.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Servers Under Active Attack via ProxyShell Bugs<a href="https://threatpost.com/exchange-servers-attack-proxyshell/168661/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s an entirely new attack surface in Exchange, a researcher revealed at Black Hat, and threat actors are now exploiting servers vulnerable to the RCE bugs. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits vaccine records for thousands of Canada's Durham Region children<a href="https://toronto.ctvnews.ca/cyberattack-hits-vaccine-records-for-thousands-of-durham-region-children-ctv-news-investigation-1.5543525?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of more than 3000 children in daycares throughout Durham Region was stolen in a cyberattack early this year that CTV News Toronto has learned is larger than previously known.
+</details>
+<div style="text-align: right" markdown="1">
+CTV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cornell University Researchers Uncover Backdoor Attack to Evade Any Known Defense<a href="https://www.zdnet.com/article/cornell-university-researchers-discover-code-poisoning-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers have uncovered a new type of backdoor attack that they showed can "manipulate natural-language modeling systems to produce incorrect outputs and evade any known defense."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

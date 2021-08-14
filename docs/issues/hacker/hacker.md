@@ -11,6 +11,48 @@ nav_order: 900080
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UNC215 Impersonated an Iranian Group to Target Israeli Organizations<a href="https://cyware.com/news/unc215-impersonated-an-iranian-group-to-target-israeli-organizations-2b079a24"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Mandiant, Chinese cyberespionage group UNC215 impersonated Iranian threat actors to target Israeli organizations in a campaign that began in January 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in gym management software let hackers wipe fitness history<a href="https://www.bleepingcomputer.com/news/security/bugs-in-gym-management-software-let-hackers-wipe-fitness-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found vulnerabilities&nbsp;in the Wodify fitness platform that allows an attacker to view and modify user workouts from any of the more than 5,000 gyms that use the solution worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in gym management software let hackers change user workout results<a href="https://www.bleepingcomputer.com/news/security/bugs-in-gym-management-software-let-hackers-change-user-workout-results/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found vulnerabilities&nbsp;in the Wodify fitness platform that allows an attacker to view and modify user workouts from any of the more than 5,000 gyms that use the solution worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Spotted Using Morse Code in Phishing Attacks to Evade Detection<a href="https://thehackernews.com/2021/08/hackers-spotted-using-morse-code-in.html"> Full Text</a>
 </p>
 <details>

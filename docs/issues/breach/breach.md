@@ -11,6 +11,20 @@ nav_order: 900029
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Emails from Lithuanian Ministry of Foreign Affairs for sale on data-trading forum<a href="https://www.bleepingcomputer.com/news/security/emails-from-lithuanian-ministry-of-foreign-affairs-for-sale-on-data-trading-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lithuanian Ministry of Foreign Affairs has declined to comment about the authenticity of email files allegedly stolen from its network and offered for sale on a data-trading forum.Lith
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: Months after the Accellion breach, more victims emerge<a href="https://searchsecurity.techtarget.com/news/252505277/Months-after-the-Accellion-breach-more-victims-emerge?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

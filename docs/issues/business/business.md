@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook rolls out end-to-end encryption for Messenger calls<a href="https://www.bleepingcomputer.com/news/security/facebook-rolls-out-end-to-end-encryption-for-messenger-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has announced the roll-out of&nbsp;end-to-end encrypted Messenger voice and video calls five years after making it available in one-on-one text chats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz<a href="https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The filing claims, among other things, that Huawei used BES’s Data Exchange System "to create a backdoor and obtain data important to Pakistan’s national security and to spy on Pakistani citizens."
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Adds End-to-End Encryption for Audio and Video Calls in Messenger<a href="https://thehackernews.com/2021/08/facebook-adds-end-to-end-encryption-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Friday said it's extending end-to-end encryption (E2EE) for voice and video calls in Messenger, along with testing a new opt-in setting that will turn on end-to-end encryption for Instagram DMs.  "The content of your messages and calls in an end-to-end encrypted conversation is protected from the moment it leaves your device to the moment it reaches the receiver's device," Messenger's Ruth Kricheli&nbsp; said &nbsp;in a post. "This means that nobody else, including Facebook, can see or listen to what's sent or said. Keep in mind, you can report an end-to-end encrypted message to us if something's wrong."  The social media behemoth said E2EE is becoming the industry standard for improved privacy and security.   It's worth noting that the company's flagship messaging service gained support for E2EE in text chats  in 2016, when it added a " secret conversation " option to its app, while communications on its sister platform What
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of Deep Learning for Detection and Classification of Malware<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-rise-of-deep-learning-for-detection-and-classification-of-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Different types of deep learning algorithms, such as convolutional neural networks (CNN), recurrent neural networks and Feed-Forward networks, have been applied to a variety of use cases in malware analysis.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams will alert users of incoming spam calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-alert-users-of-incoming-spam-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding a spam call notification feature to the Microsoft 365 Teams collaboration platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,76 @@ nav_order: 900072
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Senators want answers about Amazon's biometric data collection | House members release companion bill targeting app stores | Google files to dismiss Ohio lawsuit<a href="https://thehill.com//policy/technology/overnights/567821-hillicon-valley-senators-want-answers-about-amazons-biometric"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senators from both sides of the aisle joined together to press Amazon for details about its palm print scanners program, which lets shoppers pay in Amazon stores without ever taking out cash or cards. The senators said the program raises questions about the e-commerce giant’s plans for using the biometric data.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds 2.0 Could Ignite Financial Crisis – Podcast<a href="https://threatpost.com/solarwinds-financial-crisis-podcast/168677/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That’s what NY State suggests could happen, given the utter lack of cybersec protection at many private equity &amp; hedge fund firms. Can AI help avert it?
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 365 exposes Microsoft Azure credentials in plain-text<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware releases decryption keys after El_Cometa rebrand<a href="https://www.bleepingcomputer.com/news/security/synack-ransomware-releases-decryption-keys-after-el-cometa-rebrand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SynAck ransomware gang released the master decryption keys for their operation after rebranding as the new El_Cometa group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitals still not protected from dangerous vulnerabilities<a href="https://www.helpnetsecurity.com/2021/08/13/hospitals-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is impacting the bottom line, with 48% of hospital executives reporting either a forced or proactive shutdown in the last 6 months as a result of external attacks, as per an Ipsos survey.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 IT threat evolution in Q2 2021<a href="https://securelist.com/it-threat-evolution-q2-2021/103597/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Glowworm Attack Recovers Device's Sound from Its LED Power Indicator<a href="https://thehackernews.com/2021/08/new-glowworm-attack-recovers-devices.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn Ethical Hacking From Scratch — 18 Online Courses for Just $43<a href="https://thehackernews.com/2021/08/learn-ethical-hacking-from-scratch-18.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Adds End-to-End Encryption for Audio and Video Calls in Messenger<a href="https://thehackernews.com/2021/08/facebook-adds-end-to-end-encryption-for.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dumping user’s Microsoft Azure credentials in plaintext from Windows 365<a href="https://securityaffairs.co/wordpress/121124/hacking/windows-365-mimikaz-credentials.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Reportedly Created Blockchain Analytics Tool<a href="https://www.databreachtoday.co.uk/cybercriminals-reportedly-created-blockchain-analytics-tool-a-17291?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ DataBreach Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise of Deep Learning for Detection and Classification of Malware<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-rise-of-deep-learning-for-detection-and-classification-of-malware/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian cyberspies targeted the Slovak government for months<a href="https://therecord.media/russian-cyberspies-targeted-slovak-government-for-months/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 London court orders Binance to trace cryptocurrency hackers<a href="https://www.reuters.com/technology/london-court-orders-binance-trace-cryptocurrency-hackers-2021-08-13/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Docker Images Used to Mine Monero<a href="https://www.inforisktoday.com/malicious-docker-images-used-to-mine-monero-a-17283?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scripps Health Reports Financial Toll of Ransomware Attack<a href="https://www.govinfosecurity.com/scripps-health-reports-financial-toll-ransomware-attack-a-17288?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms another Windows Print Spooler bug, offers workaround<a href="https://www.helpnetsecurity.com/2021/08/13/cve-2021-36958/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Senators want answers about Amazon's biometric data collection | House members release companion bill targeting app stores | Google files to dismiss Ohio lawsuit<a href="https://thehill.com//policy/technology/overnights/567821-hillicon-valley-senators-want-answers-about-amazons-biometric"> Full Text</a>
@@ -230,7 +230,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Embrace CAPTCHAs to Hide Phishing, Malware<a href="https://threatpost.com/cyberattackers-captchas-phishing-malware/168684/"> Full Text</a>
@@ -246,7 +246,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds 2.0 Could Ignite Financial Crisis – Podcast<a href="https://threatpost.com/solarwinds-financial-crisis-podcast/168677/"> Full Text</a>
@@ -262,7 +262,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook rolls out end-to-end encryption for Messenger calls<a href="https://www.bleepingcomputer.com/news/security/facebook-rolls-out-end-to-end-encryption-for-messenger-calls/"> Full Text</a>
@@ -278,7 +278,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 13th 2021 - The rise of LockBit<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-13th-2021-the-rise-of-lockbit/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emails from Lithuanian Ministry of Foreign Affairs for sale on data-trading forum<a href="https://www.bleepingcomputer.com/news/security/emails-from-lithuanian-ministry-of-foreign-affairs-for-sale-on-data-trading-forum/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New InfoStealer Malware Spread Via Russian Underground Forum<a href="https://gbhackers.com/ficker/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange Servers Under Active Attack via ProxyShell Bugs<a href="https://threatpost.com/exchange-servers-attack-proxyshell/168661/"> Full Text</a>
@@ -342,7 +342,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 365 exposes Microsoft Azure credentials in plaintext<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 365 exposes Microsoft Azure credentials in plain-text<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plain-text/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SynAck ransomware gang releases decryption keys for old victims<a href="https://therecord.media/synack-ransomware-gang-releases-decryption-keys-for-old-victims/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SynAck ransomware gang releases master decryption keys for old victims<a href="https://securityaffairs.co/wordpress/121116/malware/synack-ransomware-decryption-keys.html"> Full Text</a>
@@ -410,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams will alert users of incoming spam calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-alert-users-of-incoming-spam-calls/"> Full Text</a>
@@ -426,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC215 Impersonated an Iranian Group to Target Israeli Organizations<a href="https://cyware.com/news/unc215-impersonated-an-iranian-group-to-target-israeli-organizations-2b079a24"> Full Text</a>
@@ -442,7 +442,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Unpatched’ vulnerabilities in Wodify fitness management platform allow attackers to steal gym payments, extract member data<a href="https://portswigger.net/daily-swig/unpatched-vulnerabilities-in-wodify-fitness-management-platform-allow-attackers-to-steal-gym-payments-extract-member-data?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updated AdLoad Malware Capable of Bypassing Apple's Defenses<a href="https://cyware.com/news/updated-adload-malware-capable-of-bypassing-apples-defenses-ad1eaa37"> Full Text</a>
@@ -475,7 +475,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware also exploits PrintNightmare flaws in its attack<a href="https://securityaffairs.co/wordpress/121110/cyber-crime/vice-society-ransomware-printnightmare-flaws.html"> Full Text</a>
@@ -495,7 +495,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack hits vaccine records for thousands of Canada's Durham Region children<a href="https://toronto.ctvnews.ca/cyberattack-hits-vaccine-records-for-thousands-of-durham-region-children-ctv-news-investigation-1.5543525?&web_view=true"> Full Text</a>
@@ -511,7 +511,7 @@ CTV News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 eCh0raix Combo: Targeting Both QNAP and Synology<a href="https://cyware.com/news/ech0raix-combo-targeting-both-qnap-and-synology-508c2e91"> Full Text</a>
@@ -528,7 +528,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaos: Ransomware or Wiper?<a href="https://cyware.com/news/chaos-ransomware-or-wiper-5c0357e1"> Full Text</a>
@@ -544,7 +544,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huawei stole our tech and created a 'backdoor' to spy on Pakistan, claims IT biz<a href="https://www.theregister.com/2021/08/13/huawei_accused_of_trade_secret/?&web_view=true"> Full Text</a>
@@ -560,7 +560,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SynAck ransomware releases decryption keys after El_Cometa rebrand<a href="https://www.bleepingcomputer.com/news/security/synack-ransomware-releases-decryption-keys-after-el-cometa-rebrand/"> Full Text</a>
@@ -576,7 +576,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in gym management software let hackers wipe fitness history<a href="https://www.bleepingcomputer.com/news/security/bugs-in-gym-management-software-let-hackers-wipe-fitness-history/"> Full Text</a>
@@ -592,7 +592,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospitals still not protected from dangerous vulnerabilities<a href="https://www.helpnetsecurity.com/2021/08/13/hospitals-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -608,7 +608,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in gym management software let hackers change user workout results<a href="https://www.bleepingcomputer.com/news/security/bugs-in-gym-management-software-let-hackers-change-user-workout-results/"> Full Text</a>
@@ -624,7 +624,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2021
+August 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cornell University Researchers Uncover Backdoor Attack to Evade Any Known Defense<a href="https://www.zdnet.com/article/cornell-university-researchers-discover-code-poisoning-attack/?&web_view=true"> Full Text</a>

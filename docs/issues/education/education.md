@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn Ethical Hacking From Scratch — 18 Online Courses for Just $43<a href="https://thehackernews.com/2021/08/learn-ethical-hacking-from-scratch-18.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're reading this post, there is a pretty good chance you're interested in hacking. Ever thought about turning it into a career?  The cybersecurity industry is booming right now, and ethical hacking is one of the most lucrative and challenging niches. It's open to anyone with the right skills.  Featuring 18 courses from top-rated instructors,&nbsp; The All-In-One 2021 Super-Sized Ethical Hacking Bundle &nbsp;helps you acquire those skills.&nbsp;  If you went on a shopping spree, these courses would normally set you back $3,284 in total.&nbsp;  However, The Hacker News has teamed up with several education partners to offer&nbsp; the full bundle for just $42.99 . That means you're paying less than $3 per course!  Ethical hacking is all about finding the weaknesses in systems before they can be exploited by malicious hackers. Many people who work in this field earn six figures, and top experts often work for themselves.  There are two things you need for building a career in ethical hacking: practical know
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

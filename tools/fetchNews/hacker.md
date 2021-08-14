@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spotted Using Morse Code in Phishing Attacks to Evade Detection<a href="https://thehackernews.com/2021/08/hackers-spotted-using-morse-code-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed details of an evasive year-long social engineering campaign wherein the operators kept changing their obfuscation and encryption mechanisms every 37 days on average, including relying on Morse code, in an attempt to cover their tracks and surreptitiously harvest user credentials.  The phishing attacks take the form of invoice-themed lures mimicking financial-related business transactions, with the emails containing an HTML file ("XLS.HTML"). The ultimate objective is to harvest usernames and passwords, which are subsequently used as an initial entry point for later infiltration attempts.   Microsoft likened the attachment to a "jigsaw puzzle," noting that individual parts of the HTML file are designed to appear innocuous and slip past endpoint security software, only to reveal its true colors when these segments are decoded and assembled together. The company did not identify the hackers behind the operation.  "This phishing campaign ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Sites Abused in Aggah Spear-Phishing Campaign<a href="https://threatpost.com/aggah-wordpress-spearphishing/168657/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan-linked threat group’s campaign uses compromised WordPress sites to deliver the Warzone RAT to manufacturing companies in Taiwan and South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Searching for Unpatched Microsoft Exchange Servers<a href="https://thehackernews.com/2021/08/hackers-actively-searching-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively carrying out opportunistic&nbsp; scanning &nbsp;and&nbsp; exploitation &nbsp;of Exchange servers using a new exploit chain leveraging a trio of flaws affecting on-premises installations, making them the latest set of bugs after ProxyLogon vulnerabilities were exploited en masse at the start of the year.  The remote code execution flaws have been collectively dubbed "ProxyShell." At least 30,000 machines are affected by the vulnerabilities,&nbsp; according &nbsp;to a Shodan scan performed by Jan Kopriva of SANS Internet Storm Center.  "Started to see in the wild exploit attempts against our honeypot infrastructure for the Exchange ProxyShell vulnerabilities," NCC Group's Richard Warren&nbsp; tweeted , noting that one of the intrusions resulted in the deployment of a "C# aspx webshell in the /aspnet_client/ directory."  Patched in early March 2021,&nbsp; ProxyLogon &nbsp;is the moniker for CVE-2021-26855, a server-side request forgery vulnerability in Exchange Server tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
