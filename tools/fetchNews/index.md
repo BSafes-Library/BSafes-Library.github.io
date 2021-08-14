@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Reportedly Created Blockchain Analytics Tool<a href="https://www.databreachtoday.co.uk/cybercriminals-reportedly-created-blockchain-analytics-tool-a-17291?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool was created by one of the same developers behind Incognito Market, a darknet marketplace specializing in the sale of narcotics. Incognito was launched in late 2020, and the marketplace accepts payments in both bitcoin and monero.
+</details>
+<div style="text-align: right" markdown="1">
+DataBreach Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Rise of Deep Learning for Detection and Classification of Malware<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-rise-of-deep-learning-for-detection-and-classification-of-malware/?&web_view=true"> Full Text</a>
 </p>
 <details>
