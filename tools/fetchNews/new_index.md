@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Glowworm Attack Recovers Device's Sound from Its LED Power Indicator<a href="https://thehackernews.com/2021/08/new-glowworm-attack-recovers-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel technique leverages optical emanations from a device's power indicator LED to recover sounds from connected peripherals and spy on electronic conversations from a distance of as much as 35 meters.  Dubbed the " Glowworm attack ," the findings were published by a group of academics from the Ben-Gurion University of the Negev earlier this week, describing the method as "an optical  TEMPEST  attack that can be used by eavesdroppers to recover sound by analysing optical measurements obtained via an electro-optical sensor directed at the power indicator LED of various devices."  Accompanying the experimental setup is an optical-audio transformation (OAT) that allows for retrieving sound by isolating the speech from the optical measurements obtained by directing an electro-optical sensor at the device's power indicator LED.   TEMPEST is the codename for unintentional intelligence-bearing emanations produced by electronic and electromechanical information-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Learn Ethical Hacking From Scratch — 18 Online Courses for Just $43<a href="https://thehackernews.com/2021/08/learn-ethical-hacking-from-scratch-18.html"> Full Text</a>
 </p>
 <details>
