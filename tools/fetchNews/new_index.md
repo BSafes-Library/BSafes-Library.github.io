@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dumping user’s Microsoft Azure credentials in plaintext from Windows 365<a href="https://securityaffairs.co/wordpress/121124/hacking/windows-365-mimikaz-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security expert devised a method to retrieve a user's Microsoft Azure credentials in plaintext from Microsoft's new Windows 365 Cloud PC service using Mimikatz. 
+
+
+
+Benjamin Delpy, the popular security researcher and author of the Mimikatz tool, has devised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Reportedly Created Blockchain Analytics Tool<a href="https://www.databreachtoday.co.uk/cybercriminals-reportedly-created-blockchain-analytics-tool-a-17291?&web_view=true"> Full Text</a>
 </p>
 <details>
