@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+London court orders Binance to trace cryptocurrency hackers<a href="https://www.reuters.com/technology/london-court-orders-binance-trace-cryptocurrency-hackers-2021-08-13/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+London's High Court has ordered Binance, one of the world's largest cryptocurrency exchanges, to identify hackers and freeze their accounts after one user said it was the victim of a $2.6 million hack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Docker Images Used to Mine Monero<a href="https://www.inforisktoday.com/malicious-docker-images-used-to-mine-monero-a-17283?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently uncovered cryptomining scheme used malicious Docker images to hijack organizations’ computing resources to mine cryptocurrency, according to cybersecurity firm Aqua Security.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Scripps Health Reports Financial Toll of Ransomware Attack<a href="https://www.govinfosecurity.com/scripps-health-reports-financial-toll-ransomware-attack-a-17288?&web_view=true"> Full Text</a>
 </p>
 <details>
