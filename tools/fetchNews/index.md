@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Rise of Deep Learning for Detection and Classification of Malware<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-rise-of-deep-learning-for-detection-and-classification-of-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Different types of deep learning algorithms, such as convolutional neural networks (CNN), recurrent neural networks and Feed-Forward networks, have been applied to a variety of use cases in malware analysis.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cyberspies targeted the Slovak government for months<a href="https://therecord.media/russian-cyberspies-targeted-slovak-government-for-months/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian cyber-espionage group linked to one of Russia’s intelligence forces has targeted the Slovak government for months, Slovak security firms ESET and IstroSec said this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 London court orders Binance to trace cryptocurrency hackers<a href="https://www.reuters.com/technology/london-court-orders-binance-trace-cryptocurrency-hackers-2021-08-13/?&web_view=true"> Full Text</a>
 </p>
 <details>
