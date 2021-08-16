@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London court orders Binance to trace cryptocurrency hackers<a href="https://www.reuters.com/technology/london-court-orders-binance-trace-cryptocurrency-hackers-2021-08-13/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+London's High Court has ordered Binance, one of the world's largest cryptocurrency exchanges, to identify hackers and freeze their accounts after one user said it was the victim of a $2.6 million hack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor claims to be selling data of more than 100 million T-Mobile customers<a href="https://securityaffairs.co/wordpress/121176/data-breach/t-mobile-investigates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile is investigating a possible data breach after a threat actor published a post on a forum claiming to be selling the personal data of its customers. 
+
+
+
+New problems for T-Mobile, the company is investigating a possible data breach after that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four years after its takedown, AlphaBay marketplace revamped<a href="https://securityaffairs.co/wordpress/121143/deep-web/alphabay-marketplace-revamped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular black marketplace AlphaBay is back,&nbsp;four years after&nbsp;law enforcement agencies took down the popular hidden service.
+
+
+
+The darknet marketplace AlphaBay resurfaced&nbsp;four years after&nbsp;an international operation conducted by law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

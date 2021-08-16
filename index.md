@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers behind Iranian wiper attacks linked to Syrian breaches<a href="https://www.bleepingcomputer.com/news/security/hackers-behind-iranian-wiper-attacks-linked-to-syrian-breaches/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maine’s Department of Environmental Protection Warns of Ransomware Intrusions at Two Public Wastewater Plants<a href="https://bangordailynews.com/2021/08/15/news/in-a-first-for-maine-ransomware-hackers-hit-2-public-wastewater-plants/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ bangordailynews
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of STARTTLS Related Flaws Found Affecting Popular Email Clients<a href="https://thehackernews.com/2021/08/dozens-of-starttls-related-flaws-found.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US FINRA warns US brokerage firms and brokers of ongoing phishing attacks<a href="https://securityaffairs.co/wordpress/121175/hacking/us-finra-warns-phishing-attacks.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline reports data breach after May ransomware attack<a href="https://www.bleepingcomputer.com/news/security/colonial-pipeline-reports-data-breach-after-may-ransomware-attack/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most employees reusing personal passwords to protect corporate data<a href="https://www.helpnetsecurity.com/2021/08/16/employees-reusing-personal-passwords/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New AdLoad Variant Bypasses Apple's Security Defenses to Target macOS Systems<a href="https://thehackernews.com/2021/08/new-adload-variant-bypasses-apples.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor claims to be selling data of more than 100 million T-Mobile customers<a href="https://securityaffairs.co/wordpress/121176/data-breach/t-mobile-investigates-data-breach.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firewalls and Middleboxes Can be Weaponized for Massive DDoS Attacks Using New Technique<a href="https://therecord.media/firewalls-and-middleboxes-can-be-weaponized-for-gigantic-ddos-attacks/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Tool to Help Developers Enforce Security<a href="https://www.darkreading.com/application-security/google-releases-tool-to-help-developers-enforce-security?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Claims to Sell Personal Data of More Than 100 Million T-Mobile Customers<a href="https://gizmodo.com/hacker-claims-to-have-data-on-more-than-100-million-t-m-1847491056?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Gizmodo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD Secure Encrypted Virtualization undone by electrical attack<a href="https://www.theregister.com/2021/08/13/amd_secure_encrypted_virtualization/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Valve promptly resolves Steam ‘unlimited funds’ gaming wallet cheat<a href="https://portswigger.net/daily-swig/steam-security-valve-promptly-resolves-unlimited-funds-gaming-wallet-cheat?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 United Nations calls for moratorium on sale of surveillance tech like NSO Group's Pegasus<a href="https://www.theregister.com/2021/08/13/un_wants_surveillance_tech_sales_moratorium/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2021
+August 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker claims to steal data of 100 million T-mobile customers<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-data-of-100-million-t-mobile-customers/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2021
+August 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A job ad published by the UK’s Ministry of Defence revealed a secret hacking squad<a href="https://securityaffairs.co/wordpress/121172/cyber-warfare-2/uk-ministry-of-defence-secret-hacking-squad.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2021
+August 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ford bug exposed customer and employee records from internal systems<a href="https://www.bleepingcomputer.com/news/security/ford-bug-exposed-customer-and-employee-records-from-internal-systems/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2021
+August 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 327<a href="https://securityaffairs.co/wordpress/121169/breaking-news/security-affairs-newsletter-round-327.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2021
+August 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Glowworm Attack allows sound recovery via a device’s power indicator LED<a href="https://securityaffairs.co/wordpress/121158/hacking/glowworm-attack-spy-conversations.html"> Full Text</a>
@@ -362,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US brokers warned of ongoing phishing attacks impersonating FINRA<a href="https://www.bleepingcomputer.com/news/security/us-brokers-warned-of-ongoing-phishing-attacks-impersonating-finra/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four years after its takedown, AlphaBay marketplace revamped<a href="https://securityaffairs.co/wordpress/121143/deep-web/alphabay-marketplace-revamped.html"> Full Text</a>
@@ -398,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2021
+August 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Classified documents from Lithuanian Ministry of Foreign Affairs are available for sale<a href="https://securityaffairs.co/wordpress/121131/data-breach/lithuanian-ministry-of-foreign-affairs-data-leak.html"> Full Text</a>

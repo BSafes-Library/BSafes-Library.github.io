@@ -8,6 +8,70 @@ nav_order: 900075
 
 ## Government
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maine’s Department of Environmental Protection Warns of Ransomware Intrusions at Two Public Wastewater Plants<a href="https://bangordailynews.com/2021/08/15/news/in-a-first-for-maine-ransomware-hackers-hit-2-public-wastewater-plants/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Environmental Protection has warned municipalities and water-sector professionals to be on alert after two recent ransomware intrusions, believed to be the first incidents in Maine.
+</details>
+<div style="text-align: right" markdown="1">
+bangordailynews
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US FINRA warns US brokerage firms and brokers of ongoing phishing attacks<a href="https://securityaffairs.co/wordpress/121175/hacking/us-finra-warns-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;FINRA warns&nbsp;US brokerage firms and brokers of an ongoing phishing campaign impersonating its representatives to steal sensitive info. 
+
+
+
+The US&nbsp;Financial Industry Regulatory Authority (FINRA) is warning&nbsp;US brokerage firms and brokers of an ongoing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+United Nations calls for moratorium on sale of surveillance tech like NSO Group's Pegasus<a href="https://www.theregister.com/2021/08/13/un_wants_surveillance_tech_sales_moratorium/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"It is highly dangerous and irresponsible to allow the surveillance technology and trade sector to operate as a human rights-free zone," warned eight UN experts on human rights.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A job ad published by the UK’s Ministry of Defence revealed a secret hacking squad<a href="https://securityaffairs.co/wordpress/121172/cyber-warfare-2/uk-ministry-of-defence-secret-hacking-squad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A job ad published by the UK's Ministry of Defence has revealed the existence of a previously undisclosed secret SAS mobile hacker team.
+
+
+
+The existence of a secret SAS mobile hacker squad, named MAB5 and under the control of the Computer Network Operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

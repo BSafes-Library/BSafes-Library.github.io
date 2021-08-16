@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dumping user’s Microsoft Azure credentials in plaintext from Windows 365<a href="https://securityaffairs.co/wordpress/121124/hacking/windows-365-mimikaz-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security expert devised a method to retrieve a user's Microsoft Azure credentials in plaintext from Microsoft's new Windows 365 Cloud PC service using Mimikatz. 
+
+
+
+Benjamin Delpy, the popular security researcher and author of the Mimikatz tool, has devised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms another Windows Print Spooler bug, offers workaround<a href="https://www.helpnetsecurity.com/2021/08/13/cve-2021-36958/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after the August 2021 Patch Tuesday, Microsoft has released an out-of-band security advisory acknowledging the existence of yet another Print Spooler vulnerability (CVE-2021-36958).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 365 exposes Microsoft Azure credentials in plaintext<a href="https://www.bleepingcomputer.com/news/microsoft/windows-365-exposes-microsoft-azure-credentials-in-plaintext/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has figured out a way to dump a user's unencrypted plaintext Microsoft Azure credentials from Microsoft's new Windows 365 Cloud PC service using Mimikatz.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Unpatched’ vulnerabilities in Wodify fitness management platform allow attackers to steal gym payments, extract member data<a href="https://portswigger.net/daily-swig/unpatched-vulnerabilities-in-wodify-fitness-management-platform-allow-attackers-to-steal-gym-payments-extract-member-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered three vulnerabilities in Wodify app that could allow an authenticated user to modify production data and extract sensitive personal information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

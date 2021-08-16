@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most employees reusing personal passwords to protect corporate data<a href="https://www.helpnetsecurity.com/2021/08/16/employees-reusing-personal-passwords/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two-thirds of employees are using personal passwords to protect corporate data, and vice versa, with even more business leaders concerned about this very issue, according to study by My1Login.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 327<a href="https://securityaffairs.co/wordpress/121169/breaking-news/security-affairs-newsletter-round-327.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe&nbsp;here.  
+
+
+
+Four years...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US brokers warned of ongoing phishing attacks impersonating FINRA<a href="https://www.bleepingcomputer.com/news/security/us-brokers-warned-of-ongoing-phishing-attacks-impersonating-finra/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Financial Industry Regulatory Authority (FINRA) warns&nbsp;US brokerage firms and brokers of an ongoing phishing campaign impersonating FINRA officials and asking them to hand over sensitive information under the threat of penalties.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

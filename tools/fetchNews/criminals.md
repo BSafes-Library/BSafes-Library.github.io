@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Reportedly Created Blockchain Analytics Tool<a href="https://www.databreachtoday.co.uk/cybercriminals-reportedly-created-blockchain-analytics-tool-a-17291?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool was created by one of the same developers behind Incognito Market, a darknet marketplace specializing in the sale of narcotics. Incognito was launched in late 2020, and the marketplace accepts payments in both bitcoin and monero.
+</details>
+<div style="text-align: right" markdown="1">
+DataBreach Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Embrace CAPTCHAs to Hide Phishing, Malware<a href="https://threatpost.com/cyberattackers-captchas-phishing-malware/168684/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CAPTCHA-protected malicious URLs are snowballing lately, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware gang releases decryption keys for old victims<a href="https://therecord.media/synack-ransomware-gang-releases-decryption-keys-for-old-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The El_Cometa ransomware gang, formerly known as SynAck, has released today master decryption keys (verified by Michael Gillespie) for the victims they infected between July 2017 and early 2021.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
