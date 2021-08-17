@@ -11,6 +11,20 @@ nav_order: 900072
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Federal regulators investigating Tesla Autopilot crashes | Afghan broadcasters for US government radio fear Taliban backlash | Anonymous messaging app Yik Yak returns<a href="https://thehill.com//policy/technology/overnights/568080-hillicon-valley-federal-regulators-investigating-tesla-autopilot"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tesla is in deep water after a series of crashes with emergency vehicles. The National Highway Traffic Safety Administration officially launched a probe into the electric car company on Monday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Most employees reusing personal passwords to protect corporate data<a href="https://www.helpnetsecurity.com/2021/08/16/employees-reusing-personal-passwords/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck Ransomware Rebrands, Releases Old Decryption Keys<a href="https://cyware.com/news/synack-ransomware-rebrands-releases-old-decryption-keys-7f2128ba"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+El_Cometa ransomware group, formerly known as SynAck, released master decryption keys for the victims they targeted between July 2017 and early 2021. Emsisoft would be creating its own decryption tool that will be easy to use and safe. The tool will be released for public use within a few days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

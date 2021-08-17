@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance Ordered to Freeze Attackers' Accounts<a href="https://www.cuinfosecurity.com/binance-ordered-to-freeze-attackers-accounts-a-17299?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The London High Court has ordered the cryptocurrency exchange Binance to attempt to identify and freeze accounts belonging to the attackers who allegedly stole about $2.6 million from Fetch.ai.
+</details>
+<div style="text-align: right" markdown="1">
+Cuinfosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

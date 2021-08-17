@@ -34,6 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian government discloses National Treasury ransomware attack<a href="https://www.bleepingcomputer.com/news/security/brazilian-government-discloses-national-treasury-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian Ministry of Economy has disclosed a ransomware attack that hit some of National Treasury's computing systems on Friday night, right before the start of the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple integer overflow vulnerabilities in GPAC Project on Advanced Content<a href="https://blog.talosintelligence.com/2021/08/vulnerability-spotlight-multiple.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit these flaws by sending a specially crafted MP4 file. This could cause an integer overflow eventually resulting in a heap-based buffer overflow that causes memory corruption.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Ads Target Cryptocurrency Users With Cinobi Banking Trojan<a href="https://thehackernews.com/2021/08/malicious-ads-target-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new social engineering-based malvertising campaign targeting Japan has been found to deliver a malicious application that deploys a banking trojan on compromised Windows machines to steal credentials associated with cryptocurrency accounts.  The application masquerades as an animated porn game, a reward points application, or a video streaming application, Trend Micro researchers Jaromir Horejsi and Joseph C Chen  said  in an analysis published last week, attributing the operation to a threat actor it tracks as Water Kappa, which was  previously found  targeting Japanese online banking users with the Cinobi trojan by leveraging exploits in Internet Explorer browser.   The switch in tactics is an indicator that the adversary is singling out users of web browsers other than Internet Explorer, the researchers added.   Water Kappa's latest infection routine commences with malvertisements for either Japanese animated porn games, reward points apps, or video streaming services, with t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.9 million+ records from the FBI’s terrorist watchlist available online<a href="https://securityaffairs.co/wordpress/121213/data-breach/fbi-terrorist-watchlist-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered that a secret FBI’s terrorist watchlist was accidentally exposed on the internet for three weeks between July 19 and August 9, 2021.
+
+
+
+A security researcher Bob Diachenko discovered a secret terrorist watchlist with 1.9...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Reduce Exchange Server Downtime in Case of a Disaster?<a href="https://threatpost.com/how-to-reduce-exchange-server-downtime/168344/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exchange downtime can have serious implications on businesses. Thus, it’s important to maintain backups and implement best practices for Exchange servers that can help restore the Exchange server when a disaster strikes with minimal impact and downtime.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug impacting millions of IoT devices lets hackers spy on you<a href="https://www.bleepingcomputer.com/news/security/critical-bug-impacting-millions-of-iot-devices-lets-hackers-spy-on-you/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are sounding the alarm on a critical vulnerability affecting tens of millions of devices worldwide connected via ThroughTek's Kalay IoT cloud platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco to acquire observability company Epsagon<a href="https://www.zdnet.com/article/cisco-to-acquire-observability-company-epsagon/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced on Friday that it has signed a deal to acquire observability company Epsagon. Cisco said the deal will play a key role in helping it ramp up its full-stack observability strategy.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solution Providers Can Now Add Incident Response to Their Services Portfolio For Free<a href="https://thehackernews.com/2019/09/msp-incident-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Incident Response (IR) services market is in accelerated growth due to the rise in cyberattacks that result in breaches. More and more organizations, across all sizes and verticals, choose to outsource IR to 3rd party service providers over handling security incidents in-house.   Cynet is now launching a first-of-its-kind offering, enabling any Managed Security Provider (MSP) or Security Integrator (SI) to add Incident Response to its services portfolio, without building an in-house team of incident responders, by using Cynet's IR team and technology  at no cost.   Managed Service providers interested to add Incident Response to their service portfolio with no investment in people or technology can apply here .   As cyber threats grow in sophistication and volume, there is an increasing number of cases in which attackers succeed in compromising the environments they target. This, in turn, fuels a rapidly growing demand for IR technologies and services.   Since in most cases
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline discloses data breach after May ransomware attack<a href="https://securityaffairs.co/wordpress/121209/data-breach/colonial-pipeline-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline discloses a data breach of the personal information of thousands of individuals after the ransomware attack that took place in May 2021.
+
+
+
+Colonial Pipeline has started notifying more than 5000 people that had their personal information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet patches bug letting attackers takeover servers remotely<a href="https://www.bleepingcomputer.com/news/security/fortinet-patches-bug-letting-attackers-takeover-servers-remotely/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released security updates to address a command injection vulnerability that can let attackers take complete control of servers running vulnerable FortiWeb web application firewall (WAF) installations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian National Treasury Hit with Ransomware Attack Impacting IT Systems<a href="https://www.zdnet.com/article/brazilian-national-treasury-hit-with-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first assessments so far have found there was no damage to the structuring systems of the National Treasury, such as the platforms relating to public debt administration.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chase bank accidentally leaked customer info to other customers<a href="https://www.bleepingcomputer.com/news/security/chase-bank-accidentally-leaked-customer-info-to-other-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chase Bank has admitted to the presence of a technical bug on its online banking website and app that allowed accidental leakage of customer banking information to other customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baffle raises $20M to secure cloud data<a href="https://www.helpnetsecurity.com/2021/08/17/baffle-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baffle announced that it has raised $20 million in Series B funding led by new investor Celesta Capital, with contributions and follow-on investments from multiple investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memorial Health System in Ohio Latest to be Hit With Ransomware Attack<a href="https://www.govinfosecurity.com/memorial-health-system-in-ohio-latest-entity-hit-attack-a-17302?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Memorial Health System detected a security incident early on Sunday morning that prompted the organization to divert emergency care patients from three of its hospitals to other area facilities.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance Ordered to Freeze Attackers' Accounts<a href="https://www.cuinfosecurity.com/binance-ordered-to-freeze-attackers-accounts-a-17299?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The London High Court has ordered the cryptocurrency exchange Binance to attempt to identify and freeze accounts belonging to the attackers who allegedly stole about $2.6 million from Fetch.ai.
+</details>
+<div style="text-align: right" markdown="1">
+Cuinfosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XSS Bug in SEOPress WordPress Plugin Allows Site Takeover<a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug would allow a number of malicious actions, up to and including full site takeover. The vulnerable plugin is installed on 100,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws Affecting Realtek Wi-Fi SDKs Impact Nearly a Million IoT Devices<a href="https://thehackernews.com/2021/08/multiple-flaws-affecting-realtek-wi-fi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese chip designer Realtek is warning of  four security vulnerabilities  in three software development kits (SDKs) accompanying its WiFi modules, which are used in almost 200 IoT devices made by at least 65 vendors.  The flaws, which affect Realtek SDK v2.x, Realtek "Jungle" SDK v3.0/v3.1/v3.2/v3.4.x/v3.4T/v3.4T-CT, and Realtek "Luna" SDK up to version 1.3.2, could be abused by attackers to fully compromise the target device and execute arbitrary code with the highest level of privilege —   CVE-2021-35392  (CVSS score: 8.1) - Heap buffer overflow vulnerability in 'WiFi Simple Config' server due to unsafe crafting of SSDP NOTIFY messages  CVE-2021-35393  (CVSS score: 8.1) - Stack buffer overflow vulnerability in 'WiFi Simple Config' server due to unsafe parsing of the UPnP SUBSCRIBE/UNSUBSCRIBE Callback header  CVE-2021-35394  (CVSS score: 9.8) - Multiple buffer overflow vulnerabilities and an arbitrary command injection vulnerability in 'UD
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100m T-Mobile Customer Records Purportedly Up for Sale<a href="https://threatpost.com/t-mobile-investigates-100m-records/168689/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UPDATE: T-Mobile confirmed the breach, but hasn’t confirmed whether customer data was involved. The offer: 30m records for ~1 penny each, with the rest being sold privately. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

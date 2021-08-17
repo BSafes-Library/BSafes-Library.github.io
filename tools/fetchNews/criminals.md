@@ -11,6 +11,24 @@ nav_order: 900031
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Recent attacks on Iran were orchestrated by the Indra group<a href="https://securityaffairs.co/wordpress/121190/hacking/eindra-group-attacks-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attacks that targeted Iran's transport ministry and national train system were conducted by a threat actor dubbed&nbsp;Indra. 
+
+
+
+In July, Iran’s railroad system was hit by a cyberattack, threat actors published fake messages about delays or cancellations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Threat actor claims to be selling data of more than 100 million T-Mobile customers<a href="https://securityaffairs.co/wordpress/121176/data-breach/t-mobile-investigates-data-breach.html"> Full Text</a>
 </p>
 <details>

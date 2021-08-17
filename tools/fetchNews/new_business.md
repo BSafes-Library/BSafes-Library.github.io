@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco to acquire observability company Epsagon<a href="https://www.zdnet.com/article/cisco-to-acquire-observability-company-epsagon/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced on Friday that it has signed a deal to acquire observability company Epsagon. Cisco said the deal will play a key role in helping it ramp up its full-stack observability strategy.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solution Providers Can Now Add Incident Response to Their Services Portfolio For Free<a href="https://thehackernews.com/2019/09/msp-incident-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Incident Response (IR) services market is in accelerated growth due to the rise in cyberattacks that result in breaches. More and more organizations, across all sizes and verticals, choose to outsource IR to 3rd party service providers over handling security incidents in-house.   Cynet is now launching a first-of-its-kind offering, enabling any Managed Security Provider (MSP) or Security Integrator (SI) to add Incident Response to its services portfolio, without building an in-house team of incident responders, by using Cynet's IR team and technology  at no cost.   Managed Service providers interested to add Incident Response to their service portfolio with no investment in people or technology can apply here .   As cyber threats grow in sophistication and volume, there is an increasing number of cases in which attackers succeed in compromising the environments they target. This, in turn, fuels a rapidly growing demand for IR technologies and services.   Since in most cases
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baffle raises $20M to secure cloud data<a href="https://www.helpnetsecurity.com/2021/08/17/baffle-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baffle announced that it has raised $20 million in Series B funding led by new investor Celesta Capital, with contributions and follow-on investments from multiple investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

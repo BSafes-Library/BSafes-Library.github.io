@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian government discloses National Treasury ransomware attack<a href="https://www.bleepingcomputer.com/news/security/brazilian-government-discloses-national-treasury-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian Ministry of Economy has disclosed a ransomware attack that hit some of National Treasury's computing systems on Friday night, right before the start of the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian National Treasury Hit with Ransomware Attack Impacting IT Systems<a href="https://www.zdnet.com/article/brazilian-national-treasury-hit-with-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first assessments so far have found there was no damage to the structuring systems of the National Treasury, such as the platforms relating to public debt administration.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memorial Health System in Ohio Latest to be Hit With Ransomware Attack<a href="https://www.govinfosecurity.com/memorial-health-system-in-ohio-latest-entity-hit-attack-a-17302?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Memorial Health System detected a security incident early on Sunday morning that prompted the organization to divert emergency care patients from three of its hospitals to other area facilities.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

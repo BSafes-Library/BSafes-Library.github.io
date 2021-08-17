@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.9 million+ records from the FBI’s terrorist watchlist available online<a href="https://securityaffairs.co/wordpress/121213/data-breach/fbi-terrorist-watchlist-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered that a secret FBI’s terrorist watchlist was accidentally exposed on the internet for three weeks between July 19 and August 9, 2021.
+
+
+
+A security researcher Bob Diachenko discovered a&nbsp;secret terrorist watchlist&nbsp;with&nbsp;1.9...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline discloses data breach after May ransomware attack<a href="https://securityaffairs.co/wordpress/121209/data-breach/colonial-pipeline-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline discloses a data breach of the personal information of thousands of individuals after the ransomware attack that took place in May 2021.
+
+
+
+Colonial Pipeline has started notifying more than 5000 people that had their personal information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chase bank accidentally leaked customer info to other customers<a href="https://www.bleepingcomputer.com/news/security/chase-bank-accidentally-leaked-customer-info-to-other-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chase Bank has admitted to the presence of a technical bug on its online banking website and app&nbsp;that allowed accidental&nbsp;leakage of&nbsp;customer banking information to other customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100m T-Mobile Customer Records Purportedly Up for Sale<a href="https://threatpost.com/t-mobile-investigates-100m-records/168689/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UPDATE: T-Mobile confirmed the breach, but hasn’t confirmed whether customer data was involved. The offer: 30m records for ~1 penny each, with the rest being sold privately. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
