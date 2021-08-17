@@ -11,6 +11,49 @@ nav_order: 900015
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware attacks Memorial Health System, steals patient data<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-attacks-memorial-health-system-steals-patient-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what appears to be an attack from the Hive ransomware gang, computers of the non-profit Memorial Health System have been encrypted, forcing staff to work with paper charts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms servers were hacked, investigates data breach<a href="https://www.bleepingcomputer.com/news/security/t-mobile-confirms-servers-were-hacked-investigates-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​T-Mobile has confirmed that threat actors hacked their servers in a recent cyber attack but still investigate whether customer data was stolen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Code-poisoning Attack could Corrupt Your ML Models<a href="https://cyware.com/news/new-code-poisoning-attack-could-corrupt-your-ml-models-a52f766a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers discovered a new type of code-poisoning attack that can manipulate natural-language modeling systems via a backdoor. By nature, this is a blind attack, in which the attacker does not require to observe the execution of their code or the weights of the backdoored model during  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AMD Secure Encrypted Virtualization undone by electrical attack<a href="https://www.theregister.com/2021/08/13/amd_secure_encrypted_virtualization/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

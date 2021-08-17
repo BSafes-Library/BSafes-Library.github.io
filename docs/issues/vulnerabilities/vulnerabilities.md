@@ -11,6 +11,62 @@ nav_order: 900220
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+65 vendors affected by severe vulnerabilities in Realtek chips<a href="https://www.helpnetsecurity.com/2021/08/16/realtek-rtl819xd-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability within the Realtek RTL819xD module allows attackers to gain complete access to the device, installed operating systems, and other network devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Valve plugs an API bug found in its Steam platform that that abused the Smart2Pay system to add unlimited funds to gamer digital wallets. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber and Vice Society Actors Exploiting PrintNightmare Flaws<a href="https://cyware.com/news/magniber-and-vice-society-actors-exploiting-printnightmare-flaws-487a93c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators, including Magniber and Vice Society, were found exploiting flaws in Windows Print Spooler to compromise systems and spread laterally across networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research: Hundreds of high-traffic web domains vulnerable to same-site attacks<a href="https://portswigger.net/daily-swig/research-hundreds-of-high-traffic-web-domains-vulnerable-to-same-site-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underrated threat of related-domain attacks can enable malicious actors to circumvent many advanced website protection mechanisms, according to researchers from TU Wien and Ca’ Foscari University.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dozens of STARTTLS Related Flaws Found Affecting Popular Email Clients<a href="https://thehackernews.com/2021/08/dozens-of-starttls-related-flaws-found.html"> Full Text</a>
 </p>
 <details>

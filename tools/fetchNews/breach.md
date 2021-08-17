@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline reports data breach after May ransomware attack<a href="https://www.bleepingcomputer.com/news/security/colonial-pipeline-reports-data-breach-after-may-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colonial Pipeline, the largest fuel pipeline in the United States, is sending notification letters to individuals affected by the&nbsp;data breach resulting from the DarkSide&nbsp;ransomware attack that hit its network in May.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims to steal data of 100 million T-mobile customers<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-data-of-100-million-t-mobile-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile is actively investigating a data breach after a threat actor claims to have hacked T-Mobile's servers and stolen databases containing the personal data of approximately 100 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ford bug exposed customer and employee records from internal systems<a href="https://www.bleepingcomputer.com/news/security/ford-bug-exposed-customer-and-employee-records-from-internal-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug on Ford's website&nbsp;allowed for accessing&nbsp;sensitive systems and obtaining&nbsp;proprietary data, such as customer databases, employee records, internal tickets, etc. The data exposure&nbsp;stemmed from a misconfigured instance of&nbsp;Pega&nbsp;customer engagement system&nbsp;running on Ford's servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classified documents from Lithuanian Ministry of Foreign Affairs are available for sale<a href="https://securityaffairs.co/wordpress/121131/data-breach/lithuanian-ministry-of-foreign-affairs-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emails allegedly stolen from the Lithuanian Ministry of Foreign Affairs are available for sale in a cybercrime forum, some emails include high-sensitive info.
+
+
+
+An archive containing 1.6 million emails containing highly sensitive messages allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

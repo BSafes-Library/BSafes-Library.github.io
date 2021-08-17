@@ -11,6 +11,20 @@ nav_order: 900042
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Weaponize Firewalls and Middleboxes for Amplified DDoS Attacks<a href="https://thehackernews.com/2021/08/attackers-can-weaponize-firewalls-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weaknesses in the implementation of TCP protocol in&nbsp; middleboxes &nbsp;and censorship infrastructure could be weaponized as a vector to stage reflected denial of service (DoS) amplification attacks, surpassing many of the existing UDP-based amplification factors to date.  Detailed by a group of academics from the University of Maryland and the University of Colorado Boulder at the USENIX Security Symposium, the volumetric attacks take advantage of TCP-non-compliance in-network middleboxes — such as firewalls, intrusion prevention systems, and deep packet inspection (DPI) boxes — to amplify network traffic, with hundreds of thousands of IP addresses offering&nbsp; amplification factors &nbsp;exceeding those from DNS, NTP, and Memcached.   Reflected amplification attacks are a type of DoS attacks in which an adversary leverages the connectionless nature of UDP protocol with spoofed requests to misconfigured open servers in order to overwhelm a target server or network with a flood of packets, causing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Firewalls and Middleboxes Can be Weaponized for Massive DDoS Attacks Using New Technique<a href="https://therecord.media/firewalls-and-middleboxes-can-be-weaponized-for-gigantic-ddos-attacks/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

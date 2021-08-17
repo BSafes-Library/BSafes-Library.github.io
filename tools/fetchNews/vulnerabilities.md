@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of STARTTLS Related Flaws Found Affecting Popular Email Clients<a href="https://thehackernews.com/2021/08/dozens-of-starttls-related-flaws-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed as many as 40 different vulnerabilities associated with an opportunistic encryption mechanism in mail clients and servers that could open the door to targeted man-in-the-middle (MitM) attacks, permitting an intruder to forge mailbox content and steal credentials.  The now-patched flaws, identified in various STARTTLS implementations, were&nbsp; detailed &nbsp;by a group of researchers Damian Poddebniak, Fabian Ising, Hanno Böck, and Sebastian Schinzel at the 30th USENIX Security Symposium. In an Internet-wide scan conducted during the study, 320,000 email servers were found vulnerable to what's called a command injection attack.   Some of the popular clients affected by the bugs include Apple Mail, Gmail, Mozilla Thunderbird, Claws Mail, Mutt, Evolution, Exim, Mail.ru, Samsung Email, Yandex, and KMail. The attacks require that the malicious party can tamper connections established between an email client and the email server of a provider and has login cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valve promptly resolves Steam ‘unlimited funds’ gaming wallet cheat<a href="https://portswigger.net/daily-swig/steam-security-valve-promptly-resolves-unlimited-funds-gaming-wallet-cheat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a write-up published after the bug was resolved, the researcher describes how an attacker would first have to modify their Steam account email to an address that includes the term “amount100”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

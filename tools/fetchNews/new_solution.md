@@ -11,6 +11,20 @@ nav_order: 900195
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UNISOC joins Google’s Android Ready SE Alliance to deliver secure solutions to the Android ecosystem<a href="https://www.helpnetsecurity.com/2021/08/16/unisoc-google/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNISOC has joined Google’s Android Ready SE Alliance, a collaboration between Google and Secure Element (SE) vendors, to offer a growing list of open-source, validated, and ready-to-use SE Applets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Tool to Help Developers Enforce Security<a href="https://www.darkreading.com/application-security/google-releases-tool-to-help-developers-enforce-security?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

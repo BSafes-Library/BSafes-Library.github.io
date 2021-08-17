@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SIM swap scammer pleads guilty to Instagram account hijacks, crypto theft<a href="https://www.bleepingcomputer.com/news/security/sim-swap-scammer-pleads-guilty-to-instagram-account-hijacks-crypto-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Declan Harrington,&nbsp;a&nbsp;Massachusetts man charged two years ago for his alleged involvement in a series of SIM swapping attacks,&nbsp;pleaded guilty to stealing cryptocurrency from multiple victims and hijacking the Instagram account of others.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Secure Encrypted Virtualization undone by electrical attack<a href="https://www.theregister.com/2021/08/13/amd_secure_encrypted_virtualization/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was inspired by a separate attack, dubbed Voltpillager, used to defeat Intel's Software Guard Extensions (SGX), a similar secure enclave system for x86 microarchitecture.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glowworm Attack allows sound recovery via a device’s power indicator LED<a href="https://securityaffairs.co/wordpress/121158/hacking/glowworm-attack-spy-conversations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Glowworm attack leverages optical emanations from a device's power indicator LED to recover sounds from connected peripherals and spy on electronic conversations.
+
+
+
+Boffins from the Ben-Gurion University of the Negev devised a new attack technique,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

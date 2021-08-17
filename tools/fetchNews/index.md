@@ -34,6 +34,323 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware attacks Memorial Health System, steals patient data<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-attacks-memorial-health-system-steals-patient-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what appears to be an attack from the Hive ransomware gang, computers of the non-profit Memorial Health System have been encrypted, forcing staff to work with paper charts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+65 vendors affected by severe vulnerabilities in Realtek chips<a href="https://www.helpnetsecurity.com/2021/08/16/realtek-rtl819xd-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability within the Realtek RTL819xD module allows attackers to gain complete access to the device, installed operating systems, and other network devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Federal regulators investigating Tesla Autopilot crashes | Afghan broadcasters for US government radio fear Taliban backlash | Anonymous messaging app Yik Yak returns<a href="https://thehill.com//policy/technology/overnights/568080-hillicon-valley-federal-regulators-investigating-tesla-autopilot"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tesla is in deep water after a series of crashes with emergency vehicles. The National Highway Traffic Safety Administration officially launched a probe into the electric car company on Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Weaponize Firewalls and Middleboxes for Amplified DDoS Attacks<a href="https://thehackernews.com/2021/08/attackers-can-weaponize-firewalls-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weaknesses in the implementation of TCP protocol in  middleboxes  and censorship infrastructure could be weaponized as a vector to stage reflected denial of service (DoS) amplification attacks, surpassing many of the existing UDP-based amplification factors to date.  Detailed by a group of academics from the University of Maryland and the University of Colorado Boulder at the USENIX Security Symposium, the volumetric attacks take advantage of TCP-non-compliance in-network middleboxes — such as firewalls, intrusion prevention systems, and deep packet inspection (DPI) boxes — to amplify network traffic, with hundreds of thousands of IP addresses offering  amplification factors  exceeding those from DNS, NTP, and Memcached.   Reflected amplification attacks are a type of DoS attacks in which an adversary leverages the connectionless nature of UDP protocol with spoofed requests to misconfigured open servers in order to overwhelm a target server or network with a flood of packets, causing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms data breach that exposed customer personal info<a href="https://securityaffairs.co/wordpress/121205/data-breach/t-mobile-confirms-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile confirms a breach after threat actors claimed to have obtained records of 100 million of its customers and offered them for sale. 
+
+
+
+T-Mobile has confirmed a data breach that exposed personal information from over 100 million of its US customers.
+
+
+
+Yesterday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Valve plugs an API bug found in its Steam platform that that abused the Smart2Pay system to add unlimited funds to gamer digital wallets. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms servers were hacked, investigates data breach<a href="https://www.bleepingcomputer.com/news/security/t-mobile-confirms-servers-were-hacked-investigates-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​T-Mobile has confirmed that threat actors hacked their servers in a recent cyber attack but still investigate whether customer data was stolen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck Ransomware Rebrands, Releases Old Decryption Keys<a href="https://cyware.com/news/synack-ransomware-rebrands-releases-old-decryption-keys-7f2128ba"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+El_Cometa ransomware group, formerly known as SynAck, released master decryption keys for the victims they targeted between July 2017 and early 2021. Emsisoft would be creating its own decryption tool that will be easy to use and safe. The tool will be released for public use within a few days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent attacks on Iran were orchestrated by the Indra group<a href="https://securityaffairs.co/wordpress/121190/hacking/eindra-group-attacks-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attacks that targeted Iran's transport ministry and national train system were conducted by a threat actor dubbed Indra. 
+
+
+
+In July, Iran’s railroad system was hit by a cyberattack, threat actors published fake messages about delays or cancellations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware dev infects own PC and data ends up on intel platform<a href="https://www.bleepingcomputer.com/news/security/malware-dev-infects-own-pc-and-data-ends-up-on-intel-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware developer unleashed their creation on their system to try out new features and the data ended up on a cybercrime intelligence platform, exposing a glimpse of the cybercriminal endeavor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits Israel’s Bar Ilan University: ‘Data is being erased right now’<a href="https://www.haaretz.com/israel-news/tech-news/.premium-cyberattack-on-israeli-university-data-being-erased-right-now-1.10119912?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeted Israel’s Bar Ilan University Sunday, the school reported. An internal email by the IT department said the attack was ongoing and urged staff to shut down their computers.
+</details>
+<div style="text-align: right" markdown="1">
+Haaretz
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education giant Pearson fined $1M for downplaying data breach<a href="https://www.bleepingcomputer.com/news/security/education-giant-pearson-fined-1m-for-downplaying-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) announced today that Pearson, a British multinational educational publishing and services company, has settled charges of mishandling the disclosure process for a 2018 data breach discovered in March 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber and Vice Society Actors Exploiting PrintNightmare Flaws<a href="https://cyware.com/news/magniber-and-vice-society-actors-exploiting-printnightmare-flaws-487a93c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators, including Magniber and Vice Society, were found exploiting flaws in Windows Print Spooler to compromise systems and spread laterally across networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret terrorist watchlist with 2 million records exposed online<a href="https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A secret terrorist watchlist with 1.9 million records, including "no-fly" records was exposed on the internet. The list was left accessible on an Elasticsearch cluster that had no password on it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Code-poisoning Attack could Corrupt Your ML Models<a href="https://cyware.com/news/new-code-poisoning-attack-could-corrupt-your-ml-models-a52f766a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers discovered a new type of code-poisoning attack that can manipulate natural-language modeling systems via a backdoor. By nature, this is a blind attack, in which the attacker does not require to observe the execution of their code or the weights of the backdoored model during  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SIM swap scammer pleads guilty to Instagram account hijacks, crypto theft<a href="https://www.bleepingcomputer.com/news/security/sim-swap-scammer-pleads-guilty-to-instagram-account-hijacks-crypto-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Declan Harrington, a Massachusetts man charged two years ago for his alleged involvement in a series of SIM swapping attacks, pleaded guilty to stealing cryptocurrency from multiple victims and hijacking the Instagram account of others. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at New York university potentially affects 47,000 citizens<a href="https://portswigger.net/daily-swig/data-breach-at-new-york-university-potentially-affects-47-000-citizens?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident was discovered on July 14, and reportedly involved Social Security numbers. A total of more than 46,700 individuals are said to be impacted by the data breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research: Hundreds of high-traffic web domains vulnerable to same-site attacks<a href="https://portswigger.net/daily-swig/research-hundreds-of-high-traffic-web-domains-vulnerable-to-same-site-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underrated threat of related-domain attacks can enable malicious actors to circumvent many advanced website protection mechanisms, according to researchers from TU Wien and Ca’ Foscari University.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNISOC joins Google’s Android Ready SE Alliance to deliver secure solutions to the Android ecosystem<a href="https://www.helpnetsecurity.com/2021/08/16/unisoc-google/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNISOC has joined Google’s Android Ready SE Alliance, a collaboration between Google and Secure Element (SE) vendors, to offer a growing list of open-source, validated, and ready-to-use SE Applets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

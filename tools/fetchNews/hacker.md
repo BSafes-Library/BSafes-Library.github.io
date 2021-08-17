@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers behind Iranian wiper attacks linked to Syrian breaches<a href="https://www.bleepingcomputer.com/news/security/hackers-behind-iranian-wiper-attacks-linked-to-syrian-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Destructive attacks that targeted Iran's transport ministry and national train system were coordinated by a threat actor dubbed Indra who previously deployed wiper malware on the networks of multiple Syrian organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Sell Personal Data of More Than 100 Million T-Mobile Customers<a href="https://gizmodo.com/hacker-claims-to-have-data-on-more-than-100-million-t-m-1847491056?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercriminal is claiming to have data related to more than 100 million T-Mobile customers in the U.S. and is selling access to part of the information for roughly $277,000.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

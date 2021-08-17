@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware attacks Memorial Health System, steals patient data<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-attacks-memorial-health-system-steals-patient-data/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 65 vendors affected by severe vulnerabilities in Realtek chips<a href="https://www.helpnetsecurity.com/2021/08/16/realtek-rtl819xd-vulnerability/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Federal regulators investigating Tesla Autopilot crashes | Afghan broadcasters for US government radio fear Taliban backlash | Anonymous messaging app Yik Yak returns<a href="https://thehill.com//policy/technology/overnights/568080-hillicon-valley-federal-regulators-investigating-tesla-autopilot"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Can Weaponize Firewalls and Middleboxes for Amplified DDoS Attacks<a href="https://thehackernews.com/2021/08/attackers-can-weaponize-firewalls-and.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile confirms data breach that exposed customer personal info<a href="https://securityaffairs.co/wordpress/121205/data-breach/t-mobile-confirms-data-breach.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets<a href="https://threatpost.com/valve-bug-unlimited-funds/168710/"> Full Text</a>
@@ -138,7 +138,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile confirms servers were hacked, investigates data breach<a href="https://www.bleepingcomputer.com/news/security/t-mobile-confirms-servers-were-hacked-investigates-data-breach/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SynAck Ransomware Rebrands, Releases Old Decryption Keys<a href="https://cyware.com/news/synack-ransomware-rebrands-releases-old-decryption-keys-7f2128ba"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recent attacks on Iran were orchestrated by the Indra group<a href="https://securityaffairs.co/wordpress/121190/hacking/eindra-group-attacks-iran.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware dev infects own PC and data ends up on intel platform<a href="https://www.bleepingcomputer.com/news/security/malware-dev-infects-own-pc-and-data-ends-up-on-intel-platform/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack hits Israel’s Bar Ilan University: ‘Data is being erased right now’<a href="https://www.haaretz.com/israel-news/tech-news/.premium-cyberattack-on-israeli-university-data-being-erased-right-now-1.10119912?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Haaretz
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Education giant Pearson fined $1M for downplaying data breach<a href="https://www.bleepingcomputer.com/news/security/education-giant-pearson-fined-1m-for-downplaying-data-breach/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magniber and Vice Society Actors Exploiting PrintNightmare Flaws<a href="https://cyware.com/news/magniber-and-vice-society-actors-exploiting-printnightmare-flaws-487a93c3"> Full Text</a>
@@ -254,7 +254,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secret terrorist watchlist with 2 million records exposed online<a href="https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Code-poisoning Attack could Corrupt Your ML Models<a href="https://cyware.com/news/new-code-poisoning-attack-could-corrupt-your-ml-models-a52f766a"> Full Text</a>
@@ -287,7 +287,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SIM swap scammer pleads guilty to Instagram account hijacks, crypto theft<a href="https://www.bleepingcomputer.com/news/security/sim-swap-scammer-pleads-guilty-to-instagram-account-hijacks-crypto-theft/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach at New York university potentially affects 47,000 citizens<a href="https://portswigger.net/daily-swig/data-breach-at-new-york-university-potentially-affects-47-000-citizens?&web_view=true"> Full Text</a>
@@ -319,7 +319,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Research: Hundreds of high-traffic web domains vulnerable to same-site attacks<a href="https://portswigger.net/daily-swig/research-hundreds-of-high-traffic-web-domains-vulnerable-to-same-site-attacks?&web_view=true"> Full Text</a>
@@ -335,7 +335,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2021
+August 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNISOC joins Google’s Android Ready SE Alliance to deliver secure solutions to the Android ecosystem<a href="https://www.helpnetsecurity.com/2021/08/16/unisoc-google/?&web_view=true"> Full Text</a>

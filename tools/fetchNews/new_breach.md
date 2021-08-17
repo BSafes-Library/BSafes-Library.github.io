@@ -11,6 +11,84 @@ nav_order: 900029
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile confirms data breach that exposed customer personal info<a href="https://securityaffairs.co/wordpress/121205/data-breach/t-mobile-confirms-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile confirms a breach after threat actors claimed to have obtained records of 100 million of its customers and offered them for sale. 
+
+
+
+T-Mobile has confirmed a data breach that exposed personal information from over 100 million of its US customers.
+
+
+
+Yesterday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack hits Israel’s Bar Ilan University: ‘Data is being erased right now’<a href="https://www.haaretz.com/israel-news/tech-news/.premium-cyberattack-on-israeli-university-data-being-erased-right-now-1.10119912?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack targeted Israel’s Bar Ilan University Sunday, the school reported. An internal email by the IT department said the attack was ongoing and urged staff to shut down their computers.
+</details>
+<div style="text-align: right" markdown="1">
+Haaretz
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education giant Pearson fined $1M for downplaying data breach<a href="https://www.bleepingcomputer.com/news/security/education-giant-pearson-fined-1m-for-downplaying-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission (SEC) announced today that Pearson, a British multinational educational publishing and services company, has settled charges of mishandling the disclosure process for a 2018 data breach discovered in March 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secret terrorist watchlist with 2 million records exposed online<a href="https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A secret terrorist watchlist with&nbsp;1.9 million records, including "no-fly" records was exposed on the internet. The list was left accessible&nbsp;on an Elasticsearch cluster that had no&nbsp;password on it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at New York university potentially affects 47,000 citizens<a href="https://portswigger.net/daily-swig/data-breach-at-new-york-university-potentially-affects-47-000-citizens?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident was discovered on July 14, and reportedly involved Social Security numbers. A total of more than 46,700 individuals are said to be impacted by the data breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline reports data breach after May ransomware attack<a href="https://www.bleepingcomputer.com/news/security/colonial-pipeline-reports-data-breach-after-may-ransomware-attack/"> Full Text</a>
 </p>
 <details>
