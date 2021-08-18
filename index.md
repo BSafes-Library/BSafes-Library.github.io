@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Govt hackers impersonate HR employees to hit Israeli targets<a href="https://www.bleepingcomputer.com/news/security/govt-hackers-impersonate-hr-employees-to-hit-israeli-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with the Iranian government have focused attack efforts on IT and communication companies in Israel, likely in an attempt to pivot to their real targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memory corruption vulnerability found in Daemon Tools Pro<a href="https://blog.talosintelligence.com/2021/08/vulnerability-spotlight-memory.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-21832 can cause memory corruption in the application if the user opens an adversary-created ISO file that causes an integer overflow. This flaw exists in the way the application parses ISOs.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook says it will keep ban on Taliban content | Rubio reiterates calls for Tik Tok ban after China's reported ownership stake | Pharmacist sold COVID-19 vaccination cards online, prosecutors allege<a href="https://thehill.com//policy/technology/overnights/568286-hillicon-valley-facebook-says-it-will-keep-ban-on-taliban"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platforms are grappling with how to moderate content that supports the Taliban after the group’s rise back to power in Afghanistan over the weekend. The decisions have not been consistent across the industry. Twitter will not impose an overarching ban on such content, diverging from Facebook and YouTube. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kalay cloud platform flaw exposes millions of IoT devices to hack<a href="https://securityaffairs.co/wordpress/121226/hacking/kalay-cloud-platform-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye Mandiant researchers have discovered a critical vulnerability in the Kalay cloud platform that exposes millions of IoT devices to attacks. 
+
+
+
+Researchers at FireEye’s Mandiant have discovered a critical vulnerability, tracked as CVE-2021-28372,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Overlooked Security Risks of The Cloud<a href="https://threatpost.com/security-risks-cloud/168754/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nate Warfield, CTO of Prevaliion, discusses the top security concerns for those embracing virtual machines, public cloud storage and cloud strategies for remote working.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware prioritizes revenue and cyberinsurance data theft<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-prioritizes-revenue-and-cyberinsurance-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Training material used by Conti ransomware affiliates was leaked online this month, allowing an inside look at how attackers abuse legitimate software seek out cyber insurance policies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FFIEC Updates Authentication Guidance<a href="https://www.govinfosecurity.com/ffiec-updates-authentication-guidance-a-17300?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Financial Institutions Examination Council (FFIEC) has issued updated its security guidance advising banks to use stronger access controls and multifactor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiWeb OS Command Injection allows takeover servers remotely<a href="https://securityaffairs.co/wordpress/121221/security/fortinet-fortiweb-os-command-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addresses a command injection vulnerability that can allow attackers to take complete control of servers running vulnerable FortiWeb WAF installs. 
+
+
+
+An authenticated attacker could execute arbitrary commands as the root user on the underlying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Terrorist Watchlist Exposed Online with Nearly 1.9M Records<a href="https://threatpost.com/terrorist-watchlist-exposed-online/168737/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered a data cache from the FBI’s Terrorist Screening Center left online without a password or authentication requirement.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: BadAlloc impacts critical infrastructure using BlackBerry QNX<a href="https://www.bleepingcomputer.com/news/security/cisa-badalloc-impacts-critical-infrastructure-using-blackberry-qnx/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA today warned that IoT and OT security flaws known as BadAlloc impact BlackBerry's QNX Real Time Operating System (RTOS) used by critical infrastructure organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of Diavol Ransomware Reveals Possible Link to TrickBot Gang<a href="https://securityintelligence.com/posts/analysis-of-diavol-ransomware-link-trickbot-gang/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code itself is capable of prioritizing file types to encrypt based on a pre-configured list of extensions defined by the attacker. Additionally, it can terminate processes and services as needed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pharmacist faces 120 years in prison for selling vaccination cards on eBay<a href="https://www.bleepingcomputer.com/news/security/pharmacist-faces-120-years-in-prison-for-selling-vaccination-cards-on-ebay/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Illinois pharmacist arrested today faces 120 years in prison for allegedly selling dozens of authentic COVID-19 vaccination record cards issued by the Center for Disease Control and Prevention (CDC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resurgent FluBot malware targets German and Polish banks<a href="https://kkhacklabs.com/resurgent-flubot-malware-targets-german-and-polish-banks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netcraft’s research into the FluBot malware confirms that its operations are expanding rapidly, with a spike in the number of malware distribution pages deployed and finance apps affected.
+</details>
+<div style="text-align: right" markdown="1">
+kkhacklabs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware campaign uses clever 'captcha' to bypass browser warning<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-uses-clever-captcha-to-bypass-browser-warning/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign uses a clever captcha prompt to trick users into bypassing browsers warnings to download the Ursnif (aka Gozi) banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Awards $42,000 for Two Serious Chrome Vulnerabilities<a href="https://www.securityweek.com/google-awards-42000-two-serious-chrome-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these are CVE-2021-30598 and CVE-2021-30599, two type confusion issues in the V8 JavaScript engine that were identified and reported in July by Manfred Paul.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet delays patching zero-day allowing remote server takeover<a href="https://www.bleepingcomputer.com/news/security/fortinet-delays-patching-zero-day-allowing-remote-server-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has delayed patching a zero-day command injection vulnerability found in the FortiWeb web application firewall (WAF) until the end of August.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confucius Uses Pegasus Spyware-related Lures to Target Pakistani Military<a href="https://www.trendmicro.com/en_us/research/21/h/confucius-uses-pegasus-spyware-related-lures-to-target-pakistani.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves a two-step attack. During the first phase, an email without a malicious payload containing content copied from a legitimate Pakistani newspaper’s article is sent to the target.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neurevt Trojan Updated with Backdoor and Information Stealing Capabilities to Target Mexican Organizations<a href="https://blog.talosintelligence.com/2021/08/neurevt-trojan-takes-aim-at-mexican.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This trojan appears to target Mexican organizations. Cisco Talos is tracking these campaigns embedding URLs in the associated droppers, which belong to many major banks in Mexico.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns ThroughTrek Customers of Software Flaw in Millions of Baby Monitors, Cameras<a href="https://www.cyberscoop.com/iot-vulnerability-through-tek-baby-monitor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is in a software protocol made by Taiwanese internet of things (IoT) vendor ThroughTek, which has many customers including the Chinese electronics giant Xiaomi.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
