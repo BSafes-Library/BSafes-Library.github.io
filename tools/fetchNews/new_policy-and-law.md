@@ -11,6 +11,20 @@ nav_order: 900163
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pharmacist faces 120 years in prison for selling vaccination cards on eBay<a href="https://www.bleepingcomputer.com/news/security/pharmacist-faces-120-years-in-prison-for-selling-vaccination-cards-on-ebay/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Illinois pharmacist arrested today faces 120 years in prison for allegedly selling dozens of authentic COVID-19 vaccination record cards issued by the Center for Disease Control and Prevention (CDC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Binance Ordered to Freeze Attackers' Accounts<a href="https://www.cuinfosecurity.com/binance-ordered-to-freeze-attackers-accounts-a-17299?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

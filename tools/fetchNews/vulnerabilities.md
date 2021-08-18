@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple integer overflow vulnerabilities in GPAC Project on Advanced Content<a href="https://blog.talosintelligence.com/2021/08/vulnerability-spotlight-multiple.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit these flaws by sending a specially crafted MP4 file. This could cause an integer overflow eventually resulting in a heap-based buffer overflow that causes memory corruption.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet patches bug letting attackers takeover servers remotely<a href="https://www.bleepingcomputer.com/news/security/fortinet-patches-bug-letting-attackers-takeover-servers-remotely/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released security updates to address a command injection vulnerability that can let attackers take complete control of servers running vulnerable FortiWeb web application firewall (WAF) installations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XSS Bug in SEOPress WordPress Plugin Allows Site Takeover<a href="https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug would allow a number of malicious actions, up to and including full site takeover. The vulnerable plugin is installed on 100,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws Affecting Realtek Wi-Fi SDKs Impact Nearly a Million IoT Devices<a href="https://thehackernews.com/2021/08/multiple-flaws-affecting-realtek-wi-fi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese chip designer Realtek is warning of&nbsp; four security vulnerabilities &nbsp;in three software development kits (SDKs) accompanying its WiFi modules, which are used in almost 200 IoT devices made by at least 65 vendors.  The flaws, which affect Realtek SDK v2.x, Realtek "Jungle" SDK v3.0/v3.1/v3.2/v3.4.x/v3.4T/v3.4T-CT, and Realtek "Luna" SDK up to version 1.3.2, could be abused by attackers to fully compromise the target device and execute arbitrary code with the highest level of privilege —   CVE-2021-35392 &nbsp;(CVSS score: 8.1) - Heap buffer overflow vulnerability in 'WiFi Simple Config' server due to unsafe crafting of SSDP NOTIFY messages  CVE-2021-35393 &nbsp;(CVSS score: 8.1) - Stack buffer overflow vulnerability in 'WiFi Simple Config' server due to unsafe parsing of the UPnP SUBSCRIBE/UNSUBSCRIBE Callback header  CVE-2021-35394 &nbsp;(CVSS score: 9.8) - Multiple buffer overflow vulnerabilities and an arbitrary command injection vulnerability in 'UD
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

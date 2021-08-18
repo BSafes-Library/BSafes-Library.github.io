@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Reduce Exchange Server Downtime in Case of a Disaster?<a href="https://threatpost.com/how-to-reduce-exchange-server-downtime/168344/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exchange downtime can have serious implications on businesses. Thus, it’s important to maintain backups and implement best practices for Exchange servers that can help restore the Exchange server when a disaster strikes with minimal impact and downtime.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

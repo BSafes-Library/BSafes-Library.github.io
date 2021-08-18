@@ -11,6 +11,34 @@ nav_order: 900072
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Facebook says it will keep ban on Taliban content | Rubio reiterates calls for Tik Tok ban after China's reported ownership stake | Pharmacist sold COVID-19 vaccination cards online, prosecutors allege<a href="https://thehill.com//policy/technology/overnights/568286-hillicon-valley-facebook-says-it-will-keep-ban-on-taliban"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platforms are grappling with how to moderate content that&nbsp;supports the Taliban after the group’s rise back to power in Afghanistan over the weekend. The decisions&nbsp;have not been consistent&nbsp;across the industry. Twitter will not impose an overarching ban on such content, diverging from Facebook and YouTube.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Overlooked Security Risks of The Cloud<a href="https://threatpost.com/security-risks-cloud/168754/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nate Warfield, CTO of Prevaliion, discusses the top security concerns for those embracing virtual machines, public cloud storage and cloud strategies for remote working.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 How to Reduce Exchange Server Downtime in Case of a Disaster?<a href="https://threatpost.com/how-to-reduce-exchange-server-downtime/168344/"> Full Text</a>
 </p>
 <details>

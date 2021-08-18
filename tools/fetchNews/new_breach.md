@@ -11,6 +11,20 @@ nav_order: 900029
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Terrorist Watchlist Exposed Online with Nearly 1.9M Records<a href="https://threatpost.com/terrorist-watchlist-exposed-online/168737/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher discovered a data cache from the FBI’s Terrorist Screening Center left online without a password or authentication requirement.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 1.9 million+ records from the FBI’s terrorist watchlist available online<a href="https://securityaffairs.co/wordpress/121213/data-breach/fbi-terrorist-watchlist-leak.html"> Full Text</a>
 </p>
 <details>

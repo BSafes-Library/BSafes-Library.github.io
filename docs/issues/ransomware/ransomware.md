@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware prioritizes revenue and cyberinsurance data theft<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-prioritizes-revenue-and-cyberinsurance-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Training material used by Conti ransomware affiliates was leaked online this month, allowing an inside look at how attackers abuse legitimate software seek out cyber insurance policies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

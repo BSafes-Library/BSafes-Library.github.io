@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FFIEC Updates Authentication Guidance<a href="https://www.govinfosecurity.com/ffiec-updates-authentication-guidance-a-17300?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Financial Institutions Examination Council (FFIEC) has issued updated its security guidance advising banks to use stronger access controls and multifactor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns ThroughTrek Customers of Software Flaw in Millions of Baby Monitors, Cameras<a href="https://www.cyberscoop.com/iot-vulnerability-through-tek-baby-monitor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is in a software protocol made by Taiwanese internet of things (IoT) vendor ThroughTek, which has many customers including the Chinese electronics giant Xiaomi.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

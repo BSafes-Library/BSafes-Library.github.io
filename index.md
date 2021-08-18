@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Govt hackers impersonate HR employees to hit Israeli targets<a href="https://www.bleepingcomputer.com/news/security/govt-hackers-impersonate-hr-employees-to-hit-israeli-targets/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Memory corruption vulnerability found in Daemon Tools Pro<a href="https://blog.talosintelligence.com/2021/08/vulnerability-spotlight-memory.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Facebook says it will keep ban on Taliban content | Rubio reiterates calls for Tik Tok ban after China's reported ownership stake | Pharmacist sold COVID-19 vaccination cards online, prosecutors allege<a href="https://thehill.com//policy/technology/overnights/568286-hillicon-valley-facebook-says-it-will-keep-ban-on-taliban"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kalay cloud platform flaw exposes millions of IoT devices to hack<a href="https://securityaffairs.co/wordpress/121226/hacking/kalay-cloud-platform-critical-flaw.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Overlooked Security Risks of The Cloud<a href="https://threatpost.com/security-risks-cloud/168754/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware prioritizes revenue and cyberinsurance data theft<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-prioritizes-revenue-and-cyberinsurance-data-theft/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FFIEC Updates Authentication Guidance<a href="https://www.govinfosecurity.com/ffiec-updates-authentication-guidance-a-17300?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet FortiWeb OS Command Injection allows takeover servers remotely<a href="https://securityaffairs.co/wordpress/121221/security/fortinet-fortiweb-os-command-injection.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Terrorist Watchlist Exposed Online with Nearly 1.9M Records<a href="https://threatpost.com/terrorist-watchlist-exposed-online/168737/"> Full Text</a>
@@ -186,7 +186,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: BadAlloc impacts critical infrastructure using BlackBerry QNX<a href="https://www.bleepingcomputer.com/news/security/cisa-badalloc-impacts-critical-infrastructure-using-blackberry-qnx/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of Diavol Ransomware Reveals Possible Link to TrickBot Gang<a href="https://securityintelligence.com/posts/analysis-of-diavol-ransomware-link-trickbot-gang/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pharmacist faces 120 years in prison for selling vaccination cards on eBay<a href="https://www.bleepingcomputer.com/news/security/pharmacist-faces-120-years-in-prison-for-selling-vaccination-cards-on-ebay/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resurgent FluBot malware targets German and Polish banks<a href="https://kkhacklabs.com/resurgent-flubot-malware-targets-german-and-polish-banks/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ kkhacklabs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware campaign uses clever 'captcha' to bypass browser warning<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-uses-clever-captcha-to-bypass-browser-warning/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Awards $42,000 for Two Serious Chrome Vulnerabilities<a href="https://www.securityweek.com/google-awards-42000-two-serious-chrome-vulnerabilities?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet delays patching zero-day allowing remote server takeover<a href="https://www.bleepingcomputer.com/news/security/fortinet-delays-patching-zero-day-allowing-remote-server-takeover/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Confucius Uses Pegasus Spyware-related Lures to Target Pakistani Military<a href="https://www.trendmicro.com/en_us/research/21/h/confucius-uses-pegasus-spyware-related-lures-to-target-pakistani.html?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neurevt Trojan Updated with Backdoor and Information Stealing Capabilities to Target Mexican Organizations<a href="https://blog.talosintelligence.com/2021/08/neurevt-trojan-takes-aim-at-mexican.html?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns ThroughTrek Customers of Software Flaw in Millions of Baby Monitors, Cameras<a href="https://www.cyberscoop.com/iot-vulnerability-through-tek-baby-monitor/?&web_view=true"> Full Text</a>

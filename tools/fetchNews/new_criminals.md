@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of Diavol Ransomware Reveals Possible Link to TrickBot Gang<a href="https://securityintelligence.com/posts/analysis-of-diavol-ransomware-link-trickbot-gang/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The code itself is capable of prioritizing file types to encrypt based on a pre-configured list of extensions defined by the attacker. Additionally, it can terminate processes and services as needed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

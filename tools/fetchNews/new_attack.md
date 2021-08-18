@@ -11,6 +11,48 @@ nav_order: 900015
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Govt hackers impersonate HR employees to hit Israeli targets<a href="https://www.bleepingcomputer.com/news/security/govt-hackers-impersonate-hr-employees-to-hit-israeli-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with the Iranian government have focused attack efforts on IT and communication companies in Israel, likely in an attempt to pivot to their real targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware campaign uses clever 'captcha' to bypass browser warning<a href="https://www.bleepingcomputer.com/news/security/malware-campaign-uses-clever-captcha-to-bypass-browser-warning/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign uses a clever captcha prompt to trick users into bypassing browsers warnings to download the Ursnif (aka Gozi) banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confucius Uses Pegasus Spyware-related Lures to Target Pakistani Military<a href="https://www.trendmicro.com/en_us/research/21/h/confucius-uses-pegasus-spyware-related-lures-to-target-pakistani.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves a two-step attack. During the first phase, an email without a malicious payload containing content copied from a legitimate Pakistani newspaper’s article is sent to the target.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Brazilian government discloses National Treasury ransomware attack<a href="https://www.bleepingcomputer.com/news/security/brazilian-government-discloses-national-treasury-ransomware-attack/"> Full Text</a>
 </p>
 <details>
