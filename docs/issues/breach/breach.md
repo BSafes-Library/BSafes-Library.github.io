@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile says hackers stole records belonging to 48.6 million individuals<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-hackers-stole-records-belonging-to-486-million-individuals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile has confirmed that attackers who recently breached its servers stole files containing the personal information of tens of millions of&nbsp;individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

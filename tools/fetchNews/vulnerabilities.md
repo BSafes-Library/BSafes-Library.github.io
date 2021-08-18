@@ -11,6 +11,98 @@ nav_order: 900220
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Memory corruption vulnerability found in Daemon Tools Pro<a href="https://blog.talosintelligence.com/2021/08/vulnerability-spotlight-memory.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-21832 can cause memory corruption in the application if the user opens an adversary-created ISO file that causes an integer overflow. This flaw exists in the way the application parses ISOs.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kalay cloud platform flaw exposes millions of IoT devices to hack<a href="https://securityaffairs.co/wordpress/121226/hacking/kalay-cloud-platform-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FireEye Mandiant researchers have discovered a critical vulnerability in the Kalay cloud platform that exposes millions of IoT devices to attacks. 
+
+
+
+Researchers at FireEye’s Mandiant have discovered a critical vulnerability, tracked as CVE-2021-28372,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiWeb OS Command Injection allows takeover servers remotely<a href="https://securityaffairs.co/wordpress/121221/security/fortinet-fortiweb-os-command-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addresses a command injection vulnerability that can allow attackers to take complete control of servers running vulnerable FortiWeb WAF installs. 
+
+
+
+An authenticated attacker could execute&nbsp;arbitrary commands as the root user on the underlying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: BadAlloc impacts critical infrastructure using BlackBerry QNX<a href="https://www.bleepingcomputer.com/news/security/cisa-badalloc-impacts-critical-infrastructure-using-blackberry-qnx/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA&nbsp;today warned that IoT and OT security flaws known as BadAlloc&nbsp;impact BlackBerry's&nbsp;QNX Real Time Operating System (RTOS) used by&nbsp;critical infrastructure organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Awards $42,000 for Two Serious Chrome Vulnerabilities<a href="https://www.securityweek.com/google-awards-42000-two-serious-chrome-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these are CVE-2021-30598 and CVE-2021-30599, two type confusion issues in the V8 JavaScript engine that were identified and reported in July by Manfred Paul.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet delays patching zero-day allowing remote server takeover<a href="https://www.bleepingcomputer.com/news/security/fortinet-delays-patching-zero-day-allowing-remote-server-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has delayed patching a zero-day&nbsp;command injection vulnerability found in the&nbsp;FortiWeb web application firewall (WAF) until&nbsp;the end of August.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Multiple integer overflow vulnerabilities in GPAC Project on Advanced Content<a href="https://blog.talosintelligence.com/2021/08/vulnerability-spotlight-multiple.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

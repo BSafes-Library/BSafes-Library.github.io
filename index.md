@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese insurer Tokio Marine discloses ransomware attack<a href="https://www.bleepingcomputer.com/news/security/japanese-insurer-tokio-marine-discloses-ransomware-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Houdini malware returns, enterprise risk assessment compromised by Amazon Sidewalk<a href="https://www.helpnetsecurity.com/2021/08/18/houdini-malware/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Target Several Israeli Organizations With Supply-Chain Attacks<a href="https://thehackernews.com/2021/08/iranian-hackers-target-several-israeli.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/121238/security/adobe-fixes-critical-photoshop-flaws.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Memory Bugs in BlackBerry’s QNX Embedded OS Open Devices to Attacks<a href="https://threatpost.com/blackberrys-qnx-devices-attacks/168772/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diavol ransomware sample shows stronger connection to TrickBot gang<a href="https://www.bleepingcomputer.com/news/security/diavol-ransomware-sample-shows-stronger-connection-to-trickbot-gang/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare provider expected to lose $106.8 million following ransomware attack<a href="https://therecord.media/healthcare-provider-expected-to-lose-106-8-million-following-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Does a VPN Protect You from Hackers?<a href="https://thehackernews.com/2021/08/does-vpn-protect-you-from-hackers.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hamburg’s data protection agency (DPA) states that using Zoom violates GDPR<a href="https://securityaffairs.co/wordpress/121232/digital-id/hamburg-dpa-zoom-gdpr.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile says hackers stole records belonging to 48.6 million individuals<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-hackers-stole-records-belonging-to-486-million-individuals/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Credential Stuffing Attacks Against Grocery and Food Delivery Services<a href="https://therecord.media/fbi-warns-of-credential-stuffing-attacks-against-grocery-and-food-delivery-services/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NK Hackers Deploy Browser Exploits on South Korean Sites to Spread Malware<a href="https://thehackernews.com/2021/08/nk-hackers-deploy-browser-exploit-on.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Periscope Equity invests in CyberMaxx to accelerate growth and product innovation<a href="https://www.helpnetsecurity.com/2021/08/18/periscope-equity-cybermaxx/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile Says Hackers Stole Personal Information on Over 40 Million Current and Prospective Customers<a href="https://www.reuters.com/technology/hackers-steal-some-personal-data-about-78-mln-t-mobile-customers-2021-08-18/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Rubrik Strike Deal To Expand Ransomware Protection<a href="https://www.crn.com/news/cloud/microsoft-rubrik-strike-deal-to-expand-ransomware-protection?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Access Brokers: Just 10 Vendors List 46% of All Offers<a href="https://www.govinfosecurity.com/blogs/access-brokers-just-10-vendors-list-46-all-offers-p-3083?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bug in Millions of Flawed IoT Devices Lets Attackers Eavesdrop<a href="https://threatpost.com/bug-iot-millions-devices-attackers-eavesdrop/168729/"> Full Text</a>
@@ -314,7 +314,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple: CSAM Image-Detection Backdoor ‘Narrow’ in Scope<a href="https://threatpost.com/apple-image-detection-backdoor/168727/"> Full Text</a>
@@ -330,7 +330,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2021
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Remote Hacking Flaw Disclosed in Fortinet's FortiWeb WAF<a href="https://thehackernews.com/2021/08/unpatched-remote-hacking-zero-day-flaw.html"> Full Text</a>

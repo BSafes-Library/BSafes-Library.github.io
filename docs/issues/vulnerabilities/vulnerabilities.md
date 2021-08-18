@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/121238/security/adobe-fixes-critical-photoshop-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has addressed two critical security vulnerabilities affecting its Photoshop image manipulation software. 
+
+
+
+Adobe released security updates to address two critical security vulnerabilities, tracked as  CVE-2021-36065 and  CVE-2021-36066, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memory Bugs in BlackBerry’s QNX Embedded OS Open Devices to Attacks<a href="https://threatpost.com/blackberrys-qnx-devices-attacks/168772/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The once-dominant handset maker BlackBerry is busy squashing BadAlloc bugs in its QNX real-time operating system used in cars in medical devices. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Millions of Flawed IoT Devices Lets Attackers Eavesdrop<a href="https://threatpost.com/bug-iot-millions-devices-attackers-eavesdrop/168729/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote attacker could exploit a critical vulnerability to eavesdrop on live audio &amp; video or take control. The bug is in ThroughTek’s Kalay network, used in 83m devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Remote Hacking Flaw Disclosed in Fortinet's FortiWeb WAF<a href="https://thehackernews.com/2021/08/unpatched-remote-hacking-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a new unpatched security vulnerability in Fortinet's web application firewall (WAF) appliances that could be abused by a remote, authenticated attacker to execute malicious commands on the system.  "An OS command injection vulnerability in FortiWeb's management interface (version 6.3.11 and prior) can allow a remote, authenticated attacker to execute arbitrary commands on the system, via the SAML server configuration page," cybersecurity firm Rapid7&nbsp; said &nbsp;in an advisory published Tuesday. "This vulnerability appears to be related to&nbsp; CVE-2021-22123 , which was addressed in&nbsp; FG-IR-20-120 ."   Rapid7 said it discovered and reported the issue in June 2021. Fortinet is expected to release a patch at the end of August with version Fortiweb 6.4.1.  The command injection flaw is yet to be assigned a CVE identifier, but it has a severity rating of 8.7 on the CVSS scoring system. Successful exploitation of the vulnerability can allow auth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

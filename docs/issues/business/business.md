@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Periscope Equity invests in CyberMaxx to accelerate growth and product innovation<a href="https://www.helpnetsecurity.com/2021/08/18/periscope-equity-cybermaxx/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Periscope Equity announced that it has invested in CyberMaxx through a recapitalization in partnership with management. CyberMaxx provides services to prevent, detect, and respond to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Rubrik Strike Deal To Expand Ransomware Protection<a href="https://www.crn.com/news/cloud/microsoft-rubrik-strike-deal-to-expand-ransomware-protection?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Along with an equity investment into Rubrik by Microsoft, the deal will include co-engineering projects aimed at battling ransomware and promoting zero-trust data protection, the companies say.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

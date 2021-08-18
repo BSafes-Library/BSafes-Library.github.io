@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese insurer Tokio Marine discloses ransomware attack<a href="https://www.bleepingcomputer.com/news/security/japanese-insurer-tokio-marine-discloses-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tokio Marine Holdings, a multinational insurance holding company in Japan, announced this week that its Singapore branch, Tokio Marine Insurance Singapore (TMiS), suffered a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Houdini malware returns, enterprise risk assessment compromised by Amazon Sidewalk<a href="https://www.helpnetsecurity.com/2021/08/18/houdini-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research suggests that device identity spoofing threatens to become far more prevalent. Houdini is a well-known remote access trojan (RAT), but the research shows this particular use is novel.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target Several Israeli Organizations With Supply-Chain Attacks<a href="https://thehackernews.com/2021/08/iranian-hackers-target-several-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and communication companies in Israel were at the center of a supply chain attack campaign spearheaded by an Iranian threat actor that involved impersonating the firms and their HR personnel to target victims with fake job offers in an attempt to penetrate their computers and gain access to the company's clients.  The attacks, which occurred in two waves in May and July 2021, have been linked to a hacker group called Siamesekitten (aka Lyceum or Hexane) that has primarily singled out oil, gas, and telecom providers in the Middle East and in Africa at least since 2018, researchers from ClearSky  said  in a report published Tuesday.   Infections undertaken by the adversary commenced with identifying potential victims, who were then enticed with "alluring" job offers in well-known companies like ChipPc and Software AG by posing as human resources department employees from the impersonated firms, only to lead the victims to a phishing website containing weaponized files t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/121238/security/adobe-fixes-critical-photoshop-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has addressed two critical security vulnerabilities affecting its Photoshop image manipulation software. 
+
+
+
+Adobe released security updates to address two critical security vulnerabilities, tracked as  CVE-2021-36065 and  CVE-2021-36066, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memory Bugs in BlackBerry’s QNX Embedded OS Open Devices to Attacks<a href="https://threatpost.com/blackberrys-qnx-devices-attacks/168772/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The once-dominant handset maker BlackBerry is busy squashing BadAlloc bugs in its QNX real-time operating system used in cars in medical devices. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol ransomware sample shows stronger connection to TrickBot gang<a href="https://www.bleepingcomputer.com/news/security/diavol-ransomware-sample-shows-stronger-connection-to-trickbot-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of a Diavol ransomware sample shows a more clear connection with the gang behind the TrickBot botnet and the evolution of the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare provider expected to lose $106.8 million following ransomware attack<a href="https://therecord.media/healthcare-provider-expected-to-lose-106-8-million-following-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bulk of the losses for Scripps Health, representing $91.6 million, came from lost revenues during the four weeks the organization needed to recover from the May ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does a VPN Protect You from Hackers?<a href="https://thehackernews.com/2021/08/does-vpn-protect-you-from-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A virtual private network (VPN) is the perfect solution for a lot of issues you might experience online- accessing blocked sites, hiding your browsing activity, getting rid of internet throttling, finding better deals, and much more.   But does a VPN protect you from hackers? Is your private information and files safer on the internet with a VPN? How much of a difference does it make in terms of data protection?   The answer to these questions isn't as simple as Yes or No. So, keep reading to find out.  Does a VPN Prevent Hacking?   You should definitely use a VPN on a public network or your home wi-fi because it significantly protects your privacy. But a VPN can't simply protect you from every single type of cyber attack. Some attacks are very sophisticated and complex, which even a VPN can't prevent.   But let's look at some of the cyber attacks that a VPN can stop.  1  —  MITM (Man-in-the-Middle) Attack   A MITM attack is when a hacker comes in between you and the p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamburg’s data protection agency (DPA) states that using Zoom violates GDPR<a href="https://securityaffairs.co/wordpress/121232/digital-id/hamburg-dpa-zoom-gdpr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German state's data protection agency (DPA) warns that the use of the videoconferencing platform Zoom violates the European Union's GDPR. 
+
+
+
+The German state's data protection agency (DPA) warns that the Senate Chancellory's use of the popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile says hackers stole records belonging to 48.6 million individuals<a href="https://www.bleepingcomputer.com/news/security/t-mobile-says-hackers-stole-records-belonging-to-486-million-individuals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile has confirmed that attackers who recently breached its servers stole files containing the personal information of tens of millions of individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Credential Stuffing Attacks Against Grocery and Food Delivery Services<a href="https://therecord.media/fbi-warns-of-credential-stuffing-attacks-against-grocery-and-food-delivery-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With billions of user credentials having been leaked online following security breaches over the past decade, credential stuffing attacks are now common across a wide spectrum of industry verticals.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NK Hackers Deploy Browser Exploits on South Korean Sites to Spread Malware<a href="https://thehackernews.com/2021/08/nk-hackers-deploy-browser-exploit-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean threat actor has been discovered taking advantage of two exploits in Internet Explorer to infect victims with a custom implant as part of a strategic web compromise (SWC) targeting a South Korean online newspaper.  Cybersecurity firm Volexity  attributed  the attacks to a threat actor it tracks as InkySquid, and more widely known by the monikers ScarCruft and APT37. Daily NK, the publication in question, is said to have hosted the malicious code from at least late March 2021 until early June 2021.  The "clever disguise of exploit code amongst legitimate code" and the use of custom malware enables the attackers to avoid detection, Volexity researchers said.   The attacks involved tampering with the jQuery JavaScript libraries hosted on the website to serve additional obfuscated JavaScript code from a remote URL, using it to leverage exploits for two Internet Explorer flaws that were patched by Microsoft in  August 2020  and  March 2021 . Successful exploitation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Periscope Equity invests in CyberMaxx to accelerate growth and product innovation<a href="https://www.helpnetsecurity.com/2021/08/18/periscope-equity-cybermaxx/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Periscope Equity announced that it has invested in CyberMaxx through a recapitalization in partnership with management. CyberMaxx provides services to prevent, detect, and respond to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Says Hackers Stole Personal Information on Over 40 Million Current and Prospective Customers<a href="https://www.reuters.com/technology/hackers-steal-some-personal-data-about-78-mln-t-mobile-customers-2021-08-18/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telco said that the stolen data included first and last names, birth dates, Social Security numbers, and driver’s license information from a subset of current and potential customers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Rubrik Strike Deal To Expand Ransomware Protection<a href="https://www.crn.com/news/cloud/microsoft-rubrik-strike-deal-to-expand-ransomware-protection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Along with an equity investment into Rubrik by Microsoft, the deal will include co-engineering projects aimed at battling ransomware and promoting zero-trust data protection, the companies say.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Brokers: Just 10 Vendors List 46% of All Offers<a href="https://www.govinfosecurity.com/blogs/access-brokers-just-10-vendors-list-46-all-offers-p-3083?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given the reliance that many ransomware operations, in particular, appear to place on such "accesses," one surprise might be just how few individuals appear to be serving as initial access brokers.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Millions of Flawed IoT Devices Lets Attackers Eavesdrop<a href="https://threatpost.com/bug-iot-millions-devices-attackers-eavesdrop/168729/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote attacker could exploit a critical vulnerability to eavesdrop on live audio & video or take control. The bug is in ThroughTek’s Kalay network, used in 83m devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple: CSAM Image-Detection Backdoor ‘Narrow’ in Scope<a href="https://threatpost.com/apple-image-detection-backdoor/168727/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computing giant tries to reassure users that the tool won’t be used for mass surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Remote Hacking Flaw Disclosed in Fortinet's FortiWeb WAF<a href="https://thehackernews.com/2021/08/unpatched-remote-hacking-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a new unpatched security vulnerability in Fortinet's web application firewall (WAF) appliances that could be abused by a remote, authenticated attacker to execute malicious commands on the system.  "An OS command injection vulnerability in FortiWeb's management interface (version 6.3.11 and prior) can allow a remote, authenticated attacker to execute arbitrary commands on the system, via the SAML server configuration page," cybersecurity firm Rapid7  said  in an advisory published Tuesday. "This vulnerability appears to be related to  CVE-2021-22123 , which was addressed in  FG-IR-20-120 ."   Rapid7 said it discovered and reported the issue in June 2021. Fortinet is expected to release a patch at the end of August with version Fortiweb 6.4.1.  The command injection flaw is yet to be assigned a CVE identifier, but it has a severity rating of 8.7 on the CVSS scoring system. Successful exploitation of the vulnerability can allow auth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

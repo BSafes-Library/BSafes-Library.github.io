@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare provider expected to lose $106.8 million following ransomware attack<a href="https://therecord.media/healthcare-provider-expected-to-lose-106-8-million-following-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bulk of the losses for Scripps Health, representing $91.6 million, came from lost revenues during the four weeks the organization needed to recover from the May ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does a VPN Protect You from Hackers?<a href="https://thehackernews.com/2021/08/does-vpn-protect-you-from-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A virtual private network (VPN) is the perfect solution for a lot of issues you might experience online- accessing blocked sites, hiding your browsing activity, getting rid of internet throttling, finding better deals, and much more.&nbsp;  But does a VPN protect you from hackers? Is your private information and files safer on the internet with a VPN? How much of a difference does it make in terms of data protection?&nbsp;  The answer to these questions isn't as simple as Yes or No. So, keep reading to find out.  Does a VPN Prevent Hacking?&nbsp;  You should definitely use a VPN on a public network or your home wi-fi because it significantly protects your privacy. But a VPN can't simply protect you from every single type of cyber attack. Some attacks are very sophisticated and complex, which even a VPN can't prevent.&nbsp;  But let's look at some of the cyber attacks that a VPN can stop.  1&nbsp; —&nbsp; MITM (Man-in-the-Middle) Attack&nbsp;  A MITM attack is when a hacker comes in between you and the p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Access Brokers: Just 10 Vendors List 46% of All Offers<a href="https://www.govinfosecurity.com/blogs/access-brokers-just-10-vendors-list-46-all-offers-p-3083?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Given the reliance that many ransomware operations, in particular, appear to place on such "accesses," one surprise might be just how few individuals appear to be serving as initial access brokers.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

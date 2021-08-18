@@ -30,11 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.careersinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193?&web_view=true
-. https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-kubernetes-security-recommendations/
-. https://thehill.com//policy/cybersecurity/567577-report-finds-while-us-government-has-made-progress-on-cybersecurity-more
-. https://www.bleepingcomputer.com/news/security/cisa-badalloc-impacts-critical-infrastructure-using-blackberry-qnx/
-. https://www.cyberscoop.com/iot-vulnerability-through-tek-baby-monitor/?&web_view=true
+. https://therecord.media/fbi-warns-of-credential-stuffing-attacks-against-grocery-and-food-delivery-services/?&web_view=true
 
 Law:
 
