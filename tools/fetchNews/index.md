@@ -37,6 +37,320 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Census Bureau hacked in January 2020 using Citrix exploit<a href="https://www.bleepingcomputer.com/news/security/us-census-bureau-hacked-in-january-2020-using-citrix-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Census Bureau servers were breached on January 11, 2020, by hackers after exploiting an unpatched Citrix ADC zero-day vulnerability as the US Office of Inspector General (OIG) disclosed in a recent report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STARTTLS Flaws Affecting Major Email Clients and Servers<a href="https://cyware.com/news/starttls-flaws-affecting-major-email-clients-and-servers-b68936f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified around 40 different vulnerabilities in a TLS encryption mechanism that could lead to targeted Man-in-the-Middle (MitM) attacks. &nbsp;Upgrading email communication protocols connections via STARTTLS is insecure and exposes the system to a number of security vuln ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Census Bureau computer servers target of January 2020 cyberattack<a href="https://thehill.com//policy/cybersecurity/568490-census-bureau-computer-servers-target-of-january-2020-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Census Bureau computer servers were targeted during a cyberattack last year, but the hackers' attempts to retain access to the system were unsuccessful, according to a watchdog report released Wednesday.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ThroughTek SDK Bug Could Let Attackers Spy On Millions of IoT Devices<a href="https://thehackernews.com/2021/08/critical-throughtek-sdk-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been found affecting several versions of ThroughTek Kalay P2P Software Development Kit (SDK), which could be abused by a remote attacker to take control of an affected device and potentially lead to remote code execution.  Tracked as CVE-2021-28372 (CVSS score: 9.6) and  discovered  by FireEye Mandiant in late 2020, the weakness concerns an improper access control flaw in ThroughTek point-to-point (P2P) products, successful exploitation of which could result in the "ability to listen to live audio, watch real time video data, and compromise device credentials for further attacks based on exposed device functionality."   "Successful exploitation of this vulnerability could permit remote code execution and unauthorized access to sensitive information, such as to camera audio/video feeds," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  noted  in an advisory.  There are believed to be 83 million active devices on the Kala
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Government](/docs/issues/government/government/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is Cyber Command’s Role in Combating Ransomware?<a href="https://www.lawfareblog.com/what-cyber-commands-role-combating-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent ransomware attacks against the United States are raising questions about whether and how the military, specifically U.S. Cyber Command, might counter this type of malicious cyber activity. Here, we provide a road map for policymakers to help guide their decision-making on this critical policy challenge.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://securityaffairs.co/wordpress/121251/malware/diavol-ransomware-trickbot-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers conducted a new analysis of the Diavol ransomware and found new evidence of the link with the gang behind the TrickBot botnet.
+
+
+
+In July, researchers from Fortinet reported that a new ransomware family, tracked as Diavol, might have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kerberos Authentication Spoofing: Don’t Bypass the Spec<a href="https://threatpost.com/kerberos-authentication-spoofing/168767/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaron Kassner, CTO at Silverfort, discusses authentication-bypass bugs in Cisco ASA, F5 Big-IP, IBM QRadar and Palo Alto Networks PAN-OS.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin mixer owner pleads guilty to laundering over $300 million<a href="https://www.bleepingcomputer.com/news/security/bitcoin-mixer-owner-pleads-guilty-to-laundering-over-300-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Larry Dean Harmon, the owner of a dark web cryptocurrency laundering service known as Helix, pleaded guilty today of laundering over $300 million worth of bitcoins between 2014 and 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker Images Harnessed to Harvest Cryptocurrency<a href="https://cyware.com/news/docker-images-harnessed-to-harvest-cryptocurrency-47df2a8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crypto mining scheme deployed five malicious Docker images on Docker Hub to hijack computing resources to mine cryptocurrency. These containers are not being managed by an attacker directly, although there's a script at the entry point that runs an automated attack.&nbsp;Organizations are recomme ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Feds expected to reveal new strategy in Facebook antitrust fight<a href="https://thehill.com//policy/technology/overnights/568473-hillicon-valley-ftc-expected-to-reveal-new-strategy-in-facebook"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission is running up on its deadline to file an amended complaint in its antitrust lawsuit against Facebook, and whatever choice the commission makes could offer some insight into how Chair Lina KhanLina KhanBiden's gambit to lock in the youth vote for Democrats Overnight Energy: White House calls for probe of 'divergences' between oil price and gasoline costs | Rail advocates say infrastructure bill falls short | 34 states dealing with heat advisories as Pacific northwest faces new heatwave White House calls for probe of 'divergences' between oil price and gasoline costs MORE will push forward in cracking down on other tech giants. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BadAlloc Flaw Affects BlackBerry QNX Used in Millions of Cars and Medical Devices<a href="https://thehackernews.com/2021/08/badalloc-flaw-affects-blackberry-qnx.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major vulnerability affecting older versions of BlackBerry's QNX Real-Time Operating System (RTOS) could allow malicious actors to cripple and gain control of a variety of products, including cars, medical, and industrial equipment.  The shortcoming (CVE-2021-22156, CVSS score: 9.0) is part of a broader collection of flaws, collectively dubbed  BadAlloc , that was originally disclosed by Microsoft in April 2021, which could open a backdoor into many of these devices, allowing attackers to commandeer them or disrupt their operations.  "A remote attacker could exploit CVE-2021-22156 to cause a denial-of-service condition or execute arbitrary code on affected devices," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in a Tuesday bulletin. As of writing, there is no evidence of active exploitation of the vulnerability.   BlackBerry QNX technology is  used  worldwide by over 195 million vehicles and embedded systems across a wide range of industries,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile data breach has impacted 48.6 million customers<a href="https://securityaffairs.co/wordpress/121246/data-breach/t-mobile-data-breach-4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile has confirmed that hackers have stolen records belonging to 48.6 million of current and former customers.
+
+
+
+Recently T-Mobile has launched an investigation into a possible security breach after a threat actor started offering for sale 100 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub urges users to enable 2FA after going passwordless<a href="https://www.bleepingcomputer.com/news/security/github-urges-users-to-enable-2fa-after-going-passwordless/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub is urging its user base to toggle on two-factor authentication (2FA) after deprecating password-based authentication for Git operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan's Tokio Marine is the latest insurer to be victimized by ransomware<a href="https://www.cyberscoop.com/tokio-marine-ryan-specialty-group-ransomware-cyber-insurance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware struck Japan’s largest property and casualty insurer, Tokio Marine Holdings, at its Singapore branch. It’s the third major insurer to disclose a ransomware attack in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile: Hackers stole data of 40 million people<a href="https://thehill.com//policy/cybersecurity/568372-t-mobile-says-hackers-stole-data-of-40-million-people"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile said Wednesday that data from 40 million former and prospective customers was compromised by hackers as part of a recent breach of the telecom giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Banking Groups Object to Breach Notification Bill Provisions<a href="https://www.govinfosecurity.com/banking-groups-object-to-breach-notification-bill-provisions-a-17312?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three banking trade groups wrote to the U.S. Senate Intelligence Committee recommending that the Cyber Incident Notification Act of 2021 be amended to include a 72-hour notification requirement.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Optical Adversarial Attack’ uses low-cost projector to trick AI<a href="https://www.hackread.com/optical-adversarial-attack-low-cost-projector-trick-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new attack has been dubbed as an OPtical ADversarial attack (OPAD) and involves using three objects: a low-cost projector, a camera, and a computer in order to execute the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collaboration is the key to protecting critical national infrastructure<a href="https://www.helpnetsecurity.com/2021/08/18/protecting-critical-national-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks on critical infrastructure entities often target OT and ICS and range from modifying various industrial processes to disrupting and even shutting them down entirely.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blumira raises $10.3M Series A to bring cloud-based SIEM to mid-market companies<a href="https://techcrunch.com/2021/08/18/blumira-raises-10-3m-series-a-to-bring-cloud-based-siem-to-mid-market-companies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the new funding, the firm has raised $12.9 million since its founding in 2018. New investor Mercury led the round with Managing Director Aziz Gilani joining Blumira’s board as a director.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Japanese insurer Tokio Marine discloses ransomware attack<a href="https://www.bleepingcomputer.com/news/security/japanese-insurer-tokio-marine-discloses-ransomware-attack/"> Full Text</a>
 </p>
 <details>

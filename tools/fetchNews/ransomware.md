@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diavol ransomware sample shows stronger connection to TrickBot gang<a href="https://www.bleepingcomputer.com/news/security/diavol-ransomware-sample-shows-stronger-connection-to-trickbot-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of a Diavol ransomware sample shows a more clear connection with the gang behind the TrickBot botnet and the evolution of the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

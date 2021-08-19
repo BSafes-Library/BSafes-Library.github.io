@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target Several Israeli Organizations With Supply-Chain Attacks<a href="https://thehackernews.com/2021/08/iranian-hackers-target-several-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and communication companies in Israel were at the center of a supply chain attack campaign spearheaded by an Iranian threat actor that involved impersonating the firms and their HR personnel to target victims with fake job offers in an attempt to penetrate their computers and gain access to the company's clients.  The attacks, which occurred in two waves in May and July 2021, have been linked to a hacker group called Siamesekitten (aka Lyceum or Hexane) that has primarily singled out oil, gas, and telecom providers in the Middle East and in Africa at least since 2018, researchers from ClearSky&nbsp; said &nbsp;in a report published Tuesday.   Infections undertaken by the adversary commenced with identifying potential victims, who were then enticed with "alluring" job offers in well-known companies like ChipPc and Software AG by posing as human resources department employees from the impersonated firms, only to lead the victims to a phishing website containing weaponized files t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Says Hackers Stole Personal Information on Over 40 Million Current and Prospective Customers<a href="https://www.reuters.com/technology/hackers-steal-some-personal-data-about-78-mln-t-mobile-customers-2021-08-18/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telco said that the stolen data included first and last names, birth dates, Social Security numbers, and driver’s license information from a subset of current and potential customers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

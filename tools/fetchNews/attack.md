@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese insurer Tokio Marine discloses ransomware attack<a href="https://www.bleepingcomputer.com/news/security/japanese-insurer-tokio-marine-discloses-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tokio Marine Holdings, a multinational insurance holding company in Japan, announced this week that its Singapore branch, Tokio Marine Insurance Singapore (TMiS), suffered a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

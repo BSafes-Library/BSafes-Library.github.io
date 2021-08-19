@@ -11,6 +11,63 @@ nav_order: 900220
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+STARTTLS Flaws Affecting Major Email Clients and Servers<a href="https://cyware.com/news/starttls-flaws-affecting-major-email-clients-and-servers-b68936f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified around 40 different vulnerabilities in a TLS encryption mechanism that could lead to targeted Man-in-the-Middle (MitM) attacks. &nbsp;Upgrading email communication protocols connections via STARTTLS is insecure and exposes the system to a number of security vuln ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ThroughTek SDK Bug Could Let Attackers Spy On Millions of IoT Devices<a href="https://thehackernews.com/2021/08/critical-throughtek-sdk-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been found affecting several versions of ThroughTek Kalay P2P Software Development Kit (SDK), which could be abused by a remote attacker to take control of an affected device and potentially lead to remote code execution.  Tracked as CVE-2021-28372 (CVSS score: 9.6) and&nbsp; discovered &nbsp;by FireEye Mandiant in late 2020, the weakness concerns an improper access control flaw in ThroughTek point-to-point (P2P) products, successful exploitation of which could result in the "ability to listen to live audio, watch real time video data, and compromise device credentials for further attacks based on exposed device functionality."   "Successful exploitation of this vulnerability could permit remote code execution and unauthorized access to sensitive information, such as to camera audio/video feeds," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; noted &nbsp;in an advisory.  There are believed to be 83 million active devices on the Kala
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kerberos Authentication Spoofing: Don’t Bypass the Spec<a href="https://threatpost.com/kerberos-authentication-spoofing/168767/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaron Kassner, CTO at Silverfort, discusses authentication-bypass bugs in Cisco ASA, F5 Big-IP, IBM QRadar and Palo Alto Networks PAN-OS.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BadAlloc Flaw Affects BlackBerry QNX Used in Millions of Cars and Medical Devices<a href="https://thehackernews.com/2021/08/badalloc-flaw-affects-blackberry-qnx.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major vulnerability affecting older versions of BlackBerry's QNX Real-Time Operating System (RTOS) could allow malicious actors to cripple and gain control of a variety of products, including cars, medical, and industrial equipment.  The shortcoming (CVE-2021-22156, CVSS score: 9.0) is part of a broader collection of flaws, collectively dubbed&nbsp; BadAlloc , that was originally disclosed by Microsoft in April 2021, which could open a backdoor into many of these devices, allowing attackers to commandeer them or disrupt their operations.  "A remote attacker could exploit CVE-2021-22156 to cause a denial-of-service condition or execute arbitrary code on affected devices," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in a Tuesday bulletin. As of writing, there is no evidence of active exploitation of the vulnerability.   BlackBerry QNX technology is&nbsp; used &nbsp;worldwide by over 195 million vehicles and embedded systems across a wide range of industries,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses two critical vulnerabilities in Photoshop<a href="https://securityaffairs.co/wordpress/121238/security/adobe-fixes-critical-photoshop-flaws.html"> Full Text</a>
 </p>
 <details>

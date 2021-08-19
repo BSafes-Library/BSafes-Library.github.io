@@ -11,6 +11,34 @@ nav_order: 900072
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Feds expected to reveal new strategy in Facebook antitrust fight<a href="https://thehill.com//policy/technology/overnights/568473-hillicon-valley-ftc-expected-to-reveal-new-strategy-in-facebook"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission is running up on its deadline to file an amended complaint in its antitrust lawsuit against Facebook, and whatever choice the commission makes could offer some insight into how Chair Lina KhanLina KhanBiden's gambit to lock in the youth vote for Democrats Overnight Energy: White House calls for probe of 'divergences' between oil price and gasoline costs | Rail advocates say infrastructure bill falls short | 34 states dealing with heat advisories as Pacific northwest faces new heatwave White House calls for probe of 'divergences' between oil price and gasoline costs MORE will push forward in cracking down on other tech giants.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collaboration is the key to protecting critical national infrastructure<a href="https://www.helpnetsecurity.com/2021/08/18/protecting-critical-national-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks on critical infrastructure entities often target OT and ICS and range from modifying various industrial processes to disrupting and even shutting them down entirely.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Healthcare provider expected to lose $106.8 million following ransomware attack<a href="https://therecord.media/healthcare-provider-expected-to-lose-106-8-million-following-ransomware-attack/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

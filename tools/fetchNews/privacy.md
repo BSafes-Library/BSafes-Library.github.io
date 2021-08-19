@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamburg’s data protection agency (DPA) states that using Zoom violates GDPR<a href="https://securityaffairs.co/wordpress/121232/digital-id/hamburg-dpa-zoom-gdpr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German state's data protection agency (DPA) warns that the use of the videoconferencing platform Zoom violates the European Union's GDPR. 
+
+
+
+The German state's data protection agency (DPA) warns&nbsp;that the Senate Chancellory's use of the popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

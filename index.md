@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Census Bureau hacked in January 2020 using Citrix exploit<a href="https://www.bleepingcomputer.com/news/security/us-census-bureau-hacked-in-january-2020-using-citrix-exploit/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 STARTTLS Flaws Affecting Major Email Clients and Servers<a href="https://cyware.com/news/starttls-flaws-affecting-major-email-clients-and-servers-b68936f7"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Census Bureau computer servers target of January 2020 cyberattack<a href="https://thehill.com//policy/cybersecurity/568490-census-bureau-computer-servers-target-of-january-2020-cyber-attack"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical ThroughTek SDK Bug Could Let Attackers Spy On Millions of IoT Devices<a href="https://thehackernews.com/2021/08/critical-throughtek-sdk-bug-could-let.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Government](/docs/issues/government/government/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Is Cyber Command’s Role in Combating Ransomware?<a href="https://www.lawfareblog.com/what-cyber-commands-role-combating-ransomware"> Full Text</a>
@@ -115,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://securityaffairs.co/wordpress/121251/malware/diavol-ransomware-trickbot-gang.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kerberos Authentication Spoofing: Don’t Bypass the Spec<a href="https://threatpost.com/kerberos-authentication-spoofing/168767/"> Full Text</a>
@@ -151,7 +151,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin mixer owner pleads guilty to laundering over $300 million<a href="https://www.bleepingcomputer.com/news/security/bitcoin-mixer-owner-pleads-guilty-to-laundering-over-300-million/"> Full Text</a>
@@ -167,7 +167,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Images Harnessed to Harvest Cryptocurrency<a href="https://cyware.com/news/docker-images-harnessed-to-harvest-cryptocurrency-47df2a8d"> Full Text</a>
@@ -184,7 +184,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Feds expected to reveal new strategy in Facebook antitrust fight<a href="https://thehill.com//policy/technology/overnights/568473-hillicon-valley-ftc-expected-to-reveal-new-strategy-in-facebook"> Full Text</a>
@@ -200,7 +200,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BadAlloc Flaw Affects BlackBerry QNX Used in Millions of Cars and Medical Devices<a href="https://thehackernews.com/2021/08/badalloc-flaw-affects-blackberry-qnx.html"> Full Text</a>
@@ -216,7 +216,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile data breach has impacted 48.6 million customers<a href="https://securityaffairs.co/wordpress/121246/data-breach/t-mobile-data-breach-4.html"> Full Text</a>
@@ -236,7 +236,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub urges users to enable 2FA after going passwordless<a href="https://www.bleepingcomputer.com/news/security/github-urges-users-to-enable-2fa-after-going-passwordless/"> Full Text</a>
@@ -252,7 +252,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan's Tokio Marine is the latest insurer to be victimized by ransomware<a href="https://www.cyberscoop.com/tokio-marine-ryan-specialty-group-ransomware-cyber-insurance/?&web_view=true"> Full Text</a>
@@ -268,7 +268,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile: Hackers stole data of 40 million people<a href="https://thehill.com//policy/cybersecurity/568372-t-mobile-says-hackers-stole-data-of-40-million-people"> Full Text</a>
@@ -284,7 +284,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Banking Groups Object to Breach Notification Bill Provisions<a href="https://www.govinfosecurity.com/banking-groups-object-to-breach-notification-bill-provisions-a-17312?&web_view=true"> Full Text</a>
@@ -300,7 +300,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Optical Adversarial Attack’ uses low-cost projector to trick AI<a href="https://www.hackread.com/optical-adversarial-attack-low-cost-projector-trick-ai/?&web_view=true"> Full Text</a>
@@ -316,7 +316,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Collaboration is the key to protecting critical national infrastructure<a href="https://www.helpnetsecurity.com/2021/08/18/protecting-critical-national-infrastructure/?&web_view=true"> Full Text</a>
@@ -332,7 +332,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 18, 2021
+August 18, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blumira raises $10.3M Series A to bring cloud-based SIEM to mid-market companies<a href="https://techcrunch.com/2021/08/18/blumira-raises-10-3m-series-a-to-bring-cloud-based-siem-to-mid-market-companies/?&web_view=true"> Full Text</a>

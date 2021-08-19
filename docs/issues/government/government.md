@@ -11,6 +11,34 @@ nav_order: 900075
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Census Bureau computer servers target of January 2020 cyberattack<a href="https://thehill.com//policy/cybersecurity/568490-census-bureau-computer-servers-target-of-january-2020-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Census Bureau computer servers were targeted during a cyberattack last year, but the hackers' attempts to retain access to the system were unsuccessful, according to a watchdog report released Wednesday.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is Cyber Command’s Role in Combating Ransomware?<a href="https://www.lawfareblog.com/what-cyber-commands-role-combating-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent ransomware attacks against the United States are raising questions about whether and how the military, specifically U.S. Cyber Command, might counter this type of malicious cyber activity. Here, we provide a road map for policymakers to help guide their decision-making on this critical policy challenge.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Credential Stuffing Attacks Against Grocery and Food Delivery Services<a href="https://therecord.media/fbi-warns-of-credential-stuffing-attacks-against-grocery-and-food-delivery-services/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
