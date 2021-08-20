@@ -6,6 +6,67 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 18, 2021 - CSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting Sensitive and Personal Information from Ransomware-Caused Data Breaches<a href="https://publications.bsafes.com/docs/cisa/protecting-sensitive-and-personal-information-from-ransomware-caused-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past several years, the Cybersecurity and Infrastructure Security Agency (CISA) and our partners have responded to a significant number of ransomware incidents, including recent attacks against a U.S. pipeline company and a U.S. software company, which affected managed service providers (MSPs) and their downstream customers.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BadAlloc Vulnerability Affecting BlackBerry QNX RTOS <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-229a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 17, 2021, BlackBerry publicly disclosed that its QNX Real Time Operating System (RTOS) is affected by a BadAlloc vulnerability—CVE-2021-22156. BadAlloc is a collection of vulnerabilities affecting multiple RTOSs and supporting libraries.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Actors Conduct Credential Stuffing Attacks Against US Financial Sector<a href="https://publications.bsafes.com/docs/fbi/pin-2020-0910-0-credential-stuffing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2017, the FBI has received numerous reports on credential stuffing attacksa against US financial institutions, collectively detailing nearly 50,000 account compromises. The victims included banks, financial services providers, insurance companies, and investment. During this timeframe, the FBI noted many reports on attacks targeting application programming interfaces (APIs), which are less likely to require multi-factor authentication (MFA). The attackers masqueraded as legitimate account holders and bank employees to submit fraudulent transactions, including money transfers, bill payments, and credit card reward points purchases. Credential stuffing also caused losses from business costs associated with customer notification, system downtime, and remediationi.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2021 - NSA, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA release Kubernetes Hardening Guidance <a href="https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FORT MEADE, Md.  –  
+The National Security Agency (NSA) and the Cybersecurity and Infrastructure Security Agency (CISA) released a Cybersecurity Technical Report, “Kubernetes Hardening Guidance,” today. This report details threats to Kubernetes environments and provides configuration guidance to minimize risk.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2021 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Artificial Intelligence Risk Management Framework <a href="https://www.federalregister.gov/documents/2021/07/29/2021-16176/artificial-intelligence-risk-management-framework"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) is developing a framework that can be used to improve the management of risks to individuals, organizations, and society associated with artificial intelligence (AI). 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2021 - DHS
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

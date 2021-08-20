@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CEO tried funding his startup by asking insiders to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/ceo-tried-funding-his-startup-by-asking-insiders-to-deploy-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Looming Threat of TCP-based DDoS Reflection Amplification Attack<a href="https://cyware.com/news/the-looming-threat-of-tcp-based-ddos-reflection-amplification-attack-6638d9c6"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Feds lay down marker in Facebook fight<a href="https://thehill.com//policy/technology/overnights/568664-hillicon-valley-khans-ftc-lays-down-a-marker"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find New Evidence Linking Diavol Ransomware to TrickBot Gang<a href="https://thehackernews.com/2021/08/researchers-find-new-evidence-linking.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors stole $97 million from Liquid cryptocurency exchange<a href="https://securityaffairs.co/wordpress/121282/cyber-crime/liquid-cryptocurency-exchange-data-theft.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What’s Next for T-Mobile and Its Customers? – Podcast<a href="https://threatpost.com/whats-next-for-t-mobile-and-its-customers-podcast/168813/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New unofficial Windows patch fixes more PetitPotam attack vectors<a href="https://www.bleepingcomputer.com/news/security/new-unofficial-windows-patch-fixes-more-petitpotam-attack-vectors/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FluBot Malware is on the Fly Again with New Overlay Attacks<a href="https://cyware.com/news/flubot-malware-is-on-the-fly-again-with-new-overlay-attacks-df48de03"> Full Text</a>
@@ -167,7 +167,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco will not patch critical flaw CVE-2021-34730 in EoF routers<a href="https://securityaffairs.co/wordpress/121277/hacking/cisco-cve-2021-34730-remains-unpatched.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Ready Are You for a Ransomware Attack?<a href="https://threatpost.com/how-ready-ransomware-attack/168837/"> Full Text</a>
@@ -203,7 +203,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can bypass Cisco security products in data theft attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-can-bypass-cisco-security-products-in-data-theft-attacks/"> Full Text</a>
@@ -219,7 +219,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Diavol and TrickBot are Connected?<a href="https://cyware.com/news/how-diavol-and-trickbot-are-connected-c177a55a"> Full Text</a>
@@ -236,7 +236,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors hacked US Census Bureau in 2020 by exploiting a Citrix flaw<a href="https://securityaffairs.co/wordpress/121270/reports/us-census-bureau-citrix-flaw.html"> Full Text</a>
@@ -256,7 +256,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cisco Bug in Small Business Routers to Remain Unpatched<a href="https://threatpost.com/critical-cisco-bug-routers-unpatched/168831/"> Full Text</a>
@@ -272,7 +272,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 You can post LinkedIn jobs as ANY employer — so can attackers<a href="https://www.bleepingcomputer.com/news/security/you-can-post-linkedin-jobs-as-any-employer-so-can-attackers/"> Full Text</a>
@@ -288,7 +288,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indra Group Associated with Attacks on Iran<a href="https://cyware.com/news/indra-group-associated-with-attacks-on-iran-076b5372"> Full Text</a>
@@ -305,7 +305,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NK-linked InkySquid APT leverages IE exploits in recent attacks<a href="https://securityaffairs.co/wordpress/121262/apt/inkysquid-apt-ie-exploirs.html"> Full Text</a>
@@ -325,7 +325,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 InkySquid State Actor Exploiting Known IE Bugs<a href="https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/"> Full Text</a>
@@ -341,7 +341,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA shares guidance on how to prevent ransomware data breaches<a href="https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-on-how-to-prevent-ransomware-data-breaches/"> Full Text</a>
@@ -357,7 +357,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers nab wannabe ransomware scammer trying to convince victims to help hack their employer<a href="https://www.cyberscoop.com/demonware-nigeria-ransomware-abnormal-security/?&web_view=true"> Full Text</a>
@@ -373,7 +373,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows EoP Bug Detailed by Google Project Zero<a href="https://threatpost.com/windows-eop-bug-detailed-by-google-project-zero/168823/"> Full Text</a>
@@ -389,7 +389,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Liquid cryptocurency exchange loses over $90 million following hack<a href="https://www.bleepingcomputer.com/news/security/liquid-cryptocurency-exchange-loses-over-90-million-following-hack/"> Full Text</a>
@@ -405,7 +405,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health authorities in 40 countries targeted by COVID‑19 vaccine scammers<a href="https://www.welivesecurity.com/2021/08/18/health-authorities-40-countries-targeted-covid19-vaccine-scammers/?&web_view=true"> Full Text</a>
@@ -421,7 +421,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco won’t fix zero-day RCE vulnerability in end-of-life VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-zero-day-rce-vulnerability-in-end-of-life-vpn-routers/"> Full Text</a>
@@ -437,7 +437,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World Bank and Partners Announce New Global Fund for Cybersecurity<a href="https://www.worldbank.org/en/news/press-release/2021/08/16/world-bank-and-partners-announce-new-global-fund-for-cybersecurity?&web_view=true"> Full Text</a>
@@ -453,7 +453,7 @@ worldbank
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tokyo Olympics Leveraged in Cybercrime Attack<a href="https://www.trendmicro.com/en_us/research/21/h/tokyo-olympics-leveraged-in-cybercrime-attack.html?&web_view=true"> Full Text</a>
