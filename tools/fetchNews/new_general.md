@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Feds lay down marker in Facebook fight<a href="https://thehill.com//policy/technology/overnights/568664-hillicon-valley-khans-ftc-lays-down-a-marker"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook dominated much of the tech&nbsp;discussion&nbsp;Thursday, beginning with CEO Mark ZuckerbergMark Elliot ZuckerbergHillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination FTC hits Facebook over 'inaccurate' explanation for banning researchers Hillicon Valley: Senators highlight security threats from China during rare public hearing | Facebook suspends accounts of NYU researchers who've criticized platform MORE appearing on "CBS This Morning" to preview a new virtual reality workspace.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Ready Are You for a Ransomware Attack?<a href="https://threatpost.com/how-ready-ransomware-attack/168837/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oliver Tavakoli, CTO at Vectra, lays out the different layers of ransomware defense all companies should implement.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World Bank and Partners Announce New Global Fund for Cybersecurity<a href="https://www.worldbank.org/en/news/press-release/2021/08/16/world-bank-and-partners-announce-new-global-fund-for-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The World Bank, along with its partners, announced today the launch of a new Cybersecurity Multi-Donor Trust Fund under the broader Digital Development Partnership (DDP) umbrella program.
+</details>
+<div style="text-align: right" markdown="1">
+worldbank
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tokyo Olympics Leveraged in Cybercrime Attack<a href="https://www.trendmicro.com/en_us/research/21/h/tokyo-olympics-leveraged-in-cybercrime-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals use SEO poisoning to ensure that links to phishing sites and other malicious sites are displayed at the top of search results pages when searching for Olympic-related keywords.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

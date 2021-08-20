@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New unofficial Windows patch fixes more PetitPotam attack vectors<a href="https://www.bleepingcomputer.com/news/security/new-unofficial-windows-patch-fixes-more-petitpotam-attack-vectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A second unofficial patch for the Windows PetitPotam NTLM relay attack has been released to fix further issues not addressed by Microsoft's official security update.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not patch critical flaw CVE-2021-34730 in EoF routers<a href="https://securityaffairs.co/wordpress/121277/hacking/cisco-cve-2021-34730-remains-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has no plan to fix a critical code execution flaw (CVE-2021-34730) in small business RV110W, RV130, RV130W, and RV215W routers
+
+
+
+Cisco has no plan to address a critical code execution vulnerability, tracked as CVE-2021-34730, that affects small...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can bypass Cisco security products in data theft attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-can-bypass-cisco-security-products-in-data-theft-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco said that unauthenticated attackers could bypass TLS inspection filtering tech in multiple products to exfiltrate data from previously compromised servers inside customers' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco Bug in Small Business Routers to Remain Unpatched<a href="https://threatpost.com/critical-cisco-bug-routers-unpatched/168831/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue affects a range of Cisco Wireless-N and Wireless-AC VPN routers that have reached end-of-life.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows EoP Bug Detailed by Google Project Zero<a href="https://threatpost.com/windows-eop-bug-detailed-by-google-project-zero/168823/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft first dismissed the elevation of privilege flaw but decided yesterday that attackers injecting malicious code is worthy of attention.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco won’t fix zero-day RCE vulnerability in end-of-life VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-zero-day-rce-vulnerability-in-end-of-life-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a security advisory published on Wednesday, Cisco said that a critical vulnerability in&nbsp;Universal Plug-and-Play (UPnP) service of multiple small business VPN routers will not be patched because the devices have reached end-of-life.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

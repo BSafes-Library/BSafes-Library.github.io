@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InkySquid State Actor Exploiting Known IE Bugs<a href="https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked APT group leverages known Internet Explorer vulns for watering-hole attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA shares guidance on how to prevent ransomware data breaches<a href="https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-on-how-to-prevent-ransomware-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released guidance to help government and private sector organizations prevent data breaches resulting from ransomware double extortion schemes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,48 @@ nav_order: 900015
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Census Bureau hacked in January 2020 using Citrix exploit<a href="https://www.bleepingcomputer.com/news/security/us-census-bureau-hacked-in-january-2020-using-citrix-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Census Bureau servers were breached on January 11,&nbsp;2020, by hackers after exploiting an unpatched Citrix ADC zero-day vulnerability&nbsp;as the&nbsp;US Office of Inspector General (OIG) disclosed in a recent report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan's Tokio Marine is the latest insurer to be victimized by ransomware<a href="https://www.cyberscoop.com/tokio-marine-ryan-specialty-group-ransomware-cyber-insurance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware struck Japan’s largest property and casualty insurer, Tokio Marine Holdings, at its Singapore branch. It’s the third major insurer to disclose a ransomware attack in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Optical Adversarial Attack’ uses low-cost projector to trick AI<a href="https://www.hackread.com/optical-adversarial-attack-low-cost-projector-trick-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new attack has been dubbed as an OPtical ADversarial attack (OPAD) and involves using three objects: a low-cost projector, a camera, and a computer in order to execute the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Japanese insurer Tokio Marine discloses ransomware attack<a href="https://www.bleepingcomputer.com/news/security/japanese-insurer-tokio-marine-discloses-ransomware-attack/"> Full Text</a>
 </p>
 <details>

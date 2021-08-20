@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health authorities in 40 countries targeted by COVID‑19 vaccine scammers<a href="https://www.welivesecurity.com/2021/08/18/health-authorities-40-countries-targeted-covid19-vaccine-scammers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The warning on COVID-19 vaccine scams was issued to all of INTERPOL’s 194 member countries after the international law enforcement agency registered roughly 60 cases from 40 countries.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

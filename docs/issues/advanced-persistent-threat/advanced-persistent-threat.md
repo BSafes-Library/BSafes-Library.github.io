@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NK-linked InkySquid APT leverages IE exploits in recent attacks<a href="https://securityaffairs.co/wordpress/121262/apt/inkysquid-apt-ie-exploirs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked InkySquid group leverages two Internet Explorer exploits to deliver a custom implant in attacks aimed at a South Korean online newspaper.
+
+
+
+Experts from cybersecurity firm Volexity&nbsp;reported that North Korea-linked InkySquid group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

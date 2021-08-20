@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked US Census Bureau in 2020 by exploiting a Citrix flaw<a href="https://securityaffairs.co/wordpress/121270/reports/us-census-bureau-citrix-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors breached the servers of US Census Bureau on January 11, 2020, exploiting an unpatched Citrix ADC zero-day vulnerability, OIG revealed.
+
+
+
+A report published by the US Office of Inspector General (OIG) revealed that threat actors breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

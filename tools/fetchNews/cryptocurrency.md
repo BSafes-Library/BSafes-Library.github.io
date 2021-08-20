@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker Images Harnessed to Harvest Cryptocurrency<a href="https://cyware.com/news/docker-images-harnessed-to-harvest-cryptocurrency-47df2a8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crypto mining scheme deployed five malicious Docker images on Docker Hub to hijack computing resources to mine cryptocurrency. These containers are not being managed by an attacker directly, although there's a script at the entry point that runs an automated attack.&nbsp;Organizations are recomme ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

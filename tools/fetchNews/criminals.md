@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://securityaffairs.co/wordpress/121251/malware/diavol-ransomware-trickbot-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers conducted a new analysis of the Diavol ransomware and found new evidence of the link with the gang behind the TrickBot botnet.
+
+
+
+In July, researchers from Fortinet reported that a new ransomware family, tracked as Diavol, might have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile: Hackers stole data of 40 million people<a href="https://thehill.com//policy/cybersecurity/568372-t-mobile-says-hackers-stole-data-of-40-million-people"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile&nbsp;said&nbsp;Wednesday that data from 40 million former and prospective customers was compromised by hackers as part of a recent breach of the telecom giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

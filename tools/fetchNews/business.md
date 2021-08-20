@@ -11,6 +11,20 @@ nav_order: 900027
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Blumira raises $10.3M Series A to bring cloud-based SIEM to mid-market companies<a href="https://techcrunch.com/2021/08/18/blumira-raises-10-3m-series-a-to-bring-cloud-based-siem-to-mid-market-companies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the new funding, the firm has raised $12.9 million since its founding in 2018. New investor Mercury led the round with Managing Director Aziz Gilani joining Blumira’s board as a director.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Periscope Equity invests in CyberMaxx to accelerate growth and product innovation<a href="https://www.helpnetsecurity.com/2021/08/18/periscope-equity-cybermaxx/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -34,6 +34,441 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CEO tried funding his startup by asking insiders to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/ceo-tried-funding-his-startup-by-asking-insiders-to-deploy-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Likely inspired by the LockBit ransomware gang, a Nigerian threat actor tried their luck with a $1 million payment lure to recruit an insider to detonate a ransomware payload on the company servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Looming Threat of TCP-based DDoS Reflection Amplification Attack<a href="https://cyware.com/news/the-looming-threat-of-tcp-based-ddos-reflection-amplification-attack-6638d9c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics stated that network middleboxes such as firewalls, Network Address Translators (NATs), load balancers, and Deep Packet Inspection (DPI) boxes can be weaponized to launch more sophisticated DDoS reflection amplification attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Feds lay down marker in Facebook fight<a href="https://thehill.com//policy/technology/overnights/568664-hillicon-valley-khans-ftc-lays-down-a-marker"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook dominated much of the tech discussion Thursday, beginning with CEO Mark ZuckerbergMark Elliot ZuckerbergHillicon Valley: Cryptocurrency clash complicate's infrastructure bill's path forward | FTC hits Facebook over 'inaccurate' explanation for banning researchers | Yelp to allow filtering for business requiring vaccination FTC hits Facebook over 'inaccurate' explanation for banning researchers Hillicon Valley: Senators highlight security threats from China during rare public hearing | Facebook suspends accounts of NYU researchers who've criticized platform MORE appearing on "CBS This Morning" to preview a new virtual reality workspace.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Evidence Linking Diavol Ransomware to TrickBot Gang<a href="https://thehackernews.com/2021/08/researchers-find-new-evidence-linking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details about an early development version of a nascent ransomware strain called Diavol that has been linked to threat actors behind the infamous TrickBot syndicate.  The latest  findings  from IBM X-Force show that the ransomware sample shares similarities to other malware that has been attributed to the cybercrime gang, thus establishing a clearer connection between the two.  In early July, Fortinet  revealed  specifics of an unsuccessful ransomware attack involving Diavol payload targeting one of its customers, highlighting the payload's source code overlaps with that of Conti and its technique of reusing some language from Egregor ransomware in its ransom note.   "As part of a rather unique encryption procedure, Diavol operates using user-mode Asynchronous Procedure Calls (APCs) without a symmetric encryption algorithm," Fortinet researchers previously said. "Usually, ransomware authors aim to complete the encryption oper
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $97 million from Liquid cryptocurency exchange<a href="https://securityaffairs.co/wordpress/121282/cyber-crime/liquid-cryptocurency-exchange-data-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese cryptocurrency exchange Liquid was hit by a cyber attack, threat actors stole $97 Million worth of crypto-currency assets from the company.
+
+
+
+Japan-based cryptocurrency exchange Liquid was hit by a cyber attack that resulted in the theft of $97 Million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Next for T-Mobile and Its Customers? – Podcast<a href="https://threatpost.com/whats-next-for-t-mobile-and-its-customers-podcast/168813/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hopefully not a hacked-up hairball of a “no can do” message when customers rush to change their PINs. In this episode: Corporate resilience vs. the opposite. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New unofficial Windows patch fixes more PetitPotam attack vectors<a href="https://www.bleepingcomputer.com/news/security/new-unofficial-windows-patch-fixes-more-petitpotam-attack-vectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A second unofficial patch for the Windows PetitPotam NTLM relay attack has been released to fix further issues not addressed by Microsoft's official security update.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FluBot Malware is on the Fly Again with New Overlay Attacks<a href="https://cyware.com/news/flubot-malware-is-on-the-fly-again-with-new-overlay-attacks-df48de03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FluBot was found targeting finance apps belonging to Polish and German banks by impersonating the app's login form in a new overlay attack.&nbsp;Earlier, in the month of June, this malware was seen imitating postal and logistic service apps to lure its victims. While smartphone users must restrict  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not patch critical flaw CVE-2021-34730 in EoF routers<a href="https://securityaffairs.co/wordpress/121277/hacking/cisco-cve-2021-34730-remains-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has no plan to fix a critical code execution flaw (CVE-2021-34730) in small business RV110W, RV130, RV130W, and RV215W routers
+
+
+
+Cisco has no plan to address a critical code execution vulnerability, tracked as CVE-2021-34730, that affects small...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Ready Are You for a Ransomware Attack?<a href="https://threatpost.com/how-ready-ransomware-attack/168837/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oliver Tavakoli, CTO at Vectra, lays out the different layers of ransomware defense all companies should implement.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can bypass Cisco security products in data theft attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-can-bypass-cisco-security-products-in-data-theft-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco said that unauthenticated attackers could bypass TLS inspection filtering tech in multiple products to exfiltrate data from previously compromised servers inside customers' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Diavol and TrickBot are Connected?<a href="https://cyware.com/news/how-diavol-and-trickbot-are-connected-c177a55a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM X-Force Threat Intelligence studied different versions of the Diavol ransomware whose code configuration hinted at a possible link to the TrickBot group. TrickBot has been observed using group and campaign IDs, which are used by Diavol as well. Experts say, sharing threat intelligence between o ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked US Census Bureau in 2020 by exploiting a Citrix flaw<a href="https://securityaffairs.co/wordpress/121270/reports/us-census-bureau-citrix-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors breached the servers of US Census Bureau on January 11, 2020, exploiting an unpatched Citrix ADC zero-day vulnerability, OIG revealed.
+
+
+
+A report published by the US Office of Inspector General (OIG) revealed that threat actors breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco Bug in Small Business Routers to Remain Unpatched<a href="https://threatpost.com/critical-cisco-bug-routers-unpatched/168831/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue affects a range of Cisco Wireless-N and Wireless-AC VPN routers that have reached end-of-life.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You can post LinkedIn jobs as ANY employer — so can attackers<a href="https://www.bleepingcomputer.com/news/security/you-can-post-linkedin-jobs-as-any-employer-so-can-attackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anyone can create a job listing on the leading recruitment platform LinkedIn on behalf of any employer—no verification needed. And worse, the employer cannot easily take these down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indra Group Associated with Attacks on Iran<a href="https://cyware.com/news/indra-group-associated-with-attacks-on-iran-076b5372"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research said the Indra APT group was behind crippling Iran’s transport ministry and national train system in a cyberattack recently.&nbsp;Attackers disseminated three different versions of Meteor, Stardust, and Comet wipers into the victim's network.&nbsp;Even though the group has not  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NK-linked InkySquid APT leverages IE exploits in recent attacks<a href="https://securityaffairs.co/wordpress/121262/apt/inkysquid-apt-ie-exploirs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked InkySquid group leverages two Internet Explorer exploits to deliver a custom implant in attacks aimed at a South Korean online newspaper.
+
+
+
+Experts from cybersecurity firm Volexity reported that North Korea-linked InkySquid group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InkySquid State Actor Exploiting Known IE Bugs<a href="https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked APT group leverages known Internet Explorer vulns for watering-hole attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA shares guidance on how to prevent ransomware data breaches<a href="https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-on-how-to-prevent-ransomware-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released guidance to help government and private sector organizations prevent data breaches resulting from ransomware double extortion schemes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers nab wannabe ransomware scammer trying to convince victims to help hack their employer<a href="https://www.cyberscoop.com/demonware-nigeria-ransomware-abnormal-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident, which occurred in mid-August, marks another tactical swerve in the ever-shifting world of ransomware techniques and at least three companies have fallen victim to it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows EoP Bug Detailed by Google Project Zero<a href="https://threatpost.com/windows-eop-bug-detailed-by-google-project-zero/168823/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft first dismissed the elevation of privilege flaw but decided yesterday that attackers injecting malicious code is worthy of attention.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Liquid cryptocurency exchange loses over $90 million following hack<a href="https://www.bleepingcomputer.com/news/security/liquid-cryptocurency-exchange-loses-over-90-million-following-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan-based cryptocurrency exchange Liquid has suspended deposits and withdrawals after attackers have compromised its warm wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health authorities in 40 countries targeted by COVID‑19 vaccine scammers<a href="https://www.welivesecurity.com/2021/08/18/health-authorities-40-countries-targeted-covid19-vaccine-scammers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The warning on COVID-19 vaccine scams was issued to all of INTERPOL’s 194 member countries after the international law enforcement agency registered roughly 60 cases from 40 countries.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco won’t fix zero-day RCE vulnerability in end-of-life VPN routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-zero-day-rce-vulnerability-in-end-of-life-vpn-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a security advisory published on Wednesday, Cisco said that a critical vulnerability in Universal Plug-and-Play (UPnP) service of multiple small business VPN routers will not be patched because the devices have reached end-of-life.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World Bank and Partners Announce New Global Fund for Cybersecurity<a href="https://www.worldbank.org/en/news/press-release/2021/08/16/world-bank-and-partners-announce-new-global-fund-for-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The World Bank, along with its partners, announced today the launch of a new Cybersecurity Multi-Donor Trust Fund under the broader Digital Development Partnership (DDP) umbrella program.
+</details>
+<div style="text-align: right" markdown="1">
+worldbank
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tokyo Olympics Leveraged in Cybercrime Attack<a href="https://www.trendmicro.com/en_us/research/21/h/tokyo-olympics-leveraged-in-cybercrime-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals use SEO poisoning to ensure that links to phishing sites and other malicious sites are displayed at the top of search results pages when searching for Olympic-related keywords.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

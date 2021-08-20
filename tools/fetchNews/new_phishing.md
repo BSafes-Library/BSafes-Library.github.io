@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers nab wannabe ransomware scammer trying to convince victims to help hack their employer<a href="https://www.cyberscoop.com/demonware-nigeria-ransomware-abnormal-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident, which occurred in mid-August, marks another tactical swerve in the ever-shifting world of ransomware techniques and at least three companies have fallen victim to it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub urges users to enable 2FA after going passwordless<a href="https://www.bleepingcomputer.com/news/security/github-urges-users-to-enable-2fa-after-going-passwordless/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub&nbsp;is urging its user base to toggle on&nbsp;two-factor authentication (2FA) after deprecating password-based authentication for&nbsp;Git operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

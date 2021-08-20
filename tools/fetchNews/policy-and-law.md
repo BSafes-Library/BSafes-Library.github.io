@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin mixer owner pleads guilty to laundering over $300 million<a href="https://www.bleepingcomputer.com/news/security/bitcoin-mixer-owner-pleads-guilty-to-laundering-over-300-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Larry Dean Harmon, the owner of a dark web cryptocurrency laundering service known as Helix, pleaded guilty today of laundering over $300 million worth of bitcoins between 2014 and 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Banking Groups Object to Breach Notification Bill Provisions<a href="https://www.govinfosecurity.com/banking-groups-object-to-breach-notification-bill-provisions-a-17312?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three banking trade groups wrote to the U.S. Senate Intelligence Committee recommending that the Cyber Incident Notification Act of 2021 be amended to include a 72-hour notification requirement.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

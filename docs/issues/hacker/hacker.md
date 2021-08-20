@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CEO tried funding his startup by asking insiders to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/ceo-tried-funding-his-startup-by-asking-insiders-to-deploy-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Likely inspired by the LockBit ransomware gang, a Nigerian threat actor tried their luck with a $1 million payment lure to recruit an insider to detonate a ransomware payload on the company servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You can post LinkedIn jobs as ANY employer — so can attackers<a href="https://www.bleepingcomputer.com/news/security/you-can-post-linkedin-jobs-as-any-employer-so-can-attackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anyone can create a job listing on the leading recruitment platform LinkedIn on behalf of any employer—no verification needed. And worse, the employer cannot easily&nbsp;take these down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

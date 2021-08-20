@@ -8,6 +8,53 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Evidence Linking Diavol Ransomware to TrickBot Gang<a href="https://thehackernews.com/2021/08/researchers-find-new-evidence-linking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details about an early development version of a nascent ransomware strain called Diavol that has been linked to threat actors behind the infamous TrickBot syndicate.  The latest&nbsp; findings &nbsp;from IBM X-Force show that the ransomware sample shares similarities to other malware that has been attributed to the cybercrime gang, thus establishing a clearer connection between the two.  In early July, Fortinet&nbsp; revealed &nbsp;specifics of an unsuccessful ransomware attack involving Diavol payload targeting one of its customers, highlighting the payload's source code overlaps with that of Conti and its technique of reusing some language from Egregor ransomware in its ransom note.   "As part of a rather unique encryption procedure, Diavol operates using user-mode Asynchronous Procedure Calls (APCs) without a symmetric encryption algorithm," Fortinet researchers previously said. "Usually, ransomware authors aim to complete the encryption oper
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $97 million from Liquid cryptocurency exchange<a href="https://securityaffairs.co/wordpress/121282/cyber-crime/liquid-cryptocurency-exchange-data-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese cryptocurrency exchange Liquid was hit by a cyber attack, threat actors stole $97 Million worth of crypto-currency assets from the company.
+
+
+
+Japan-based cryptocurrency exchange Liquid was hit by a cyber attack that resulted in the theft of $97 Million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indra Group Associated with Attacks on Iran<a href="https://cyware.com/news/indra-group-associated-with-attacks-on-iran-076b5372"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research said the Indra APT group was behind crippling Iran’s transport ministry and national train system in a cyberattack recently.&nbsp;Attackers disseminated three different versions of Meteor, Stardust, and Comet wipers into the victim's network.&nbsp;Even though the group has not  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

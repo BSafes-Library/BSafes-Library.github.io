@@ -31,6 +31,7 @@
 
 Alerts:
 . https://therecord.media/fbi-warns-of-credential-stuffing-attacks-against-grocery-and-food-delivery-services/?&web_view=true
+. https://www.bleepingcomputer.com/news/security/cisa-shares-guidance-on-how-to-prevent-ransomware-data-breaches/
 
 Law:
 
