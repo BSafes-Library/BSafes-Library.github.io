@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore real estate firm breached by ALTDOS<a href="https://www.databreaches.net/singapore-real-estate-firm-breached-by-altdos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data reportedly includes 969 databases from ACSystem, NewOrangeTee, OT_Analytics, OT_Leave, and ProjInfoListing, ranging from corporate/financial records to customer private personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

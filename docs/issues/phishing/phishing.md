@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Docs Scams Still Pose a Threat<a href="https://www.wired.com/story/google-docs-scams-threat-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In research presented at the Defcon security conference this month, a researcher found workarounds that attackers could potentially use to get past Google's enhanced Workspace protections.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 20th 2021 - Exploiting Windows<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-20th-2021-exploiting-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs continue to attack schools, companies, and even hospitals worldwide with little sign of letting up. Below we have tracked some of the ransomware stories that we are following this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockFile ransomware uses PetitPotam attack to hijack Windows domains<a href="https://www.bleepingcomputer.com/news/security/lockfile-ransomware-uses-petitpotam-attack-to-hijack-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one ransomware threat actor has started to leverage the recently discovered&nbsp;PetitPotam NTLM relay attack&nbsp;method to take over the Windows domain on&nbsp;various networks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware decryptor lets victims recover files for free<a href="https://www.bleepingcomputer.com/news/security/synack-ransomware-decryptor-lets-victims-recover-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft has released a decryptor for the SynAck Ransomware, allowing victims to decrypt their encrypted files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

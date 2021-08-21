@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Key QAnon influencer 'GhostEzra' identified<a href="https://thehill.com//policy/technology/overnights/568812-hillicon-valley-key-qanon-influencer-ghostezra-identified"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of a busy news week, a key member of the QAnon community has potentially been identified.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

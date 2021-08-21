@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Group Asking Insiders for Help in Planting Ransomware<a href="https://thehackernews.com/2021/08/cybercrime-group-asking-insiders-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian threat actor has been observed attempting to recruit employees by offering them to pay $1 million in bitcoins to deploy Black Kingdom ransomware on companies' networks as part of an insider threat scheme.  "The sender tells the employee that if they're able to deploy ransomware on a company computer or Windows server, then they would be paid $1 million in bitcoin, or 40% of the presumed $2.5 million ransom," Abnormal Security&nbsp; said &nbsp;in a report published Thursday. "The employee is told they can launch the ransomware physically or remotely. The sender provided two methods to contact them if the employee is interested—an Outlook email account and a Telegram username."   Black Kingdom, also known as DemonWare and DEMON, attracted attention earlier this March when threat actors were found&nbsp; exploiting ProxyLogon flaws &nbsp;impacting Microsoft Exchange Servers to infect unpatched systems with the ransomware strain.  Abnormal Security, which detected and bl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

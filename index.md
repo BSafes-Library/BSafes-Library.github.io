@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OPAD: A New Adversarial Attack Targeting Artificial Intelligence<a href="https://cyware.com/news/opad-a-new-adversarial-attack-targeting-artificial-intelligence-b2c9c90a"> Full Text</a>
@@ -51,7 +51,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA releases guidance on how to prevent ransomware data breaches<a href="https://securityaffairs.co/wordpress/121338/security/cisa-guidance-prevent-ransomware.html"> Full Text</a>
@@ -71,7 +71,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore real estate firm breached by ALTDOS<a href="https://www.databreaches.net/singapore-real-estate-firm-breached-by-altdos/?&web_view=true"> Full Text</a>
@@ -87,7 +87,7 @@ Data Breaches
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lojas Renner, Brazilian largest clothing store chain, was hit by ransomware<a href="https://securityaffairs.co/wordpress/121333/cyber-crime/lojas-renner-ransomware.html"> Full Text</a>
@@ -107,7 +107,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://www.cyberdefensemagazine.com/new-analysis/?&web_view=true"> Full Text</a>
@@ -123,7 +123,7 @@ Cyber Defense Magazine
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hacker Group Uses Browser Exploits<a href="https://gbhackers.com/north-korean-hacker-group-uses-browser-exploits/?&web_view=true"> Full Text</a>
@@ -139,7 +139,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Docs Scams Still Pose a Threat<a href="https://www.wired.com/story/google-docs-scams-threat-phishing/?&web_view=true"> Full Text</a>
@@ -155,7 +155,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google shares details of unpatched Windows AppContainer vulnerability<a href="https://www.hackread.com/google-unpatched-windows-appcontainer-vulnerability/?&web_view=true"> Full Text</a>
@@ -171,7 +171,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet Systems Consortium (ISC) fixes High-Severity DoS flaw in BIND DNS Software<a href="https://securityaffairs.co/wordpress/121316/security/bind-dns-dos-flaw.html?&web_view=true"> Full Text</a>

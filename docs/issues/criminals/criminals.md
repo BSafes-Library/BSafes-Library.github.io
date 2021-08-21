@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://www.cyberdefensemagazine.com/new-analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July, researchers from Fortinet reported that a new ransomware family, tracked as Diavol, might have been developed by Wizard Spider, the cybercrime gang behind the TrickBot botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Defense Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

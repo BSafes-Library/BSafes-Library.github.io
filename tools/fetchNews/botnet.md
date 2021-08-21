@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozi IoT Botnet Now Also Targets Netgear, Huawei, and ZTE Network Gateways<a href="https://thehackernews.com/2021/08/mozi-iot-botnet-now-also-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozi, a peer-to-peer (P2P) botnet known to target IoT devices, has gained new capabilities that allow it to achieve persistence on network gateways manufactured by Netgear, Huawei, and ZTE, according to new findings.  "Network gateways are a particularly juicy target for adversaries because they are ideal as initial access points to corporate networks," researchers at Microsoft Security Threat Intelligence Center and Section 52 at Azure Defender for IoT&nbsp; said &nbsp;in a technical write-up. "By infecting routers, they can perform man-in-the-middle (MITM) attacks—via HTTP hijacking and DNS spoofing—to compromise endpoints and deploy ransomware or cause safety incidents in OT facilities."   First&nbsp; documented &nbsp;by Netlab 360 in December 2019, Mozi has a history of infecting routers and digital video recorders in order to assemble them into an IoT botnet, which could be abused for launching distributed denial-of-service (DDoS) attacks, data exfiltration, and payload execution
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozi P2P Botnet also targets Netgear, Huawei, and ZTE devices<a href="https://securityaffairs.co/wordpress/121306/malware/mozi-botnet-targets-netgear-huawei-zte.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozi botnet continues to evolve, its authors implemented new capabilities to target Netgear, Huawei, and ZTE network gateways.
+
+
+
+Microsoft researchers reported that the Mozi botnet was improved by implementing news capabilities to target network gateways...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
