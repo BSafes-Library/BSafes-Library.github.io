@@ -34,6 +34,159 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPAD: A New Adversarial Attack Targeting Artificial Intelligence<a href="https://cyware.com/news/opad-a-new-adversarial-attack-targeting-artificial-intelligence-b2c9c90a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new adversarial attack, OPAD, that can gull AI technologies to modify the appearance of real 3D objects.&nbsp;One of the critical factors of such an attack is that no physical access is required for the objects. The successful demonstration of OPAD shows the possibility of  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA releases guidance on how to prevent ransomware data breaches<a href="https://securityaffairs.co/wordpress/121338/security/cisa-guidance-prevent-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) released guidance on how to prevent data breaches resulting from ransomware attacks.
+
+
+
+Most of the recent ransomware attack resulted in data breaches for the victims, threat actors implemented...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore real estate firm breached by ALTDOS<a href="https://www.databreaches.net/singapore-real-estate-firm-breached-by-altdos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data reportedly includes 969 databases from ACSystem, NewOrangeTee, OT_Analytics, OT_Leave, and ProjInfoListing, ranging from corporate/financial records to customer private personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Data Breaches
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lojas Renner, Brazilian largest clothing store chain, was hit by ransomware<a href="https://securityaffairs.co/wordpress/121333/cyber-crime/lojas-renner-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lojas Renner, the largest Brazilian department stores clothing company, suffered a ransomware attack that impacted its IT infrastructure.
+
+
+
+Lojas Renner, the largest Brazilian department stores clothing company, announced to have suffered a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://www.cyberdefensemagazine.com/new-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July, researchers from Fortinet reported that a new ransomware family, tracked as Diavol, might have been developed by Wizard Spider, the cybercrime gang behind the TrickBot botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Defense Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Uses Browser Exploits<a href="https://gbhackers.com/north-korean-hacker-group-uses-browser-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security experts of the cybersecurity firm, Volexity have recently reported an attack through which the North Korean Hacker Group using browser exploits to deploy the customer malware on the website.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Docs Scams Still Pose a Threat<a href="https://www.wired.com/story/google-docs-scams-threat-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In research presented at the Defcon security conference this month, a researcher found workarounds that attackers could potentially use to get past Google's enhanced Workspace protections.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google shares details of unpatched Windows AppContainer vulnerability<a href="https://www.hackread.com/google-unpatched-windows-appcontainer-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero researcher James Forshaw shared details of a Windows AppContainer vulnerability after Microsoft backtracked on its previous stance of not fixing the flaw and announcing to address it soon.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Systems Consortium (ISC) fixes High-Severity DoS flaw in BIND DNS Software<a href="https://securityaffairs.co/wordpress/121316/security/bind-dns-dos-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) has released security updates to address a high-severity denial-of-service (DoS) vulnerability, tracked as CVE-2021-25218, that affects its BIND DNS software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
