@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China passes strict data privacy law protecting personal data<a href="https://thehill.com//policy/technology/568746-china-passes-strict-data-privacy-law-protecting-personal-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China’s top legislative body on Friday passed a new data privacy law that places limits on companies’ collection of personal user data, the latest action in the government’s ongoing efforts to tighten restrictions on tech giants operating in the country.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Looming Threat of TCP-based DDoS Reflection Amplification Attack<a href="https://cyware.com/news/the-looming-threat-of-tcp-based-ddos-reflection-amplification-attack-6638d9c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics stated that network middleboxes such as firewalls, Network Address Translators (NATs), load balancers, and Deep Packet Inspection (DPI) boxes can be weaponized to launch more sophisticated DDoS reflection amplification attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

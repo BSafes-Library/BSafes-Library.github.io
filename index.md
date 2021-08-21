@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 20th 2021 - Exploiting Windows<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-20th-2021-exploiting-windows/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud load balancer snafu leads to 3D printer user printing on a stranger's kit<a href="https://www.theregister.com/2021/08/20/3d_printer_spaghetti_detectives_cloud_snafu/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Key QAnon influencer 'GhostEzra' identified<a href="https://thehill.com//policy/technology/overnights/568812-hillicon-valley-key-qanon-influencer-ghostezra-identified"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare mitigated one of the largest DDoS attack involving 17.2 million rps<a href="https://thehackernews.com/2021/08/cloudflare-mitigated-one-of-largest.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emsisoft releases free SynAck ransomware decryptor<a href="https://securityaffairs.co/wordpress/121328/malware/synack-ransomware-decryptor.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web Censorship Systems Can Facilitate Massive DDoS Attacks<a href="https://threatpost.com/censorship-systems-ddos-attacks/168853/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockFile ransomware uses PetitPotam attack to hijack Windows domains<a href="https://www.bleepingcomputer.com/news/security/lockfile-ransomware-uses-petitpotam-attack-to-hijack-windows-domains/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare says it mitigated a record-breaking 17.2M rps DDoS attack<a href="https://therecord.media/cloudflare-says-it-mitigated-a-record-breaking-17-2m-rps-ddos-attack/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China passes strict data privacy law protecting personal data<a href="https://thehill.com//policy/technology/568746-china-passes-strict-data-privacy-law-protecting-personal-data"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShadowPad Malware is Becoming a Favorite Choice of Chinese Espionage Groups<a href="https://thehackernews.com/2021/08/shadowpad-malware-is-becoming-favorite.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare mitigated the largest ever volumetric DDoS attack to date<a href="https://securityaffairs.co/wordpress/121321/hacking/largest-ever-volumetric-ddos.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SynAck ransomware decryptor lets victims recover files for free<a href="https://www.bleepingcomputer.com/news/security/synack-ransomware-decryptor-lets-victims-recover-files-for-free/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity DoS Vulnerability Patched in BIND DNS Software<a href="https://www.securityweek.com/high-severity-dos-vulnerability-patched-bind-dns-software?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Group Asking Insiders for Help in Planting Ransomware<a href="https://thehackernews.com/2021/08/cybercrime-group-asking-insiders-for.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet Systems Consortium (ISC) fixes High-Severity DoS flaw in BIND DNS Software<a href="https://securityaffairs.co/wordpress/121316/security/bind-dns-dos-flaw.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HTTP DDoS attacks reach unprecedented 17 million requests per second<a href="https://www.bleepingcomputer.com/news/security/http-ddos-attacks-reach-unprecedented-17-million-requests-per-second/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Europe, Flubot Malware Campaign Hits Australians via Scam Text Messages<a href="https://www.theguardian.com/technology/2021/aug/20/australians-hit-by-flubot-malware-that-arrives-by-text-message?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ The Guardian
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozi IoT Botnet Now Also Targets Netgear, Huawei, and ZTE Network Gateways<a href="https://thehackernews.com/2021/08/mozi-iot-botnet-now-also-targets.html"> Full Text</a>
@@ -334,7 +334,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozi P2P Botnet also targets Netgear, Huawei, and ZTE devices<a href="https://securityaffairs.co/wordpress/121306/malware/mozi-botnet-targets-netgear-huawei-zte.html"> Full Text</a>
@@ -354,7 +354,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile data breach just got worse — now at 54 million customers<a href="https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-just-got-worse-now-at-54-million-customers/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: T-Mobile probe into breach finds more customers hit, tally now at 53 mln<a href="https://www.reuters.com/technology/t-mobile-says-hackers-accessed-data-another-53-mln-subscribers-2021-08-20/?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns of Server Name Identification data exfiltration flaw in multiple products<a href="https://securityaffairs.co/wordpress/121299/security/cisco-sni-data-exfiltration-flaw.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus iPhone hacks used as lure in extortion scheme<a href="https://www.bleepingcomputer.com/news/security/pegasus-iphone-hacks-used-as-lure-in-extortion-scheme/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Human Rights Alliance Karapatan Faces Weeks-long DDOS Attacks<a href="https://www.hackread.com/human-rights-watchdog-karapatan-ddos-attacks/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 637 flaws in industrial control system (ICS) products were published in H1 2021<a href="https://securityaffairs.co/wordpress/121287/ics-scada/ics-flaws-report-h1-2021.html"> Full Text</a>
@@ -458,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AT&T denies data breach after hacker auctions 70 million user database<a href="https://www.bleepingcomputer.com/news/security/atandt-denies-data-breach-after-hacker-auctions-70-million-user-database/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 20, 2021
+August 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social account thief goes to prison for stealing, trading nude photos<a href="https://www.bleepingcomputer.com/news/security/social-account-thief-goes-to-prison-for-stealing-trading-nude-photos/"> Full Text</a>
@@ -490,7 +490,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 Contact-Tracing Data Exposed, Fake Vax Cards Circulate<a href="https://threatpost.com/covid-contact-tracing-exposed-fake-vax-cards/168821/"> Full Text</a>
@@ -506,7 +506,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Postmortem on U.S. Census Hack Exposes Cybersecurity Failures<a href="https://threatpost.com/postmortem-on-u-s-census-hack-exposes-cybersecurity-failures/168814/"> Full Text</a>
@@ -522,7 +522,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Found in Older Cisco Small Business Routers Won't Be Fixed<a href="https://thehackernews.com/2021/08/critical-flaw-found-in-older-cisco.html"> Full Text</a>
@@ -538,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 You can post LinkedIn jobs as almost ANY employer — so can attackers<a href="https://www.bleepingcomputer.com/news/security/you-can-post-linkedin-jobs-as-almost-any-employer-so-can-attackers/"> Full Text</a>

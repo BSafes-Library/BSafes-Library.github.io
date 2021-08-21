@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social account thief goes to prison for stealing, trading nude photos<a href="https://www.bleepingcomputer.com/news/security/social-account-thief-goes-to-prison-for-stealing-trading-nude-photos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A New York man received a three year sentence in federal prison for hacking social media accounts of dozens of female college students and stealing nude photos and videos of them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

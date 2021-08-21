@@ -34,7 +34,511 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2021
+August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 20th 2021 - Exploiting Windows<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-20th-2021-exploiting-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs continue to attack schools, companies, and even hospitals worldwide with little sign of letting up. Below we have tracked some of the ransomware stories that we are following this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud load balancer snafu leads to 3D printer user printing on a stranger's kit<a href="https://www.theregister.com/2021/08/20/3d_printer_spaghetti_detectives_cloud_snafu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just over 70 of The Spaghetti Detective's users were able to control others' 3D printing devices as a result – something the service said it doesn't normally allow to happen.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Key QAnon influencer 'GhostEzra' identified<a href="https://thehill.com//policy/technology/overnights/568812-hillicon-valley-key-qanon-influencer-ghostezra-identified"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of a busy news week, a key member of the QAnon community has potentially been identified. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated one of the largest DDoS attack involving 17.2 million rps<a href="https://thehackernews.com/2021/08/cloudflare-mitigated-one-of-largest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and website security company Cloudflare on Thursday disclosed that it mitigated the largest ever volumetric distributed denial of service (DDoS) attack recorded to date.  The attack, launched via a Mirai botnet, is said to have targeted an unnamed customer in the financial industry last month. "Within seconds, the botnet bombarded the Cloudflare edge with over 330 million attack requests," the company  noted , at one point reaching a record high of 17.2 million requests-per-second (rps), making it three times bigger than previously reported HTTP DDoS attacks.   Volumetric DDoS attacks are designed to target a specific network with an intention to overwhelm its bandwidth capacity and often utilize  reflective amplification techniques  to scale their attack and cause as much operational disruption as possible.  They also typically originate from a network of malware-infected systems — consisting of computers, servers, and IoT devices — enabling threat actors
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft releases free SynAck ransomware decryptor<a href="https://securityaffairs.co/wordpress/121328/malware/synack-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft researchers have released a decryptor for the SynAck Ransomware that could allow victims of the gang to decrypt their files for free 
+
+
+
+Emsisoft has released a free decryptor for SynAck Ransomware that can allow victims of the gang to decrypt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Censorship Systems Can Facilitate Massive DDoS Attacks<a href="https://threatpost.com/censorship-systems-ddos-attacks/168853/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems are ripe for abuse by attackers who can abuse systems to launch DDoS attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockFile ransomware uses PetitPotam attack to hijack Windows domains<a href="https://www.bleepingcomputer.com/news/security/lockfile-ransomware-uses-petitpotam-attack-to-hijack-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least one ransomware threat actor has started to leverage the recently discovered PetitPotam NTLM relay attack method to take over the Windows domain on various networks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare says it mitigated a record-breaking 17.2M rps DDoS attack<a href="https://therecord.media/cloudflare-says-it-mitigated-a-record-breaking-17-2m-rps-ddos-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare said this attack peaked at 17.2 million HTTP requests/second (rps), a figure that the company described as almost three times larger than any previously reported volumetric DDoS attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China passes strict data privacy law protecting personal data<a href="https://thehill.com//policy/technology/568746-china-passes-strict-data-privacy-law-protecting-personal-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China’s top legislative body on Friday passed a new data privacy law that places limits on companies’ collection of personal user data, the latest action in the government’s ongoing efforts to tighten restrictions on tech giants operating in the country. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowPad Malware is Becoming a Favorite Choice of Chinese Espionage Groups<a href="https://thehackernews.com/2021/08/shadowpad-malware-is-becoming-favorite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShadowPad, an infamous Windows backdoor that allows attackers to download further malicious modules or steal data, has been put to use by five different Chinese threat clusters since 2017.  "The adoption of ShadowPad significantly reduces the costs of development and maintenance for threat actors," SentinelOne researchers Yi-Jhen Hsieh and Joey Chen  said  in a detailed overview of the malware, adding "some threat groups stopped developing their own backdoors after they gained access to ShadowPad."  The American cybersecurity firm dubbed ShadowPad a "masterpiece of privately sold malware in Chinese espionage."   A successor to PlugX and a modular malware platform since 2015,  ShadowPad  catapulted to widespread attention in the wake of supply chain incidents targeting  NetSarang ,  CCleaner , and  ASUS , leading the operators to shift tactics and update their defensive measures with advanced anti-detection and persistence techniques.   More recently, atta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated the largest ever volumetric DDoS attack to date<a href="https://securityaffairs.co/wordpress/121321/hacking/largest-ever-volumetric-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and website security company Cloudflare announced to have mitigated the largest ever volumetric DDoS attack to date.
+
+
+
+Cloudflare, the web infrastructure and website security company, announced that it has mitigated the largest ever...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SynAck ransomware decryptor lets victims recover files for free<a href="https://www.bleepingcomputer.com/news/security/synack-ransomware-decryptor-lets-victims-recover-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft has released a decryptor for the SynAck Ransomware, allowing victims to decrypt their encrypted files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity DoS Vulnerability Patched in BIND DNS Software<a href="https://www.securityweek.com/high-severity-dos-vulnerability-patched-bind-dns-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) this week publicly announced the availability of patches for a high-severity denial-of-service (DoS) vulnerability affecting its BIND DNS software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Group Asking Insiders for Help in Planting Ransomware<a href="https://thehackernews.com/2021/08/cybercrime-group-asking-insiders-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian threat actor has been observed attempting to recruit employees by offering them to pay $1 million in bitcoins to deploy Black Kingdom ransomware on companies' networks as part of an insider threat scheme.  "The sender tells the employee that if they're able to deploy ransomware on a company computer or Windows server, then they would be paid $1 million in bitcoin, or 40% of the presumed $2.5 million ransom," Abnormal Security  said  in a report published Thursday. "The employee is told they can launch the ransomware physically or remotely. The sender provided two methods to contact them if the employee is interested—an Outlook email account and a Telegram username."   Black Kingdom, also known as DemonWare and DEMON, attracted attention earlier this March when threat actors were found  exploiting ProxyLogon flaws  impacting Microsoft Exchange Servers to infect unpatched systems with the ransomware strain.  Abnormal Security, which detected and bl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Systems Consortium (ISC) fixes High-Severity DoS flaw in BIND DNS Software<a href="https://securityaffairs.co/wordpress/121316/security/bind-dns-dos-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) addressed a high-severity denial-of-service (DoS) flaw (CVE-2021-25218) affecting the BIND DNS software.
+
+
+
+The Internet Systems Consortium (ISC) has released security updates to address a high-severity denial-of-service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP DDoS attacks reach unprecedented 17 million requests per second<a href="https://www.bleepingcomputer.com/news/security/http-ddos-attacks-reach-unprecedented-17-million-requests-per-second/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A distributed denial-of-service (DDoS) attack earlier this year takes the top spot for the largest such incident, peaking at 17.2 million requests per second (rps).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Europe, Flubot Malware Campaign Hits Australians via Scam Text Messages<a href="https://www.theguardian.com/technology/2021/aug/20/australians-hit-by-flubot-malware-that-arrives-by-text-message?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FluBot is a type of malware targeting Android users, but iPhone users can also receive messages. It tells the receiver they missed a call or have a new voicemail, providing a fake link to listen.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozi IoT Botnet Now Also Targets Netgear, Huawei, and ZTE Network Gateways<a href="https://thehackernews.com/2021/08/mozi-iot-botnet-now-also-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozi, a peer-to-peer (P2P) botnet known to target IoT devices, has gained new capabilities that allow it to achieve persistence on network gateways manufactured by Netgear, Huawei, and ZTE, according to new findings.  "Network gateways are a particularly juicy target for adversaries because they are ideal as initial access points to corporate networks," researchers at Microsoft Security Threat Intelligence Center and Section 52 at Azure Defender for IoT  said  in a technical write-up. "By infecting routers, they can perform man-in-the-middle (MITM) attacks—via HTTP hijacking and DNS spoofing—to compromise endpoints and deploy ransomware or cause safety incidents in OT facilities."   First  documented  by Netlab 360 in December 2019, Mozi has a history of infecting routers and digital video recorders in order to assemble them into an IoT botnet, which could be abused for launching distributed denial-of-service (DDoS) attacks, data exfiltration, and payload execution
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozi P2P Botnet also targets Netgear, Huawei, and ZTE devices<a href="https://securityaffairs.co/wordpress/121306/malware/mozi-botnet-targets-netgear-huawei-zte.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozi botnet continues to evolve, its authors implemented new capabilities to target Netgear, Huawei, and ZTE network gateways.
+
+
+
+Microsoft researchers reported that the Mozi botnet was improved by implementing news capabilities to target network gateways...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile data breach just got worse — now at 54 million customers<a href="https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-just-got-worse-now-at-54-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The T-Mobile data breach keeps getting worse as an update to their investigation now reveals that cyberattack exposed over 54 million individuals' data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: T-Mobile probe into breach finds more customers hit, tally now at 53 mln<a href="https://www.reuters.com/technology/t-mobile-says-hackers-accessed-data-another-53-mln-subscribers-2021-08-20/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile said on Friday that an ongoing investigation revealed that hackers accessed information of an additional 5.3 million customers, bringing the total number to more than 53 million.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of Server Name Identification data exfiltration flaw in multiple products<a href="https://securityaffairs.co/wordpress/121299/security/cisco-sni-data-exfiltration-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unauthenticated attackers could bypass TLS inspection filtering solution in multiple products to exfiltrate data from previously compromised servers, Cisco warns. 
+
+
+
+Cisco warns of a vulnerability in Server Name Identification (SNI) request filtering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus iPhone hacks used as lure in extortion scheme<a href="https://www.bleepingcomputer.com/news/security/pegasus-iphone-hacks-used-as-lure-in-extortion-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new extortion scam is underway that attempts to capitalize on the recent Pegasus iOS spyware attacks to scare people into paying a blackmail demand.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Rights Alliance Karapatan Faces Weeks-long DDOS Attacks<a href="https://www.hackread.com/human-rights-watchdog-karapatan-ddos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qurium reported that the attackers launched billions of “malicious web requests” comprising application-layer web floods, which is a form of DDoS (Distributed Denial of Service) attack.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+637 flaws in industrial control system (ICS) products were published in H1 2021<a href="https://securityaffairs.co/wordpress/121287/ics-scada/ics-flaws-report-h1-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first half of 2021, 637 vulnerabilities affecting industrial control system (ICS) products were published, affecting products from 76 vendors. 
+
+
+
+Industrial cybersecurity firm Claroty published its third Biannual ICS Risk & Vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T denies data breach after hacker auctions 70 million user database<a href="https://www.bleepingcomputer.com/news/security/atandt-denies-data-breach-after-hacker-auctions-70-million-user-database/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T says that they did not suffer a data breach after a well-known threat actor claimed to be selling a database containing the personal information of 70 million customers. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social account thief goes to prison for stealing, trading nude photos<a href="https://www.bleepingcomputer.com/news/security/social-account-thief-goes-to-prison-for-stealing-trading-nude-photos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A New York man received a three year sentence in federal prison for hacking social media accounts of dozens of female college students and stealing nude photos and videos of them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 Contact-Tracing Data Exposed, Fake Vax Cards Circulate<a href="https://threatpost.com/covid-contact-tracing-exposed-fake-vax-cards/168821/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19-related exploitation and abuse is on the rise as vaccine data opens new frontiers for threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Postmortem on U.S. Census Hack Exposes Cybersecurity Failures<a href="https://threatpost.com/postmortem-on-u-s-census-hack-exposes-cybersecurity-failures/168814/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government says cybersecurity failures were many within failed January hack of U.S. Census Bureau systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Found in Older Cisco Small Business Routers Won't Be Fixed<a href="https://thehackernews.com/2021/08/critical-flaw-found-in-older-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Cisco Small Business Routers will not be patched by the networking equipment giant, since the devices reached end-of-life in 2019.  Tracked as CVE-2021-34730  (CVSS score: 9.8), the issue resides in the routers' Universal Plug-and-Play (UPnP) service, enabling an unauthenticated, remote attacker to execute arbitrary code or cause an affected device to restart unexpectedly, resulting in a denial of service (DoS) condition.  The vulnerability, which the company said is due to improper validation of incoming UPnP traffic, could be abused to send a specially-crafted UPnP request to an affected device, resulting in remote code execution as the root user on the underlying operating system.   "Cisco has not released and will not release software updates to address the vulnerability," the company  noted  in an advisory published Wednesday. "The Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers have  entered the end-of-life process .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 You can post LinkedIn jobs as almost ANY employer — so can attackers<a href="https://www.bleepingcomputer.com/news/security/you-can-post-linkedin-jobs-as-almost-any-employer-so-can-attackers/"> Full Text</a>

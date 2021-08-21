@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile data breach just got worse — now at 54 million customers<a href="https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-just-got-worse-now-at-54-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The T-Mobile data breach keeps getting worse as an update to their investigation now reveals that cyberattack exposed over 54 million individuals' data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: T-Mobile probe into breach finds more customers hit, tally now at 53 mln<a href="https://www.reuters.com/technology/t-mobile-says-hackers-accessed-data-another-53-mln-subscribers-2021-08-20/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile said on Friday that an ongoing investigation revealed that hackers accessed information of an additional 5.3 million customers, bringing the total number to more than 53 million.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T denies data breach after hacker auctions 70 million user database<a href="https://www.bleepingcomputer.com/news/security/atandt-denies-data-breach-after-hacker-auctions-70-million-user-database/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T says that they did not suffer a data breach after a well-known threat actor&nbsp;claimed&nbsp;to be selling a&nbsp;database containing the personal information of 70 million customers.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 Contact-Tracing Data Exposed, Fake Vax Cards Circulate<a href="https://threatpost.com/covid-contact-tracing-exposed-fake-vax-cards/168821/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19-related exploitation and abuse is on the rise as vaccine data opens new frontiers for threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Postmortem on U.S. Census Hack Exposes Cybersecurity Failures<a href="https://threatpost.com/postmortem-on-u-s-census-hack-exposes-cybersecurity-failures/168814/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government says cybersecurity failures were many within failed January hack of U.S. Census Bureau systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

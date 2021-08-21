@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud load balancer snafu leads to 3D printer user printing on a stranger's kit<a href="https://www.theregister.com/2021/08/20/3d_printer_spaghetti_detectives_cloud_snafu/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just over 70 of The Spaghetti Detective's users were able to control others' 3D printing devices as a result – something the service said it doesn't normally allow to happen.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of Server Name Identification data exfiltration flaw in multiple products<a href="https://securityaffairs.co/wordpress/121299/security/cisco-sni-data-exfiltration-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unauthenticated attackers could bypass TLS inspection filtering solution in multiple products to exfiltrate data from previously compromised servers, Cisco warns. 
+
+
+
+Cisco warns of a vulnerability in Server Name Identification (SNI) request filtering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus iPhone hacks used as lure in extortion scheme<a href="https://www.bleepingcomputer.com/news/security/pegasus-iphone-hacks-used-as-lure-in-extortion-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new extortion&nbsp;scam is underway that attempts to capitalize on the recent Pegasus iOS spyware attacks to scare people into paying a blackmail demand.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+637 flaws in industrial control system (ICS) products were published in H1 2021<a href="https://securityaffairs.co/wordpress/121287/ics-scada/ics-flaws-report-h1-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first half of 2021, 637 vulnerabilities affecting industrial control system (ICS) products were published, affecting products from 76 vendors. 
+
+
+
+Industrial cybersecurity firm Claroty published its third Biannual ICS Risk &amp; Vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Found in Older Cisco Small Business Routers Won't Be Fixed<a href="https://thehackernews.com/2021/08/critical-flaw-found-in-older-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Cisco Small Business Routers will not be patched by the networking equipment giant, since the devices reached end-of-life in 2019.  Tracked as CVE-2021-34730  (CVSS score: 9.8), the issue resides in the routers' Universal Plug-and-Play (UPnP) service, enabling an unauthenticated, remote attacker to execute arbitrary code or cause an affected device to restart unexpectedly, resulting in a denial of service (DoS) condition.  The vulnerability, which the company said is due to improper validation of incoming UPnP traffic, could be abused to send a specially-crafted UPnP request to an affected device, resulting in remote code execution as the root user on the underlying operating system.   "Cisco has not released and will not release software updates to address the vulnerability," the company&nbsp; noted &nbsp;in an advisory published Wednesday. "The Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers have&nbsp; entered the end-of-life process .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

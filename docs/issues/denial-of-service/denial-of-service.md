@@ -8,6 +8,108 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated one of the largest DDoS attack involving 17.2 million rps<a href="https://thehackernews.com/2021/08/cloudflare-mitigated-one-of-largest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and website security company Cloudflare on Thursday disclosed that it mitigated the largest ever volumetric distributed denial of service (DDoS) attack recorded to date.  The attack, launched via a Mirai botnet, is said to have targeted an unnamed customer in the financial industry last month. "Within seconds, the botnet bombarded the Cloudflare edge with over 330 million attack requests," the company&nbsp; noted , at one point reaching a record high of 17.2 million requests-per-second (rps), making it three times bigger than previously reported HTTP DDoS attacks.   Volumetric DDoS attacks are designed to target a specific network with an intention to overwhelm its bandwidth capacity and often utilize&nbsp; reflective amplification techniques &nbsp;to scale their attack and cause as much operational disruption as possible.  They also typically originate from a network of malware-infected systems — consisting of computers, servers, and IoT devices — enabling threat actors
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Censorship Systems Can Facilitate Massive DDoS Attacks<a href="https://threatpost.com/censorship-systems-ddos-attacks/168853/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems are ripe for abuse by attackers who can abuse systems to launch DDoS attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare says it mitigated a record-breaking 17.2M rps DDoS attack<a href="https://therecord.media/cloudflare-says-it-mitigated-a-record-breaking-17-2m-rps-ddos-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare said this attack peaked at 17.2 million HTTP requests/second (rps), a figure that the company described as almost three times larger than any previously reported volumetric DDoS attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity DoS Vulnerability Patched in BIND DNS Software<a href="https://www.securityweek.com/high-severity-dos-vulnerability-patched-bind-dns-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) this week publicly announced the availability of patches for a high-severity denial-of-service (DoS) vulnerability affecting its BIND DNS software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Systems Consortium (ISC) fixes High-Severity DoS flaw in BIND DNS Software<a href="https://securityaffairs.co/wordpress/121316/security/bind-dns-dos-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) addressed a high-severity denial-of-service (DoS) flaw (CVE-2021-25218) affecting the BIND DNS software.
+
+
+
+The Internet Systems Consortium (ISC) has released security updates to address a high-severity denial-of-service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP DDoS attacks reach unprecedented 17 million requests per second<a href="https://www.bleepingcomputer.com/news/security/http-ddos-attacks-reach-unprecedented-17-million-requests-per-second/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A distributed denial-of-service (DDoS) attack earlier this year takes the top spot for the largest such incident, peaking at 17.2 million requests per second (rps).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Rights Alliance Karapatan Faces Weeks-long DDOS Attacks<a href="https://www.hackread.com/human-rights-watchdog-karapatan-ddos-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qurium reported that the attackers launched billions of “malicious web requests” comprising application-layer web floods, which is a form of DDoS (Distributed Denial of Service) attack.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

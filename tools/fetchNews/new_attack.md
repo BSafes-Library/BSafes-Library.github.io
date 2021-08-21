@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated the largest ever volumetric DDoS attack to date<a href="https://securityaffairs.co/wordpress/121321/hacking/largest-ever-volumetric-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and website security company Cloudflare announced to have mitigated the largest ever volumetric DDoS attack to date.
+
+
+
+Cloudflare, the web infrastructure and website security company, announced that it has mitigated the largest ever...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

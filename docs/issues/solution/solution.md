@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+August 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft releases free SynAck ransomware decryptor<a href="https://securityaffairs.co/wordpress/121328/malware/synack-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft researchers have released a decryptor for the SynAck Ransomware that could allow victims of the gang to decrypt their files for free 
+
+
+
+Emsisoft has released a free decryptor for SynAck Ransomware that can allow victims of the gang to decrypt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
