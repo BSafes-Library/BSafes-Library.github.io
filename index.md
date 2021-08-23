@@ -34,6 +34,222 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Razer bug lets you become a Windows 10 admin by plugging in a mouse<a href="https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Razer Synapse zero-day vulnerability has been disclosed on Twitter, allowing you to gain Windows admin privileges simply by plugging in a Razer mouse or keyboard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. State Department reportedly hit by a cyberattack in recent weeks<a href="https://www.cnbc.com/2021/08/21/us-state-department-reportedly-hit-by-a-cyberattack-in-recent-weeks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per reports, the U.S. State Department was hit by a cyberattack, and notifications of a potentially serious breach were made by the Department of Defense Cyber Command.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Department recently hit by cyberattack: report<a href="https://thehill.com//homenews/administration/568926-state-department-recently-hit-by-cyberattack-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Department was reportedly hit by a cyberattack in recent weeks, prompting the Department of Defense's Cyber Command to send out notifications warning of a possible serious breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: Microsoft Exchange Under Attack With ProxyShell Flaws<a href="https://thehackernews.com/2021/08/microsoft-exchange-under-attack-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency is warning of active exploitation attempts that leverage the latest line of " ProxyShell " Microsoft Exchange vulnerabilities that were patched earlier this May, including deploying LockFile ransomware on compromised systems.  Tracked as CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207, the vulnerabilities enable adversaries to bypass ACL controls, elevate privileges on the Exchange PowerShell backend, effectively permitting the attacker to perform unauthenticated, remote code execution. While the former two were addressed by Microsoft on April 13, a patch for CVE-2021-31207 was shipped as part of the Windows maker's May Patch Tuesday updates.   "An attacker exploiting these vulnerabilities could execute arbitrary code on a vulnerable machine," CISA  said .  The development comes a little over a week after cybersecurity researchers sounded the alarm on  opportunistic scanning and exploitation  of unpat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discloses unpatched Microsoft WFP Default Rules AppContainer Bypass EoP<a href="https://securityaffairs.co/wordpress/121370/hacking/microsoft-wfp-appcontainer-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google disclosed the details of a Windows ​​AppContainer vulnerability because Microsoft initially had no plans to fix it.
+
+
+
+Google Project Zero experts disclosed the details of a Windows ​​AppContainer flaw after Microsoft announced it had no plans...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares guidance on securing Windows 365 Cloud PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-securing-windows-365-cloud-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared guidance on securing Windows 365 Cloud PCs and more info on their built-in security capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schools, colleges brace for cyberattacks as students return<a href="https://thehill.com//policy/cybersecurity/568821-schools-colleges-brace-for-cyberattacks-as-students-return"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are ready to pounce on schools and universities as they attempt to restart classes 18 months into the coronavirus pandemic while already dealing with controversial subjects such as mask mandates and hybrid learning.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 328<a href="https://securityaffairs.co/wordpress/121366/breaking-news/security-affairs-newsletter-round-328.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+U.S. State...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile data breach could be worse than initially thought, 54 million customers impacted<a href="https://securityaffairs.co/wordpress/121361/data-breach/t-mobile-data-breach-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile data breach could be worse than initially thought, an update to the investigation reveals that over 54 million individuals were impacted. 
+
+
+
+T-Mobile data breach could be worse than initially thought, according to an update to the investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers being hacked by new LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-being-hacked-by-new-lockfile-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as LockFile encrypts Windows domains after hacking into Microsoft Exchange servers using the recently disclosed ProxyShell vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. State Department was recently hit by a cyber attack<a href="https://securityaffairs.co/wordpress/121354/hacking/us-state-department-hit-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department was recently hit by a cyber attack, the Department of Defense Cyber Command might have suffered a serious breach.
+
+
+
+The U.S. State Department was recently hit by a cyber attack, the Department of Defense Cyber Command is notifying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LockFile ransomware gang uses ProxyShell and PetitPotam exploits<a href="https://securityaffairs.co/wordpress/121345/malware/lockfile-gang-proxyshell-petitpotam-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang named LockFile targets Microsoft Exchange servers exploiting the recently disclosed ProxyShell vulnerabilities. 
+
+
+
+A new ransomware gang named LockFile targets Microsoft Exchange servers using the recently disclosed ProxyShell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
