@@ -11,6 +11,24 @@ nav_order: 900031
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New LockFile ransomware gang uses ProxyShell and PetitPotam exploits<a href="https://securityaffairs.co/wordpress/121345/malware/lockfile-gang-proxyshell-petitpotam-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang named LockFile targets Microsoft Exchange servers exploiting the recently disclosed ProxyShell vulnerabilities. 
+
+
+
+A new ransomware gang named LockFile targets Microsoft Exchange servers using the recently disclosed ProxyShell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New analysis of Diavol ransomware reinforces the link to TrickBot gang<a href="https://www.cyberdefensemagazine.com/new-analysis/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

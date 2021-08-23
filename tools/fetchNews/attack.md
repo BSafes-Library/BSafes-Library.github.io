@@ -8,6 +8,39 @@ nav_order: 900015
 
 ## Attack
 ---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPAD: A New Adversarial Attack Targeting Artificial Intelligence<a href="https://cyware.com/news/opad-a-new-adversarial-attack-targeting-artificial-intelligence-b2c9c90a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new adversarial attack, OPAD, that can gull AI technologies to modify the appearance of real 3D objects.&nbsp;One of the critical factors of such an attack is that no physical access is required for the objects. The successful demonstration of OPAD shows the possibility of  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lojas Renner, Brazilian largest clothing store chain, was hit by ransomware<a href="https://securityaffairs.co/wordpress/121333/cyber-crime/lojas-renner-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lojas Renner, the largest Brazilian department stores clothing company, suffered a ransomware attack that impacted its IT infrastructure.
+
+
+
+Lojas Renner, the largest Brazilian department stores clothing company, announced to have suffered a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

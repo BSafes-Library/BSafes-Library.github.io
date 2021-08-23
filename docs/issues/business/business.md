@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares guidance on securing Windows 365 Cloud PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-securing-windows-365-cloud-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared guidance on securing Windows 365 Cloud PCs and more info on their built-in security capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

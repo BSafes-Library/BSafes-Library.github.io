@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Uses Browser Exploits<a href="https://gbhackers.com/north-korean-hacker-group-uses-browser-exploits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security experts of the cybersecurity firm, Volexity have recently reported an attack through which the North Korean Hacker Group using browser exploits to deploy the customer malware on the website.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

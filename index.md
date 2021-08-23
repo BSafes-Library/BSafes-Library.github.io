@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Razer bug lets you become a Windows 10 admin by plugging in a mouse<a href="https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. State Department reportedly hit by a cyberattack in recent weeks<a href="https://www.cnbc.com/2021/08/21/us-state-department-reportedly-hit-by-a-cyberattack-in-recent-weeks.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Department recently hit by cyberattack: report<a href="https://thehill.com//homenews/administration/568926-state-department-recently-hit-by-cyberattack-report"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WARNING: Microsoft Exchange Under Attack With ProxyShell Flaws<a href="https://thehackernews.com/2021/08/microsoft-exchange-under-attack-with.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google discloses unpatched Microsoft WFP Default Rules AppContainer Bypass EoP<a href="https://securityaffairs.co/wordpress/121370/hacking/microsoft-wfp-appcontainer-bypass.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares guidance on securing Windows 365 Cloud PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-securing-windows-365-cloud-pcs/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schools, colleges brace for cyberattacks as students return<a href="https://thehill.com//policy/cybersecurity/568821-schools-colleges-brace-for-cyberattacks-as-students-return"> Full Text</a>
@@ -150,7 +150,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 328<a href="https://securityaffairs.co/wordpress/121366/breaking-news/security-affairs-newsletter-round-328.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile data breach could be worse than initially thought, 54 million customers impacted<a href="https://securityaffairs.co/wordpress/121361/data-breach/t-mobile-data-breach-update.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers being hacked by new LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-being-hacked-by-new-lockfile-ransomware/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. State Department was recently hit by a cyber attack<a href="https://securityaffairs.co/wordpress/121354/hacking/us-state-department-hit-cyber-attack.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LockFile ransomware gang uses ProxyShell and PetitPotam exploits<a href="https://securityaffairs.co/wordpress/121345/malware/lockfile-gang-proxyshell-petitpotam-exploits.html"> Full Text</a>
