@@ -34,7 +34,459 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: OnePercent Group Ransomware targeted US orgs since Nov 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-onepercent-group-ransomware-targeted-us-orgs-since-nov-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has shared info about a threat actor known as OnePercent Group that has been actively targeting US organizations in ransomware attacks since at least November 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hits Lojas Renner, Brazil’s Largest Clothing Store Chain<a href="https://therecord.media/ransomware-hits-lojas-renner-brazils-largest-clothing-store-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lojas Renner, Brazil’s largest clothing department store chain, said it suffered a ransomware attack that impacted its IT infrastructure and resulted in the unavailability of some of its systems, including its official web store.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Millions exposed due to Microsoft misconfiguration<a href="https://thehill.com//policy/technology/overnights/569074-hillicon-valley-millions-exposed-due-to-microsoft"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity group UpGuard started out the week on a bang by revealing its findings that 38 million records were exposed online earlier this year due to a misconfiguration in a Microsoft application, including COVID-contact tracing information. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating Vendor Risk Management as IT Professionals<a href="https://thehackernews.com/2021/08/navigating-vendor-risk-management-as-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the great resources available to businesses today is the large ecosystem of value-added services and solutions. Especially in technology solutions, there is no end to the services of which organizations can avail themselves.  In addition, if a business needs a particular solution or service they don't handle in-house, there is most likely a third-party vendor that can take care of that for them.  It is highly beneficial for businesses today to access these large pools of third-party resources. However, there can be security challenges for companies using third-party vendors and their services despite the benefits. Let's look at navigating vendor risk management as IT professionals and see how businesses can accomplish this in a highly complex cybersecurity world.  How can third-party vendors introduce cybersecurity risks?  As mentioned, third-party vendors can be highly beneficial to organizations doing business today. They allow companies to avoid building out technolo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Brokers Are Advertising Data on U.S. Military Personnel<a href="https://www.lawfareblog.com/data-brokers-are-advertising-data-us-military-personnel"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The trend underscores the broader threats posed by the unregulated data brokerage ecosystem to civil rights and national security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA recommends immediately patch Exchange ProxyShell flaws<a href="https://securityaffairs.co/wordpress/121395/security/cisa-alert-exchange-proxyshell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA issued an urgent alert to warn admins to address ProxyShell vulnerabilities on-premises Microsoft Exchange servers. 
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) issued an alert to warn admins to address actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Spills 38 Million Sensitive Data Records Via Careless Power App Configs<a href="https://threatpost.com/microsoft-38-million-sensitive-records-power-app/168885/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data leaked includes COVID-19 vaccination records, social security numbers and email addresses tied to American Airlines, Ford, Indiana Department of Health and New York City public schools. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign uses UPS.com XSS vuln to distribute malware<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-uses-upscom-xss-vuln-to-distribute-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A clever UPS phishing campaign utilized an XSS vulnerability in UPS.com to push fake and malicious 'Invoice' Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post Office is new prime target in UK parcel delivery phishing attacks<a href="https://news.netcraft.com/archives/2021/08/22/rise-of-parcel-delivery-phishing-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Along with this increased volume of online shopping, a new trend of phishing attacks is doing rounds where cybercriminals impersonate parcel delivery companies in an attempt to steal financial details from their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Netcraft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New research finds 38 million records exposed online earlier this year<a href="https://thehill.com//policy/cybersecurity/569056-new-research-finds-38-million-records-exposed-online-earlier-this-year"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thirty-eight million records from dozens of organizations, including COVID-19 contact tracing information, were exposed online earlier this year due to a misconfiguration in a Microsoft product, according to research published Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Modus Operandi of ShinyHunters Cyber Crime Group<a href="https://thehackernews.com/2021/08/researchers-detail-modus-operandi-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters, a notorious cybercriminal underground group that's been on a data breach spree since last year, has been observed searching companies' GitHub repository source code for vulnerabilities that can be abused to stage larger scale attacks, an analysis of the hackers' modus operandi has revealed.  "Primarily operating on Raid Forums, the collective's moniker and motivation can partly be derived from their avatar on social media and other forums: a shiny Umbreon Pokémon," Intel 471  researchers said in a report shared with The Hacker News. "As Pokémon players hunt and collect "shiny" characters in the game, ShinyHunters collects and resells user data."  The revelation comes as the  average cost of a data breach  rose from $3.86 million to $4.24 million, making it the highest average cost in 17 years, with compromised credentials responsible for 20% of the breaches reported by over 500 organizations.   Since rising to prominence in A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are you using a Sophos UTM appliance? Be sure it is up to date!<a href="https://securityaffairs.co/wordpress/121392/hacking/sophos-utm-appliance-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher disclosed technical details of a critical remote code execution vulnerability, tracked as  CVE-2020-25223, patched last year. 
+
+
+
+In September, Sophos addressed a remote code execution vulnerability (CVE-2020-25223) in the WebAdmin of SG UTM that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Botnet targets hundreds of thousands of devices using Realtek SDK<a href="https://www.bleepingcomputer.com/news/security/botnet-targets-hundreds-of-thousands-of-devices-using-realtek-sdk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai-based botnet now targets a critical vulnerability in the software SDK used by hundreds of thousands of Realtek-based devices, encompassing 200 models from at least 65 vendors, including Asus, Belkin, D-Link, Netgear, Tenda, ZTE, and Zyxel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+38M Records Exposed Online Including COVID-19 Contact-Tracing Info<a href="https://www.wired.com/story/microsoft-power-apps-data-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a thousand web apps mistakenly exposed 38 million records on the open internet, including data from a number of Covid-19 contact tracing platforms, vaccination sign-ups, job application portals, and employee databases.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 15 Vulnerabilities Attackers Exploited Millions of Times to Hack Linux Systems<a href="https://thehackernews.com/2021/08/top-15-vulnerabilities-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Close to 14 million Linux-based systems are directly exposed to the Internet, making them a lucrative target for an array of real-world attacks that could result in the deployment of malicious web shells, coin miners, ransomware, and other trojans.  That's according to an in-depth look at the Linux threat landscape published by U.S.-Japanese cybersecurity firm Trend Micro , detailing the top threats and vulnerabilities affecting the operating system in the first half of 2021, based on data amassed from honeypots, sensors, and anonymized telemetry.  The company, which detected nearly 15 million malware events aimed at Linux-based cloud environments, found coin miners and ransomware to make up 54% of all malware, with web shells accounting for a 29% share.   In addition, by dissecting over 50 million events reported from 100,000 unique Linux hosts during the same time period, the researchers found 15 different security weaknesses that are known to be actively exploited in the wild o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LPE zero-day flaw in Razer Synapse allows attackers to take over Windows PCs<a href="https://securityaffairs.co/wordpress/121385/hacking/razer-synapse-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in Razer Synapse could allow threat actors to gain Windows admin privileges by plugging in a Razer mouse or keyboard. 
+
+
+
+Razer is a popular manufacturer of computer accessories, including gaming mouses and keyboards. 
+
+
+
+A  local...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker gets 500K reward for returning stolen cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hacker-gets-500k-reward-for-returning-stolen-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The saga of what has been dubbed the biggest hack in the world of decentralized finance appears to be over as Poly Network recovered more than $610 million in cryptocurrency assets it lost two weeks ago and the hacker received a $500,000 bounty for returning the money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed for Critical Vulnerability in Sophos Appliances<a href="https://www.securityweek.com/details-disclosed-critical-vulnerability-sophos-appliances?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations using security appliances from Sophos have been advised to make sure their devices are up to date after a researcher disclosed the details of a critical vulnerability patched last year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memorial Health System forced to cancel surgeries after ransomware attack<a href="https://securityaffairs.co/wordpress/121378/cyber-crime/memorial-health-system-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health organization Memorial Health System was hit by a disruptive cyber attack that forced it to cancel surgeries and divert patients last week.
+
+
+
+The Memorial Health System announced that was hit by a disruptive cyber attack that forced it to suspend...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nokia subsidiary discloses data breach after Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/nokia-subsidiary-discloses-data-breach-after-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAC Wireless, a US-based and independently-operating Nokia company subsidiary, has disclosed a data breach following a ransomware attack where Conti operators were able to successfully breach its network, steal data, and encrypt systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poly Network claims a hacker returned stolen $600 million<a href="https://cybernews.com/crypto/poly-network-claims-a-hacker-returned-stolen-600-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A colossal, as well as bizarre crypto heist story seems to have reached its end. Poly Network, a DeFi platform, announced the hacker that stole over $600 million in one of the largest crypto heists had returned control of the money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns admins to urgently patch Exchange ProxyShell bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-urgently-patch-exchange-proxyshell-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) issued its first alert tagged as "urgent," warning admins to patch on-premises Microsoft Exchange servers against actively exploited ProxyShell vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PRISM attacks fly under the radar<a href="https://cybersecurity.att.com/blogs/labs-research/prism-attacks-fly-under-the-radar?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T Alien Labs has recently discovered a cluster of Linux ELF executables that have low or zero anti-virus detections in VirusTotal though their internal threat analysis systems have flagged them as malicious.
+</details>
+<div style="text-align: right" markdown="1">
+AT&T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyShell vulnerabilities actively exploited to deliver web shells and ransomware<a href="https://www.helpnetsecurity.com/2021/08/23/proxyshell-vulnerabilities-exploited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three so-called “ProxyShell” vulnerabilities are being actively exploited by various attackers to compromise Microsoft Exchange servers around the world, the Cybersecurity and Infrastructure Security Agency (CISA) warned over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore, US pledge deeper collaboration in cybersecurity<a href="https://www.zdnet.com/article/singapore-us-pledge-deeper-collaboration-in-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore and the US have inked a series of Memorandums of Understanding (MOUs) to widen their collaboration in cybersecurity across defense, financial, and research and development.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US military personnel defrauded into losing $822m through scams<a href="https://www.hackread.com/us-military-personnel-losing-822m-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers examined data compiled by the US FTC. They discovered that $484.4 million was lost by military families and reservists, followed by veterans and retirees whose financial damages account for 35% of all losses ($290.1 million).
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Shows Even More Similarities Between Diavol Ransomware and TrickBot<a href="https://heimdalsecurity.com/blog/new-evidence-shows-strong-connection-between-diavol-ransomware-and-trickbot-gang/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new ransomware family is called Diavol and it is believed to have connections to the Wizard Spider threat actor as the researchers discovered a few similarities in the operation mode employed by the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Razer bug lets you become a Windows 10 admin by plugging in a mouse<a href="https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/"> Full Text</a>
@@ -50,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. State Department reportedly hit by a cyberattack in recent weeks<a href="https://www.cnbc.com/2021/08/21/us-state-department-reportedly-hit-by-a-cyberattack-in-recent-weeks.html?&web_view=true"> Full Text</a>
@@ -66,7 +518,7 @@ CNBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Department recently hit by cyberattack: report<a href="https://thehill.com//homenews/administration/568926-state-department-recently-hit-by-cyberattack-report"> Full Text</a>
@@ -82,7 +534,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WARNING: Microsoft Exchange Under Attack With ProxyShell Flaws<a href="https://thehackernews.com/2021/08/microsoft-exchange-under-attack-with.html"> Full Text</a>
@@ -98,7 +550,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google discloses unpatched Microsoft WFP Default Rules AppContainer Bypass EoP<a href="https://securityaffairs.co/wordpress/121370/hacking/microsoft-wfp-appcontainer-bypass.html"> Full Text</a>
@@ -118,7 +570,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares guidance on securing Windows 365 Cloud PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-securing-windows-365-cloud-pcs/"> Full Text</a>
@@ -134,7 +586,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schools, colleges brace for cyberattacks as students return<a href="https://thehill.com//policy/cybersecurity/568821-schools-colleges-brace-for-cyberattacks-as-students-return"> Full Text</a>
@@ -150,7 +602,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 328<a href="https://securityaffairs.co/wordpress/121366/breaking-news/security-affairs-newsletter-round-328.html"> Full Text</a>
@@ -174,7 +626,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2021
+August 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile data breach could be worse than initially thought, 54 million customers impacted<a href="https://securityaffairs.co/wordpress/121361/data-breach/t-mobile-data-breach-update.html"> Full Text</a>
@@ -194,7 +646,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers being hacked by new LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-being-hacked-by-new-lockfile-ransomware/"> Full Text</a>
@@ -210,7 +662,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. State Department was recently hit by a cyber attack<a href="https://securityaffairs.co/wordpress/121354/hacking/us-state-department-hit-cyber-attack.html"> Full Text</a>
@@ -230,7 +682,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2021
+August 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LockFile ransomware gang uses ProxyShell and PetitPotam exploits<a href="https://securityaffairs.co/wordpress/121345/malware/lockfile-gang-proxyshell-petitpotam-exploits.html"> Full Text</a>
