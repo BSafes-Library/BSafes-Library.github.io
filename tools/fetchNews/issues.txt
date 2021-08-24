@@ -30,6 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.bleepingcomputer.com/news/security/fbi-onepercent-group-ransomware-targeted-us-orgs-since-nov-2020/
+. https://securityaffairs.co/wordpress/121395/security/cisa-alert-exchange-proxyshell-flaws.html
 
 Law:
 

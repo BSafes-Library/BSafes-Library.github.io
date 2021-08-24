@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schools, colleges brace for cyberattacks as students return<a href="https://thehill.com//policy/cybersecurity/568821-schools-colleges-brace-for-cyberattacks-as-students-return"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are ready to pounce on schools and universities as they attempt to restart classes 18 months into the coronavirus pandemic while already dealing with controversial subjects such as mask mandates and hybrid learning.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

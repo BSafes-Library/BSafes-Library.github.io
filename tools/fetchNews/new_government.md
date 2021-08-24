@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA recommends immediately patch Exchange ProxyShell flaws<a href="https://securityaffairs.co/wordpress/121395/security/cisa-alert-exchange-proxyshell-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA issued an urgent alert to warn admins to address ProxyShell vulnerabilities on-premises Microsoft Exchange servers. 
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) issued an alert to warn admins to address actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore, US pledge deeper collaboration in cybersecurity<a href="https://www.zdnet.com/article/singapore-us-pledge-deeper-collaboration-in-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore and the US have inked a series of Memorandums of Understanding (MOUs) to widen their collaboration in cybersecurity across defense, financial, and research and development.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hits Lojas Renner, Brazil’s Largest Clothing Store Chain<a href="https://therecord.media/ransomware-hits-lojas-renner-brazils-largest-clothing-store-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lojas Renner, Brazil’s largest clothing department store chain, said it suffered a ransomware attack that impacted its IT infrastructure and resulted in the unavailability of some of its systems, including its official web store.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post Office is new prime target in UK parcel delivery phishing attacks<a href="https://news.netcraft.com/archives/2021/08/22/rise-of-parcel-delivery-phishing-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Along with this increased volume of online shopping, a new trend of phishing attacks is doing rounds where cybercriminals impersonate parcel delivery companies in an attempt to steal financial details from their victims.
+</details>
+<div style="text-align: right" markdown="1">
+Netcraft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PRISM attacks fly under the radar<a href="https://cybersecurity.att.com/blogs/labs-research/prism-attacks-fly-under-the-radar?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T Alien Labs has recently discovered a cluster of Linux ELF executables that have low or zero anti-virus detections in VirusTotal though their internal threat analysis systems have flagged them as malicious.
+</details>
+<div style="text-align: right" markdown="1">
+AT&amp;T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

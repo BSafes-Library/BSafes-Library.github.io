@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating Vendor Risk Management as IT Professionals<a href="https://thehackernews.com/2021/08/navigating-vendor-risk-management-as-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the great resources available to businesses today is the large ecosystem of value-added services and solutions. Especially in technology solutions, there is no end to the services of which organizations can avail themselves.  In addition, if a business needs a particular solution or service they don't handle in-house, there is most likely a third-party vendor that can take care of that for them.  It is highly beneficial for businesses today to access these large pools of third-party resources. However, there can be security challenges for companies using third-party vendors and their services despite the benefits. Let's look at navigating vendor risk management as IT professionals and see how businesses can accomplish this in a highly complex cybersecurity world.  How can third-party vendors introduce cybersecurity risks?  As mentioned, third-party vendors can be highly beneficial to organizations doing business today. They allow companies to avoid building out technolo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

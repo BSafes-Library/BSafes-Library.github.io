@@ -8,6 +8,88 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are you using a Sophos UTM appliance? Be sure it is up to date!<a href="https://securityaffairs.co/wordpress/121392/hacking/sophos-utm-appliance-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher disclosed technical details of a critical remote code execution vulnerability, tracked as  CVE-2020-25223, patched last year. 
+
+
+
+In September, Sophos addressed a remote code execution vulnerability (CVE-2020-25223) in the WebAdmin of SG UTM that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 15 Vulnerabilities Attackers Exploited Millions of Times to Hack Linux Systems<a href="https://thehackernews.com/2021/08/top-15-vulnerabilities-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Close to 14 million Linux-based systems are directly exposed to the Internet, making them a lucrative target for an array of real-world attacks that could result in the deployment of malicious web shells, coin miners, ransomware, and other trojans.  That's according to an in-depth look at the Linux threat landscape published by U.S.-Japanese cybersecurity firm Trend Micro , detailing the top threats and vulnerabilities affecting the operating system in the first half of 2021, based on data amassed from honeypots, sensors, and anonymized telemetry.  The company, which detected nearly 15 million malware events aimed at Linux-based cloud environments, found coin miners and ransomware to make up 54% of all malware, with web shells accounting for a 29% share.   In addition, by dissecting over 50 million events reported from 100,000 unique Linux hosts during the same time period, the researchers found 15 different security weaknesses that are known to be actively exploited in the wild o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LPE zero-day flaw in Razer Synapse allows attackers to take over Windows PCs<a href="https://securityaffairs.co/wordpress/121385/hacking/razer-synapse-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in Razer Synapse could allow threat actors to gain Windows admin privileges by plugging in a Razer mouse or keyboard. 
+
+
+
+Razer is a popular manufacturer of computer accessories, including gaming mouses and keyboards. 
+
+
+
+A  local...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed for Critical Vulnerability in Sophos Appliances<a href="https://www.securityweek.com/details-disclosed-critical-vulnerability-sophos-appliances?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations using security appliances from Sophos have been advised to make sure their devices are up to date after a researcher disclosed the details of a critical vulnerability patched last year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns admins to urgently patch Exchange ProxyShell bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-urgently-patch-exchange-proxyshell-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) issued its first alert tagged as "urgent,"&nbsp;warning admins to patch on-premises Microsoft Exchange servers against actively exploited ProxyShell vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

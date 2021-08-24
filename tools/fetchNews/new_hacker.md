@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker gets 500K reward for returning stolen cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hacker-gets-500k-reward-for-returning-stolen-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The saga of what has been dubbed the biggest hack in the world of decentralized finance appears to be over as Poly Network recovered more than $610 million in cryptocurrency assets it lost two weeks ago and the hacker received a $500,000 bounty for returning the money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poly Network claims a hacker returned stolen $600 million<a href="https://cybernews.com/crypto/poly-network-claims-a-hacker-returned-stolen-600-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A colossal, as well as bizarre crypto heist story seems to have reached its end. Poly Network, a DeFi platform, announced the hacker that stole over $600 million in one of the largest crypto heists had returned control of the money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

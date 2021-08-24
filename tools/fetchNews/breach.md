@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile data breach could be worse than initially thought, 54 million customers impacted<a href="https://securityaffairs.co/wordpress/121361/data-breach/t-mobile-data-breach-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile data breach could be worse than initially thought, an update to the investigation reveals that over 54 million individuals were impacted. 
+
+
+
+T-Mobile data breach could be worse than initially thought, according to an update to the investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

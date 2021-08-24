@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: OnePercent Group Ransomware targeted US orgs since Nov 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-onepercent-group-ransomware-targeted-us-orgs-since-nov-2020/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hits Lojas Renner, Brazil’s Largest Clothing Store Chain<a href="https://therecord.media/ransomware-hits-lojas-renner-brazils-largest-clothing-store-chain/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Millions exposed due to Microsoft misconfiguration<a href="https://thehill.com//policy/technology/overnights/569074-hillicon-valley-millions-exposed-due-to-microsoft"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Navigating Vendor Risk Management as IT Professionals<a href="https://thehackernews.com/2021/08/navigating-vendor-risk-management-as-it.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Brokers Are Advertising Data on U.S. Military Personnel<a href="https://www.lawfareblog.com/data-brokers-are-advertising-data-us-military-personnel"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA recommends immediately patch Exchange ProxyShell flaws<a href="https://securityaffairs.co/wordpress/121395/security/cisa-alert-exchange-proxyshell-flaws.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Spills 38 Million Sensitive Data Records Via Careless Power App Configs<a href="https://threatpost.com/microsoft-38-million-sensitive-records-power-app/168885/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign uses UPS.com XSS vuln to distribute malware<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-uses-upscom-xss-vuln-to-distribute-malware/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Post Office is new prime target in UK parcel delivery phishing attacks<a href="https://news.netcraft.com/archives/2021/08/22/rise-of-parcel-delivery-phishing-attacks.html?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Netcraft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New research finds 38 million records exposed online earlier this year<a href="https://thehill.com//policy/cybersecurity/569056-new-research-finds-38-million-records-exposed-online-earlier-this-year"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Modus Operandi of ShinyHunters Cyber Crime Group<a href="https://thehackernews.com/2021/08/researchers-detail-modus-operandi-of.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are you using a Sophos UTM appliance? Be sure it is up to date!<a href="https://securityaffairs.co/wordpress/121392/hacking/sophos-utm-appliance-rce.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Botnet targets hundreds of thousands of devices using Realtek SDK<a href="https://www.bleepingcomputer.com/news/security/botnet-targets-hundreds-of-thousands-of-devices-using-realtek-sdk/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 38M Records Exposed Online Including COVID-19 Contact-Tracing Info<a href="https://www.wired.com/story/microsoft-power-apps-data-exposed/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 15 Vulnerabilities Attackers Exploited Millions of Times to Hack Linux Systems<a href="https://thehackernews.com/2021/08/top-15-vulnerabilities-attackers.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LPE zero-day flaw in Razer Synapse allows attackers to take over Windows PCs<a href="https://securityaffairs.co/wordpress/121385/hacking/razer-synapse-zero-day.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker gets 500K reward for returning stolen cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hacker-gets-500k-reward-for-returning-stolen-cryptocurrency/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Details Disclosed for Critical Vulnerability in Sophos Appliances<a href="https://www.securityweek.com/details-disclosed-critical-vulnerability-sophos-appliances?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Memorial Health System forced to cancel surgeries after ransomware attack<a href="https://securityaffairs.co/wordpress/121378/cyber-crime/memorial-health-system-ransomware.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nokia subsidiary discloses data breach after Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/nokia-subsidiary-discloses-data-breach-after-conti-ransomware-attack/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poly Network claims a hacker returned stolen $600 million<a href="https://cybernews.com/crypto/poly-network-claims-a-hacker-returned-stolen-600-million/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns admins to urgently patch Exchange ProxyShell bugs<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-urgently-patch-exchange-proxyshell-bugs/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PRISM attacks fly under the radar<a href="https://cybersecurity.att.com/blogs/labs-research/prism-attacks-fly-under-the-radar?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ AT&T Cybersecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProxyShell vulnerabilities actively exploited to deliver web shells and ransomware<a href="https://www.helpnetsecurity.com/2021/08/23/proxyshell-vulnerabilities-exploited/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore, US pledge deeper collaboration in cybersecurity<a href="https://www.zdnet.com/article/singapore-us-pledge-deeper-collaboration-in-cybersecurity/?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US military personnel defrauded into losing $822m through scams<a href="https://www.hackread.com/us-military-personnel-losing-822m-scams/?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report Shows Even More Similarities Between Diavol Ransomware and TrickBot<a href="https://heimdalsecurity.com/blog/new-evidence-shows-strong-connection-between-diavol-ransomware-and-trickbot-gang/?&web_view=true"> Full Text</a>

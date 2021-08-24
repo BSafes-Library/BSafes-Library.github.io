@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Botnet targets hundreds of thousands of devices using Realtek SDK<a href="https://www.bleepingcomputer.com/news/security/botnet-targets-hundreds-of-thousands-of-devices-using-realtek-sdk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai-based botnet now targets a critical vulnerability&nbsp;in the software SDK used by hundreds of thousands of Realtek-based devices, encompassing 200 models from at least 65 vendors, including Asus, Belkin,&nbsp;D-Link,&nbsp;Netgear, Tenda, ZTE, and Zyxel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Shows Even More Similarities Between Diavol Ransomware and TrickBot<a href="https://heimdalsecurity.com/blog/new-evidence-shows-strong-connection-between-diavol-ransomware-and-trickbot-gang/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new ransomware family is called Diavol and it is believed to have connections to the Wizard Spider threat actor as the researchers discovered a few similarities in the operation mode employed by the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

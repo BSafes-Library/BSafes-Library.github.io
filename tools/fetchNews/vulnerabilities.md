@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Razer bug lets you become a Windows 10 admin by plugging in a mouse<a href="https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Razer Synapse zero-day vulnerability has been disclosed on Twitter, allowing you to gain Windows admin privileges simply by plugging in a Razer mouse or keyboard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discloses unpatched Microsoft WFP Default Rules AppContainer Bypass EoP<a href="https://securityaffairs.co/wordpress/121370/hacking/microsoft-wfp-appcontainer-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google disclosed the details of a Windows ​​AppContainer vulnerability because Microsoft initially had no plans to fix it.
+
+
+
+Google Project Zero experts disclosed the details of a Windows ​​AppContainer flaw after Microsoft announced it had no plans...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

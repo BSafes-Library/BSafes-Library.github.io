@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. State Department reportedly hit by a cyberattack in recent weeks<a href="https://www.cnbc.com/2021/08/21/us-state-department-reportedly-hit-by-a-cyberattack-in-recent-weeks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per reports, the U.S. State Department was hit by a cyberattack, and notifications of a potentially serious breach were made by the Department of Defense Cyber Command.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: Microsoft Exchange Under Attack With ProxyShell Flaws<a href="https://thehackernews.com/2021/08/microsoft-exchange-under-attack-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency is warning of active exploitation attempts that leverage the latest line of " ProxyShell " Microsoft Exchange vulnerabilities that were patched earlier this May, including deploying LockFile ransomware on compromised systems.  Tracked as CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207, the vulnerabilities enable adversaries to bypass ACL controls, elevate privileges on the Exchange PowerShell backend, effectively permitting the attacker to perform unauthenticated, remote code execution. While the former two were addressed by Microsoft on April 13, a patch for CVE-2021-31207 was shipped as part of the Windows maker's May Patch Tuesday updates.   "An attacker exploiting these vulnerabilities could execute arbitrary code on a vulnerable machine," CISA&nbsp; said .  The development comes a little over a week after cybersecurity researchers sounded the alarm on&nbsp; opportunistic scanning and exploitation &nbsp;of unpat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers being hacked by new LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-being-hacked-by-new-lockfile-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as LockFile encrypts Windows domains after hacking into Microsoft Exchange servers using the recently disclosed ProxyShell vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. State Department was recently hit by a cyber attack<a href="https://securityaffairs.co/wordpress/121354/hacking/us-state-department-hit-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department was recently hit by a cyber attack, the Department of Defense Cyber Command might have suffered a serious breach.
+
+
+
+The U.S. State Department was recently hit by a cyber attack, the Department of Defense Cyber Command is notifying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

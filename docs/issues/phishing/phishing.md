@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign uses&nbsp;UPS.com&nbsp;XSS vuln to distribute malware<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-uses-upscom-xss-vuln-to-distribute-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A clever UPS phishing campaign utilized an XSS vulnerability in UPS.com to push fake and malicious 'Invoice' Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US military personnel defrauded into losing $822m through scams<a href="https://www.hackread.com/us-military-personnel-losing-822m-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers examined data compiled by the US FTC. They discovered that $484.4 million was lost by military families and reservists, followed by veterans and retirees whose financial damages account for 35% of all losses ($290.1 million).
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
