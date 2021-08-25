@@ -34,6 +34,502 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake OpenSea support staff are stealing cryptowallets and NFTs<a href="https://www.bleepingcomputer.com/news/security/fake-opensea-support-staff-are-stealing-cryptowallets-and-nfts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea users are being targeted in an ongoing and aggressive Discord phishing attack to steal cryptocurrency funds and NFTs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack exposes medical information for 12,000 patients at Revere Health<a href="https://www.thespectrum.com/story/news/2021/08/23/phishing-attack-exposes-information-12-000-patients-st-george/8214230002/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company doesn’t think it was the intent of the hacker to release patients’ medical information but rather as a way to launch more sophisticated phishing email attacks on other Revere employees.
+</details>
+<div style="text-align: right" markdown="1">
+thespectrum
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech leaders to tackle cybersecurity at White House meeting<a href="https://thehill.com//policy/technology/overnights/569247-hillicon-valley-tech-leaders-to-tackle-cybersecurity-at-white"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the nation's biggest tech companies, including Amazon’s new chief, will head to the White House Wednesday to meet with President BidenJoe BidenHouse Democrats punt key vote on budget to Tuesday Biden envoy calls on North Korea to restart nuclear talks Biden to decide on Afghanistan troop withdrawal extension in next 24 hours: report MORE in the wake of a string of cybersecurity attacks. Apple CEO Tim Cook is reportedly on the list to attend, but the Silicon Valley giant is facing struggles of its own after workers launched an organizing effort for better workplace conditions. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modified Version of WhatsApp for Android Spotted Installing Triada Trojan<a href="https://thehackernews.com/2021/08/modified-version-of-whatsapp-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A modified version of the WhatsApp messaging app for Android has been trojanized to serve malicious payloads, display full-screen ads, and sign up device owners for unwanted premium subscriptions without their knowledge.  "The Trojan Triada snuck into one of these modified versions of the messenger called FMWhatsApp 16.80.0 together with the advertising software development kit (SDK)," researchers from Russian cybersecurity firm Kaspersky  said  in a technical write-up published Tuesday. "This is similar to  what happened with APKPure , where the only malicious code that was embedded in the app was a payload downloader."   Modified versions of legitimate Android apps — aka Modding — are designed to perform functions not originally conceived or intended by the app developers, and FMWhatsApp allows users to customize the app with different themes, personalize icons, and hide features like last seen, and even deactivate video calling features.  The tampered variant of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Apple Client-Side Scanning System<a href="https://www.lawfareblog.com/apple-client-side-scanning-system"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s efforts, though commendable, raise as many questions as they answer.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3711 in OpenSSL can allow to change an application’s behavior<a href="https://securityaffairs.co/wordpress/121426/hacking/cve-2021-3711-openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project patched a high-severity vulnerability, tracked as CVE-2021-3711, that can allow an attacker to change an application’s behavior or cause the app to crash. 
+
+
+
+The OpenSSL Project released the OpenSSL 1.1.1l version that addresses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Effective Threat-Hunting Queries in a Redacted World<a href="https://threatpost.com/effective-threat-hunting-queries/168864/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chad Anderson, senior security researcher for DomainTools, demonstrates how seemingly disparate pieces of infrastructure information can form perfect fingerprints for tracking cyberattackers’ infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung can remotely disable their TVs worldwide using TV Block<a href="https://www.bleepingcomputer.com/news/security/samsung-can-remotely-disable-their-tvs-worldwide-using-tv-block/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung says that it can disable any of its Samsung TV sets remotely using TV Block, a feature built into all television products sold worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Proliferation of LockBit 2.0 Attacks<a href="https://cyware.com/news/the-proliferation-of-lockbit-20-attacks-7e3ad7b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the latest telemetry by Trend Micro, researchers revealed that they had detected multiple LockBit 2.0 attack attempts in Chile, Italy, Taiwan, and the U.K.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon, IBM leaders among those convening at White House for cyber meeting Wednesday<a href="https://thehill.com//policy/cybersecurity/569230-amazon-ibm-leaders-among-those-convening-at-white-house-for-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEOs of Amazon and IBM will be among a group of leaders from a wide spectrum of tech companies and organizations set to meet with President Biden at the White House on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahraini Activists Targeted Using a New iPhone Zero-Day Exploit From NSO Group<a href="https://thehackernews.com/2021/08/bahraini-activists-targeted-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undisclosed "zero-click" exploit in Apple's iMessage was abused by Israeli surveillance vendor NSO Group to circumvent iOS security protections and target nine Bahraini activists.  "The hacked activists included three members of Waad (a secular Bahraini political society), three members of the Bahrain Center for Human Rights, two exiled Bahraini dissidents, and one member of Al Wefaq (a Shiite Bahraini political society)," researchers from University of Toronto's Citizen Lab  said  in a report published today, with four of the targets hacked by an actor it tracks as LULU and believed to be the government of Bahrain.  Citizen Lab called the new exploit chain "FORCEDENTRY."    The development comes a little over a month after an  extensive investigation  undertaken by a consortium of 17 media organizations revealed the widespread use of NSO Group's Pegasus "military-grade spyware" by authoritarian regimes to  facilitate hu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New zero-click exploit used to target Bahraini activists’ iPhones with NSO spyware<a href="https://securityaffairs.co/wordpress/121415/malware/zero-click-exploit-nso.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citizen Lab uncovered a new zero-click iMessage exploit that was used to deploy the NSO Group's Pegasus spyware on devices belonging to Bahraini activists.
+
+
+
+Researchers from Citizen Lab spotted a zero-click iMessage exploit that was used to deploy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SteelSeries bug gives Windows 10 admin rights by plugging in a device<a href="https://www.bleepingcomputer.com/news/security/steelseries-bug-gives-windows-10-admin-rights-by-plugging-in-a-device/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official app for installing SteelSeries devices on Windows 10 can be exploited to obtain administrator rights, a security researcher has found.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resurgence in FluBot Malware Attacks<a href="https://cyware.com/news/resurgence-in-flubot-malware-attacks-f10f1ca6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent studies on the FluBot banking malware confirmed that there has been a spike in the number of malicious distribution pages affecting a number of Australian, Polish, and German banks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of 4 Emerging Ransomware Groups That Can Cause Havoc<a href="https://thehackernews.com/2021/08/researchers-warn-of-4-new-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday took the wraps off four up-and-coming ransomware groups that could pose a serious threat to enterprises and critical infrastructure, as the ripple effect of a recent spurt in ransomware incidents show that attackers are growing more sophisticated and more profitable in extracting payouts from victims.  "While the ransomware crisis appears poised to get worse before it gets better, the cast of cybercrime groups that cause the most damage is constantly changing," Palo Alto Networks' Unit 42 threat intelligence team  said  in a report shared with The Hacker News.  "Groups sometimes go quiet when they've achieved so much notoriety that they become a priority for law enforcement. Others reboot their operations to make them more lucrative by revising their tactics, techniques and procedures, updating their software and launching marketing campaigns to recruit new affiliates."   The development comes as ransomware attacks are g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI flash alert warns on OnePercent Group Ransomware attacks<a href="https://securityaffairs.co/wordpress/121411/cyber-crime/onepercent-group-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI shared info about OnePercent Group that has been actively targeting US organizations in ransomware attacks since at least November 2020.  
+
+
+
+The Federal Bureau of Investigation (FBI) has published a flash alert about a threat actor known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang's script shows exactly the files they're after<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-script-shows-exactly-the-files-theyre-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A PowerShell script used by the Pysa ransomware operation gives us a sneak peek at the types of data they attempt to steal during a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing and Crypto Attacks Soared in First Half of 2021<a href="https://cyware.com/news/phishing-and-crypto-attacks-soared-in-first-half-of-2021-3f16a525"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by PhishLabs, 54% of attacks in the cryptocurrency industry came from threat actors impersonating brands, employees, and executives on social media.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+38 Million Records Exposed from Microsoft Power Apps of Dozens of Organisations<a href="https://thehackernews.com/2021/08/38-million-records-exposed-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 38 million records from 47 different entities that rely on Microsoft's Power Apps portals platform were inadvertently left exposed online, bringing into sharp focus a "new vector of data exposure."  "The types of data varied between portals, including personal information used for COVID-19 contact tracing, COVID-19 vaccination appointments, social security numbers for job applicants, employee IDs, and millions of names and email addresses," UpGuard Research team  said  in a disclosure made public on Monday.  Governmental bodies like Indiana, Maryland, and New York City, and private companies such as American Airlines, Ford, J.B. Hunt, and Microsoft are said to have been impacted. Among the most sensitive information that was left in the open were 332,000 email addresses and employee IDs used by Microsoft's own global payroll services, as well as more than 85,000 records related to Business Tools Support and Mixed Reality portals.   Power Apps  is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realtek SDK flaws exploited to deliver Mirai bot variant<a href="https://securityaffairs.co/wordpress/121400/cyber-crime/realtek-sdk-flaws-mirai-bot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that threat actors are actively exploiting Realtek SDK vulnerabilities since their technical details were publicly disclosed.
+
+
+
+Researchers from SAM Seamless Network warn that threat actors are actively exploiting Realtek SDK vulnerabilities since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious WhatsApp mod infects Android devices with malware<a href="https://www.bleepingcomputer.com/news/security/malicious-whatsapp-mod-infects-android-devices-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious version of the FMWhatsappWhatsApp mod delivers a Triadatrojan payload, a nasty surprise that infects their devices with additional malware, including the very hard-to-remove xHelper trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Year-Long Spear-Phishing Campaign Ensnares Office 365 Users<a href="https://cyware.com/news/a-year-long-spear-phishing-campaign-ensnares-office-365-users-12520308"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers changed their obfuscation and encryption techniques every 37 days. This implies that the gang is highly motivated and possesses sophisticated detection evasion mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New zero-click iPhone exploit used to deploy NSO spyware<a href="https://www.bleepingcomputer.com/news/apple/new-zero-click-iphone-exploit-used-to-deploy-nso-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital threat researchers at Citizen Lab have uncovered a new zero-click iMessage exploit used to deploy NSO Group's Pegasus spyware on devices belonging to Bahraini activists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Could Increase Medication Doses by Exploiting Security Flaws in Infusion Pumps<a href="https://www.wired.com/story/infusion-pump-hack-dose-increase/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that an attacker with access to a health care facility's network could take control of B. Braun SpaceStation by exploiting a common connectivity vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive startup Upstream raises $62M Series C to scale cloud-based security<a href="https://techcrunch.com/2021/08/24/automotive-cybersecurity-startup-upstream-raises-62m-series-c-to-scale-cloud-based-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upstream's Series C funding was led by Mitsui Sumitomo Insurance and was joined by new investors I.D.I. Insurance, 57 Stars’ NextGen Mobility Fund, and La Maison Partners.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DLL side-loading Attack Takes Advantage of Windows Search Order<a href="https://gbhackers.com/dll-side-loading-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can evade detection using filename matching by renaming the binary executable, as the side-loading technique will remain viable regardless of the name of the executable.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyShell Attacks Pummel Unpatched Exchange Servers<a href="https://threatpost.com/proxyshell-attacks-unpatched-exchange-servers/168879/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is warning about a surge of ProxyShell attacks, as Huntress discovered 140 webshells launched against 1,900 unpatched Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Admin Rights Gobbled by Razer Devices<a href="https://threatpost.com/windows-10-admin-rights-razer-devices-mouse-peripherals/168855/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So much for Windows 10’s security: A zero-day in the device installer software grants admin rights just by plugging in a mouse or other compatible device. UPDATE: Microsoft is investigating. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing Privileged Access to Secure the Post-COVID Perimeter<a href="https://threatpost.com/privileged-access-covid-security/168860/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, chief security scientist & advisory CISO at ThycoticCentrify, discusses how to implement advanced privileged-access practices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Actively Exploiting Realtek SDK Flaws<a href="https://threatpost.com/attackers-exploiting-realtek/168856/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in software used by 65 vendors under active attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
