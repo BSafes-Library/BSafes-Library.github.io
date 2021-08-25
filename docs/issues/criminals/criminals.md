@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of 4 Emerging Ransomware Groups That Can Cause Havoc<a href="https://thehackernews.com/2021/08/researchers-warn-of-4-new-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday took the wraps off four up-and-coming ransomware groups that could pose a serious threat to enterprises and critical infrastructure, as the ripple effect of a recent spurt in ransomware incidents show that attackers are growing more sophisticated and more profitable in extracting payouts from victims.  "While the ransomware crisis appears poised to get worse before it gets better, the cast of cybercrime groups that cause the most damage is constantly changing," Palo Alto Networks' Unit 42 threat intelligence team&nbsp; said &nbsp;in a report shared with The Hacker News.  "Groups sometimes go quiet when they've achieved so much notoriety that they become a priority for law enforcement. Others reboot their operations to make them more lucrative by revising their tactics, techniques and procedures, updating their software and launching marketing campaigns to recruit new affiliates."   The development comes as ransomware attacks are g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang's script shows exactly the files they're after<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-script-shows-exactly-the-files-theyre-after/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A PowerShell script used by the Pysa ransomware operation gives us a sneak peek at the types of data they attempt to steal during a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

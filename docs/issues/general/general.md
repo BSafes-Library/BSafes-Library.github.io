@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech leaders to tackle cybersecurity at White House meeting<a href="https://thehill.com//policy/technology/overnights/569247-hillicon-valley-tech-leaders-to-tackle-cybersecurity-at-white"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaders of the nation's biggest tech companies, including Amazon’s new chief, will head to the White House Wednesday to meet with President BidenJoe BidenHouse Democrats punt key vote on budget to Tuesday Biden envoy calls on North Korea to restart nuclear talks Biden to decide on Afghanistan troop withdrawal extension in next 24 hours: report MORE in the wake of a string of cybersecurity attacks. Apple CEO Tim Cook is reportedly on the list to attend, but the Silicon Valley giant is facing struggles of its own after workers launched an organizing effort for better workplace conditions.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing and Crypto Attacks Soared in First Half of 2021<a href="https://cyware.com/news/phishing-and-crypto-attacks-soared-in-first-half-of-2021-3f16a525"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report published by PhishLabs, 54% of attacks in the cryptocurrency industry came from threat actors impersonating brands, employees, and executives on social media.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

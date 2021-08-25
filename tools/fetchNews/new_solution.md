@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Effective Threat-Hunting Queries in a Redacted World<a href="https://threatpost.com/effective-threat-hunting-queries/168864/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chad Anderson, senior security researcher for DomainTools, demonstrates how seemingly disparate pieces of infrastructure information can form perfect fingerprints for tracking cyberattackers’ infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing Privileged Access to Secure the Post-COVID Perimeter<a href="https://threatpost.com/privileged-access-covid-security/168860/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, chief security scientist &amp; advisory CISO at ThycoticCentrify, discusses how to implement advanced privileged-access practices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

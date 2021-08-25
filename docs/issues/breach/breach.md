@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack exposes medical information for 12,000 patients at Revere Health<a href="https://www.thespectrum.com/story/news/2021/08/23/phishing-attack-exposes-information-12-000-patients-st-george/8214230002/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company doesn’t think it was the intent of the hacker to release patients’ medical information but rather as a way to launch more sophisticated phishing email attacks on other Revere employees.
+</details>
+<div style="text-align: right" markdown="1">
+thespectrum
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+38 Million Records Exposed from Microsoft Power Apps of Dozens of Organisations<a href="https://thehackernews.com/2021/08/38-million-records-exposed-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 38 million records from 47 different entities that rely on Microsoft's Power Apps portals platform were inadvertently left exposed online, bringing into sharp focus a "new vector of data exposure."  "The types of data varied between portals, including personal information used for COVID-19 contact tracing, COVID-19 vaccination appointments, social security numbers for job applicants, employee IDs, and millions of names and email addresses," UpGuard Research team&nbsp; said &nbsp;in a disclosure made public on Monday.  Governmental bodies like Indiana, Maryland, and New York City, and private companies such as American Airlines, Ford, J.B. Hunt, and Microsoft are said to have been impacted. Among the most sensitive information that was left in the open were 332,000 email addresses and employee IDs used by Microsoft's own global payroll services, as well as more than 85,000 records related to Business Tools Support and Mixed Reality portals.   Power Apps &nbsp;is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

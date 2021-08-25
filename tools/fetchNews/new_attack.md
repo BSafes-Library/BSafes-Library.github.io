@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Proliferation of LockBit 2.0 Attacks<a href="https://cyware.com/news/the-proliferation-of-lockbit-20-attacks-7e3ad7b7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the latest telemetry by Trend Micro, researchers revealed that they had detected multiple LockBit 2.0 attack attempts in Chile, Italy, Taiwan, and the U.K.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resurgence in FluBot Malware Attacks<a href="https://cyware.com/news/resurgence-in-flubot-malware-attacks-f10f1ca6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent studies on the FluBot banking malware confirmed that there has been a spike in the number of malicious distribution pages affecting a number of Australian, Polish, and German banks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Year-Long Spear-Phishing Campaign Ensnares Office 365 Users<a href="https://cyware.com/news/a-year-long-spear-phishing-campaign-ensnares-office-365-users-12520308"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers changed their obfuscation and encryption techniques every 37 days. This implies that the gang is highly motivated and possesses sophisticated detection evasion mechanisms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DLL side-loading Attack Takes Advantage of Windows Search Order<a href="https://gbhackers.com/dll-side-loading-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can evade detection using filename matching by renaming the binary executable, as the side-loading technique will remain viable regardless of the name of the executable.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyShell Attacks Pummel Unpatched Exchange Servers<a href="https://threatpost.com/proxyshell-attacks-unpatched-exchange-servers/168879/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is warning about a surge of ProxyShell attacks, as Huntress discovered 140 webshells launched against 1,900 unpatched Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

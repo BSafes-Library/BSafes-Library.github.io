@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: OnePercent Group Ransomware targeted US orgs since Nov 2020<a href="https://www.bleepingcomputer.com/news/security/fbi-onepercent-group-ransomware-targeted-us-orgs-since-nov-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has shared info about a threat actor&nbsp;known as OnePercent Group that has been actively targeting US organizations in ransomware attacks since at least November 2020.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Modus Operandi of ShinyHunters Cyber Crime Group<a href="https://thehackernews.com/2021/08/researchers-detail-modus-operandi-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters, a notorious cybercriminal underground group that's been on a data breach spree since last year, has been observed searching companies' GitHub repository source code for vulnerabilities that can be abused to stage larger scale attacks, an analysis of the hackers' modus operandi has revealed.  "Primarily operating on Raid Forums, the collective's moniker and motivation can partly be derived from their avatar on social media and other forums: a shiny Umbreon Pokémon," Intel 471  researchers said in a report shared with The Hacker News. "As Pokémon players hunt and collect "shiny" characters in the game, ShinyHunters collects and resells user data."  The revelation comes as the&nbsp; average cost of a data breach &nbsp;rose from $3.86 million to $4.24 million, making it the highest average cost in 17 years, with compromised credentials responsible for 20% of the breaches reported by over 500 organizations.   Since rising to prominence in A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memorial Health System forced to cancel surgeries after ransomware attack<a href="https://securityaffairs.co/wordpress/121378/cyber-crime/memorial-health-system-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health organization Memorial Health System was hit by a disruptive cyber attack that forced it to cancel surgeries and divert patients last week.
+
+
+
+The Memorial Health System announced that was hit by a disruptive cyber attack that forced it to suspend...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

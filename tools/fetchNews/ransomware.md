@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyShell vulnerabilities actively exploited to deliver web shells and ransomware<a href="https://www.helpnetsecurity.com/2021/08/23/proxyshell-vulnerabilities-exploited/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three so-called “ProxyShell” vulnerabilities are being actively exploited by various attackers to compromise Microsoft Exchange servers around the world, the Cybersecurity and Infrastructure Security Agency (CISA) warned over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

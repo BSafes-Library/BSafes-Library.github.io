@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Apple Client-Side Scanning System<a href="https://www.lawfareblog.com/apple-client-side-scanning-system"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s efforts, though commendable, raise as many questions as they answer.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahraini Activists Targeted Using a New iPhone Zero-Day Exploit From NSO Group<a href="https://thehackernews.com/2021/08/bahraini-activists-targeted-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undisclosed "zero-click" exploit in Apple's iMessage was abused by Israeli surveillance vendor NSO Group to circumvent iOS security protections and target nine Bahraini activists.  "The hacked activists included three members of Waad (a secular Bahraini political society), three members of the Bahrain Center for Human Rights, two exiled Bahraini dissidents, and one member of Al Wefaq (a Shiite Bahraini political society)," researchers from University of Toronto's Citizen Lab&nbsp; said &nbsp;in a report published today, with four of the targets hacked by an actor it tracks as LULU and believed to be the government of Bahrain.  Citizen Lab called the new exploit chain "FORCEDENTRY."&nbsp;   The development comes a little over a month after an&nbsp; extensive investigation &nbsp;undertaken by a consortium of 17 media organizations revealed the widespread use of NSO Group's Pegasus "military-grade spyware" by authoritarian regimes to&nbsp; facilitate hu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

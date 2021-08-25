@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3711 in OpenSSL can allow to change an application’s behavior<a href="https://securityaffairs.co/wordpress/121426/hacking/cve-2021-3711-openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project patched a high-severity vulnerability, tracked as CVE-2021-3711, that can allow an attacker to change an application’s behavior or cause the app to crash. 
+
+
+
+The OpenSSL Project released the OpenSSL 1.1.1l version that addresses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung can remotely disable their TVs worldwide using TV Block<a href="https://www.bleepingcomputer.com/news/security/samsung-can-remotely-disable-their-tvs-worldwide-using-tv-block/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung says that it can disable any of its&nbsp;Samsung TV sets remotely using&nbsp;TV Block, a feature built into all television products sold worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New zero-click exploit used to target Bahraini activists’ iPhones with NSO spyware<a href="https://securityaffairs.co/wordpress/121415/malware/zero-click-exploit-nso.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citizen Lab uncovered a new zero-click iMessage&nbsp;exploit that was used to deploy the NSO Group's Pegasus spyware on devices belonging to&nbsp;Bahraini activists.
+
+
+
+Researchers from Citizen Lab spotted a zero-click iMessage&nbsp;exploit that was used to deploy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SteelSeries bug gives Windows 10 admin rights by plugging in a device<a href="https://www.bleepingcomputer.com/news/security/steelseries-bug-gives-windows-10-admin-rights-by-plugging-in-a-device/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official app for installing SteelSeries devices on Windows 10 can be exploited to obtain administrator rights, a security researcher has found.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New zero-click iPhone exploit used to deploy NSO spyware<a href="https://www.bleepingcomputer.com/news/apple/new-zero-click-iphone-exploit-used-to-deploy-nso-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital threat researchers at Citizen Lab have uncovered a new zero-click iMessage&nbsp;exploit used to deploy NSO Group's Pegasus spyware on devices belonging to&nbsp;Bahraini activists.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Admin Rights Gobbled by Razer Devices<a href="https://threatpost.com/windows-10-admin-rights-razer-devices-mouse-peripherals/168855/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So much for Windows 10’s security: A zero-day in the device installer software grants admin rights just by plugging in a mouse or other compatible device. UPDATE: Microsoft is investigating. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

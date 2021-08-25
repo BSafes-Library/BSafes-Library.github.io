@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon, IBM leaders among those convening at White House for cyber meeting Wednesday<a href="https://thehill.com//policy/cybersecurity/569230-amazon-ibm-leaders-among-those-convening-at-white-house-for-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CEOs of Amazon and IBM will be among a group of leaders from a wide spectrum of tech companies and organizations set to meet with President Biden at the White House on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive startup Upstream raises $62M Series C to scale cloud-based security<a href="https://techcrunch.com/2021/08/24/automotive-cybersecurity-startup-upstream-raises-62m-series-c-to-scale-cloud-based-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upstream's Series C funding was led by Mitsui Sumitomo Insurance and was joined by new investors I.D.I. Insurance, 57 Stars’ NextGen Mobility Fund, and La Maison Partners.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

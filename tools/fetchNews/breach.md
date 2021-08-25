@@ -8,6 +8,90 @@ nav_order: 900029
 
 ## Breach
 ---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Millions exposed due to Microsoft misconfiguration<a href="https://thehill.com//policy/technology/overnights/569074-hillicon-valley-millions-exposed-due-to-microsoft"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity group UpGuard started out the week on a bang by revealing its findings that 38 million records were exposed online earlier this year due to a misconfiguration in a Microsoft application, including COVID-contact tracing information.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Brokers Are Advertising Data on U.S. Military Personnel<a href="https://www.lawfareblog.com/data-brokers-are-advertising-data-us-military-personnel"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The trend underscores the broader threats posed by the unregulated data brokerage ecosystem to civil rights and national security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Spills 38 Million Sensitive Data Records Via Careless Power App Configs<a href="https://threatpost.com/microsoft-38-million-sensitive-records-power-app/168885/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data leaked includes COVID-19 vaccination records, social security numbers and email addresses tied to American Airlines, Ford, Indiana Department of Health and New York City public schools. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New research finds 38 million records exposed online earlier this year<a href="https://thehill.com//policy/cybersecurity/569056-new-research-finds-38-million-records-exposed-online-earlier-this-year"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thirty-eight million records from dozens&nbsp;of organizations, including COVID-19 contact tracing information, were exposed online earlier this year due to&nbsp;a misconfiguration in a&nbsp;Microsoft product, according to research published Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+38M Records Exposed Online Including COVID-19 Contact-Tracing Info<a href="https://www.wired.com/story/microsoft-power-apps-data-exposed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a thousand web apps mistakenly exposed 38 million records on the open internet, including data from a number of Covid-19 contact tracing platforms, vaccination sign-ups, job application portals, and employee databases.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nokia subsidiary discloses data breach after Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/nokia-subsidiary-discloses-data-breach-after-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAC Wireless, a&nbsp;US-based and independently-operating Nokia company subsidiary, has disclosed a data breach following a ransomware attack where Conti operators were able to successfully breach its network,&nbsp;steal data, and encrypt systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
