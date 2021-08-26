@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: ProxyShell bugs “might be exploited,” patch servers now!<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-proxyshell-bugs-might-be-exploited-patch-servers-now/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RiskIQ Analysis Links EITest and Gootloader Campaigns, Once Thought to Be Disparate<a href="https://www.riskiq.com/blog/external-threat-management/eitest-gootloader/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Risk IQ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech groups pledge action on cybersecurity<a href="https://thehill.com//policy/cybersecurity/overnights/569471-hillicon-valley-tech-groups-take-action-on-cybersecurity"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Preventing your Cloud 'Secrets' from Public Exposure: An IDE plugin solution<a href="https://thehackernews.com/2021/08/preventing-your-cloud-secrets-from.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds and the Holiday Bear Campaign: A Case Study for the Classroom<a href="https://www.lawfareblog.com/solarwinds-and-holiday-bear-campaign-case-study-classroom"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 addressed a flaw in BIG-IP devices rated as critical severity under specific conditions<a href="https://securityaffairs.co/wordpress/121454/security/f5-big-ip-critical-flaw.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Critical Fixes for High-End Nexus Gear<a href="https://threatpost.com/cisco-issues-critical-fixes-for-high-end-nexus-gear/168939/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft will add secure preview for Office 365 quarantined emails<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-add-secure-preview-for-office-365-quarantined-emails/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Botnet Variant Targeting Vulnerabilities in Realtek Devices<a href="https://cyware.com/news/mirai-botnet-variant-targeting-vulnerabilities-in-realtek-devices-776f557e"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major tech groups commit to array of cybersecurity actions following White House meeting<a href="https://thehill.com//policy/cybersecurity/569461-major-tech-groups-commit-to-array-of-cybersecurity-actions-following"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>  
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover FIN8's New Backdoor Targeting Financial Institutions<a href="https://thehackernews.com/2021/08/researchers-uncover-fin8s-new-backdoor.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 group used a previously undetected Sardonic backdoor in a recent attack<a href="https://securityaffairs.co/wordpress/121446/cyber-crime/fin8-sardonic-backdoor.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical F5 BIG-IP bug impacts customers in sensitive sectors<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-bug-impacts-customers-in-sensitive-sectors/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Drop Commodity RATs to Target Latin Americans<a href="https://cyware.com/news/attackers-drop-commodity-rats-to-target-latin-americans-602e6c04"> Full Text</a>
@@ -267,7 +267,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House gathers tech, education, banking leaders for cyber meeting<a href="https://thehill.com//policy/cybersecurity/569258-white-house-gathers-tech-education-banking-leaders-for-cyber-summit"> Full Text</a>
@@ -283,7 +283,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 B.Braun Infusomat Pumps Could Let Attackers Remotely Alter Medication Dosages<a href="https://thehackernews.com/2021/08/bbraun-infusomat-pumps-could-let.html"> Full Text</a>
@@ -299,7 +299,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShinyHunters group claims to have data of 70M AT&T customers<a href="https://securityaffairs.co/wordpress/121439/data-breach/shinyhunters-70m-att-customers.html"> Full Text</a>
@@ -319,7 +319,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hampshire town loses $2.3 million to overseas scammers<a href="https://www.bleepingcomputer.com/news/security/new-hampshire-town-loses-23-million-to-overseas-scammers/"> Full Text</a>
@@ -335,7 +335,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network Gateways are on the Radar of Mozi<a href="https://cyware.com/news/network-gateways-are-on-the-radar-of-mozi-a6062fe9"> Full Text</a>
@@ -352,7 +352,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SideWalk Backdoor Targets U.S.-based Computer Retail Business<a href="https://thehackernews.com/2021/08/new-sidewalk-backdoor-targets-us-based.html"> Full Text</a>
@@ -368,7 +368,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modified version of Android WhatsApp installs Triada Trojan<a href="https://securityaffairs.co/wordpress/121434/mobile-2/modified-android-whatsapp-triada-trojan.html"> Full Text</a>
@@ -388,7 +388,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ethereum urges Go devs to fix severe chain-split vulnerability<a href="https://www.bleepingcomputer.com/news/security/ethereum-urges-go-devs-to-fix-severe-chain-split-vulnerability/"> Full Text</a>
@@ -404,7 +404,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Delta Variant Spreads, COVID-19 Themes Make Resurgence In Email Threats<a href="https://www.proofpoint.com/us/blog/threat-insight/delta-variant-spreads-covid-19-themes-make-resurgence-email-threats?&web_view=true"> Full Text</a>
@@ -420,7 +420,7 @@ Proofpoint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung could use a TV Block feature to disable any of its TVs worldwide<a href="https://securityaffairs.co/wordpress/121429/digital-id/samsung-tv-block.html"> Full Text</a>
@@ -444,7 +444,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 cybercrime gang backdoors US orgs with new Sardonic malware<a href="https://www.bleepingcomputer.com/news/security/fin8-cybercrime-gang-backdoors-us-orgs-with-new-sardonic-malware/"> Full Text</a>
@@ -460,7 +460,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The 'Joker' Virus Has Returned to Android Apps in the Google Play Store<a href="https://www.entrepreneur.com/article/381038?&web_view=true"> Full Text</a>
@@ -476,7 +476,7 @@ Entrepreneur
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe Botnet Returns With Undetectable Threat Profile<a href="https://securityintelligence.com/news/dirtymoe-botnet-returns-undetectable-threat-profile/?&web_view=true"> Full Text</a>
@@ -492,7 +492,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in OpenSSL can allow attackers to change an application’s behavior<a href="https://securityaffairs.co/wordpress/121426/hacking/cve-2021-3711-openssl-flaws.html?&web_view=true"> Full Text</a>
@@ -508,7 +508,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poly Network Recoups $610M Stolen from DeFi Platform<a href="https://threatpost.com/poly-network-recoups-610m-stolen-from-defi-platform/168906/"> Full Text</a>
@@ -524,7 +524,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Custom WhatsApp Build Delivers Triada Malware<a href="https://threatpost.com/custom-whatsapp-build-malware/168892/"> Full Text</a>

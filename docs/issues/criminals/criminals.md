@@ -8,6 +8,56 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 group used a previously undetected Sardonic backdoor in a recent attack<a href="https://securityaffairs.co/wordpress/121446/cyber-crime/fin8-sardonic-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated threat actor FIN8 employed a previously undocumented backdoor, tracked as 'Sardonic,'  in recent attacks.
+
+
+
+The financially motivated threat actor FIN8 has been observed employing a previously undetected backdoor, dubbed  Sardonic,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters group claims to have data of 70M AT&amp;T customers<a href="https://securityaffairs.co/wordpress/121439/data-breach/shinyhunters-70m-att-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claim to have a database containing private information on roughly 70 million AT&amp;T customers, but the company denies any security breach. 
+
+
+
+ShinyHunters group claims to have a database containing private information on roughly 70 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 cybercrime gang backdoors US orgs with new Sardonic malware<a href="https://www.bleepingcomputer.com/news/security/fin8-cybercrime-gang-backdoors-us-orgs-with-new-sardonic-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybercrime gang has breached and backdoored the network of a US financial organization with a new malware known dubbed Sardonic by Bitdefender researchers who first spotted it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

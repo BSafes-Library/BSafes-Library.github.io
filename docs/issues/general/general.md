@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech groups pledge action on cybersecurity<a href="https://thehill.com//policy/cybersecurity/overnights/569471-hillicon-valley-tech-groups-take-action-on-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major federal spotlight shone on cybersecurity Wednesday, with President BidenJoe BidenUS intel report on COVID-19 origins inconclusive: WaPo NBC correspondent: History will remember Afghan withdrawal as 'very dark period' Overnight Defense &amp; National Security: Outcry over Biden's Afghanistan deadline MORE meeting with the leaders of&nbsp;more than two dozen major tech, banking, insurance, energy, and education groups to discuss ways to better secure against cyberattacks, which have ramped up over the last year. Following the meeting, groups including Google, IBM and Microsoft announced major initiatives to fund cybersecurity and enhance the cyber workforce, taking action in the face of escalating threats.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Delta Variant Spreads, COVID-19 Themes Make Resurgence In Email Threats<a href="https://www.proofpoint.com/us/blog/threat-insight/delta-variant-spreads-covid-19-themes-make-resurgence-email-threats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers observed an increase in COVID-19 related threats since late June 2021. They observed high-volume COVID-19 related campaigns from RustyBuer, Formbook, and Ave Maria malware.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

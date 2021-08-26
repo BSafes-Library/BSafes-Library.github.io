@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Could Increase Medication Doses by Exploiting Security Flaws in Infusion Pumps<a href="https://www.wired.com/story/infusion-pump-hack-dose-increase/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that an attacker with access to a health care facility's network could take control of B. Braun SpaceStation by exploiting a common connectivity vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Actively Exploiting Realtek SDK Flaws<a href="https://threatpost.com/attackers-exploiting-realtek/168856/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in software used by 65 vendors under active attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

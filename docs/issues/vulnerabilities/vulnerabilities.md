@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: ProxyShell bugs “might be exploited,” patch servers now!<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-proxyshell-bugs-might-be-exploited-patch-servers-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has finally published guidance today for the actively exploited ProxyShell vulnerabilities impacting multiple on-premises Microsoft Exchange versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 addressed a flaw in BIG-IP devices rated as critical severity under specific conditions<a href="https://securityaffairs.co/wordpress/121454/security/f5-big-ip-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has addressed more than a dozen severe vulnerabilities in its  BIG-IP networking device, including one rated as critical severity under specific conditions. 
+
+
+
+Security vendor F5 has addressed more than a dozen high-severity vulnerabilities in its BIG-IP...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Critical Fixes for High-End Nexus Gear<a href="https://threatpost.com/cisco-issues-critical-fixes-for-high-end-nexus-gear/168939/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking giant issues two critical patches and six high-severity patches. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover FIN8's New Backdoor Targeting Financial Institutions<a href="https://thehackernews.com/2021/08/researchers-uncover-fin8s-new-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor notorious for setting its sights on retail, hospitality, and entertainment industries has been observed deploying a completely new backdoor on infected systems, indicating the operators are continuously retooling their malware arsenal to avoid detection and stay under the radar.  The previously undocumented malware has been dubbed " Sardonic " by Romanian cybersecurity technology company Bitdefender, which it encountered during a&nbsp; forensic investigation &nbsp;in the wake of an unsuccessful attack carried out by&nbsp;FIN8&nbsp;aimed at an unnamed financial institution located in the U.S.   Said to be under active development, "Sardonic backdoor is extremely potent and has a wide range of capabilities that help the threat actor leverage new malware on the fly without updating components," Bitdefender researchers Eduard Budaca and Victor Vrabie said in a report  shared with The Hacker News.   Since emerging on the scene in January 2016, FIN8 has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP bug impacts customers in sensitive sectors<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-bug-impacts-customers-in-sensitive-sectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BIG-IP application services company F5 has fixed more than a dozen high-severity vulnerabilities in its networking device, one of them being elevated to critical severity under specific conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+B.Braun Infusomat Pumps Could Let Attackers Remotely Alter Medication Dosages<a href="https://thehackernews.com/2021/08/bbraun-infusomat-pumps-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed five previously unreported security vulnerabilities affecting B. Braun's Infusomat Space Large Volume Pump and SpaceStation that could be abused by malicious parties to tamper with medication doses without any prior authentication.  McAfee, which discovered and reported the flaws to the German medical and pharmaceutical device company on January 11, 2021,&nbsp; said &nbsp;the "modification could appear as a device malfunction and be noticed only after a substantial amount of drug has been dispensed to a patient, since the infusion pump displays exactly what was prescribed, all while dispensing potentially lethal doses of medication."  The issues have been addressed by B. Braun in SpaceCom L82 or later, Battery Pack SP with WiFi:L82 or later, and DataModule compactplus version A12 or later.   Infusion pumps are medical devices used to deliver intravenous fluids, such as nutrients and medications, into a patient's body in controlled amoun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum urges Go devs to fix severe chain-split vulnerability<a href="https://www.bleepingcomputer.com/news/security/ethereum-urges-go-devs-to-fix-severe-chain-split-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethreum&nbsp;project is&nbsp;urging&nbsp;developers to apply a hotfix to squash a high-severity vulnerability. The chain-split vulnerability tracked as CVE-2021-39137, impacts "Geth," the&nbsp;official&nbsp;Golang implementation of the Ethereum protocol.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

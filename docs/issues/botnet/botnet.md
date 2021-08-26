@@ -8,6 +8,49 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Variant Targeting Vulnerabilities in Realtek Devices<a href="https://cyware.com/news/mirai-botnet-variant-targeting-vulnerabilities-in-realtek-devices-776f557e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai-based botnet operators were found exploiting a new security flaw in the Realtek SDK, impacting hundreds of thousands of devices worldwide. The vulnerabilities were spotted in Realtek chipsets just two days ago. Vulnerable device owners are recommended to apply the patch as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Gateways are on the Radar of Mozi<a href="https://cyware.com/news/network-gateways-are-on-the-radar-of-mozi-a6062fe9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozi, a P2P botnet known to target IoT products, has gained new capabilities to aim at network gateways created by Huawei, Netgear, and ZTE. Mozi propagates by exploiting weak and default remote access passwords and unpatched vulnerabilities. The key security recommendation is always to use a stron ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Botnet Returns With Undetectable Threat Profile<a href="https://securityintelligence.com/news/dirtymoe-botnet-returns-undetectable-threat-profile/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DirtyMoe’s attack chain begins with the attackers attempting to gain admin privileges on a target’s Windows machine. It often relies on the PurpleFox exploit kit to misuse EternalBlue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

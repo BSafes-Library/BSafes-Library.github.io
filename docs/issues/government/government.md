@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House&nbsp;gathers tech, education, banking leaders for&nbsp;cyber meeting<a href="https://thehill.com//policy/cybersecurity/569258-white-house-gathers-tech-education-banking-leaders-for-cyber-summit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration will convene more than two dozen leaders of key groups across a variety of fields&nbsp;at the White House for a cybersecurity&nbsp;meeting&nbsp;on Wednesday intended to serve as a “call to action” to address escalating cyber threats.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

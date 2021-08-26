@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realtek SDK flaws exploited to deliver Mirai bot variant<a href="https://securityaffairs.co/wordpress/121400/cyber-crime/realtek-sdk-flaws-mirai-bot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that threat actors are actively exploiting&nbsp;Realtek SDK vulnerabilities&nbsp;since their technical details were publicly disclosed.
+
+
+
+Researchers from SAM Seamless Network warn that threat actors are actively exploiting&nbsp;Realtek SDK vulnerabilities&nbsp;since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
