@@ -34,7 +34,513 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: ProxyShell bugs “might be exploited,” patch servers now!<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-proxyshell-bugs-might-be-exploited-patch-servers-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has finally published guidance today for the actively exploited ProxyShell vulnerabilities impacting multiple on-premises Microsoft Exchange versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RiskIQ Analysis Links EITest and Gootloader Campaigns, Once Thought to Be Disparate<a href="https://www.riskiq.com/blog/external-threat-management/eitest-gootloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EITest was first identified in 2014 and historically used large numbers of compromised WordPress sites and social engineering techniques to trick users into downloading malware.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Tech groups pledge action on cybersecurity<a href="https://thehill.com//policy/cybersecurity/overnights/569471-hillicon-valley-tech-groups-take-action-on-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major federal spotlight shone on cybersecurity Wednesday, with President BidenJoe BidenUS intel report on COVID-19 origins inconclusive: WaPo NBC correspondent: History will remember Afghan withdrawal as 'very dark period' Overnight Defense & National Security: Outcry over Biden's Afghanistan deadline MORE meeting with the leaders of more than two dozen major tech, banking, insurance, energy, and education groups to discuss ways to better secure against cyberattacks, which have ramped up over the last year. Following the meeting, groups including Google, IBM and Microsoft announced major initiatives to fund cybersecurity and enhance the cyber workforce, taking action in the face of escalating threats. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing your Cloud 'Secrets' from Public Exposure: An IDE plugin solution<a href="https://thehackernews.com/2021/08/preventing-your-cloud-secrets-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm sure you would agree that, in today's digital world, the majority of applications we work on require some type of credentials – to connect to a database with a username/password, to access computer programs via authorized tokens, or API keys to invoke services for authentication.  Credentials, or sometimes just referred to as 'Secrets,' are pieces of user or system-level confidential information that ought to be carefully protected and accessible to legitimate users only. We all know how important it is to keep these assets secure to prevent account misuse and breaches.   A reality check: How often do you make proactive efforts to protect these assets? Rarely, I'd say.   Among the worst mistakes a developer can make when it comes to application security is to accidentally commit confidential information publicly on the Internet. Surprisingly, secrets and credentials are accidentally leaked more often than you might expect, and there are intelligent tools that s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds and the Holiday Bear Campaign: A Case Study for the Classroom<a href="https://www.lawfareblog.com/solarwinds-and-holiday-bear-campaign-case-study-classroom"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interested in a detailed-but-accessible case study of the Russian cyberespionage campaign that targeted SolarWinds (among others)? I’ve got you covered.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 addressed a flaw in BIG-IP devices rated as critical severity under specific conditions<a href="https://securityaffairs.co/wordpress/121454/security/f5-big-ip-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has addressed more than a dozen severe vulnerabilities in its  BIG-IP networking device, including one rated as critical severity under specific conditions. 
+
+
+
+Security vendor F5 has addressed more than a dozen high-severity vulnerabilities in its BIG-IP...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Critical Fixes for High-End Nexus Gear<a href="https://threatpost.com/cisco-issues-critical-fixes-for-high-end-nexus-gear/168939/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking giant issues two critical patches and six high-severity patches. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will add secure preview for Office 365 quarantined emails<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-add-secure-preview-for-office-365-quarantined-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is updating Defender for Office 365 to protect customers from embedded email threats while previewing quarantined emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Variant Targeting Vulnerabilities in Realtek Devices<a href="https://cyware.com/news/mirai-botnet-variant-targeting-vulnerabilities-in-realtek-devices-776f557e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai-based botnet operators were found exploiting a new security flaw in the Realtek SDK, impacting hundreds of thousands of devices worldwide. The vulnerabilities were spotted in Realtek chipsets just two days ago. Vulnerable device owners are recommended to apply the patch as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major tech groups commit to array of cybersecurity actions following White House meeting<a href="https://thehill.com//policy/cybersecurity/569461-major-tech-groups-commit-to-array-of-cybersecurity-actions-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government and several major technology companies on Wednesday announced they are taking a host of steps to enhance the nation’s cybersecurity, specifically focused on growing the cyber workforce and investing billions of dollars in the field. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover FIN8's New Backdoor Targeting Financial Institutions<a href="https://thehackernews.com/2021/08/researchers-uncover-fin8s-new-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor notorious for setting its sights on retail, hospitality, and entertainment industries has been observed deploying a completely new backdoor on infected systems, indicating the operators are continuously retooling their malware arsenal to avoid detection and stay under the radar.  The previously undocumented malware has been dubbed " Sardonic " by Romanian cybersecurity technology company Bitdefender, which it encountered during a  forensic investigation  in the wake of an unsuccessful attack carried out by FIN8 aimed at an unnamed financial institution located in the U.S.   Said to be under active development, "Sardonic backdoor is extremely potent and has a wide range of capabilities that help the threat actor leverage new malware on the fly without updating components," Bitdefender researchers Eduard Budaca and Victor Vrabie said in a report  shared with The Hacker News.   Since emerging on the scene in January 2016, FIN8 has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 group used a previously undetected Sardonic backdoor in a recent attack<a href="https://securityaffairs.co/wordpress/121446/cyber-crime/fin8-sardonic-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated threat actor FIN8 employed a previously undocumented backdoor, tracked as 'Sardonic,'  in recent attacks.
+
+
+
+The financially motivated threat actor FIN8 has been observed employing a previously undetected backdoor, dubbed  Sardonic,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical F5 BIG-IP bug impacts customers in sensitive sectors<a href="https://www.bleepingcomputer.com/news/security/critical-f5-big-ip-bug-impacts-customers-in-sensitive-sectors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BIG-IP application services company F5 has fixed more than a dozen high-severity vulnerabilities in its networking device, one of them being elevated to critical severity under specific conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Drop Commodity RATs to Target Latin Americans<a href="https://cyware.com/news/attackers-drop-commodity-rats-to-target-latin-americans-602e6c04"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of malware campaigns have been discovered spreading commodity RATs and using a .NET-based crypter service 3losh to target travel and hospitality businesses in Latin America.  These campaigns use either compromised or attacker-controlled websites to host their tools and payloads. Furthermore,  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House gathers tech, education, banking leaders for cyber meeting<a href="https://thehill.com//policy/cybersecurity/569258-white-house-gathers-tech-education-banking-leaders-for-cyber-summit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration will convene more than two dozen leaders of key groups across a variety of fields at the White House for a cybersecurity meeting on Wednesday intended to serve as a “call to action” to address escalating cyber threats. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+B.Braun Infusomat Pumps Could Let Attackers Remotely Alter Medication Dosages<a href="https://thehackernews.com/2021/08/bbraun-infusomat-pumps-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed five previously unreported security vulnerabilities affecting B. Braun's Infusomat Space Large Volume Pump and SpaceStation that could be abused by malicious parties to tamper with medication doses without any prior authentication.  McAfee, which discovered and reported the flaws to the German medical and pharmaceutical device company on January 11, 2021,  said  the "modification could appear as a device malfunction and be noticed only after a substantial amount of drug has been dispensed to a patient, since the infusion pump displays exactly what was prescribed, all while dispensing potentially lethal doses of medication."  The issues have been addressed by B. Braun in SpaceCom L82 or later, Battery Pack SP with WiFi:L82 or later, and DataModule compactplus version A12 or later.   Infusion pumps are medical devices used to deliver intravenous fluids, such as nutrients and medications, into a patient's body in controlled amoun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShinyHunters group claims to have data of 70M AT&T customers<a href="https://securityaffairs.co/wordpress/121439/data-breach/shinyhunters-70m-att-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claim to have a database containing private information on roughly 70 million AT&T customers, but the company denies any security breach. 
+
+
+
+ShinyHunters group claims to have a database containing private information on roughly 70 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hampshire town loses $2.3 million to overseas scammers<a href="https://www.bleepingcomputer.com/news/security/new-hampshire-town-loses-23-million-to-overseas-scammers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peterborough, a small New Hampshire town, has lost $2.3 million after BEC scammers redirected several bank transfers using forged documents sent to the town's Finance Department staff in multiple email exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Gateways are on the Radar of Mozi<a href="https://cyware.com/news/network-gateways-are-on-the-radar-of-mozi-a6062fe9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozi, a P2P botnet known to target IoT products, has gained new capabilities to aim at network gateways created by Huawei, Netgear, and ZTE. Mozi propagates by exploiting weak and default remote access passwords and unpatched vulnerabilities. The key security recommendation is always to use a stron ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SideWalk Backdoor Targets U.S.-based Computer Retail Business<a href="https://thehackernews.com/2021/08/new-sidewalk-backdoor-targets-us-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A computer retail company based in the U.S. was the target of a previously undiscovered implant called SideWalk  as part of a recent campaign undertaken by a Chinese advanced persistent threat group primarily known for singling out entities in East and Southeast Asia.  Slovak cybersecurity firm ESET attributed the malware to an advanced persistent threat it tracks under the moniker SparklingGoblin, an adversary believed to be connected to the Winnti umbrella group, noting its similarities to another backdoor dubbed  Crosswalk  that was put to use by the same threat actor in 2019.   "SideWalk is a modular backdoor that can dynamically load additional modules sent from its C&C [command-and-control] server, makes use of Google Docs as a  dead drop resolver , and  Cloudflare workers  as a C&C server," ESET researchers Thibaut Passilly and Mathieu Tartare  said  in a report published Tuesday. "It can also properly handle communication behind a proxy."  Since fir
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modified version of Android WhatsApp installs Triada Trojan<a href="https://securityaffairs.co/wordpress/121434/mobile-2/modified-android-whatsapp-triada-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a modified version of WhatsApp for Android, which offers extra features, but that installs the Triada Trojan on the devices.
+
+
+
+Researchers from Kaspersky spotted a modified version of WhatsApp for Android, which offers extra features,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum urges Go devs to fix severe chain-split vulnerability<a href="https://www.bleepingcomputer.com/news/security/ethereum-urges-go-devs-to-fix-severe-chain-split-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ethreum project is urging developers to apply a hotfix to squash a high-severity vulnerability. The chain-split vulnerability tracked as CVE-2021-39137, impacts "Geth," the official Golang implementation of the Ethereum protocol.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Delta Variant Spreads, COVID-19 Themes Make Resurgence In Email Threats<a href="https://www.proofpoint.com/us/blog/threat-insight/delta-variant-spreads-covid-19-themes-make-resurgence-email-threats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers observed an increase in COVID-19 related threats since late June 2021. They observed high-volume COVID-19 related campaigns from RustyBuer, Formbook, and Ave Maria malware.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung could use a TV Block feature to disable any of its TVs worldwide<a href="https://securityaffairs.co/wordpress/121429/digital-id/samsung-tv-block.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The South Korean multinational Samsung revealed that it can disable its Samsung TV sets remotely using the TV Block feature.
+
+
+
+Samsung TV sets can be remotely disabled by the vendor using a built-in feature dubbed TV Block.
+
+
+
+The company revealed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 cybercrime gang backdoors US orgs with new Sardonic malware<a href="https://www.bleepingcomputer.com/news/security/fin8-cybercrime-gang-backdoors-us-orgs-with-new-sardonic-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybercrime gang has breached and backdoored the network of a US financial organization with a new malware known dubbed Sardonic by Bitdefender researchers who first spotted it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 'Joker' Virus Has Returned to Android Apps in the Google Play Store<a href="https://www.entrepreneur.com/article/381038?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"This malicious program has been detected in eight Play Store applications that Google has suppressed," say the Belgian authorities in a statement published this Friday on their website.
+</details>
+<div style="text-align: right" markdown="1">
+Entrepreneur
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Botnet Returns With Undetectable Threat Profile<a href="https://securityintelligence.com/news/dirtymoe-botnet-returns-undetectable-threat-profile/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DirtyMoe’s attack chain begins with the attackers attempting to gain admin privileges on a target’s Windows machine. It often relies on the PurpleFox exploit kit to misuse EternalBlue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in OpenSSL can allow attackers to change an application’s behavior<a href="https://securityaffairs.co/wordpress/121426/hacking/cve-2021-3711-openssl-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability ties the decryption of SM2 encrypted data, the changes depend on the targeted application and data it maintains (i.e. credentials) in the heap while the issue is exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poly Network Recoups $610M Stolen from DeFi Platform<a href="https://threatpost.com/poly-network-recoups-610m-stolen-from-defi-platform/168906/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker returned the loot after being offered a gig as chief security advisor with Poly Network. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Custom WhatsApp Build Delivers Triada Malware<a href="https://threatpost.com/custom-whatsapp-build-malware/168892/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted the latest version of the Triada trojan targeting mobile devices via an advertising SDK. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake OpenSea support staff are stealing cryptowallets and NFTs<a href="https://www.bleepingcomputer.com/news/security/fake-opensea-support-staff-are-stealing-cryptowallets-and-nfts/"> Full Text</a>
@@ -50,7 +556,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attack exposes medical information for 12,000 patients at Revere Health<a href="https://www.thespectrum.com/story/news/2021/08/23/phishing-attack-exposes-information-12-000-patients-st-george/8214230002/?&web_view=true"> Full Text</a>
@@ -66,7 +572,7 @@ thespectrum
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Tech leaders to tackle cybersecurity at White House meeting<a href="https://thehill.com//policy/technology/overnights/569247-hillicon-valley-tech-leaders-to-tackle-cybersecurity-at-white"> Full Text</a>
@@ -82,7 +588,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modified Version of WhatsApp for Android Spotted Installing Triada Trojan<a href="https://thehackernews.com/2021/08/modified-version-of-whatsapp-for.html"> Full Text</a>
@@ -98,7 +604,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Apple Client-Side Scanning System<a href="https://www.lawfareblog.com/apple-client-side-scanning-system"> Full Text</a>
@@ -114,7 +620,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-3711 in OpenSSL can allow to change an application’s behavior<a href="https://securityaffairs.co/wordpress/121426/hacking/cve-2021-3711-openssl-flaws.html"> Full Text</a>
@@ -134,7 +640,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Effective Threat-Hunting Queries in a Redacted World<a href="https://threatpost.com/effective-threat-hunting-queries/168864/"> Full Text</a>
@@ -150,7 +656,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung can remotely disable their TVs worldwide using TV Block<a href="https://www.bleepingcomputer.com/news/security/samsung-can-remotely-disable-their-tvs-worldwide-using-tv-block/"> Full Text</a>
@@ -166,7 +672,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Proliferation of LockBit 2.0 Attacks<a href="https://cyware.com/news/the-proliferation-of-lockbit-20-attacks-7e3ad7b7"> Full Text</a>
@@ -182,7 +688,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon, IBM leaders among those convening at White House for cyber meeting Wednesday<a href="https://thehill.com//policy/cybersecurity/569230-amazon-ibm-leaders-among-those-convening-at-white-house-for-cyber"> Full Text</a>
@@ -198,7 +704,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bahraini Activists Targeted Using a New iPhone Zero-Day Exploit From NSO Group<a href="https://thehackernews.com/2021/08/bahraini-activists-targeted-using-new.html"> Full Text</a>
@@ -214,7 +720,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New zero-click exploit used to target Bahraini activists’ iPhones with NSO spyware<a href="https://securityaffairs.co/wordpress/121415/malware/zero-click-exploit-nso.html"> Full Text</a>
@@ -234,7 +740,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SteelSeries bug gives Windows 10 admin rights by plugging in a device<a href="https://www.bleepingcomputer.com/news/security/steelseries-bug-gives-windows-10-admin-rights-by-plugging-in-a-device/"> Full Text</a>
@@ -250,7 +756,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resurgence in FluBot Malware Attacks<a href="https://cyware.com/news/resurgence-in-flubot-malware-attacks-f10f1ca6"> Full Text</a>
@@ -266,7 +772,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of 4 Emerging Ransomware Groups That Can Cause Havoc<a href="https://thehackernews.com/2021/08/researchers-warn-of-4-new-ransomware.html"> Full Text</a>
@@ -282,7 +788,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI flash alert warns on OnePercent Group Ransomware attacks<a href="https://securityaffairs.co/wordpress/121411/cyber-crime/onepercent-group-ransomware-attacks.html"> Full Text</a>
@@ -302,7 +808,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang's script shows exactly the files they're after<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-script-shows-exactly-the-files-theyre-after/"> Full Text</a>
@@ -318,7 +824,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing and Crypto Attacks Soared in First Half of 2021<a href="https://cyware.com/news/phishing-and-crypto-attacks-soared-in-first-half-of-2021-3f16a525"> Full Text</a>
@@ -334,7 +840,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 38 Million Records Exposed from Microsoft Power Apps of Dozens of Organisations<a href="https://thehackernews.com/2021/08/38-million-records-exposed-from.html"> Full Text</a>
@@ -350,7 +856,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Realtek SDK flaws exploited to deliver Mirai bot variant<a href="https://securityaffairs.co/wordpress/121400/cyber-crime/realtek-sdk-flaws-mirai-bot.html"> Full Text</a>
@@ -370,7 +876,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious WhatsApp mod infects Android devices with malware<a href="https://www.bleepingcomputer.com/news/security/malicious-whatsapp-mod-infects-android-devices-with-malware/"> Full Text</a>
@@ -386,7 +892,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Year-Long Spear-Phishing Campaign Ensnares Office 365 Users<a href="https://cyware.com/news/a-year-long-spear-phishing-campaign-ensnares-office-365-users-12520308"> Full Text</a>
@@ -402,7 +908,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New zero-click iPhone exploit used to deploy NSO spyware<a href="https://www.bleepingcomputer.com/news/apple/new-zero-click-iphone-exploit-used-to-deploy-nso-spyware/"> Full Text</a>
@@ -418,7 +924,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Could Increase Medication Doses by Exploiting Security Flaws in Infusion Pumps<a href="https://www.wired.com/story/infusion-pump-hack-dose-increase/?&web_view=true"> Full Text</a>
@@ -434,7 +940,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automotive startup Upstream raises $62M Series C to scale cloud-based security<a href="https://techcrunch.com/2021/08/24/automotive-cybersecurity-startup-upstream-raises-62m-series-c-to-scale-cloud-based-security/?&web_view=true"> Full Text</a>
@@ -450,7 +956,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2021
+August 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DLL side-loading Attack Takes Advantage of Windows Search Order<a href="https://gbhackers.com/dll-side-loading-attack/?&web_view=true"> Full Text</a>
@@ -466,7 +972,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProxyShell Attacks Pummel Unpatched Exchange Servers<a href="https://threatpost.com/proxyshell-attacks-unpatched-exchange-servers/168879/"> Full Text</a>
@@ -482,7 +988,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10 Admin Rights Gobbled by Razer Devices<a href="https://threatpost.com/windows-10-admin-rights-razer-devices-mouse-peripherals/168855/"> Full Text</a>
@@ -498,7 +1004,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Managing Privileged Access to Secure the Post-COVID Perimeter<a href="https://threatpost.com/privileged-access-covid-security/168860/"> Full Text</a>
@@ -514,7 +1020,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2021
+August 23, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Actively Exploiting Realtek SDK Flaws<a href="https://threatpost.com/attackers-exploiting-realtek/168856/"> Full Text</a>
