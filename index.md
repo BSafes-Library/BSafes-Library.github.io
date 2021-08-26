@@ -34,6 +34,290 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Eye Clinic Suffers Ransomware Attack Impacting Patients’ Personal Information<a href="https://www.straitstimes.com/tech/tech-news/nearly-73500-patients-data-affected-in-ransomware-attack-on-eye-clinic-in-spore?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack earlier this month has affected the personal data and clinical information of nearly 73,500 patients of a private eye clinic, the third such reported incident in a month.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Increased Liability of Local In-home Propagation<a href="https://thehackernews.com/2021/08/the-increased-liability-of-local-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today I discuss an attack vector conducive to cross-organizational spread, in-home local propagation. Though often overlooked, this vector is especially relevant today, as many corporate employees remain working from home.  In this post, I contrast in-home local propagation with traditional vectors through which a threat (ransomware in particular) spreads throughout an organization. I discuss the reasons this type of spread is problematic for employees and corporations alike. Finally, I offer simple solutions to mitigate the risk of such tactics.   Why Should IT and Security Stakeholders Care?  Today's long cycle attacks are often reconnoitering the victim environment for weeks, if not months. In this time, the attacker gains a tremendous amount of knowledge about systems in the victim's footprint. This additional loiter time in the victim's environment, coupled with ad-hoc maintained work-from-home environments, presents both an  ingress avenue  for attacks into their net
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data and docs of Swiss town Rolle available on the dark web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents and personal details of residents of the small Swiss town Rolle, on the shores of Lake Geneva, were stolen in a ransomware attack.
+
+
+
+The Swiss town Rolle disclosed the data breach after a ransomware attack, personal details of all its 6,200...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: Ransomware Up x10: Disrupting Cybercrime Suppy Chains an Opportunity<a href="https://threatpost.com/podcast-ransomware-up-tenfold-telecoms/168913/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Derek Manky, Chief, Security Insights & Global Threat Alliances at Fortinet’s FortiGuard Labs, discusses the top threats and lessons learned from the first half of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kanye's upcoming album is a scam magnet, Kaspersky finds<a href="https://www.techrepublic.com/article/kanyes-upcoming-album-is-a-scam-magnet-kaspersky-finds/#ftag=RSS56d97e7?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the case of Kanye's latest release, Kaspersky found fake downloads linking to scam websites just like those found in the days immediately preceding the release of "Black Widow."
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Releases Critical Security Patches for BIG-IP and BIG-IQ Devices<a href="https://thehackernews.com/2021/08/f5-releases-critical-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise security and network appliance vendor F5 has released patches for more than  two dozen security vulnerabilities  affecting multiple versions of BIG-IP and BIG-IQ devices that could potentially allow an attacker to perform a wide range of malicious actions, including accessing arbitrary files, escalating privileges, and executing JavaScript code.  Of the 29 bugs addressed, 13 are high-severity flaws, 15 are rated medium, and one is rated low in severity.  Chief among them is  CVE-2021-23031  (CVSS score: 8.8), a vulnerability affecting BIG-IP Advanced Web Application Firewall and BIG-IP Application Security Manager that allows an authenticated user to perform a privilege escalation.   "When this vulnerability is exploited, an authenticated attacker with access to the Configuration utility can execute arbitrary system commands, create or delete files, and/or disable services. This vulnerability may result in complete system compromise," F5 said in its advisory.  It&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed 4 High-Severity flaws in vRealize Operations<a href="https://securityaffairs.co/wordpress/121462/security/vmware-vrealize-operations-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address multiple vulnerabilities in vRealize Operations, including four high severity flaws.
+
+
+
+VMware addressed multiple vulnerabilities in vRealize Operations, including four high severity flaws. 
+
+
+
+The most severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi scams go from zero to $129 million in a year to become top financial hack<a href="https://www.techrepublic.com/article/dont-get-rugged-defi-scams-go-from-zero-to-129-million-in-a-year-to-become-top-financial-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlas VPN analyzed financial hacks over the last two-and-a-half years and found that DeFi hacks represent 76% of all major hacks for the first half of 2021 as compared to 25% of the total in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Passwordless Verification API Uses SIM Security for Zero Trust Remote Access<a href="https://thehackernews.com/2021/08/new-passwordless-verification-api-uses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forget watercooler conspiracies or boardroom battles. There's a new war in the office. As companies nudge their staff to return to communal workspaces, many workers don't actually want to – more than 50 percent of employees would rather quit, according to  research by EY .   While HR teams worry over the hearts and minds of staff, IT security professionals have a different battle plan to draft – how to make the new normal of the hybrid workplace secure.  The Trade-off Between Usability and Security  A company's biggest vulnerability continues to be its people. In a hybrid workplace, a Zero Trust strategy means ever-tightening security.  The MFA a company chooses  affects the difficulty of logging into email, dashboards, workflow tools, client documentation, and so on. Or, conversely, how porous access security is.   Now imagine this scenario. An employee opens a company portal, confirms a prompt on a company app on her phone, and that's it. She has been authenticated s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data and Documents of Swiss Town of Rolle Released on the Dark Web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swiss town Rolle disclosed the data breach after a ransomware attack compromised some administrative servers, personal details of all its 6,200 inhabitants were stolen by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches to Fix New Flaws Affecting Multiple Products<a href="https://thehackernews.com/2021/08/vmware-issues-patches-to-fix-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Wednesday shipped  security updates  to address vulnerabilities in multiple products that could be potentially exploited by an attacker to take control of an affected system.  The six security weaknesses (from CVE-2021-22022 through CVE-2021-22027, CVSS scores: 4.4 - 8.6) affect VMware vRealize Operations (prior to version 8.5.0), VMware Cloud Foundation (versions 3.x and 4.x), and vRealize Suite Lifecycle Manager (version 8.x), as listed below -   CVE-2021-22022  (CVSS score: 4.4) - Arbitrary file read vulnerability in vRealize Operations Manager API, leading to information disclosure  CVE-2021-22023  (CVSS score: 6.6) - Insecure direct object reference vulnerability in vRealize Operations Manager API, enabling an attacker with administrative access to alter other users' information and seize control of an account  CVE-2021-22024  (CVSS score: 7.5) - Arbitrary log-file read vulnerability in vRealize Operations Manager API, resulting in sensitive information disclosure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Vulnerabilities exploited to Hack Linux Systems<a href="https://voiceofciso.com/top-vulnerabilities-exploited-to-hack-linux-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trend Micro, which identified around 15 million malware events targeting Linux-based cloud, coin miners and ransomware make up 54% of all malware, and web shells account for 29% of them.
+</details>
+<div style="text-align: right" markdown="1">
+voiceofciso
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Details Additional Malware Targeting Pulse Secure Appliances<a href="https://www.securityweek.com/cisa-details-additional-malware-targeting-pulse-secure-appliances?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released five new analysis reports detailing malware discovered on compromised Pulse Secure devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Ramped Up At the Peak of Working From Home<a href="https://unit42.paloaltonetworks.com/phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations must rethink how to protect their workforces moving forward, which starts by making digital security an integral part of their hybrid and remote work plans.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 addressed a flaw in BIG-IP devices rated as critical severity under specific conditions<a href="https://securityaffairs.co/wordpress/121454/security/f5-big-ip-critical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2021-23031, is a privilege escalation issue on BIG-IP Advanced Web Application Firewall (WAF) and Application Security Manager (ASM) Traffic Management User Interface (TMUI).
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Man Hacked iCloud Accounts to Steal Nude Photos<a href="https://threatpost.com/man-hacked-icloud/168923/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hao Kou Chi pleaded guilty to four felonies in a hacker-for-hire scam that used socially engineered emails to trick people out of their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Discovered in Cisco APIC for Switches — Patch Released<a href="https://thehackernews.com/2021/08/critical-flaw-discovered-in-cisco-apic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems on Wednesday issued patches to address a critical security vulnerability affecting the Application Policy Infrastructure Controller (APIC) interface used in its Nexus 9000 Series Switches that could be potentially abused to read or write arbitrary files on a vulnerable system.  Tracked as  CVE-2021-1577  (CVSS score: 9.1), the issue — which is due to improper access control — could enable an unauthenticated, remote attacker to upload a file to the appliances. " A successful exploit could allow the attacker to read or write arbitrary files on an affected device," the company  said  in an advisory.   The APIC appliance is a centralized, clustered controller that programmatically automates network provisioning and control based on the application requirements and policies across physical and virtual environments.  Cisco said it discovered the vulnerability during internal security testing by the Cisco Advanced Security Initiatives Group (ASIG).   Additionally, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
