@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data and docs of Swiss town Rolle available on the dark web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents and personal details of residents of the small Swiss town Rolle, on the shores of Lake Geneva, were stolen in a ransomware attack.
+
+
+
+The Swiss town Rolle disclosed the data breach after a ransomware attack, personal details of all its 6,200...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data and Documents of Swiss Town of Rolle Released on the Dark Web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swiss town Rolle disclosed the data breach after a ransomware attack compromised some administrative servers, personal details of all its 6,200 inhabitants were stolen by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900029
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Poly Network Recoups $610M Stolen from DeFi Platform<a href="https://threatpost.com/poly-network-recoups-610m-stolen-from-defi-platform/168906/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker returned the loot after being offered a gig as chief security advisor with Poly Network. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Phishing attack exposes medical information for 12,000 patients at Revere Health<a href="https://www.thespectrum.com/story/news/2021/08/23/phishing-attack-exposes-information-12-000-patients-st-george/8214230002/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

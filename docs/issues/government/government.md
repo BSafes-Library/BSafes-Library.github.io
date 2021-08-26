@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Details Additional Malware Targeting Pulse Secure Appliances<a href="https://www.securityweek.com/cisa-details-additional-malware-targeting-pulse-secure-appliances?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released five new analysis reports detailing malware discovered on compromised Pulse Secure devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

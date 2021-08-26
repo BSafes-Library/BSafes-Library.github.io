@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing your Cloud 'Secrets' from Public Exposure: An IDE plugin solution<a href="https://thehackernews.com/2021/08/preventing-your-cloud-secrets-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm sure you would agree that, in today's digital world, the majority of applications we work on require some type of credentials – to connect to a database with a username/password, to access computer programs via authorized tokens, or API keys to invoke services for authentication.  Credentials, or sometimes just referred to as 'Secrets,' are pieces of user or system-level confidential information that ought to be carefully protected and accessible to legitimate users only. We all know how important it is to keep these assets secure to prevent account misuse and breaches.&nbsp;  A reality check: How often do you make proactive efforts to protect these assets? Rarely, I'd say.&nbsp;  Among the worst mistakes a developer can make when it comes to application security is to accidentally commit confidential information publicly on the Internet. Surprisingly, secrets and credentials are accidentally leaked more often than you might expect, and there are intelligent tools that s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will add secure preview for Office 365 quarantined emails<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-add-secure-preview-for-office-365-quarantined-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is updating Defender for Office 365 to protect customers from embedded email threats while previewing quarantined emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

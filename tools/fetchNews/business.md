@@ -8,6 +8,42 @@ nav_order: 900027
 
 ## Business
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major tech groups commit to array of cybersecurity actions following White House meeting<a href="https://thehill.com//policy/cybersecurity/569461-major-tech-groups-commit-to-array-of-cybersecurity-actions-following"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The federal government and several major technology companies on Wednesday announced&nbsp;they are taking a host of steps to&nbsp;enhance the nation’s cybersecurity, specifically focused on growing the cyber workforce and investing billions of dollars in the field.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung could use a TV Block feature to disable any of its TVs worldwide<a href="https://securityaffairs.co/wordpress/121429/digital-id/samsung-tv-block.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The South Korean multinational Samsung revealed that it can disable its Samsung TV sets remotely using&nbsp;the TV Block feature.
+
+
+
+Samsung TV sets can be remotely disabled by the vendor using a built-in feature dubbed TV Block.
+
+
+
+The company revealed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Passwordless Verification API Uses SIM Security for Zero Trust Remote Access<a href="https://thehackernews.com/2021/08/new-passwordless-verification-api-uses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forget watercooler conspiracies or boardroom battles. There's a new war in the office. As companies nudge their staff to return to communal workspaces, many workers don't actually want to – more than 50 percent of employees would rather quit, according to&nbsp; research by EY .&nbsp;  While HR teams worry over the hearts and minds of staff, IT security professionals have a different battle plan to draft – how to make the new normal of the hybrid workplace secure.  The Trade-off Between Usability and Security  A company's biggest vulnerability continues to be its people. In a hybrid workplace, a Zero Trust strategy means ever-tightening security.&nbsp; The MFA a company chooses &nbsp;affects the difficulty of logging into email, dashboards, workflow tools, client documentation, and so on. Or, conversely, how porous access security is.&nbsp;  Now imagine this scenario. An employee opens a company portal, confirms a prompt on a company app on her phone, and that's it. She has been authenticated s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

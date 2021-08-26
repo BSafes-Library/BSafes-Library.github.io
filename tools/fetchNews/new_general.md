@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: Ransomware Up x10: Disrupting Cybercrime Suppy Chains an Opportunity<a href="https://threatpost.com/podcast-ransomware-up-tenfold-telecoms/168913/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Derek Manky, Chief, Security Insights &amp; Global Threat Alliances at Fortinet’s FortiGuard Labs, discusses the top threats and lessons learned from the first half of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Ramped Up At the Peak of Working From Home<a href="https://unit42.paloaltonetworks.com/phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations must rethink how to protect their workforces moving forward, which starts by making digital security an integral part of their hybrid and remote work plans.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

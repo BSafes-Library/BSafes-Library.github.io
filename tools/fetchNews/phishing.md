@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hampshire town loses $2.3 million to overseas scammers<a href="https://www.bleepingcomputer.com/news/security/new-hampshire-town-loses-23-million-to-overseas-scammers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peterborough, a small New Hampshire town, has lost $2.3 million after BEC scammers redirected several bank transfers using forged documents sent to the town's Finance Department staff in multiple email exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore Eye Clinic Suffers Ransomware Attack Impacting Patients’ Personal Information<a href="https://www.straitstimes.com/tech/tech-news/nearly-73500-patients-data-affected-in-ransomware-attack-on-eye-clinic-in-spore?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Increased Liability of Local In-home Propagation<a href="https://thehackernews.com/2021/08/the-increased-liability-of-local-in.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Data and docs of Swiss town Rolle available on the dark web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Podcast: Ransomware Up x10: Disrupting Cybercrime Suppy Chains an Opportunity<a href="https://threatpost.com/podcast-ransomware-up-tenfold-telecoms/168913/"> Full Text</a>
@@ -102,7 +102,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kanye's upcoming album is a scam magnet, Kaspersky finds<a href="https://www.techrepublic.com/article/kanyes-upcoming-album-is-a-scam-magnet-kaspersky-finds/#ftag=RSS56d97e7?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 Releases Critical Security Patches for BIG-IP and BIG-IQ Devices<a href="https://thehackernews.com/2021/08/f5-releases-critical-security-patches.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed 4 High-Severity flaws in vRealize Operations<a href="https://securityaffairs.co/wordpress/121462/security/vmware-vrealize-operations-flaws-2.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeFi scams go from zero to $129 million in a year to become top financial hack<a href="https://www.techrepublic.com/article/dont-get-rugged-defi-scams-go-from-zero-to-129-million-in-a-year-to-become-top-financial-hack/?&web_view=true"> Full Text</a>
@@ -174,7 +174,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Passwordless Verification API Uses SIM Security for Zero Trust Remote Access<a href="https://thehackernews.com/2021/08/new-passwordless-verification-api-uses.html"> Full Text</a>
@@ -190,7 +190,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Data and Documents of Swiss Town of Rolle Released on the Dark Web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Issues Patches to Fix New Flaws Affecting Multiple Products<a href="https://thehackernews.com/2021/08/vmware-issues-patches-to-fix-new-flaws.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Vulnerabilities exploited to Hack Linux Systems<a href="https://voiceofciso.com/top-vulnerabilities-exploited-to-hack-linux-systems/?&web_view=true"> Full Text</a>
@@ -238,7 +238,7 @@ voiceofciso
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Details Additional Malware Targeting Pulse Secure Appliances<a href="https://www.securityweek.com/cisa-details-additional-malware-targeting-pulse-secure-appliances?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attacks Ramped Up At the Peak of Working From Home<a href="https://unit42.paloaltonetworks.com/phishing-attacks/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 addressed a flaw in BIG-IP devices rated as critical severity under specific conditions<a href="https://securityaffairs.co/wordpress/121454/security/f5-big-ip-critical-flaw.html?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California Man Hacked iCloud Accounts to Steal Nude Photos<a href="https://threatpost.com/man-hacked-icloud/168923/"> Full Text</a>
@@ -302,7 +302,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2021
+August 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Discovered in Cisco APIC for Switches — Patch Released<a href="https://thehackernews.com/2021/08/critical-flaw-discovered-in-cisco-apic.html"> Full Text</a>

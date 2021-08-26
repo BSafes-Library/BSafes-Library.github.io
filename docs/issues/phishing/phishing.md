@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kanye's upcoming album is a scam magnet, Kaspersky finds<a href="https://www.techrepublic.com/article/kanyes-upcoming-album-is-a-scam-magnet-kaspersky-finds/#ftag=RSS56d97e7?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the case of Kanye's latest release, Kaspersky found fake downloads linking to scam websites just like those found in the days immediately preceding the release of "Black Widow."
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi scams go from zero to $129 million in a year to become top financial hack<a href="https://www.techrepublic.com/article/dont-get-rugged-defi-scams-go-from-zero-to-129-million-in-a-year-to-become-top-financial-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlas VPN analyzed financial hacks over the last two-and-a-half years and found that DeFi hacks represent 76% of all major hacks for the first half of 2021 as compared to 25% of the total in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
