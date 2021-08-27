@@ -34,6 +34,309 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnarok ransomware releases master decryptor after shutdown<a href="https://www.bleepingcomputer.com/news/security/ragnarok-ransomware-releases-master-decryptor-after-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ragnarok ransomware gang appears to have called it quits and released the master key that can decrypt files locked with their malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese developers expose data belonging to Android gamers<a href="https://www.zdnet.com/article/chinese-developers-expose-data-belonging-to-android-gamers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report shared with ZDNet, vpnMentor's cybersecurity team, led by Noam Rotem and Ran Locar, revealed EskyFun as the owner of a 134GB server exposed and made public online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Coronavirus content moderation complaints come to Reddit<a href="https://thehill.com//policy/technology/overnights/569639-hillicon-valley-coronavirus-content-moderation-complaints-come"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid a surge in new coronavirus cases driven by the delta variant, the role of internet platforms in spreading potentially harmful misinformation about vaccines and other mitigation strategies. At Reddit, which has been praised for its community driven approach to moderation, several users are demanding the company take a firmer stance on certain groups that they say are maliciously spreading bad information. Read more about the letter and Facebook’s latest stab at moderation below.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA publishes malware analysis reports on samples targeting Pulse Secure devices<a href="https://securityaffairs.co/wordpress/121492/security/pulse-secure-cisa-mars.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) released five malware analysis reports (MARs) related to samples found on compromised Pulse Secure devices. 
+
+
+
+The U.S. CISA published five malware analysis reports (MARs) related to samples...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Sues Parents of Teens Who Hijacked Nearly $1M in Bitcoin<a href="https://threatpost.com/man-sues-parents-teens-hijacked-1m-bitcoin/168964/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now adults, the then-teens apparently used clipboard hijacking malware to steal Bitcoin. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology: Multiple products impacted by OpenSSL RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/synology-multiple-products-impacted-by-openssl-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based NAS maker Synology has revealed that recently disclosed remote code execution (RCE) and denial-of-service (DoS) OpenSSL vulnerabilities impact some of its products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Baku (APT41) Active Target Victims in Indo-Pacific Region<a href="https://cyware.com/news/earth-baku-apt41-active-target-victims-in-indo-pacific-region-69b9cefc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers stumbled across a cyberespionage campaign by Earth Baku, or APT41, compromising public and private entities alike located in the Indo-Pacific region. The group deploys previously unknown shellcode loaders, now known as StealthVector and StealthMutant, along with a backdoor i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical flaw in Cisco APIC for Nexus 9000 series switches<a href="https://securityaffairs.co/wordpress/121485/breaking-news/cisco-apic-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical security vulnerability in the Application Policy Infrastructure Controller (APIC) interface used in its Nexus 9000 Series Switches.
+
+
+
+Cisco has released security updates to address a critical security vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Bug Could Lead to Complete System Takeover<a href="https://threatpost.com/f5-critical-bug-system-takeover/168952/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The worst of 13 bugs fixed by the August updates could lead to complete system compromise for users in sensitive sectors running products in Appliance mode. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares technical details for Hive ransomware <a href="https://www.bleepingcomputer.com/news/security/fbi-shares-technical-details-for-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released some technical details and indicators of compromise associated with Hive ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pysa is Using Keyword-based Scripts to Target Data<a href="https://cyware.com/news/pysa-is-using-keyword-based-scripts-to-target-data-cbc2ff6a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A PowerShell script has disclosed details about different types of data that are stolen by the Pysa ransomware group. It has a list of 123 keywords. Some of the keywords are aimed at stealing data from folders related to investigations, crime, fraud, federal, hidden, bureau, illegal, terror, and se ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya fixed two of the three Kaseya Unitrends zero-days found in July<a href="https://securityaffairs.co/wordpress/121478/security/kaseya-unitrends-zero-days-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm Kaseya addressed Kaseya Unitrends zero-day vulnerabilities that were reported by security researchers at the Dutch Institute for Vulnerability Disclosure (DIVD). 
+
+
+
+Kaseya released security updates address server-side Kaseya Unitrends...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and Google to invest billions to bolster US cybersecurity<a href="https://www.bleepingcomputer.com/news/security/microsoft-and-google-to-invest-billions-to-bolster-us-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Executives and leaders from big tech, education, the finance sector, and infrastructure have committed to bolstering US interests' security during yesterday's White House cybersecurity summit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowPad: A High in Demand Chinese Espionage Tool<a href="https://cyware.com/news/shadowpad-a-high-in-demand-chinese-espionage-tool-593efcd1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report has disclosed that ShadowPad backdoor malware has been actively used by different Chinese espionage groups since 2017. The Windows malware platform greatly reduces the development and maintenance cost for the attackers. The availability of such advanced malware as a commodity might emp ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya patches Unitrends server zero-days, issues client mitigations<a href="https://www.bleepingcomputer.com/news/security/kaseya-patches-unitrends-server-zero-days-issues-client-mitigations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American software company Kaseya has issued a security updates to patch server side Kaseya Unitrends vulnerabilities found by security researchers at the Dutch Institute for Vulnerability Disclosure (DIVD).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Trilateration’ vulnerability in dating app Bumble leaked users’ exact location<a href="https://portswigger.net/daily-swig/trilateration-vulnerability-in-dating-app-bumble-leaked-users-exact-location?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robert Heaton, software engineer at payments processor Stripe, said his find could have empowered attackers to discover victims’ home addresses or, to some degree, track their movements.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ULA email leak: internal emails allege smear campaign against SpaceX and Elon Musk<a href="https://cybernews.com/news/ula-email-leak-spacex-elon-musk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six internal emails, allegedly involving correspondence between a union lobbyist and a senior official of American spacecraft launch service provider ULA, have been leaked on a popular hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach at Deep South Allergy Clinic Group Exposed 9,800 Patients’ Health Information<a href="https://portswigger.net/daily-swig/breach-at-deep-south-allergy-clinic-group-exposed-the-health-info-of-estimated-9-800-patients?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlanta Allergy & Asthma (AAA), the largest allergy treatment healthcare business in the region, is notifying 9,800 patients that a January data breach involved protected health information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
