@@ -6,6 +6,54 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with Hive Ransomware <a href="https://publications.bsafes.com/docs/fbi/flash-2021-0825-indicators-of-compromise-associated-with-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware, which was first observed in June 2021 and likely operates as an affiliate-based ransomware, employs a wide variety of tactics, techniques, and procedures (TTPs), creating significant challenges for defense and mitigation.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2021 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Pulse Connect Secure Vulnerabilities <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-110a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is aware of compromises affecting a number of U.S. government agencies, critical infrastructure entities, and other private sector organizations by a cyber threat actor—or actors—beginning in June 2020 or earlier related to vulnerabilities in certain Ivanti Pulse Connect Secure products.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2021 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with OnePercent Group Ransomware <a href="https://publications.bsafes.com/docs/fbi/flash-2021-0823-indicators-of-compromise-associated-with-onepercent-group-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has learned of a cyber-criminal group who self identifies as the “OnePercent Group” and who have used Cobalt Strike to perpetuate ransomware attacks against US companies since November 2020.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2021 - CSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent: Protect Against Active Exploitation of ProxyShell Vulnerabilities <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/08/21/urgent-protect-against-active-exploitation-proxyshell"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious cyber actors are actively exploiting the following ProxyShell vulnerabilities: CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207. An attacker exploiting these vulnerabilities could execute arbitrary code on a vulnerable machine. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 18, 2021 - CSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

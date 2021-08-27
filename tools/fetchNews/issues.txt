@@ -30,12 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.bleepingcomputer.com/news/security/fbi-onepercent-group-ransomware-targeted-us-orgs-since-nov-2020/
-. https://securityaffairs.co/wordpress/121395/security/cisa-alert-exchange-proxyshell-flaws.html
-. https://securityaffairs.co/wordpress/121411/cyber-crime/onepercent-group-ransomware-attacks.html
+
 Law
-. https://securityaffairs.co/wordpress/121492/security/pulse-secure-cisa-mars.html
-. https://www.bleepingcomputer.com/news/security/fbi-shares-technical-details-for-hive-ransomware/
 
 APT
 . APT27
