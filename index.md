@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnarok ransomware releases master decryptor after shutdown<a href="https://www.bleepingcomputer.com/news/security/ragnarok-ransomware-releases-master-decryptor-after-shutdown/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese developers expose data belonging to Android gamers<a href="https://www.zdnet.com/article/chinese-developers-expose-data-belonging-to-android-gamers/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: Coronavirus content moderation complaints come to Reddit<a href="https://thehill.com//policy/technology/overnights/569639-hillicon-valley-coronavirus-content-moderation-complaints-come"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA publishes malware analysis reports on samples targeting Pulse Secure devices<a href="https://securityaffairs.co/wordpress/121492/security/pulse-secure-cisa-mars.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man Sues Parents of Teens Who Hijacked Nearly $1M in Bitcoin<a href="https://threatpost.com/man-sues-parents-teens-hijacked-1m-bitcoin/168964/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology: Multiple products impacted by OpenSSL RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/synology-multiple-products-impacted-by-openssl-rce-vulnerability/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Baku (APT41) Active Target Victims in Indo-Pacific Region<a href="https://cyware.com/news/earth-baku-apt41-active-target-victims-in-indo-pacific-region-69b9cefc"> Full Text</a>
@@ -151,7 +151,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical flaw in Cisco APIC for Nexus 9000 series switches<a href="https://securityaffairs.co/wordpress/121485/breaking-news/cisco-apic-flaw.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 Bug Could Lead to Complete System Takeover<a href="https://threatpost.com/f5-critical-bug-system-takeover/168952/"> Full Text</a>
@@ -187,7 +187,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI shares technical details for Hive ransomware <a href="https://www.bleepingcomputer.com/news/security/fbi-shares-technical-details-for-hive-ransomware/"> Full Text</a>
@@ -203,7 +203,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pysa is Using Keyword-based Scripts to Target Data<a href="https://cyware.com/news/pysa-is-using-keyword-based-scripts-to-target-data-cbc2ff6a"> Full Text</a>
@@ -220,7 +220,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya fixed two of the three Kaseya Unitrends zero-days found in July<a href="https://securityaffairs.co/wordpress/121478/security/kaseya-unitrends-zero-days-2.html"> Full Text</a>
@@ -240,7 +240,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft and Google to invest billions to bolster US cybersecurity<a href="https://www.bleepingcomputer.com/news/security/microsoft-and-google-to-invest-billions-to-bolster-us-cybersecurity/"> Full Text</a>
@@ -256,7 +256,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShadowPad: A High in Demand Chinese Espionage Tool<a href="https://cyware.com/news/shadowpad-a-high-in-demand-chinese-espionage-tool-593efcd1"> Full Text</a>
@@ -273,7 +273,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya patches Unitrends server zero-days, issues client mitigations<a href="https://www.bleepingcomputer.com/news/security/kaseya-patches-unitrends-server-zero-days-issues-client-mitigations/"> Full Text</a>
@@ -289,7 +289,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Trilateration’ vulnerability in dating app Bumble leaked users’ exact location<a href="https://portswigger.net/daily-swig/trilateration-vulnerability-in-dating-app-bumble-leaked-users-exact-location?&web_view=true"> Full Text</a>
@@ -305,7 +305,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ULA email leak: internal emails allege smear campaign against SpaceX and Elon Musk<a href="https://cybernews.com/news/ula-email-leak-spacex-elon-musk/?&web_view=true"> Full Text</a>
@@ -321,7 +321,7 @@ Cyber News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breach at Deep South Allergy Clinic Group Exposed 9,800 Patients’ Health Information<a href="https://portswigger.net/daily-swig/breach-at-deep-south-allergy-clinic-group-exposed-the-health-info-of-estimated-9-800-patients?&web_view=true"> Full Text</a>

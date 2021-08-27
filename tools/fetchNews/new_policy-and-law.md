@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Sues Parents of Teens Who Hijacked Nearly $1M in Bitcoin<a href="https://threatpost.com/man-sues-parents-teens-hijacked-1m-bitcoin/168964/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now adults, the then-teens apparently used clipboard hijacking malware to steal Bitcoin. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

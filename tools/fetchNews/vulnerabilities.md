@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Increased Liability of Local In-home Propagation<a href="https://thehackernews.com/2021/08/the-increased-liability-of-local-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today I discuss an attack vector conducive to cross-organizational spread, in-home local propagation. Though often overlooked, this vector is especially relevant today, as many corporate employees remain working from home.  In this post, I contrast in-home local propagation with traditional vectors through which a threat (ransomware in particular) spreads throughout an organization. I discuss the reasons this type of spread is problematic for employees and corporations alike. Finally, I offer simple solutions to mitigate the risk of such tactics.&nbsp;  Why Should IT and Security Stakeholders Care?  Today's long cycle attacks are often reconnoitering the victim environment for weeks, if not months. In this time, the attacker gains a tremendous amount of knowledge about systems in the victim's footprint. This additional loiter time in the victim's environment, coupled with ad-hoc maintained work-from-home environments, presents both an&nbsp; ingress avenue &nbsp;for attacks into their net
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Releases Critical Security Patches for BIG-IP and BIG-IQ Devices<a href="https://thehackernews.com/2021/08/f5-releases-critical-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise security and network appliance vendor F5 has released patches for more than&nbsp; two dozen security vulnerabilities &nbsp;affecting multiple versions of BIG-IP and BIG-IQ devices that could potentially allow an attacker to perform a wide range of malicious actions, including accessing arbitrary files, escalating privileges, and executing JavaScript code.  Of the 29 bugs addressed, 13 are high-severity flaws, 15 are rated medium, and one is rated low in severity.  Chief among them is&nbsp; CVE-2021-23031 &nbsp;(CVSS score: 8.8), a vulnerability affecting BIG-IP Advanced Web Application Firewall and BIG-IP Application Security Manager that allows an authenticated user to perform a privilege escalation.   "When this vulnerability is exploited, an authenticated attacker with access to the Configuration utility can execute arbitrary system commands, create or delete files, and/or disable services. This vulnerability may result in complete system compromise," F5 said in its advisory.  It&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed 4 High-Severity flaws in vRealize Operations<a href="https://securityaffairs.co/wordpress/121462/security/vmware-vrealize-operations-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches to address multiple vulnerabilities in vRealize Operations, including four high severity flaws.
+
+
+
+VMware addressed multiple vulnerabilities in vRealize Operations, including four high severity flaws. 
+
+
+
+The most severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Issues Patches to Fix New Flaws Affecting Multiple Products<a href="https://thehackernews.com/2021/08/vmware-issues-patches-to-fix-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Wednesday shipped&nbsp; security updates &nbsp;to address vulnerabilities in multiple products that could be potentially exploited by an attacker to take control of an affected system.  The six security weaknesses (from CVE-2021-22022 through CVE-2021-22027, CVSS scores: 4.4 - 8.6) affect VMware vRealize Operations (prior to version 8.5.0), VMware Cloud Foundation (versions 3.x and 4.x), and vRealize Suite Lifecycle Manager (version 8.x), as listed below -   CVE-2021-22022 &nbsp;(CVSS score: 4.4) - Arbitrary file read vulnerability in vRealize Operations Manager API, leading to information disclosure  CVE-2021-22023 &nbsp;(CVSS score: 6.6) - Insecure direct object reference vulnerability in vRealize Operations Manager API, enabling an attacker with administrative access to alter other users' information and seize control of an account  CVE-2021-22024 &nbsp;(CVSS score: 7.5) - Arbitrary log-file read vulnerability in vRealize Operations Manager API, resulting in sensitive information disclosure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Vulnerabilities exploited to Hack Linux Systems<a href="https://voiceofciso.com/top-vulnerabilities-exploited-to-hack-linux-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trend Micro, which identified around 15 million malware events targeting Linux-based cloud, coin miners and ransomware make up 54% of all malware, and web shells account for 29% of them.
+</details>
+<div style="text-align: right" markdown="1">
+voiceofciso
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Discovered in Cisco APIC for Switches — Patch Released<a href="https://thehackernews.com/2021/08/critical-flaw-discovered-in-cisco-apic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Systems on Wednesday issued patches to address a critical security vulnerability affecting the Application Policy Infrastructure Controller (APIC) interface used in its Nexus 9000 Series Switches that could be potentially abused to read or write arbitrary files on a vulnerable system.  Tracked as&nbsp; CVE-2021-1577 &nbsp;(CVSS score: 9.1), the issue — which is due to improper access control — could enable an unauthenticated, remote attacker to upload a file to the appliances. " A successful exploit could allow the attacker to read or write arbitrary files on an affected device," the company&nbsp; said &nbsp;in an advisory.   The APIC appliance is a centralized, clustered controller that programmatically automates network provisioning and control based on the application requirements and policies across physical and virtual environments.  Cisco said it discovered the vulnerability during internal security testing by the Cisco Advanced Security Initiatives Group (ASIG).   Additionally, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

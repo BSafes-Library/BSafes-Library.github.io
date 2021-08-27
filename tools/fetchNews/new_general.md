@@ -11,6 +11,20 @@ nav_order: 900072
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: Coronavirus content moderation complaints come to Reddit<a href="https://thehill.com//policy/technology/overnights/569639-hillicon-valley-coronavirus-content-moderation-complaints-come"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid a surge in new coronavirus cases driven by the delta variant, the role of internet platforms in spreading potentially harmful misinformation about vaccines and other mitigation strategies. At Reddit, which has been praised for its community driven approach to moderation, several users are demanding the company take a firmer stance on certain groups that they say are maliciously spreading bad information. Read more about the letter and Facebook’s latest stab at moderation below.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Podcast: Ransomware Up x10: Disrupting Cybercrime Suppy Chains an Opportunity<a href="https://threatpost.com/podcast-ransomware-up-tenfold-telecoms/168913/"> Full Text</a>
 </p>
 <details>

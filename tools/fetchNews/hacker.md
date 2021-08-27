@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Man Hacked iCloud Accounts to Steal Nude Photos<a href="https://threatpost.com/man-hacked-icloud/168923/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hao Kou Chi pleaded guilty to four felonies in a hacker-for-hire scam that used socially engineered emails to trick people out of their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

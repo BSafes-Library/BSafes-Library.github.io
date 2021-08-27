@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ULA email leak: internal emails allege smear campaign against SpaceX and Elon Musk<a href="https://cybernews.com/news/ula-email-leak-spacex-elon-musk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six internal emails, allegedly involving correspondence between a union lobbyist and a senior official of American spacecraft launch service provider ULA, have been leaked on a popular hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

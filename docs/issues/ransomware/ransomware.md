@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnarok ransomware releases master decryptor after shutdown<a href="https://www.bleepingcomputer.com/news/security/ragnarok-ransomware-releases-master-decryptor-after-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ragnarok ransomware gang appears to have called it quits and released the master key that can decrypt files locked with their malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

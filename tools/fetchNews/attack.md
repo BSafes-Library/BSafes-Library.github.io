@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Eye Clinic Suffers Ransomware Attack Impacting Patients’ Personal Information<a href="https://www.straitstimes.com/tech/tech-news/nearly-73500-patients-data-affected-in-ransomware-attack-on-eye-clinic-in-spore?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack earlier this month has affected the personal data and clinical information of nearly 73,500 patients of a private eye clinic, the third such reported incident in a month.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

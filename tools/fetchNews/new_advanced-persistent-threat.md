@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Baku (APT41) Active Target Victims in Indo-Pacific Region<a href="https://cyware.com/news/earth-baku-apt41-active-target-victims-in-indo-pacific-region-69b9cefc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers stumbled across a cyberespionage campaign by Earth Baku, or APT41, compromising public and private entities alike located in the Indo-Pacific region. The group deploys previously unknown shellcode loaders, now known as StealthVector and StealthMutant, along with a backdoor i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

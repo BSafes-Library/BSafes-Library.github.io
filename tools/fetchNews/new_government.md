@@ -11,6 +11,38 @@ nav_order: 900075
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA publishes malware analysis reports on samples targeting Pulse Secure devices<a href="https://securityaffairs.co/wordpress/121492/security/pulse-secure-cisa-mars.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) released five malware analysis reports (MARs) related to samples found on compromised Pulse Secure devices. 
+
+
+
+The U.S. CISA published five malware analysis reports (MARs) related to samples...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI shares technical details for Hive ransomware <a href="https://www.bleepingcomputer.com/news/security/fbi-shares-technical-details-for-hive-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released some technical details and indicators of compromise associated with Hive ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Details Additional Malware Targeting Pulse Secure Appliances<a href="https://www.securityweek.com/cisa-details-additional-malware-targeting-pulse-secure-appliances?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
