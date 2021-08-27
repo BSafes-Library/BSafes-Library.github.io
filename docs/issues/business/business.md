@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google to Invest $30 Billion in Cybersecurity Over Next 5 Years<a href="https://thehackernews.com/2021/08/microsoft-google-to-invest-30-billion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google and Microsoft said they are pledging to invest a total of $30 billion in cybersecurity advancements over the next five years, as the U.S. government&nbsp; partners &nbsp;with private sector companies to address threats facing the country in the wake of a string of sophisticated malicious cyber activity targeting critical infrastructure, laying bare the risks to data, organizations, and governments worldwide.  The White House cybersecurity meeting, which brought together executives from the education, energy, finance, insurance, and tech sectors, included companies like ADP, Amazon, Apple, Bank of America, Code.org, Girls Who Code, Google, IBM, JPMorgan Chase, Microsoft, and Vantage Group, among others.   To that end, the U.S. government on Wednesday announced a collaboration between the National Institute of Standards and Technology (NIST) and industry partners to develop a new framework to improve the security and integrity of the technology supply chain, alongside plans to expand the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monad emerges from stealth with $17M to solve the cybersecurity big data problem<a href="https://techcrunch.com/2021/08/26/monad-emerges-from-stealth-with-17m-to-solve-the-cybersecurity-big-data-problem/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security firm Monad, which offers a platform for extracting and connecting data from various security tools, has launched from stealth with $17 million in Series A funding led by Index Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updates on our continued collaboration with NIST to secure the Software Supply Chain<a href="https://security.googleblog.com/2021/08/updates-on-our-continued-collaboration.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will collaborate with the National Institute of Standards and Technology to support and develop a new framework that will help improve the security and integrity of the technology supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastic acquisition spree continues as it acquires security startup CMD<a href="https://techcrunch.com/2021/08/25/elastic-acquisition-spree-continues-as-it-acquires-security-startup-cmd/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic CEO and co-founder Shay Banon told TechCrunch that his company will be welcoming the employees of CMD into his company, but did not disclose precisely how many would be coming over.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

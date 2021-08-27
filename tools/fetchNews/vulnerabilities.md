@@ -11,6 +11,98 @@ nav_order: 900220
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Synology: Multiple products impacted by OpenSSL RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/synology-multiple-products-impacted-by-openssl-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based NAS&nbsp;maker&nbsp;Synology&nbsp;has revealed that recently disclosed&nbsp;remote code execution (RCE) and denial-of-service (DoS) OpenSSL vulnerabilities impact some of its products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical flaw in Cisco APIC for Nexus 9000 series switches<a href="https://securityaffairs.co/wordpress/121485/breaking-news/cisco-apic-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical security vulnerability in the Application Policy Infrastructure Controller (APIC) interface used in its Nexus 9000 Series Switches.
+
+
+
+Cisco has released security updates to address a critical security vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Bug Could Lead to Complete System Takeover<a href="https://threatpost.com/f5-critical-bug-system-takeover/168952/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The worst of 13 bugs fixed by the August updates could lead to complete system compromise for users in sensitive sectors running products in Appliance mode. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya fixed two of the three Kaseya Unitrends zero-days found in July<a href="https://securityaffairs.co/wordpress/121478/security/kaseya-unitrends-zero-days-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm Kaseya addressed Kaseya Unitrends zero-day vulnerabilities that were reported by security researchers at the Dutch Institute for Vulnerability Disclosure (DIVD). 
+
+
+
+Kaseya released security updates address server-side Kaseya Unitrends...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya patches Unitrends server zero-days, issues client mitigations<a href="https://www.bleepingcomputer.com/news/security/kaseya-patches-unitrends-server-zero-days-issues-client-mitigations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American software company Kaseya has issued a security updates to patch server side Kaseya Unitrends vulnerabilities found by security researchers at the&nbsp;Dutch Institute for Vulnerability Disclosure (DIVD).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Trilateration’ vulnerability in dating app Bumble leaked users’ exact location<a href="https://portswigger.net/daily-swig/trilateration-vulnerability-in-dating-app-bumble-leaked-users-exact-location?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robert Heaton, software engineer at payments processor Stripe, said his find could have empowered attackers to discover victims’ home addresses or, to some degree, track their movements.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Increased Liability of Local In-home Propagation<a href="https://thehackernews.com/2021/08/the-increased-liability-of-local-in.html"> Full Text</a>
 </p>
 <details>

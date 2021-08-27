@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DMCA complaints, DDoS threats lead to BazaLoader malware<a href="https://www.bleepingcomputer.com/news/security/fake-dmca-complaints-ddos-threats-lead-to-bazaloader-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals behind the BazaLoader malware came up with a new lure to trick website owners into opening malicious files: fake notifications about the site being engaged in distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

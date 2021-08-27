@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims of Ragnarok ransomware can decrypt their files for free<a href="https://securityaffairs.co/wordpress/121512/cyber-crime/ragnarok-ransomware-master-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ragnarok ransomware operators are ceasing their operations and released the master key that can allow their victims to decrypt files for free.
+
+
+
+The Ragnarok ransomware group has been active since at least January 2020 and hit dozens of organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Microsoft Hack May Have Had A Bigger Purpose Than Just Spying<a href="https://www.npr.org/2021/08/26/1013501080/chinas-microsoft-hack-may-have-had-a-bigger-purpose-than-just-spying?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked cyber intruders broke into Exchange by finding a handful of coding errors that gave them entry into Exchange servers and then allowed them to take control.
+</details>
+<div style="text-align: right" markdown="1">
+NPR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Breaks Silence on Barrage of ProxyShell Attacks<a href="https://threatpost.com/microsoft-barrage-proxyshell-attacks/168943/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+versions of the software are affected by a spate of bugs under active exploitations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

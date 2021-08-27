@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgian Police Warns of Cybercriminals Impersonating Europol’s Executive Director to Steal Payment Credentials<a href="https://www.cyberscoop.com/europol-cahterine-de-bolle-belgium-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are impersonating the head of Europol, the European Union’s law enforcement agency, in an attempt to spook victims into handing over their financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

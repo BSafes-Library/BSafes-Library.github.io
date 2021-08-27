@@ -11,6 +11,21 @@ nav_order: 900195
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ShadowPad: A High in Demand Chinese Espionage Tool<a href="https://cyware.com/news/shadowpad-a-high-in-demand-chinese-espionage-tool-593efcd1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report has disclosed that ShadowPad backdoor malware has been actively used by different Chinese espionage groups since 2017. The Windows malware platform greatly reduces the development and maintenance cost for the attackers. The availability of such advanced malware as a commodity might emp ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Passwordless Verification API Uses SIM Security for Zero Trust Remote Access<a href="https://thehackernews.com/2021/08/new-passwordless-verification-api-uses.html"> Full Text</a>
 </p>
 <details>

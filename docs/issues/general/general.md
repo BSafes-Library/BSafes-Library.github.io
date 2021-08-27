@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing the digital future with Cyber Innovation<a href="https://dynamicciso.com/securing-the-digital-future-with-cyber-innovation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the extensive library of tools, technologies, and processes available to protect an organization from cyber threats are overwhelming and, at the same time, offer underwhelming results.
+</details>
+<div style="text-align: right" markdown="1">
+Dynamic CISO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,34 @@ nav_order: 900029
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese developers expose data belonging to Android gamers<a href="https://www.zdnet.com/article/chinese-developers-expose-data-belonging-to-android-gamers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report shared with ZDNet, vpnMentor's cybersecurity team, led by Noam Rotem and Ran Locar, revealed EskyFun as the owner of a 134GB server exposed and made public online.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach at Deep South Allergy Clinic Group Exposed 9,800 Patients’ Health Information<a href="https://portswigger.net/daily-swig/breach-at-deep-south-allergy-clinic-group-exposed-the-health-info-of-estimated-9-800-patients?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlanta Allergy &amp; Asthma (AAA), the largest allergy treatment healthcare business in the region, is notifying 9,800 patients that a January data breach involved protected health information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Personal Data and docs of Swiss town Rolle available on the dark web<a href="https://securityaffairs.co/wordpress/121470/cyber-crime/swiss-town-rolle-ransomware.html"> Full Text</a>
 </p>
 <details>

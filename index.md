@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake DMCA complaints, DDoS threats lead to BazaLoader malware<a href="https://www.bleepingcomputer.com/news/security/fake-dmca-complaints-ddos-threats-lead-to-bazaloader-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Securing the digital future with Cyber Innovation<a href="https://dynamicciso.com/securing-the-digital-future-with-cyber-innovation/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Dynamic CISO
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Google to Invest $30 Billion in Cybersecurity Over Next 5 Years<a href="https://thehackernews.com/2021/08/microsoft-google-to-invest-30-billion.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victims of Ragnarok ransomware can decrypt their files for free<a href="https://securityaffairs.co/wordpress/121512/cyber-crime/ragnarok-ransomware-master-key.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Strategies That Define the Success of a Modern Vulnerability Management Program<a href="https://threatpost.com/top-strategies-that-define-the-success-of-a-modern-vulnerability-management-program/168604/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns Azure customers of critical Cosmos DB vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-customers-of-critical-cosmos-db-vulnerability/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Bypass Security PINs for Mastercard and Maestro Contactless Payments<a href="https://therecord.media/academics-bypass-pins-for-mastercard-and-maestro-contactless-payments/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaseya Issues Patches for Two New 0-Day Flaws Affecting Unitrends Servers<a href="https://thehackernews.com/2021/08/kaseya-issues-patches-for-two-new-0-day.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 B. Braun Infusomat pumps could be hacked to alter medication doses<a href="https://securityaffairs.co/wordpress/121504/hacking/b-braun-infusomat-pumps-hack.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monad emerges from stealth with $17M to solve the cybersecurity big data problem<a href="https://techcrunch.com/2021/08/26/monad-emerges-from-stealth-with-17m-to-solve-the-cybersecurity-big-data-problem/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cosmos Database Flaw Affected Thousands of Microsoft Azure Customers<a href="https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updates on our continued collaboration with NIST to secure the Software Supply Chain<a href="https://security.googleblog.com/2021/08/updates-on-our-continued-collaboration.html?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Chrome Releases
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgian Police Warns of Cybercriminals Impersonating Europol’s Executive Director to Steal Payment Credentials<a href="https://www.cyberscoop.com/europol-cahterine-de-bolle-belgium-scam/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elastic acquisition spree continues as it acquires security startup CMD<a href="https://techcrunch.com/2021/08/25/elastic-acquisition-spree-continues-as-it-acquires-security-startup-cmd/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns Thousands of Azure Cloud Customers of Exposed Databases<a href="https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's Microsoft Hack May Have Had A Bigger Purpose Than Just Spying<a href="https://www.npr.org/2021/08/26/1013501080/chinas-microsoft-hack-may-have-had-a-bigger-purpose-than-just-spying?&web_view=true"> Full Text</a>
@@ -298,7 +298,7 @@ NPR
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US National from Virginia Admits to Orchestrating the Massive T-Mobile Breach<a href="https://www.zdnet.com/article/21-year-old-tells-wsj-he-was-behind-massive-t-mobile-hack/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2021
+August 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Breaks Silence on Barrage of ProxyShell Attacks<a href="https://threatpost.com/microsoft-barrage-proxyshell-attacks/168943/"> Full Text</a>
