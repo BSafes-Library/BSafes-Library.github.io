@@ -34,6 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DMCA complaints, DDoS threats lead to BazaLoader malware<a href="https://www.bleepingcomputer.com/news/security/fake-dmca-complaints-ddos-threats-lead-to-bazaloader-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals behind the BazaLoader malware came up with a new lure to trick website owners into opening malicious files: fake notifications about the site being engaged in distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing the digital future with Cyber Innovation<a href="https://dynamicciso.com/securing-the-digital-future-with-cyber-innovation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the extensive library of tools, technologies, and processes available to protect an organization from cyber threats are overwhelming and, at the same time, offer underwhelming results.
+</details>
+<div style="text-align: right" markdown="1">
+Dynamic CISO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google to Invest $30 Billion in Cybersecurity Over Next 5 Years<a href="https://thehackernews.com/2021/08/microsoft-google-to-invest-30-billion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google and Microsoft said they are pledging to invest a total of $30 billion in cybersecurity advancements over the next five years, as the U.S. government  partners  with private sector companies to address threats facing the country in the wake of a string of sophisticated malicious cyber activity targeting critical infrastructure, laying bare the risks to data, organizations, and governments worldwide.  The White House cybersecurity meeting, which brought together executives from the education, energy, finance, insurance, and tech sectors, included companies like ADP, Amazon, Apple, Bank of America, Code.org, Girls Who Code, Google, IBM, JPMorgan Chase, Microsoft, and Vantage Group, among others.   To that end, the U.S. government on Wednesday announced a collaboration between the National Institute of Standards and Technology (NIST) and industry partners to develop a new framework to improve the security and integrity of the technology supply chain, alongside plans to expand the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims of Ragnarok ransomware can decrypt their files for free<a href="https://securityaffairs.co/wordpress/121512/cyber-crime/ragnarok-ransomware-master-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ragnarok ransomware operators are ceasing their operations and released the master key that can allow their victims to decrypt files for free.
+
+
+
+The Ragnarok ransomware group has been active since at least January 2020 and hit dozens of organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Strategies That Define the Success of a Modern Vulnerability Management Program<a href="https://threatpost.com/top-strategies-that-define-the-success-of-a-modern-vulnerability-management-program/168604/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern vulnerability management programs require a strategy that defines what success means for your organization’s cybersecurity goals. By incorporating a few simple cyber hygiene routines to your daily security routine, you’ll set up your IT teams to be better equipped to steer off cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns Azure customers of critical Cosmos DB vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-customers-of-critical-cosmos-db-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned thousands of Azure customers that a now-fixed critical vulnerability found in Cosmos DB allowed any user to remotely take over other users' databases by giving them full admin access without requiring authorization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Bypass Security PINs for Mastercard and Maestro Contactless Payments<a href="https://therecord.media/academics-bypass-pins-for-mastercard-and-maestro-contactless-payments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-patched vulnerability would have allowed cybercriminals to use stolen Mastercard and Maestro cards to pay for expensive products without needing to provide PINs on contactless payments.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Issues Patches for Two New 0-Day Flaws Affecting Unitrends Servers<a href="https://thehackernews.com/2021/08/kaseya-issues-patches-for-two-new-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. technology firm Kaseya has  released  security patches to address two zero-day vulnerabilities affecting its Unitrends enterprise backup and continuity solution that could result in privilege escalation and authenticated remote code execution.  The two weaknesses are part of a  trio of vulnerabilities  discovered and reported by researchers at the Dutch Institute for Vulnerability Disclosure (DIVD) on July 3, 2021.   The IT infrastructure management solution provider has addressed the issues in server software version 10.5.5-2 released on August 12, DIVD said. An as-yet-undisclosed client-side vulnerability in Kaseya Unitrends remains unpatched, but the company has published  firewall rules  that can be applied to filter traffic to and from the client and mitigate any risk associated with the flaw. As an additional precaution, it's  recommended  not to leave the servers accessible over the internet.  Although specifics related to the vulnerabilities are sparse, the shortcomin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+B. Braun Infusomat pumps could be hacked to alter medication doses<a href="https://securityaffairs.co/wordpress/121504/hacking/b-braun-infusomat-pumps-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed five vulnerabilities in B. Braun 's Infusomat Space Large Volume Pump and SpaceStation that could be remotely hacked. 
+
+
+
+Cybersecurity researchers from  McAfee disclosed five vulnerabilities in B. Braun's Infusomat Space Large...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monad emerges from stealth with $17M to solve the cybersecurity big data problem<a href="https://techcrunch.com/2021/08/26/monad-emerges-from-stealth-with-17m-to-solve-the-cybersecurity-big-data-problem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security firm Monad, which offers a platform for extracting and connecting data from various security tools, has launched from stealth with $17 million in Series A funding led by Index Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cosmos Database Flaw Affected Thousands of Microsoft Azure Customers<a href="https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization.  The flaw, which grants read, write, and delete privileges, has been dubbed " ChaosDB ," with Wiz researchers noting that "the vulnerability has a trivial exploit that doesn't require any previous access to the target environment, and impacts thousands of organizations, including numerous Fortune 500 companies."   Cosmos DB is Microsoft's proprietary  NoSQL database  that's advertised as "a fully managed service" that "takes database administration off your hands with automatic management, updates and patching."  The Wiz Research Team reported the issue to Microsoft on August 12, after which the Windows maker took steps to mitigate the issue within 48 hours of r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updates on our continued collaboration with NIST to secure the Software Supply Chain<a href="https://security.googleblog.com/2021/08/updates-on-our-continued-collaboration.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will collaborate with the National Institute of Standards and Technology to support and develop a new framework that will help improve the security and integrity of the technology supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Chrome Releases
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgian Police Warns of Cybercriminals Impersonating Europol’s Executive Director to Steal Payment Credentials<a href="https://www.cyberscoop.com/europol-cahterine-de-bolle-belgium-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are impersonating the head of Europol, the European Union’s law enforcement agency, in an attempt to spook victims into handing over their financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elastic acquisition spree continues as it acquires security startup CMD<a href="https://techcrunch.com/2021/08/25/elastic-acquisition-spree-continues-as-it-acquires-security-startup-cmd/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic CEO and co-founder Shay Banon told TechCrunch that his company will be welcoming the employees of CMD into his company, but did not disclose precisely how many would be coming over.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns Thousands of Azure Cloud Customers of Exposed Databases<a href="https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is in Microsoft Azure's flagship Cosmos DB database. A research team at security company Wiz discovered it was able to access keys that control access to databases.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Microsoft Hack May Have Had A Bigger Purpose Than Just Spying<a href="https://www.npr.org/2021/08/26/1013501080/chinas-microsoft-hack-may-have-had-a-bigger-purpose-than-just-spying?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked cyber intruders broke into Exchange by finding a handful of coding errors that gave them entry into Exchange servers and then allowed them to take control.
+</details>
+<div style="text-align: right" markdown="1">
+NPR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US National from Virginia Admits to Orchestrating the Massive T-Mobile Breach<a href="https://www.zdnet.com/article/21-year-old-tells-wsj-he-was-behind-massive-t-mobile-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 21-year-old Virginia native living in Turkey has admitted to being the main force behind the massive T-Mobile hack that exposed the sensitive information of more than 50 million people.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Breaks Silence on Barrage of ProxyShell Attacks<a href="https://threatpost.com/microsoft-barrage-proxyshell-attacks/168943/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+versions of the software are affected by a spate of bugs under active exploitations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
