@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department establishes program to train prosecutors to handle cyber cases<a href="https://thehill.com//policy/cybersecurity/569777-justice-department-establishes-program-to-train-prosecutors-to-handle"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deputy Attorney General Lisa Monaco on Friday announced the establishment of a fellowship program at the Justice Department to help train future prosecutors and attorneys in how to handle cases involving cybersecurity concerns.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

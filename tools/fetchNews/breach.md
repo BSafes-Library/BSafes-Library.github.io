@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns Thousands of Azure Cloud Customers of Exposed Databases<a href="https://www.reuters.com/technology/exclusive-microsoft-warns-thousands-cloud-customers-exposed-databases-emails-2021-08-26/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is in Microsoft Azure's flagship Cosmos DB database. A research team at security company Wiz discovered it was able to access keys that control access to databases.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US National from Virginia Admits to Orchestrating the Massive T-Mobile Breach<a href="https://www.zdnet.com/article/21-year-old-tells-wsj-he-was-behind-massive-t-mobile-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 21-year-old Virginia native living in Turkey has admitted to being the main force behind the massive T-Mobile hack that exposed the sensitive information of more than 50 million people.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

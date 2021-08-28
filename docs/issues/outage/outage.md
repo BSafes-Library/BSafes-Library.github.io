@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston Public Library discloses cyberattack, system-wide technical outage<a href="https://www.bleepingcomputer.com/news/security/boston-public-library-discloses-cyberattack-system-wide-technical-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boston Public Library (BPL) has disclosed today that its network was hit by a cyberattack on Wednesday, leading to a system-wide technical outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palantir glitch allegedly granted some FBI staff unauthorized access to a crypto hacker’s data<a href="https://techcrunch.com/2021/08/26/palantir-glitch-allegedly-granted-some-fbi-staff-unauthorized-access-to-a-crypto-hackers-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to The New York Post, the mishap was revealed in a letter by prosecutors in the Manhattan federal court case against accused hacker Virgil Griffith. Palantir denied the claims.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

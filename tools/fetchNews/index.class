@@ -34,6 +34,378 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to train 100,000 Americans to boost cybersecurity in the US<a href="https://ciso.economictimes.indiatimes.com/news/google-to-train-100000-americans-to-boost-cybersecurity-in-the-us/85687064?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google, which has announced to invest $10 billion over the next five years to strengthen cybersecurity in the US, said that the governments and businesses are at a watershed moment in addressing cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon disables website used for ISIS propaganda<a href="https://thehill.com//policy/technology/569828-amazon-disables-website-used-for-isis-propaganda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has disabled a website that had reportedly been used since April by a wing of the Islamic State to promote propaganda, including praise of the deadly suicide attack Thursday at the airport in Kabul, Afghanistan. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet shuts down and authors put source code for sale<a href="https://securityaffairs.co/wordpress/121560/malware/phorpiex-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks behind the Phorpiex botnet have shut down their operations and put the source code for sale on the dark web.
+
+
+
+The criminal organization behind the Phorpiex botnet have shut down their operations and put the source code of the bot for sale on a cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco says it will not release software update for critical 0-day in EOL VPN routers<a href="https://www.zdnet.com/article/cisco-not-planning-to-fix-critical-0-day-rce-vulnerability-in-eol-vpn-routers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced recently that it will not be releasing software updates for a vulnerability with its Universal Plug-and-Play (UPnP) service in Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian released security patches to fix a critical flaw in Confluence<a href="https://securityaffairs.co/wordpress/121547/security/atlassian-confluence-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian released patches to fix a critical flaw, tracked as CVE-2021-26084, affecting the Confluence enterprise collaboration product.
+
+
+
+Atlassian released security patches to address a critical vulnerability, tracked as CVE-2021-26084, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Cosmos DB alert: This critical vulnerability puts users at risk<a href="https://www.zdnet.com/article/azure-cosmos-db-alert-critical-vulnerability-puts-users-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has recently become aware of a vulnerability in Azure Cosmos DB that could potentially allow a user to gain access to another customer's resources by using the account's primary read-write key.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI issued a flash alert for Hive ransomware operations<a href="https://securityaffairs.co/wordpress/121518/malware/fbi-alert-hive-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has released a flaw alert on the Hive ransomware attacks that includes technical details and indicators of compromise associated with the operations of the gang.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile CEO: Hacker brute-forced his way through our network<a href="https://www.bleepingcomputer.com/news/security/t-mobile-ceo-hacker-brute-forced-his-way-through-our-network/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, T-Mobile's CEO Mike Sievert said that the hacker behind the carrier's latest massive data breach brute forced his way through T-Mobile's network after gaining access to testing environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winning the Cyber-Defense Race: Understand the Finish Line<a href="https://threatpost.com/winning-cyber-defense-race/168996/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerry Matre, Mandiant senior director, clears up misconceptions about the value to business for enterprise cyber-defense. Hint: It’s not achieving visibility.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston Public Library discloses cyberattack, system-wide technical outage<a href="https://www.bleepingcomputer.com/news/security/boston-public-library-discloses-cyberattack-system-wide-technical-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boston Public Library (BPL) has disclosed today that its network was hit by a cyberattack on Wednesday, leading to a system-wide technical outage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House panel probing Jan. 6 requests records from tech giants<a href="https://thehill.com//policy/technology/overnights/569785-hillicon-valley-house-panel-probing-jan-6-requests-records-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wrapping up the last full week of August, major tech companies are being further pulled into the investigation into the Jan. 6 attack on the U.S. Capitol, with the House committee investigating the day requesting records from Facebook, Twitter, YouTube and several other major companies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Targets US Bank With New ‘Sardonic’ Backdoor<a href="https://threatpost.com/fin8-bank-sardonic-backdoor/168982/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest refinement of the APT’s BadHatch backdoor can leverage new malware on the fly without redeployment, making it potent and nimble. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department establishes program to train prosecutors to handle cyber cases<a href="https://thehill.com//policy/cybersecurity/569777-justice-department-establishes-program-to-train-prosecutors-to-handle"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deputy Attorney General Lisa Monaco on Friday announced the establishment of a fellowship program at the Justice Department to help train future prosecutors and attorneys in how to handle cases involving cybersecurity concerns.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An RCE in Annke video surveillance product allows hacking the device<a href="https://securityaffairs.co/wordpress/121538/hacking/annke-video-surveillance-product-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Nozomi Networks discovered a critical vulnerability that can be exploited to hack a video surveillance product made by Annke. 
+
+
+
+Researchers at industrial and IoT cybersecurity firm Nozomi Networks have discovered a critical flaw affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Pay Ransom’ Screen? Too Late, Humpty Dumpty – Podcast<a href="https://threatpost.com/ransom-humpty-dumpty-podcast/168962/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk’s Ryan Kovar discusses the rise in supply-chain attacks a la Kaseya & how to get ahead of encryption leaving your business a pile of broken shells. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile CEO apologizes for breach that compromised data of 50 million people<a href="https://thehill.com//policy/cybersecurity/569771-t-mobile-ceo-apologizes-for-breach-that-compromised-data-of-50-million"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile CEO Mike Sievert on Friday announced that the hacker behind the recent breach of the company that compromised the information of around 50 million individuals had used “brute force” in the attack and apologized for the impact of the breach. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChaosDB, a Critical Cosmos DB flaw affected thousands of Microsoft Azure Customers<a href="https://securityaffairs.co/wordpress/121524/hacking/chaosdb-critical-cosmos-db-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a critical flaw in Cosmos DB that allowed any Azure user to remotely take over other users' databases without any authorization.
+
+
+
+Researchers from Cloud security company Wiz disclosed technical details of a now-fixed Azure Cosmos...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palantir glitch allegedly granted some FBI staff unauthorized access to a crypto hacker’s data<a href="https://techcrunch.com/2021/08/26/palantir-glitch-allegedly-granted-some-fbi-staff-unauthorized-access-to-a-crypto-hackers-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to The New York Post, the mishap was revealed in a letter by prosecutors in the Manhattan federal court case against accused hacker Virgil Griffith. Palantir denied the claims.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI issued a flash alert for Hive ransomware operations<a href="https://securityaffairs.co/wordpress/121518/malware/fbi-alert-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) published a flash alert related to the operations of the Hive ransomware gang. 
+
+
+
+The Federal Bureau of Investigation (FBI) has released a flaw alert on the Hive ransomware attacks that includes technical details...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon to Offer Free Cybersecurity Training Materials, MFA Devices<a href="https://www.securityweek.com/amazon-offer-free-cybersecurity-training-materials-mfa-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The training materials, which focus on security awareness and particularly the threat posed by social engineering, will be offered for free to both individuals and organizations starting in October.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Annke network video recorder vulnerability could see attackers seize control of security cameras<a href="https://portswigger.net/daily-swig/annke-network-video-recorder-vulnerability-could-see-attackers-seize-control-of-security-cameras?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical flaw (CVE-2021-32941) was discovered in the playback functionality of NVR model N48PBB, which captures and records live streams from up to eight IP security cameras.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IronNet Completes Business Combination with LGL Systems Acquisition Corp.<a href="https://finance.yahoo.com/news/ironnet-completes-business-combination-lgl-113000001.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ticker symbols for the previously outstanding common stock and warrants of LGL will change from DFNS and DFNS.WS to IRNT and IRNT.WS and will begin trading as such on NYSE on August 27, 2021
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 27, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

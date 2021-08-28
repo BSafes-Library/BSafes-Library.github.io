@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to train 100,000 Americans to boost cybersecurity in the US<a href="https://ciso.economictimes.indiatimes.com/news/google-to-train-100000-americans-to-boost-cybersecurity-in-the-us/85687064?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon disables website used for ISIS propaganda<a href="https://thehill.com//policy/technology/569828-amazon-disables-website-used-for-isis-propaganda"> Full Text</a>
@@ -66,7 +66,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phorpiex botnet shuts down and authors put source code for sale<a href="https://securityaffairs.co/wordpress/121560/malware/phorpiex-botnet.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco says it will not release software update for critical 0-day in EOL VPN routers<a href="https://www.zdnet.com/article/cisco-not-planning-to-fix-critical-0-day-rce-vulnerability-in-eol-vpn-routers/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian released security patches to fix a critical flaw in Confluence<a href="https://securityaffairs.co/wordpress/121547/security/atlassian-confluence-rce.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Azure Cosmos DB alert: This critical vulnerability puts users at risk<a href="https://www.zdnet.com/article/azure-cosmos-db-alert-critical-vulnerability-puts-users-at-risk/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The FBI issued a flash alert for Hive ransomware operations<a href="https://securityaffairs.co/wordpress/121518/malware/fbi-alert-hive-ransomware.html?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile CEO: Hacker brute-forced his way through our network<a href="https://www.bleepingcomputer.com/news/security/t-mobile-ceo-hacker-brute-forced-his-way-through-our-network/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winning the Cyber-Defense Race: Understand the Finish Line<a href="https://threatpost.com/winning-cyber-defense-race/168996/"> Full Text</a>
@@ -186,7 +186,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boston Public Library discloses cyberattack, system-wide technical outage<a href="https://www.bleepingcomputer.com/news/security/boston-public-library-discloses-cyberattack-system-wide-technical-outage/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hillicon Valley: House panel probing Jan. 6 requests records from tech giants<a href="https://thehill.com//policy/technology/overnights/569785-hillicon-valley-house-panel-probing-jan-6-requests-records-from"> Full Text</a>
@@ -218,7 +218,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Targets US Bank With New ‘Sardonic’ Backdoor<a href="https://threatpost.com/fin8-bank-sardonic-backdoor/168982/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department establishes program to train prosecutors to handle cyber cases<a href="https://thehill.com//policy/cybersecurity/569777-justice-department-establishes-program-to-train-prosecutors-to-handle"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An RCE in Annke video surveillance product allows hacking the device<a href="https://securityaffairs.co/wordpress/121538/hacking/annke-video-surveillance-product-rce.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Pay Ransom’ Screen? Too Late, Humpty Dumpty – Podcast<a href="https://threatpost.com/ransom-humpty-dumpty-podcast/168962/"> Full Text</a>
@@ -286,7 +286,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile CEO apologizes for breach that compromised data of 50 million people<a href="https://thehill.com//policy/cybersecurity/569771-t-mobile-ceo-apologizes-for-breach-that-compromised-data-of-50-million"> Full Text</a>
@@ -302,7 +302,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChaosDB, a Critical Cosmos DB flaw affected thousands of Microsoft Azure Customers<a href="https://securityaffairs.co/wordpress/121524/hacking/chaosdb-critical-cosmos-db-flaw.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palantir glitch allegedly granted some FBI staff unauthorized access to a crypto hacker’s data<a href="https://techcrunch.com/2021/08/26/palantir-glitch-allegedly-granted-some-fbi-staff-unauthorized-access-to-a-crypto-hackers-data/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The FBI issued a flash alert for Hive ransomware operations<a href="https://securityaffairs.co/wordpress/121518/malware/fbi-alert-hive-ransomware.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon to Offer Free Cybersecurity Training Materials, MFA Devices<a href="https://www.securityweek.com/amazon-offer-free-cybersecurity-training-materials-mfa-devices?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Annke network video recorder vulnerability could see attackers seize control of security cameras<a href="https://portswigger.net/daily-swig/annke-network-video-recorder-vulnerability-could-see-attackers-seize-control-of-security-cameras?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2021
+August 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IronNet Completes Business Combination with LGL Systems Acquisition Corp.<a href="https://finance.yahoo.com/news/ironnet-completes-business-combination-lgl-113000001.html?&web_view=true"> Full Text</a>

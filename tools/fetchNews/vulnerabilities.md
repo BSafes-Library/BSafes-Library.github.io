@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Strategies That Define the Success of a Modern Vulnerability Management Program<a href="https://threatpost.com/top-strategies-that-define-the-success-of-a-modern-vulnerability-management-program/168604/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern vulnerability management programs require a strategy that defines what success means for your organization’s cybersecurity goals. By incorporating a few simple cyber hygiene routines to your daily security routine, you’ll set up your IT teams to be better equipped to steer off cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns Azure customers of critical Cosmos DB vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-customers-of-critical-cosmos-db-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned thousands of Azure customers that a now-fixed critical vulnerability found in Cosmos DB allowed any user to remotely take over other users' databases by giving them full admin access without requiring authorization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Bypass Security PINs for Mastercard and Maestro Contactless Payments<a href="https://therecord.media/academics-bypass-pins-for-mastercard-and-maestro-contactless-payments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-patched vulnerability would have allowed cybercriminals to use stolen Mastercard and Maestro cards to pay for expensive products without needing to provide PINs on contactless payments.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaseya Issues Patches for Two New 0-Day Flaws Affecting Unitrends Servers<a href="https://thehackernews.com/2021/08/kaseya-issues-patches-for-two-new-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. technology firm Kaseya has&nbsp; released &nbsp;security patches to address two zero-day vulnerabilities affecting its Unitrends enterprise backup and continuity solution that could result in privilege escalation and authenticated remote code execution.  The two weaknesses are part of a&nbsp; trio of vulnerabilities &nbsp;discovered and reported by researchers at the Dutch Institute for Vulnerability Disclosure (DIVD) on July 3, 2021.   The IT infrastructure management solution provider has addressed the issues in server software version 10.5.5-2 released on August 12, DIVD said. An as-yet-undisclosed client-side vulnerability in Kaseya Unitrends remains unpatched, but the company has published&nbsp; firewall rules &nbsp;that can be applied to filter traffic to and from the client and mitigate any risk associated with the flaw. As an additional precaution, it's&nbsp; recommended &nbsp;not to leave the servers accessible over the internet.  Although specifics related to the vulnerabilities are sparse, the shortcomin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+B. Braun Infusomat pumps could be hacked to alter medication doses<a href="https://securityaffairs.co/wordpress/121504/hacking/b-braun-infusomat-pumps-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed five vulnerabilities in B. Braun 's Infusomat Space Large Volume Pump and SpaceStation that could be remotely hacked. 
+
+
+
+Cybersecurity researchers from  McAfee disclosed five vulnerabilities in B. Braun's Infusomat Space Large...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cosmos Database Flaw Affected Thousands of Microsoft Azure Customers<a href="https://thehackernews.com/2021/08/critical-cosmos-database-flaw-affected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud infrastructure security company Wiz on Thursday revealed details of a now-fixed Azure Cosmos database vulnerability that could have been potentially exploited to grant any Azure user full admin access to other customers' database instances without any authorization.  The flaw, which grants read, write, and delete privileges, has been dubbed " ChaosDB ," with Wiz researchers noting that "the vulnerability has a trivial exploit that doesn't require any previous access to the target environment, and impacts thousands of organizations, including numerous Fortune 500 companies."   Cosmos DB is Microsoft's proprietary&nbsp; NoSQL database &nbsp;that's advertised as "a fully managed service" that "takes database administration off your hands with automatic management, updates and patching."  The Wiz Research Team reported the issue to Microsoft on August 12, after which the Windows maker took steps to mitigate the issue within 48 hours of r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

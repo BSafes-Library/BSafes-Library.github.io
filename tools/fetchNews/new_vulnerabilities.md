@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco says it will not release software update for critical 0-day in EOL VPN routers<a href="https://www.zdnet.com/article/cisco-not-planning-to-fix-critical-0-day-rce-vulnerability-in-eol-vpn-routers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced recently that it will not be releasing software updates for a vulnerability with its Universal Plug-and-Play (UPnP) service in Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian released security patches to fix a critical flaw in Confluence<a href="https://securityaffairs.co/wordpress/121547/security/atlassian-confluence-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian released patches to fix a critical flaw, tracked as&nbsp;CVE-2021-26084, affecting the Confluence enterprise collaboration product.
+
+
+
+Atlassian released security patches to address a critical vulnerability, tracked as&nbsp;CVE-2021-26084, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Cosmos DB alert: This critical vulnerability puts users at risk<a href="https://www.zdnet.com/article/azure-cosmos-db-alert-critical-vulnerability-puts-users-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has recently become aware of a vulnerability in Azure Cosmos DB that could potentially allow a user to gain access to another customer's resources by using the account's primary read-write key.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An RCE in Annke video surveillance product allows hacking the device<a href="https://securityaffairs.co/wordpress/121538/hacking/annke-video-surveillance-product-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Nozomi Networks discovered a critical vulnerability that can be exploited to hack a video surveillance product made by Annke. 
+
+
+
+Researchers at industrial and IoT cybersecurity firm Nozomi Networks have discovered a critical flaw affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChaosDB, a Critical Cosmos DB flaw affected thousands of Microsoft Azure Customers<a href="https://securityaffairs.co/wordpress/121524/hacking/chaosdb-critical-cosmos-db-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a critical flaw in Cosmos DB that allowed any Azure user to remotely take over other users' databases without any authorization.
+
+
+
+Researchers from Cloud security company Wiz disclosed technical details of a now-fixed Azure Cosmos...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Annke network video recorder vulnerability could see attackers seize control of security cameras<a href="https://portswigger.net/daily-swig/annke-network-video-recorder-vulnerability-could-see-attackers-seize-control-of-security-cameras?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical flaw (CVE-2021-32941) was discovered in the playback functionality of NVR model N48PBB, which captures and records live streams from up to eight IP security cameras.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,48 @@ nav_order: 900072
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Winning the Cyber-Defense Race: Understand the Finish Line<a href="https://threatpost.com/winning-cyber-defense-race/168996/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerry Matre, Mandiant senior director, clears up misconceptions about the value to business for enterprise cyber-defense. Hint: It’s not achieving visibility.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hillicon Valley: House panel probing Jan. 6 requests records from tech giants<a href="https://thehill.com//policy/technology/overnights/569785-hillicon-valley-house-panel-probing-jan-6-requests-records-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wrapping up the last full week of August, major tech companies are being further pulled into the investigation into the Jan. 6 attack on the U.S. Capitol, with the House committee investigating the day requesting records from Facebook, Twitter, YouTube and several other major companies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Pay Ransom’ Screen? Too Late, Humpty Dumpty – Podcast<a href="https://threatpost.com/ransom-humpty-dumpty-podcast/168962/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk’s Ryan Kovar discusses the rise in supply-chain attacks a la Kaseya &amp; how to get ahead of encryption leaving your business a pile of broken shells.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Securing the digital future with Cyber Innovation<a href="https://dynamicciso.com/securing-the-digital-future-with-cyber-innovation/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
