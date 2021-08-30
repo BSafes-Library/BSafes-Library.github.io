@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deciphering ShinyHunters’ Data Breach Tactics<a href="https://cyware.com/news/deciphering-shinyhunters-data-breach-tactics-57277468"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Does MTA-STS Improve Your Email Security?<a href="https://thehackernews.com/2021/08/how-does-mta-sts-improve-your-email.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges enterprises to fix Microsoft Azure Cosmos DB flaw<a href="https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile Hack Involved Exposed Router, Specialized Tools and Brute Force Attacks<a href="https://www.securityweek.com/t-mobile-hack-involved-exposed-router-specialized-tools-and-brute-force-attacks?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boston Public Library discloses cyberattack<a href="https://securityaffairs.co/wordpress/121632/cyber-crime/boston-public-library-cyberattack.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Envision Credit Union Faces Technical Difficulties Following Alleged Attack by LockBit 2.0 Ransomware Group<a href="https://www.tallahassee.com/story/money/2021/08/26/envision-credit-union-taking-steps-after-possible-cyber-attack-lockbit/8254377002/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ Tallahassee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New variant of Konni RAT used in a campaign that targeted Russia<a href="https://securityaffairs.co/wordpress/121625/apt/konni-rat-target-russia.html"> Full Text</a>
@@ -162,7 +162,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Justice Department adds fellowship program to boost legal efforts against cybercrime<a href="https://www.cyberscoop.com/doj-cybercrime-ransomware-fellowship/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phorpiex botnet shuts down, source code goes up for sale<a href="https://therecord.media/phorpiex-botnet-shuts-down-source-code-goes-up-for-sale/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Parents of teens who stole $1 million in Bitcoin sued by alleged victim<a href="https://www.zdnet.com/article/parents-of-teens-who-stole-1-million-in-bitcoin-sued-by-alleged-victim/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Challenges organizations face when implementing zero trust architecture<a href="https://www.helpnetsecurity.com/2021/08/27/implementing-zero-trust-architecture/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new wave of Hacktivists is turning the surveillance state against itself<a href="https://therecord.media/a-new-wave-of-hacktivists-is-turning-the-surveillance-state-against-itself/?&web_view=true"> Full Text</a>

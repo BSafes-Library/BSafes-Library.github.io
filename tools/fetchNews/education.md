@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to 24 Professional Cybersecurity Certification Prep Courses<a href="https://thehackernews.com/2021/08/get-lifetime-access-to-24-professional.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not all heroes wear capes. Cybersecurity professionals are digital warriors who use their knowledge and skill to battle malicious hackers.&nbsp;  Sounds like an exciting career, right?&nbsp;  If the comic-book comparisons aren't working for you, perhaps some figures will. According to ZipRecruiter, the average salary of a cybersecurity professional is just over $100,000 a year.  The Complete 2021 CyberSecurity Super Bundle &nbsp;can help you get started in this niche, with 24 courses working towards top certification exams.&nbsp;  If you went and bought these courses separately, you would pay a total of $7,080.&nbsp;  To bring the price down, The Hacker News has teamed up with iCollege to offer&nbsp; all the training for just $69.99 . That is 99% off the full value!  You don't need a college education to get a job in cybersecurity, but you do need to pass some exams.&nbsp;  This bundle gives you full prep for important tests, including CISSP, and CompTIA Security+, PenTest+, CySA+, and CASP+. Picking up these certifica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,60 @@ nav_order: 900015
 
 ## Attack
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Hack Involved Exposed Router, Specialized Tools and Brute Force Attacks<a href="https://www.securityweek.com/t-mobile-hack-involved-exposed-router-specialized-tools-and-brute-force-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mike Sievert, CEO of T-Mobile, said that while the company’s investigation into the incident was “substantially complete,” he could not share too many technical details due to ongoing criminal probe.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston Public Library discloses cyberattack<a href="https://securityaffairs.co/wordpress/121632/cyber-crime/boston-public-library-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boston Public Library was victim of a cyberattack that crippled its computer network, the library revealed in a statement Friday. 
+
+
+
+The Boston Public Library announced on Friday that it was hit by a cyberattack that compromised its computer network....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New variant of Konni RAT used in a campaign that targeted Russia<a href="https://securityaffairs.co/wordpress/121625/apt/konni-rat-target-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So far, Konni RAT has managed to evade detection as only 3 security solutions on VirusTotal were able to detect the malware.
+
+
+
+Researchers from Malwarebytes Labs spotted an ongoing malware campaign that is targeing Russia with the Konni RAT.
+
+
+
+Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

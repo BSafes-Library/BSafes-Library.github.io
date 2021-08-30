@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS attacks target the Philippine human rights alliance Karapatan<a href="https://securityaffairs.co/wordpress/121608/hacktivism/ddos-philippine-karapatan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Philippine human rights alliance&nbsp;Karapatan&nbsp;has suffered a massive and prolonged Distributed Denial of Service (DDoS) attack, Qurium organizations linked it to the local government.
+
+
+
+For the past three weeks, the Philippine human rights alliance&nbsp;Karapatan&nbsp;has...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockFile Ransomware Bypasses Protection Using Intermittent File Encryption<a href="https://thehackernews.com/2021/08/lockfile-ransomware-bypasses-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family that emerged last month comes with its own bag of tricks to bypass ransomware protection by leveraging a novel technique called "intermittent encryption."  Called&nbsp; LockFile , the operators of the ransomware have been found exploiting recently disclosed flaws such as&nbsp; ProxyShell &nbsp;and&nbsp; PetitPotam &nbsp;to compromise Windows servers and deploy file-encrypting malware that scrambles only every alternate 16 bytes of a file, thereby giving it the ability to evade ransomware defences.   "Partial encryption is generally used by ransomware operators to speed up the encryption process and we've seen it implemented by BlackMatter, DarkSide and LockBit 2.0 ransomware," Mark Loman, Sophos director of engineering, said in a statement. "What sets LockFile apart is that, unlike the others, it doesn't encrypt the first few blocks. Instead, LockFile encrypts every other 16 bytes of a document."  "This means that a file such as a text documen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

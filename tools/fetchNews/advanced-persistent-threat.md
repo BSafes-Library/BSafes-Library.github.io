@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SparklingGoblin’s SideWalk Hints Toward the Maker of CrossWalk<a href="https://cyware.com/news/sparklinggoblins-sidewalk-hints-toward-the-maker-of-crosswalk-7c2abd74"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new SideWalk backdoor in a recent campaign by a Chinese APT found sharing multiple similarities with CrossWalk, another backdoor used by the group.&nbsp;SideWalk and CrossWalk share a resemblance in anti-tampering techniques, threading model, data layout, and the way data is managed during the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

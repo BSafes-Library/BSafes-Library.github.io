@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Envision Credit Union Faces Technical Difficulties Following Alleged Attack by LockBit 2.0 Ransomware Group<a href="https://www.tallahassee.com/story/money/2021/08/26/envision-credit-union-taking-steps-after-possible-cyber-attack-lockbit/8254377002/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initial signs of a potential attack surfaced this week on social media and indicated the LockBit 2.0 ransomware group threatened to publish stolen data on August 30, according to Dataminr.
+</details>
+<div style="text-align: right" markdown="1">
+Tallahassee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

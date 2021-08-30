@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Does MTA-STS Improve Your Email Security?<a href="https://thehackernews.com/2021/08/how-does-mta-sts-improve-your-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Simple Mail Transfer Protocol or SMTP has easily exploitable security loopholes. Email routing protocols were designed in a time when cryptographic technology was at a nascent stage (e.g., the de-facto protocol for email transfer, SMTP, is nearly 40 years old now), and therefore security was not an important consideration.&nbsp;  As a result, in most email systems encryption is still opportunistic, which implies that if the opposite connection does not support TLS, it gets rolled back to an unencrypted one delivering messages in plaintext.&nbsp;  To mitigate SMTP security problems,&nbsp; MTA-STS &nbsp;(Mail Transfer Agent Strict Transport Security) is the recommended email authentication standard. It enforces TLS in order to allow MTAs to send emails securely. This means that it will only allow mail from MTAs that support TLS encryption, and it will only allow mail to go to MX hosts that support TLS encryption.  In case an encrypted connection cannot be negotiated between communicating SMTP servers, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

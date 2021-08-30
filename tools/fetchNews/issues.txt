@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html
 
 Law
 

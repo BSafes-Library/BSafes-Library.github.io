@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Challenges organizations face when implementing zero trust architecture<a href="https://www.helpnetsecurity.com/2021/08/27/implementing-zero-trust-architecture/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+98 percent of UK business leaders and IT decision-makers either plan to or have already started implementing zero trust strategies at their organizations, according to Illumio.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

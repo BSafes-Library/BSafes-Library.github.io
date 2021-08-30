@@ -11,6 +11,20 @@ nav_order: 900075
 August 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+White House rallies private industry in cyber battle<a href="https://thehill.com//policy/cybersecurity/569816-white-house-rallies-private-industry-in-cyber-battle"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp;meeting between President Biden and&nbsp;more than two dozen key leaders from a variety of industries this week has increased momentum for plans to quickly address rising cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The FBI issued a flash alert for Hive ransomware operations<a href="https://securityaffairs.co/wordpress/121518/malware/fbi-alert-hive-ransomware.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
