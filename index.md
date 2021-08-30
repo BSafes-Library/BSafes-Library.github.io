@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SparklingGoblin’s SideWalk Hints Toward the Maker of CrossWalk<a href="https://cyware.com/news/sparklinggoblins-sidewalk-hints-toward-the-maker-of-crosswalk-7c2abd74"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new SideWalk backdoor in a recent campaign by a Chinese APT found sharing multiple similarities with CrossWalk, another backdoor used by the group.&nbsp;SideWalk and CrossWalk share a resemblance in anti-tampering techniques, threading model, data layout, and the way data is managed during the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Lifetime Access to 24 Professional Cybersecurity Certification Prep Courses<a href="https://thehackernews.com/2021/08/get-lifetime-access-to-24-professional.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not all heroes wear capes. Cybersecurity professionals are digital warriors who use their knowledge and skill to battle malicious hackers.   Sounds like an exciting career, right?   If the comic-book comparisons aren't working for you, perhaps some figures will. According to ZipRecruiter, the average salary of a cybersecurity professional is just over $100,000 a year.  The Complete 2021 CyberSecurity Super Bundle  can help you get started in this niche, with 24 courses working towards top certification exams.   If you went and bought these courses separately, you would pay a total of $7,080.   To bring the price down, The Hacker News has teamed up with iCollege to offer  all the training for just $69.99 . That is 99% off the full value!  You don't need a college education to get a job in cybersecurity, but you do need to pass some exams.   This bundle gives you full prep for important tests, including CISSP, and CompTIA Security+, PenTest+, CySA+, and CASP+. Picking up these certifica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1 GB of data belonging to Puma available on Marketo<a href="https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The name of the sportswear manufacturer Puma appeared on the dark web marketplace of stolen data Marketo, threat actors claim to have stolen 1 GB of data from the company.
+
+
+
+The emerging underground marketplace of stolen data ‘Marketo’ available...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Botnet Returns with New Tricks<a href="https://cyware.com/news/dirtymoe-botnet-returns-with-new-tricks-ba3ef2b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new DirtyMoe botnet variant was discovered with major modifications in the form of anti-forensic, anti-debugging, and anti-tracking capabilities.&nbsp;The attackers use VMProtect and their own encryption algorithm to evade detection. Besides vulnerability management solutions, enterprises must en ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 329<a href="https://securityaffairs.co/wordpress/121613/breaking-news/security-affairs-newsletter-round-329.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+
+
+
+
+EskyFun...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Returns with New Sardonic Backdoor<a href="https://cyware.com/news/fin8-returns-with-new-sardonic-backdoor-1529fe9c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated FIN8 group attempted to compromise the networks of a U.S. financial organization using a new malware - Sardonic. Sardonic can establish persistence on the infected machine and collects system info, executes arbitrary commands, loads/executes extra plugins, and the results are  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS attacks target the Philippine human rights alliance Karapatan<a href="https://securityaffairs.co/wordpress/121608/hacktivism/ddos-philippine-karapatan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Philippine human rights alliance Karapatan has suffered a massive and prolonged Distributed Denial of Service (DDoS) attack, Qurium organizations linked it to the local government.
+
+
+
+For the past three weeks, the Philippine human rights alliance Karapatan has...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LokiBot Uses Old-but-Tested Tricks to Lure Victims<a href="https://cyware.com/news/lokibot-uses-old-but-tested-tricks-to-lure-victims-f2d84311"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro has identified a new malware distribution campaign delivering LokiBot banking trojan using multiple old yet effective tactics.&nbsp;The customers were being targeted via emails masquerading as an order invoice, with a PDF file attached.&nbsp;Its critical that organizations patch vulnera ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Synology products impacted by recently disclosed OpenSSL flaws<a href="https://securityaffairs.co/wordpress/121600/security/synology-synology-openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan vendor Synology announced that recently disclosed vulnerabilities (CVE-2021-3711 and CVE-2021-3712) in the OpenSSL impact some of its products.
+
+
+
+Taiwanese company Synology revealed that the recently disclosed remote code execution (RCE) and denial-of-service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House rallies private industry in cyber battle<a href="https://thehill.com//policy/cybersecurity/569816-white-house-rallies-private-industry-in-cyber-battle"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A meeting between President Biden and more than two dozen key leaders from a variety of industries this week has increased momentum for plans to quickly address rising cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockFile Ransomware Bypasses Protection Using Intermittent File Encryption<a href="https://thehackernews.com/2021/08/lockfile-ransomware-bypasses-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family that emerged last month comes with its own bag of tricks to bypass ransomware protection by leveraging a novel technique called "intermittent encryption."  Called  LockFile , the operators of the ransomware have been found exploiting recently disclosed flaws such as  ProxyShell  and  PetitPotam  to compromise Windows servers and deploy file-encrypting malware that scrambles only every alternate 16 bytes of a file, thereby giving it the ability to evade ransomware defences.   "Partial encryption is generally used by ransomware operators to speed up the encryption process and we've seen it implemented by BlackMatter, DarkSide and LockBit 2.0 ransomware," Mark Loman, Sophos director of engineering, said in a statement. "What sets LockFile apart is that, unlike the others, it doesn't encrypt the first few blocks. Instead, LockFile encrypts every other 16 bytes of a document."  "This means that a file such as a text documen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Widespread Phishing Attacks Using Open Redirects<a href="https://thehackernews.com/2021/08/microsoft-warns-of-widespread-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a widespread credential phishing campaign that leverages  open redirector links  in email communications as a vector to trick users into visiting malicious websites while effectively bypassing security software.  "Attackers combine these links with social engineering baits that impersonate well-known productivity tools and services to lure users into clicking," Microsoft 365 Defender Threat Intelligence Team  said  in a report published this week.   "Doing so leads to a series of redirections — including a CAPTCHA verification page that adds a sense of legitimacy and attempts to evade some automated analysis systems — before taking the user to a fake sign-in page. This ultimately leads to credential compromise, which opens the user and their organization to other attacks."  Although redirect links in email messages serve a vital tool to take recipients to third-party websites or track click rates and measure the success of sales and marketin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EskyFun data leak, over 1 million Android gamers impacted<a href="https://securityaffairs.co/wordpress/121589/data-breach/eskyfun-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+vpnMentor’s researchers reported that the Chinese mobile gaming company EskyFun suffered a data breach, over 1 million gamers impacted. 
+
+
+
+vpnMentor’s researchers discovered that the Chinese mobile gaming company EskyFun suffered a data breach,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boffins show PIN bypass attack Mastercard and Maestro contactless payments<a href="https://securityaffairs.co/wordpress/121571/hacking/pin-bypass-attack-mastercard-maestro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins from the Swiss ETH Zurich university demonstrated PIN bypass attack on contactless cards from Mastercard and Maestro. 
+
+
+
+A group of researchers from the Swiss  ETH Zurich university has discovered a vulnerability that allowed them to bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 28, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
