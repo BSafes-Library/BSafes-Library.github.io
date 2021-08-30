@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SparklingGoblin’s SideWalk Hints Toward the Maker of CrossWalk<a href="https://cyware.com/news/sparklinggoblins-sidewalk-hints-toward-the-maker-of-crosswalk-7c2abd74"> Full Text</a>
@@ -51,7 +51,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Get Lifetime Access to 24 Professional Cybersecurity Certification Prep Courses<a href="https://thehackernews.com/2021/08/get-lifetime-access-to-24-professional.html"> Full Text</a>
@@ -67,7 +67,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1 GB of data belonging to Puma available on Marketo<a href="https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html"> Full Text</a>
@@ -87,7 +87,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe Botnet Returns with New Tricks<a href="https://cyware.com/news/dirtymoe-botnet-returns-with-new-tricks-ba3ef2b8"> Full Text</a>
@@ -104,7 +104,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 329<a href="https://securityaffairs.co/wordpress/121613/breaking-news/security-affairs-newsletter-round-329.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Returns with New Sardonic Backdoor<a href="https://cyware.com/news/fin8-returns-with-new-sardonic-backdoor-1529fe9c"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS attacks target the Philippine human rights alliance Karapatan<a href="https://securityaffairs.co/wordpress/121608/hacktivism/ddos-philippine-karapatan.html"> Full Text</a>
@@ -169,7 +169,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LokiBot Uses Old-but-Tested Tricks to Lure Victims<a href="https://cyware.com/news/lokibot-uses-old-but-tested-tricks-to-lure-victims-f2d84311"> Full Text</a>
@@ -186,7 +186,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some Synology products impacted by recently disclosed OpenSSL flaws<a href="https://securityaffairs.co/wordpress/121600/security/synology-synology-openssl-flaws.html"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House rallies private industry in cyber battle<a href="https://thehill.com//policy/cybersecurity/569816-white-house-rallies-private-industry-in-cyber-battle"> Full Text</a>
@@ -222,7 +222,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockFile Ransomware Bypasses Protection Using Intermittent File Encryption<a href="https://thehackernews.com/2021/08/lockfile-ransomware-bypasses-protection.html"> Full Text</a>
@@ -238,7 +238,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Widespread Phishing Attacks Using Open Redirects<a href="https://thehackernews.com/2021/08/microsoft-warns-of-widespread-phishing.html"> Full Text</a>
@@ -254,7 +254,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EskyFun data leak, over 1 million Android gamers impacted<a href="https://securityaffairs.co/wordpress/121589/data-breach/eskyfun-data-leak.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boffins show PIN bypass attack Mastercard and Maestro contactless payments<a href="https://securityaffairs.co/wordpress/121571/hacking/pin-bypass-attack-mastercard-maestro.html"> Full Text</a>

@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet shuts down and authors put source code for sale<a href="https://securityaffairs.co/wordpress/121560/malware/phorpiex-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks behind the Phorpiex botnet have shut down their operations and put the source code for sale on the dark web.
+
+
+
+The criminal organization behind the Phorpiex botnet have shut down their operations and put the source code of the bot for sale on a cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

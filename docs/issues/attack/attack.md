@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Widespread Phishing Attacks Using Open Redirects<a href="https://thehackernews.com/2021/08/microsoft-warns-of-widespread-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a widespread credential phishing campaign that leverages&nbsp; open redirector links &nbsp;in email communications as a vector to trick users into visiting malicious websites while effectively bypassing security software.  "Attackers combine these links with social engineering baits that impersonate well-known productivity tools and services to lure users into clicking," Microsoft 365 Defender Threat Intelligence Team&nbsp; said &nbsp;in a report published this week.   "Doing so leads to a series of redirections — including a CAPTCHA verification page that adds a sense of legitimacy and attempts to evade some automated analysis systems — before taking the user to a fake sign-in page. This ultimately leads to credential compromise, which opens the user and their organization to other attacks."  Although redirect links in email messages serve a vital tool to take recipients to third-party websites or track click rates and measure the success of sales and marketin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boffins show PIN bypass attack Mastercard and Maestro contactless payments<a href="https://securityaffairs.co/wordpress/121571/hacking/pin-bypass-attack-mastercard-maestro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins from the Swiss ETH Zurich university demonstrated PIN bypass attack on contactless cards from Mastercard and Maestro. 
+
+
+
+A group of researchers from the Swiss  ETH Zurich university has discovered a vulnerability that allowed them to bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

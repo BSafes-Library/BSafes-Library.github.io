@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1 GB of data belonging to Puma available on Marketo<a href="https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The name of the sportswear manufacturer Puma appeared on the dark web marketplace of stolen data Marketo, threat actors claim to have stolen 1 GB of data from the company.
+
+
+
+The emerging underground marketplace of stolen data ‘Marketo’ available...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EskyFun data leak, over 1 million Android gamers impacted<a href="https://securityaffairs.co/wordpress/121589/data-breach/eskyfun-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+vpnMentor’s&nbsp;researchers reported that the Chinese mobile gaming company EskyFun suffered a data breach, over 1 million gamers impacted.&nbsp;
+
+
+
+vpnMentor’s&nbsp;researchers discovered that the Chinese mobile gaming company EskyFun suffered a data breach,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

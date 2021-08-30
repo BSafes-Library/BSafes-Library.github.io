@@ -8,6 +8,36 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Botnet Returns with New Tricks<a href="https://cyware.com/news/dirtymoe-botnet-returns-with-new-tricks-ba3ef2b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new DirtyMoe botnet variant was discovered with major modifications in the form of anti-forensic, anti-debugging, and anti-tracking capabilities.&nbsp;The attackers use VMProtect and their own encryption algorithm to evade detection. Besides vulnerability management solutions, enterprises must en ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LokiBot Uses Old-but-Tested Tricks to Lure Victims<a href="https://cyware.com/news/lokibot-uses-old-but-tested-tricks-to-lure-victims-f2d84311"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro has identified a new malware distribution campaign delivering LokiBot banking trojan using multiple old yet effective tactics.&nbsp;The customers were being targeted via emails masquerading as an order invoice, with a PDF file attached.&nbsp;Its critical that organizations patch vulnera ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

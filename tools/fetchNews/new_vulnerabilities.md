@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Synology products impacted by recently disclosed OpenSSL flaws<a href="https://securityaffairs.co/wordpress/121600/security/synology-synology-openssl-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan vendor Synology announced that recently disclosed vulnerabilities (CVE-2021-3711&nbsp;and&nbsp;CVE-2021-3712) in the OpenSSL impact some of its products.
+
+
+
+Taiwanese company Synology revealed that the recently disclosed remote code execution (RCE) and denial-of-service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

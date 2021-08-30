@@ -8,6 +8,76 @@ nav_order: 900027
 
 ## Business
 ---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to train 100,000 Americans to boost cybersecurity in the US<a href="https://ciso.economictimes.indiatimes.com/news/google-to-train-100000-americans-to-boost-cybersecurity-in-the-us/85687064?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google, which has announced to invest $10 billion over the next five years to strengthen cybersecurity in the US, said that the governments and businesses are at a watershed moment in addressing cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon disables website used for ISIS propaganda<a href="https://thehill.com//policy/technology/569828-amazon-disables-website-used-for-isis-propaganda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has disabled a website that had reportedly been used since April by a wing of the Islamic State to promote propaganda, including praise of the deadly suicide attack Thursday at the airport in Kabul, Afghanistan.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile CEO apologizes for breach that compromised data of 50 million people<a href="https://thehill.com//policy/cybersecurity/569771-t-mobile-ceo-apologizes-for-breach-that-compromised-data-of-50-million"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile CEO Mike Sievert on Friday announced that the hacker behind the recent breach of the company that compromised the information of&nbsp;around 50 million individuals had used “brute force” in the attack and apologized for the impact of the breach.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon to Offer Free Cybersecurity Training Materials, MFA Devices<a href="https://www.securityweek.com/amazon-offer-free-cybersecurity-training-materials-mfa-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The training materials, which focus on security awareness and particularly the threat posed by social engineering, will be offered for free to both individuals and organizations starting in October.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IronNet Completes Business Combination with LGL Systems Acquisition Corp.<a href="https://finance.yahoo.com/news/ironnet-completes-business-combination-lgl-113000001.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ticker symbols for the previously outstanding common stock and warrants of LGL will change from DFNS and DFNS.WS to IRNT and IRNT.WS and will begin trading as such on NYSE on August 27, 2021
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
