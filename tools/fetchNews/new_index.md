@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deciphering ShinyHunters’ Data Breach Tactics<a href="https://cyware.com/news/deciphering-shinyhunters-data-breach-tactics-57277468"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang has claimed responsibility for a string of data breaches involving Pixlr, ChqBook, Tokopedia, BigBasket, Microsoft’s GitHub account, and MeetMindful among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Does MTA-STS Improve Your Email Security?<a href="https://thehackernews.com/2021/08/how-does-mta-sts-improve-your-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Simple Mail Transfer Protocol or SMTP has easily exploitable security loopholes. Email routing protocols were designed in a time when cryptographic technology was at a nascent stage (e.g., the de-facto protocol for email transfer, SMTP, is nearly 40 years old now), and therefore security was not an important consideration.   As a result, in most email systems encryption is still opportunistic, which implies that if the opposite connection does not support TLS, it gets rolled back to an unencrypted one delivering messages in plaintext.   To mitigate SMTP security problems,  MTA-STS  (Mail Transfer Agent Strict Transport Security) is the recommended email authentication standard. It enforces TLS in order to allow MTAs to send emails securely. This means that it will only allow mail from MTAs that support TLS encryption, and it will only allow mail to go to MX hosts that support TLS encryption.  In case an encrypted connection cannot be negotiated between communicating SMTP servers, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges enterprises to fix Microsoft Azure Cosmos DB flaw<a href="https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued an alert urging enterprises to address the recently disclosed vulnerability in Microsoft Azure Cosmos DB.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile Hack Involved Exposed Router, Specialized Tools and Brute Force Attacks<a href="https://www.securityweek.com/t-mobile-hack-involved-exposed-router-specialized-tools-and-brute-force-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mike Sievert, CEO of T-Mobile, said that while the company’s investigation into the incident was “substantially complete,” he could not share too many technical details due to ongoing criminal probe.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boston Public Library discloses cyberattack<a href="https://securityaffairs.co/wordpress/121632/cyber-crime/boston-public-library-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boston Public Library was victim of a cyberattack that crippled its computer network, the library revealed in a statement Friday. 
+
+
+
+The Boston Public Library announced on Friday that it was hit by a cyberattack that compromised its computer network....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Envision Credit Union Faces Technical Difficulties Following Alleged Attack by LockBit 2.0 Ransomware Group<a href="https://www.tallahassee.com/story/money/2021/08/26/envision-credit-union-taking-steps-after-possible-cyber-attack-lockbit/8254377002/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initial signs of a potential attack surfaced this week on social media and indicated the LockBit 2.0 ransomware group threatened to publish stolen data on August 30, according to Dataminr.
+</details>
+<div style="text-align: right" markdown="1">
+Tallahassee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New variant of Konni RAT used in a campaign that targeted Russia<a href="https://securityaffairs.co/wordpress/121625/apt/konni-rat-target-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So far, Konni RAT has managed to evade detection as only 3 security solutions on VirusTotal were able to detect the malware.
+
+
+
+Researchers from Malwarebytes Labs spotted an ongoing malware campaign that is targeing Russia with the Konni RAT.
+
+
+
+Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Justice Department adds fellowship program to boost legal efforts against cybercrime<a href="https://www.cyberscoop.com/doj-cybercrime-ransomware-fellowship/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We need to develop the next generation of prosecutors with the training and experience necessary to combat the next generation of cyber threats,” Deputy Attorney General  Lisa Monaco said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet shuts down, source code goes up for sale<a href="https://therecord.media/phorpiex-botnet-shuts-down-source-code-goes-up-for-sale/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ad, posted by an individual earlier linked to the botnet’s operation, claims that none of its two authors are involved in running the botnet, hence the reason they decided to sell its source code.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parents of teens who stole $1 million in Bitcoin sued by alleged victim<a href="https://www.zdnet.com/article/parents-of-teens-who-stole-1-million-in-bitcoin-sued-by-alleged-victim/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to court documents obtained by Brian Krebs, Andrew Schober lost 16.4552 BTC in 2018 after his PC was infected with malware, allegedly the creation of two teenagers in the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Challenges organizations face when implementing zero trust architecture<a href="https://www.helpnetsecurity.com/2021/08/27/implementing-zero-trust-architecture/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+98 percent of UK business leaders and IT decision-makers either plan to or have already started implementing zero trust strategies at their organizations, according to Illumio.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of Hacktivists is turning the surveillance state against itself<a href="https://therecord.media/a-new-wave-of-hacktivists-is-turning-the-surveillance-state-against-itself/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Images and videos stolen from oppressive regimes’ surveillance systems are being leaked in a new surge of suspected hacktivism that uses states’ own panopticons against them.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SparklingGoblin’s SideWalk Hints Toward the Maker of CrossWalk<a href="https://cyware.com/news/sparklinggoblins-sidewalk-hints-toward-the-maker-of-crosswalk-7c2abd74"> Full Text</a>
@@ -51,7 +259,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Get Lifetime Access to 24 Professional Cybersecurity Certification Prep Courses<a href="https://thehackernews.com/2021/08/get-lifetime-access-to-24-professional.html"> Full Text</a>
@@ -67,7 +275,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1 GB of data belonging to Puma available on Marketo<a href="https://securityaffairs.co/wordpress/121617/cyber-crime/puma-available-marketo.html"> Full Text</a>
@@ -87,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe Botnet Returns with New Tricks<a href="https://cyware.com/news/dirtymoe-botnet-returns-with-new-tricks-ba3ef2b8"> Full Text</a>
@@ -104,7 +312,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 329<a href="https://securityaffairs.co/wordpress/121613/breaking-news/security-affairs-newsletter-round-329.html"> Full Text</a>
@@ -132,7 +340,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Returns with New Sardonic Backdoor<a href="https://cyware.com/news/fin8-returns-with-new-sardonic-backdoor-1529fe9c"> Full Text</a>
@@ -149,7 +357,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS attacks target the Philippine human rights alliance Karapatan<a href="https://securityaffairs.co/wordpress/121608/hacktivism/ddos-philippine-karapatan.html"> Full Text</a>
@@ -169,7 +377,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LokiBot Uses Old-but-Tested Tricks to Lure Victims<a href="https://cyware.com/news/lokibot-uses-old-but-tested-tricks-to-lure-victims-f2d84311"> Full Text</a>
@@ -186,7 +394,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2021
+August 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some Synology products impacted by recently disclosed OpenSSL flaws<a href="https://securityaffairs.co/wordpress/121600/security/synology-synology-openssl-flaws.html"> Full Text</a>
@@ -206,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House rallies private industry in cyber battle<a href="https://thehill.com//policy/cybersecurity/569816-white-house-rallies-private-industry-in-cyber-battle"> Full Text</a>
@@ -222,7 +430,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockFile Ransomware Bypasses Protection Using Intermittent File Encryption<a href="https://thehackernews.com/2021/08/lockfile-ransomware-bypasses-protection.html"> Full Text</a>
@@ -238,7 +446,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Widespread Phishing Attacks Using Open Redirects<a href="https://thehackernews.com/2021/08/microsoft-warns-of-widespread-phishing.html"> Full Text</a>
@@ -254,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EskyFun data leak, over 1 million Android gamers impacted<a href="https://securityaffairs.co/wordpress/121589/data-breach/eskyfun-data-leak.html"> Full Text</a>
@@ -274,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2021
+August 28, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boffins show PIN bypass attack Mastercard and Maestro contactless payments<a href="https://securityaffairs.co/wordpress/121571/hacking/pin-bypass-attack-mastercard-maestro.html"> Full Text</a>
