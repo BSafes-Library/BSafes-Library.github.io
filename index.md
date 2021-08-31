@@ -34,6 +34,291 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP works on patches for OpenSSL bugs impacting its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-works-on-patches-for-openssl-bugs-impacting-its-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) maker QNAP is investigating and working on security updates to address remote code execution (RCE) and denial-of-service (DoS) vulnerabilities patched by OpenSSL last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnarok Quits, Universal Decryption Keys Out<a href="https://cyware.com/news/ragnarok-quits-universal-decryption-keys-out-02c6358d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of Ragnarok ransomware have called quits and released decryption keys in a recent announcement. Active since 2019, the group had claimed several victims globally. Ragnarok’s sudden disappearance doesn't look like a planned one.  A  universal decryptor  for Ragnarok ransomware has been ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration establishes program to recruit tech professionals to serve in government<a href="https://thehill.com//policy/cybersecurity/570068-biden-administration-establishes-program-to-recruit-tech-professionals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Monday announced it was establishing a program to recruit and train people to serve in digital positions within the federal government and address issues related to the COVID-19 pandemic and cybersecurity concerns. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ announces the creation of Cyber Fellowship Program<a href="https://securityaffairs.co/wordpress/121646/security/us-doj-cyber-fellowship-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ announced a new Cyber Fellowship program for training prosecutors and attorneys on cybersecurity.
+
+
+
+The US DoJ announced a new Cyber Fellowship program for training selected prosecutors and attorneys on cyber threat and threat actors. 
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Warns Sudo Bug Gives Attackers Root Privileges to Aruba Platform<a href="https://threatpost.com/hpe-sudo-bug-aruba-platform/169038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE joins Apple in warning customers of a high-severity Sudo vulnerability. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Don’t use single-factor auth on Internet-exposed systems<a href="https://www.bleepingcomputer.com/news/security/cisa-don-t-use-single-factor-auth-on-internet-exposed-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Single-factor authentication (SFA) has been added today by the US Cybersecurity and Infrastructure Security Agency (CISA) to a very short list of cybersecurity bad practices it advises against.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Various Online Scams are Gaining Traction in the Crypto and Financial Space<a href="https://cyware.com/news/various-online-scams-are-gaining-traction-in-the-crypto-and-financial-space-83ff90f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea was targeted by an aggressive phishing attack. The attackers hid in the crypto platform’s Discord server and impersonated legit OpenSea employees to steal NFTs and cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISRAELI FIRM ‘BRIGHT DATA’ (LUMINATI NETWORKS) ENABLED THE ATTACKS AGAINST KARAPATAN<a href="https://securityaffairs.co/wordpress/121641/hacking/luminati-networks-ddos-karapatan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Who is behind the massive and prolonged Distributed Denial of Service (DDoS) attack that hit the Philippine human rights alliance Karapatan?
+
+
+
+The 25 days long DDoS attack against the website of Karapatan was launched by almost 30.000 IP addresses,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange ProxyToken bug can let hackers steal user email<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxytoken-bug-can-let-hackers-steal-user-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details have emerged on a serious vulnerability in Microsoft Exchange Server dubbed ProxyToken that does not require authentication to access emails from a target account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Konni RAT Targets Russian Users<a href="https://cyware.com/news/konni-rat-targets-russian-users-a74df9a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late July, an ongoing spear-phishing campaign was discovered abusing two Russian language documents, which were laced with the same malicious macro to deliver Konni RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Steal $29 Million in Crypto Assets from Decentralized Finance Platform Cream Finance<a href="https://therecord.media/hackers-steal-29-million-from-crypto-platform-cream-finance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are estimated to have stolen more than $29 million in cryptocurrency assets from Cream Finance, a DeFi platform that allows users to loan and speculate on cryptocurrency price variations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point To Acquire Email Security Startup Avanan<a href="https://www.crn.com/news/security/check-point-to-acquire-email-security-startup-avanan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software Technologies has agreed to buy email security solutions provider Avanan to deliver best-of-breed cloud email malware protection and expand security to SaaS collaboration suites.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant Targets WebSVN Command Injection Vulnerability<a href="https://unit42.paloaltonetworks.com/cve-2021-32305-websvn/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical command injection vulnerability was discovered and patched in May 2021. A PoC was released and within a week, attackers exploited the vulnerability to deploy variants of Mirai.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The first national cyber director has big plans to toughen U.S. digital defenses<a href="https://www.politico.com/news/2021/08/30/chris-inglis-cyber-attacks-507021?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America’s first-ever national cyber director Chris Inglis says he has a strategy to get government agencies to toughen up their digital defenses in the face of increasing cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore touts need for security, use cases as 5G rollouts gather steam<a href="https://www.zdnet.com/article/singapore-touts-need-for-security-use-cases-as-5g-rollouts-gather-steam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government urges need to ensure 5G networks remain secured and resilient, as Singtel says it has attained 180,000 5G subscribers and added new business use cases running on its 5G standalone network.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyToken vulnerability can modify Exchange server configs<a href="https://therecord.media/proxytoken-vulnerability-can-modify-exchange-server-configs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nicknamed ProxyToken, the security vulnerability allows a remote attacker to bypass authentication and make changes to a Microsoft Exchange email server’s backend configuration.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Southern College receives $250,000 cybersecurity grant<a href="https://www.theledger.com/story/news/local/2021/08/27/florida-southern-college-receives-cybersecurity-grant-education/5617491001/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The grant will create a laboratory that includes a virtual cyber range for customized training environments in the soon-to-be-opened Carole and Marcus Weinstein Computer Sciences Center.
+</details>
+<div style="text-align: right" markdown="1">
+The Ledger
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
