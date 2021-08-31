@@ -11,6 +11,35 @@ nav_order: 900031
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ragnarok Quits, Universal Decryption Keys Out<a href="https://cyware.com/news/ragnarok-quits-universal-decryption-keys-out-02c6358d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of Ragnarok ransomware have called quits and released decryption keys in a recent announcement. Active since 2019, the group had claimed several victims globally. Ragnarok’s sudden disappearance doesn't look like a planned one.  A  universal decryptor  for Ragnarok ransomware has been ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Steal $29 Million in Crypto Assets from Decentralized Finance Platform Cream Finance<a href="https://therecord.media/hackers-steal-29-million-from-crypto-platform-cream-finance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are estimated to have stolen more than $29 million in cryptocurrency assets from Cream Finance, a DeFi platform that allows users to loan and speculate on cryptocurrency price variations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Deciphering ShinyHunters’ Data Breach Tactics<a href="https://cyware.com/news/deciphering-shinyhunters-data-breach-tactics-57277468"> Full Text</a>
 </p>
 <details>

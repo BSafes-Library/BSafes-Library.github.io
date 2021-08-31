@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges enterprises to fix Microsoft Azure Cosmos DB flaw<a href="https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued an alert urging enterprises to address the recently disclosed vulnerability in Microsoft Azure Cosmos DB.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Justice Department adds fellowship program to boost legal efforts against cybercrime<a href="https://www.cyberscoop.com/doj-cybercrime-ransomware-fellowship/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We need to develop the next generation of prosecutors with the training and experience necessary to combat the next generation of cyber threats,” Deputy Attorney General  Lisa Monaco said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

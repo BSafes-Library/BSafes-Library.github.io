@@ -31,6 +31,7 @@
 
 Alerts:
 . https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html
+. https://www.bleepingcomputer.com/news/security/cisa-don-t-use-single-factor-auth-on-internet-exposed-systems/
 
 Law
 

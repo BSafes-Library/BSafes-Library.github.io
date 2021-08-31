@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP works on patches for OpenSSL bugs impacting its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-works-on-patches-for-openssl-bugs-impacting-its-nas-devices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnarok Quits, Universal Decryption Keys Out<a href="https://cyware.com/news/ragnarok-quits-universal-decryption-keys-out-02c6358d"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration establishes program to recruit tech professionals to serve in government<a href="https://thehill.com//policy/cybersecurity/570068-biden-administration-establishes-program-to-recruit-tech-professionals"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoJ announces the creation of Cyber Fellowship Program<a href="https://securityaffairs.co/wordpress/121646/security/us-doj-cyber-fellowship-program.html"> Full Text</a>
@@ -107,7 +107,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE Warns Sudo Bug Gives Attackers Root Privileges to Aruba Platform<a href="https://threatpost.com/hpe-sudo-bug-aruba-platform/169038/"> Full Text</a>
@@ -123,7 +123,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: Don’t use single-factor auth on Internet-exposed systems<a href="https://www.bleepingcomputer.com/news/security/cisa-don-t-use-single-factor-auth-on-internet-exposed-systems/"> Full Text</a>
@@ -139,7 +139,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Various Online Scams are Gaining Traction in the Crypto and Financial Space<a href="https://cyware.com/news/various-online-scams-are-gaining-traction-in-the-crypto-and-financial-space-83ff90f2"> Full Text</a>
@@ -155,7 +155,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ISRAELI FIRM ‘BRIGHT DATA’ (LUMINATI NETWORKS) ENABLED THE ATTACKS AGAINST KARAPATAN<a href="https://securityaffairs.co/wordpress/121641/hacking/luminati-networks-ddos-karapatan.html"> Full Text</a>
@@ -175,7 +175,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange ProxyToken bug can let hackers steal user email<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxytoken-bug-can-let-hackers-steal-user-email/"> Full Text</a>
@@ -191,7 +191,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Konni RAT Targets Russian Users<a href="https://cyware.com/news/konni-rat-targets-russian-users-a74df9a5"> Full Text</a>
@@ -207,7 +207,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Steal $29 Million in Crypto Assets from Decentralized Finance Platform Cream Finance<a href="https://therecord.media/hackers-steal-29-million-from-crypto-platform-cream-finance/?&web_view=true"> Full Text</a>
@@ -223,7 +223,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Check Point To Acquire Email Security Startup Avanan<a href="https://www.crn.com/news/security/check-point-to-acquire-email-security-startup-avanan?&web_view=true"> Full Text</a>
@@ -239,7 +239,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mirai Variant Targets WebSVN Command Injection Vulnerability<a href="https://unit42.paloaltonetworks.com/cve-2021-32305-websvn/?&web_view=true"> Full Text</a>
@@ -255,7 +255,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The first national cyber director has big plans to toughen U.S. digital defenses<a href="https://www.politico.com/news/2021/08/30/chris-inglis-cyber-attacks-507021?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ Politico
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore touts need for security, use cases as 5G rollouts gather steam<a href="https://www.zdnet.com/article/singapore-touts-need-for-security-use-cases-as-5g-rollouts-gather-steam/?&web_view=true"> Full Text</a>
@@ -287,7 +287,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProxyToken vulnerability can modify Exchange server configs<a href="https://therecord.media/proxytoken-vulnerability-can-modify-exchange-server-configs/?&web_view=true"> Full Text</a>
@@ -303,7 +303,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida Southern College receives $250,000 cybersecurity grant<a href="https://www.theledger.com/story/news/local/2021/08/27/florida-southern-college-receives-cybersecurity-grant-education/5617491001/?&web_view=true"> Full Text</a>

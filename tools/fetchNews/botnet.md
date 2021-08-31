@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet shuts down, source code goes up for sale<a href="https://therecord.media/phorpiex-botnet-shuts-down-source-code-goes-up-for-sale/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ad, posted by an individual earlier linked to the botnet’s operation, claims that none of its two authors are involved in running the botnet, hence the reason they decided to sell its source code.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

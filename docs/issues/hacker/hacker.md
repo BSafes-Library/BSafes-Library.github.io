@@ -11,6 +11,24 @@ nav_order: 900080
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ISRAELI FIRM ‘BRIGHT DATA’ (LUMINATI NETWORKS) ENABLED THE ATTACKS AGAINST KARAPATAN<a href="https://securityaffairs.co/wordpress/121641/hacking/luminati-networks-ddos-karapatan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Who is behind the massive and prolonged Distributed Denial of Service (DDoS) attack that hit the Philippine human rights alliance&nbsp;Karapatan?
+
+
+
+The 25 days long DDoS attack against the website of&nbsp;Karapatan&nbsp;was launched by almost 30.000 IP addresses,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A new wave of Hacktivists is turning the surveillance state against itself<a href="https://therecord.media/a-new-wave-of-hacktivists-is-turning-the-surveillance-state-against-itself/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

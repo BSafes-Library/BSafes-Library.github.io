@@ -11,6 +11,70 @@ nav_order: 900075
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Biden administration establishes program to recruit tech professionals to serve in government<a href="https://thehill.com//policy/cybersecurity/570068-biden-administration-establishes-program-to-recruit-tech-professionals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Monday announced&nbsp;it was establishing&nbsp;a program to recruit and train&nbsp;people to serve in digital positions within the federal government and address issues related to the COVID-19 pandemic and cybersecurity concerns.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ announces the creation of Cyber Fellowship Program<a href="https://securityaffairs.co/wordpress/121646/security/us-doj-cyber-fellowship-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ announced a new Cyber Fellowship program for training prosecutors and attorneys on cybersecurity.
+
+
+
+The US DoJ announced a new Cyber Fellowship program for training selected prosecutors and attorneys on cyber threat and threat actors. 
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Don’t use single-factor auth on Internet-exposed systems<a href="https://www.bleepingcomputer.com/news/security/cisa-don-t-use-single-factor-auth-on-internet-exposed-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Single-factor authentication (SFA) has been added today by the US Cybersecurity and Infrastructure Security Agency (CISA) to a very short list of cybersecurity bad practices it advises against.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The first national cyber director has big plans to toughen U.S. digital defenses<a href="https://www.politico.com/news/2021/08/30/chris-inglis-cyber-attacks-507021?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+America’s first-ever national cyber director Chris Inglis says he has a strategy to get government agencies to toughen up their digital defenses in the face of increasing cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Politico
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA urges enterprises to fix Microsoft Azure Cosmos DB flaw<a href="https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html"> Full Text</a>
 </p>
 <details>

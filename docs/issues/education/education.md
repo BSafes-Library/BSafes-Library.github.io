@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Southern College receives $250,000 cybersecurity grant<a href="https://www.theledger.com/story/news/local/2021/08/27/florida-southern-college-receives-cybersecurity-grant-education/5617491001/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The grant will create a laboratory that includes a virtual cyber range for customized training environments in the soon-to-be-opened Carole and Marcus Weinstein Computer Sciences Center.
+</details>
+<div style="text-align: right" markdown="1">
+The Ledger
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
