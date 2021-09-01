@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Aug. 25, the U.K. Department for Digital, Culture, Media &amp; Sport (DCMS) released important details about its post-Brexit strategy for cross-border flows of personal data. What's in the release?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out, ransomware attack risk increases on holidays and weekends, FBI and CISA<a href="https://securityaffairs.co/wordpress/121709/cyber-crime/fbi-cisa-ransomware-holidays-weekends.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA issued a joint cybersecurity advisory to warn organizations to remain vigilant against ransomware attacks during weekends or holidays.
+
+
+
+The FBI and CISA warn organizations to keep high their defenses against ransomware attacks during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Departments Ordered to Improve Logging Capabilities<a href="https://www.bankinfosecurity.com/federal-departments-ordered-to-improve-logging-capabilities-a-17419?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House ordered U.S. agencies to improve their logging capabilities to better track when attackers target their networks and data, according to a memo from the Office of Management and Budget.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

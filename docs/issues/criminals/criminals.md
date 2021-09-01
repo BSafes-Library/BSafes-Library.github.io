@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit gang leaks Bangkok Airways data, hits Accenture customers<a href="https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bangkok Airways, a major airline company in Thailand, confirmed it was the victim of a cyberattack earlier this month that compromised personal data of passengers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abuse the Domain Name System Through Malicious Websites to Exploit Private Networks<a href="https://unit42.paloaltonetworks.com/dns-rebinding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allowing arbitrary cross-origin requests is known to be extremely dangerous. Therefore most modern browsers block these requests. However, DNS rebinding provides a way to bypass this restriction.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware operators leak 200GB of data belonging to Bangkok Airways<a href="https://securityaffairs.co/wordpress/121702/data-breach/lockbit-gang-bangkok-airways.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware operators have breached Bangkok Airways, the airline confirmed it was the victim and discloses a data breach impacting its passengers. 
+
+
+
+Bangkok Airways, a&nbsp;regional airline&nbsp;based in&nbsp;Bangkok, discloses a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[LIVE WEBINAR] How Lean Security Teams Can Improve Their Time to Response<a href="https://thehackernews.com/2021/09/live-webinar-how-lean-security-teams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity could be described as a marathon for security teams that spend most of their time building sustained defenses that prevent threats day after day. However, they must be ready to hit a sprint whenever an attack succeeds since attack duration, and the resulting damages are directly correlated.&nbsp;  Reacting to a successful attack is a major challenge for lean security teams today since speed tends to be a result of size. Large teams with abundant resources can respond to incidents much faster as they can expend those resources freely. Lean security teams face the same costs and resource needs but with a much smaller pool to call from. A new live webinar by XDR provider Cynet shows why that doesn't have to be the case ( register here ).&nbsp;  The webinar breaks down how even large enterprises struggle with time to response. Look at any of the major breaches of the past years and you'll find large security teams that overlooked red flags or mishandled their incident response. It's n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There’s a Better Way to Stop Ransomware Attacks<a href="https://www.nytimes.com/2021/08/31/opinion/ransomware-bitcoin-cybersecurity.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks occur because criminals make money from them. If we can make it harder to profit from such attacks, they will decrease. The United States can make it harder.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Edition of Pipeline Cybersecurity Standard Covers All Control Systems<a href="https://www.securityweek.com/new-edition-pipeline-cybersecurity-standard-covers-all-control-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the API, which is the largest trade association for the oil and natural gas industry, this edition covers all control systems, rather than just SCADA systems as the previous edition did.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,238 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit gang leaks Bangkok Airways data, hits Accenture customers<a href="https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bangkok Airways, a major airline company in Thailand, confirmed it was the victim of a cyberattack earlier this month that compromised personal data of passengers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abuse the Domain Name System Through Malicious Websites to Exploit Private Networks<a href="https://unit42.paloaltonetworks.com/dns-rebinding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Allowing arbitrary cross-origin requests is known to be extremely dangerous. Therefore most modern browsers block these requests. However, DNS rebinding provides a way to bypass this restriction.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[LIVE WEBINAR] How Lean Security Teams Can Improve Their Time to Response<a href="https://thehackernews.com/2021/09/live-webinar-how-lean-security-teams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity could be described as a marathon for security teams that spend most of their time building sustained defenses that prevent threats day after day. However, they must be ready to hit a sprint whenever an attack succeeds since attack duration, and the resulting damages are directly correlated.   Reacting to a successful attack is a major challenge for lean security teams today since speed tends to be a result of size. Large teams with abundant resources can respond to incidents much faster as they can expend those resources freely. Lean security teams face the same costs and resource needs but with a much smaller pool to call from. A new live webinar by XDR provider Cynet shows why that doesn't have to be the case ( register here ).   The webinar breaks down how even large enterprises struggle with time to response. Look at any of the major breaches of the past years and you'll find large security teams that overlooked red flags or mishandled their incident response. It's n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Aug. 25, the U.K. Department for Digital, Culture, Media & Sport (DCMS) released important details about its post-Brexit strategy for cross-border flows of personal data. What's in the release?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out, ransomware attack risk increases on holidays and weekends, FBI and CISA<a href="https://securityaffairs.co/wordpress/121709/cyber-crime/fbi-cisa-ransomware-holidays-weekends.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA issued a joint cybersecurity advisory to warn organizations to remain vigilant against ransomware attacks during weekends or holidays.
+
+
+
+The FBI and CISA warn organizations to keep high their defenses against ransomware attacks during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn of Ransomware Attacks Ahead of Labor Day<a href="https://threatpost.com/ransomware-attacks-labor-day/169087/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors recently have used long holiday weekends — when many staff are taking time off — as a prime opportunity to ambush organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Departments Ordered to Improve Logging Capabilities<a href="https://www.bankinfosecurity.com/federal-departments-ordered-to-improve-logging-capabilities-a-17419?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House ordered U.S. agencies to improve their logging capabilities to better track when attackers target their networks and data, according to a memo from the Office of Management and Budget.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Working on Patches for OpenSSL Flaws Affecting its NAS Devices<a href="https://thehackernews.com/2021/09/qnap-working-on-patches-for-openssl.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP said it's  currently   investigating  two recently patched security flaws in OpenSSL to determine their potential impact, adding it will release security updates should its products turn out to be vulnerable.  Tracked as CVE-2021-3711 (CVSS score: 7.5) and CVE-2021-3712 (CVSS score: 4.4), the  weaknesses  concern a high-severity buffer overflow in SM2 decryption function and a buffer overrun issue when processing ASN.1 strings that could be abused by adversaries to run arbitrary code, cause a denial-of-service condition, or result in disclosure of private memory contents, such as private keys, or sensitive plaintext —   CVE-2021-3711  - OpenSSL SM2 decryption buffer overflow  CVE-2021-3712  - Read buffer overruns processing ASN.1 strings   "A malicious attacker who is able present SM2 content for decryption to an application could cause attacker chosen data to overflow the buffer by up to a maximum of 62 bytes altering the c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware operators leak 200GB of data belonging to Bangkok Airways<a href="https://securityaffairs.co/wordpress/121702/data-breach/lockbit-gang-bangkok-airways.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware operators have breached Bangkok Airways, the airline confirmed it was the victim and discloses a data breach impacting its passengers. 
+
+
+
+Bangkok Airways, a regional airline based in Bangkok, discloses a data breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There’s a Better Way to Stop Ransomware Attacks<a href="https://www.nytimes.com/2021/08/31/opinion/ransomware-bitcoin-cybersecurity.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks occur because criminals make money from them. If we can make it harder to profit from such attacks, they will decrease. The United States can make it harder.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Edition of Pipeline Cybersecurity Standard Covers All Control Systems<a href="https://www.securityweek.com/new-edition-pipeline-cybersecurity-standard-covers-all-control-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the API, which is the largest trade association for the oil and natural gas industry, this edition covers all control systems, rather than just SCADA systems as the previous edition did.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum threat to cryptography and how to overcome this<a href="https://cybersecurity.att.com/blogs/security-essentials/how-quantum-computing-will-effect-cryptography-why-we-need-post-quantum-cryptography?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To maintain confidentiality, organizations use symmetric and public-key cryptography. Though public key encryption is the most prone to quantum attacks, symmetric key encryption is also susceptible.
+</details>
+<div style="text-align: right" markdown="1">
+AT&T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accellion breach exposed data from patients at major Michigan hospital system<a href="https://www.cyberscoop.com/accellion-breach-exposed-data-from-patients-at-major-michigan-hospital-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major Michigan hospital system on Friday notified roughly 1,500 patients that their information may have been exposed as a result of a hack against file-sharing service Accellion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Use Office 365 to Target Supply Chain<a href="https://securityintelligence.com/articles/cyberattacks-office-365-supply-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain attacks starting in Office 365 can take on many different forms. For instance, spear phishers can use a compromised Office 365 account to scout out a targeted employee’s ongoing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 31, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

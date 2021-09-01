@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum threat to cryptography and how to overcome this<a href="https://cybersecurity.att.com/blogs/security-essentials/how-quantum-computing-will-effect-cryptography-why-we-need-post-quantum-cryptography?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To maintain confidentiality, organizations use symmetric and public-key cryptography. Though public key encryption is the most prone to quantum attacks, symmetric key encryption is also susceptible.
+</details>
+<div style="text-align: right" markdown="1">
+AT&amp;T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

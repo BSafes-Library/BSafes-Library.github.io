@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2021
+September 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit gang leaks Bangkok Airways data, hits Accenture customers<a href="https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Abuse the Domain Name System Through Malicious Websites to Exploit Private Networks<a href="https://unit42.paloaltonetworks.com/dns-rebinding/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2021
+September 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [LIVE WEBINAR] How Lean Security Teams Can Improve Their Time to Response<a href="https://thehackernews.com/2021/09/live-webinar-how-lean-security-teams.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out, ransomware attack risk increases on holidays and weekends, FBI and CISA<a href="https://securityaffairs.co/wordpress/121709/cyber-crime/fbi-cisa-ransomware-holidays-weekends.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Warn of Ransomware Attacks Ahead of Labor Day<a href="https://threatpost.com/ransomware-attacks-labor-day/169087/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Departments Ordered to Improve Logging Capabilities<a href="https://www.bankinfosecurity.com/federal-departments-ordered-to-improve-logging-capabilities-a-17419?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2021
+September 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Working on Patches for OpenSSL Flaws Affecting its NAS Devices<a href="https://thehackernews.com/2021/09/qnap-working-on-patches-for-openssl.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware operators leak 200GB of data belonging to Bangkok Airways<a href="https://securityaffairs.co/wordpress/121702/data-breach/lockbit-gang-bangkok-airways.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There’s a Better Way to Stop Ransomware Attacks<a href="https://www.nytimes.com/2021/08/31/opinion/ransomware-bitcoin-cybersecurity.html?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Edition of Pipeline Cybersecurity Standard Covers All Control Systems<a href="https://www.securityweek.com/new-edition-pipeline-cybersecurity-standard-covers-all-control-systems?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum threat to cryptography and how to overcome this<a href="https://cybersecurity.att.com/blogs/security-essentials/how-quantum-computing-will-effect-cryptography-why-we-need-post-quantum-cryptography?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ AT&T Cybersecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accellion breach exposed data from patients at major Michigan hospital system<a href="https://www.cyberscoop.com/accellion-breach-exposed-data-from-patients-at-major-michigan-hospital-system/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Use Office 365 to Target Supply Chain<a href="https://securityintelligence.com/articles/cyberattacks-office-365-supply-chain/?&web_view=true"> Full Text</a>

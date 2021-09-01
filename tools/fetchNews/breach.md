@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Leaked Guntrader firearms data file with UK gun owners' home addresses shared online<a href="https://www.theregister.com/2021/08/31/guntrader_breach_csv_danger/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Names, home addresses, postcodes, phone numbers, email addresses, and IP addresses are included in the CSV file – along with geographic coordinates for many of the 111,295 people listed in the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada accepted 7,300 more immigration applications due to technical bug<a href="https://www.bleepingcomputer.com/news/security/canada-accepted-7-300-more-immigration-applications-due-to-technical-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug in the Canadian immigration system led to the government accepting an additional 7,307 immigration applications, surpassing the imposed limit. This comprised files from&nbsp;international graduate stream applicants aspiring to change their temporary visa status to permanent residency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
