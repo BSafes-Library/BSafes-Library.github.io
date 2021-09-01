@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal sells tool to hide malware in AMD, NVIDIA GPUs<a href="https://www.bleepingcomputer.com/news/security/cybercriminal-sells-tool-to-hide-malware-in-amd-nvidia-gpus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are making strides towards attacks with malware that executes code from the graphics processing unit (GPU) of a compromised system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals buy up admin credentials to sharpen attacks on cloud deployments<a href="https://www.techrepublic.com/article/cybercriminals-buy-up-admin-credentials-to-sharpen-attacks-on-cloud-deployments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most interesting trends over the past few months, according to a new report, is the rising demand for access to cloud accounts in the sale of admin credentials from Initial Access Brokers.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

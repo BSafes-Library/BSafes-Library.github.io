@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Various Online Scams are Gaining Traction in the Crypto and Financial Space<a href="https://cyware.com/news/various-online-scams-are-gaining-traction-in-the-crypto-and-financial-space-83ff90f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea was targeted by an aggressive phishing attack. The attackers hid in the crypto platform’s Discord server and impersonated legit OpenSea employees to steal NFTs and cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

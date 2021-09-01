@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 Usage Analytics now anonymizes user info by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-usage-analytics-now-anonymizes-user-info-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it will start anonymizing​​​​​​​&nbsp;user-level info by default Microsoft 365 Usage Analytics beginning with September 1, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Propose Machine Learning-based Bluetooth Authentication Scheme<a href="https://thehackernews.com/2021/08/researchers-propose-machine-learning.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has proposed a machine learning approach that uses authentic interactions between devices in Bluetooth networks as a foundation to handle device-to-device authentication reliably.  Called " Verification of Interaction Authenticity " (aka VIA), the recurring authentication scheme aims to solve the problem of passive, continuous authentication and automatic deauthentication once two devices are paired with one another, which remain authenticated until an explicit deauthentication action is taken, or the authenticated session expires.  "Consider devices that pair via Bluetooth, which commonly follow the pattern of pair once, trust indefinitely. After two devices connect, those devices are bonded until a user explicitly removes the bond. This bond is likely to remain intact as long as the devices exist, or until they transfer ownership," Travis Peters, one of the co-authors of the study,&nbsp; said .   "The increased adoption of (Bluetooth-enabled)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

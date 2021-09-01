@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft 365 Usage Analytics now anonymizes user info by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-usage-analytics-now-anonymizes-user-info-by-default/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Leaked Guntrader firearms data file with UK gun owners' home addresses shared online<a href="https://www.theregister.com/2021/08/31/guntrader_breach_csv_danger/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agencies warn of ransomware threats ahead of Labor Day weekend<a href="https://thehill.com//policy/cybersecurity/570243-agencies-warn-of-ransomware-threats-ahead-of-labor-day-weekend"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Can Remotely Disable Fortress Wi-Fi Home Security Alarms<a href="https://thehackernews.com/2021/08/attackers-can-remotely-disable-fortress.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Congress and NIST Can Help Organizations Better Manage Cyber Risk<a href="https://www.lawfareblog.com/how-congress-and-nist-can-help-organizations-better-manage-cyber-risk"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockFile Ransomware uses a new intermittent encryption technique<a href="https://securityaffairs.co/wordpress/121692/malware/lockfile-ransomware-intermittent-encryption.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proxyware Services Open Orgs to Abuse – Report<a href="https://threatpost.com/abuse-of-proxyware-services/169068/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI, CISA: Ransomware attack risk increases on holidays, weekends<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-ransomware-attack-risk-increases-on-holidays-weekends/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coin Miners Pose Biggest Threat to Linux Cloud Environments<a href="https://cyware.com/news/coin-miners-pose-biggest-threat-to-linux-cloud-environments-dfc490d5"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Propose Machine Learning-based Bluetooth Authentication Scheme<a href="https://thehackernews.com/2021/08/researchers-propose-machine-learning.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors can remotely disable Fortress S03 Wi-Fi Home Security System<a href="https://securityaffairs.co/wordpress/121679/hacking/fortress-s03-home-security-system-flaws.html"> Full Text</a>
@@ -219,7 +219,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WooCommerce Pricing Plugin Allows Malicious Code-Injection<a href="https://threatpost.com/woocommerce-plugin-malicious/169063/"> Full Text</a>
@@ -235,7 +235,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coinbase seeds panic among users with erroneous 2FA change alerts<a href="https://www.bleepingcomputer.com/news/security/coinbase-seeds-panic-among-users-with-erroneous-2fa-change-alerts/"> Full Text</a>
@@ -251,7 +251,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Alert: Hive Ransomware is Actively Targeting Healthcare<a href="https://cyware.com/news/fbi-alert-hive-ransomware-is-actively-targeting-healthcare-c5f06388"> Full Text</a>
@@ -268,7 +268,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE wars customers of Sudo flaw in Aruba AirWave Management Platform<a href="https://securityaffairs.co/wordpress/121669/security/hpe-sudo-flaw-aruba-airwave-management-platform.html"> Full Text</a>
@@ -288,7 +288,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Is Latest to Get Dinged by OpenSSL Bugs Fallout<a href="https://threatpost.com/qnap-openssl-bugs/169054/"> Full Text</a>
@@ -304,7 +304,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal sells tool to hide malware in AMD, NVIDIA GPUs<a href="https://www.bleepingcomputer.com/news/security/cybercriminal-sells-tool-to-hide-malware-in-amd-nvidia-gpus/"> Full Text</a>
@@ -320,7 +320,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Extensive Look into Gaming-related Cyberthreats<a href="https://cyware.com/news/an-extensive-look-into-gaming-related-cyberthreats-e0a2fdde"> Full Text</a>
@@ -336,7 +336,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors stole $29 million worth of crypto assets from Cream Finance<a href="https://securityaffairs.co/wordpress/121665/cyber-crime/cream-finance-security-breach.html"> Full Text</a>
@@ -356,7 +356,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada accepted 7,300 more immigration applications due to technical bug<a href="https://www.bleepingcomputer.com/news/security/canada-accepted-7-300-more-immigration-applications-due-to-technical-bug/"> Full Text</a>
@@ -372,7 +372,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Joker Malware is Back - Yet Again!<a href="https://cyware.com/news/joker-malware-is-back-yet-again-49bb0ea0"> Full Text</a>
@@ -388,7 +388,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange ProxyToken flaw can allow attackers to read your emails<a href="https://securityaffairs.co/wordpress/121653/hacking/microsoft-exchange-proxytoken-flaw.html"> Full Text</a>
@@ -408,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil WhatsApp Mod Spotted Infecting Android Users with Malware<a href="https://cyware.com/news/evil-whatsapp-mod-spotted-infecting-android-users-with-malware-dcd8a34b"> Full Text</a>
@@ -424,7 +424,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities Can Allow Hackers to Disarm Fortress Home Security Systems<a href="https://www.securityweek.com/vulnerabilities-can-allow-hackers-disarm-fortress-home-security-systems?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals buy up admin credentials to sharpen attacks on cloud deployments<a href="https://www.techrepublic.com/article/cybercriminals-buy-up-admin-credentials-to-sharpen-attacks-on-cloud-deployments/?&web_view=true"> Full Text</a>
@@ -456,7 +456,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2021
+August 31, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deserialization bug in TensorFlow machine learning framework allowed arbitrary code execution<a href="https://portswigger.net/daily-swig/deserialization-bug-in-tensorflow-machine-learning-framework-allowed-arbitrary-code-execution?&web_view=true"> Full Text</a>
@@ -472,7 +472,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Normalizing Surveillance<a href="https://www.lawfareblog.com/normalizing-surveillance"> Full Text</a>
@@ -488,7 +488,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Single-Factor Authentication to the List of Bad Practices<a href="https://thehackernews.com/2021/08/cisa-adds-single-factor-authentication.html"> Full Text</a>
@@ -504,7 +504,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Microsoft Exchange 'ProxyToken' Flaw Lets Attackers Reconfigure Mailboxes<a href="https://thehackernews.com/2021/08/new-microsoft-exchange-proxytoken-flaw.html"> Full Text</a>
@@ -520,7 +520,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2021
+August 30, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Army Testing Facial Recognition in Child-Care Centers<a href="https://threatpost.com/army-facial-recognition-child-care/169036/"> Full Text</a>

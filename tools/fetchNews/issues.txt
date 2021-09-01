@@ -32,6 +32,9 @@
 Alerts:
 . https://securityaffairs.co/wordpress/121638/security/cisa-microsoft-azure-cosmos-db-flaw.html
 . https://www.bleepingcomputer.com/news/security/cisa-don-t-use-single-factor-auth-on-internet-exposed-systems/
+. https://thehill.com//policy/cybersecurity/570243-agencies-warn-of-ransomware-threats-ahead-of-labor-day-weekend
+. https://www.bleepingcomputer.com/news/security/fbi-cisa-ransomware-attack-risk-increases-on-holidays-weekends/
+. https://thehackernews.com/2021/08/cisa-adds-single-factor-authentication.html
 
 Law
 

@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Normalizing Surveillance<a href="https://www.lawfareblog.com/normalizing-surveillance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In developing a system for preventing the spread of child sexual abuse material that involves scanning the material of all those using certain apps, Apple is acclimatizing the idea of bulk surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Army Testing Facial Recognition in Child-Care Centers<a href="https://threatpost.com/army-facial-recognition-child-care/169036/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Army looking for AI to layer over daycare CCTV to boost ‘family quality of life.’
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

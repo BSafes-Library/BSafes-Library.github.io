@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Remotely Disable Fortress Wi-Fi Home Security Alarms<a href="https://thehackernews.com/2021/08/attackers-can-remotely-disable-fortress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New vulnerabilities have been discovered in Fortress S03 Wi-Fi Home Security System that could be potentially abused by a malicious party to gain unauthorized access with an aim to alter system behavior, including disarming the devices without the victim's knowledge.  The two unpatched issues, tracked under the identifiers CVE-2021-39276 (CVSS score: 5.3) and CVE-2021-39277 (CVSS score: 5.7), were discovered and reported by cybersecurity firm Rapid7 in May 2021 with a 60-day deadline to fix the weaknesses.   The Fortress S03 Wi-Fi Home Security System is a do-it-yourself (DIY)&nbsp;alarm system&nbsp;that enables users to secure their homes and small businesses from burglars, fires, gas leaks, and water leaks by leveraging Wi-Fi and RFID technology for keyless entry. The company's security and surveillance systems are used by "thousands of clients and continued customers,"&nbsp; according &nbsp;to its website.  Calling the vulnerabilities "trivially easy to exploit," Rapid7  re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proxyware Services Open Orgs to Abuse – Report<a href="https://threatpost.com/abuse-of-proxyware-services/169068/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Services that let consumers resell their bandwidth for money are ripe for abuse, researchers warn. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WooCommerce Pricing Plugin Allows Malicious Code-Injection<a href="https://threatpost.com/woocommerce-plugin-malicious/169063/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Dynamic Pricing and Discounts plugin from Envato can be exploited by unauthenticated attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE wars customers of Sudo flaw in Aruba AirWave Management Platform<a href="https://securityaffairs.co/wordpress/121669/security/hpe-sudo-flaw-aruba-airwave-management-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett Packard Enterprise (HPE) warns of a&nbsp;vulnerability in Sudo open-source program used in its Aruba AirWave management platform. 
+
+
+
+Hewlett Packard Enterprise (HPE) is warning of a high-severity privilege escalation&nbsp;vulnerability in Sudo open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Is Latest to Get Dinged by OpenSSL Bugs Fallout<a href="https://threatpost.com/qnap-openssl-bugs/169054/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NAS maker issued two security advisories about the RCE and DoS flaws, adding to a flurry of advisories from the vast array of companies whose products use OpenSSL. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange ProxyToken flaw can allow attackers to read your emails<a href="https://securityaffairs.co/wordpress/121653/hacking/microsoft-exchange-proxytoken-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ProxyToken is a serious vulnerability in Microsoft Exchange Server that could allow unauthentication attackers to access emails from a target account. 
+
+
+
+Technical details of a serious vulnerability in the Microsoft Exchange Server, dubbed ProxyToken...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Can Allow Hackers to Disarm Fortress Home Security Systems<a href="https://www.securityweek.com/vulnerabilities-can-allow-hackers-disarm-fortress-home-security-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers discovered that the product is affected by two vulnerabilities — both rated medium severity based on their CVSS score — that can be exploited remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deserialization bug in TensorFlow machine learning framework allowed arbitrary code execution<a href="https://portswigger.net/daily-swig/deserialization-bug-in-tensorflow-machine-learning-framework-allowed-arbitrary-code-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an advisory on GitHub, both TensorFlow and Keras, a wrapper library for TensorFlow, used an unsafe function to deserialize YAML-encoded machine learning models.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange 'ProxyToken' Flaw Lets Attackers Reconfigure Mailboxes<a href="https://thehackernews.com/2021/08/new-microsoft-exchange-proxytoken-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security vulnerability impacting Microsoft Exchange Server that could be weaponized by an unauthenticated attacker to modify server configurations, thus leading to the disclosure of Personally Identifiable Information (PII).  The issue, tracked as&nbsp; CVE-2021-33766 &nbsp;(CVSS score: 7.3) and coined " ProxyToken ," was discovered by Le Xuan Tuyen, a researcher at the Information Security Center of Vietnam Posts and Telecommunications Group (VNPT-ISC), and reported through the Zero-Day Initiative (ZDI) program in March 2021.   "With this vulnerability, an unauthenticated attacker can perform configuration actions on mailboxes belonging to arbitrary users," the ZDI&nbsp; said &nbsp;Monday. "As an illustration of the impact, this can be used to copy all emails addressed to a target and account and forward them to an account controlled by the attacker."  Microsoft addressed the issue as part of its&nbsp; Patch Tuesday updates &nbsp;for July 2021
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

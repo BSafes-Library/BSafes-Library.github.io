@@ -8,6 +8,38 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase seeds panic among users with erroneous 2FA change alerts<a href="https://www.bleepingcomputer.com/news/security/coinbase-seeds-panic-among-users-with-erroneous-2fa-change-alerts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase, the world's&nbsp;second largest cryptocurrency&nbsp;exchange with approximately 68 million users from over 100 countries, has scared a significant amount of its users with erroneous 2FA warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $29 million worth of crypto assets from Cream Finance<a href="https://securityaffairs.co/wordpress/121665/cyber-crime/cream-finance-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks have stolen more than $29 million in cryptocurrency assets from Cream Finance, a decentralized finance (DeFi) platform.
+
+
+
+Threat actors have stolen more than $29 million in cryptocurrency assets from Cream Finance, a decentralized finance (DeFi)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

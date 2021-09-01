@@ -8,6 +8,77 @@ nav_order: 900075
 
 ## Government
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies warn of ransomware threats ahead of Labor Day weekend<a href="https://thehill.com//policy/cybersecurity/570243-agencies-warn-of-ransomware-threats-ahead-of-labor-day-weekend"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies are warning of potential ransomware attacks targeted at U.S. organizations ahead of Labor Day weekend following cyberattacks during previous holidays this year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Congress and NIST Can Help Organizations Better Manage Cyber Risk<a href="https://www.lawfareblog.com/how-congress-and-nist-can-help-organizations-better-manage-cyber-risk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Requiring NIST to clarify how organizations should use existing and future cybersecurity guidance would be a timely and overdue action to improve the nation’s cyber defenses that should attract broad support.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA: Ransomware attack risk increases on holidays, weekends<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-ransomware-attack-risk-increases-on-holidays-weekends/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA&nbsp;urged organizations not to let down their defenses against ransomware attacks&nbsp;during weekends or holidays to released a joint cybersecurity advisory issued earlier today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Alert: Hive Ransomware is Actively Targeting Healthcare<a href="https://cyware.com/news/fbi-alert-hive-ransomware-is-actively-targeting-healthcare-c5f06388"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI cautioned against the Hive ransomware that recently halted operations at Memorial Health System in a cyberattack. The group’s deadline ranges between two to six days, normally.  Hive actors use RDP to move laterally inside the network. A  response plan in the event of ransomware attacks sho ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Single-Factor Authentication to the List of Bad Practices<a href="https://thehackernews.com/2021/08/cisa-adds-single-factor-authentication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday&nbsp; added &nbsp;single-factor authentication to the short list of "exceptionally risky" cybersecurity practices that could expose critical infrastructure as well as government and the private sector entities to devastating cyberattacks.  Single-factor authentication is a&nbsp; method &nbsp;of signing in users to websites and remote systems by using only one way of verifying their identity, typically a combination of username and password. It's considered to be of low-security, since it heavily relies on "matching one factor — such as a password — to a username to gain access to a system."   But with weak, reused, and common passwords posing a grave threat and emerging a lucrative attack vector, the use of single-factor authentication can lead to unnecessary risk of compromise and increase the possibility of account takeover by cybercriminals.  With the latest development, the&nbsp; list of bad practices &nbsp;now e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

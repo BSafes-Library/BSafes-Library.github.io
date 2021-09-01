@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP works on patches for OpenSSL bugs impacting its NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-works-on-patches-for-openssl-bugs-impacting-its-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) maker QNAP is investigating and working on security updates to address remote code execution (RCE) and denial-of-service (DoS) vulnerabilities patched by OpenSSL last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Warns Sudo Bug Gives Attackers Root Privileges to Aruba Platform<a href="https://threatpost.com/hpe-sudo-bug-aruba-platform/169038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE joins Apple in warning customers of a high-severity Sudo vulnerability. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange ProxyToken bug can let hackers steal user email<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxytoken-bug-can-let-hackers-steal-user-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details have emerged on a serious vulnerability in Microsoft Exchange Server dubbed ProxyToken that does not require authentication to access emails from a target account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant Targets WebSVN Command Injection Vulnerability<a href="https://unit42.paloaltonetworks.com/cve-2021-32305-websvn/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical command injection vulnerability was discovered and patched in May 2021. A PoC was released and within a week, attackers exploited the vulnerability to deploy variants of Mirai.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProxyToken vulnerability can modify Exchange server configs<a href="https://therecord.media/proxytoken-vulnerability-can-modify-exchange-server-configs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nicknamed ProxyToken, the security vulnerability allows a remote attacker to bypass authentication and make changes to a Microsoft Exchange email server’s backend configuration.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

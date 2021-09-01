@@ -11,6 +11,20 @@ nav_order: 900072
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Singapore touts need for security, use cases as 5G rollouts gather steam<a href="https://www.zdnet.com/article/singapore-touts-need-for-security-use-cases-as-5g-rollouts-gather-steam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government urges need to ensure 5G networks remain secured and resilient, as Singtel says it has attained 180,000 5G subscribers and added new business use cases running on its 5G standalone network.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Challenges organizations face when implementing zero trust architecture<a href="https://www.helpnetsecurity.com/2021/08/27/implementing-zero-trust-architecture/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

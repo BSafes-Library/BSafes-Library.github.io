@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point To Acquire Email Security Startup Avanan<a href="https://www.crn.com/news/security/check-point-to-acquire-email-security-startup-avanan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software Technologies has agreed to buy email security solutions provider Avanan to deliver best-of-breed cloud email malware protection and expand security to SaaS collaboration suites.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

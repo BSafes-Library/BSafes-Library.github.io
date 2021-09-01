@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can remotely disable Fortress S03 Wi-Fi Home Security System<a href="https://securityaffairs.co/wordpress/121679/hacking/fortress-s03-home-security-system-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers discovered two flaws that can be exploited by attackers to remotely disable one of the home security systems offered by Fortress Security Store.
+
+
+
+Researchers at cybersecurity firm Rapid7 discovered two vulnerabilities that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

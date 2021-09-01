@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coin Miners Pose Biggest Threat to Linux Cloud Environments<a href="https://cyware.com/news/coin-miners-pose-biggest-threat-to-linux-cloud-environments-dfc490d5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro found that around 13 million malware attacks targeted Linux-based cloud environments, with ransomware and coin miners accounting for 54% of attacks in the first half of 2021. Web shells accounted for around 20% of malware families. It is recommended to have additional and adequate layer ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Extensive Look into Gaming-related Cyberthreats<a href="https://cyware.com/news/an-extensive-look-into-gaming-related-cyberthreats-e0a2fdde"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, between July 2020 and June 2021, around 303,827 users were faced with gaming-related malware and other unwanted software, while 69,224 files were propagated under the pretense of 24 most played PC games.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
