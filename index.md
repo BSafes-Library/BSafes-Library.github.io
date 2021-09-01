@@ -34,6 +34,508 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 Usage Analytics now anonymizes user info by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-usage-analytics-now-anonymizes-user-info-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it will start anonymizing​​​​​​​ user-level info by default Microsoft 365 Usage Analytics beginning with September 1, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Leaked Guntrader firearms data file with UK gun owners' home addresses shared online<a href="https://www.theregister.com/2021/08/31/guntrader_breach_csv_danger/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Names, home addresses, postcodes, phone numbers, email addresses, and IP addresses are included in the CSV file – along with geographic coordinates for many of the 111,295 people listed in the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies warn of ransomware threats ahead of Labor Day weekend<a href="https://thehill.com//policy/cybersecurity/570243-agencies-warn-of-ransomware-threats-ahead-of-labor-day-weekend"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies are warning of potential ransomware attacks targeted at U.S. organizations ahead of Labor Day weekend following cyberattacks during previous holidays this year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Remotely Disable Fortress Wi-Fi Home Security Alarms<a href="https://thehackernews.com/2021/08/attackers-can-remotely-disable-fortress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New vulnerabilities have been discovered in Fortress S03 Wi-Fi Home Security System that could be potentially abused by a malicious party to gain unauthorized access with an aim to alter system behavior, including disarming the devices without the victim's knowledge.  The two unpatched issues, tracked under the identifiers CVE-2021-39276 (CVSS score: 5.3) and CVE-2021-39277 (CVSS score: 5.7), were discovered and reported by cybersecurity firm Rapid7 in May 2021 with a 60-day deadline to fix the weaknesses.   The Fortress S03 Wi-Fi Home Security System is a do-it-yourself (DIY) alarm system that enables users to secure their homes and small businesses from burglars, fires, gas leaks, and water leaks by leveraging Wi-Fi and RFID technology for keyless entry. The company's security and surveillance systems are used by "thousands of clients and continued customers,"  according  to its website.  Calling the vulnerabilities "trivially easy to exploit," Rapid7  re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Congress and NIST Can Help Organizations Better Manage Cyber Risk<a href="https://www.lawfareblog.com/how-congress-and-nist-can-help-organizations-better-manage-cyber-risk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Requiring NIST to clarify how organizations should use existing and future cybersecurity guidance would be a timely and overdue action to improve the nation’s cyber defenses that should attract broad support.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockFile Ransomware uses a new intermittent encryption technique<a href="https://securityaffairs.co/wordpress/121692/malware/lockfile-ransomware-intermittent-encryption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently emerged LockFile ransomware family LockFile leverages a novel technique called intermittent encryption to speed up encryption. 
+
+
+
+LockFile ransomware gang started its operations last month, recently it was spotted targeting Microsoft Exchange...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proxyware Services Open Orgs to Abuse – Report<a href="https://threatpost.com/abuse-of-proxyware-services/169068/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Services that let consumers resell their bandwidth for money are ripe for abuse, researchers warn. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA: Ransomware attack risk increases on holidays, weekends<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-ransomware-attack-risk-increases-on-holidays-weekends/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA urged organizations not to let down their defenses against ransomware attacks during weekends or holidays to released a joint cybersecurity advisory issued earlier today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coin Miners Pose Biggest Threat to Linux Cloud Environments<a href="https://cyware.com/news/coin-miners-pose-biggest-threat-to-linux-cloud-environments-dfc490d5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro found that around 13 million malware attacks targeted Linux-based cloud environments, with ransomware and coin miners accounting for 54% of attacks in the first half of 2021. Web shells accounted for around 20% of malware families. It is recommended to have additional and adequate layer ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Propose Machine Learning-based Bluetooth Authentication Scheme<a href="https://thehackernews.com/2021/08/researchers-propose-machine-learning.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has proposed a machine learning approach that uses authentic interactions between devices in Bluetooth networks as a foundation to handle device-to-device authentication reliably.  Called " Verification of Interaction Authenticity " (aka VIA), the recurring authentication scheme aims to solve the problem of passive, continuous authentication and automatic deauthentication once two devices are paired with one another, which remain authenticated until an explicit deauthentication action is taken, or the authenticated session expires.  "Consider devices that pair via Bluetooth, which commonly follow the pattern of pair once, trust indefinitely. After two devices connect, those devices are bonded until a user explicitly removes the bond. This bond is likely to remain intact as long as the devices exist, or until they transfer ownership," Travis Peters, one of the co-authors of the study,  said .   "The increased adoption of (Bluetooth-enabled)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can remotely disable Fortress S03 Wi-Fi Home Security System<a href="https://securityaffairs.co/wordpress/121679/hacking/fortress-s03-home-security-system-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers discovered two flaws that can be exploited by attackers to remotely disable one of the home security systems offered by Fortress Security Store.
+
+
+
+Researchers at cybersecurity firm Rapid7 discovered two vulnerabilities that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WooCommerce Pricing Plugin Allows Malicious Code-Injection<a href="https://threatpost.com/woocommerce-plugin-malicious/169063/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Dynamic Pricing and Discounts plugin from Envato can be exploited by unauthenticated attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase seeds panic among users with erroneous 2FA change alerts<a href="https://www.bleepingcomputer.com/news/security/coinbase-seeds-panic-among-users-with-erroneous-2fa-change-alerts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase, the world's second largest cryptocurrency exchange with approximately 68 million users from over 100 countries, has scared a significant amount of its users with erroneous 2FA warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Alert: Hive Ransomware is Actively Targeting Healthcare<a href="https://cyware.com/news/fbi-alert-hive-ransomware-is-actively-targeting-healthcare-c5f06388"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI cautioned against the Hive ransomware that recently halted operations at Memorial Health System in a cyberattack. The group’s deadline ranges between two to six days, normally.  Hive actors use RDP to move laterally inside the network. A  response plan in the event of ransomware attacks sho ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE wars customers of Sudo flaw in Aruba AirWave Management Platform<a href="https://securityaffairs.co/wordpress/121669/security/hpe-sudo-flaw-aruba-airwave-management-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hewlett Packard Enterprise (HPE) warns of a vulnerability in Sudo open-source program used in its Aruba AirWave management platform. 
+
+
+
+Hewlett Packard Enterprise (HPE) is warning of a high-severity privilege escalation vulnerability in Sudo open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Is Latest to Get Dinged by OpenSSL Bugs Fallout<a href="https://threatpost.com/qnap-openssl-bugs/169054/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NAS maker issued two security advisories about the RCE and DoS flaws, adding to a flurry of advisories from the vast array of companies whose products use OpenSSL. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal sells tool to hide malware in AMD, NVIDIA GPUs<a href="https://www.bleepingcomputer.com/news/security/cybercriminal-sells-tool-to-hide-malware-in-amd-nvidia-gpus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are making strides towards attacks with malware that executes code from the graphics processing unit (GPU) of a compromised system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Extensive Look into Gaming-related Cyberthreats<a href="https://cyware.com/news/an-extensive-look-into-gaming-related-cyberthreats-e0a2fdde"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, between July 2020 and June 2021, around 303,827 users were faced with gaming-related malware and other unwanted software, while 69,224 files were propagated under the pretense of 24 most played PC games.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $29 million worth of crypto assets from Cream Finance<a href="https://securityaffairs.co/wordpress/121665/cyber-crime/cream-finance-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks have stolen more than $29 million in cryptocurrency assets from Cream Finance, a decentralized finance (DeFi) platform.
+
+
+
+Threat actors have stolen more than $29 million in cryptocurrency assets from Cream Finance, a decentralized finance (DeFi)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada accepted 7,300 more immigration applications due to technical bug<a href="https://www.bleepingcomputer.com/news/security/canada-accepted-7-300-more-immigration-applications-due-to-technical-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug in the Canadian immigration system led to the government accepting an additional 7,307 immigration applications, surpassing the imposed limit. This comprised files from international graduate stream applicants aspiring to change their temporary visa status to permanent residency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Joker Malware is Back - Yet Again!<a href="https://cyware.com/news/joker-malware-is-back-yet-again-49bb0ea0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgian Police issued a warning about the return of the Joker virus that is attacking Android devices - once more. The virus has been detected in eight apps in the Google Play Store; however, the apps have been removed by Google.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange ProxyToken flaw can allow attackers to read your emails<a href="https://securityaffairs.co/wordpress/121653/hacking/microsoft-exchange-proxytoken-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ProxyToken is a serious vulnerability in Microsoft Exchange Server that could allow unauthentication attackers to access emails from a target account. 
+
+
+
+Technical details of a serious vulnerability in the Microsoft Exchange Server, dubbed ProxyToken...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil WhatsApp Mod Spotted Infecting Android Users with Malware<a href="https://cyware.com/news/evil-whatsapp-mod-spotted-infecting-android-users-with-malware-dcd8a34b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A version of FMWhatsApp, a popular WhatsApp mod, was found to carry a trojan. Dubbed Triada, the trojan downloads malicious apps on victims’ devices and is found in version 16.80.0 of FMWhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Can Allow Hackers to Disarm Fortress Home Security Systems<a href="https://www.securityweek.com/vulnerabilities-can-allow-hackers-disarm-fortress-home-security-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers discovered that the product is affected by two vulnerabilities — both rated medium severity based on their CVSS score — that can be exploited remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals buy up admin credentials to sharpen attacks on cloud deployments<a href="https://www.techrepublic.com/article/cybercriminals-buy-up-admin-credentials-to-sharpen-attacks-on-cloud-deployments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the most interesting trends over the past few months, according to a new report, is the rising demand for access to cloud accounts in the sale of admin credentials from Initial Access Brokers.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deserialization bug in TensorFlow machine learning framework allowed arbitrary code execution<a href="https://portswigger.net/daily-swig/deserialization-bug-in-tensorflow-machine-learning-framework-allowed-arbitrary-code-execution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an advisory on GitHub, both TensorFlow and Keras, a wrapper library for TensorFlow, used an unsafe function to deserialize YAML-encoded machine learning models.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Normalizing Surveillance<a href="https://www.lawfareblog.com/normalizing-surveillance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In developing a system for preventing the spread of child sexual abuse material that involves scanning the material of all those using certain apps, Apple is acclimatizing the idea of bulk surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Single-Factor Authentication to the List of Bad Practices<a href="https://thehackernews.com/2021/08/cisa-adds-single-factor-authentication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday  added  single-factor authentication to the short list of "exceptionally risky" cybersecurity practices that could expose critical infrastructure as well as government and the private sector entities to devastating cyberattacks.  Single-factor authentication is a  method  of signing in users to websites and remote systems by using only one way of verifying their identity, typically a combination of username and password. It's considered to be of low-security, since it heavily relies on "matching one factor — such as a password — to a username to gain access to a system."   But with weak, reused, and common passwords posing a grave threat and emerging a lucrative attack vector, the use of single-factor authentication can lead to unnecessary risk of compromise and increase the possibility of account takeover by cybercriminals.  With the latest development, the  list of bad practices  now e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange 'ProxyToken' Flaw Lets Attackers Reconfigure Mailboxes<a href="https://thehackernews.com/2021/08/new-microsoft-exchange-proxytoken-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security vulnerability impacting Microsoft Exchange Server that could be weaponized by an unauthenticated attacker to modify server configurations, thus leading to the disclosure of Personally Identifiable Information (PII).  The issue, tracked as  CVE-2021-33766  (CVSS score: 7.3) and coined " ProxyToken ," was discovered by Le Xuan Tuyen, a researcher at the Information Security Center of Vietnam Posts and Telecommunications Group (VNPT-ISC), and reported through the Zero-Day Initiative (ZDI) program in March 2021.   "With this vulnerability, an unauthenticated attacker can perform configuration actions on mailboxes belonging to arbitrary users," the ZDI  said  Monday. "As an illustration of the impact, this can be used to copy all emails addressed to a target and account and forward them to an account controlled by the attacker."  Microsoft addressed the issue as part of its  Patch Tuesday updates  for July 2021
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Army Testing Facial Recognition in Child-Care Centers<a href="https://threatpost.com/army-facial-recognition-child-care/169036/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Army looking for AI to layer over daycare CCTV to boost ‘family quality of life.’
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
