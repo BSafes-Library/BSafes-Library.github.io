@@ -6,6 +6,42 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2021 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Awareness for Holidays and Weekends <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-243a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) have observed an increase in highly impactful ransomware attacks occurring on holidays and weekends—when offices are normally closed—in the United States, as recently as the Fourth of July holiday in 2021.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Single-Factor Authentication to list of Bad Practices <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/08/30/cisa-adds-single-factor-authentication-list-bad-practices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, CISA added the use of single-factor authentication for remote or administrative access systems to our Bad Practices list of exceptionally risky cybersecurity practices. Single-factor authentication is a common low-security method of authentication. It only requires matching one factor—such as a password—to a username to gain access to a system.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2021 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Cosmos DB Guidance <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/08/27/microsoft-azure-cosmos-db-guidance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is aware of a misconfiguration vulnerability in Microsoft’s Azure Cosmos DB that may have exposed customer data. The misconfiguration has been fixed within the Azure cloud, and Microsoft has notified the customers who potentially would have been impacted.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2021 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

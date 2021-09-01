@@ -6,6 +6,7 @@ nav_order: 500
 ---
 
 ## Publications
+* August 30, 2021, CISA - BAD PRACTICES [HTML](https://www.cisa.gov/BadPractices)
 * August 18, 2021, CISA - Protecting Sensitive and Personal Information from Ransomware-Caused Data Breaches [HTML](https://publications.bsafes.com/docs/cisa/protecting-sensitive-and-personal-information-from-ransomware-caused-data-breaches/)
 * July, 2021, CISA Analysis: FY2020 Risk and Vulnerability Assessments [HTML](https://publications.bsafes.com/docs/cisa/FY2020-Risk-and-Vulnerability-Assessments/)
 * June 25, 2021, Definition of Critical Software Under Executive Order (EO) 14028 [[HTML](https://publications.bsafes.com/docs/nist/Definition-of-Critical-Software-Under-Executive-Order-(EO)-14028/)]
