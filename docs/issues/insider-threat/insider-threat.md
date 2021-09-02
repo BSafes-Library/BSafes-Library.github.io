@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired NY credit union employee nukes 21GB of data in revenge<a href="https://www.bleepingcomputer.com/news/security/fired-ny-credit-union-employee-nukes-21gb-of-data-in-revenge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juliana Barile, the former employee of a New York credit union, pleaded guilty to accessing the financial institution's computer systems without authorization and destroying over 21&nbsp;gigabytes of data in revenge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

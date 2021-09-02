@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC bans stalkerware maker Spyfone from surveillance business<a href="https://www.bleepingcomputer.com/news/security/ftc-bans-stalkerware-maker-spyfone-from-surveillance-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FTC has banned&nbsp;stalkerware maker Spyfone&nbsp;and CEO&nbsp;Scott Zuckerman&nbsp;from the surveillance business after failing to protect customers' devices from hackers and&nbsp;sharing info on their location and activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC bans 'stalkerware' company from operating in surveillance industry<a href="https://thehill.com//policy/cybersecurity/570427-ftc-bans-stalkerware-company-from-operating-in-surveillance-industry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) on Wednesday banned the operation of an app alleged to be used as “stalkerware” and the company’s CEO&nbsp;from the surveillance industry following allegations that the company had collected and shared data to enable stalking.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC announces sanctions against entities over email account hacking<a href="https://securityaffairs.co/wordpress/121717/security/sec-sanction-companies-email-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Securities and Exchange Commission (SEC) announced sanctions against several organizations over email account hacking. 
+
+
+
+The U.S. Securities and Exchange Commission (SEC) announced sanctions against eight entities belonging to three companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

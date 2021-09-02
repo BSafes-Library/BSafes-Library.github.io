@@ -11,6 +11,20 @@ nav_order: 900075
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Singapore adds a third bug bounty program – this time to fortify government digital services<a href="https://www.theregister.com/2021/09/01/singapore_partners_with_hackerone_to/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Vulnerability Rewards Programme (VRP) joins the Government Bug Bounty Programme and the Vulnerability Disclosure Programme, all of which work alongside the government's own security checks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
 </p>
 <details>

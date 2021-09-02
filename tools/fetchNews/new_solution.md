@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter adds Safety Mode to automatically block online harassment<a href="https://www.bleepingcomputer.com/news/security/twitter-adds-safety-mode-to-automatically-block-online-harassment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has introduced today Safety Mode, a new feature that aims to block online harassment attempts and reduce&nbsp;disruptive interactions on the platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

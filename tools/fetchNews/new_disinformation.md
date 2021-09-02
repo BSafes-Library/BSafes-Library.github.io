@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DDoS Alerts Leading to BazaLoader<a href="https://cyware.com/news/fake-ddos-alerts-leading-to-bazaloader-b159e395"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The messages contain fake alerts about the sites being involved in DDoS attacks. They contain a legal threat, along with a file in a Google Drive folder that reportedly offers evidence of the attack source.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockfile Ransomware Embraces Offensive Updates<a href="https://cyware.com/news/lockfile-ransomware-embraces-offensive-updates-44783ddd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockFile, unlike other ransomware, doesn't encrypt the first few blocks. Instead, it encrypts every other 16 bytes of a document. This technique is called intermittent encryption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

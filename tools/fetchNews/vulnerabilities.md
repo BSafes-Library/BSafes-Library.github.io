@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Working on Patches for OpenSSL Flaws Affecting its NAS Devices<a href="https://thehackernews.com/2021/09/qnap-working-on-patches-for-openssl.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP said it's&nbsp; currently &nbsp; investigating &nbsp;two recently patched security flaws in OpenSSL to determine their potential impact, adding it will release security updates should its products turn out to be vulnerable.  Tracked as CVE-2021-3711 (CVSS score: 7.5) and CVE-2021-3712 (CVSS score: 4.4), the&nbsp; weaknesses &nbsp;concern a high-severity buffer overflow in SM2 decryption function and a buffer overrun issue when processing ASN.1 strings that could be abused by adversaries to run arbitrary code, cause a denial-of-service condition, or result in disclosure of private memory contents, such as private keys, or sensitive plaintext —   CVE-2021-3711 &nbsp;- OpenSSL SM2 decryption buffer overflow  CVE-2021-3712 &nbsp;- Read buffer overruns processing ASN.1 strings   "A malicious attacker who is able present SM2 content for decryption to an application could cause attacker chosen data to overflow the buffer by up to a maximum of 62 bytes altering the c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Use Office 365 to Target Supply Chain<a href="https://securityintelligence.com/articles/cyberattacks-office-365-supply-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain attacks starting in Office 365 can take on many different forms. For instance, spear phishers can use a compromised Office 365 account to scout out a targeted employee’s ongoing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

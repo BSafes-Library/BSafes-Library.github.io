@@ -11,6 +11,20 @@ nav_order: 900072
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How to block Windows Plug-and-Play auto-installing insecure apps<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-block-windows-plug-and-play-auto-installing-insecure-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trick has been discovered that prevents your device from being taken over by vulnerable Windows applications when devices are plugged into your computer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 [LIVE WEBINAR] How Lean Security Teams Can Improve Their Time to Response<a href="https://thehackernews.com/2021/09/live-webinar-how-lean-security-teams.html"> Full Text</a>
 </p>
 <details>
