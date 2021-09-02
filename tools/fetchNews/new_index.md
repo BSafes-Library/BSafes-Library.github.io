@@ -37,6 +37,340 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 01, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+How to block Windows Plug-and-Play auto-installing insecure apps<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-block-windows-plug-and-play-auto-installing-insecure-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trick has been discovered that prevents your device from being taken over by vulnerable Windows applications when devices are plugged into your computer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Awards Over $130,000 for Flaws Patched With Release of Chrome 93<a href="https://www.securityweek.com/google-awards-over-130000-flaws-patched-release-chrome-93?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of Chrome 93 with a total of 27 security patches inside, including 19 for vulnerabilities that were reported by external researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry lobbies Congress to extend notification timeline after cybersecurity incidents<a href="https://thehill.com//policy/cybersecurity/570460-industry-lobbies-congress-to-extend-notification-timeline-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key industry groups on Wednesday pushed to give organizations at least three days to report cybersecurity incidents to the federal government, effectively opposing Senate legislation that would give them 24 hours to report breaches. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abusing Internet-Sharing Services to Monetize Malware Campaigns<a href="https://thehackernews.com/2021/09/cybercriminals-abusing-internet-sharing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are capitalizing on the growing popularity of proxyware platforms like Honeygain and Nanowire to monetize their own malware campaigns, once again illustrating how attackers are quick to  repurpose and weaponize legitimate platforms  to their advantage.  "Malware is currently leveraging these platforms to monetize the internet bandwidth of victims, similar to how malicious cryptocurrency mining attempts to monetize the CPU cycles of infected systems," researchers from Cisco Talos  said  in a Tuesday analysis. "In many cases, these applications are featured in multi-stage, multi-payload malware attacks that provide adversaries with multiple monetization methods."   Proxyware, also called internet-sharing applications, are legitimate services that allow users to carve out a percentage of their internet bandwidth for other devices, often for a fee, through a client application offered by the provider, enabling other customers to access the internet using
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozi infections will slightly decrease but it will stay alive for some time to come<a href="https://securityaffairs.co/wordpress/121730/malware/mozi-botnet-still-alive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mozi botnet continues to spread despite the arrest of its alleged author and experts believe that it will run for many other years.  
+
+
+
+Mozi is an IoT botnet that borrows the code from Mirai variants and the Gafgyt malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC bans stalkerware maker Spyfone from surveillance business<a href="https://www.bleepingcomputer.com/news/security/ftc-bans-stalkerware-maker-spyfone-from-surveillance-business/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FTC has banned stalkerware maker Spyfone and CEO Scott Zuckerman from the surveillance business after failing to protect customers' devices from hackers and sharing info on their location and activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Sell Your Internet Bandwidth for Passive Income<a href="https://cyware.com/news/attackers-sell-your-internet-bandwidth-for-passive-income-f385f4ea"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos highlighted the rise in abuse of proxyware that allows adversaries to manipulate compromised internet connections to generate illicit revenue. Attackers were also observed installing digital currency miners and info-stealers to earn additional revenue. In some cases, hackers even patch  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC bans 'stalkerware' company from operating in surveillance industry<a href="https://thehill.com//policy/cybersecurity/570427-ftc-bans-stalkerware-company-from-operating-in-surveillance-industry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) on Wednesday banned the operation of an app alleged to be used as “stalkerware” and the company’s CEO from the surveillance industry following allegations that the company had collected and shared data to enable stalking.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linphone SIP Stack Bug Could Let Attackers Remotely Crash Client Devices<a href="https://thehackernews.com/2021/09/linphone-sip-stack-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed details about a zero-click security vulnerability in Linphone Session Initiation Protocol ( SIP ) stack that could be remotely exploited without any action from a victim to crash the SIP client and cause a denial-of-service (DoS) condition.  Tracked as  CVE-2021-33056  (CVSS score: 7.5), the issue concerns a NULL pointer dereference vulnerability in the " belle-sip " component, a C-language library used to implement SIP transport, transaction, and dialog layers, with all versions prior to  4.5.20  affected by the flaw. The weakness was discovered and reported by industrial cybersecurity company Claroty.   Linphone is an open-source and cross-platform SIP client with support for voice and video calls, end-to-end encrypted messaging, and audio conference calls, among others. SIP, on the other hand, is a signaling protocol used for initiating, maintaining, and terminating real-time multimedia communication sessions for voice, video
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP will patche OpenSSL flaws in its NAS devices<a href="https://securityaffairs.co/wordpress/121724/iot/qnap-openssl-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP is working on security patches for its products affected by recently fixed OpenSSL flaws.  
+
+
+
+Taiwanese Network-attached storage (NAS) appliance maker QNAP announced that it is assessing the  potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter adds Safety Mode to automatically block online harassment<a href="https://www.bleepingcomputer.com/news/security/twitter-adds-safety-mode-to-automatically-block-online-harassment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has introduced today Safety Mode, a new feature that aims to block online harassment attempts and reduce disruptive interactions on the platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant Abuses WebSVN Vulnerability<a href="https://cyware.com/news/new-mirai-variant-abuses-websvn-vulnerability-9bed48fc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant   of&nbsp; Mirai botnet &nbsp;is   exploiting a previously disclosed command injection vulnerability affecting&nbsp;WebSVN. The main purpose of this new version of the botnet is to perform a variety of DDoS attacks. O rganizations are strongly recommended to have a robust patch manag ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC announces sanctions against entities over email account hacking<a href="https://securityaffairs.co/wordpress/121717/security/sec-sanction-companies-email-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Securities and Exchange Commission (SEC) announced sanctions against several organizations over email account hacking. 
+
+
+
+The U.S. Securities and Exchange Commission (SEC) announced sanctions against eight entities belonging to three companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired NY credit union employee nukes 21GB of data in revenge<a href="https://www.bleepingcomputer.com/news/security/fired-ny-credit-union-employee-nukes-21gb-of-data-in-revenge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juliana Barile, the former employee of a New York credit union, pleaded guilty to accessing the financial institution's computer systems without authorization and destroying over 21 gigabytes of data in revenge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake DDoS Alerts Leading to BazaLoader<a href="https://cyware.com/news/fake-ddos-alerts-leading-to-bazaloader-b159e395"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The messages contain fake alerts about the sites being involved in DDoS attacks. They contain a legal threat, along with a file in a Google Drive folder that reportedly offers evidence of the attack source.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockfile Ransomware Embraces Offensive Updates<a href="https://cyware.com/news/lockfile-ransomware-embraces-offensive-updates-44783ddd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockFile, unlike other ransomware, doesn't encrypt the first few blocks. Instead, it encrypts every other 16 bytes of a document. This technique is called intermittent encryption.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore adds a third bug bounty program – this time to fortify government digital services<a href="https://www.theregister.com/2021/09/01/singapore_partners_with_hackerone_to/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Vulnerability Rewards Programme (VRP) joins the Government Bug Bounty Programme and the Vulnerability Disclosure Programme, all of which work alongside the government's own security checks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Using Data Leak Sites to Recruit New Affiliates<a href="https://securityintelligence.com/news/ransomware-gangs-using-data-leak-sites-new-affiliates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are posting announcements on their own data leaks websites. This shift has come about in large part because two major ransomware forums banned gangs from promoting their RaaS schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Allows Remote DoS Attacks Against Apps Using Linphone SIP Stack<a href="https://www.securityweek.com/vulnerability-allows-remote-dos-attacks-against-apps-using-linphone-sip-stack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw affecting the Linphone Session Initiation Protocol (SIP) client suite can allow malicious actors to remotely crash applications, industrial cybersecurity firm Claroty warned on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency payments to scams outpace ransomware jackpots in Eastern Europe, Chainalysis finds<a href="https://www.cyberscoop.com/chainalysis-cryptocurrency-scams-ukraine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between December 2019 and August 2021, users sent over $1.5 billion worth of bitcoin to Finiko, a Russia-based Ponzi-scheme whose founders are under arrest or have fled Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LockBit gang leaks Bangkok Airways data, hits Accenture customers<a href="https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +384,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Abuse the Domain Name System Through Malicious Websites to Exploit Private Networks<a href="https://unit42.paloaltonetworks.com/dns-rebinding/?&web_view=true"> Full Text</a>
@@ -66,7 +400,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2021
+September 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [LIVE WEBINAR] How Lean Security Teams Can Improve Their Time to Response<a href="https://thehackernews.com/2021/09/live-webinar-how-lean-security-teams.html"> Full Text</a>
@@ -82,7 +416,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
@@ -98,7 +432,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out, ransomware attack risk increases on holidays and weekends, FBI and CISA<a href="https://securityaffairs.co/wordpress/121709/cyber-crime/fbi-cisa-ransomware-holidays-weekends.html"> Full Text</a>
@@ -118,7 +452,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Warn of Ransomware Attacks Ahead of Labor Day<a href="https://threatpost.com/ransomware-attacks-labor-day/169087/"> Full Text</a>
@@ -134,7 +468,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Departments Ordered to Improve Logging Capabilities<a href="https://www.bankinfosecurity.com/federal-departments-ordered-to-improve-logging-capabilities-a-17419?&web_view=true"> Full Text</a>
@@ -150,7 +484,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2021
+September 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Working on Patches for OpenSSL Flaws Affecting its NAS Devices<a href="https://thehackernews.com/2021/09/qnap-working-on-patches-for-openssl.html"> Full Text</a>
@@ -166,7 +500,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware operators leak 200GB of data belonging to Bangkok Airways<a href="https://securityaffairs.co/wordpress/121702/data-breach/lockbit-gang-bangkok-airways.html"> Full Text</a>
@@ -186,7 +520,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There’s a Better Way to Stop Ransomware Attacks<a href="https://www.nytimes.com/2021/08/31/opinion/ransomware-bitcoin-cybersecurity.html?&web_view=true"> Full Text</a>
@@ -202,7 +536,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Edition of Pipeline Cybersecurity Standard Covers All Control Systems<a href="https://www.securityweek.com/new-edition-pipeline-cybersecurity-standard-covers-all-control-systems?&web_view=true"> Full Text</a>
@@ -218,7 +552,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum threat to cryptography and how to overcome this<a href="https://cybersecurity.att.com/blogs/security-essentials/how-quantum-computing-will-effect-cryptography-why-we-need-post-quantum-cryptography?&web_view=true"> Full Text</a>
@@ -234,7 +568,7 @@ AT&T Cybersecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accellion breach exposed data from patients at major Michigan hospital system<a href="https://www.cyberscoop.com/accellion-breach-exposed-data-from-patients-at-major-michigan-hospital-system/?&web_view=true"> Full Text</a>
@@ -250,7 +584,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
+September 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Use Office 365 to Target Supply Chain<a href="https://securityintelligence.com/articles/cyberattacks-office-365-supply-chain/?&web_view=true"> Full Text</a>
