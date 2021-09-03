@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozi infections will slightly decrease but it will stay alive for some time to come<a href="https://securityaffairs.co/wordpress/121730/malware/mozi-botnet-still-alive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mozi botnet continues to spread despite the arrest of its alleged author and experts believe that it will run for many other years.&nbsp; 
+
+
+
+Mozi&nbsp;is an IoT botnet that borrows the code from&nbsp;Mirai&nbsp;variants and the&nbsp;Gafgyt malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

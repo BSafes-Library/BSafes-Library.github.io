@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Ways to Defend Mobile Apps, APIs from Cyberattacks<a href="https://threatpost.com/defend-mobile-apps-apis-cyberattacks/169144/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David Stewart, CEO, Approov, discusses the top mobile attack routes the bad guys use and the best defenses organizations can deploy against them. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brute Force Attacks Witness Tremendous Rise<a href="https://cyware.com/news/brute-force-attacks-witness-tremendous-rise-6cbaca34"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from brute-forcing leaked credentials, attackers are impersonating both renowned brands and internal automated systems to trick targets into giving up their credentials or sending money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Traffic Mirroring for NDR Worth the Trouble? We Argue It Isn't<a href="https://thehackernews.com/2021/09/is-traffic-mirroring-for-ndr-worth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network Detection &amp; Response (NDR) is an emerging technology developed to close the blind security spots left by conventional security solutions, which hackers exploited to gain a foothold in target networks.  Nowadays, enterprises are using a plethora of security solutions to protect their network from cyber threats. The most prominent ones are Firewalls, IPS/IDS, SIEM, EDR, and XDR (which combines the functionality of EDR and SIEM). However, all these solutions suffer from security gaps that prevent them from stopping advanced cyber-attacks efficiently.&nbsp;  NDR was developed based on Intrusion Detection System (IDS). An IDS solution is installed on the network perimeter and monitors the network traffic for suspicious activities.  IDS systems suffer from many downsides that make them inefficient in stopping modern cyber-attacks: IDS use signature-based detection techniques to discover abnormal activities, making them unable to spot unknown attacks.  In addition, IDS systems trigger
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – September 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/121755/breaking-news/cyber-defense-magazine-sept-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine September 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with 161 pages of excellent content.  
+
+
+
+Cyber Defense eMagazine for September 2021Published monthly by Cyber Defense Magazine, this resource...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

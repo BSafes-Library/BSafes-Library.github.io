@@ -11,6 +11,34 @@ nav_order: 900031
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abusing Internet-Sharing Services to Monetize Malware Campaigns<a href="https://thehackernews.com/2021/09/cybercriminals-abusing-internet-sharing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are capitalizing on the growing popularity of proxyware platforms like Honeygain and Nanowire to monetize their own malware campaigns, once again illustrating how attackers are quick to&nbsp; repurpose and weaponize legitimate platforms &nbsp;to their advantage.  "Malware is currently leveraging these platforms to monetize the internet bandwidth of victims, similar to how malicious cryptocurrency mining attempts to monetize the CPU cycles of infected systems," researchers from Cisco Talos&nbsp; said &nbsp;in a Tuesday analysis. "In many cases, these applications are featured in multi-stage, multi-payload malware attacks that provide adversaries with multiple monetization methods."   Proxyware, also called internet-sharing applications, are legitimate services that allow users to carve out a percentage of their internet bandwidth for other devices, often for a fee, through a client application offered by the provider, enabling other customers to access the internet using
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Using Data Leak Sites to Recruit New Affiliates<a href="https://securityintelligence.com/news/ransomware-gangs-using-data-leak-sites-new-affiliates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are posting announcements on their own data leaks websites. This shift has come about in large part because two major ransomware forums banned gangs from promoting their RaaS schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LockBit gang leaks Bangkok Airways data, hits Accenture customers<a href="https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/"> Full Text</a>
 </p>
 <details>

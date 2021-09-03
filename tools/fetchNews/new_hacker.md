@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are attempting to exploit recently patched Atlassian Confluence CVE-2021-26084 RCE<a href="https://securityaffairs.co/wordpress/121760/hacking/confluence-cve-2021-26084-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a recently patched vulnerability in Atlassian’s Confluence enterprise collaboration product. 
+
+
+
+Threat actors were spotted exploiting the CVE-2021-26084 vulnerability in Atlassian’s Confluence enterprise collaboration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

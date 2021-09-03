@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Awards Over $130,000 for Flaws Patched With Release of Chrome 93<a href="https://www.securityweek.com/google-awards-over-130000-flaws-patched-release-chrome-93?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of Chrome 93 with a total of 27 security patches inside, including 19 for vulnerabilities that were reported by external researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry lobbies Congress to extend notification timeline after cybersecurity incidents<a href="https://thehill.com//policy/cybersecurity/570460-industry-lobbies-congress-to-extend-notification-timeline-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key industry groups on Wednesday pushed to give organizations at least three days to report cybersecurity incidents to the federal government, effectively opposing Senate legislation&nbsp;that would give them&nbsp;24 hours to report breaches.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

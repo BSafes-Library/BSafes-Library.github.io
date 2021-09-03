@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Authorities Arrest Hackers Behind Mozi IoT Botnet Attacks<a href="https://thehackernews.com/2021/09/chinese-authorities-arrest-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Mozi IoT botnet have been taken into custody by Chinese law enforcement authorities, nearly two years after the malware emerged on the threat landscape in September 2019.  News of the arrest, which originally&nbsp; happened &nbsp;in June, was&nbsp; disclosed &nbsp;by researchers from Netlab, the network research division of Chinese internet security company Qihoo 360, earlier this Monday, detailing its involvement in the operation.   "Mozi uses a P2P [peer-to-peer] network structure, and one of the 'advantages' of a P2P network is that it is robust, so even if some of the nodes go down, the whole network will carry on, and the remaining nodes will still infect other vulnerable devices, that is why we can still see Mozi spreading," said Netlab, which spotted the botnet for the first time in late 2019.  The development also comes less than two weeks after Microsoft Security Threat Intelligence Center&nbsp; revealed &nbsp;the botnet's new capabilities that enable it to inter
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

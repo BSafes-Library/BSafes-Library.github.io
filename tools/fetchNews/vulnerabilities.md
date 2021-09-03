@@ -11,6 +11,67 @@ nav_order: 900220
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Linphone SIP Stack Bug Could Let Attackers Remotely Crash Client Devices<a href="https://thehackernews.com/2021/09/linphone-sip-stack-bug-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed details about a zero-click security vulnerability in Linphone Session Initiation Protocol ( SIP ) stack that could be remotely exploited without any action from a victim to crash the SIP client and cause a denial-of-service (DoS) condition.  Tracked as&nbsp; CVE-2021-33056 &nbsp;(CVSS score: 7.5), the issue concerns a NULL pointer dereference vulnerability in the " belle-sip " component, a C-language library used to implement SIP transport, transaction, and dialog layers, with all versions prior to&nbsp; 4.5.20 &nbsp;affected by the flaw. The weakness was discovered and reported by industrial cybersecurity company Claroty.   Linphone is an open-source and cross-platform SIP client with support for voice and video calls, end-to-end encrypted messaging, and audio conference calls, among others. SIP, on the other hand, is a signaling protocol used for initiating, maintaining, and terminating real-time multimedia communication sessions for voice, video
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP will patche OpenSSL flaws in its NAS devices<a href="https://securityaffairs.co/wordpress/121724/iot/qnap-openssl-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP is working on security patches for its products affected by&nbsp;recently fixed OpenSSL flaws.  
+
+
+
+Taiwanese Network-attached storage (NAS) appliance maker QNAP announced that it is assessing the  potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Variant Abuses WebSVN Vulnerability<a href="https://cyware.com/news/new-mirai-variant-abuses-websvn-vulnerability-9bed48fc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant   of&nbsp; Mirai botnet &nbsp;is   exploiting a previously disclosed command injection vulnerability affecting&nbsp;WebSVN. The main purpose of this new version of the botnet is to perform a variety of DDoS attacks. O rganizations are strongly recommended to have a robust patch manag ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Allows Remote DoS Attacks Against Apps Using Linphone SIP Stack<a href="https://www.securityweek.com/vulnerability-allows-remote-dos-attacks-against-apps-using-linphone-sip-stack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw affecting the Linphone Session Initiation Protocol (SIP) client suite can allow malicious actors to remotely crash applications, industrial cybersecurity firm Claroty warned on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP Working on Patches for OpenSSL Flaws Affecting its NAS Devices<a href="https://thehackernews.com/2021/09/qnap-working-on-patches-for-openssl.html"> Full Text</a>
 </p>
 <details>

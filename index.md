@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth BrakTooth bugs could affect billions of devices<a href="https://www.bleepingcomputer.com/news/security/bluetooth-braktooth-bugs-could-affect-billions-of-devices/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Node.js archives serious tar handling vulnerabilities with software update<a href="https://portswigger.net/daily-swig/node-js-archives-serious-tar-handling-vulnerabilities-with-software-update?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration on alert for cyberattacks ahead of Labor Day weekend<a href="https://thehill.com//policy/cybersecurity/570643-biden-administration-on-alert-for-cyberattacks-ahead-of-labor-day"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 202 -- [Attack](/docs/issues/attack/attack/)<br>1
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is AS-REP Roasting attack, really?<a href="https://thehackernews.com/2021/09/what-is-as-rep-roasting-attack-really.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp CVE-2020-1910 bug could have led to user data exposure<a href="https://securityaffairs.co/wordpress/121778/security/whatsapp-cve-2020-1910-data-exposure.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Play Sign-Ins Allow Covert Location-Tracking<a href="https://threatpost.com/google-play-covert-location-tracking/169151/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Translated Conti ransomware playbook gives insight into attacks<a href="https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Evolving Ransomware-as-a-Service Threat<a href="https://cyware.com/news/the-evolving-ransomware-as-a-service-threat-7fd0902a"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BrakTooth Flaws Leave Millions of Bluetooth-enabled Devices Vulnerable<a href="https://thehackernews.com/2021/09/new-braktooth-flaws-leave-millions-of.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BrakTooth flaws potentially impact millions of Bluetooth-enabled devices<a href="https://securityaffairs.co/wordpress/121768/hacking/braktooth-flaws-bluetooth.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 Ways to Defend Mobile Apps, APIs from Cyberattacks<a href="https://threatpost.com/defend-mobile-apps-apis-cyberattacks/169144/"> Full Text</a>
@@ -218,7 +218,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Confluence flaw actively exploited to install cryptominers<a href="https://www.bleepingcomputer.com/news/security/atlassian-confluence-flaw-actively-exploited-to-install-cryptominers/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brute Force Attacks Witness Tremendous Rise<a href="https://cyware.com/news/brute-force-attacks-witness-tremendous-rise-6cbaca34"> Full Text</a>
@@ -250,7 +250,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Photo Filter Bug Could Have Exposed Your Data to Remote Attackers<a href="https://thehackernews.com/2021/09/whatsapp-photo-filter-bug-could-have.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are attempting to exploit recently patched Atlassian Confluence CVE-2021-26084 RCE<a href="https://securityaffairs.co/wordpress/121760/hacking/confluence-cve-2021-26084-rce.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Photo Filter Bug Allows Sensitive Info to Be Lifted<a href="https://threatpost.com/whatsapp-photo-filter-bug-allows-sensitive-info-to-be-lifted/169141/"> Full Text</a>
@@ -302,7 +302,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of ransomware gangs targeting food, agriculture orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ransomware-gangs-targeting-food-agriculture-orgs/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Translated: Talos' insights from the recently leaked Conti ransomware playbook<a href="https://blog.talosintelligence.com/2021/09/Conti-leak-translation.html?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Traffic Mirroring for NDR Worth the Trouble? We Argue It Isn't<a href="https://thehackernews.com/2021/09/is-traffic-mirroring-for-ndr-worth.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Defense Magazine – September 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/121755/breaking-news/cyber-defense-magazine-sept-2021.html"> Full Text</a>
@@ -370,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital State IDs Start Rollouts Despite Privacy Concerns<a href="https://threatpost.com/digital-state-ids-rollouts-privacy/169136/"> Full Text</a>
@@ -386,7 +386,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp to appeal $266 million fine for violating EU privacy laws<a href="https://www.bleepingcomputer.com/news/security/whatsapp-to-appeal-266-million-fine-for-violating-eu-privacy-laws/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK-based Voip Unlimited and Voipfone Disrupted by Ongoing DDoS Attacks<a href="https://www.theregister.com/2021/09/02/uk_voip_telcos_revil_ransom/?&web_view=true"> Full Text</a>
@@ -419,7 +419,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Authorities Arrest Hackers Behind Mozi IoT Botnet Attacks<a href="https://thehackernews.com/2021/09/chinese-authorities-arrest-hackers.html"> Full Text</a>
@@ -435,7 +435,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes a critical flaw in Enterprise NFVIS for which PoC exploit exists<a href="https://securityaffairs.co/wordpress/121746/security/enterprise-nfvis-critical-flaw.html"> Full Text</a>
@@ -455,7 +455,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comcast RF Attack Leveraged Remotes for Surveillance<a href="https://threatpost.com/comcast-rf-attack-remotes-surveillance/169133/"> Full Text</a>
@@ -471,7 +471,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes critical authentication bypass bug with public exploit<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-authentication-bypass-bug-with-public-exploit/"> Full Text</a>
@@ -487,7 +487,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Corelight Banks $75M for Network Monitoring Expansion Plans<a href="https://www.securityweek.com/corelight-banks-75m-network-monitoring-expansion-plans?&web_view=true"> Full Text</a>
@@ -503,7 +503,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google paid over $130K in bounty rewards for the issues addressed with the release of Chrome 93<a href="https://securityaffairs.co/wordpress/121737/security/google-chrome-93.html"> Full Text</a>
@@ -523,7 +523,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Autodesk reveals it was targeted by Russian SolarWinds hackers<a href="https://www.bleepingcomputer.com/news/security/autodesk-reveals-it-was-targeted-by-russian-solarwinds-hackers/"> Full Text</a>
@@ -539,7 +539,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recruiting Firm Apparently Pays Ransom After Being Targeted by Hackers<a href="https://www.securityweek.com/recruiting-firm-apparently-pays-ransom-after-being-targeted-hackers?&web_view=true"> Full Text</a>
@@ -555,7 +555,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2021
+September 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Bans Stalkerware App SpyFone; Orders Company to Erase Secretly Stolen Data<a href="https://thehackernews.com/2021/09/ftc-bans-stalkerware-app-spyfone-orders.html"> Full Text</a>

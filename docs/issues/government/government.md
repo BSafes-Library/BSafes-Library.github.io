@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration on alert for cyberattacks ahead of Labor Day weekend<a href="https://thehill.com//policy/cybersecurity/570643-biden-administration-on-alert-for-cyberattacks-ahead-of-labor-day"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top White House official on Thursday underlined preparations the Biden administration is taking for any potential cyberattacks over the upcoming Labor Day weekend, urging companies to be on alert against hackers.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

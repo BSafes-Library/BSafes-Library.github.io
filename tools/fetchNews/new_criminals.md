@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of ransomware gangs targeting food, agriculture orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ransomware-gangs-targeting-food-agriculture-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says ransomware gangs are actively targeting and disrupting the operations of organizations&nbsp;in the&nbsp;food and agriculture sector, causing&nbsp;financial loss and directly affecting&nbsp;the food supply&nbsp;chain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

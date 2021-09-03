@@ -8,6 +8,48 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Sign-Ins Allow Covert Location-Tracking<a href="https://threatpost.com/google-play-covert-location-tracking/169151/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A design flaw involving Google Timeline could allow someone to track another device without installing a stalkerware app.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Photo Filter Bug Allows Sensitive Info to Be Lifted<a href="https://threatpost.com/whatsapp-photo-filter-bug-allows-sensitive-info-to-be-lifted/169141/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users should be careful whose pics they view and should, of course, update their apps.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital State IDs Start Rollouts Despite Privacy Concerns<a href="https://threatpost.com/digital-state-ids-rollouts-privacy/169136/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight states are introducing drivers licenses and identification cards available for use on Apple iPhones and Watches, but critics warn about the dangers of eliminating the use of a paper-based system entirely.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

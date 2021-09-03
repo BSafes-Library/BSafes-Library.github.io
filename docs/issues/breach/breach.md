@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruiting Firm Apparently Pays Ransom After Being Targeted by Hackers<a href="https://www.securityweek.com/recruiting-firm-apparently-pays-ransom-after-being-targeted-hackers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Administrative staffing agency Career Group, Inc. this week started sending notification letters to customers who were affected by a data breach that occurred in late June.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

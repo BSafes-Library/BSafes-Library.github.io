@@ -8,6 +8,148 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluetooth BrakTooth bugs could affect billions of devices<a href="https://www.bleepingcomputer.com/news/security/bluetooth-braktooth-bugs-could-affect-billions-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities collectively referred to as BrakTooth are affecting Bluetooth stacks implemented on system-on-a-chip (SoC) circuits from over a dozen vendors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js archives serious tar handling vulnerabilities with software update<a href="https://portswigger.net/daily-swig/node-js-archives-serious-tar-handling-vulnerabilities-with-software-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers of Node.js have released a significant update to the technology that resolves five troublesome security vulnerabilities, including some that present a remote code execution risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp CVE-2020-1910 bug could have led to user data exposure<a href="https://securityaffairs.co/wordpress/121778/security/whatsapp-cve-2020-1910-data-exposure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-fixed CVE-2020-1910 vulnerability in WhatApp 's image filter feature could have exposed user data to remote attackers.
+
+
+
+A high-severity security vulnerability in WhatApp's image filter feature, tracked as CVE-2020-1910, could have been exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BrakTooth Flaws Leave Millions of Bluetooth-enabled Devices Vulnerable<a href="https://thehackernews.com/2021/09/new-braktooth-flaws-leave-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of new security vulnerabilities has been disclosed in commercial Bluetooth stacks that could enable an adversary to execute arbitrary code and, worse, crash the devices via denial-of-service (DoS) attacks.&nbsp;  Collectively dubbed " BrakTooth " (referring to the Norwegian word "Brak" which translates to "crash"), the 16 security weaknesses span across 13 Bluetooth chipsets from 11 vendors such as Intel, Qualcomm, Zhuhai Jieli Technology, and Texas Instruments, covering an estimated 1,400 or more commercial products, including laptops, smartphones, programmable logic controllers, and IoT devices.   The flaws were disclosed by researchers from the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD).   "All the vulnerabilities […] can be triggered without any previous pairing or authentication," the researchers noted. "The impact of our discovered vulnerabilities is categorized into
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BrakTooth flaws potentially impact millions of Bluetooth-enabled devices<a href="https://securityaffairs.co/wordpress/121768/hacking/braktooth-flaws-bluetooth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws in commercial Bluetooth stacks dubbed BrakTooth can be exploited by threat actors to execute arbitrary code and crash the devices via DoS attacks. 
+
+
+
+A set of  16 security flaws in commercial Bluetooth stacks, collectively tracked as BrakTooth,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Photo Filter Bug Could Have Exposed Your Data to Remote Attackers<a href="https://thehackernews.com/2021/09/whatsapp-photo-filter-bug-could-have.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched high-severity security vulnerability in WhatApp's image filter feature could have been abused to send a malicious image over the messaging app to read sensitive information from the app's memory.  Tracked as&nbsp; CVE-2020-1910 &nbsp;(CVSS score: 7.8), the flaw concerns an out-of-bounds read/write and stems from applying specific image filters to a rogue image and sending the altered image to an unwitting recipient, thereby enabling an attacker to access valuable data stored the app's memory.   "A missing bounds check in WhatsApp for Android prior to v2.21.1.13 and WhatsApp Business for Android prior to v2.21.1.13 could have allowed out-of-bounds read and write if a user applied specific image filters to a specially-crafted image and sent the resulting image," WhatsApp&nbsp; noted &nbsp;in its advisory published in February 2021.  Cybersecurity firm Check Point  Research, which disclosed the issue to the Facebook-owned platform on November 10, 2020, said it was able to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes a critical flaw in Enterprise NFVIS for which PoC exploit exists<a href="https://securityaffairs.co/wordpress/121746/security/enterprise-nfvis-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released patches for a critical authentication bypass issue in Enterprise NFV Infrastructure Software (NFVIS) for which PoC exploit code is available.  
+
+
+
+Cisco announced the availability of security patches for a critical authentication bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical authentication bypass bug with public exploit<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-authentication-bypass-bug-with-public-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed an almost maximum severity authentication bypass Enterprise NFV Infrastructure Software (NFVIS)&nbsp;vulnerability with public&nbsp;proof-of-concept (PoC) exploit code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google paid over $130K in bounty rewards for the issues addressed with the release of Chrome 93<a href="https://securityaffairs.co/wordpress/121737/security/google-chrome-93.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the release of Chrome 93 that addresses 27 security vulnerabilities, 19 issues were reported through its bug bounty program.
+
+
+
+Google announced the release of Chrome 93 for Windows, Mac and Linux&nbsp;that addresses a total of 27 flaws,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

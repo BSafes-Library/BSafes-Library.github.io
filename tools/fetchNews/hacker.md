@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Sell Your Internet Bandwidth for Passive Income<a href="https://cyware.com/news/attackers-sell-your-internet-bandwidth-for-passive-income-f385f4ea"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos highlighted the rise in abuse of proxyware that allows adversaries to manipulate compromised internet connections to generate illicit revenue. Attackers were also observed installing digital currency miners and info-stealers to earn additional revenue. In some cases, hackers even patch  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
