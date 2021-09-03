@@ -34,6 +34,543 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluetooth BrakTooth bugs could affect billions of devices<a href="https://www.bleepingcomputer.com/news/security/bluetooth-braktooth-bugs-could-affect-billions-of-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities collectively referred to as BrakTooth are affecting Bluetooth stacks implemented on system-on-a-chip (SoC) circuits from over a dozen vendors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js archives serious tar handling vulnerabilities with software update<a href="https://portswigger.net/daily-swig/node-js-archives-serious-tar-handling-vulnerabilities-with-software-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers of Node.js have released a significant update to the technology that resolves five troublesome security vulnerabilities, including some that present a remote code execution risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration on alert for cyberattacks ahead of Labor Day weekend<a href="https://thehill.com//policy/cybersecurity/570643-biden-administration-on-alert-for-cyberattacks-ahead-of-labor-day"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top White House official on Thursday underlined preparations the Biden administration is taking for any potential cyberattacks over the upcoming Labor Day weekend, urging companies to be on alert against hackers. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is AS-REP Roasting attack, really?<a href="https://thehackernews.com/2021/09/what-is-as-rep-roasting-attack-really.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Active Directory is  said to be used by 95%  of Fortune 500. As a result, it is a prime target for attackers as they look to gain access to credentials in the organization, as compromised credentials provide one of the easiest ways for hackers to access your data.  A key authentication technology that underpins Microsoft Active Directory is Kerberos. Unfortunately, hackers use many different attacks against Active Directory's implementation of the Kerberos authentication protocol. One of those is AS-REP Roasting. So what is AS-REP Roasting, and how can businesses protect themselves?  What is Active Directory Kerberos?  Kerberos was originally developed by the Massachusetts Institute of Technology (MIT) and centered around using tickets to establish trust. Microsoft's implementation of Kerberos found in Active Directory is based on Kerberos Network Authentication Service (V5) as defined in  RFC 4120 . However, Microsoft has added to and enhanced Kerberos with it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp CVE-2020-1910 bug could have led to user data exposure<a href="https://securityaffairs.co/wordpress/121778/security/whatsapp-cve-2020-1910-data-exposure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-fixed CVE-2020-1910 vulnerability in WhatApp 's image filter feature could have exposed user data to remote attackers.
+
+
+
+A high-severity security vulnerability in WhatApp's image filter feature, tracked as CVE-2020-1910, could have been exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Sign-Ins Allow Covert Location-Tracking<a href="https://threatpost.com/google-play-covert-location-tracking/169151/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A design flaw involving Google Timeline could allow someone to track another device without installing a stalkerware app.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Translated Conti ransomware playbook gives insight into attacks<a href="https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost a month after a disgruntled Conti affiliate leaked the gang's attack playbook, security researchers shared a translated variant that clarifies on any misinterpretation caused by automated translation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolving Ransomware-as-a-Service Threat<a href="https://cyware.com/news/the-evolving-ransomware-as-a-service-threat-7fd0902a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With RaaS evolving into a corporate structure, gangs are looking for negotiators. The role of negotiators is to extort victims into paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BrakTooth Flaws Leave Millions of Bluetooth-enabled Devices Vulnerable<a href="https://thehackernews.com/2021/09/new-braktooth-flaws-leave-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of new security vulnerabilities has been disclosed in commercial Bluetooth stacks that could enable an adversary to execute arbitrary code and, worse, crash the devices via denial-of-service (DoS) attacks.   Collectively dubbed " BrakTooth " (referring to the Norwegian word "Brak" which translates to "crash"), the 16 security weaknesses span across 13 Bluetooth chipsets from 11 vendors such as Intel, Qualcomm, Zhuhai Jieli Technology, and Texas Instruments, covering an estimated 1,400 or more commercial products, including laptops, smartphones, programmable logic controllers, and IoT devices.   The flaws were disclosed by researchers from the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD).   "All the vulnerabilities […] can be triggered without any previous pairing or authentication," the researchers noted. "The impact of our discovered vulnerabilities is categorized into
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BrakTooth flaws potentially impact millions of Bluetooth-enabled devices<a href="https://securityaffairs.co/wordpress/121768/hacking/braktooth-flaws-bluetooth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws in commercial Bluetooth stacks dubbed BrakTooth can be exploited by threat actors to execute arbitrary code and crash the devices via DoS attacks. 
+
+
+
+A set of  16 security flaws in commercial Bluetooth stacks, collectively tracked as BrakTooth,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Ways to Defend Mobile Apps, APIs from Cyberattacks<a href="https://threatpost.com/defend-mobile-apps-apis-cyberattacks/169144/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David Stewart, CEO, Approov, discusses the top mobile attack routes the bad guys use and the best defenses organizations can deploy against them. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence flaw actively exploited to install cryptominers<a href="https://www.bleepingcomputer.com/news/security/atlassian-confluence-flaw-actively-exploited-to-install-cryptominers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively scanning for and exploiting a recently disclosed Atlassian Confluence remote code execution vulnerability to install cryptominers after a PoC exploit was publicly released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brute Force Attacks Witness Tremendous Rise<a href="https://cyware.com/news/brute-force-attacks-witness-tremendous-rise-6cbaca34"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from brute-forcing leaked credentials, attackers are impersonating both renowned brands and internal automated systems to trick targets into giving up their credentials or sending money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Photo Filter Bug Could Have Exposed Your Data to Remote Attackers<a href="https://thehackernews.com/2021/09/whatsapp-photo-filter-bug-could-have.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched high-severity security vulnerability in WhatApp's image filter feature could have been abused to send a malicious image over the messaging app to read sensitive information from the app's memory.  Tracked as  CVE-2020-1910  (CVSS score: 7.8), the flaw concerns an out-of-bounds read/write and stems from applying specific image filters to a rogue image and sending the altered image to an unwitting recipient, thereby enabling an attacker to access valuable data stored the app's memory.   "A missing bounds check in WhatsApp for Android prior to v2.21.1.13 and WhatsApp Business for Android prior to v2.21.1.13 could have allowed out-of-bounds read and write if a user applied specific image filters to a specially-crafted image and sent the resulting image," WhatsApp  noted  in its advisory published in February 2021.  Cybersecurity firm Check Point  Research, which disclosed the issue to the Facebook-owned platform on November 10, 2020, said it was able to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are attempting to exploit recently patched Atlassian Confluence CVE-2021-26084 RCE<a href="https://securityaffairs.co/wordpress/121760/hacking/confluence-cve-2021-26084-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a recently patched vulnerability in Atlassian’s Confluence enterprise collaboration product. 
+
+
+
+Threat actors were spotted exploiting the CVE-2021-26084 vulnerability in Atlassian’s Confluence enterprise collaboration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Photo Filter Bug Allows Sensitive Info to Be Lifted<a href="https://threatpost.com/whatsapp-photo-filter-bug-allows-sensitive-info-to-be-lifted/169141/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users should be careful whose pics they view and should, of course, update their apps.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of ransomware gangs targeting food, agriculture orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-ransomware-gangs-targeting-food-agriculture-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI says ransomware gangs are actively targeting and disrupting the operations of organizations in the food and agriculture sector, causing financial loss and directly affecting the food supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Translated: Talos' insights from the recently leaked Conti ransomware playbook<a href="https://blog.talosintelligence.com/2021/09/Conti-leak-translation.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is unclear whether the document was originally written entirely in Russian or they machine-translated some English-language documents and included them in the playbook.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Traffic Mirroring for NDR Worth the Trouble? We Argue It Isn't<a href="https://thehackernews.com/2021/09/is-traffic-mirroring-for-ndr-worth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network Detection & Response (NDR) is an emerging technology developed to close the blind security spots left by conventional security solutions, which hackers exploited to gain a foothold in target networks.  Nowadays, enterprises are using a plethora of security solutions to protect their network from cyber threats. The most prominent ones are Firewalls, IPS/IDS, SIEM, EDR, and XDR (which combines the functionality of EDR and SIEM). However, all these solutions suffer from security gaps that prevent them from stopping advanced cyber-attacks efficiently.   NDR was developed based on Intrusion Detection System (IDS). An IDS solution is installed on the network perimeter and monitors the network traffic for suspicious activities.  IDS systems suffer from many downsides that make them inefficient in stopping modern cyber-attacks: IDS use signature-based detection techniques to discover abnormal activities, making them unable to spot unknown attacks.  In addition, IDS systems trigger
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – September 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/121755/breaking-news/cyber-defense-magazine-sept-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine September 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with 161 pages of excellent content.  
+
+
+
+Cyber Defense eMagazine for September 2021Published monthly by Cyber Defense Magazine, this resource...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital State IDs Start Rollouts Despite Privacy Concerns<a href="https://threatpost.com/digital-state-ids-rollouts-privacy/169136/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eight states are introducing drivers licenses and identification cards available for use on Apple iPhones and Watches, but critics warn about the dangers of eliminating the use of a paper-based system entirely.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp to appeal $266 million fine for violating EU privacy laws<a href="https://www.bleepingcomputer.com/news/security/whatsapp-to-appeal-266-million-fine-for-violating-eu-privacy-laws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Data Privacy Commissioner (DPC) has hit Facebook-owned messaging platform WhatsApp with a €225 million ($266 million) administrative fine for violating the EU's GDPR privacy regulation after failing to inform users and non-users on what it does with their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK-based Voip Unlimited and Voipfone Disrupted by Ongoing DDoS Attacks<a href="https://www.theregister.com/2021/09/02/uk_voip_telcos_revil_ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two UK VoIP operators have had their services disrupted over the last couple of days by ongoing, aggressive DDoS attacks.
+The two firms are South Coast-based Voip Unlimited and London-based Voipfone.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Authorities Arrest Hackers Behind Mozi IoT Botnet Attacks<a href="https://thehackernews.com/2021/09/chinese-authorities-arrest-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Mozi IoT botnet have been taken into custody by Chinese law enforcement authorities, nearly two years after the malware emerged on the threat landscape in September 2019.  News of the arrest, which originally  happened  in June, was  disclosed  by researchers from Netlab, the network research division of Chinese internet security company Qihoo 360, earlier this Monday, detailing its involvement in the operation.   "Mozi uses a P2P [peer-to-peer] network structure, and one of the 'advantages' of a P2P network is that it is robust, so even if some of the nodes go down, the whole network will carry on, and the remaining nodes will still infect other vulnerable devices, that is why we can still see Mozi spreading," said Netlab, which spotted the botnet for the first time in late 2019.  The development also comes less than two weeks after Microsoft Security Threat Intelligence Center  revealed  the botnet's new capabilities that enable it to inter
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes a critical flaw in Enterprise NFVIS for which PoC exploit exists<a href="https://securityaffairs.co/wordpress/121746/security/enterprise-nfvis-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released patches for a critical authentication bypass issue in Enterprise NFV Infrastructure Software (NFVIS) for which PoC exploit code is available.  
+
+
+
+Cisco announced the availability of security patches for a critical authentication bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comcast RF Attack Leveraged Remotes for Surveillance<a href="https://threatpost.com/comcast-rf-attack-remotes-surveillance/169133/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT vulnerabilities turned the remote into a listening device, researchers found, which impacted 18 million Xfinity customers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes critical authentication bypass bug with public exploit<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-authentication-bypass-bug-with-public-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has addressed an almost maximum severity authentication bypass Enterprise NFV Infrastructure Software (NFVIS) vulnerability with public proof-of-concept (PoC) exploit code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corelight Banks $75M for Network Monitoring Expansion Plans<a href="https://www.securityweek.com/corelight-banks-75m-network-monitoring-expansion-plans?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Corelight said the Series D investment was led by Energy Impact Partners and brings the total raised to $160 million. Several previous investors also joined the latest funding round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google paid over $130K in bounty rewards for the issues addressed with the release of Chrome 93<a href="https://securityaffairs.co/wordpress/121737/security/google-chrome-93.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the release of Chrome 93 that addresses 27 security vulnerabilities, 19 issues were reported through its bug bounty program.
+
+
+
+Google announced the release of Chrome 93 for Windows, Mac and Linux that addresses a total of 27 flaws,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Autodesk reveals it was targeted by Russian SolarWinds hackers<a href="https://www.bleepingcomputer.com/news/security/autodesk-reveals-it-was-targeted-by-russian-solarwinds-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Autodesk has confirmed that it was also targeted by the Russian state hackers behind the large-scale SolarWinds Orion supply-chain attack, almost nine months after discovering that one of its servers was backdoored with Sunburst malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruiting Firm Apparently Pays Ransom After Being Targeted by Hackers<a href="https://www.securityweek.com/recruiting-firm-apparently-pays-ransom-after-being-targeted-hackers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Administrative staffing agency Career Group, Inc. this week started sending notification letters to customers who were affected by a data breach that occurred in late June.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Bans Stalkerware App SpyFone; Orders Company to Erase Secretly Stolen Data<a href="https://thehackernews.com/2021/09/ftc-bans-stalkerware-app-spyfone-orders.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission on Wednesday banned a stalkerware app company called SpyFone from the surveillance business over concerns that it stealthily harvested and shared data on people's physical movements, phone use, and online activities that were then used by stalkers and domestic abusers to monitor potential targets.  "SpyFone is a brazen brand name for a surveillance business that helped stalkers steal private information,"  said  Samuel Levine, acting director of the FTC's Bureau of Consumer Protection, in a statement. "The stalkerware was hidden from device owners, but was fully exposed to hackers who exploited the company's slipshod security. This case is an important reminder that surveillance-based businesses pose a significant threat to our safety and security."   Calling out the app developers for its lack of basic security practices, the agency has also ordered SpyFone to delete the illegally harvested information and notify devic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 01, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
