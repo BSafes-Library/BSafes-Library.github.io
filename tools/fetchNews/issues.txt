@@ -30,6 +30,10 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.zdnet.com/article/cisa-urges-it-teams-to-address-critical-vulnerability-affecting-cisco-enterprise-network-function-virtualization-infrastructure-software/?&web_view=true
+. https://thehackernews.com/2021/09/us-cyber-command-warns-of-ongoing.html
+. https://www.bleepingcomputer.com/news/security/fbi-spike-in-sextortion-attacks-cost-victims-8-million-this-year/
+. https://securityaffairs.co/wordpress/121794/security/fbi-ransomware-attacks-food-agriculture-sector.html
 
 Law
 

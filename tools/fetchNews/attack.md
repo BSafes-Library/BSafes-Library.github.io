@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 02, 202 <br>1
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is AS-REP Roasting attack, really?<a href="https://thehackernews.com/2021/09/what-is-as-rep-roasting-attack-really.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Active Directory is&nbsp; said to be used by 95% &nbsp;of Fortune 500. As a result, it is a prime target for attackers as they look to gain access to credentials in the organization, as compromised credentials provide one of the easiest ways for hackers to access your data.  A key authentication technology that underpins Microsoft Active Directory is Kerberos. Unfortunately, hackers use many different attacks against Active Directory's implementation of the Kerberos authentication protocol. One of those is AS-REP Roasting. So what is AS-REP Roasting, and how can businesses protect themselves?  What is Active Directory Kerberos?  Kerberos was originally developed by the Massachusetts Institute of Technology (MIT) and centered around using tickets to establish trust. Microsoft's implementation of Kerberos found in Active Directory is based on Kerberos Network Authentication Service (V5) as defined in&nbsp; RFC 4120 . However, Microsoft has added to and enhanced Kerberos with it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comcast RF Attack Leveraged Remotes for Surveillance<a href="https://threatpost.com/comcast-rf-attack-remotes-surveillance/169133/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IoT vulnerabilities turned the remote into a listening device, researchers found, which impacted 18 million Xfinity customers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Autodesk reveals it was targeted by Russian SolarWinds hackers<a href="https://www.bleepingcomputer.com/news/security/autodesk-reveals-it-was-targeted-by-russian-solarwinds-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Autodesk has confirmed that it was also targeted by the Russian state hackers behind the large-scale SolarWinds Orion supply-chain attack, almost nine months after discovering that one of its servers was backdoored with&nbsp;Sunburst malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

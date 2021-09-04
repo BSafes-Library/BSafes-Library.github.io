@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corelight Banks $75M for Network Monitoring Expansion Plans<a href="https://www.securityweek.com/corelight-banks-75m-network-monitoring-expansion-plans?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Corelight said the Series D investment was led by Energy Impact Partners and brings the total raised to $160 million. Several previous investors also joined the latest funding round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

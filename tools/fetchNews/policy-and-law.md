@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp to appeal $266 million fine for violating EU privacy laws<a href="https://www.bleepingcomputer.com/news/security/whatsapp-to-appeal-266-million-fine-for-violating-eu-privacy-laws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Data Privacy Commissioner (DPC) has hit Facebook-owned messaging platform WhatsApp with a €225 million ($266 million) administrative fine for violating the EU's GDPR privacy regulation after failing to inform users and non-users on what it does with their data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Bans Stalkerware App SpyFone; Orders Company to Erase Secretly Stolen Data<a href="https://thehackernews.com/2021/09/ftc-bans-stalkerware-app-spyfone-orders.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission on Wednesday banned a stalkerware app company called SpyFone from the surveillance business over concerns that it stealthily harvested and shared data on people's physical movements, phone use, and online activities that were then used by stalkers and domestic abusers to monitor potential targets.  "SpyFone is a brazen brand name for a surveillance business that helped stalkers steal private information,"&nbsp; said &nbsp;Samuel Levine, acting director of the FTC's Bureau of Consumer Protection, in a statement. "The stalkerware was hidden from device owners, but was fully exposed to hackers who exploited the company's slipshod security. This case is an important reminder that surveillance-based businesses pose a significant threat to our safety and security."   Calling out the app developers for its lack of basic security practices, the agency has also ordered SpyFone to delete the illegally harvested information and notify devic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Translated Conti ransomware playbook gives insight into attacks<a href="https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost a month after a disgruntled Conti affiliate leaked the gang's attack playbook, security researchers shared a translated variant that clarifies on any misinterpretation caused by automated translation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolving Ransomware-as-a-Service Threat<a href="https://cyware.com/news/the-evolving-ransomware-as-a-service-threat-7fd0902a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With RaaS evolving into a corporate structure, gangs are looking for negotiators. The role of negotiators is to extort victims into paying the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Translated: Talos' insights from the recently leaked Conti ransomware playbook<a href="https://blog.talosintelligence.com/2021/09/Conti-leak-translation.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is unclear whether the document was originally written entirely in Russian or they machine-translated some English-language documents and included them in the playbook.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

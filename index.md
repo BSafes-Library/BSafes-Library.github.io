@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Ransomware Hackers Love a Holiday Weekend<a href="https://www.wired.com/story/ransomware-hacks-holidays-weekends/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Delays Plans to Scan Devices for Child Abuse Images After Privacy Backlash<a href="https://thehackernews.com/2021/09/apple-delays-plans-to-scan-devices-for.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Source code for the Babuk is available on a hacking forum<a href="https://securityaffairs.co/wordpress/121831/cyber-crime/babuk-source-code-leak.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Autodesk Says Company Was Targeted by SolarWinds Attackers<a href="https://www.govinfosecurity.com/autodesk-says-company-was-targeted-by-solarwinds-attackers-a-17452?&web_view=true"> Full Text</a>
@@ -106,7 +106,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Says Chinese Hackers Were Behind SolarWinds Serv-U SSH 0-Day Attack<a href="https://thehackernews.com/2021/09/microsoft-says-chinese-hackers-were.html"> Full Text</a>
@@ -122,7 +122,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges IT teams to address critical vulnerability affecting Cisco Enterprise Network Function Virtualization Infrastructure Software<a href="https://www.zdnet.com/article/cisa-urges-it-teams-to-address-critical-vulnerability-affecting-cisco-enterprise-network-function-virtualization-infrastructure-software/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cyber Command Warns of Ongoing Attacks Exploiting Atlassian Confluence Flaw<a href="https://thehackernews.com/2021/09/us-cyber-command-warns-of-ongoing.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 3rd 2021 - Targeting Exchange<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-3rd-2021-targeting-exchange/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France Doesn’t Do Public Attribution of Cyberattacks. But It Gets Close.<a href="https://www.lawfareblog.com/france-doesnt-do-public-attribution-cyberattacks-it-gets-close"> Full Text</a>
@@ -186,7 +186,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns orgs to patch massively exploited Confluence bug<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-orgs-to-patch-massively-exploited-confluence-bug/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USCYBERCOM and CISA warn organizations to fix CVE-2021-26084 Confluence flaw<a href="https://securityaffairs.co/wordpress/121823/security/uscybercom-cisa-cve-2021-26084-confluence.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk ransomware's full source code leaked on hacker forum<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomwares-full-source-code-leaked-on-hacker-forum/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware gang targets Microsoft Exchange servers with ProxyShell exploits<a href="https://securityaffairs.co/wordpress/121815/cyber-crime/conti-ransomware-gang-proxyshell.html"> Full Text</a>
@@ -258,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware now hacking Exchange servers with ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-now-hacking-exchange-servers-with-proxyshell-exploits/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers behind July 2021 SolarWinds zero-day attacks<a href="https://therecord.media/chinese-hackers-behind-july-2021-solarwinds-zero-day-attacks/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Malware Family Using CLFS Log Files to Avoid Detection<a href="https://thehackernews.com/2021/09/this-new-malware-family-using-clfs-log.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PRIVATELOG, a new malware that leverages Common Log File System (CLFS) to avoid detection<a href="https://securityaffairs.co/wordpress/121803/malware/privatelog-malware-clfs.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Spike in sextortion attacks cost victims $8 million this year<a href="https://www.bleepingcomputer.com/news/security/fbi-spike-in-sextortion-attacks-cost-victims-8-million-this-year/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Increasing Threat Posed by Cybercrime-as-a-Service<a href="https://cyware.com/news/the-increasing-threat-posed-by-cybercrime-as-a-service-2561c6c9"> Full Text</a>
@@ -358,7 +358,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Hackers Using Windows 11 Themed Documents to Drop Javascript Backdoor<a href="https://thehackernews.com/2021/09/fin7-hackers-using-windows-11-themed.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of ransomware attacks targeting the food and agriculture sector<a href="https://securityaffairs.co/wordpress/121794/security/fbi-ransomware-attacks-food-agriculture-sector.html"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2021
+September 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 60,000 parked domains were vulnerable to AWS hijacking<a href="https://www.bleepingcomputer.com/news/security/over-60-000-parked-domains-were-vulnerable-to-aws-hijacking/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2021
+September 3, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacks against SolarWinds Serv-U SW were possible due to the lack of ASLR mitigation<a href="https://securityaffairs.co/wordpress/121788/hacking/solarwinds-serv-u-sw-aslr.html"> Full Text</a>
@@ -430,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpyFone & CEO Banned From Stalkerware Biz<a href="https://threatpost.com/spyfone-ban-stalkerware-surveillance/169165/"> Full Text</a>
@@ -446,7 +446,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluetooth Bugs Open Billions of Devices to DoS, Code Execution<a href="https://threatpost.com/bluetooth-bugs-dos-code-execution/169159/"> Full Text</a>
@@ -462,7 +462,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2021
+September 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches Critical Authentication Bug With Public Exploit<a href="https://threatpost.com/cisco-patches-critical-authentication-bug-with-public-exploit/169146/"> Full Text</a>
@@ -478,7 +478,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2021
+September 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Patch for Critical Enterprise NFVIS Flaw — PoC Exploit Available<a href="https://thehackernews.com/2021/09/cisco-issues-patch-for-critical.html"> Full Text</a>

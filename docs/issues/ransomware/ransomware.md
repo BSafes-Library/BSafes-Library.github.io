@@ -8,6 +8,70 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source code for the Babuk is available on a hacking forum<a href="https://securityaffairs.co/wordpress/121831/cyber-crime/babuk-source-code-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The complete source code for the Babuk ransomware is available for sale on a Russian-speaking hacking forum.
+
+
+
+A threat actor has leaked the source code for the Babuk ransomware on a Russian-speaking hacking forum.
+
+
+
+The Babuk Locker operators&nbsp;halted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 3rd 2021 - Targeting Exchange<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-3rd-2021-targeting-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past two weeks, it has been busy with ransomware news ranging from a gang shutting down and releasing a master decryption key to threat actors turning to Microsoft Exchange exploits to breach networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware's full source code leaked on hacker forum<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomwares-full-source-code-leaked-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has leaked the complete source code for the Babuk ransomware on a Russian-speaking hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware now hacking Exchange servers with ProxyShell exploits<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-now-hacking-exchange-servers-with-proxyshell-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is hacking into Microsoft Exchange servers and breaching corporate networks using recently disclosed ProxyShell vulnerability exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

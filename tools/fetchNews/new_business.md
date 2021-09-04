@@ -11,6 +11,20 @@ nav_order: 900027
 September 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SpyFone &amp; CEO Banned From Stalkerware Biz<a href="https://threatpost.com/spyfone-ban-stalkerware-surveillance/169165/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC’s first spyware ban nixes a company whose “slipshod” security practices led to exposure of thousands of victims’ illegally collected personal data. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Corelight Banks $75M for Network Monitoring Expansion Plans<a href="https://www.securityweek.com/corelight-banks-75m-network-monitoring-expansion-plans?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

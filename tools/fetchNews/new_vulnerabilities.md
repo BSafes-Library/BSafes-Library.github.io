@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cyber Command Warns of Ongoing Attacks Exploiting Atlassian Confluence Flaw<a href="https://thehackernews.com/2021/09/us-cyber-command-warns-of-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cyber Command on Friday warned of ongoing mass exploitation attempts in the wild targeting a now-patched critical security vulnerability affecting Atlassian Confluence deployments that could be abused by unauthenticated attackers to take control of a vulnerable system.  "Mass exploitation of Atlassian Confluence&nbsp; CVE-2021-26084 &nbsp;is ongoing and expected to accelerate," the Cyber National Mission Force (CNMF)&nbsp; said &nbsp;in a tweet. The warning was also echoed by the U.S. Cybersecurity and Infrastructure Security Agency ( CISA ) and&nbsp; Atlassian itself &nbsp;in a series of independent advisories.   Bad Packets&nbsp; noted &nbsp;on Twitter it "detected mass scanning and exploit activity from hosts in Brazil, China, Hong Kong, Nepal, Romania, Russia and the U.S. targeting Atlassian Confluence servers vulnerable to remote code execution."  Atlassian Confluence is a widely popular web-based documentation platform that allows teams to create, collaborate, and organize on different pro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USCYBERCOM and CISA warn organizations to fix CVE-2021-26084 Confluence flaw<a href="https://securityaffairs.co/wordpress/121823/security/uscybercom-cisa-cve-2021-26084-confluence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+USCYBERCOM is urging organizations to patch a critical CVE-2021-26084 flaw in Atlassian Confluence Server and Data Center, ahead of the Labor Day weekend.&nbsp;
+
+
+
+US Cyber Command (USCYBERCOM) has issued an alert to warn US organizations to address Atlassian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 60,000 parked domains were vulnerable to AWS hijacking<a href="https://www.bleepingcomputer.com/news/security/over-60-000-parked-domains-were-vulnerable-to-aws-hijacking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Domain registrar MarkMonitor had left more than 60,000 parked domains vulnerable to domain hijacking. The parked domains were seen pointing to&nbsp;nonexistent Amazon S3 bucket addresses, hinting that there existed a domain takeover weakness.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluetooth Bugs Open Billions of Devices to DoS, Code Execution<a href="https://threatpost.com/bluetooth-bugs-dos-code-execution/169159/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BrakTooth set of security vulnerabilities impacts at least 11 vendors’ chipsets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Authentication Bug With Public Exploit<a href="https://threatpost.com/cisco-patches-critical-authentication-bug-with-public-exploit/169146/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s proof-of-concept code out for the near-maximum critical – rated at 9.8 – authentication bypass bug, but Cisco hasn’t seen any malicious exploit yet. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Patch for Critical Enterprise NFVIS Flaw — PoC Exploit Available<a href="https://thehackernews.com/2021/09/cisco-issues-patch-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has patched a critical security vulnerability impacting its Enterprise Network Function Virtualization Infrastructure Software (NFVIS) that could be exploited by an attacker to take control of an affected system.  Tracked as&nbsp; CVE-2021-34746 , the weakness has been rated 9.8 out of a maximum of 10 on the Common Vulnerability Scoring System (CVSS) and could allow a remote attacker to circumvent authentication and log in to a vulnerable device as an administrator.   The network equipment maker said it's aware of a publicly available proof-of-concept (PoC) exploit code targeting the vulnerability, but added it's not detected any successful weaponization attempts in the wild.  CVE-2021-34746 issue is caused due to an incomplete validation of user-supplied input that's passed to an authentication script during the sign-in process, enabling an attacker to inject parameters into an authentication request. "A successful exploit could allow the attacker to bypass authenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

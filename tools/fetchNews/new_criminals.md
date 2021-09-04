@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang targets Microsoft Exchange servers with ProxyShell exploits<a href="https://securityaffairs.co/wordpress/121815/cyber-crime/conti-ransomware-gang-proxyshell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware operators are targeting Microsoft Exchange servers leveraging recently disclosed ProxyShell vulnerability exploits. 
+
+
+
+The Conti ransomware gang is targeting Microsoft Exchange servers leveraging exploits with recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Increasing Threat Posed by Cybercrime-as-a-Service<a href="https://cyware.com/news/the-increasing-threat-posed-by-cybercrime-as-a-service-2561c6c9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Rapid7’s IntSights revealed that underground criminals are selling unauthorized access to compromised enterprise networks for up to $10,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

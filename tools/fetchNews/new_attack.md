@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Autodesk Says Company Was Targeted by SolarWinds Attackers<a href="https://www.govinfosecurity.com/autodesk-says-company-was-targeted-by-solarwinds-attackers-a-17452?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Autodesk, a California-based design software and 3D technology firm, has acknowledged that it was one of several tech and security companies targeted by a Russian-linked group that carried out the supply chain attack against SolarWinds.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks against SolarWinds Serv-U SW were possible due to the lack of ASLR mitigation<a href="https://securityaffairs.co/wordpress/121788/hacking/solarwinds-serv-u-sw-aslr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds did not enable anti-exploit mitigation available since 2006 allowing threat actors to target SolarWinds Serv-U FTP software in July attacks.
+
+
+
+Software vendor SolarWinds did not enable ASLR anti-exploit mitigation that was available since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 202 <br>1
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
