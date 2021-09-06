@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Delays Plans to Scan Devices for Child Abuse Images After Privacy Backlash<a href="https://thehackernews.com/2021/09/apple-delays-plans-to-scan-devices-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple is temporarily hitting the pause button on its&nbsp; controversial plans &nbsp;to screen users' devices for child sexual abuse material (CSAM) after receiving sustained blowback over worries that the tool could be weaponized for mass surveillance and erode the privacy of users.  "Based on feedback from customers, advocacy groups, researchers, and others, we have decided to take additional time over the coming months to collect input and make improvements before releasing these critically important child safety features," the iPhone maker&nbsp; said &nbsp;in a statement on its website.  The changes were originally slated to go live with iOS 15 and macOS Monterey later this year.   In August, Apple detailed several new features intended to help limit the spread of CSAM on its platform, including scanning users' iCloud Photos libraries for illicit content, Communication Safety in Messages app to warn children and their parents when receiving or sending sexually explicit photos, and e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

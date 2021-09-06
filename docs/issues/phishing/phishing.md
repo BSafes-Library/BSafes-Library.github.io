@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC warns of investment scams related to Hurricane Ida<a href="https://securityaffairs.co/wordpress/121849/cyber-crime/sec-warns-hurricane-ida-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;US Securities and Exchange Commission warns investors of potential investment scams&nbsp;that leverages Hurricane Ida as a bait. 
+
+
+
+The&nbsp;US Securities and Exchange Commission (SEC)'s Office of Investor Education and Advocacy is warning investors of potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

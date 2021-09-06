@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deciphering the Leaked Conti Ransomware Playbook<a href="https://cyware.com/news/deciphering-the-leaked-conti-ransomware-playbook-0affd74f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently obtained a leaked playbook linked to the Conti RaaS group, disclosing a heap of information about operations by them. The sensitive playbook documents are believed to be leaked by a partner not happy with Conti. For researchers and security analysts, this is an opportunity to d ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

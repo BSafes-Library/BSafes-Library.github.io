@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges IT teams to address critical vulnerability affecting Cisco Enterprise Network Function Virtualization Infrastructure Software<a href="https://www.zdnet.com/article/cisa-urges-it-teams-to-address-critical-vulnerability-affecting-cisco-enterprise-network-function-virtualization-infrastructure-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects Cisco Enterprise Network Function Virtualization Infrastructure Software Release (NFVIS) 4.5.1 and Cisco released software updates that address the vulnerability on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Doesn’t Do Public Attribution of Cyberattacks. But It Gets Close.<a href="https://www.lawfareblog.com/france-doesnt-do-public-attribution-cyberattacks-it-gets-close"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France doesn’t publicly attribute cyberattacks to state actors as it is commonly known, but it names the perpetrators and, in doing so, exploits every ambiguity associated with the term “attribution.”
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns orgs to patch massively exploited Confluence bug<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-orgs-to-patch-massively-exploited-confluence-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cyber Command (USCYBERCOM) has issued a rare alert today urging US organizations to patch a massively exploited Atlassian Confluence critical vulnerability immediately.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Spike in sextortion attacks cost victims $8 million this year<a href="https://www.bleepingcomputer.com/news/security/fbi-spike-in-sextortion-attacks-cost-victims-8-million-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI Internet Crime Complaint Center (IC3) has warned of a massive increase in sextortion complaints since the start of 2021, resulting in total financial losses of more than $8 million until the end of July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of ransomware attacks targeting the food and agriculture sector<a href="https://securityaffairs.co/wordpress/121794/security/fbi-ransomware-attacks-food-agriculture-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI warns ransomware gangs are actively targeting organizations in the food and agriculture sector.
+
+
+
+The FBI Cyber Division issued a Private Industry Notification (PIN) to warn of ransomware attacks targeting the Food and Agriculture sector disrupting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

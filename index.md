@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2021
+September 05, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365 to let admins block Active Content on Trusted Docs<a href="https://www.bleepingcomputer.com/news/security/office-365-to-let-admins-block-active-content-on-trusted-docs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saving Private Networks from DNS Rebinding<a href="https://cyware.com/news/saving-private-networks-from-dns-rebinding-10cf15e6"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pacific City Bank hit by AVOS Locker Ransomware<a href="https://securityaffairs.co/wordpress/121872/cyber-crime/pacific-city-bank-avos-locker-ransomware.html"> Full Text</a>
@@ -87,7 +87,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2021
+September 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google's TensorFlow drops YAML support due to code execution flaw<a href="https://www.bleepingcomputer.com/news/security/googles-tensorflow-drops-yaml-support-due-to-code-execution-flaw/"> Full Text</a>
@@ -103,7 +103,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deciphering the Leaked Conti Ransomware Playbook<a href="https://cyware.com/news/deciphering-the-leaked-conti-ransomware-playbook-0affd74f"> Full Text</a>
@@ -120,7 +120,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp fined €225M over GDPR issues<a href="https://securityaffairs.co/wordpress/121866/security/whatsapp-fined-e225m-gdpr.html"> Full Text</a>
@@ -140,7 +140,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This GPU-Based Malware Attack can Dodge Usual Security Checks<a href="https://cyware.com/news/this-gpu-based-malware-attack-can-dodge-usual-security-checks-1aaeeb0b"> Full Text</a>
@@ -157,7 +157,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 330<a href="https://securityaffairs.co/wordpress/121861/breaking-news/security-affairs-newsletter-round-330.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authors Detained but Mozi Botnet will Continue to Lurk, Here’s Why<a href="https://cyware.com/news/authors-detained-but-mozi-botnet-will-continue-to-lurk-heres-why-eb45819f"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major IPS in New Zealand hit by massive DDoS, Internet outages reported<a href="https://securityaffairs.co/wordpress/121856/hacking/new-zealand-ddos.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Client-Side Scanning Takes A Pause<a href="https://www.lawfareblog.com/apple-client-side-scanning-takes-pause"> Full Text</a>
@@ -238,7 +238,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for new malware campaign’s 'Windows 11 Alpha' attachment<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-new-malware-campaign-s-windows-11-alpha-attachment/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US SEC: Watch out for Hurricane Ida-related investment scams<a href="https://www.bleepingcomputer.com/news/security/us-sec-watch-out-for-hurricane-ida-related-investment-scams/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC warns of investment scams related to Hurricane Ida<a href="https://securityaffairs.co/wordpress/121849/cyber-crime/sec-warns-hurricane-ida-scams.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple will delay the rollout of new child pornography protection tools<a href="https://securityaffairs.co/wordpress/121846/security/apple-child-pornography-protection-tools.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 group leverages Windows 11 Alpha-Themed docs to drop Javascript payloads<a href="https://securityaffairs.co/wordpress/121839/cyber-crime/fin7-cybercrime-gang.html"> Full Text</a>

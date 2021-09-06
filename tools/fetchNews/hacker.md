@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Ransomware Hackers Love a Holiday Weekend<a href="https://www.wired.com/story/ransomware-hacks-holidays-weekends/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware can take time to propagate throughout a network, as hackers work to escalate privileges for maximum control over most systems. The longer it takes for anyone to notice, the more damage they can do.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Says Chinese Hackers Were Behind SolarWinds Serv-U SSH 0-Day Attack<a href="https://thehackernews.com/2021/09/microsoft-says-chinese-hackers-were.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared technical details about a now-fixed, actively exploited critical security vulnerability affecting SolarWinds Serv-U managed file transfer service that it has attributed with "high confidence" to a threat actor operating out of China.  In mid-July, the Texas-based company&nbsp; remedied &nbsp;a remote code execution flaw ( CVE-2021-35211 ) that was rooted in Serv-U's implementation of the Secure Shell (SSH) protocol, which could be abused by attackers to run arbitrary code on the infected system, including the ability to install malicious programs and view, change, or delete sensitive data.   "The Serv-U SSH server is subject to a pre-auth remote code execution vulnerability that can be easily and reliably exploited in the default configuration," Microsoft Offensive Research and Security Engineering team said in a&nbsp; detailed write-up &nbsp;describing the exploit.  "An attacker can exploit this vulnerability by connecting to the open SSH port and sendin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers behind July 2021 SolarWinds zero-day attacks<a href="https://therecord.media/chinese-hackers-behind-july-2021-solarwinds-zero-day-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The zero-day was the work of a new threat actor tracked as DEV-0322, which Microsoft described as “a group operating out of China, based on observed victimology, tactics, and procedures.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Using Windows 11 Themed Documents to Drop Javascript Backdoor<a href="https://thehackernews.com/2021/09/fin7-hackers-using-windows-11-themed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent wave of spear-phishing campaigns leveraged weaponized Windows 11 Alpha-themed Word documents with Visual Basic macros to drop malicious payloads, including a JavaScript implant, against a point-of-sale (PoS) service provider located in the U.S.  The attacks, which are believed to have taken place between late June to late July 2021, have been attributed with "moderate confidence" to a financially motivated threat actor dubbed FIN7, according to researchers from cybersecurity firm Anomali.  "The specified targeting of the Clearmind domain fits well with FIN7's preferred modus operandi," Anomali Threat Research&nbsp; said &nbsp;in a technical analysis published on September 2. "The group's goal appears to have been to deliver a variation of a JavaScript backdoor used by FIN7 since at least 2018."   An Eastern European group active since at least mid-2015, FIN7 has a checkered history of targeting restaurant, gambling, and hospitality industries in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
