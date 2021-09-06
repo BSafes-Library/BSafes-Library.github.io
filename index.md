@@ -34,6 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 to let admins block Active Content on Trusted Docs<a href="https://www.bleepingcomputer.com/news/security/office-365-to-let-admins-block-active-content-on-trusted-docs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft plans to allow Office 365 admins ensure that end-users can't ignore organization-wide policies set up to block active content on Trusted Documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saving Private Networks from DNS Rebinding<a href="https://cyware.com/news/saving-private-networks-from-dns-rebinding-10cf15e6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers use the DNS rebinding technique to exploit private networks. It can take over victims' browsers and exposes the attack surface of internal web applications to malicious websites, which can be dangerous. Web browser vendors, web application owners, and DNS resolvers need to apply appropria ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pacific City Bank hit by AVOS Locker Ransomware<a href="https://securityaffairs.co/wordpress/121872/cyber-crime/pacific-city-bank-avos-locker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pacific City Bank was hit by AVOS Locker Ransomware operators, the gang claims to have stolen sensitive file from the company and threatens to leak it. 
+
+
+
+Pacific City Bank is an American community bank that focuses on the Korean-American community...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's TensorFlow drops YAML support due to code execution flaw<a href="https://www.bleepingcomputer.com/news/security/googles-tensorflow-drops-yaml-support-due-to-code-execution-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TensorFlow, a popular Python-based machine learning and artificial intelligence project developed by Google has dropped support for YAML, to patch a critical code execution vulnerability. YAML is a convenient choice among developers looking for a human-readable data serialization language.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deciphering the Leaked Conti Ransomware Playbook<a href="https://cyware.com/news/deciphering-the-leaked-conti-ransomware-playbook-0affd74f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently obtained a leaked playbook linked to the Conti RaaS group, disclosing a heap of information about operations by them. The sensitive playbook documents are believed to be leaked by a partner not happy with Conti. For researchers and security analysts, this is an opportunity to d ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp fined €225M over GDPR issues<a href="https://securityaffairs.co/wordpress/121866/security/whatsapp-fined-e225m-gdpr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission has fined WhatsApp €225 million over data sharing transparency for European Union users' data with Facebook. 
+
+
+
+The Irish Data Protection Commission has fined WhatsApp €225 million for the lack of transparency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This GPU-Based Malware Attack can Dodge Usual Security Checks<a href="https://cyware.com/news/this-gpu-based-malware-attack-can-dodge-usual-security-checks-1aaeeb0b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A post was spotted on a hacker forum where someone advertised a PoC for hiding and executing malicious codes from the GPU. The seller who advertised the recent PoC has denied any possible connection with the JellyFish malware. Vendors of GPUs should be taking note of it and start preparing for coun ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 330<a href="https://securityaffairs.co/wordpress/121861/breaking-news/security-affairs-newsletter-round-330.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+SEC warns...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authors Detained but Mozi Botnet will Continue to Lurk, Here’s Why<a href="https://cyware.com/news/authors-detained-but-mozi-botnet-will-continue-to-lurk-heres-why-eb45819f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite authors being detained, Mozi botnet is unstoppable.  The botnet uses a peer-to-peer network structure that contributes as a major factor to helps the malware propagate even when some of its nodes go down . New findings from a new report reveal why Mozi, which accounted for 1.55 million infe ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major IPS in New Zealand hit by massive DDoS, Internet outages reported<a href="https://securityaffairs.co/wordpress/121856/hacking/new-zealand-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive DDoS hit New Zealand 's third-largest internet operator isolating parts of the country from the Internet. 
+
+
+
+A massive DDoS hit Vocus ISP, New Zealand 's third-largest internet operator, isolating parts of the country from the Internet.  
+
+
+
+Vocus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Client-Side Scanning Takes A Pause<a href="https://www.lawfareblog.com/apple-client-side-scanning-takes-pause"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Late on Friday, Apple stated that it would postpone its plans to deploy a system that scanned images on iPhones for child sexual abuse material (CSAM).
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for new malware campaign’s 'Windows 11 Alpha' attachment<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-new-malware-campaign-s-windows-11-alpha-attachment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Relying on a simple recipe that has proved successful time and time again, threat actors have deployed a malware campaign recently that used a Windows 11 theme to lure recipients into activating malicious code placed inside Microsoft Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC: Watch out for Hurricane Ida-related investment scams<a href="https://www.bleepingcomputer.com/news/security/us-sec-watch-out-for-hurricane-ida-related-investment-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission has warned investors to be "extremely wary" of potential investment scams related to Hurricane Ida's aftermath.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC warns of investment scams related to Hurricane Ida<a href="https://securityaffairs.co/wordpress/121849/cyber-crime/sec-warns-hurricane-ida-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Securities and Exchange Commission warns investors of potential investment scams that leverages Hurricane Ida as a bait. 
+
+
+
+The US Securities and Exchange Commission (SEC)'s Office of Investor Education and Advocacy is warning investors of potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple will delay the rollout of new child pornography protection tools<a href="https://securityaffairs.co/wordpress/121846/security/apple-child-pornography-protection-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple will delay the introduction of its new child pornography protection tools due to a heated debate raised by privacy advocates.
+
+
+
+Apple announced this week that it will delay the rollout of its new child pornography protection tools after many experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 group leverages Windows 11 Alpha-Themed docs to drop Javascript payloads<a href="https://securityaffairs.co/wordpress/121839/cyber-crime/fin7-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 cybercrime gang used weaponized Windows 11 Alpha-themed Word documents to drop malicious payloads, including a JavaScript backdoor. 
+
+
+
+Anomali Threat Research experts have monitored recent spear-phishing attacks conducted by financially motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
