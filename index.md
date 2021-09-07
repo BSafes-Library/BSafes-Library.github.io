@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+We Could Start Seeing Some Hurricane Ida-related Investment Scams<a href="https://heimdalsecurity.com/blog/we-could-start-seeing-hurricane-ida-related-investment-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+People should be wary to ask anyone approaching them with an investment opportunity if they’re licensed and if their investment is registered with the SEC or with a state.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The age of AI-powered devices at the edge<a href="https://www.helpnetsecurity.com/2021/09/07/ai-powered-devices/?&web_view=true"> Full Text</a>
 </p>
 <details>
