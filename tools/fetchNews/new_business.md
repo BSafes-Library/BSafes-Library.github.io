@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ad Fraud Protection Firm Pixalate Raises $18.1 Million<a href="https://www.securityweek.com/ad-fraud-protection-firm-pixalate-raises-181-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pixalate, a firm that provides fraud protection for mobile app and CTV advertising, has raised $18.1 million in growth capital, bringing the total amount raised by the company to $22.7 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

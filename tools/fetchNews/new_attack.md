@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A server of the Jenkins project hacked by exploiting a Confluence flaw<a href="https://securityaffairs.co/wordpress/121934/hacking/jenkins-server-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the&nbsp;Jenkins server disclose a security breach, threat actors deployed a cryptocurrency miner on one of its servers.
+
+
+
+The development team behind the Jenkins Project disclosed a security breach after threat actors compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot gang developer arrested when trying to leave Korea<a href="https://www.bleepingcomputer.com/news/security/trickbot-gang-developer-arrested-when-trying-to-leave-korea/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Russian developer for the notorious TrickBot malware gang was arrested in South Korea after attempting to leave the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Gardai clamp down on cyber gang that attacked HSE<a href="https://www.itsecurityguru.org/2021/09/06/irish-gardai-clamp-down-on-cyber-gang-that-attacked-hse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gardaí have seized the cyberinfrastructure used by the cyber gang involved in the HSE cyber attack earlier this year. The operation is believed to have prevented more than 750 ransomware attacks, the Irish Times has reported.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs target companies using these criteria<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-target-companies-using-these-criteria/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs increasingly purchase access to a victim's network on dark web marketplaces and from other threat actors. Analyzing their want ads makes it possible to get an inside look at the types of companies ransomware operations are targeting for attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

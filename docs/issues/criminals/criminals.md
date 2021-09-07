@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang threatens to leak data if victim contacts FBI, police<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware group is warning that they will leak stolen data from victims that contact law enforcement authorities, like the FBI. Ragnar Locker has previously hit prominent companies with ransomware attacks, demanding millions of dollars in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker gang threatens to leak data if victim contacts law enforcement<a href="https://securityaffairs.co/wordpress/121924/cyber-crime/ragnar-locker-threatens-victims-fbi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware operators threaten to leak stolen data if the victims attempt to contact law enforcement agencies. 
+
+
+
+The Ragnar Locker ransomware gang is adopting a new technique to force victims to pay the ransom, the operators threaten...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is the perfect ransomware victim, according to cybercriminals<a href="https://www.zdnet.com/article/this-is-the-perfect-ransomware-victim-according-to-cybercriminals/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new KELA report analyzed listings made by ransomware operators in the dark web, including access requests revealing that many want to break into US firms with a minimum revenue of over $100 million.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

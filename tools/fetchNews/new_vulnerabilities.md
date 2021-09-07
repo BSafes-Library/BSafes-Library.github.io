@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Atlassian Confluence Flaw Exploited to Breach Jenkins Project Server<a href="https://thehackernews.com/2021/09/latest-atlassian-confluence-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Jenkins—a popular open-source automation server software—have disclosed a security breach after unidentified threat actors gained access to one of their servers by exploiting a recently disclosed vulnerability in Atlassian Confluence service to install a cryptocurrency miner.  The "successful attack," which is believed to have occurred last week, was mounted against its Confluence service that had been deprecated since October 2019, leading the team to take the server offline, rotate privileged credentials, and reset passwords for developer accounts.  "At this time we have no reason to believe that any Jenkins releases, plugins, or source code have been affected," the company&nbsp; said &nbsp;in a statement published over the weekend.   The disclosure comes as the U.S. Cyber Command&nbsp; warned &nbsp;of ongoing mass exploitation attempts in the wild targeting a now-patched critical security vulnerability affecting Atlassian Confluence deployments.  Tracked as CVE-2
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

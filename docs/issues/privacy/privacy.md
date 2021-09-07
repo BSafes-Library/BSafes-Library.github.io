@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail logged IP address of French activist after foreign request approved by Swiss authorities<a href="https://securityaffairs.co/wordpress/121916/digital-id/protonmail-logged-ip-activist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp;police report&nbsp;revealed that the popular encrypted email service provider ProtonMail shared the IP address of a French activist with the authorities.
+
+
+
+The privacy friendly end-to-end encrypted email service provider ProtonMail has shared the IP address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

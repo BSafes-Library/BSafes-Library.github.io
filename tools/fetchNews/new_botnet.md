@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+39% of all internet traffic is from bad bots<a href="https://www.helpnetsecurity.com/2021/09/07/bad-bots-internet-traffic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These bad bots include both basic web scrapers and attack scripts, as well as advanced persistent bots that try to evade defenses and attempt to perform their malicious activities under the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Arrest Another TrickBot Gang Member in South Korea<a href="https://threatpost.com/authorities-arrest-trickbot-member/169236/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker known only as “Mr. A” was picked up by authorities at a South Korean airport after getting stuck in the country due to COVID-19 travel restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

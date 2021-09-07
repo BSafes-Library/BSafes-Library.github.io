@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Details of 8,700 French Visa Applicants Gets Exposed by Attackers<a href="https://www.connexionfrance.com/French-news/Personal-details-of-8-700-French-visa-applicants-exposed-by-hackers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French government said that the cyberattack was ‘quickly neutralised’ but that individuals’ names, dates of birth, passport and identity card numbers had been exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Connexion France
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Project Discloses Security Breach Involving Confluence Server Exploit<a href="https://therecord.media/jenkins-project-discloses-security-breach-following-confluence-server-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the discovery of the hack, Jenkins developers said they permanently took down the hacked Confluence server, rotated privileged credentials, and reset passwords for developer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

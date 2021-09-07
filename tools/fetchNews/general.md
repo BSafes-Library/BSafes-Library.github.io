@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks increased by 288% in H1 2021<a href="https://www.helpnetsecurity.com/2021/09/06/ransomware-attacks-increased-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to NCC Group's report, the number of ransomware attacks analyzed has increased by 288% between January-March 2021 and April-June 2021, with organizations continuing to face waves of digital extortion in the form of targeted ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
