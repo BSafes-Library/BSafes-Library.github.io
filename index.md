@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 7, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Aussie Researcher Fakes Digital COVID-19 Vaccination Proof<a href="https://www.govinfosecurity.com/aussie-researcher-fakes-digital-covid-19-vaccination-proof-a-17468?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian software engineer Richard Nelson is warning that he was able to create a fake digital COVID-19 vaccine certificate via the government's Express Medicare Plus app.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Ad Fraud Protection Firm Pixalate Raises $18.1 Million<a href="https://www.securityweek.com/ad-fraud-protection-firm-pixalate-raises-181-million?&web_view=true"> Full Text</a>
 </p>
 <details>
