@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This NPM package with millions of weekly downloads has fixed a remote code execution flaw<a href="https://www.zdnet.com/article/this-npm-package-with-millions-of-weekly-downloads-has-fixed-a-remote-code-execution-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A very popular NPM package called 'pac-resolver' for the JavaScript programming language has been fixed to address a remote code execution flaw that could affect a lot of Node.js applications.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear addresses severe security flaws in 20 of its products<a href="https://securityaffairs.co/wordpress/121899/security/netgear-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear has released security updates to address high-severity vulnerabilities affecting several of its smart switches used by businesses. 
+
+
+
+Netgear has released firmware updates to address high-severity vulnerabilities in more than a dozen of its smart...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes severe security bugs in over a dozen smart switches<a href="https://www.bleepingcomputer.com/news/security/netgear-fixes-severe-security-bugs-in-over-a-dozen-smart-switches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear has released firmware updates for more than a dozen of its smart switches used on corporate networks to address high-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Affect NETGEAR Smart Switches — Patch and PoC Released<a href="https://thehackernews.com/2021/09/critical-auth-bypass-bug-affect-netgear.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking, storage and security solutions provider Netgear on Friday&nbsp; issued patches &nbsp;to address three security vulnerabilities affecting its smart switches that could be abused by an adversary to gain full control of a vulnerable device.  The flaws, which were discovered and reported to Netgear by Google security engineer Gynvael Coldwind, impact the following models -   GC108P (fixed in firmware version 1.0.8.2)  GC108PP (fixed in firmware version 1.0.8.2)  GS108Tv3 (fixed in firmware version 7.0.7.2)  GS110TPP (fixed in firmware version 7.0.7.2)  GS110TPv3 (fixed in firmware version 7.0.7.2)  GS110TUP (fixed in firmware version 1.0.5.3)  GS308T (fixed in firmware version 1.0.3.2)  GS310TP (fixed in firmware version 1.0.3.2)  GS710TUP (fixed in firmware version 1.0.5.3)  GS716TP (fixed in firmware version 1.0.4.2)  GS716TPP (fixed in firmware version 1.0.4.2)  GS724TPP (fixed in firmware version 2.0.6.3)  GS724TPv2 (fixed in firmware version 2.0.6.3)  GS728TPPv2 (fixed in firmware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

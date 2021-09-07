@@ -8,6 +8,43 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot gang developer arrested at the Seoul international airport<a href="https://securityaffairs.co/wordpress/121909/cyber-crime/trickbot-gang-developer-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian man accused of being a member of the infamous TrickBot gang was arrested while trying to leave South Korea
+
+
+
+A Russian man accused of being a member of the TrickBot gang was arrested last week at the Seoul international airport.
+
+
+
+The man has remained...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Quick Analysis of QakBot, a Decade-Old Threat<a href="https://cyware.com/news/a-quick-analysis-of-qakbot-a-decade-old-threat-b0f8a124"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky provided a detailed technical analysis of QakBot, a decade-old Trojan that is active since 2007. It also underlines the stats of victims.&nbsp;In the first seven months of this year, Kaspersky spotted 181,869 attempts to download or execute QakBot. Experts say one must track its activitie ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

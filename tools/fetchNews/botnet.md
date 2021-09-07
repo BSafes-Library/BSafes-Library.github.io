@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authors Detained but Mozi Botnet will Continue to Lurk, Here’s Why<a href="https://cyware.com/news/authors-detained-but-mozi-botnet-will-continue-to-lurk-heres-why-eb45819f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite authors being detained, Mozi botnet is unstoppable.  The botnet uses a peer-to-peer network structure that contributes as a major factor to helps the malware propagate even when some of its nodes go down . New findings from a new report reveal why Mozi, which accounted for 1.55 million infe ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

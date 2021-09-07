@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German foreign ministry: Russia responsible for cyber attacks on German parliament<a href="https://www.reuters.com/world/europe/russia-responsible-cyber-attacks-german-parliament-german-foreign-ministry-2021-09-06/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German government has revealed that it has reliable information according to which ghost writer activities can be attributed to cyber protagonists of the Russian state or Russia's GRU military intelligence.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

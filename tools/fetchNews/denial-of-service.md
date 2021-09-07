@@ -8,6 +8,28 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major IPS in New Zealand hit by massive DDoS, Internet outages reported<a href="https://securityaffairs.co/wordpress/121856/hacking/new-zealand-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive DDoS hit New Zealand 's third-largest internet operator isolating parts of the country from the Internet. 
+
+
+
+A massive DDoS hit Vocus ISP, New Zealand 's third-largest internet operator, isolating parts of the country from the Internet.  
+
+
+
+Vocus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

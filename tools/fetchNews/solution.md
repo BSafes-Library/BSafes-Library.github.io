@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 to let admins block Active Content on Trusted Docs<a href="https://www.bleepingcomputer.com/news/security/office-365-to-let-admins-block-active-content-on-trusted-docs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft plans to allow Office 365 admins ensure that end-users can't ignore organization-wide policies set up to block active content on Trusted Documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

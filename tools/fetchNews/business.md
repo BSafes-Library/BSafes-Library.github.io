@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple will delay the rollout of new child pornography protection tools<a href="https://securityaffairs.co/wordpress/121846/security/apple-child-pornography-protection-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple will delay the introduction of its new child pornography protection tools due to a heated debate raised by privacy advocates.
+
+
+
+Apple announced this week that it will delay the rollout of its new child pornography protection tools after many experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

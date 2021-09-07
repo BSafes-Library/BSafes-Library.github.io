@@ -35,6 +35,8 @@ Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-spike-in-sextortion-attacks-cost-victims-8-million-this-year/
 . https://securityaffairs.co/wordpress/121794/security/fbi-ransomware-attacks-food-agriculture-sector.html
 . https://www.bleepingcomputer.com/news/security/us-sec-watch-out-for-hurricane-ida-related-investment-scams/
+. https://securityaffairs.co/wordpress/121878/cyber-crime/fbi-ic3-sextortion.html
+
 
 Law
 

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chainsaw tool helps IR teams analyze Windows event logs<a href="https://www.bleepingcomputer.com/news/security/new-chainsaw-tool-helps-ir-teams-analyze-windows-event-logs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This NPM package with millions of weekly downloads has fixed a remote code execution flaw<a href="https://www.zdnet.com/article/this-npm-package-with-millions-of-weekly-downloads-has-fixed-a-remote-code-execution-flaw/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProtonMail Shares Activist's IP Address With Authorities Despite Its "No Log" Claims<a href="https://thehackernews.com/2021/09/protonmail-shares-activists-ip-address.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot gang developer arrested at the Seoul international airport<a href="https://securityaffairs.co/wordpress/121909/cyber-crime/trickbot-gang-developer-arrested.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot gang developer arrested when trying to leave Korea<a href="https://www.bleepingcomputer.com/news/security/trickbot-gang-developer-arrested-when-trying-to-leave-korea/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German foreign ministry: Russia responsible for cyber attacks on German parliament<a href="https://www.reuters.com/world/europe/russia-responsible-cyber-attacks-german-parliament-german-foreign-ministry-2021-09-06/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Traffic Exchange Networks Distributing Malware Disguised as Cracked Software<a href="https://thehackernews.com/2021/09/traffic-exchange-networks-distributing.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear addresses severe security flaws in 20 of its products<a href="https://securityaffairs.co/wordpress/121899/security/netgear-vulnerabilities.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear fixes severe security bugs in over a dozen smart switches<a href="https://www.bleepingcomputer.com/news/security/netgear-fixes-severe-security-bugs-in-over-a-dozen-smart-switches/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish Gardai clamp down on cyber gang that attacked HSE<a href="https://www.itsecurityguru.org/2021/09/06/irish-gardai-clamp-down-on-cyber-gang-that-attacked-hse/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Auth Bypass Bug Affect NETGEAR Smart Switches — Patch and PoC Released<a href="https://thehackernews.com/2021/09/critical-auth-bypass-bug-affect-netgear.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware found pre-installed in cheap push-button mobile phones sold in Russia<a href="https://securityaffairs.co/wordpress/121887/mobile-2/push-button-mobile-phones-malware.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs target companies using these criteria<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-target-companies-using-these-criteria/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks increased by 288% in H1 2021<a href="https://www.helpnetsecurity.com/2021/09/06/ransomware-attacks-increased-2021/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI IC3 warns of a spike in sextortion attacks<a href="https://securityaffairs.co/wordpress/121878/cyber-crime/fbi-ic3-sextortion.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pacific City Bank hit by AVOS Locker Ransomware<a href="https://securityaffairs.co/wordpress/121872/cyber-crime/pacific-city-bank-avos-locker-ransomware.html?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Quick Analysis of QakBot, a Decade-Old Threat<a href="https://cyware.com/news/a-quick-analysis-of-qakbot-a-decade-old-threat-b0f8a124"> Full Text</a>

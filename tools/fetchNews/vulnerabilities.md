@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saving Private Networks from DNS Rebinding<a href="https://cyware.com/news/saving-private-networks-from-dns-rebinding-10cf15e6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers use the DNS rebinding technique to exploit private networks. It can take over victims' browsers and exposes the attack surface of internal web applications to malicious websites, which can be dangerous. Web browser vendors, web application owners, and DNS resolvers need to apply appropria ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's TensorFlow drops YAML support due to code execution flaw<a href="https://www.bleepingcomputer.com/news/security/googles-tensorflow-drops-yaml-support-due-to-code-execution-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TensorFlow, a popular Python-based machine learning and&nbsp;artificial intelligence project&nbsp;developed by Google has dropped support for YAML, to patch a critical code execution vulnerability. YAML is a convenient choice among developers looking for a&nbsp;human-readable data serialization language.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

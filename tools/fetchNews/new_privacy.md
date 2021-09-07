@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail Shares Activist's IP Address With Authorities Despite Its "No Log" Claims<a href="https://thehackernews.com/2021/09/protonmail-shares-activists-ip-address.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+End-to-end encrypted email service provider ProtonMail has&nbsp; drawn &nbsp; criticism &nbsp;after it ceded to a legal request and shared the IP address of anti-gentrification activists with law enforcement authorities, leading to their arrests in France.  The Switzerland-based company said it received a "legally binding order from the Swiss Federal Department of Justice" related to a collective called Youth for Climate, which it was "obligated to comply with," compelling it to handover the IP address and information related to the type of device used by the group to access the ProtonMail account.   On its website, ProtonMail&nbsp; advertises &nbsp;that: "No personal information is required to create your secure email account. By default, we do not keep any IP logs which can be linked to your anonymous email account. Your privacy comes first."   Despite its no IP logs claims, the company acknowledged that while it's illegal for the company to abide by requests from non-Swiss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

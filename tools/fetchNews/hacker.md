@@ -11,6 +11,24 @@ nav_order: 900080
 September 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FIN7 group leverages Windows 11 Alpha-Themed docs to drop Javascript payloads<a href="https://securityaffairs.co/wordpress/121839/cyber-crime/fin7-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 cybercrime gang used weaponized Windows 11 Alpha-themed Word documents to drop malicious payloads, including a JavaScript backdoor. 
+
+
+
+Anomali Threat Research experts have monitored recent spear-phishing attacks conducted by financially motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Why Ransomware Hackers Love a Holiday Weekend<a href="https://www.wired.com/story/ransomware-hacks-holidays-weekends/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

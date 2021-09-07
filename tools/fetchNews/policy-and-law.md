@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp fined €225M over GDPR issues<a href="https://securityaffairs.co/wordpress/121866/security/whatsapp-fined-e225m-gdpr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission&nbsp;has fined&nbsp;WhatsApp €225 million over data sharing transparency for European Union users' data with Facebook. 
+
+
+
+The Irish Data Protection Commission&nbsp;has fined&nbsp;WhatsApp €225 million for the lack of transparency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
