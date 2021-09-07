@@ -34,7 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2021
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chainsaw tool helps IR teams analyze Windows event logs<a href="https://www.bleepingcomputer.com/news/security/new-chainsaw-tool-helps-ir-teams-analyze-windows-event-logs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Incident responders and blue teams have a new tool called Chainsaw that speeds up searching through Windows event log records to identify threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This NPM package with millions of weekly downloads has fixed a remote code execution flaw<a href="https://www.zdnet.com/article/this-npm-package-with-millions-of-weekly-downloads-has-fixed-a-remote-code-execution-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A very popular NPM package called 'pac-resolver' for the JavaScript programming language has been fixed to address a remote code execution flaw that could affect a lot of Node.js applications.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail Shares Activist's IP Address With Authorities Despite Its "No Log" Claims<a href="https://thehackernews.com/2021/09/protonmail-shares-activists-ip-address.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+End-to-end encrypted email service provider ProtonMail has  drawn   criticism  after it ceded to a legal request and shared the IP address of anti-gentrification activists with law enforcement authorities, leading to their arrests in France.  The Switzerland-based company said it received a "legally binding order from the Swiss Federal Department of Justice" related to a collective called Youth for Climate, which it was "obligated to comply with," compelling it to handover the IP address and information related to the type of device used by the group to access the ProtonMail account.   On its website, ProtonMail  advertises  that: "No personal information is required to create your secure email account. By default, we do not keep any IP logs which can be linked to your anonymous email account. Your privacy comes first."   Despite its no IP logs claims, the company acknowledged that while it's illegal for the company to abide by requests from non-Swiss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot gang developer arrested at the Seoul international airport<a href="https://securityaffairs.co/wordpress/121909/cyber-crime/trickbot-gang-developer-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian man accused of being a member of the infamous TrickBot gang was arrested while trying to leave South Korea
+
+
+
+A Russian man accused of being a member of the TrickBot gang was arrested last week at the Seoul international airport.
+
+
+
+The man has remained...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot gang developer arrested when trying to leave Korea<a href="https://www.bleepingcomputer.com/news/security/trickbot-gang-developer-arrested-when-trying-to-leave-korea/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Russian developer for the notorious TrickBot malware gang was arrested in South Korea after attempting to leave the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German foreign ministry: Russia responsible for cyber attacks on German parliament<a href="https://www.reuters.com/world/europe/russia-responsible-cyber-attacks-german-parliament-german-foreign-ministry-2021-09-06/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German government has revealed that it has reliable information according to which ghost writer activities can be attributed to cyber protagonists of the Russian state or Russia's GRU military intelligence.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traffic Exchange Networks Distributing Malware Disguised as Cracked Software<a href="https://thehackernews.com/2021/09/traffic-exchange-networks-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing campaign has been found to leverage a network of websites acting as a "dropper as a service" to deliver a bundle of malware payloads to victims looking for "cracked" versions of popular business and consumer applications.  "These malware included an assortment of click fraud bots, other information stealers, and even ransomware," researchers from cybersecurity firm Sophos  said  in a report published last week.  The attacks work by taking advantage of a number of bait pages hosted on WordPress that contain "download" links to software packages, which, when clicked, redirect the victims to a different website that delivers potentially unwanted browser plug-ins and malware, such as installers for  Raccoon Stealer , Stop ransomware, the Glupteba backdoor, and a variety of malicious cryptocurrency miners that masquerade as antivirus solutions.   "Visitors who arrive on these sites are prompted to allow notifications; If they allow th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear addresses severe security flaws in 20 of its products<a href="https://securityaffairs.co/wordpress/121899/security/netgear-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear has released security updates to address high-severity vulnerabilities affecting several of its smart switches used by businesses. 
+
+
+
+Netgear has released firmware updates to address high-severity vulnerabilities in more than a dozen of its smart...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes severe security bugs in over a dozen smart switches<a href="https://www.bleepingcomputer.com/news/security/netgear-fixes-severe-security-bugs-in-over-a-dozen-smart-switches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear has released firmware updates for more than a dozen of its smart switches used on corporate networks to address high-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Gardai clamp down on cyber gang that attacked HSE<a href="https://www.itsecurityguru.org/2021/09/06/irish-gardai-clamp-down-on-cyber-gang-that-attacked-hse/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gardaí have seized the cyberinfrastructure used by the cyber gang involved in the HSE cyber attack earlier this year. The operation is believed to have prevented more than 750 ransomware attacks, the Irish Times has reported.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Auth Bypass Bug Affect NETGEAR Smart Switches — Patch and PoC Released<a href="https://thehackernews.com/2021/09/critical-auth-bypass-bug-affect-netgear.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking, storage and security solutions provider Netgear on Friday  issued patches  to address three security vulnerabilities affecting its smart switches that could be abused by an adversary to gain full control of a vulnerable device.  The flaws, which were discovered and reported to Netgear by Google security engineer Gynvael Coldwind, impact the following models -   GC108P (fixed in firmware version 1.0.8.2)  GC108PP (fixed in firmware version 1.0.8.2)  GS108Tv3 (fixed in firmware version 7.0.7.2)  GS110TPP (fixed in firmware version 7.0.7.2)  GS110TPv3 (fixed in firmware version 7.0.7.2)  GS110TUP (fixed in firmware version 1.0.5.3)  GS308T (fixed in firmware version 1.0.3.2)  GS310TP (fixed in firmware version 1.0.3.2)  GS710TUP (fixed in firmware version 1.0.5.3)  GS716TP (fixed in firmware version 1.0.4.2)  GS716TPP (fixed in firmware version 1.0.4.2)  GS724TPP (fixed in firmware version 2.0.6.3)  GS724TPv2 (fixed in firmware version 2.0.6.3)  GS728TPPv2 (fixed in firmware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware found pre-installed in cheap push-button mobile phones sold in Russia<a href="https://securityaffairs.co/wordpress/121887/mobile-2/push-button-mobile-phones-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher ValdikSS found malware preinstalled in four low-budget push-button mobile phones available for sale on Russian e-stores. 
+
+
+
+A Russian security researcher that goes online with the name of ValdikSS has found malware preinstalled in four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs target companies using these criteria<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-target-companies-using-these-criteria/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs increasingly purchase access to a victim's network on dark web marketplaces and from other threat actors. Analyzing their want ads makes it possible to get an inside look at the types of companies ransomware operations are targeting for attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks increased by 288% in H1 2021<a href="https://www.helpnetsecurity.com/2021/09/06/ransomware-attacks-increased-2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to NCC Group's report, the number of ransomware attacks analyzed has increased by 288% between January-March 2021 and April-June 2021, with organizations continuing to face waves of digital extortion in the form of targeted ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI IC3 warns of a spike in sextortion attacks<a href="https://securityaffairs.co/wordpress/121878/cyber-crime/fbi-ic3-sextortion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI Internet Crime Complaint Center (IC3) warns of a spike in sextortion attacks since the beginning of 2021 that caused $8M losses. 
+
+
+
+The FBI Internet Crime Complaint Center (IC3) is warning of a significant increase in sextortion complaints since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pacific City Bank hit by AVOS Locker Ransomware<a href="https://securityaffairs.co/wordpress/121872/cyber-crime/pacific-city-bank-avos-locker-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bank was hit by AVOS Locker Ransomware operators who claim to have stolen sensitive documents from the financial institution. The ransomware gang added the bank to its leak site and published some screenshots as proof of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Quick Analysis of QakBot, a Decade-Old Threat<a href="https://cyware.com/news/a-quick-analysis-of-qakbot-a-decade-old-threat-b0f8a124"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky provided a detailed technical analysis of QakBot, a decade-old Trojan that is active since 2007. It also underlines the stats of victims.&nbsp;In the first seven months of this year, Kaspersky spotted 181,869 attempts to download or execute QakBot. Experts say one must track its activitie ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365 to let admins block Active Content on Trusted Docs<a href="https://www.bleepingcomputer.com/news/security/office-365-to-let-admins-block-active-content-on-trusted-docs/"> Full Text</a>
@@ -50,7 +343,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saving Private Networks from DNS Rebinding<a href="https://cyware.com/news/saving-private-networks-from-dns-rebinding-10cf15e6"> Full Text</a>
@@ -67,7 +360,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pacific City Bank hit by AVOS Locker Ransomware<a href="https://securityaffairs.co/wordpress/121872/cyber-crime/pacific-city-bank-avos-locker-ransomware.html"> Full Text</a>
@@ -87,7 +380,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2021
+September 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google's TensorFlow drops YAML support due to code execution flaw<a href="https://www.bleepingcomputer.com/news/security/googles-tensorflow-drops-yaml-support-due-to-code-execution-flaw/"> Full Text</a>
@@ -103,7 +396,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deciphering the Leaked Conti Ransomware Playbook<a href="https://cyware.com/news/deciphering-the-leaked-conti-ransomware-playbook-0affd74f"> Full Text</a>
@@ -120,7 +413,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp fined €225M over GDPR issues<a href="https://securityaffairs.co/wordpress/121866/security/whatsapp-fined-e225m-gdpr.html"> Full Text</a>
@@ -140,7 +433,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This GPU-Based Malware Attack can Dodge Usual Security Checks<a href="https://cyware.com/news/this-gpu-based-malware-attack-can-dodge-usual-security-checks-1aaeeb0b"> Full Text</a>
@@ -157,7 +450,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 330<a href="https://securityaffairs.co/wordpress/121861/breaking-news/security-affairs-newsletter-round-330.html"> Full Text</a>
@@ -181,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authors Detained but Mozi Botnet will Continue to Lurk, Here’s Why<a href="https://cyware.com/news/authors-detained-but-mozi-botnet-will-continue-to-lurk-heres-why-eb45819f"> Full Text</a>
@@ -198,7 +491,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2021
+September 5, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major IPS in New Zealand hit by massive DDoS, Internet outages reported<a href="https://securityaffairs.co/wordpress/121856/hacking/new-zealand-ddos.html"> Full Text</a>
@@ -222,7 +515,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Client-Side Scanning Takes A Pause<a href="https://www.lawfareblog.com/apple-client-side-scanning-takes-pause"> Full Text</a>
@@ -238,7 +531,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for new malware campaign’s 'Windows 11 Alpha' attachment<a href="https://www.bleepingcomputer.com/news/security/watch-out-for-new-malware-campaign-s-windows-11-alpha-attachment/"> Full Text</a>
@@ -254,7 +547,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2021
+September 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US SEC: Watch out for Hurricane Ida-related investment scams<a href="https://www.bleepingcomputer.com/news/security/us-sec-watch-out-for-hurricane-ida-related-investment-scams/"> Full Text</a>
@@ -270,7 +563,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC warns of investment scams related to Hurricane Ida<a href="https://securityaffairs.co/wordpress/121849/cyber-crime/sec-warns-hurricane-ida-scams.html"> Full Text</a>
@@ -290,7 +583,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple will delay the rollout of new child pornography protection tools<a href="https://securityaffairs.co/wordpress/121846/security/apple-child-pornography-protection-tools.html"> Full Text</a>
@@ -310,7 +603,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2021
+September 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 group leverages Windows 11 Alpha-Themed docs to drop Javascript payloads<a href="https://securityaffairs.co/wordpress/121839/cyber-crime/fin7-cybercrime-gang.html"> Full Text</a>
