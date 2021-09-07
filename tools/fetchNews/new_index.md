@@ -34,7 +34,243 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang threatens to leak data if victim contacts FBI, police<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware group is warning that they will leak stolen data from victims that contact law enforcement authorities, like the FBI. Ragnar Locker has previously hit prominent companies with ransomware attacks, demanding millions of dollars in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+39% of all internet traffic is from bad bots<a href="https://www.helpnetsecurity.com/2021/09/07/bad-bots-internet-traffic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These bad bots include both basic web scrapers and attack scripts, as well as advanced persistent bots that try to evade defenses and attempt to perform their malicious activities under the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Atlassian Confluence Flaw Exploited to Breach Jenkins Project Server<a href="https://thehackernews.com/2021/09/latest-atlassian-confluence-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Jenkins—a popular open-source automation server software—have disclosed a security breach after unidentified threat actors gained access to one of their servers by exploiting a recently disclosed vulnerability in Atlassian Confluence service to install a cryptocurrency miner.  The "successful attack," which is believed to have occurred last week, was mounted against its Confluence service that had been deprecated since October 2019, leading the team to take the server offline, rotate privileged credentials, and reset passwords for developer accounts.  "At this time we have no reason to believe that any Jenkins releases, plugins, or source code have been affected," the company  said  in a statement published over the weekend.   The disclosure comes as the U.S. Cyber Command  warned  of ongoing mass exploitation attempts in the wild targeting a now-patched critical security vulnerability affecting Atlassian Confluence deployments.  Tracked as CVE-2
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A server of the Jenkins project hacked by exploiting a Confluence flaw<a href="https://securityaffairs.co/wordpress/121934/hacking/jenkins-server-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the Jenkins server disclose a security breach, threat actors deployed a cryptocurrency miner on one of its servers.
+
+
+
+The development team behind the Jenkins Project disclosed a security breach after threat actors compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Arrest Another TrickBot Gang Member in South Korea<a href="https://threatpost.com/authorities-arrest-trickbot-member/169236/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker known only as “Mr. A” was picked up by authorities at a South Korean airport after getting stuck in the country due to COVID-19 travel restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Office documents make up 43% of all malware downloads<a href="https://www.hackread.com/malicious-office-documents-malware-downloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Office documents help hundreds of millions of users in their daily tasks around the globe. At the same time, these documents are a lucrative way for cybercriminals to distribute malware.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker gang threatens to leak data if victim contacts law enforcement<a href="https://securityaffairs.co/wordpress/121924/cyber-crime/ragnar-locker-threatens-victims-fbi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware operators threaten to leak stolen data if the victims attempt to contact law enforcement agencies. 
+
+
+
+The Ragnar Locker ransomware gang is adopting a new technique to force victims to pay the ransom, the operators threaten...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holy Grail of Security: Answers to ‘Did XYZ Work?’ – Podcast<a href="https://threatpost.com/holy-grail-of-security-answers-to-did-xyz-work-podcast/169192/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon DBIR is already funny, useful & well-written, and it just got better with mapping to MITRE ATT&CK TTPs. The marriage could finally bring answers to “What are we doing right?” instead of the constant reminders of what’s not working in fending off threats. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Details of 8,700 French Visa Applicants Gets Exposed by Attackers<a href="https://www.connexionfrance.com/French-news/Personal-details-of-8-700-French-visa-applicants-exposed-by-hackers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French government said that the cyberattack was ‘quickly neutralised’ but that individuals’ names, dates of birth, passport and identity card numbers had been exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Connexion France
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail logged IP address of French activist after foreign request approved by Swiss authorities<a href="https://securityaffairs.co/wordpress/121916/digital-id/protonmail-logged-ip-activist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A police report revealed that the popular encrypted email service provider ProtonMail shared the IP address of a French activist with the authorities.
+
+
+
+The privacy friendly end-to-end encrypted email service provider ProtonMail has shared the IP address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Project Discloses Security Breach Involving Confluence Server Exploit<a href="https://therecord.media/jenkins-project-discloses-security-breach-following-confluence-server-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the discovery of the hack, Jenkins developers said they permanently took down the hacked Confluence server, rotated privileged credentials, and reset passwords for developer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golden SAML Attack - APT Hackers Hijacking Active Directory Server<a href="https://gbhackers.com/golden-saml-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After detecting this attack and conducting an investigation, security analysts came to know that this attack operates by a threat actor hijacking, or obtaining access to the AD FS server.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware found pre-installed in cheap push-button mobile phones sold in Russia<a href="https://securityaffairs.co/wordpress/121887/mobile-2/push-button-mobile-phones-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian security researcher that goes online with the name of ValdikSS has found malware preinstalled in four low-budget push-button mobile phones available for sale on Russian e-stores.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is the perfect ransomware victim, according to cybercriminals<a href="https://www.zdnet.com/article/this-is-the-perfect-ransomware-victim-according-to-cybercriminals/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new KELA report analyzed listings made by ransomware operators in the dark web, including access requests revealing that many want to break into US firms with a minimum revenue of over $100 million.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chainsaw tool helps IR teams analyze Windows event logs<a href="https://www.bleepingcomputer.com/news/security/new-chainsaw-tool-helps-ir-teams-analyze-windows-event-logs/"> Full Text</a>
@@ -50,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This NPM package with millions of weekly downloads has fixed a remote code execution flaw<a href="https://www.zdnet.com/article/this-npm-package-with-millions-of-weekly-downloads-has-fixed-a-remote-code-execution-flaw/?&web_view=true"> Full Text</a>
@@ -66,7 +302,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProtonMail Shares Activist's IP Address With Authorities Despite Its "No Log" Claims<a href="https://thehackernews.com/2021/09/protonmail-shares-activists-ip-address.html"> Full Text</a>
@@ -82,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot gang developer arrested at the Seoul international airport<a href="https://securityaffairs.co/wordpress/121909/cyber-crime/trickbot-gang-developer-arrested.html"> Full Text</a>
@@ -106,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot gang developer arrested when trying to leave Korea<a href="https://www.bleepingcomputer.com/news/security/trickbot-gang-developer-arrested-when-trying-to-leave-korea/"> Full Text</a>
@@ -122,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German foreign ministry: Russia responsible for cyber attacks on German parliament<a href="https://www.reuters.com/world/europe/russia-responsible-cyber-attacks-german-parliament-german-foreign-ministry-2021-09-06/?&web_view=true"> Full Text</a>
@@ -138,7 +374,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Traffic Exchange Networks Distributing Malware Disguised as Cracked Software<a href="https://thehackernews.com/2021/09/traffic-exchange-networks-distributing.html"> Full Text</a>
@@ -154,7 +390,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear addresses severe security flaws in 20 of its products<a href="https://securityaffairs.co/wordpress/121899/security/netgear-vulnerabilities.html"> Full Text</a>
@@ -174,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear fixes severe security bugs in over a dozen smart switches<a href="https://www.bleepingcomputer.com/news/security/netgear-fixes-severe-security-bugs-in-over-a-dozen-smart-switches/"> Full Text</a>
@@ -190,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish Gardai clamp down on cyber gang that attacked HSE<a href="https://www.itsecurityguru.org/2021/09/06/irish-gardai-clamp-down-on-cyber-gang-that-attacked-hse/?&web_view=true"> Full Text</a>
@@ -206,7 +442,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Auth Bypass Bug Affect NETGEAR Smart Switches — Patch and PoC Released<a href="https://thehackernews.com/2021/09/critical-auth-bypass-bug-affect-netgear.html"> Full Text</a>
@@ -222,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware found pre-installed in cheap push-button mobile phones sold in Russia<a href="https://securityaffairs.co/wordpress/121887/mobile-2/push-button-mobile-phones-malware.html"> Full Text</a>
@@ -242,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 06, 2021
+September 06, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs target companies using these criteria<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-target-companies-using-these-criteria/"> Full Text</a>
@@ -258,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks increased by 288% in H1 2021<a href="https://www.helpnetsecurity.com/2021/09/06/ransomware-attacks-increased-2021/?&web_view=true"> Full Text</a>
@@ -274,7 +510,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI IC3 warns of a spike in sextortion attacks<a href="https://securityaffairs.co/wordpress/121878/cyber-crime/fbi-ic3-sextortion.html"> Full Text</a>
@@ -294,7 +530,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pacific City Bank hit by AVOS Locker Ransomware<a href="https://securityaffairs.co/wordpress/121872/cyber-crime/pacific-city-bank-avos-locker-ransomware.html?&web_view=true"> Full Text</a>
@@ -310,7 +546,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2021
+September 6, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Quick Analysis of QakBot, a Decade-Old Threat<a href="https://cyware.com/news/a-quick-analysis-of-qakbot-a-decade-old-threat-b0f8a124"> Full Text</a>
