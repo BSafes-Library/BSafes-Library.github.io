@@ -34,6 +34,206 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares temp fix for ongoing Office 365 zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-temp-fix-for-ongoing-office-365-zero-day-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today shared mitigation for a remote code execution vulnerability in Windows that is being exploited in targeted attacks against Office 365 and Office 2019 on Windows 10.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC released for Ghostscript vulnerability that exposed Airbnb, Dropbox<a href="https://portswigger.net/daily-swig/poc-released-for-ghostscript-vulnerability-that-exposed-airbnb-dropbox?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Emil Lerner demonstrated an unpatched vulnerability for Ghostscript version 9.50 at the ZeroNights X conference in Saint Petersburg, Russia last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan House group introduces legislation to set term limit for key cyber leader<a href="https://thehill.com//policy/cybersecurity/571108-bipartisan-lawmakers-introduce-legislation-to-set-term-limit-for-key"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers rolled out legislation this week to put in place a term limit for the director of the Cybersecurity and Infrastructure Security Agency (CISA) in the wake of escalating cybersecurity incidents and turmoil in agency leadership last year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang’s servers are mysteriously online again<a href="https://securityaffairs.co/wordpress/121952/cyber-crime/revil-ransomware-gang-servers-back-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak site of the popular REvil ransomware gang is it is not clear if the group resumed operations or the FBI turned on its servers. 
+
+
+
+Today the servers of the REvil ransomware gang were back online after around two months since their shutdown....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware's servers mysteriously come back online<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-servers-mysteriously-come-back-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web servers for the REvil ransomware operation have suddenly turned back on after an almost two-month absence. It is unclear if this marks their ransomware gang's return or the servers being turned on by law enforcement.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Restaurant and Gambling Chain Dotty’s Impacted Sensitive Customer Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-restaurant-and-gambling-chain-dottys-may-have-leaked-sensitive-customer-information?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-attack on US fast food and gambling chain Dotty’s, which provides services across 175 locations, has exposed the personal data of customers, the company has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Howard University hit with ransomware attack, cancels classes<a href="https://thehill.com//homenews/state-watch/571053-howard-university-hit-with-ransomware-attack-cancels-classes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Howard University announced the cancellation of classes after being hit with a ransomware attack last week, though it said there was no evidence of personal information being stolen. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher published PoC exploit for Ghostscript zero-day<a href="https://securityaffairs.co/wordpress/121940/hacking/ghostscript-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher published the PoC exploit code for a Ghostscript zero-day vulnerability that could allow completely compromise a server. 
+
+
+
+Security researcher Nguyen The Duc published on GitHub the proof-of-concept exploit code for a Ghostscript zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins project's Confluence server hacked to mine Monero<a href="https://www.bleepingcomputer.com/news/security/jenkins-projects-confluence-server-hacked-to-mine-monero/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers exploiting the recently disclosed Atlassian Confluence remote code execution vulnerability breached an internal server from the Jenkins project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data of Millions of Moroccan Citizens Leaked Online by Cybercriminal<a href="https://www.moroccoworldnews.com/2021/09/344304/personal-data-of-2-million-moroccans-leaked-online?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-snooping into people’s personal information is a very concerning matter. According to Zataz, the intentional release of private and personal data took place on Friday night.
+</details>
+<div style="text-align: right" markdown="1">
+Morocco World News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald's leaks password for Monopoly VIP database to winners<a href="https://www.bleepingcomputer.com/news/security/mcdonalds-leaks-password-for-monopoly-vip-database-to-winners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ug in the McDonald's Monopoly VIP game in the United Kingdom caused the login names and passwords for the game's database to be sent to all winners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Howard University Investigates Alleged Ransomware Attack that Caused Network Outage<a href="https://wjla.com/news/local/howard-university-investigates-alleged-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Howard University announced Monday that they are investigating a ransomware attack. Their information technology team detected unusual activity on the school's network last Friday.
+</details>
+<div style="text-align: right" markdown="1">
+WJLA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golden SAML Attack - APT Hackers Hijacking Active Directory Server<a href="https://gbhackers.com/golden-saml-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After detecting this attack and conducting an investigation, security analysts came to know that this attack operates by a threat actor hijacking, or obtaining access to the AD FS server.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

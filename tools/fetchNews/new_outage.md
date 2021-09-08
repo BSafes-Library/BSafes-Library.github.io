@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Howard University Investigates Alleged Ransomware Attack that Caused Network Outage<a href="https://wjla.com/news/local/howard-university-investigates-alleged-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Howard University announced Monday that they are investigating a ransomware attack. Their information technology team detected unusual activity on the school's network last Friday.
+</details>
+<div style="text-align: right" markdown="1">
+WJLA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

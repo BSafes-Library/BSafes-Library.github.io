@@ -11,6 +11,48 @@ nav_order: 900029
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at US Restaurant and Gambling Chain Dotty’s Impacted Sensitive Customer Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-restaurant-and-gambling-chain-dottys-may-have-leaked-sensitive-customer-information?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber-attack on US fast food and gambling chain Dotty’s, which provides services across 175 locations, has exposed the personal data of customers, the company has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data of Millions of Moroccan Citizens Leaked Online by Cybercriminal<a href="https://www.moroccoworldnews.com/2021/09/344304/personal-data-of-2-million-moroccans-leaked-online?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber-snooping into people’s personal information is a very concerning matter. According to Zataz, the intentional release of private and personal data took place on Friday night.
+</details>
+<div style="text-align: right" markdown="1">
+Morocco World News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald's leaks password for Monopoly VIP database to winners<a href="https://www.bleepingcomputer.com/news/security/mcdonalds-leaks-password-for-monopoly-vip-database-to-winners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ug in the McDonald's Monopoly VIP game in the United Kingdom caused the login names and passwords for the game's database to be sent to all winners.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Personal Details of 8,700 French Visa Applicants Gets Exposed by Attackers<a href="https://www.connexionfrance.com/French-news/Personal-details-of-8-700-French-visa-applicants-exposed-by-hackers?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The age of AI-powered devices at the edge<a href="https://www.helpnetsecurity.com/2021/09/07/ai-powered-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is incumbent upon cybersecurity leaders to understand the issues of the edge and defend accordingly. This includes encrypting data, employing access-control methods, and creating microdata centers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Office documents make up 43% of all malware downloads<a href="https://www.hackread.com/malicious-office-documents-malware-downloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Office documents help hundreds of millions of users in their daily tasks around the globe. At the same time, these documents are a lucrative way for cybercriminals to distribute malware.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holy Grail of Security: Answers to ‘Did XYZ Work?’ – Podcast<a href="https://threatpost.com/holy-grail-of-security-answers-to-did-xyz-work-podcast/169192/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon DBIR is already funny, useful &amp; well-written, and it just got better with mapping to MITRE ATT&amp;CK TTPs. The marriage could finally bring answers to “What are we doing right?” instead of the constant reminders of what’s not working in fending off threats. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

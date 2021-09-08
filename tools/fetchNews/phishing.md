@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We Could Start Seeing Some Hurricane Ida-related Investment Scams<a href="https://heimdalsecurity.com/blog/we-could-start-seeing-hurricane-ida-related-investment-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+People should be wary to ask anyone approaching them with an investment opportunity if they’re licensed and if their investment is registered with the SEC or with a state.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware gang’s servers are mysteriously online again<a href="https://securityaffairs.co/wordpress/121952/cyber-crime/revil-ransomware-gang-servers-back-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak site of the popular REvil ransomware gang is it is not clear if the group resumed operations or the FBI turned on its servers. 
+
+
+
+Today the servers of the REvil ransomware gang were back online after around two months since their shutdown....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aussie Researcher Fakes Digital COVID-19 Vaccination Proof<a href="https://www.govinfosecurity.com/aussie-researcher-fakes-digital-covid-19-vaccination-proof-a-17468?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian software engineer Richard Nelson is warning that he was able to create a fake digital COVID-19 vaccine certificate via the government's Express Medicare Plus app.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

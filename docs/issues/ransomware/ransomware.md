@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware's servers mysteriously come back online<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-servers-mysteriously-come-back-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web servers for the REvil ransomware operation have suddenly turned back on after an almost two-month absence. It is unclear if this marks their ransomware gang's return or the servers being turned on by law enforcement.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
