@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Howard University shuts down network after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/howard-university-shuts-down-network-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private Howard University in Washington disclosed that it suffered a ransomware attack late last week and is currently working to restore affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand Banks, Post Office Suffer Network Outages After Disruptive DDoS Attack<a href="https://www.reuters.com/world/asia-pacific/new-zealand-banks-post-office-hit-by-outages-apparent-cyber-attack-2021-09-08/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites of a number of financial institutions in New Zealand and its national postal service were briefly down on Wednesday, with officials saying they were battling a cyber attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

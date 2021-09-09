@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research finds Chinese influence group trying to mobilize US COVID-19 protests<a href="https://thehill.com//policy/cybersecurity/571288-research-finds-chinese-influence-group-trying-to-mobilize-us-covid-19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wide-ranging&nbsp;pro-China influence group is attempting to use social media platforms and other forums to mobilize physical protests around COVID-19 concerns in the United States, research released Wednesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

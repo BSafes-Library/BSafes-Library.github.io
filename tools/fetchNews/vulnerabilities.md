@@ -11,6 +11,52 @@ nav_order: 900220
 September 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares temp fix for ongoing Office 365 zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-temp-fix-for-ongoing-office-365-zero-day-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today shared mitigation for a remote code execution vulnerability in Windows that is being exploited in targeted attacks against Office 365 and Office 2019 on Windows 10.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC released for Ghostscript vulnerability that exposed Airbnb, Dropbox<a href="https://portswigger.net/daily-swig/poc-released-for-ghostscript-vulnerability-that-exposed-airbnb-dropbox?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Emil Lerner demonstrated an unpatched vulnerability for Ghostscript version 9.50 at the ZeroNights X conference in Saint Petersburg, Russia last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher published PoC exploit for Ghostscript zero-day<a href="https://securityaffairs.co/wordpress/121940/hacking/ghostscript-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher published the PoC exploit code for a Ghostscript zero-day vulnerability that could allow completely compromise a server. 
+
+
+
+Security researcher&nbsp;Nguyen The Duc published on GitHub the proof-of-concept exploit code for a Ghostscript zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Latest Atlassian Confluence Flaw Exploited to Breach Jenkins Project Server<a href="https://thehackernews.com/2021/09/latest-atlassian-confluence-flaw.html"> Full Text</a>
 </p>
 <details>

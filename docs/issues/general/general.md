@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Ebook] The Guide for Speeding Time to Response for Lean IT Security Teams<a href="https://thehackernews.com/2021/09/ebook-guide-for-speeding-time-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most cyber security today involves much more planning, and much less reacting than in the past. Security teams spend most of their time preparing their organizations' defenses and doing operational work. Even so, teams often must quickly spring into action to respond to an attack.  Security teams with copious resources can quickly shift between these two modes. They have enough resources to allocate to respond properly. Lean IT security teams, however, are more hard-pressed to react effectively. A new guide by XDR provider Cynet ( download here ), however, argues that lean teams can still respond effectively. It just takes some work.&nbsp;  For teams that are resource-constrained, success starts with having a clear plan and putting the tools and infrastructure in place for the organization to follow properly. The guide breaks down the tools, factors, and knowledge that go into optimizing an organization's time to respond.&nbsp;  Building a successful incident response plan  Today's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In space, no one can hear cyber security professionals scream<a href="https://www.theregister.com/2021/09/02/in_space_no_security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Space is an invaluable domain, but it is also increasingly crowded and particularly susceptible to a range of cyber vulnerabilities and threats," Managing director of The Aerospace Corp UK said.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

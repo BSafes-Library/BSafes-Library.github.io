@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian extradited for selling 2,000 stolen logins per week<a href="https://www.bleepingcomputer.com/news/security/ukrainian-extradited-for-selling-2-000-stolen-logins-per-week/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DEV-0322 Behind the SolarWinds Zero-Day Attacks in July<a href="https://cyware.com/news/dev-0322-behind-the-solarwinds-zero-day-attacks-in-july-e4fca83a"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of hackers exploiting Windows vulnerability<a href="https://thehill.com//policy/cybersecurity/571380-microsoft-warns-of-hackers-exploiting-windows-vulnerability"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Ways to Secure SAP SuccessFactors and Stay Compliant<a href="https://thehackernews.com/2021/09/3-ways-to-secure-sap-successfactors-and.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress Is Warning That the Federal Government Remains Vulnerable to Cyberattacks<a href="https://www.lawfareblog.com/congress-warning-federal-government-remains-vulnerable-cyberattacks"> Full Text</a>
@@ -115,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal information of 7 million Israelis available for sale<a href="https://securityaffairs.co/wordpress/121984/breaking-news/israelis-data-online.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tooling Network Detection & Response for Ransomware<a href="https://threatpost.com/network-detection-response-ransomware/169290/"> Full Text</a>
@@ -151,7 +151,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho patches actively exploited critical ADSelfService Plus bug<a href="https://www.bleepingcomputer.com/news/security/zoho-patches-actively-exploited-critical-adselfservice-plus-bug/"> Full Text</a>
@@ -167,7 +167,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thailand: Hacker steals 40,000 patients' data from Bangkok hospital<a href="https://www.bangkokpost.com/thailand/general/2178503/hacker-steals-40-000-patients-data-from-kidney-hospital?&web_view=true"> Full Text</a>
@@ -183,7 +183,7 @@ Bangkok Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian extradited to US for allegedly selling computer credentials: DOJ<a href="https://thehill.com//policy/cybersecurity/571353-ukrainian-extradited-to-us-in-conspiracy-to-decrypt-computer-log-in"> Full Text</a>
@@ -199,7 +199,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HAProxy Found Vulnerable to Critical HTTP Request Smuggling Attack<a href="https://thehackernews.com/2021/09/haproxy-found-vulnerable-to-critical.html"> Full Text</a>
@@ -215,7 +215,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Groove gang leaks list of 500k credentials of compromised Fortinet appliances<a href="https://securityaffairs.co/wordpress/121985/cyber-crime/groove-gang-fortinet-leaks.html"> Full Text</a>
@@ -235,7 +235,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak passwords for 500,000 Fortinet VPN accounts<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-passwords-for-500-000-fortinet-vpn-accounts/"> Full Text</a>
@@ -251,7 +251,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas Right to Life website exposed job applicants’ resumes<a href="https://techcrunch.com/2021/09/07/texas-right-to-life-website-exposed-job-applicants-resumes/?&web_view=true"> Full Text</a>
@@ -267,7 +267,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers question impact of SolarWinds hack on US attorneys' offices<a href="https://thehill.com//policy/cybersecurity/571335-lawmakers-question-impact-of-solarwinds-hack-on-us-attorneys-offices"> Full Text</a>
@@ -283,7 +283,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Mobile Spyware Attacks Targeting Kurdish Ethnic Group<a href="https://thehackernews.com/2021/09/experts-uncover-mobile-spyware-attacks.html"> Full Text</a>
@@ -299,7 +299,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian communications watchdog Roskomnadzor blocks access to 6 VPNs<a href="https://securityaffairs.co/wordpress/121979/intelligence/russian-roskomnadzor-blocks-vpns.html"> Full Text</a>
@@ -319,7 +319,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Howard University shuts down network after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/howard-university-shuts-down-network-after-ransomware-attack/"> Full Text</a>
@@ -335,7 +335,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Email Fraud Campaigns Using Social Engineering Tactics to Steal Crypto Assets<a href="https://www.proofpoint.com/us/blog/threat-insight/advance-fee-fraud-emergence-elaborate-crypto-schemes?&web_view=true"> Full Text</a>
@@ -351,7 +351,7 @@ Proofpoint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Research finds Chinese influence group trying to mobilize US COVID-19 protests<a href="https://thehill.com//policy/cybersecurity/571288-research-finds-chinese-influence-group-trying-to-mobilize-us-covid-19"> Full Text</a>
@@ -367,7 +367,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [Ebook] The Guide for Speeding Time to Response for Lean IT Security Teams<a href="https://thehackernews.com/2021/09/ebook-guide-for-speeding-time-to.html"> Full Text</a>
@@ -383,7 +383,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of a zero-day in Internet Explorer that is actively exploited<a href="https://securityaffairs.co/wordpress/121964/security/microsoft-zero-day.html"> Full Text</a>
@@ -403,7 +403,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Going beyond backup: Acronis True Image is now Acronis Cyber Protect Home Office<a href="https://www.bleepingcomputer.com/news/security/going-beyond-backup-acronis-true-image-is-now-acronis-cyber-protect-home-office/"> Full Text</a>
@@ -419,7 +419,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bridgeport city government hacked, residents put on notice<a href="https://wajr.com/bridgeport-city-government-hacked-residents-put-on-notice/?&web_view=true"> Full Text</a>
@@ -435,7 +435,7 @@ WAJR
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany protests to Russia over attacks ahead of the upcoming election<a href="https://securityaffairs.co/wordpress/121958/intelligence/germany-protests-to-russia-attacks.html"> Full Text</a>
@@ -455,7 +455,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Uses Chimaera Malware Bundle in Stealthy New Campaign<a href="https://www.theregister.com/2021/09/08/att_alien_labs_warns_of/?&web_view=true"> Full Text</a>
@@ -471,7 +471,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Machine learning technique detects phishing sites based on markup visualization<a href="https://portswigger.net/daily-swig/machine-learning-technique-detects-phishing-sites-based-on-markup-visualization?&web_view=true"> Full Text</a>
@@ -487,7 +487,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In space, no one can hear cyber security professionals scream<a href="https://www.theregister.com/2021/09/02/in_space_no_security/?&web_view=true"> Full Text</a>
@@ -503,7 +503,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zealand Banks, Post Office Suffer Network Outages After Disruptive DDoS Attack<a href="https://www.reuters.com/world/asia-pacific/new-zealand-banks-post-office-hit-by-outages-apparent-cyber-attack-2021-09-08/?&web_view=true"> Full Text</a>
@@ -519,7 +519,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker Gang Warns Victims Not to Call the FBI<a href="https://threatpost.com/ragnar-locker-gang-dont-call-fbi-police/169266/"> Full Text</a>
@@ -535,7 +535,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Smart Switches Open to Complete Takeover<a href="https://threatpost.com/netgear-smart-switches-takeover/169259/"> Full Text</a>
@@ -551,7 +551,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins Hit as Atlassian Confluence Cyberattacks Widen<a href="https://threatpost.com/jenkins-atlassian-confluence-cyberattacks/169249/"> Full Text</a>
@@ -567,7 +567,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2021
+September 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 0-Day Attack Targeting Windows Users With Microsoft Office Documents<a href="https://thehackernews.com/2021/09/new-0-day-attack-targeting-windows.html"> Full Text</a>
@@ -583,7 +583,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProtonMail Forced to Log IP Address of French Activist<a href="https://threatpost.com/protonmail-log-ip-address-french-activist/169242/"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Going beyond backup: Acronis True Image is now Acronis Cyber Protect Home Office<a href="https://www.bleepingcomputer.com/news/security/going-beyond-backup-acronis-true-image-is-now-acronis-cyber-protect-home-office/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After nearly two decades, one of the most recognizable software brands is getting a new name. Acronis True Image, the leading personal cyber protection solution, is changing its name to Acronis Cyber Protect Home Office.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

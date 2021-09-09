@@ -11,6 +11,20 @@ nav_order: 900165
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail Forced to Log IP Address of French Activist<a href="https://threatpost.com/protonmail-log-ip-address-french-activist/169242/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The privacy-touting, end-to-end encrypted email provider erased its site’s “we don’t log your IP” boast after France sicced Swiss cops on it. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ProtonMail logged IP address of French activist after foreign request approved by Swiss authorities<a href="https://securityaffairs.co/wordpress/121916/digital-id/protonmail-logged-ip-activist.html"> Full Text</a>
 </p>
 <details>

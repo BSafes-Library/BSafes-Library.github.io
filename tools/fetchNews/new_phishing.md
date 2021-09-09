@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Machine learning technique detects phishing sites based on markup visualization<a href="https://portswigger.net/daily-swig/machine-learning-technique-detects-phishing-sites-based-on-markup-visualization?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique uses “binary visualization” libraries to transform the markup and code of web pages into images. Using this method, they created a dataset of legitimate and phishing images of websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of hackers exploiting Windows vulnerability<a href="https://thehill.com//policy/cybersecurity/571380-microsoft-warns-of-hackers-exploiting-windows-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft this week warned that hackers are actively exploiting a vulnerability in its Windows program, urging customers to take steps to shore up security.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Uses Chimaera Malware Bundle in Stealthy New Campaign<a href="https://www.theregister.com/2021/09/08/att_alien_labs_warns_of/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T's Alien Labs has sounded the alarm on a malware campaign from TeamTNT which has gone almost entirely undetected by anti-virus and which is turning target devices into cryptocurrency miners.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

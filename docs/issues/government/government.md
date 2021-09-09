@@ -8,6 +8,70 @@ nav_order: 900075
 
 ## Government
 ---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Is Warning That the Federal Government Remains Vulnerable to Cyberattacks<a href="https://www.lawfareblog.com/congress-warning-federal-government-remains-vulnerable-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the U.S. government spending more than $16 billion, new technologies and programs may be needed.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers question impact of SolarWinds hack on US attorneys' offices<a href="https://thehill.com//policy/cybersecurity/571335-lawmakers-question-impact-of-solarwinds-hack-on-us-attorneys-offices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of House and Senate lawmakers from Florida are looking for answers around the&nbsp;effect of last year’s SolarWinds breach on U.S. Attorneys’ Offices (USAOs) and on the way the Justice Department approaches cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian communications watchdog Roskomnadzor blocks access to 6 VPNs<a href="https://securityaffairs.co/wordpress/121979/intelligence/russian-roskomnadzor-blocks-vpns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian communications watchdog Roskomnadzor tightens control of its citizens and blocked access to six virtual private networks (VPNs), including NordVPN and ExpressVPN.
+
+
+
+Russian communications watchdog Roskomnadzor tightens the control over the Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany protests to Russia over attacks ahead of the upcoming election<a href="https://securityaffairs.co/wordpress/121958/intelligence/germany-protests-to-russia-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany has protested to Russia over attempts to steal data from lawmakers and use them to spread disinformation ahead of the upcoming election.
+
+
+
+Germany has formally protested to Russia over a series of cyber attacks aimed at stealing data from lawmakers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Ways to Secure SAP SuccessFactors and Stay Compliant<a href="https://thehackernews.com/2021/09/3-ways-to-secure-sap-successfactors-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The work-from-anywhere economy has opened up the possibility for your human resources team to source the best talent from anywhere. To scale their operations, organizations are leveraging the cloud to accelerate essential HR functions such as recruiting, onboarding, evaluating, and more.  SAP is leading this HR transformation with its human capital management (HCM) solution, SAP SuccessFactors. Delivering HR solutions from the cloud enables employees and administrators to not only automate typical tasks, such as providing a report on employee attrition, but also allows them to complete these tasks from anywhere and on any device.  SuccessFactors makes it easy for employees to access what they need. But the wide range of sensitive employee data within SuccessFactors creates additional security and compliance challenges. Whether it's personal and financial information used for payroll or health information for benefits, you need the right cybersecurity to ensure that sensitive data,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tooling Network Detection &amp; Response for Ransomware<a href="https://threatpost.com/network-detection-response-ransomware/169290/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Jett, director of audit and compliance at Plixer, discusses how to effectively use network flow data in the fight against ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

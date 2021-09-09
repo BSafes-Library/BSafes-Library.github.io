@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan House group introduces legislation to set term limit for key cyber leader<a href="https://thehill.com//policy/cybersecurity/571108-bipartisan-lawmakers-introduce-legislation-to-set-term-limit-for-key"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of bipartisan House lawmakers rolled out legislation this week to put in place a term limit for the director of the Cybersecurity and Infrastructure Security Agency (CISA) in the wake of escalating cybersecurity incidents and turmoil in agency leadership last year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

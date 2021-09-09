@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Mobile Spyware Attacks Targeting Kurdish Ethnic Group<a href="https://thehackernews.com/2021/09/experts-uncover-mobile-spyware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday released new findings that reveal a year-long mobile espionage campaign against the Kurdish ethnic group to deploy two Android backdoors that masquerade as legitimate apps.  Active since at least March 2020, the attacks leveraged as many as six dedicated Facebook profiles that claimed to offer tech and pro-Kurd content — two aimed at Android users while the other four appeared to provide news for the Kurdish supporters — only to share links to spying apps on public Facebook groups. All the six profiles have since been taken down.  "It targeted the Kurdish ethnic group through at least 28 malicious Facebook posts that would lead potential victims to download Android 888 RAT or SpyNote," ESET researcher Lukas Stefanko&nbsp; said . "Most of the malicious Facebook posts led to downloads of the commercial, multi-platform 888 RAT, which has been available on the black market since 2018."   The Slovakian cybersecurity firm attributed the at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Email Fraud Campaigns Using Social Engineering Tactics to Steal Crypto Assets<a href="https://www.proofpoint.com/us/blog/threat-insight/advance-fee-fraud-emergence-elaborate-crypto-schemes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims are tempted by the promise of a considerable amount of cryptocurrency. Cashing out the full balance requires them to deposit some Bitcoin to the platform, which is the point of the scheme.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bridgeport city government hacked, residents put on notice<a href="https://wajr.com/bridgeport-city-government-hacked-residents-put-on-notice/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Residents of Bridgeport have been notified city government was hacked in late May of this year. A letter to residents said city IT systems were encrypted in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+WAJR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Hit as Atlassian Confluence Cyberattacks Widen<a href="https://threatpost.com/jenkins-atlassian-confluence-cyberattacks/169249/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patch now: The popular biz-collaboration platform is seeing mass scanning and exploitation just two weeks after a critical RCE bug was disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal information of 7 million Israelis available for sale<a href="https://securityaffairs.co/wordpress/121984/breaking-news/israelis-data-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor that goes online with the moniker 'Sangkancil' claims to have stolen the personal information of 7 million Israelis. 
+
+
+
+A threat actor that goes online with the moniker 'Sangkancil' claims to have stolen the personal information of 7 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak passwords for 500,000 Fortinet VPN accounts<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-passwords-for-500-000-fortinet-vpn-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has leaked a list of almost 500,000 Fortinet&nbsp;VPN login names and passwords that were allegedly scraped from exploitable devices last summer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Right to Life website exposed job applicants’ resumes<a href="https://techcrunch.com/2021/09/07/texas-right-to-life-website-exposed-job-applicants-resumes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We are taking action to protect the concerned individuals,” said a spokesperson for Texas Right to Life, told TechCrunch, referring to those who “sought and circulated the information.”
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

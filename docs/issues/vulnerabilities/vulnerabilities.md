@@ -8,6 +8,95 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0322 Behind the SolarWinds Zero-Day Attacks in July<a href="https://cyware.com/news/dev-0322-behind-the-solarwinds-zero-day-attacks-in-july-e4fca83a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, experts identified a severe zero-day RCE exploit aimed at SolarWinds Serv-U FTP software. Researchers have now linked a limited and highly targeted attack on SolarWinds with a Chinese actor dubbed DEV-0322. Flaws in SolarWinds products have been exploited by Chinese threat actors even e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho patches actively exploited critical ADSelfService Plus bug<a href="https://www.bleepingcomputer.com/news/security/zoho-patches-actively-exploited-critical-adselfservice-plus-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting a critical vulnerability in Zoho's ManageEngine ADSelfService Plus password management solution that allows them to take control of the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HAProxy Found Vulnerable to Critical HTTP Request Smuggling Attack<a href="https://thehackernews.com/2021/09/haproxy-found-vulnerable-to-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in&nbsp; HAProxy , a widely used open-source load balancer and proxy server, that could be abused by an adversary to possibly smuggle HTTP requests, resulting in unauthorized access to sensitive data and execution of arbitrary commands, effectively opening the door to an array of attacks.  Tracked as&nbsp; CVE-2021-40346 , the Integer Overflow vulnerability has a severity rating of 8.6 on the CVSS scoring system and has been rectified in HAProxy versions 2.0.25, 2.2.17, 2.3.14 and 2.4.4.  HTTP Request Smuggling, as the name implies, is a web application attack that tampers the manner a website processes sequences of HTTP requests received from more than one user. Also called HTTP desynchronization, the technique takes advantage of parsing inconsistencies in how front-end servers and back-end servers process requests from the senders.   Front-end servers are typically load balancers or reverse proxies that are used by websites to manage a chai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a zero-day in Internet Explorer that is actively exploited<a href="https://securityaffairs.co/wordpress/121964/security/microsoft-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a zero-day vulnerability in Internet Explorer that is actively exploited by threat actors using weaponized Office docs. 
+
+
+
+Microsoft warns of a zero-day vulnerability (CVE-2021-40444) in Internet Explorer that is actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Smart Switches Open to Complete Takeover<a href="https://threatpost.com/netgear-smart-switches-takeover/169259/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Demon’s Cries, Draconian Fear and Seventh Inferno security bugs are high-severity entryways to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 0-Day Attack Targeting Windows Users With Microsoft Office Documents<a href="https://thehackernews.com/2021/09/new-0-day-attack-targeting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday warned of an actively exploited zero-day flaw impacting Internet Explorer that's being used to hijack vulnerable Windows systems by leveraging weaponized Office documents.  Tracked as CVE-2021-40444 (CVSS score: 8.8), the remote code execution flaw is rooted in MSHTML (aka Trident), a proprietary browser engine for the now-discontinued Internet Explorer and which is used in Office to render web content inside Word, Excel, and PowerPoint documents.  "Microsoft is investigating reports of a remote code execution vulnerability in MSHTML that affects Microsoft Windows. Microsoft is aware of targeted attacks that attempt to exploit this vulnerability by using specially-crafted Microsoft Office documents," the company&nbsp; said .   "An attacker could craft a malicious ActiveX control to be used by a Microsoft Office document that hosts the browser rendering engine. The attacker would then have to convince the user to open the malicious document. Users who
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
