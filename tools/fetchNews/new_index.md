@@ -34,7 +34,572 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian extradited for selling 2,000 stolen logins per week<a href="https://www.bleepingcomputer.com/news/security/ukrainian-extradited-for-selling-2-000-stolen-logins-per-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has indicted a Ukrainian man for using a malware botnet to brute force computer logon credentials and then selling them on a criminal remote access marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0322 Behind the SolarWinds Zero-Day Attacks in July<a href="https://cyware.com/news/dev-0322-behind-the-solarwinds-zero-day-attacks-in-july-e4fca83a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, experts identified a severe zero-day RCE exploit aimed at SolarWinds Serv-U FTP software. Researchers have now linked a limited and highly targeted attack on SolarWinds with a Chinese actor dubbed DEV-0322. Flaws in SolarWinds products have been exploited by Chinese threat actors even e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of hackers exploiting Windows vulnerability<a href="https://thehill.com//policy/cybersecurity/571380-microsoft-warns-of-hackers-exploiting-windows-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft this week warned that hackers are actively exploiting a vulnerability in its Windows program, urging customers to take steps to shore up security.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Ways to Secure SAP SuccessFactors and Stay Compliant<a href="https://thehackernews.com/2021/09/3-ways-to-secure-sap-successfactors-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The work-from-anywhere economy has opened up the possibility for your human resources team to source the best talent from anywhere. To scale their operations, organizations are leveraging the cloud to accelerate essential HR functions such as recruiting, onboarding, evaluating, and more.  SAP is leading this HR transformation with its human capital management (HCM) solution, SAP SuccessFactors. Delivering HR solutions from the cloud enables employees and administrators to not only automate typical tasks, such as providing a report on employee attrition, but also allows them to complete these tasks from anywhere and on any device.  SuccessFactors makes it easy for employees to access what they need. But the wide range of sensitive employee data within SuccessFactors creates additional security and compliance challenges. Whether it's personal and financial information used for payroll or health information for benefits, you need the right cybersecurity to ensure that sensitive data,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Is Warning That the Federal Government Remains Vulnerable to Cyberattacks<a href="https://www.lawfareblog.com/congress-warning-federal-government-remains-vulnerable-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the U.S. government spending more than $16 billion, new technologies and programs may be needed.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal information of 7 million Israelis available for sale<a href="https://securityaffairs.co/wordpress/121984/breaking-news/israelis-data-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor that goes online with the moniker 'Sangkancil' claims to have stolen the personal information of 7 million Israelis. 
+
+
+
+A threat actor that goes online with the moniker 'Sangkancil' claims to have stolen the personal information of 7 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tooling Network Detection & Response for Ransomware<a href="https://threatpost.com/network-detection-response-ransomware/169290/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Jett, director of audit and compliance at Plixer, discusses how to effectively use network flow data in the fight against ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho patches actively exploited critical ADSelfService Plus bug<a href="https://www.bleepingcomputer.com/news/security/zoho-patches-actively-exploited-critical-adselfservice-plus-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting a critical vulnerability in Zoho's ManageEngine ADSelfService Plus password management solution that allows them to take control of the system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thailand: Hacker steals 40,000 patients' data from Bangkok hospital<a href="https://www.bangkokpost.com/thailand/general/2178503/hacker-steals-40-000-patients-data-from-kidney-hospital?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal details of more than 40,000 patients at Bhumirajanagarindra Kidney Institute Hospital have been stolen by a hacker, hospital director Thirachai Chantharotsiri said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Bangkok Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian extradited to US for allegedly selling computer credentials: DOJ<a href="https://thehill.com//policy/cybersecurity/571353-ukrainian-extradited-to-us-in-conspiracy-to-decrypt-computer-log-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) announced Wednesday that a Ukrainian hacker was extradited to the U.S. for allegedly selling computer passwords on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HAProxy Found Vulnerable to Critical HTTP Request Smuggling Attack<a href="https://thehackernews.com/2021/09/haproxy-found-vulnerable-to-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in  HAProxy , a widely used open-source load balancer and proxy server, that could be abused by an adversary to possibly smuggle HTTP requests, resulting in unauthorized access to sensitive data and execution of arbitrary commands, effectively opening the door to an array of attacks.  Tracked as  CVE-2021-40346 , the Integer Overflow vulnerability has a severity rating of 8.6 on the CVSS scoring system and has been rectified in HAProxy versions 2.0.25, 2.2.17, 2.3.14 and 2.4.4.  HTTP Request Smuggling, as the name implies, is a web application attack that tampers the manner a website processes sequences of HTTP requests received from more than one user. Also called HTTP desynchronization, the technique takes advantage of parsing inconsistencies in how front-end servers and back-end servers process requests from the senders.   Front-end servers are typically load balancers or reverse proxies that are used by websites to manage a chai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove gang leaks list of 500k credentials of compromised Fortinet appliances<a href="https://securityaffairs.co/wordpress/121985/cyber-crime/groove-gang-fortinet-leaks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Groove gang leaked online Fortinet credentials that could be used to breach networks of organizations using the compromised devices.
+
+
+
+The financially motivated threat actor Groove has leaked online compromised credentials belonging to many organizations....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak passwords for 500,000 Fortinet VPN accounts<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-passwords-for-500-000-fortinet-vpn-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has leaked a list of almost 500,000 Fortinet VPN login names and passwords that were allegedly scraped from exploitable devices last summer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas Right to Life website exposed job applicants’ resumes<a href="https://techcrunch.com/2021/09/07/texas-right-to-life-website-exposed-job-applicants-resumes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We are taking action to protect the concerned individuals,” said a spokesperson for Texas Right to Life, told TechCrunch, referring to those who “sought and circulated the information.”
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers question impact of SolarWinds hack on US attorneys' offices<a href="https://thehill.com//policy/cybersecurity/571335-lawmakers-question-impact-of-solarwinds-hack-on-us-attorneys-offices"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of House and Senate lawmakers from Florida are looking for answers around the effect of last year’s SolarWinds breach on U.S. Attorneys’ Offices (USAOs) and on the way the Justice Department approaches cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Mobile Spyware Attacks Targeting Kurdish Ethnic Group<a href="https://thehackernews.com/2021/09/experts-uncover-mobile-spyware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday released new findings that reveal a year-long mobile espionage campaign against the Kurdish ethnic group to deploy two Android backdoors that masquerade as legitimate apps.  Active since at least March 2020, the attacks leveraged as many as six dedicated Facebook profiles that claimed to offer tech and pro-Kurd content — two aimed at Android users while the other four appeared to provide news for the Kurdish supporters — only to share links to spying apps on public Facebook groups. All the six profiles have since been taken down.  "It targeted the Kurdish ethnic group through at least 28 malicious Facebook posts that would lead potential victims to download Android 888 RAT or SpyNote," ESET researcher Lukas Stefanko  said . "Most of the malicious Facebook posts led to downloads of the commercial, multi-platform 888 RAT, which has been available on the black market since 2018."   The Slovakian cybersecurity firm attributed the at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian communications watchdog Roskomnadzor blocks access to 6 VPNs<a href="https://securityaffairs.co/wordpress/121979/intelligence/russian-roskomnadzor-blocks-vpns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian communications watchdog Roskomnadzor tightens control of its citizens and blocked access to six virtual private networks (VPNs), including NordVPN and ExpressVPN.
+
+
+
+Russian communications watchdog Roskomnadzor tightens the control over the Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Howard University shuts down network after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/howard-university-shuts-down-network-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private Howard University in Washington disclosed that it suffered a ransomware attack late last week and is currently working to restore affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Email Fraud Campaigns Using Social Engineering Tactics to Steal Crypto Assets<a href="https://www.proofpoint.com/us/blog/threat-insight/advance-fee-fraud-emergence-elaborate-crypto-schemes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims are tempted by the promise of a considerable amount of cryptocurrency. Cashing out the full balance requires them to deposit some Bitcoin to the platform, which is the point of the scheme.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research finds Chinese influence group trying to mobilize US COVID-19 protests<a href="https://thehill.com//policy/cybersecurity/571288-research-finds-chinese-influence-group-trying-to-mobilize-us-covid-19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wide-ranging pro-China influence group is attempting to use social media platforms and other forums to mobilize physical protests around COVID-19 concerns in the United States, research released Wednesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[Ebook] The Guide for Speeding Time to Response for Lean IT Security Teams<a href="https://thehackernews.com/2021/09/ebook-guide-for-speeding-time-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most cyber security today involves much more planning, and much less reacting than in the past. Security teams spend most of their time preparing their organizations' defenses and doing operational work. Even so, teams often must quickly spring into action to respond to an attack.  Security teams with copious resources can quickly shift between these two modes. They have enough resources to allocate to respond properly. Lean IT security teams, however, are more hard-pressed to react effectively. A new guide by XDR provider Cynet ( download here ), however, argues that lean teams can still respond effectively. It just takes some work.   For teams that are resource-constrained, success starts with having a clear plan and putting the tools and infrastructure in place for the organization to follow properly. The guide breaks down the tools, factors, and knowledge that go into optimizing an organization's time to respond.   Building a successful incident response plan  Today's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of a zero-day in Internet Explorer that is actively exploited<a href="https://securityaffairs.co/wordpress/121964/security/microsoft-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a zero-day vulnerability in Internet Explorer that is actively exploited by threat actors using weaponized Office docs. 
+
+
+
+Microsoft warns of a zero-day vulnerability (CVE-2021-40444) in Internet Explorer that is actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Going beyond backup: Acronis True Image is now Acronis Cyber Protect Home Office<a href="https://www.bleepingcomputer.com/news/security/going-beyond-backup-acronis-true-image-is-now-acronis-cyber-protect-home-office/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After nearly two decades, one of the most recognizable software brands is getting a new name. Acronis True Image, the leading personal cyber protection solution, is changing its name to Acronis Cyber Protect Home Office. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bridgeport city government hacked, residents put on notice<a href="https://wajr.com/bridgeport-city-government-hacked-residents-put-on-notice/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Residents of Bridgeport have been notified city government was hacked in late May of this year. A letter to residents said city IT systems were encrypted in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+WAJR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany protests to Russia over attacks ahead of the upcoming election<a href="https://securityaffairs.co/wordpress/121958/intelligence/germany-protests-to-russia-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany has protested to Russia over attempts to steal data from lawmakers and use them to spread disinformation ahead of the upcoming election.
+
+
+
+Germany has formally protested to Russia over a series of cyber attacks aimed at stealing data from lawmakers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Uses Chimaera Malware Bundle in Stealthy New Campaign<a href="https://www.theregister.com/2021/09/08/att_alien_labs_warns_of/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T's Alien Labs has sounded the alarm on a malware campaign from TeamTNT which has gone almost entirely undetected by anti-virus and which is turning target devices into cryptocurrency miners.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Machine learning technique detects phishing sites based on markup visualization<a href="https://portswigger.net/daily-swig/machine-learning-technique-detects-phishing-sites-based-on-markup-visualization?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique uses “binary visualization” libraries to transform the markup and code of web pages into images. Using this method, they created a dataset of legitimate and phishing images of websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In space, no one can hear cyber security professionals scream<a href="https://www.theregister.com/2021/09/02/in_space_no_security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Space is an invaluable domain, but it is also increasingly crowded and particularly susceptible to a range of cyber vulnerabilities and threats," Managing director of The Aerospace Corp UK said.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand Banks, Post Office Suffer Network Outages After Disruptive DDoS Attack<a href="https://www.reuters.com/world/asia-pacific/new-zealand-banks-post-office-hit-by-outages-apparent-cyber-attack-2021-09-08/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Websites of a number of financial institutions in New Zealand and its national postal service were briefly down on Wednesday, with officials saying they were battling a cyber attack.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker Gang Warns Victims Not to Call the FBI<a href="https://threatpost.com/ragnar-locker-gang-dont-call-fbi-police/169266/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigators/the FBI/ransomware negotiators just screw everything up, the ransomware gang said, threatening to publish files if victims look for help. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Smart Switches Open to Complete Takeover<a href="https://threatpost.com/netgear-smart-switches-takeover/169259/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Demon’s Cries, Draconian Fear and Seventh Inferno security bugs are high-severity entryways to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Hit as Atlassian Confluence Cyberattacks Widen<a href="https://threatpost.com/jenkins-atlassian-confluence-cyberattacks/169249/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patch now: The popular biz-collaboration platform is seeing mass scanning and exploitation just two weeks after a critical RCE bug was disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 0-Day Attack Targeting Windows Users With Microsoft Office Documents<a href="https://thehackernews.com/2021/09/new-0-day-attack-targeting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday warned of an actively exploited zero-day flaw impacting Internet Explorer that's being used to hijack vulnerable Windows systems by leveraging weaponized Office documents.  Tracked as CVE-2021-40444 (CVSS score: 8.8), the remote code execution flaw is rooted in MSHTML (aka Trident), a proprietary browser engine for the now-discontinued Internet Explorer and which is used in Office to render web content inside Word, Excel, and PowerPoint documents.  "Microsoft is investigating reports of a remote code execution vulnerability in MSHTML that affects Microsoft Windows. Microsoft is aware of targeted attacks that attempt to exploit this vulnerability by using specially-crafted Microsoft Office documents," the company  said .   "An attacker could craft a malicious ActiveX control to be used by a Microsoft Office document that hosts the browser rendering engine. The attacker would then have to convince the user to open the malicious document. Users who
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProtonMail Forced to Log IP Address of French Activist<a href="https://threatpost.com/protonmail-log-ip-address-french-activist/169242/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The privacy-touting, end-to-end encrypted email provider erased its site’s “we don’t log your IP” boast after France sicced Swiss cops on it. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares temp fix for ongoing Office 365 zero-day attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-shares-temp-fix-for-ongoing-office-365-zero-day-attacks/"> Full Text</a>
@@ -50,7 +615,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC released for Ghostscript vulnerability that exposed Airbnb, Dropbox<a href="https://portswigger.net/daily-swig/poc-released-for-ghostscript-vulnerability-that-exposed-airbnb-dropbox?&web_view=true"> Full Text</a>
@@ -66,7 +631,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2021
+September 07, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bipartisan House group introduces legislation to set term limit for key cyber leader<a href="https://thehill.com//policy/cybersecurity/571108-bipartisan-lawmakers-introduce-legislation-to-set-term-limit-for-key"> Full Text</a>
@@ -82,7 +647,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware gang’s servers are mysteriously online again<a href="https://securityaffairs.co/wordpress/121952/cyber-crime/revil-ransomware-gang-servers-back-online.html"> Full Text</a>
@@ -102,7 +667,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2021
+September 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware's servers mysteriously come back online<a href="https://www.bleepingcomputer.com/news/security/revil-ransomwares-servers-mysteriously-come-back-online/"> Full Text</a>
@@ -118,7 +683,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at US Restaurant and Gambling Chain Dotty’s Impacted Sensitive Customer Information<a href="https://portswigger.net/daily-swig/data-breach-at-us-restaurant-and-gambling-chain-dottys-may-have-leaked-sensitive-customer-information?&web_view=true"> Full Text</a>
@@ -134,7 +699,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2021
+September 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Howard University hit with ransomware attack, cancels classes<a href="https://thehill.com//homenews/state-watch/571053-howard-university-hit-with-ransomware-attack-cancels-classes"> Full Text</a>
@@ -150,7 +715,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher published PoC exploit for Ghostscript zero-day<a href="https://securityaffairs.co/wordpress/121940/hacking/ghostscript-poc-exploit.html"> Full Text</a>
@@ -170,7 +735,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2021
+September 07, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins project's Confluence server hacked to mine Monero<a href="https://www.bleepingcomputer.com/news/security/jenkins-projects-confluence-server-hacked-to-mine-monero/"> Full Text</a>
@@ -186,7 +751,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Data of Millions of Moroccan Citizens Leaked Online by Cybercriminal<a href="https://www.moroccoworldnews.com/2021/09/344304/personal-data-of-2-million-moroccans-leaked-online?&web_view=true"> Full Text</a>
@@ -202,7 +767,7 @@ Morocco World News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2021
+September 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonald's leaks password for Monopoly VIP database to winners<a href="https://www.bleepingcomputer.com/news/security/mcdonalds-leaks-password-for-monopoly-vip-database-to-winners/"> Full Text</a>
@@ -218,7 +783,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2021
+September 7, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Howard University Investigates Alleged Ransomware Attack that Caused Network Outage<a href="https://wjla.com/news/local/howard-university-investigates-alleged-ransomware-attack?&web_view=true"> Full Text</a>
