@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA Ransomware Gang adds Linux Support<a href="https://www.lacework.com/blog/pysa-ransomware-gang-adds-linux-support/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Lacework
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moving Forward After CentOS 8 EOL<a href="https://thehackernews.com/2021/09/moving-forward-after-centos-8-eol.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts confirmed that the networks of the United Nations were hacked earlier this year<a href="https://securityaffairs.co/wordpress/122064/data-breach/united-nations-data-breach.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen Credentials Led to Data Theft at United Nations<a href="https://threatpost.com/data-theft-united-nations/169357/"> Full Text</a>
@@ -102,7 +102,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google debuts new Private Compute features in ramp up of Android security<a href="https://www.zdnet.com/article/google-debuts-new-private-compute-features-to-ramp-up-android-security/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA: New Android Banking Trojan Emerges With Growing Capabilities<a href="https://thehackernews.com/2021/09/sova-new-android-banking-trojan-emerges.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International money launderer sentenced to more than 11 years<a href="https://securityaffairs.co/wordpress/122058/breaking-news/money-launderer-senteced.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spook.js – New side-channel attack can bypass Google Chrome’s protections against Spectre-style exploits<a href="https://portswigger.net/daily-swig/spook-js-new-side-channel-attack-can-bypass-google-chromes-protections-against-spectre-style-exploits?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Link Sidewalk Malware Attacks to Grayfly Chinese Hacker Group<a href="https://thehackernews.com/2021/09/experts-link-sidewalk-malware-attacks.html"> Full Text</a>
@@ -186,7 +186,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are leaking children’s data — and there’s little parents can do<a href="https://www.nbcnews.com/tech/security/hackers-are-leaking-childrens-data-s-little-parents-can-rcna1926?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reuters: Wide-ranging SolarWinds probe sparks fear in Corporate America<a href="https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyRepublic customer data compromised in third-party security breach<a href="https://www.zdnet.com/article/myrepublic-customers-compromised-in-third-party-data-breach/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Genesis: The market created by cybercriminals to make millions selling your digital identity<a href="https://www.cbsnews.com/news/genesis-cybercriminal-market-ransomware/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ CBS News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virginia National Guard confirms cyberattack hit Virginia Defense Force email accounts<a href="https://www.zdnet.com/article/virginia-national-guard-confirms-cyberattack-hit-virginia-defense-force-email-accounts/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Cross-Account Takeover Bug in Azure Container Instances<a href="https://thehackernews.com/2021/09/microsoft-warns-of-cross-account.html"> Full Text</a>

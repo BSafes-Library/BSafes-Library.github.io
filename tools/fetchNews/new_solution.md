@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google debuts new Private Compute features in ramp up of Android security<a href="https://www.zdnet.com/article/google-debuts-new-private-compute-features-to-ramp-up-android-security/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Currently in Android 12 Beta, Private Compute Core is an open source platform that aims to isolate itself from other apps and the main operating system on an Android device to improve privacy and security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

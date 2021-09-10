@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spook.js – New side-channel attack can bypass Google Chrome’s protections against Spectre-style exploits<a href="https://portswigger.net/daily-swig/spook-js-new-side-channel-attack-can-bypass-google-chromes-protections-against-spectre-style-exploits?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered side-channel attack targeting Google Chrome can allow an attacker to overcome the web browser’s security defenses to retrieve sensitive information using a Spectre-style attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Cross-Account Takeover Bug in Azure Container Instances<a href="https://thehackernews.com/2021/09/microsoft-warns-of-cross-account.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said it remediated a vulnerability in its Azure Container Instances ( ACI ) services that could have been exploited by a malicious actor "to access other customers' information" in what the researcher described as the "first cross-account container takeover in the public cloud."  An attacker exploiting the weakness could execute malicious commands on other users' containers, steal customer secrets and images deployed to the platform. The Windows maker did not share any additional specifics related to the flaw, save that&nbsp; affected customers &nbsp;"revoke any privileged credentials that were deployed to the platform before August 31, 2021."   Azure Container Instances is a managed service that allows users to run Docker&nbsp; containers &nbsp;directly in a serverless cloud environment, without requiring the use of virtual machines, clusters, or orchestrators.  Palo Alto Networks' Unit 42 threat intelligence team dubbed the vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

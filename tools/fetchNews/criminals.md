@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Ransomware Group REvil Back Online After 2-Month Hiatus<a href="https://thehackernews.com/2021/09/russian-ransomware-group-revil-back.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the REvil ransomware-as-a-service (RaaS)&nbsp; staged &nbsp;a surprise return after a two-month hiatus following the widely publicized attack on technology services provider Kaseya on July 4.   Two of the dark web portals, including the gang's Happy Blog data leak site and its payment/negotiation site, have resurfaced online, with the most recent victim added on July 8, five days before the sites&nbsp; mysteriously went off the grid &nbsp;on July 13. It's not immediately clear if REvil is back in the game or if they have launched new attacks.  "Unfortunately, the Happy Blog is back online," Emsisoft threat researcher Brett Callow&nbsp; tweeted &nbsp;on Tuesday.  The development comes a little over two months after a&nbsp; wide-scale supply chain ransomware attack &nbsp;aimed at Kaseya, which saw the Russia-based cybercrime gang encrypting approximately 60 managed service providers (MSPs) and over 1,500 downstream businesses using a zero-day vulnerability in the Kaseya VSA remote manage
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak VPN Account Passwords From 87,000 Fortinet FortiGate Devices<a href="https://thehackernews.com/2021/09/hackers-leak-vpn-account-passwords-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security solutions provider Fortinet confirmed that a malicious actor had unauthorizedly disclosed VPN login names and passwords associated with 87,000 FortiGate SSL-VPN devices.  "These credentials were obtained from systems that remained unpatched against&nbsp; CVE-2018-13379 &nbsp;at the time of the actor's scan. While they may have since been patched, if the passwords were not reset, they remain vulnerable," the company&nbsp; said &nbsp;in a statement on Wednesday.   The disclosure comes after the threat actor leaked a list of Fortinet credentials for free on a new Russian-speaking forum called&nbsp; RAMP &nbsp;that launched in July 2021 as well as on Groove ransomware's data leak site, with Advanced Intel&nbsp; noting &nbsp;that the "breach list contains raw access to the top companies" spanning across 74 countries, including India, Taiwan, Italy, France, and Israel. "2,959 out of 22,500 victims are U.S. entities," the researchers said.   CVE-2018-13379 &nbsp;relates to a path t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT cybercrime gang expands its arsenal to target thousands of orgs worldwide<a href="https://securityaffairs.co/wordpress/122037/cyber-crime/teamtnt-expands-arsenal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated TeamTNT hacking group expanded its arsenal with new tools used to target thousands of victims worldwide.
+
+
+
+Researchers from AT&amp;T Alien Labs&nbsp;uncovered a new campaign, tracked as Chimaera, conducted by the TeamTNT group,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

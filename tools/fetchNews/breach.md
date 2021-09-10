@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+United Nations confirms its systems were breached this year<a href="https://thehill.com//policy/cybersecurity/571564-united-nations-confirms-its-systems-were-breached-in-april"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations (UN) on Thursday confirmed that it was the victim of a cyberattack earlier this year and that attacks related to the original breach were ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s Email Blast Includes Password to Monopoly Game Database<a href="https://threatpost.com/mcdonalds-email-blast-includes-password-to-monopoly-game-database/169346/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Usernames, passwords for database sent in prize redemption emails. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,254 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Gang adds Linux Support<a href="https://www.lacework.com/blog/pysa-ransomware-gang-adds-linux-support/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In August of 2021, Lacework Labs identified a Linux variant of ChaChi, a customized variant of an open-source Golang based RAT that leverages DNS tunneling for C2 communication.
+</details>
+<div style="text-align: right" markdown="1">
+Lacework
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moving Forward After CentOS 8 EOL<a href="https://thehackernews.com/2021/09/moving-forward-after-centos-8-eol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux community was caught unprepared when, in December 2020, as part of a change in the way Red Hat supports and develops CentOS, Red Hat suddenly announced that it's cutting the official CentOS 8 support window from ten years – to just two, with support ending Dec 31, 2021.  It created a peculiar situation where CentOS 7 users that did the right thing and upgraded quickly to CentOS 8 were left using an OS with just a year's official support remaining – while users of CentOS 7 still get full support until June 30, 2024.  Worse, the fact that stable releases of CentOS were discontinued in exchange for the rolling-release CentOS Stream means that to secure their workloads most CentOS 8 users have to opt for an entirely different Linux distribution, with just a year to choose, evaluate and implement an alternative.  Red Hat's unexpected decision underlined to what degree software users depend on official support windows for their software security. Countless organization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts confirmed that the networks of the United Nations were hacked earlier this year<a href="https://securityaffairs.co/wordpress/122064/data-breach/united-nations-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations this week confirmed that its computer networks were hit by a cyberattack earlier this year, as first reported by Bloomberg.
+
+
+
+The United Nations on Thursday confirmed that its computer networks were hit by a cyberattack earlier this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen Credentials Led to Data Theft at United Nations<a href="https://threatpost.com/data-theft-united-nations/169357/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors accessed the organization’s proprietary project management software, Umoja, in April, accessing the network and stealing info that can be used in further attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google debuts new Private Compute features in ramp up of Android security<a href="https://www.zdnet.com/article/google-debuts-new-private-compute-features-to-ramp-up-android-security/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Currently in Android 12 Beta, Private Compute Core is an open source platform that aims to isolate itself from other apps and the main operating system on an Android device to improve privacy and security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SOVA: New Android Banking Trojan Emerges With Growing Capabilities<a href="https://thehackernews.com/2021/09/sova-new-android-banking-trojan-emerges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A mix of banking applications, cryptocurrency wallets, and shopping apps from the U.S. and Spain are the target of a newly discovered Android trojan that could enable attackers to siphon personally identifiable information from infected devices, including banking credentials and open the door for on-device fraud.  Dubbed S.O.V.A. (referring to the Russian word for owl), the current version of the banking malware comes with myriad features to steal credentials and session cookies through web overlay attacks, log keystrokes, hide notifications, and manipulate the clipboard to insert modified cryptocurrency wallet addresses, with future plans to incorporate  on-device fraud through VNC , carry out DDoS attacks, deploy ransomware, and even intercept two-factor authentication codes.   The malware was discovered in the beginning of August 2021 by researchers from Amsterdam-based cybersecurity firm ThreatFabric.  Overlay attacks typically involve the theft of confidential user information us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International money launderer sentenced to more than 11 years<a href="https://securityaffairs.co/wordpress/122058/breaking-news/money-launderer-senteced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Canadian man, who helped  North Korean threat actors to launder stolen funds, plead guilty to laundering tens of millions of dollars stolen in bank fraud schemes.
+
+
+
+A Canadian man who conspired to launder tens of millions of dollars stolen bank fraud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spook.js – New side-channel attack can bypass Google Chrome’s protections against Spectre-style exploits<a href="https://portswigger.net/daily-swig/spook-js-new-side-channel-attack-can-bypass-google-chromes-protections-against-spectre-style-exploits?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered side-channel attack targeting Google Chrome can allow an attacker to overcome the web browser’s security defenses to retrieve sensitive information using a Spectre-style attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Link Sidewalk Malware Attacks to Grayfly Chinese Hacker Group<a href="https://thehackernews.com/2021/09/experts-link-sidewalk-malware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented backdoor that was recently found targeting an unnamed computer retail company based in the U.S. has been linked to a longstanding Chinese espionage operation dubbed Grayfly.  In late August, Slovakian cybersecurity firm ESET  disclosed  details of an implant called SideWalk, which is designed to load arbitrary plugins sent from an attacker-controlled server, gather information about running processes in the compromised systems, and transmit the results back to the remote server.  The cybersecurity firm attributed the intrusion to a group it tracks as SparklingGoblin, an adversary believed to be connected to the Winnti (aka APT41) malware family.   But latest research published by researchers from Broadcom's Symantec has pinned the SideWalk backdoor on the China-linked espionage group, pointing out the malware's overlaps with the older Crosswalk malware, with the latest Grayfly hacking activities singling out a number of organizations in Mexico, Taiwan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are leaking children’s data — and there’s little parents can do<a href="https://www.nbcnews.com/tech/security/hackers-are-leaking-childrens-data-s-little-parents-can-rcna1926?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2021, ransomware gangs published data from more than 1,200 American K-12 schools, according to a tally provided to NBC News by Brett Callow, a ransomware analyst at the cybersecurity company Emsisoft.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reuters: Wide-ranging SolarWinds probe sparks fear in Corporate America<a href="https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. SEC investigation into the SolarWinds Russian hacking operation has dozens of corporate executives fearful information unearthed in the expanding probe will expose them to liability, according to six people familiar with the inquiry.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyRepublic customer data compromised in third-party security breach<a href="https://www.zdnet.com/article/myrepublic-customers-compromised-in-third-party-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MyRepublic says almost 80,000 of its mobile subscribers in Singapore have had their personal data compromised, following a security breach on a third-party data storage platform.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Genesis: The market created by cybercriminals to make millions selling your digital identity<a href="https://www.cbsnews.com/news/genesis-cybercriminal-market-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn that the Genesis market, along with other criminal websites, have become an important tool for hacking organizations to carry out malicious attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia National Guard confirms cyberattack hit Virginia Defense Force email accounts<a href="https://www.zdnet.com/article/virginia-national-guard-confirms-cyberattack-hit-virginia-defense-force-email-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email accounts connected to the Virginia Defense Force and the Virginia Department of Military Affairs were impacted by a cyberattack in July, according to a spokesperson from the Virginia National Guard.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Cross-Account Takeover Bug in Azure Container Instances<a href="https://thehackernews.com/2021/09/microsoft-warns-of-cross-account.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said it remediated a vulnerability in its Azure Container Instances ( ACI ) services that could have been exploited by a malicious actor "to access other customers' information" in what the researcher described as the "first cross-account container takeover in the public cloud."  An attacker exploiting the weakness could execute malicious commands on other users' containers, steal customer secrets and images deployed to the platform. The Windows maker did not share any additional specifics related to the flaw, save that  affected customers  "revoke any privileged credentials that were deployed to the platform before August 31, 2021."   Azure Container Instances is a managed service that allows users to run Docker  containers  directly in a serverless cloud environment, without requiring the use of virtual machines, clusters, or orchestrators.  Palo Alto Networks' Unit 42 threat intelligence team dubbed the vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

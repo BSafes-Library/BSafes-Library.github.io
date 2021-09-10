@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts confirmed that the networks of the United Nations were hacked earlier this year<a href="https://securityaffairs.co/wordpress/122064/data-breach/united-nations-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations this week confirmed that its computer networks were hit by a cyberattack earlier this year, as first reported by Bloomberg.
+
+
+
+The United Nations on Thursday confirmed that its computer networks were hit by a cyberattack earlier this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia National Guard confirms cyberattack hit Virginia Defense Force email accounts<a href="https://www.zdnet.com/article/virginia-national-guard-confirms-cyberattack-hit-virginia-defense-force-email-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email accounts connected to the Virginia Defense Force and the Virginia Department of Military Affairs were impacted by a cyberattack in July, according to a spokesperson from the Virginia National Guard.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

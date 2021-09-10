@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PYSA Ransomware Gang adds Linux Support<a href="https://www.lacework.com/blog/pysa-ransomware-gang-adds-linux-support/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In August of 2021, Lacework Labs identified a Linux variant of ChaChi, a customized variant of an open-source Golang based RAT that leverages DNS tunneling for C2 communication.
+</details>
+<div style="text-align: right" markdown="1">
+Lacework
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are leaking children’s data — and there’s little parents can do<a href="https://www.nbcnews.com/tech/security/hackers-are-leaking-childrens-data-s-little-parents-can-rcna1926?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2021, ransomware gangs published data from more than 1,200 American K-12 schools, according to a tally provided to NBC News by Brett Callow, a ransomware analyst at the cybersecurity company Emsisoft.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Genesis: The market created by cybercriminals to make millions selling your digital identity<a href="https://www.cbsnews.com/news/genesis-cybercriminal-market-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn that the Genesis market, along with other criminal websites, have become an important tool for hacking organizations to carry out malicious attacks.
+</details>
+<div style="text-align: right" markdown="1">
+CBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

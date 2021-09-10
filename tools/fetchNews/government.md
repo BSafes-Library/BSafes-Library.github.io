@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National cyber director declares 'too soon to say we're out of the woods,' as US enjoys dip in ransomware<a href="https://www.cyberscoop.com/chris-inglis-russia-ransomware-ncd-reagan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a summer marked by big ransomware attacks from suspected Russian gangs, some of those same groups went quiet. National Cyber Director Chris Inglis has said that it’s too early to tell if the trend will hold.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report pushes for changes to diversify 'homogenous' US cybersecurity workforce<a href="https://thehill.com//policy/cybersecurity/571523-report-pushes-for-immediate-action-to-diversify-homogenous-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of experts across multiple fields on Thursday recommended a sweeping set of actions to diversify the U.S. cybersecurity workforce, saying the field was “overwhelmingly” white and male.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Chinese government propaganda campaign spurs on COVID-19 protests in the US<a href="https://www.zdnet.com/article/pro-chinese-government-propaganda-campaign-pushes-for-covid-19-protests-in-the-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are tracking a campaign that is both promoting the Chinese government and encouraging real-world protests surrounding the COVID-19 pandemic in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Zoho ManageEngine ADSelfService Vulnerability<a href="https://thehackernews.com/2021/09/cisa-warns-of-actively-exploited-zoho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday issued a bulletin warning of a zero-day flaw affecting Zoho ManageEngine ADSelfService Plus deployments that is currently being actively exploited in the wild.  The flaw, tracked as&nbsp; CVE-2021-40539 , concerns a REST API authentication bypass that could lead to arbitrary remote code execution (RCE). ADSelfService Plus builds up to 6113 are impacted.   ManageEngine ADSelfService Plus is an integrated self-service password management and a single sign-on solution for Active Directory and cloud apps, enabling admins to enforce two-factor authentication for application logins and users to reset their passwords.  "CVE-2021-40539 has been detected in exploits in the wild. A remote attacker could exploit this vulnerability to take control of an affected system," CISA&nbsp; said , urging companies to apply the latest security update to their ManageEngine servers and "ensure ADSelfService Plus is not directl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

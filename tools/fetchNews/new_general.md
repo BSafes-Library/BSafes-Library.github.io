@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reuters: Wide-ranging SolarWinds probe sparks fear in Corporate America<a href="https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. SEC investigation into the SolarWinds Russian hacking operation has dozens of corporate executives fearful information unearthed in the expanding probe will expose them to liability, according to six people familiar with the inquiry.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

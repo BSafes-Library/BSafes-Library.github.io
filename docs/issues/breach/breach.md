@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen Credentials Led to Data Theft at United Nations<a href="https://threatpost.com/data-theft-united-nations/169357/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors accessed the organization’s proprietary project management software, Umoja, in April, accessing the network and stealing info that can be used in further attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyRepublic customer data compromised in third-party security breach<a href="https://www.zdnet.com/article/myrepublic-customers-compromised-in-third-party-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MyRepublic says almost 80,000 of its mobile subscribers in Singapore have had their personal data compromised, following a security breach on a third-party data storage platform.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

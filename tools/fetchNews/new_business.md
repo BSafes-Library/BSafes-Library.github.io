@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moving Forward After CentOS 8 EOL<a href="https://thehackernews.com/2021/09/moving-forward-after-centos-8-eol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Linux community was caught unprepared when, in December 2020, as part of a change in the way Red Hat supports and develops CentOS, Red Hat suddenly announced that it's cutting the official CentOS 8 support window from ten years – to just two, with support ending Dec 31, 2021.  It created a peculiar situation where CentOS 7 users that did the right thing and upgraded quickly to CentOS 8 were left using an OS with just a year's official support remaining – while users of CentOS 7 still get full support until June 30, 2024.  Worse, the fact that stable releases of CentOS were discontinued in exchange for the rolling-release CentOS Stream means that to secure their workloads most CentOS 8 users have to opt for an entirely different Linux distribution, with just a year to choose, evaluate and implement an alternative.  Red Hat's unexpected decision underlined to what degree software users depend on official support windows for their software security. Countless organization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

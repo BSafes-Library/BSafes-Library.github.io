@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fighting the Rogue Toaster Army: Why Secure Coding in Embedded Systems is Our Defensive Edge<a href="https://thehackernews.com/2021/09/fighting-rogue-toaster-army-why-secure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are plenty of pop culture references to rogue AI and robots, and appliances turning on their human masters. It is the stuff of science fiction, fun, and fantasy, but with IoT and connected devices becoming more prevalent in our homes, we need more discussion around cybersecurity and safety.  Software is all around us, and it's very easy to forget just how much we're relying on lines of code to do all those clever things that provide us so much innovation and convenience.  Much like web-based software, APIs, and mobile devices, vulnerable code in embedded systems can be exploited if it is uncovered by an attacker.&nbsp;  While it's unlikely that an army of toasters is coming to enslave the human race (although, the&nbsp; Tesla bot &nbsp;is a bit concerning) as the result of a cyberattack, malicious cyber events are still possible. Some of our cars, planes, and medical devices also rely on intricate embedded systems code to perform key tasks, and the prospect of these objects being compromised i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
