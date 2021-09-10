@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSHTML zero-day defenses bypassed as new info emerges<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-defenses-bypassed-as-new-info-emerges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details have emerged about the recent Windows CVE-2021-40444 zero-day vulnerability, how it is being exploited in attacks, and the threat actor's ultimate goal of taking over corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thoma Bravo invests in Intel 471 to boost threat preparedness capabilities worldwide<a href="https://www.helpnetsecurity.com/2021/09/09/thoma-bravo-intel-471/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thoma Bravo announced it has signed a definitive agreement to make a strategic growth investment in Intel 471, a provider of cyber threat intelligence for leading enterprises and governments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+United Nations confirms its systems were breached this year<a href="https://thehill.com//policy/cybersecurity/571564-united-nations-confirms-its-systems-were-breached-in-april"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations (UN) on Thursday confirmed that it was the victim of a cyberattack earlier this year and that attacks related to the original breach were ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Ransomware Group REvil Back Online After 2-Month Hiatus<a href="https://thehackernews.com/2021/09/russian-ransomware-group-revil-back.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the REvil ransomware-as-a-service (RaaS)  staged  a surprise return after a two-month hiatus following the widely publicized attack on technology services provider Kaseya on July 4.   Two of the dark web portals, including the gang's Happy Blog data leak site and its payment/negotiation site, have resurfaced online, with the most recent victim added on July 8, five days before the sites  mysteriously went off the grid  on July 13. It's not immediately clear if REvil is back in the game or if they have launched new attacks.  "Unfortunately, the Happy Blog is back online," Emsisoft threat researcher Brett Callow  tweeted  on Tuesday.  The development comes a little over two months after a  wide-scale supply chain ransomware attack  aimed at Kaseya, which saw the Russia-based cybercrime gang encrypting approximately 60 managed service providers (MSPs) and over 1,500 downstream businesses using a zero-day vulnerability in the Kaseya VSA remote manage
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new botnet named Mēris is behind massive DDoS attack that hit Yandex<a href="https://securityaffairs.co/wordpress/122048/malware/meris-botnet-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive DDoS attack that has been targeting the internet giant Yandex was powered b a completely new botnet tracked as Mēris.
+
+
+
+The Russian Internet giant Yandex has been targeting by the largest DDoS attack in the history of Runet, the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McDonald’s Email Blast Includes Password to Monopoly Game Database<a href="https://threatpost.com/mcdonalds-email-blast-includes-password-to-monopoly-game-database/169346/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Usernames, passwords for database sent in prize redemption emails. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes bug letting hackers take over Azure containers<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-letting-hackers-take-over-azure-containers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a vulnerability in Azure Container Instances called Azurescape that allowed a malicious container to take over containers belonging to other customers on the platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National cyber director declares 'too soon to say we're out of the woods,' as US enjoys dip in ransomware<a href="https://www.cyberscoop.com/chris-inglis-russia-ransomware-ncd-reagan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a summer marked by big ransomware attacks from suspected Russian gangs, some of those same groups went quiet. National Cyber Director Chris Inglis has said that it’s too early to tell if the trend will hold.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report pushes for changes to diversify 'homogenous' US cybersecurity workforce<a href="https://thehill.com//policy/cybersecurity/571523-report-pushes-for-immediate-action-to-diversify-homogenous-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of experts across multiple fields on Thursday recommended a sweeping set of actions to diversify the U.S. cybersecurity workforce, saying the field was “overwhelmingly” white and male. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fighting the Rogue Toaster Army: Why Secure Coding in Embedded Systems is Our Defensive Edge<a href="https://thehackernews.com/2021/09/fighting-rogue-toaster-army-why-secure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are plenty of pop culture references to rogue AI and robots, and appliances turning on their human masters. It is the stuff of science fiction, fun, and fantasy, but with IoT and connected devices becoming more prevalent in our homes, we need more discussion around cybersecurity and safety.  Software is all around us, and it's very easy to forget just how much we're relying on lines of code to do all those clever things that provide us so much innovation and convenience.  Much like web-based software, APIs, and mobile devices, vulnerable code in embedded systems can be exploited if it is uncovered by an attacker.   While it's unlikely that an army of toasters is coming to enslave the human race (although, the  Tesla bot  is a bit concerning) as the result of a cyberattack, malicious cyber events are still possible. Some of our cars, planes, and medical devices also rely on intricate embedded systems code to perform key tasks, and the prospect of these objects being compromised i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Microsoft web servers powered by vulnerable legacy software<a href="https://securityaffairs.co/wordpress/122044/security/millions-microsoft-servers-exposed-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers identified more than 2 million web servers worldwide still running on outdated and vulnerable versions of Microsoft Internet Information Services software. 
+
+
+
+These legacy versions are no longer supported by Microsoft, which makes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Cybercrime: Why Cryptocurrency is the Perfect ‘Getaway Car’<a href="https://threatpost.com/financial-cybercrime-cryptocurrency/169327/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Hammond, security researcher with Huntress, discusses how financially motivated cybercrooks use and abuse cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mēris botnet breaks DDoS record with 21.8 million RPS attack<a href="https://www.bleepingcomputer.com/news/security/new-m-ris-botnet-breaks-ddos-record-with-218-million-rps-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new distributed denial-of-service (DDoS) botnet that kept growing over the summer has been hammering Russian internet giant Yandex for the past month, the attack peaking at the unprecedented rate of 21.8 million requests per second.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Android Security Update Patches 40 Vulnerabilities<a href="https://www.securityweek.com/google-android-security-update-patches-40-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 16 issues were patched with the first part of this month’s security updates – the 2021-09-01 security patch level – including one critical issue in the Framework component.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak VPN Account Passwords From 87,000 Fortinet FortiGate Devices<a href="https://thehackernews.com/2021/09/hackers-leak-vpn-account-passwords-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security solutions provider Fortinet confirmed that a malicious actor had unauthorizedly disclosed VPN login names and passwords associated with 87,000 FortiGate SSL-VPN devices.  "These credentials were obtained from systems that remained unpatched against  CVE-2018-13379  at the time of the actor's scan. While they may have since been patched, if the passwords were not reset, they remain vulnerable," the company  said  in a statement on Wednesday.   The disclosure comes after the threat actor leaked a list of Fortinet credentials for free on a new Russian-speaking forum called  RAMP  that launched in July 2021 as well as on Groove ransomware's data leak site, with Advanced Intel  noting  that the "breach list contains raw access to the top companies" spanning across 74 countries, including India, Taiwan, Italy, France, and Israel. "2,959 out of 22,500 victims are U.S. entities," the researchers said.   CVE-2018-13379  relates to a path t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT cybercrime gang expands its arsenal to target thousands of orgs worldwide<a href="https://securityaffairs.co/wordpress/122037/cyber-crime/teamtnt-expands-arsenal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated TeamTNT hacking group expanded its arsenal with new tools used to target thousands of victims worldwide.
+
+
+
+Researchers from AT&T Alien Labs uncovered a new campaign, tracked as Chimaera, conducted by the TeamTNT group,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BladeHawk Attackers Target Kurds with Android Apps<a href="https://threatpost.com/bladehawk-attackers-kurds-android/169300/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Kurd Facebook profiles deliver ‘888 RAT’ and ‘SpyNote’ trojans, masked as legitimate apps, to perform mobile espionage.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yandex is battling the largest DDoS in Russian Internet history<a href="https://www.bleepingcomputer.com/news/security/yandex-is-battling-the-largest-ddos-in-russian-internet-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian internet giant Yandex has been targeted in a massive distributed denial-of-service (DDoS) attack that started last week and reportedly continues this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins discloses attack on its Atlassian Confluence service<a href="https://www.itsecurityguru.org/2021/09/09/jenkins-discloses-attack-on-its-atlassian-confluence-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers abused an Open Graph Navigation Library (OGNL) injection flaw – the same vulnerability type involved in the notorious 2017 Equifax hack – capable of leading to remote code execution (RCE) in Confluence Server and Data Center instances.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yandex is under the largest DDoS attack in the history of Runet<a href="https://securityaffairs.co/wordpress/122028/hacking/yandex-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian internet service provider Yandex is under a massive distributed denial-of-service (DDoS) attack that began last week.
+
+
+
+The Russian Internet giant Yandex has been targeting by the largest DDoS attack in the history of Runet, the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks: One in three suspect emails reported by employees really are malicious<a href="https://www.zdnet.com/article/phishing-attacks-one-in-three-suspect-emails-reported-by-employees-really-are-malicious/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report, about a third of emails reported by employees really are malicious or highly suspect, demonstrating the effectiveness of the well-established maxim "Think before you click".
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho warns of zero-day authentication bypass flaw actively exploited<a href="https://securityaffairs.co/wordpress/122003/hacking/zoho-zero-day-authentication-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho urges customers to address an authentication bypass vulnerability in its ManageEngine ADSelfService Plus that is actively exploited in the wild.
+
+
+
+Zoho has released a security patch to address an authentication bypass vulnerability, tracked as CVE-2021-40539,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber security software startup Snyk raises $300 million, valued at $8.5 billion<a href="https://www.reuters.com/technology/cyber-security-software-startup-snyk-raises-300-mln-valued-85-bln-2021-09-09/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest round co-led by Sands Capital Ventures and Tiger Global follows a funding round in March when $175 million of new capital was raised. The company was valued at $4.7 billion only six months ago.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Chinese government propaganda campaign spurs on COVID-19 protests in the US<a href="https://www.zdnet.com/article/pro-chinese-government-propaganda-campaign-pushes-for-covid-19-protests-in-the-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are tracking a campaign that is both promoting the Chinese government and encouraging real-world protests surrounding the COVID-19 pandemic in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Zoho ManageEngine ADSelfService Vulnerability<a href="https://thehackernews.com/2021/09/cisa-warns-of-actively-exploited-zoho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday issued a bulletin warning of a zero-day flaw affecting Zoho ManageEngine ADSelfService Plus deployments that is currently being actively exploited in the wild.  The flaw, tracked as  CVE-2021-40539 , concerns a REST API authentication bypass that could lead to arbitrary remote code execution (RCE). ADSelfService Plus builds up to 6113 are impacted.   ManageEngine ADSelfService Plus is an integrated self-service password management and a single sign-on solution for Active Directory and cloud apps, enabling admins to enforce two-factor authentication for application logins and users to reset their passwords.  "CVE-2021-40539 has been detected in exploits in the wild. A remote attacker could exploit this vulnerability to take control of an affected system," CISA  said , urging companies to apply the latest security update to their ManageEngine servers and "ensure ADSelfService Plus is not directl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Ragnar Locker Got Wrong About Ransomware Negotiators – Podcast<a href="https://threatpost.com/ragnar-locker-ransomware-negotiators/169292/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are a lot of "tells" that the ransomware group doesn’t understand how negotiators work, despite threatening to dox data if victims call for help.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub finds 7 code execution vulnerabilities in 'tar' and npm CLI<a href="https://www.bleepingcomputer.com/news/security/github-finds-7-code-execution-vulnerabilities-in-tar-and-npm-cli/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub security team has identified several high-severity vulnerabilities in npm packages, "tar" and "@npmcli/arborist," used by npm CLI. The tar package receives 20 million weekly downloads on average, whereas arborist gets downloaded over 300,000 times every week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
