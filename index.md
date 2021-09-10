@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows MSHTML zero-day defenses bypassed as new info emerges<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-defenses-bypassed-as-new-info-emerges/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thoma Bravo invests in Intel 471 to boost threat preparedness capabilities worldwide<a href="https://www.helpnetsecurity.com/2021/09/09/thoma-bravo-intel-471/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 United Nations confirms its systems were breached this year<a href="https://thehill.com//policy/cybersecurity/571564-united-nations-confirms-its-systems-were-breached-in-april"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Ransomware Group REvil Back Online After 2-Month Hiatus<a href="https://thehackernews.com/2021/09/russian-ransomware-group-revil-back.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new botnet named Mēris is behind massive DDoS attack that hit Yandex<a href="https://securityaffairs.co/wordpress/122048/malware/meris-botnet-ddos.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McDonald’s Email Blast Includes Password to Monopoly Game Database<a href="https://threatpost.com/mcdonalds-email-blast-includes-password-to-monopoly-game-database/169346/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes bug letting hackers take over Azure containers<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-letting-hackers-take-over-azure-containers/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National cyber director declares 'too soon to say we're out of the woods,' as US enjoys dip in ransomware<a href="https://www.cyberscoop.com/chris-inglis-russia-ransomware-ncd-reagan/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report pushes for changes to diversify 'homogenous' US cybersecurity workforce<a href="https://thehill.com//policy/cybersecurity/571523-report-pushes-for-immediate-action-to-diversify-homogenous-us"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fighting the Rogue Toaster Army: Why Secure Coding in Embedded Systems is Our Defensive Edge<a href="https://thehackernews.com/2021/09/fighting-rogue-toaster-army-why-secure.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Microsoft web servers powered by vulnerable legacy software<a href="https://securityaffairs.co/wordpress/122044/security/millions-microsoft-servers-exposed-online.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial Cybercrime: Why Cryptocurrency is the Perfect ‘Getaway Car’<a href="https://threatpost.com/financial-cybercrime-cryptocurrency/169327/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mēris botnet breaks DDoS record with 21.8 million RPS attack<a href="https://www.bleepingcomputer.com/news/security/new-m-ris-botnet-breaks-ddos-record-with-218-million-rps-attack/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Android Security Update Patches 40 Vulnerabilities<a href="https://www.securityweek.com/google-android-security-update-patches-40-vulnerabilities?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Leak VPN Account Passwords From 87,000 Fortinet FortiGate Devices<a href="https://thehackernews.com/2021/09/hackers-leak-vpn-account-passwords-from.html"> Full Text</a>
@@ -282,7 +282,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT cybercrime gang expands its arsenal to target thousands of orgs worldwide<a href="https://securityaffairs.co/wordpress/122037/cyber-crime/teamtnt-expands-arsenal.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BladeHawk Attackers Target Kurds with Android Apps<a href="https://threatpost.com/bladehawk-attackers-kurds-android/169300/"> Full Text</a>
@@ -318,7 +318,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yandex is battling the largest DDoS in Russian Internet history<a href="https://www.bleepingcomputer.com/news/security/yandex-is-battling-the-largest-ddos-in-russian-internet-history/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins discloses attack on its Atlassian Confluence service<a href="https://www.itsecurityguru.org/2021/09/09/jenkins-discloses-attack-on-its-atlassian-confluence-service/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ IT Security Guru
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yandex is under the largest DDoS attack in the history of Runet<a href="https://securityaffairs.co/wordpress/122028/hacking/yandex-ddos-attack.html"> Full Text</a>
@@ -370,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks: One in three suspect emails reported by employees really are malicious<a href="https://www.zdnet.com/article/phishing-attacks-one-in-three-suspect-emails-reported-by-employees-really-are-malicious/?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho warns of zero-day authentication bypass flaw actively exploited<a href="https://securityaffairs.co/wordpress/122003/hacking/zoho-zero-day-authentication-bypass.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber security software startup Snyk raises $300 million, valued at $8.5 billion<a href="https://www.reuters.com/technology/cyber-security-software-startup-snyk-raises-300-mln-valued-85-bln-2021-09-09/?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2021
+September 9, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Chinese government propaganda campaign spurs on COVID-19 protests in the US<a href="https://www.zdnet.com/article/pro-chinese-government-propaganda-campaign-pushes-for-covid-19-protests-in-the-us/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Actively Exploited Zoho ManageEngine ADSelfService Vulnerability<a href="https://thehackernews.com/2021/09/cisa-warns-of-actively-exploited-zoho.html"> Full Text</a>
@@ -454,7 +454,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2021
+September 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Ragnar Locker Got Wrong About Ransomware Negotiators – Podcast<a href="https://threatpost.com/ragnar-locker-ransomware-negotiators/169292/"> Full Text</a>
@@ -470,7 +470,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2021
+September 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub finds 7 code execution vulnerabilities in 'tar' and npm CLI<a href="https://www.bleepingcomputer.com/news/security/github-finds-7-code-execution-vulnerabilities-in-tar-and-npm-cli/"> Full Text</a>

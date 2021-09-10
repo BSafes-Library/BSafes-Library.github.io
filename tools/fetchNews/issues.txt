@@ -36,7 +36,7 @@ Alerts:
 . https://securityaffairs.co/wordpress/121794/security/fbi-ransomware-attacks-food-agriculture-sector.html
 . https://www.bleepingcomputer.com/news/security/us-sec-watch-out-for-hurricane-ida-related-investment-scams/
 . https://securityaffairs.co/wordpress/121878/cyber-crime/fbi-ic3-sextortion.html
-
+. https://thehackernews.com/2021/09/cisa-warns-of-actively-exploited-zoho.html
 
 Law
 

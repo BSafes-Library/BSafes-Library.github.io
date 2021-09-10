@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thailand: Hacker steals 40,000 patients' data from Bangkok hospital<a href="https://www.bangkokpost.com/thailand/general/2178503/hacker-steals-40-000-patients-data-from-kidney-hospital?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal details of more than 40,000 patients at Bhumirajanagarindra Kidney Institute Hospital have been stolen by a hacker, hospital director Thirachai Chantharotsiri said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Bangkok Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove gang leaks list of 500k credentials of compromised Fortinet appliances<a href="https://securityaffairs.co/wordpress/121985/cyber-crime/groove-gang-fortinet-leaks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Groove gang leaked online Fortinet credentials&nbsp;that could be used to breach networks of organizations using the compromised devices.
+
+
+
+The financially motivated threat actor Groove has leaked online compromised credentials&nbsp;belonging to many organizations....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker Gang Warns Victims Not to Call the FBI<a href="https://threatpost.com/ragnar-locker-gang-dont-call-fbi-police/169266/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigators/the FBI/ransomware negotiators just screw everything up, the ransomware gang said, threatening to publish files if victims look for help. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

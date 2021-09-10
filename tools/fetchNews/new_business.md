@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thoma Bravo invests in Intel 471 to boost threat preparedness capabilities worldwide<a href="https://www.helpnetsecurity.com/2021/09/09/thoma-bravo-intel-471/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thoma Bravo announced it has signed a definitive agreement to make a strategic growth investment in Intel 471, a provider of cyber threat intelligence for leading enterprises and governments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber security software startup Snyk raises $300 million, valued at $8.5 billion<a href="https://www.reuters.com/technology/cyber-security-software-startup-snyk-raises-300-mln-valued-85-bln-2021-09-09/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest round co-led by Sands Capital Ventures and Tiger Global follows a funding round in March when $175 million of new capital was raised. The company was valued at $4.7 billion only six months ago.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

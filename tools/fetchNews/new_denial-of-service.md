@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yandex is battling the largest DDoS in Russian Internet history<a href="https://www.bleepingcomputer.com/news/security/yandex-is-battling-the-largest-ddos-in-russian-internet-history/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian internet giant Yandex has been targeted in a massive distributed denial-of-service (DDoS) attack that started last week and&nbsp;reportedly continues this week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yandex is under the largest DDoS attack in the history of Runet<a href="https://securityaffairs.co/wordpress/122028/hacking/yandex-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian internet service provider Yandex is under a massive distributed denial-of-service (DDoS) attack that began last week.
+
+
+
+The Russian Internet giant Yandex has been targeting by the largest DDoS attack in the history of Runet, the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

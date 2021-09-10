@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Ragnar Locker Got Wrong About Ransomware Negotiators – Podcast<a href="https://threatpost.com/ragnar-locker-ransomware-negotiators/169292/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are a lot of "tells" that the ransomware group doesn’t understand how negotiators work, despite threatening to dox data if victims call for help.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

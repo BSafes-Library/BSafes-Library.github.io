@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSHTML zero-day defenses bypassed as new info emerges<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-defenses-bypassed-as-new-info-emerges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details have emerged about the recent Windows CVE-2021-40444 zero-day vulnerability, how it is being exploited in attacks, and the threat actor's ultimate goal of taking over corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes bug letting hackers take over Azure containers<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-letting-hackers-take-over-azure-containers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a vulnerability in Azure Container Instances called Azurescape that allowed a malicious container to take over containers belonging to other customers on the platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Microsoft web servers powered by vulnerable legacy software<a href="https://securityaffairs.co/wordpress/122044/security/millions-microsoft-servers-exposed-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers identified more than 2 million web servers worldwide still running on outdated and vulnerable versions of Microsoft Internet Information Services software. 
+
+
+
+These legacy versions are no longer supported by Microsoft, which makes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Android Security Update Patches 40 Vulnerabilities<a href="https://www.securityweek.com/google-android-security-update-patches-40-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 16 issues were patched with the first part of this month’s security updates – the 2021-09-01 security patch level – including one critical issue in the Framework component.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho warns of zero-day authentication bypass flaw actively exploited<a href="https://securityaffairs.co/wordpress/122003/hacking/zoho-zero-day-authentication-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho urges customers to address an authentication bypass vulnerability in its ManageEngine ADSelfService Plus that is actively exploited in the wild.
+
+
+
+Zoho has released a security patch to address an authentication bypass vulnerability, tracked as CVE-2021-40539,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub finds 7 code execution vulnerabilities in 'tar' and npm CLI<a href="https://www.bleepingcomputer.com/news/security/github-finds-7-code-execution-vulnerabilities-in-tar-and-npm-cli/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub security team has identified several high-severity vulnerabilities in npm packages, "tar" and "@npmcli/arborist," used by npm CLI. The tar&nbsp;package receives 20 million weekly downloads on average, whereas&nbsp;arborist&nbsp;gets downloaded&nbsp;over 300,000 times every week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

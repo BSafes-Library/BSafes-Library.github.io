@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BladeHawk Attackers Target Kurds with Android Apps<a href="https://threatpost.com/bladehawk-attackers-kurds-android/169300/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Kurd Facebook profiles deliver ‘888 RAT’ and ‘SpyNote’ trojans, masked as legitimate apps, to perform mobile espionage.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins discloses attack on its Atlassian Confluence service<a href="https://www.itsecurityguru.org/2021/09/09/jenkins-discloses-attack-on-its-atlassian-confluence-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers abused an Open Graph Navigation Library (OGNL) injection flaw – the same vulnerability type involved in the notorious 2017 Equifax hack – capable of leading to remote code execution (RCE) in Confluence Server and Data Center instances.
+</details>
+<div style="text-align: right" markdown="1">
+IT Security Guru
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new botnet named Mēris is behind massive DDoS attack that hit Yandex<a href="https://securityaffairs.co/wordpress/122048/malware/meris-botnet-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive DDoS attack that has been targeting the internet giant Yandex was powered b a completely new botnet tracked as Mēris.
+
+
+
+The Russian Internet giant Yandex has been targeting by the largest DDoS attack in the history of Runet, the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mēris botnet breaks DDoS record with 21.8 million RPS attack<a href="https://www.bleepingcomputer.com/news/security/new-m-ris-botnet-breaks-ddos-record-with-218-million-rps-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new distributed denial-of-service (DDoS) botnet that kept growing over the summer has been hammering Russian internet giant Yandex for the past month, the attack peaking at the unprecedented rate of 21.8 million requests per second.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
