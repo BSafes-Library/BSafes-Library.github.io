@@ -6,6 +6,78 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2021 - SEC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho Releases Security Update for ADSelfService Plus <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/09/07/zoho-releases-security-update-adselfservice-plus"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho has released a security update on a vulnerability (CVE-2021-40539) affecting ManageEngine ADSelfService Plus builds 6113 and below. CVE-2021-40539 has been detected in exploits in the wild. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2021 - SEC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be on the Lookout for Investment Scams Related to Hurricane Ida <a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/be-lookout"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC’s Office of Investor Education and Advocacy is issuing this Investor Alert to help educate investors, including individuals who may receive lump sum payouts from insurance companies and others as a result of damage from Hurricane Ida, about investment scams.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Releases Security Updates for Confluence Server and Data Center <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/09/03/atlassian-releases-security-updates-confluence-server-and-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 25, 2021, Atlassian released security updates to address a remote code execution vulnerability (CVE-2021-26084) affecting Confluence Server and Data Center. Recently, CVE-2021-26084 has been detected in exploits in the wild.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns about an Increase in Sextortion Complaints <a href="https://www.ic3.gov/Media/Y2021/PSA210902"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI Internet Crime Complaint Center (IC3) warns about a large increase in the number of sextortion complaints. Sextortion occurs when someone threatens to distribute your private and sensitive material if their demands are not met.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Security Updates for Cisco Enterprise NFVIS <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/09/02/cisco-releases-security-updates-cisco-enterprise-nfvis"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address a critical vulnerability affecting Cisco Enterprise Network Function Virtualization Infrastructure Software (NFVIS) Release 4.5.1. A remote attacker could exploit this vulnerability to take control of an affected system. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminal Actors Targeting the Food and Agriculture Sector with Ransomware Attacks <a href="https://publications.bsafes.com/docs/fbi/pin-2021-0901-01-cyber-criminal-actors-targeting-the-food-and-agriculture-sector-with-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks targeting the Food and Agriculture sector disrupt operations, cause financial loss, and negatively impact the food supply chain. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 31, 2021 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
