@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York State fixes vulnerability in COVID-19 passport app that allowed storage of fake vaccine credentials<a href="https://www.zdnet.com/article/new-york-state-fixes-vulnerability-in-covid-19-passport-app-that-allowed-storage-of-fake-vaccine-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug allowed someone to create and store fake vaccine credentials in their NYS Excelsior Pass Wallet that might allow them to gain access to physical spaces where they would not be allowed without a legitimate vaccine credential.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Patches Security Flaws in Core Node.js Dependencies<a href="https://www.securityweek.com/github-patches-security-flaws-core-nodejs-dependencies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four of the identified security holes impact the npm CLI when a malicious or untrusted npm package is installed and could lead to code execution even when using the --ignore-scripts argument.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Security Flaws in IOS XR<a href="https://www.securityweek.com/cisco-patches-high-severity-security-flaws-ios-xr?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week released patches for multiple high-severity vulnerabilities in the IOS XR software and warned that attackers could exploit these bugs to reboot devices, elevate privileges, or overwrite and read arbitrary files.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Azurescape flaw in Azure Container Instances<a href="https://securityaffairs.co/wordpress/122081/hacking/microsoft-azurescape-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed the Azurescape issue, a flaw in Azure Container Instances that allows to take over containers of other platform users. 
+
+
+
+Microsoft has addressed a vulnerability in Azure Container Instances (ACI) called Azurescape that could have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujitsu Confirms Stolen Data Marketed By Cybercriminals in Marketo is Not Theirs<a href="https://www.techtimes.com/articles/265244/20210910/fujitsu-confirms-stolen-data-marketed-cybercriminals-marketo-theirs.htm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fujitsu released an official statement regarding the data being marketed by cybercriminals online. The company said that it is not related to a cyberattack on its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare orgs in California, Arizona send out breach letters for nearly 150 000 after SSNs accessed during ransomware attacks<a href="https://www.zdnet.com/article/healthcare-orgs-in-california-arizona-send-out-breach-notice-letters-for-nearly-150000-after-ssns-accessed-during-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two healthcare organizations have begun sending out breach notification letters to thousands of people in California and Arizona after both revealed that sensitive information were accessed during recent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyRepublic discloses data breach exposing government ID cards<a href="https://www.bleepingcomputer.com/news/security/myrepublic-discloses-data-breach-exposing-government-id-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MyRepublic Singapore has disclosed a data breach exposing the personal information of approximately 80,000 mobile subscribers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

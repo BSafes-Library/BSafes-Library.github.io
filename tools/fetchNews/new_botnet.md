@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mēris Botnet Hit Russia's Yandex With Massive 22 Million RPS DDoS Attack<a href="https://thehackernews.com/2021/09/meris-botnet-hit-russias-yandex-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian internet giant Yandex has been the target of a record-breaking distributed denial-of-service (DDoS) attack by a new botnet called Mēris.  The botnet is believed to have pummeled the company's web infrastructure with millions of HTTP requests, before hitting a peak of 21.8 million requests per second (RPS), dwarfing a recent botnet-powered attack that came to light last month,&nbsp; bombarding &nbsp;an unnamed Cloudflare customer in the financial industry with 17.2 million RPS.  Russian DDoS mitigation service Qrator Labs, which disclosed details of the attack on Thursday, called&nbsp; Mēris &nbsp;— meaning "Plague" in the Latvian language — a "botnet of a new kind."&nbsp;   "It is also clear that this particular botnet is still growing. There is a suggestion that the botnet could grow in force through password brute-forcing, although we tend to neglect that as a slight possibility. That looks like some vulnerability that was either kept secret before the massive campaign&amp;#
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

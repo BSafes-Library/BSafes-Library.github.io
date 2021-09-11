@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujitsu Confirms Stolen Data Marketed By Cybercriminals in Marketo is Not Theirs<a href="https://www.techtimes.com/articles/265244/20210910/fujitsu-confirms-stolen-data-marketed-cybercriminals-marketo-theirs.htm?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Tech Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mēris Botnet Hit Russia's Yandex With Massive 22 Million RPS DDoS Attack<a href="https://thehackernews.com/2021/09/meris-botnet-hit-russias-yandex-with.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SOVA Android Banking trojan is rapidly growing<a href="https://securityaffairs.co/wordpress/122090/cyber-crime/sova-android-banking-trojan.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Dridex Variant Being Spread By Crafted Excel Document<a href="https://www.fortinet.com/blog/threat-research/new-dridex-variant-being-spread-by-crafted-excel-document?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Fortinet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp to Finally Let Users Encrypt Their Chat Backups in the Cloud<a href="https://thehackernews.com/2021/09/whatsapp-to-finally-let-users-encrypt.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York State fixes vulnerability in COVID-19 passport app that allowed storage of fake vaccine credentials<a href="https://www.zdnet.com/article/new-york-state-fixes-vulnerability-in-covid-19-passport-app-that-allowed-storage-of-fake-vaccine-credentials/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Patches Security Flaws in Core Node.js Dependencies<a href="https://www.securityweek.com/github-patches-security-flaws-core-nodejs-dependencies?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare orgs in California, Arizona send out breach letters for nearly 150 000 after SSNs accessed during ransomware attacks<a href="https://www.zdnet.com/article/healthcare-orgs-in-california-arizona-send-out-breach-notice-letters-for-nearly-150000-after-ssns-accessed-during-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches High-Severity Security Flaws in IOS XR<a href="https://www.securityweek.com/cisco-patches-high-severity-security-flaws-ios-xr?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 10th 2021 - REvil returns<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-10th-2021-revil-returns/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Steps For Securing Your Remote Work Space<a href="https://threatpost.com/5-steps-securing-remote-work-space/169324/"> Full Text</a>
@@ -214,7 +214,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyRepublic discloses data breach exposing government ID cards<a href="https://www.bleepingcomputer.com/news/security/myrepublic-discloses-data-breach-exposing-government-id-cards/"> Full Text</a>
@@ -230,7 +230,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Azurescape flaw in Azure Container Instances<a href="https://securityaffairs.co/wordpress/122081/hacking/microsoft-azurescape-flaw.html"> Full Text</a>
@@ -250,7 +250,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grayfly APT uses recently discovered Sidewalk backdoor<a href="https://securityaffairs.co/wordpress/122069/apt/grayfly-apt-backdoor.html"> Full Text</a>

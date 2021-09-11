@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 10th 2021 - REvil returns<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-10th-2021-revil-returns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week marked the return of the notorious REvil ransomware group, who disappeared in July after conducting a massive attack using a Kaseya zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp to Finally Let Users Encrypt Their Chat Backups in the Cloud<a href="https://thehackernews.com/2021/09/whatsapp-to-finally-let-users-encrypt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp on Friday&nbsp; announced &nbsp;it will roll out support for end-to-end encrypted chat backups on the cloud for Android and iOS users, paving the way for storing information such as chat messages and photos in Apple iCloud or Google Drive in a cryptographically secure manner.  The feature, which will go live to all of its two billion users in the coming weeks, is expected to only work on the primary devices tied to their accounts, and not companion devices such as desktops or laptops that simply mirror the content of WhatsApp on the phones.  While the Facebook-owned messaging platform flipped the switch on end-to-end encryption (E2EE) for personal messages, calls, video chats, and media between senders and recipients&nbsp; as far back as April 2016 , the content — should a user opt to back up on the cloud to enable the transfer of chat history to a new device — wasn't subjected to the same security protections until now.   "With the introduction of end-to-end encrypted backups, Wha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
