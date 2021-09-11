@@ -34,7 +34,247 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujitsu Confirms Stolen Data Marketed By Cybercriminals in Marketo is Not Theirs<a href="https://www.techtimes.com/articles/265244/20210910/fujitsu-confirms-stolen-data-marketed-cybercriminals-marketo-theirs.htm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fujitsu released an official statement regarding the data being marketed by cybercriminals online. The company said that it is not related to a cyberattack on its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mēris Botnet Hit Russia's Yandex With Massive 22 Million RPS DDoS Attack<a href="https://thehackernews.com/2021/09/meris-botnet-hit-russias-yandex-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian internet giant Yandex has been the target of a record-breaking distributed denial-of-service (DDoS) attack by a new botnet called Mēris.  The botnet is believed to have pummeled the company's web infrastructure with millions of HTTP requests, before hitting a peak of 21.8 million requests per second (RPS), dwarfing a recent botnet-powered attack that came to light last month,  bombarding  an unnamed Cloudflare customer in the financial industry with 17.2 million RPS.  Russian DDoS mitigation service Qrator Labs, which disclosed details of the attack on Thursday, called  Mēris  — meaning "Plague" in the Latvian language — a "botnet of a new kind."    "It is also clear that this particular botnet is still growing. There is a suggestion that the botnet could grow in force through password brute-forcing, although we tend to neglect that as a slight possibility. That looks like some vulnerability that was either kept secret before the massive campaign&#
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SOVA Android Banking trojan is rapidly growing<a href="https://securityaffairs.co/wordpress/122090/cyber-crime/sova-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOVA is a new Android banking trojan that targets banking applications, cryptocurrency wallets, and shopping apps from the U.S. and Spain.
+
+
+
+Researchers from cybersecurity firm ThreatFabric have spotted in the beginning of August a new Android banking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dridex Variant Being Spread By Crafted Excel Document<a href="https://www.fortinet.com/blog/threat-research/new-dridex-variant-being-spread-by-crafted-excel-document?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dridex is a Trojan malware, also known as Bugat or Cridex, which is capable of stealing sensitive information from infected machines and delivering and executing malicious modules (dll).
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp to Finally Let Users Encrypt Their Chat Backups in the Cloud<a href="https://thehackernews.com/2021/09/whatsapp-to-finally-let-users-encrypt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp on Friday  announced  it will roll out support for end-to-end encrypted chat backups on the cloud for Android and iOS users, paving the way for storing information such as chat messages and photos in Apple iCloud or Google Drive in a cryptographically secure manner.  The feature, which will go live to all of its two billion users in the coming weeks, is expected to only work on the primary devices tied to their accounts, and not companion devices such as desktops or laptops that simply mirror the content of WhatsApp on the phones.  While the Facebook-owned messaging platform flipped the switch on end-to-end encryption (E2EE) for personal messages, calls, video chats, and media between senders and recipients  as far back as April 2016 , the content — should a user opt to back up on the cloud to enable the transfer of chat history to a new device — wasn't subjected to the same security protections until now.   "With the introduction of end-to-end encrypted backups, Wha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York State fixes vulnerability in COVID-19 passport app that allowed storage of fake vaccine credentials<a href="https://www.zdnet.com/article/new-york-state-fixes-vulnerability-in-covid-19-passport-app-that-allowed-storage-of-fake-vaccine-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug allowed someone to create and store fake vaccine credentials in their NYS Excelsior Pass Wallet that might allow them to gain access to physical spaces where they would not be allowed without a legitimate vaccine credential.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Patches Security Flaws in Core Node.js Dependencies<a href="https://www.securityweek.com/github-patches-security-flaws-core-nodejs-dependencies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four of the identified security holes impact the npm CLI when a malicious or untrusted npm package is installed and could lead to code execution even when using the --ignore-scripts argument.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare orgs in California, Arizona send out breach letters for nearly 150 000 after SSNs accessed during ransomware attacks<a href="https://www.zdnet.com/article/healthcare-orgs-in-california-arizona-send-out-breach-notice-letters-for-nearly-150000-after-ssns-accessed-during-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two healthcare organizations have begun sending out breach notification letters to thousands of people in California and Arizona after both revealed that sensitive information were accessed during recent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Security Flaws in IOS XR<a href="https://www.securityweek.com/cisco-patches-high-severity-security-flaws-ios-xr?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week released patches for multiple high-severity vulnerabilities in the IOS XR software and warned that attackers could exploit these bugs to reboot devices, elevate privileges, or overwrite and read arbitrary files.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 10th 2021 - REvil returns<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-10th-2021-revil-returns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week marked the return of the notorious REvil ransomware group, who disappeared in July after conducting a massive attack using a Kaseya zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Steps For Securing Your Remote Work Space<a href="https://threatpost.com/5-steps-securing-remote-work-space/169324/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With so many people still working from home, cybercriminals are trying to cash in. Cyberattacks have increased 300% and the risk of losing important data or being compromised is much greater at home.Here are five recommendations for securing your home office.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyRepublic discloses data breach exposing government ID cards<a href="https://www.bleepingcomputer.com/news/security/myrepublic-discloses-data-breach-exposing-government-id-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MyRepublic Singapore has disclosed a data breach exposing the personal information of approximately 80,000 mobile subscribers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Azurescape flaw in Azure Container Instances<a href="https://securityaffairs.co/wordpress/122081/hacking/microsoft-azurescape-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed the Azurescape issue, a flaw in Azure Container Instances that allows to take over containers of other platform users. 
+
+
+
+Microsoft has addressed a vulnerability in Azure Container Instances (ACI) called Azurescape that could have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grayfly APT uses recently discovered Sidewalk backdoor<a href="https://securityaffairs.co/wordpress/122069/apt/grayfly-apt-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Broadcom's Symantec linked a previously undocumented backdoor to the Chinese Grayfly operation.
+
+
+
+Experts from Broadcom's Symantec linked a previously undocumented backdoor to the Chinese Grayfly operation. 
+
+
+
+In late August,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PYSA Ransomware Gang adds Linux Support<a href="https://www.lacework.com/blog/pysa-ransomware-gang-adds-linux-support/?&web_view=true"> Full Text</a>
@@ -50,7 +290,7 @@ Lacework
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moving Forward After CentOS 8 EOL<a href="https://thehackernews.com/2021/09/moving-forward-after-centos-8-eol.html"> Full Text</a>
@@ -66,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts confirmed that the networks of the United Nations were hacked earlier this year<a href="https://securityaffairs.co/wordpress/122064/data-breach/united-nations-data-breach.html"> Full Text</a>
@@ -86,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen Credentials Led to Data Theft at United Nations<a href="https://threatpost.com/data-theft-united-nations/169357/"> Full Text</a>
@@ -102,7 +342,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google debuts new Private Compute features in ramp up of Android security<a href="https://www.zdnet.com/article/google-debuts-new-private-compute-features-to-ramp-up-android-security/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -118,7 +358,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SOVA: New Android Banking Trojan Emerges With Growing Capabilities<a href="https://thehackernews.com/2021/09/sova-new-android-banking-trojan-emerges.html"> Full Text</a>
@@ -134,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International money launderer sentenced to more than 11 years<a href="https://securityaffairs.co/wordpress/122058/breaking-news/money-launderer-senteced.html"> Full Text</a>
@@ -154,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spook.js – New side-channel attack can bypass Google Chrome’s protections against Spectre-style exploits<a href="https://portswigger.net/daily-swig/spook-js-new-side-channel-attack-can-bypass-google-chromes-protections-against-spectre-style-exploits?&web_view=true"> Full Text</a>
@@ -170,7 +410,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Link Sidewalk Malware Attacks to Grayfly Chinese Hacker Group<a href="https://thehackernews.com/2021/09/experts-link-sidewalk-malware-attacks.html"> Full Text</a>
@@ -186,7 +426,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are leaking children’s data — and there’s little parents can do<a href="https://www.nbcnews.com/tech/security/hackers-are-leaking-childrens-data-s-little-parents-can-rcna1926?&web_view=true"> Full Text</a>
@@ -202,7 +442,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reuters: Wide-ranging SolarWinds probe sparks fear in Corporate America<a href="https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/?&web_view=true"> Full Text</a>
@@ -218,7 +458,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyRepublic customer data compromised in third-party security breach<a href="https://www.zdnet.com/article/myrepublic-customers-compromised-in-third-party-data-breach/?&web_view=true"> Full Text</a>
@@ -234,7 +474,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Genesis: The market created by cybercriminals to make millions selling your digital identity<a href="https://www.cbsnews.com/news/genesis-cybercriminal-market-ransomware/?&web_view=true"> Full Text</a>
@@ -250,7 +490,7 @@ CBS News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2021
+September 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virginia National Guard confirms cyberattack hit Virginia Defense Force email accounts<a href="https://www.zdnet.com/article/virginia-national-guard-confirms-cyberattack-hit-virginia-defense-force-email-accounts/?&web_view=true"> Full Text</a>
@@ -266,7 +506,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2021
+September 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Cross-Account Takeover Bug in Azure Container Instances<a href="https://thehackernews.com/2021/09/microsoft-warns-of-cross-account.html"> Full Text</a>
