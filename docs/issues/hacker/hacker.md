@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Puma Source Code for an Internal Application<a href="https://therecord.media/hackers-stole-puma-source-code-no-customer-data-company-says/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have stolen information from sportswear maker Puma and are currently trying to extort the company into paying a ransom demand, threatening to release the stolen files on a dark web portal.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Kumsong 121 recently employed social media to launch a cyber attack<a href="https://www.dailynk.com/english/north-korea-kumsong-121-recently-employed-social-media-launch-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean hacker group Kumsong 121 recently launched a cyber attack using social media. Computer and mobile phone users should be wary as North Korean hacking attacks grow more sophisticated.
+</details>
+<div style="text-align: right" markdown="1">
+dailynk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

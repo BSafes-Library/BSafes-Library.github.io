@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSHTML zero-day exploits shared on hacking forums<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-exploits-shared-on-hacking-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are sharing working Windows CVE-2021-40444 MSHTML zero-day exploits on hacking forums, allowing other hackers to start exploiting the new vulnerability in their own attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco released security patches for High-Severity flaws in IOS XR software<a href="https://securityaffairs.co/wordpress/122100/security/cisco-ios-xr-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed multiple high-severity flaws in the IOS XR software that can allow attackers to trigger a DoS condition, elevate privileges, overwrite/read arbitrary files. 
+
+
+
+Cisco released security updates to address multiple high-severity vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

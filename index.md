@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware hits medical technology giant Olympus<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-hits-medical-technology-giant-olympus/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp details plans to offer encrypted backups<a href="https://www.zdnet.com/article/whatsapp-details-plans-to-offer-encrypted-backups/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SpookJS Attack Bypasses Google Chrome's Site Isolation Protection<a href="https://thehackernews.com/2021/09/new-spookjs-attack-bypasses-google.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware gang hit Technology giant Olympus<a href="https://securityaffairs.co/wordpress/122140/cyber-crime/blackmatter-ransomware-olympus.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Department of Justice and Constitutional Development of South Africa hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/122128/cyber-crime/department-of-justice-and-constitutional-development-of-south-africa-ransomware.html?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The new maxtrilha trojan is being disseminated and targeting several banks<a href="https://securityaffairs.co/wordpress/122134/malware/maxtrilha-banking-trojan.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal Puma Source Code for an Internal Application<a href="https://therecord.media/hackers-stole-puma-source-code-no-customer-data-company-says/?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Department of Justice and Constitutional Development of South Africa hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/122128/cyber-crime/department-of-justice-and-constitutional-development-of-south-africa-ransomware.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 County I.T. Supervisor Mined Bitcoin at the Office, Prosecutors Say<a href="https://www.nytimes.com/2021/09/08/nyregion/long-island-bitcoin-mining-arrest.html?&web_view=true"> Full Text</a>
@@ -190,7 +190,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Kumsong 121 recently employed social media to launch a cyber attack<a href="https://www.dailynk.com/english/north-korea-kumsong-121-recently-employed-social-media-launch-cyber-attack/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ dailynk
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Network security market growth driven by remote work popularity and security needs<a href="https://www.helpnetsecurity.com/2021/09/13/network-security-market-2025/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 2.0: Ransomware Attacks Surge After Successful Affiliate Recruitment<a href="https://securityintelligence.com/posts/lockbit-ransomware-attacks-surge-affiliate-recruitment/?&web_view=true"> Full Text</a>

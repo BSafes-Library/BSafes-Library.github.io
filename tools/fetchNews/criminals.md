@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revil ransomware operators are targeting new victims<a href="https://securityaffairs.co/wordpress/122106/cyber-crime/revil-ransomware-resumed-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently we observed that part of the REvil ransomware infrastructure was up and running again, now we can confirm that they hit new victims. 
+
+
+
+On September 7, the servers of the REvil ransomware gang were back online after around two months since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

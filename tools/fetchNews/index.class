@@ -34,6 +34,210 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware hits medical technology giant Olympus<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-hits-medical-technology-giant-olympus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Olympus, a leading medical technology company, is investigating a "potential cybersecurity incident" that impacted some of its EMEA (Europe, Middle East, Africa) IT systems last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp details plans to offer encrypted backups<a href="https://www.zdnet.com/article/whatsapp-details-plans-to-offer-encrypted-backups/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp announced on Friday it will be offering its users end-to-end encrypted backups later this year. Users will have a choice for how the encryption key used is stored.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SpookJS Attack Bypasses Google Chrome's Site Isolation Protection<a href="https://thehackernews.com/2021/09/new-spookjs-attack-bypasses-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered side-channel attack demonstrated on modern processors can be weaponized to successfully overcome  Site Isolation protections  weaved into Google Chrome and Chromium browsers and leak sensitive data in a  Spectre-style   speculative execution  attack.  Dubbed " Spook.js " by academics from the University of Michigan, University of Adelaide, Georgia Institute of Technology, and Tel Aviv University, the technique is a  JavaScript-based line of attack  that specifically aims to get around barriers Google put in place after Spectre and Meltdown vulnerabilities came to light in January 2018, thereby potentially preventing leakage by ensuring that content from different domains is not shared in the same address space.   "An attacker-controlled webpage can know which other pages from the same websites a user is currently browsing, retrieve sensitive information from these pages, and even recover login credentials (e.g., username and password) when they are au
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware gang hit Technology giant Olympus<a href="https://securityaffairs.co/wordpress/122140/cyber-crime/blackmatter-ransomware-olympus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technology giant Olympus announced it was the victim of a ransomware attack and is currently investigating the extent of the incident. 
+
+
+
+Olympus issued a statement to announce that its European, Middle East and Africa computer network was hit by a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Department of Justice and Constitutional Development of South Africa hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/122128/cyber-crime/department-of-justice-and-constitutional-development-of-south-africa-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the Department of Justice and Constitutional Development of South Africa. Multiple services including email and bail services were impacted by the ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The new maxtrilha trojan is being disseminated and targeting several banks<a href="https://securityaffairs.co/wordpress/122134/malware/maxtrilha-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new banking trojan dubbed maxtrilha (due to its encryption key) has been discovered in the last few days and targeting customers of European and South American banks. 
+
+
+
+The new maxtrilha trojan is being disseminated and targeting several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Puma Source Code for an Internal Application<a href="https://therecord.media/hackers-stole-puma-source-code-no-customer-data-company-says/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have stolen information from sportswear maker Puma and are currently trying to extort the company into paying a ransom demand, threatening to release the stolen files on a dark web portal.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Department of Justice and Constitutional Development of South Africa hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/122128/cyber-crime/department-of-justice-and-constitutional-development-of-south-africa-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice and Constitutional Development of South Africa was hit by a ransomware attack that crippled bail services.
+
+
+
+A ransomware attack hit the Department of Justice and Constitutional Development of South Africa, multiple services,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+County I.T. Supervisor Mined Bitcoin at the Office, Prosecutors Say<a href="https://www.nytimes.com/2021/09/08/nyregion/long-island-bitcoin-mining-arrest.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Long Island man was charged on Wednesday with using his position as an I.T. supervisor for Suffolk County to mine cryptocurrency from government offices, costing the county thousands of dollars in electricity.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Kumsong 121 recently employed social media to launch a cyber attack<a href="https://www.dailynk.com/english/north-korea-kumsong-121-recently-employed-social-media-launch-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean hacker group Kumsong 121 recently launched a cyber attack using social media. Computer and mobile phone users should be wary as North Korean hacking attacks grow more sophisticated.
+</details>
+<div style="text-align: right" markdown="1">
+dailynk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network security market growth driven by remote work popularity and security needs<a href="https://www.helpnetsecurity.com/2021/09/13/network-security-market-2025/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Frost & Sullivan’s recent analysis of the Asia-Pacific (APAC) network security (NWS) market finds that the increasing acceptance of remote work and adoption of cloud, the remote workplace, collaboration, and security are driving growth.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0: Ransomware Attacks Surge After Successful Affiliate Recruitment<a href="https://securityintelligence.com/posts/lockbit-ransomware-attacks-surge-affiliate-recruitment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a brief slowdown in activity from the LockBit ransomware gang following increased attention from law enforcement, LockBit is back with a new affiliate program, improved payloads and a change in infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

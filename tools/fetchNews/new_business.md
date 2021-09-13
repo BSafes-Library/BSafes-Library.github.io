@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp details plans to offer encrypted backups<a href="https://www.zdnet.com/article/whatsapp-details-plans-to-offer-encrypted-backups/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp announced on Friday it will be offering its users end-to-end encrypted backups later this year. Users will have a choice for how the encryption key used is stored.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
