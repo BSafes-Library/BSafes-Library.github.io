@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware is back in full attack mode and leaking data<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-is-back-in-full-attack-mode-and-leaking-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has fully returned and is once again attacking new victims and publishing stolen files on a data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

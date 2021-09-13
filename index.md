@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2021
+September 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows MSHTML zero-day exploits shared on hacking forums<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-exploits-shared-on-hacking-forums/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2021
+September 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google implements new Private Compute Services for Android<a href="https://securityaffairs.co/wordpress/122120/mobile-2/private-compute-services-android.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2021
+September 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revil ransomware operators are targeting new victims<a href="https://securityaffairs.co/wordpress/122106/cyber-crime/revil-ransomware-resumed-operations.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2021
+September 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 331<a href="https://securityaffairs.co/wordpress/122113/breaking-news/security-affairs-newsletter-round-331.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware is back in full attack mode and leaking data<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-is-back-in-full-attack-mode-and-leaking-data/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2021
+September 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco released security patches for High-Severity flaws in IOS XR software<a href="https://securityaffairs.co/wordpress/122100/security/cisco-ios-xr-flaws.html"> Full Text</a>

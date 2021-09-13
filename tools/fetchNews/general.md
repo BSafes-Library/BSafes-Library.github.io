@@ -11,6 +11,20 @@ nav_order: 900072
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+5 Steps For Securing Your Remote Work Space<a href="https://threatpost.com/5-steps-securing-remote-work-space/169324/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With so many people still working from home, cybercriminals are trying to cash in. Cyberattacks have increased 300% and the risk of losing important data or being compromised is much greater at home.Here are five recommendations for securing your home office.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Reuters: Wide-ranging SolarWinds probe sparks fear in Corporate America<a href="https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
