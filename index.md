@@ -34,6 +34,122 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSHTML zero-day exploits shared on hacking forums<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-exploits-shared-on-hacking-forums/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are sharing working Windows CVE-2021-40444 MSHTML zero-day exploits on hacking forums, allowing other hackers to start exploiting the new vulnerability in their own attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google implements new Private Compute Services for Android<a href="https://securityaffairs.co/wordpress/122120/mobile-2/private-compute-services-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduces Private Compute Services, a collection of services aimed at designing to improve privacy in the Android operating system.
+
+
+
+Good news for Android users, Google has implemented the Private Compute Services, a set of features aimed at improving...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revil ransomware operators are targeting new victims<a href="https://securityaffairs.co/wordpress/122106/cyber-crime/revil-ransomware-resumed-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently we observed that part of the REvil ransomware infrastructure was up and running again, now we can confirm that they hit new victims. 
+
+
+
+On September 7, the servers of the REvil ransomware gang were back online after around two months since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 331<a href="https://securityaffairs.co/wordpress/122113/breaking-news/security-affairs-newsletter-round-331.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.
+
+
+
+Cisco...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware is back in full attack mode and leaking data<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-is-back-in-full-attack-mode-and-leaking-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware gang has fully returned and is once again attacking new victims and publishing stolen files on a data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco released security patches for High-Severity flaws in IOS XR software<a href="https://securityaffairs.co/wordpress/122100/security/cisco-ios-xr-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed multiple high-severity flaws in the IOS XR software that can allow attackers to trigger a DoS condition, elevate privileges, overwrite/read arbitrary files. 
+
+
+
+Cisco released security updates to address multiple high-severity vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
