@@ -34,6 +34,341 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches 10th Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/google/google-patches-10th-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 93.0.4577.82 for Windows, Mac, and Linux to fix eleven security vulnerabilities, two of them being zero-days exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware distributed in Mexico uses Covid-19 to steal financial credentials<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-malware-distributed-in-mexico-uses-covid-19-to-steal-financial-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Mobile Malware Research Team has identified malware targeting Mexico. It poses as a security banking tool or as a bank application designed to report an out-of-service ATM.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple issues emergency updates over vulnerability enabling spyware<a href="https://thehill.com//policy/cybersecurity/572022-apple-issues-emergency-updates-over-vulnerability-enabling-spyware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released a series of emergency security updates following the discovery of a vulnerability that allowed Israeli company NSO Group to infect Apple products with spyware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Implementation of Cobalt Strike Beacon Targeting Organizations Worldwide<a href="https://thehackernews.com/2021/09/linux-implementation-of-cobalt-strike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers on Monday took the wraps off a newly discovered Linux and Windows re-implementation of  Cobalt Strike Beacon  that's actively set its sights on government, telecommunications, information technology, and financial institutions in the wild.  The as-yet undetected version of the penetration testing tool — codenamed "Vermilion Strike" — marks one of the  rare Linux ports , which has been traditionally a Windows-based red team tool heavily repurposed by adversaries to mount an array of targeted attacks. Cobalt Strike bills itself as a " threat emulation software ," with Beacon being the payload engineered to model an advanced actor and duplicate their post-exploitation actions.   "The stealthy sample uses Cobalt Strike's command-and-control (C2) protocol when communicating to the C2 server and has remote access capabilities such as uploading files, running shell commands and writing to files," Intezer researchers said in a report  publishe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes actively exploited FORCEDENTRY zero-day flaws<a href="https://securityaffairs.co/wordpress/122166/security/apple-forcedentry-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security patches to fix two zero-day vulnerabilities in iOS and macOS that are actively exploited in attacks in the wild.
+
+
+
+Apple rolled out security patches to fix a couple of zero-day flaws in iOS and macOS (CVE-2021-30860, CVE-2021-30858),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp’s End-to-End Encryption Isn’t Actually Broken<a href="https://threatpost.com/whatsapp-end-encryption-broken/169399/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp’s moderators sent messages flagged by intended recipients. Researchers say this isn’t concerning — yet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes iOS zero-day used to deploy NSO iPhone spyware<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-ios-zero-day-used-to-deploy-nso-iphone-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix two zero-day vulnerabilities that have been seen exploited in the wild to attack iPhones and Macs. One is known to be used to install the Pegasus spyware on iPhones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT-C-36 Updates Its Long-term Spam Campaign Against South American Entities With Commodity RATs<a href="https://www.trendmicro.com/en_us/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT-C-36 has been known to send phishing emails to various entities in South America using publicly available remote access tools (RATs). Over time, the threat actor switches from one RAT to another.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug Reported in NPM Package With Millions of Downloads Weekly<a href="https://thehackernews.com/2021/09/critical-bug-reported-in-npm-package.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widely used NPM package called ' Pac-Resolver ' for the JavaScript programming language has been remediated with a fix for a high-severity remote code execution vulnerability that could be abused to run malicious code inside Node.js applications whenever HTTP requests are sent.   The flaw, tracked as  CVE-2021-23406 , has a severity rating of 8.1 on the CVSS vulnerability scoring system and affects Pac-Resolver versions before 5.0.0.   A Proxy Auto-Configuration ( PAC ) file is a JavaScript function that determines whether web browser requests should be routed directly to the destination or forwarded to a web proxy server for a given hostname. PAC files are how proxy rules are distributed in enterprise environments.  "This package is used for PAC file support in  Pac-Proxy-Agent , which is used in turn in  Proxy-Agent , which then used all over the place as the standard go-to package for HTTP proxy auto-detection and configuration in Node.js," Tim Perry  said  in a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook announces WhatsApp end-to-end encrypted (E2EE) backups<a href="https://securityaffairs.co/wordpress/122156/security/whatsapp-e2ee-backups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook announced it will allow WhatsApp users to encrypt their message history backups in the cloud.
+
+
+
+Facebook will continue to work to protect the privacy of WhatsApp users and announced that it will allow users to encrypt their message history...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns of extortionists targeting LGBTQ+ community on dating apps<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-of-extortionists-targeting-lgbtq-plus-community-on-dating-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) warns of extortion scammers targeting the LGBTQ+ community via online dating apps such as Grindr and Feeld.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups continue assault on healthcare orgs as COVID-19 infections increase<a href="https://www.zdnet.com/article/ransomware-groups-continue-assault-on-healthcare-orgs-as-covid-19-infections-increase/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups have shown no signs of slowing down their assault on hospitals, seemingly ramping up attacks on healthcare institutions as dozens of countries deal with a new wave of COVID-19 infections thanks to the potent Delta variant.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Spook.Js attack allows to bypass Google Chrome Site Isolation protections<a href="https://securityaffairs.co/wordpress/122146/hacking/spook-js-side-channel-attack-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spook.js is a new side-channel attack on modern processors that can allow bypassing Site Isolation protections implemented in Google Chrome.  
+
+
+
+Boffins devised a transient side-channel attack on modern processors, "Spook.js," that can be abused by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker-made Linux Cobalt Strike beacon used in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/hacker-made-linux-cobalt-strike-beacon-used-in-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial Cobalt Strike Beacon Linux version made by unknown threat actors from scratch has been spotted by security researchers while actively used in attacks targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud Raises $159M To Aid User And Device Management<a href="https://www.crn.com/news/security/jumpcloud-raises-159m-to-aid-user-and-device-management?itc=refresh&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JumpCloud, an identity management provider, has closed its Series F round and notched a $2.56 billion valuation to add additional capabilities to its directory platform and drive channel sales.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore moots 'foreign interference' law with powers to issue online platforms take-down order<a href="https://www.zdnet.com/article/singapore-moots-foreign-interference-law-with-powers-to-issue-online-platforms-take-down-order/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore has mooted new laws that will arm the government with the ability to issue directives to various platforms, including social media and websites, to remove or block access to content deemed part of hostile information campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Behind the Leaks of Customer Data From Retailer Databases?<a href="https://securityintelligence.com/articles/behind-leaks-customer-data-retailer-databases/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retail data breaches involving customer data happen often today. However, they tend to be smaller in size than health care, finance, or government breaches. So, the general public notices them less. Yet, they happen more often than realized.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Attacks Ramps up at 2X Speed<a href="https://cyware.com/news/iot-attacks-ramps-up-at-2x-speed-7c73116b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, the first half of 2021 witnessed 1.5 billion IoT attacks, double the number from the previous year, with a variety of intentions, including mining cryptocurrency and stealing data. Attackers are largely using weak passwords to infect IoT targets. IoT users are recommended to ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Golden SAML Tokens for Network Access<a href="https://cyware.com/news/hackers-target-golden-saml-tokens-for-network-access-35dbfad3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group spotted targeting the Active Directory server of a victim’s Office365 environment by gaining access to the secret SAML tokens, which generally pass information about users, logins, and attributes between the identity and service providers. &nbsp;Experts suggest implementing additional  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sodinokibi Ransomware through the Lens of IR and Collaborative Threat Intelligence<a href="https://cyware.com/news/sodinokibi-ransomware-through-the-lens-of-ir-and-collaborative-threat-intelligence-8de430cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have used Incident Response (IR) and shared intelligence together for analyzing Sodinokibi ransomware’s behavior and offered a similar collaborative approach to counter threats. IBM researchers  have assorted Sodinokibi TTPs from many of its attacks and laid bare its activities in ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
