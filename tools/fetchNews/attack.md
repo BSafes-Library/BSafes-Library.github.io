@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware hits medical technology giant Olympus<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-hits-medical-technology-giant-olympus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Olympus, a leading medical technology company, is investigating a "potential cybersecurity incident" that impacted some of its EMEA (Europe, Middle East, Africa) IT systems last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SpookJS Attack Bypasses Google Chrome's Site Isolation Protection<a href="https://thehackernews.com/2021/09/new-spookjs-attack-bypasses-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered side-channel attack demonstrated on modern processors can be weaponized to successfully overcome&nbsp; Site Isolation protections &nbsp;weaved into Google Chrome and Chromium browsers and leak sensitive data in a&nbsp; Spectre-style &nbsp; speculative execution &nbsp;attack.  Dubbed " Spook.js " by academics from the University of Michigan, University of Adelaide, Georgia Institute of Technology, and Tel Aviv University, the technique is a&nbsp; JavaScript-based line of attack &nbsp;that specifically aims to get around barriers Google put in place after Spectre and Meltdown vulnerabilities came to light in January 2018, thereby potentially preventing leakage by ensuring that content from different domains is not shared in the same address space.   "An attacker-controlled webpage can know which other pages from the same websites a user is currently browsing, retrieve sensitive information from these pages, and even recover login credentials (e.g., username and password) when they are au
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Department of Justice and Constitutional Development of South Africa hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/122128/cyber-crime/department-of-justice-and-constitutional-development-of-south-africa-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the Department of Justice and Constitutional Development of South Africa. Multiple services including email and bail services were impacted by the ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Department of Justice and Constitutional Development of South Africa hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/122128/cyber-crime/department-of-justice-and-constitutional-development-of-south-africa-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice and Constitutional Development of South Africa was hit by a ransomware attack that crippled bail services.
+
+
+
+A ransomware attack hit the Department of Justice and Constitutional Development of South Africa, multiple services,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0: Ransomware Attacks Surge After Successful Affiliate Recruitment<a href="https://securityintelligence.com/posts/lockbit-ransomware-attacks-surge-affiliate-recruitment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a brief slowdown in activity from the LockBit ransomware gang following increased attention from law enforcement, LockBit is back with a new affiliate program, improved payloads and a change in infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

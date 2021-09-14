@@ -8,6 +8,21 @@ nav_order: 900095
 
 ## IOT
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Attacks Ramps up at 2X Speed<a href="https://cyware.com/news/iot-attacks-ramps-up-at-2x-speed-7c73116b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Kaspersky, the first half of 2021 witnessed 1.5 billion IoT attacks, double the number from the previous year, with a variety of intentions, including mining cryptocurrency and stealing data. Attackers are largely using weak passwords to infect IoT targets. IoT users are recommended to ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

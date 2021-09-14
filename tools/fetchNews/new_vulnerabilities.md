@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google patches 10th Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/google/google-patches-10th-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 93.0.4577.82 for Windows, Mac, and Linux to fix eleven security vulnerabilities, two of them being zero-days exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple issues emergency updates over vulnerability enabling spyware<a href="https://thehill.com//policy/cybersecurity/572022-apple-issues-emergency-updates-over-vulnerability-enabling-spyware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released a series of emergency security updates following the discovery of a vulnerability that allowed Israeli company NSO Group to infect Apple products with spyware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes actively exploited FORCEDENTRY zero-day flaws<a href="https://securityaffairs.co/wordpress/122166/security/apple-forcedentry-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security patches to fix two zero-day vulnerabilities in iOS and macOS that are actively exploited in attacks in the wild.
+
+
+
+Apple rolled out security patches to fix a couple of zero-day flaws in iOS and macOS (CVE-2021-30860, CVE-2021-30858),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp’s End-to-End Encryption Isn’t Actually Broken<a href="https://threatpost.com/whatsapp-end-encryption-broken/169399/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp’s moderators sent messages flagged by intended recipients. Researchers say this isn’t concerning — yet.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes iOS zero-day used to deploy NSO iPhone spyware<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-ios-zero-day-used-to-deploy-nso-iphone-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix two zero-day vulnerabilities that have been seen exploited in the wild to attack iPhones and Macs. One is known to be used to install the&nbsp;Pegasus spyware on iPhones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug Reported in NPM Package With Millions of Downloads Weekly<a href="https://thehackernews.com/2021/09/critical-bug-reported-in-npm-package.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widely used NPM package called ' Pac-Resolver ' for the JavaScript programming language has been remediated with a fix for a high-severity remote code execution vulnerability that could be abused to run malicious code inside Node.js applications whenever HTTP requests are sent.&nbsp;  The flaw, tracked as&nbsp; CVE-2021-23406 , has a severity rating of 8.1 on the CVSS vulnerability scoring system and affects Pac-Resolver versions before 5.0.0.   A Proxy Auto-Configuration ( PAC ) file is a JavaScript function that determines whether web browser requests should be routed directly to the destination or forwarded to a web proxy server for a given hostname. PAC files are how proxy rules are distributed in enterprise environments.  "This package is used for PAC file support in&nbsp; Pac-Proxy-Agent , which is used in turn in&nbsp; Proxy-Agent , which then used all over the place as the standard go-to package for HTTP proxy auto-detection and configuration in Node.js," Tim Perry&nbsp; said &nbsp;in a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900027
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud Raises $159M To Aid User And Device Management<a href="https://www.crn.com/news/security/jumpcloud-raises-159m-to-aid-user-and-device-management?itc=refresh&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JumpCloud, an identity management provider, has closed its Series F round and notched a $2.56 billion valuation to add additional capabilities to its directory platform and drive channel sales.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp details plans to offer encrypted backups<a href="https://www.zdnet.com/article/whatsapp-details-plans-to-offer-encrypted-backups/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

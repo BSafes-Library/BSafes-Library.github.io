@@ -11,6 +11,38 @@ nav_order: 900015
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Spook.Js attack allows to bypass Google Chrome Site Isolation protections<a href="https://securityaffairs.co/wordpress/122146/hacking/spook-js-side-channel-attack-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spook.js is a new side-channel attack on modern processors that can allow bypassing Site Isolation protections&nbsp;implemented in Google Chrome.  
+
+
+
+Boffins devised a transient&nbsp;side-channel attack on modern processors, "Spook.js," that can be abused by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker-made Linux Cobalt Strike beacon used in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/hacker-made-linux-cobalt-strike-beacon-used-in-ongoing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial Cobalt Strike Beacon Linux version made by unknown threat actors from scratch has been spotted by security researchers while actively used in attacks targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware hits medical technology giant Olympus<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-hits-medical-technology-giant-olympus/"> Full Text</a>
 </p>
 <details>

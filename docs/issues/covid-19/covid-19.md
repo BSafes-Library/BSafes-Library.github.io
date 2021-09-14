@@ -8,6 +8,34 @@ nav_order: 900030
 
 ## Covid-19
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware distributed in Mexico uses Covid-19 to steal financial credentials<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-malware-distributed-in-mexico-uses-covid-19-to-steal-financial-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Mobile Malware Research Team has identified malware targeting Mexico. It poses as a security banking tool or as a bank application designed to report an out-of-service ATM.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware groups continue assault on healthcare orgs as COVID-19 infections increase<a href="https://www.zdnet.com/article/ransomware-groups-continue-assault-on-healthcare-orgs-as-covid-19-infections-increase/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups have shown no signs of slowing down their assault on hospitals, seemingly ramping up attacks on healthcare institutions as dozens of countries deal with a new wave of COVID-19 infections thanks to the potent Delta variant.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
