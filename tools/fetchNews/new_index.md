@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google patches 10th Chrome zero-day exploited in the wild this year<a href="https://www.bleepingcomputer.com/news/google/google-patches-10th-chrome-zero-day-exploited-in-the-wild-this-year/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware distributed in Mexico uses Covid-19 to steal financial credentials<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-malware-distributed-in-mexico-uses-covid-19-to-steal-financial-credentials/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple issues emergency updates over vulnerability enabling spyware<a href="https://thehill.com//policy/cybersecurity/572022-apple-issues-emergency-updates-over-vulnerability-enabling-spyware"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Implementation of Cobalt Strike Beacon Targeting Organizations Worldwide<a href="https://thehackernews.com/2021/09/linux-implementation-of-cobalt-strike.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes actively exploited FORCEDENTRY zero-day flaws<a href="https://securityaffairs.co/wordpress/122166/security/apple-forcedentry-zero-day-flaws.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp’s End-to-End Encryption Isn’t Actually Broken<a href="https://threatpost.com/whatsapp-end-encryption-broken/169399/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes iOS zero-day used to deploy NSO iPhone spyware<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-ios-zero-day-used-to-deploy-nso-iphone-spyware/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT-C-36 Updates Its Long-term Spam Campaign Against South American Entities With Commodity RATs<a href="https://www.trendmicro.com/en_us/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bug Reported in NPM Package With Millions of Downloads Weekly<a href="https://thehackernews.com/2021/09/critical-bug-reported-in-npm-package.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook announces WhatsApp end-to-end encrypted (E2EE) backups<a href="https://securityaffairs.co/wordpress/122156/security/whatsapp-e2ee-backups.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC warns of extortionists targeting LGBTQ+ community on dating apps<a href="https://www.bleepingcomputer.com/news/security/ftc-warns-of-extortionists-targeting-lgbtq-plus-community-on-dating-apps/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware groups continue assault on healthcare orgs as COVID-19 infections increase<a href="https://www.zdnet.com/article/ransomware-groups-continue-assault-on-healthcare-orgs-as-covid-19-infections-increase/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Spook.Js attack allows to bypass Google Chrome Site Isolation protections<a href="https://securityaffairs.co/wordpress/122146/hacking/spook-js-side-channel-attack-chrome.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker-made Linux Cobalt Strike beacon used in ongoing attacks<a href="https://www.bleepingcomputer.com/news/security/hacker-made-linux-cobalt-strike-beacon-used-in-ongoing-attacks/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JumpCloud Raises $159M To Aid User And Device Management<a href="https://www.crn.com/news/security/jumpcloud-raises-159m-to-aid-user-and-device-management?itc=refresh&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore moots 'foreign interference' law with powers to issue online platforms take-down order<a href="https://www.zdnet.com/article/singapore-moots-foreign-interference-law-with-powers-to-issue-online-platforms-take-down-order/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What’s Behind the Leaks of Customer Data From Retailer Databases?<a href="https://securityintelligence.com/articles/behind-leaks-customer-data-retailer-databases/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT Attacks Ramps up at 2X Speed<a href="https://cyware.com/news/iot-attacks-ramps-up-at-2x-speed-7c73116b"> Full Text</a>
@@ -335,7 +335,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Golden SAML Tokens for Network Access<a href="https://cyware.com/news/hackers-target-golden-saml-tokens-for-network-access-35dbfad3"> Full Text</a>
@@ -352,7 +352,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sodinokibi Ransomware through the Lens of IR and Collaborative Threat Intelligence<a href="https://cyware.com/news/sodinokibi-ransomware-through-the-lens-of-ir-and-collaborative-threat-intelligence-8de430cb"> Full Text</a>

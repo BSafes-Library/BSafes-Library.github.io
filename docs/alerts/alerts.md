@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021 - FTC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to spot extortion scams on LGBTQ+ dating apps <a href="https://www.consumer.ftc.gov/blog/2021/09/how-spot-extortion-scams-lgbtq-dating-apps"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We’re hearing about scams targeting people on LGBTQ+ dating apps, like Grindr and Feeld. And they aren’t your typical I-love-you, please-send-money romance scams. They’re extortion scams.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2021 - SEC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
