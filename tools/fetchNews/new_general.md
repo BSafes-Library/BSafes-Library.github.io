@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+General promises 'surge' to fight ransomware attacks<a href="https://thehill.com//policy/cybersecurity/572203-general-promises-surge-in-effect-to-fight-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gen. Paul Nakasone, the&nbsp;head of U.S. Cyber Command and director of the National Security Agency (NSA), is working to “surge” efforts to respond to the mounting ransomware attacks on critical U.S. organizations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Trust Requires Cloud Data Security with Integrated Continuous Endpoint Risk Assessment<a href="https://thehackernews.com/2021/09/zero-trust-requires-cloud-data-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every once in a while, an industry term will get overused by marketing to the point of becoming a cliche. "Zero Trust" may have reached this threshold.  In some ways, we understand why this is happening. Security perimeters have become obsolete as people use mobile devices and cloud applications to work from anywhere. Zero Trust deployment — moving all your apps and data to the cloud and assuming no user or device is trustworthy until proven otherwise in order to gain access — has been rapidly introduced as a result of the pandemic.  However, most attempts at achieving Zero Trust access today are a patchwork of disparate products from different vendors connected to virtual private networks (VPN), with rudimentary on-off access controls based on limited visibility.  Cloud security company,&nbsp; Lookout , believes a modern approach to Zero Trust needs to take into account the fact that data has moved to the cloud and users are working from anywhere, on any device, and connecting o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The state of ransomware: national emergencies and million-dollar blackmail<a href="https://www.zdnet.com/article/the-state-of-ransomware-national-emergencies-and-million-dollar-blackmail/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has become one of the most well-known and prevalent threats against the enterprise today. This year alone, we have seen high-profile cases of ransomware infection cause everything from business disruption to fuel shortages.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

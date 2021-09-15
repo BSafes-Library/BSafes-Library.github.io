@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top FBI official says there is 'no indication' Russia has taken action against hackers<a href="https://thehill.com//policy/cybersecurity/572184-top-fbi-official-says-there-is-no-indication-russia-has-taken-action"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Deputy Director Paul Abbate said Tuesday there&nbsp;has been&nbsp;“no indication” that the Russian government has taken steps to stop the activities of cyber criminals engaging in ransomware attacks against U.S. organizations, despite outreach efforts by the Biden administration.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

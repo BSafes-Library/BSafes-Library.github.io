@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sodinokibi Ransomware through the Lens of IR and Collaborative Threat Intelligence<a href="https://cyware.com/news/sodinokibi-ransomware-through-the-lens-of-ir-and-collaborative-threat-intelligence-8de430cb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have used Incident Response (IR) and shared intelligence together for analyzing Sodinokibi ransomware’s behavior and offered a similar collaborative approach to counter threats. IBM researchers  have assorted Sodinokibi TTPs from many of its attacks and laid bare its activities in ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

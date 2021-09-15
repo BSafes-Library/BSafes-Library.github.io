@@ -11,6 +11,21 @@ nav_order: 900080
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Golden SAML Tokens for Network Access<a href="https://cyware.com/news/hackers-target-golden-saml-tokens-for-network-access-35dbfad3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group spotted targeting the Active Directory server of a victim’s Office365 environment by gaining access to the secret SAML tokens, which generally pass information about users, logins, and attributes between the identity and service providers. &nbsp;Experts suggest implementing additional  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal Puma Source Code for an Internal Application<a href="https://therecord.media/hackers-stole-puma-source-code-no-customer-data-company-says/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

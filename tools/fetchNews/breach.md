@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Behind the Leaks of Customer Data From Retailer Databases?<a href="https://securityintelligence.com/articles/behind-leaks-customer-data-retailer-databases/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retail data breaches involving customer data happen often today. However, they tend to be smaller in size than health care, finance, or government breaches. So, the general public notices them less. Yet, they happen more often than realized.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

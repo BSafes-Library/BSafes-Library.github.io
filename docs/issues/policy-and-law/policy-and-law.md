@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former U.S. operatives agree to $1.68M settlement over mercenary hacking charges<a href="https://thehill.com//policy/cybersecurity/572254-former-us-intelligence-operatives-agree-to-pay-over-168-million-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three former U.S. intelligence and military personnel agreed to pay&nbsp;more than $1.68 million to settle federal charges over their alleged work as mercenary hackers for the United Arab Emirates (UAE).&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romance, BEC Scams Lands Soldier in Jail for 46 Months<a href="https://threatpost.com/romance-bec-scams-soldier-jail/169434/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Army Reservist pleaded guilty to scamming the elderly with catfishing and stealing from veterans.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

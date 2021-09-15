@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zloader attacks disable Windows Defender to evade detection<a href="https://www.bleepingcomputer.com/news/security/new-zloader-attacks-disable-windows-defender-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing Zloader campaign uses a new infection chain to disable Microsoft Defender Antivirus (formerly Windows Defender) on victims' computers to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware Hits Japanese Tech Giant Olympus<a href="https://threatpost.com/blackmatter-ransomware-olympus/169423/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident that occurred Sept. 8 and affected its EMEA IT systems seems to signal a return to business as usual for ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unearth Logic Bomb Attack in Python Package Index (PyPI)<a href="https://securityintelligence.com/articles/cryptominers-snuck-logic-bomb-into-python-packages/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers found six malicious payloads, all uploaded by a single user. The attacker designed them to run during a package’s installation. People have collectively downloaded these payloads around 5,000 times.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

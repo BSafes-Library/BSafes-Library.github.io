@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts attorney general announces investigation into T-Mobile data breach<a href="https://thehill.com//policy/cybersecurity/572237-massachusetts-attorney-general-announces-investigation-into-t-mobile"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Massachusetts Attorney General Maura Healey (D) on Tuesday announced that her office is undertaking an investigation into the recent data breach of T-Mobile that impacted&nbsp;more than 50 million individuals.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 60 Million Wearable, Fitness Tracking Records Exposed via Unsecured Database<a href="https://www.zdnet.com/article/over-60-million-records-exposed-in-wearable-fitness-tracking-data-breach-via-unsecured-database/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers said that over 61 million records were contained in the data repository, including vast swathes of user information -- such as their names, dates of birth, weight, height, gender, and GPS logs, among other datasets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

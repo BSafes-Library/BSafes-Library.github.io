@@ -30,8 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.bleepingcomputer.com/news/security/ftc-warns-of-extortionists-targeting-lgbtq-plus-community-on-dating-apps/
-
+. https://thehill.com//policy/cybersecurity/572184-top-fbi-official-says-there-is-no-indication-russia-has-taken-action
+ 
 Law
 
 APT

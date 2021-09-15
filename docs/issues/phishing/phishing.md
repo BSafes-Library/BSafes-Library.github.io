@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSID Stripping: New Method for Tricking Users Into Connecting to Rogue APs<a href="https://www.securityweek.com/ssid-stripping-new-method-tricking-users-connecting-rogue-aps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers has identified what appears to be a new method that malicious actors could use to trick users into connecting to their wireless access points (APs).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

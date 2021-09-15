@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes remaining Windows PrintNightmare vulnerabilities<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remaining-windows-printnightmare-vulnerabilities/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MikroTik Confirms Mēris Botnet Targets Routers Compromised Years Ago<a href="https://www.securityweek.com/mikrotik-confirms-m%C4%93ris-botnet-targets-routers-compromised-years-ago?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former U.S. operatives agree to $1.68M settlement over mercenary hacking charges<a href="https://thehill.com//policy/cybersecurity/572254-former-us-intelligence-operatives-agree-to-pay-over-168-million-to"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthier ZLoader Variant Spreading Via Fake TeamViewer Download Ads<a href="https://thehackernews.com/2021/09/new-stealthier-zloader-variant.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mēris Bot infects MikroTik routers compromised in 2018<a href="https://securityaffairs.co/wordpress/122218/malware/meris-bot-mikrotik-routers.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Snuffs Critical Bugs in Acrobat, Experience Manager<a href="https://threatpost.com/adobe-bugs-acrobat-experience-manager/169467/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows CVE-2021-40444 MSHTML zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-cve-2021-40444-mshtml-zero-day-bug/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum cryptography: This air-filled fiber optic cable can transport un-hackable keys, say researchers<a href="https://www.zdnet.com/article/quantum-cryptography-this-air-filled-fiber-optic-cable-can-transport-un-hackable-keys-say-researchers/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massachusetts attorney general announces investigation into T-Mobile data breach<a href="https://thehill.com//policy/cybersecurity/572237-massachusetts-attorney-general-announces-investigation-into-t-mobile"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HP OMEN Gaming Hub Flaw Affects Millions of Windows Computers<a href="https://thehackernews.com/2021/09/hp-omen-gaming-hub-flaw-affects.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of HP OMEN gaming PCs impacted by CVE-2021-3437 driver flaw<a href="https://securityaffairs.co/wordpress/122204/hacking/hp-omen-cve-2021-3437-flaw.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZLoader’s Back, Abusing Google AdWords, Disabling Windows Defender<a href="https://threatpost.com/zloader-google-adwords-windows-defender/169448/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft September 2021 Patch Tuesday fixes 2 zero-days, 60 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2021-patch-tuesday-fixes-2-zero-days-60-flaws/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SSID Stripping: New Method for Tricking Users Into Connecting to Rogue APs<a href="https://www.securityweek.com/ssid-stripping-new-method-tricking-users-connecting-rogue-aps?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 General promises 'surge' to fight ransomware attacks<a href="https://thehill.com//policy/cybersecurity/572203-general-promises-surge-in-effect-to-fight-ransomware-attacks"> Full Text</a>
@@ -282,7 +282,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero Trust Requires Cloud Data Security with Integrated Continuous Endpoint Risk Assessment<a href="https://thehackernews.com/2021/09/zero-trust-requires-cloud-data-security.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addresses a new Chrome zero-day flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/122192/hacking/google-zero-day-10.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Bugs Plague Databases; Your Data Is Probably Not Secure – Podcast<a href="https://threatpost.com/unpatched-databases-data-not-secure-podcast/169428/"> Full Text</a>
@@ -334,7 +334,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zloader attacks disable Windows Defender to evade detection<a href="https://www.bleepingcomputer.com/news/security/new-zloader-attacks-disable-windows-defender-to-evade-detection/"> Full Text</a>
@@ -350,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The state of ransomware: national emergencies and million-dollar blackmail<a href="https://www.zdnet.com/article/the-state-of-ransomware-national-emergencies-and-million-dollar-blackmail/?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top FBI official says there is 'no indication' Russia has taken action against hackers<a href="https://thehill.com//policy/cybersecurity/572184-top-fbi-official-says-there-is-no-indication-russia-has-taken-action"> Full Text</a>
@@ -382,7 +382,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vermilion Strike, a Linux implementation of Cobalt Strike Beacon used in attacks<a href="https://securityaffairs.co/wordpress/122172/malware/cobalt-strike-beacon.html"> Full Text</a>
@@ -402,7 +402,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Romance, BEC Scams Lands Soldier in Jail for 46 Months<a href="https://threatpost.com/romance-bec-scams-soldier-jail/169434/"> Full Text</a>
@@ -418,7 +418,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of HP OMEN gaming PCs impacted by driver vulnerability<a href="https://www.bleepingcomputer.com/news/security/millions-of-hp-omen-gaming-pcs-impacted-by-driver-vulnerability/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Close to half of on-prem databases contain vulnerabilities, with many critical flaws<a href="https://www.zdnet.com/article/close-to-half-of-on-prem-databases-contain-vulnerabilities-with-many-critical-flaws/?&web_view=true"> Full Text</a>
@@ -450,7 +450,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular NPM package Pac-Resolver affected by a critical flaw<a href="https://securityaffairs.co/wordpress/122182/security/npm-package-pac-resolver-flaw.html"> Full Text</a>
@@ -470,7 +470,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter Ransomware Hits Japanese Tech Giant Olympus<a href="https://threatpost.com/blackmatter-ransomware-olympus/169423/"> Full Text</a>
@@ -486,7 +486,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Unearth Logic Bomb Attack in Python Package Index (PyPI)<a href="https://securityintelligence.com/articles/cryptominers-snuck-logic-bomb-into-python-packages/?&web_view=true"> Full Text</a>
@@ -502,7 +502,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 60 Million Wearable, Fitness Tracking Records Exposed via Unsecured Database<a href="https://www.zdnet.com/article/over-60-million-records-exposed-in-wearable-fitness-tracking-data-breach-via-unsecured-database/?&web_view=true"> Full Text</a>
@@ -518,7 +518,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Issues Urgent Updates to Fix New Zero-Day Linked to Pegasus Spyware<a href="https://thehackernews.com/2021/09/apple-issues-urgent-updates-to-fix-new.html"> Full Text</a>
@@ -534,7 +534,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2021
+September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Google Chrome to Patch 2 New Zero-Day Flaws Under Attack<a href="https://thehackernews.com/2021/09/update-google-chrome-to-patch-2-new.html"> Full Text</a>

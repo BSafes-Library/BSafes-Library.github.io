@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MikroTik Confirms Mēris Botnet Targets Routers Compromised Years Ago<a href="https://www.securityweek.com/mikrotik-confirms-m%C4%93ris-botnet-targets-routers-compromised-years-ago?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to MikroTik, the bots are in fact routers that were previously compromised in 2018, and which haven’t been properly secured, even if the patches released at the time were installed in a timely manner.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mēris Bot infects MikroTik routers compromised in 2018<a href="https://securityaffairs.co/wordpress/122218/malware/meris-bot-mikrotik-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latvian vendor MikroTik revealed that recently discovered&nbsp;Mēris botnet&nbsp;is targeting devices that were compromised three years ago.
+
+
+
+Last week, the Russian Internet giant Yandex&nbsp;has been targeting by the largest DDoS attack&nbsp;in the history of Runet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
