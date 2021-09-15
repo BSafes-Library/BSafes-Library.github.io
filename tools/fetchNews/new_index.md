@@ -34,6 +34,522 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes remaining Windows PrintNightmare vulnerabilities<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remaining-windows-printnightmare-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a security update to fix the last remaining PrintNightmare zero-day vulnerabilities that allowed attackers to gain administrative privileges on Windows devices quickly.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MikroTik Confirms Mēris Botnet Targets Routers Compromised Years Ago<a href="https://www.securityweek.com/mikrotik-confirms-m%C4%93ris-botnet-targets-routers-compromised-years-ago?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to MikroTik, the bots are in fact routers that were previously compromised in 2018, and which haven’t been properly secured, even if the patches released at the time were installed in a timely manner.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former U.S. operatives agree to $1.68M settlement over mercenary hacking charges<a href="https://thehill.com//policy/cybersecurity/572254-former-us-intelligence-operatives-agree-to-pay-over-168-million-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three former U.S. intelligence and military personnel agreed to pay more than $1.68 million to settle federal charges over their alleged work as mercenary hackers for the United Arab Emirates (UAE). 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthier ZLoader Variant Spreading Via Fake TeamViewer Download Ads<a href="https://thehackernews.com/2021/09/new-stealthier-zloader-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users searching for TeamViewer remote desktop software on search engines like Google are being redirected to malicious links that drop  ZLoader  malware onto their systems while simultaneously embracing a stealthier infection chain that allows it to linger on infected devices and evade detection by security solutions.  "The malware is downloaded from a Google advertisement published through Google Adwords," researchers from SentinelOne  said  in a report published on Monday. "In this campaign, the attackers use an indirect way to compromise victims instead of using the classic approach of compromising the victims directly, such as by phishing."   First discovered in 2016, ZLoader (aka Silent Night and ZBot) is a  fully-featured banking trojan  and a fork of another banking malware called ZeuS, with newer versions implementing a VNC module that grants adversaries remote access to victim systems. The malware is in active development, with criminal actors spawning an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mēris Bot infects MikroTik routers compromised in 2018<a href="https://securityaffairs.co/wordpress/122218/malware/meris-bot-mikrotik-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latvian vendor MikroTik revealed that recently discovered Mēris botnet is targeting devices that were compromised three years ago.
+
+
+
+Last week, the Russian Internet giant Yandex has been targeting by the largest DDoS attack in the history of Runet,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Snuffs Critical Bugs in Acrobat, Experience Manager<a href="https://threatpost.com/adobe-bugs-acrobat-experience-manager/169467/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe releases security updates for 59 bugs affecting its core products, including Adobe Acrobat Reader, XMP Toolkit SDK and Photoshop.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows CVE-2021-40444 MSHTML zero-day bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-cve-2021-40444-mshtml-zero-day-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today fixed a high severity zero-day vulnerability actively exploited in targeted attacks against Microsoft Office and Office 365 on Windows 10 computers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum cryptography: This air-filled fiber optic cable can transport un-hackable keys, say researchers<a href="https://www.zdnet.com/article/quantum-cryptography-this-air-filled-fiber-optic-cable-can-transport-un-hackable-keys-say-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new type of optical fiber filled with nothing but thin air has been found to be particularly effective to carry out quantum key distribution (QKD), a security protocol that is in principle un-hackable.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts attorney general announces investigation into T-Mobile data breach<a href="https://thehill.com//policy/cybersecurity/572237-massachusetts-attorney-general-announces-investigation-into-t-mobile"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Massachusetts Attorney General Maura Healey (D) on Tuesday announced that her office is undertaking an investigation into the recent data breach of T-Mobile that impacted more than 50 million individuals.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP OMEN Gaming Hub Flaw Affects Millions of Windows Computers<a href="https://thehackernews.com/2021/09/hp-omen-gaming-hub-flaw-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed details about a high-severity flaw in the HP OMEN driver software that impacts millions of gaming computers worldwide, leaving them open to an array of attacks.  Tracked as  CVE-2021-3437  (CVSS score: 7.8), the vulnerabilities could allow threat actors to escalate privileges to kernel mode without requiring administrator permissions, allowing them to disable security products, overwrite system components, and even corrupt the operating system.  Cybersecurity firm SentinelOne, which discovered and reported the shortcoming to HP on February 17, said it found no evidence of in-the-wild exploitation. The computer hardware company has since released a security update  to its customers to address these vulnerabilities.  The issues themselves are rooted in a component called  OMEN Command Center  that comes pre-installed on HP OMEN-branded laptops and desktops and can also be downloaded from the Microsoft Store. The software, in addition to mon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of HP OMEN gaming PCs impacted by CVE-2021-3437 driver flaw<a href="https://securityaffairs.co/wordpress/122204/hacking/hp-omen-cve-2021-3437-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity vulnerability, tracked as CVE-2021-3437, in HP OMEN laptop and desktop gaming computers exposes millions of systems to DoS and privilege escalation attacks.
+
+
+
+Millions of HP OMEN laptop and desktop gaming computers are exposed to multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZLoader’s Back, Abusing Google AdWords, Disabling Windows Defender<a href="https://threatpost.com/zloader-google-adwords-windows-defender/169448/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The well-known banking trojan retools for stealth with a whole new attack routine, including using ads for Microsoft TeamViewer and Zoom to lure victims in.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft September 2021 Patch Tuesday fixes 2 zero-days, 60 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2021-patch-tuesday-fixes-2-zero-days-60-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's September 2021 Patch Tuesday, and with it comes fixes for two zero-day vulnerabilities and a total of 61 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSID Stripping: New Method for Tricking Users Into Connecting to Rogue APs<a href="https://www.securityweek.com/ssid-stripping-new-method-tricking-users-connecting-rogue-aps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers has identified what appears to be a new method that malicious actors could use to trick users into connecting to their wireless access points (APs).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+General promises 'surge' to fight ransomware attacks<a href="https://thehill.com//policy/cybersecurity/572203-general-promises-surge-in-effect-to-fight-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gen. Paul Nakasone, the head of U.S. Cyber Command and director of the National Security Agency (NSA), is working to “surge” efforts to respond to the mounting ransomware attacks on critical U.S. organizations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Trust Requires Cloud Data Security with Integrated Continuous Endpoint Risk Assessment<a href="https://thehackernews.com/2021/09/zero-trust-requires-cloud-data-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every once in a while, an industry term will get overused by marketing to the point of becoming a cliche. "Zero Trust" may have reached this threshold.  In some ways, we understand why this is happening. Security perimeters have become obsolete as people use mobile devices and cloud applications to work from anywhere. Zero Trust deployment — moving all your apps and data to the cloud and assuming no user or device is trustworthy until proven otherwise in order to gain access — has been rapidly introduced as a result of the pandemic.  However, most attempts at achieving Zero Trust access today are a patchwork of disparate products from different vendors connected to virtual private networks (VPN), with rudimentary on-off access controls based on limited visibility.  Cloud security company,  Lookout , believes a modern approach to Zero Trust needs to take into account the fact that data has moved to the cloud and users are working from anywhere, on any device, and connecting o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses a new Chrome zero-day flaw actively exploited in the wild<a href="https://securityaffairs.co/wordpress/122192/hacking/google-zero-day-10.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome 93.0.4577.82 for Windows, Mac, and Linux that addressed eleven security issues, including two zero-days actively exploited.
+
+
+
+Google released Chrome 93.0.4577.82 for Windows, Mac, and Linux that fixed eleven security issues, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bugs Plague Databases; Your Data Is Probably Not Secure – Podcast<a href="https://threatpost.com/unpatched-databases-data-not-secure-podcast/169428/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva’s Elad Erez discusses findings that 46 percent of on-prem databases are sitting ducks, unpatched and vulnerable to attack, each with an average of 26 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zloader attacks disable Windows Defender to evade detection<a href="https://www.bleepingcomputer.com/news/security/new-zloader-attacks-disable-windows-defender-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing Zloader campaign uses a new infection chain to disable Microsoft Defender Antivirus (formerly Windows Defender) on victims' computers to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The state of ransomware: national emergencies and million-dollar blackmail<a href="https://www.zdnet.com/article/the-state-of-ransomware-national-emergencies-and-million-dollar-blackmail/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has become one of the most well-known and prevalent threats against the enterprise today. This year alone, we have seen high-profile cases of ransomware infection cause everything from business disruption to fuel shortages.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top FBI official says there is 'no indication' Russia has taken action against hackers<a href="https://thehill.com//policy/cybersecurity/572184-top-fbi-official-says-there-is-no-indication-russia-has-taken-action"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI Deputy Director Paul Abbate said Tuesday there has been “no indication” that the Russian government has taken steps to stop the activities of cyber criminals engaging in ransomware attacks against U.S. organizations, despite outreach efforts by the Biden administration.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vermilion Strike, a Linux implementation of Cobalt Strike Beacon used in attacks<a href="https://securityaffairs.co/wordpress/122172/malware/cobalt-strike-beacon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered Linux and Windows implementations of the Cobalt Strike Beacon developed by attackers that were actively used in attacks in the wild.
+
+
+
+Threat actors re-implemented from scratch unofficial Linux and Windows versions of the Cobalt...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romance, BEC Scams Lands Soldier in Jail for 46 Months<a href="https://threatpost.com/romance-bec-scams-soldier-jail/169434/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Army Reservist pleaded guilty to scamming the elderly with catfishing and stealing from veterans.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of HP OMEN gaming PCs impacted by driver vulnerability<a href="https://www.bleepingcomputer.com/news/security/millions-of-hp-omen-gaming-pcs-impacted-by-driver-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of HP OMEN laptop and desktop gaming computers are exposed to attacks by a high severity vulnerability that can let threat actors trigger denial of service states or escalate privileges and disable security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Close to half of on-prem databases contain vulnerabilities, with many critical flaws<a href="https://www.zdnet.com/article/close-to-half-of-on-prem-databases-contain-vulnerabilities-with-many-critical-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva released the results of the study on Tuesday, which analyzed roughly 27,000 databases and their security posture. In total, 46% of on-premises databases worldwide, accounted for in the scan, contained known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM package Pac-Resolver affected by a critical flaw<a href="https://securityaffairs.co/wordpress/122182/security/npm-package-pac-resolver-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a critical flaw, tracked as CVE-2021-23406, in the popular NPM package 'Pac-Resolver' that has millions of downloads every week. 
+
+
+
+The development team behind a popular NPM package called 'Pac-Resolver' for the JavaScript programming...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware Hits Japanese Tech Giant Olympus<a href="https://threatpost.com/blackmatter-ransomware-olympus/169423/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident that occurred Sept. 8 and affected its EMEA IT systems seems to signal a return to business as usual for ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unearth Logic Bomb Attack in Python Package Index (PyPI)<a href="https://securityintelligence.com/articles/cryptominers-snuck-logic-bomb-into-python-packages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers found six malicious payloads, all uploaded by a single user. The attacker designed them to run during a package’s installation. People have collectively downloaded these payloads around 5,000 times.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 60 Million Wearable, Fitness Tracking Records Exposed via Unsecured Database<a href="https://www.zdnet.com/article/over-60-million-records-exposed-in-wearable-fitness-tracking-data-breach-via-unsecured-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers said that over 61 million records were contained in the data repository, including vast swathes of user information -- such as their names, dates of birth, weight, height, gender, and GPS logs, among other datasets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Updates to Fix New Zero-Day Linked to Pegasus Spyware<a href="https://thehackernews.com/2021/09/apple-issues-urgent-updates-to-fix-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released  iOS 14.8, iPadOS 14.8 ,  watchOS 7.6.2 ,  macOS Big Sur 11.6 , and  Safari 14.1.2  to fix two actively exploited vulnerabilities, one of which defeated extra security protections built into the operating system.  The list of two flaws is as follows -   CVE-2021-30858  (WebKit) - A use after free issue that could result in arbitrary code execution when processing maliciously crafted web content. The flaw has been addressed with improved memory management.  CVE-2021-30860  (CoreGraphics) - An integer overflow vulnerability that could lead to arbitrary code execution when processing a maliciously crafted PDF document. The bug has been remediated with improved input validation.   "Apple is aware of a report that this issue may have been actively exploited," the iPhone maker noted in its advisory.   The updates arrive weeks after researchers from the University of Toronto's Citizen Lab revealed details of a zero-day exploit called " FORCEDENTRY "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome to Patch 2 New Zero-Day Flaws Under Attack<a href="https://thehackernews.com/2021/09/update-google-chrome-to-patch-2-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday released security updates for Chrome web browser to address a total of 11 security issues, two of which it says are actively exploited zero-days in the wild.  Tracked as  CVE-2021-30632  and  CVE-2021-30633 , the  vulnerabilities  concern an out of bounds write in V8 JavaScript engine and a use after free flaw in Indexed DB API respectively, with the internet giant crediting anonymous researchers for reporting the bugs on September 8.  As is typically the case, the company said it's "aware that exploits for CVE-2021-30632 and CVE-2021-30633 exist in the wild" without sharing additional specifics about how, when, and where the vulnerabilities were exploited, or the threat actors that may be abusing them.   With these two security shortcomings, Google has addressed a total of 11 zero-day vulnerabilities in Chrome since the start of the year —   CVE-2021-21148  - Heap buffer overflow in V8  CVE-2021-21166  - Object recycle issue in audio  CVE-2021-21193  -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
