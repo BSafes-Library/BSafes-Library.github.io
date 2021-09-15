@@ -30,7 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://thehill.com//policy/cybersecurity/572184-top-fbi-official-says-there-is-no-indication-russia-has-taken-action
  
 Law
 
