@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 14, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patch for Actively Exploited Windows Zero-Day Vulnerability<a href="https://thehackernews.com/2021/09/microsoft-releases-patch-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after  Apple  and  Google  rolled out urgent security updates, Microsoft has  pushed software fixes  as part of its monthly Patch Tuesday release cycle to plug 66 security holes affecting Windows and other components such as Azure, Office, BitLocker, and Visual Studio, including an  actively exploited zero-day  in its MSHTML Platform that came to light last week.   Of the 66 flaws, three are rated Critical, 62 are rated Important, and one is rated Moderate in severity. This is aside from the  20 vulnerabilities  in the Chromium-based Microsoft Edge browser that the company addressed since the start of the month.   The most important of the updates concerns a patch for  CVE-2021-40444  (CVSS score: 8.8), an actively exploited remote code execution vulnerability in MSHTML that leverages malware-laced Microsoft Office documents, with EXPMON researchers noting "the exploit uses logical flaws so the exploitation is perfectly reliable."  Also addressed is a publicly disclose
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 2021’s Most Dangerous Software Weaknesses<a href="https://threatpost.com/2021-angerous-software-weaknesses/169458/"> Full Text</a>
 </p>
 <details>
