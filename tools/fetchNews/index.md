@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US CISA appointed Kiersten Todt as new chief of staff<a href="https://securityaffairs.co/wordpress/122228/security/cisa-kiersten-todt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has appointed Kiersten Todt as its new chief of staff. 
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced to have appointed Kiersten Todt as its new chief of staff,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday fixes CVE-2021-40444 MSHTML zero-day<a href="https://securityaffairs.co/wordpress/122224/security/microsoft-patch-tuesday-sept-21.html"> Full Text</a>
 </p>
 <details>
