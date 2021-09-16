@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Customer Care Giant TTEC Witnesses System Outage Following Ransomware Attack<a href="https://krebsonsecurity.com/2021/09/customer-care-giant-ttec-hit-by-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We’re continuing to address the system outage impacting access to the network, applications and customer support,” reads an internal message sent by TTEC to certain employees.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

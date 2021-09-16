@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former U.S. intel operatives to pay $1.6M for hacking for foreign govt<a href="https://www.bleepingcomputer.com/news/security/former-us-intel-operatives-to-pay-16m-for-hacking-for-foreign-govt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government has entered a Deferred Prosecution Agreement (DPA) with three former intelligence operatives to resolve criminal charges relating to their offering of hacking services to a foreign government.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

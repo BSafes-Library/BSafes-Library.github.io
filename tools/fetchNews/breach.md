@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware encrypts South Africa's entire Dept of Justice network<a href="https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The justice ministry of the South African government is working on restoring its operations after a recent ransomware attack encrypted all its systems, making all electronic services unavailable both internally and to the public.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CI/CD Platform Provider Travis CI Confirms Security Breach Impacting Public Repository<a href="https://portswigger.net/daily-swig/credential-leak-fears-raised-following-security-breach-at-travis-ci?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It said that it has resolved the underlying problem with a series of security patches, adding that users should consider making changes to their passcodes and authentication tokens as a precaution.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

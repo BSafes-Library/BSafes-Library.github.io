@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Puppeteer Kits: The New Financial Services Security Threat<a href="https://www.zerofox.com/blog/cyber-puppeteer-kits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber puppeteer kits are more personalized, interactive, and successful than traditional phishing kits. This makes them a threat to an organization’s employees, customers, critical assets, and more.
+</details>
+<div style="text-align: right" markdown="1">
+ZeroFox
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Reshuffles Its Top 10 List, Adds New Categories<a href="https://www.darkreading.com/application-security/owasp-reshuffles-its-top-10-list-adds-new-categories?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Web Application Security Project reshuffles its list of top threats, putting broken access controls and cryptographic failures at the top and creating three new risk categories.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

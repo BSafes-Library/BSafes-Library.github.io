@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks: A Flourishing Business for Cybercrooks – Podcast<a href="https://threatpost.com/ddos-attacks-a-flourishing-business-for-cybercrooks-podcast/169473/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva’s Peter Klimek on how DDoS attacks started out as inconveniences but evolved to the point where attackers can disrupt businesses for as little as the price of a cup of coffee,
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

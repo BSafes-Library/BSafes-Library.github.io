@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free REvil ransomware master decrypter released for past victims<a href="https://www.bleepingcomputer.com/news/security/free-revil-ransomware-master-decrypter-released-for-past-victims/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Committees Seek to Spend Millions on Cybersecurity<a href="https://www.bankinfosecurity.com/house-committees-seek-to-spend-millions-on-cybersecurity-a-17544?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects<a href="https://thehackernews.com/2021/09/travis-ci-flaw-exposes-secrets-of.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitdefender released free REvil ransomware decryptor that works for past victims<a href="https://securityaffairs.co/wordpress/122274/cyber-crime/revil-ransomware-decryptor.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks: A Flourishing Business for Cybercrooks – Podcast<a href="https://threatpost.com/ddos-attacks-a-flourishing-business-for-cybercrooks-podcast/169473/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel Malware Samples Trying to Hack Windows from its Linux Subsystem<a href="https://therecord.media/malware-samples-found-trying-to-hack-windows-from-its-linux-subsystem/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third Critical Bug Affects Netgear Smart Switches — Details and PoC Released<a href="https://thehackernews.com/2021/09/third-critical-bug-affects-netgear.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Puppeteer Kits: The New Financial Services Security Threat<a href="https://www.zerofox.com/blog/cyber-puppeteer-kits/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ ZeroFox
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows MSHTML 0-Day Exploited to Deploy Cobalt Strike Beacon in Targeted Attacks<a href="https://thehackernews.com/2021/09/windows-mshtml-0-day-exploited-to.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dynatrace acquires SpectX to advance its observability and application security analytics capabilities<a href="https://www.helpnetsecurity.com/2021/09/16/dynatrace-spectx/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Reshuffles Its Top 10 List, Adds New Categories<a href="https://www.darkreading.com/application-security/owasp-reshuffles-its-top-10-list-adds-new-categories?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Strike Graph raises $8M to expand its offerings of cybersecurity compliances<a href="https://www.helpnetsecurity.com/2021/09/16/strike-graph-funding/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Customer Care Giant TTEC Witnesses System Outage Following Ransomware Attack<a href="https://krebsonsecurity.com/2021/09/customer-care-giant-ttec-hit-by-ransomware/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tenable acquires infrastructure-monitoring startup Accurics<a href="https://venturebeat.com/2021/09/13/tenable-acquires-infrastructure-monitoring-startup-accurics/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Venture Beat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Campaign Stole Data from Victim Organization Using Off-the-shelf Hacking and System Management Tools<a href="https://searchsecurity.techtarget.com/news/252506722/McAfee-discovers-Chinese-APT-campaign-Operation-Harvest?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2021
+September 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Impersonate DoT in Two-Day Phishing Scam<a href="https://threatpost.com/attackers-impersonate-dot-phishing-scam/169484/"> Full Text</a>
@@ -294,7 +294,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2021
+September 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 You Can Now Sign-in to Your Microsoft Accounts Without a Password<a href="https://thehackernews.com/2021/09/you-can-now-sign-in-to-you-microsoft.html"> Full Text</a>

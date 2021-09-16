@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Committees Seek to Spend Millions on Cybersecurity<a href="https://www.bankinfosecurity.com/house-committees-seek-to-spend-millions-on-cybersecurity-a-17544?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of House committees this week said they want to spend additional millions on cybersecurity by injecting funds into both the CISA and FTC, as part of the debate over the federal budget proposal.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

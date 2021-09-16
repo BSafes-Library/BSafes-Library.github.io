@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Former U.S. Intelligence Officers Admit to Hacking for UAE Company<a href="https://thehackernews.com/2021/09/3-former-us-intelligence-officers-admit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Tuesday disclosed it fined three intelligence community and military personnel $1.68 million in penalties for their role as cyber-mercenaries working on behalf of a U.A.E.-based cybersecurity company.  The trio in question — Marc Baier, 49, Ryan Adams, 34, and Daniel Gericke, 40 — are accused of "knowingly and willfully combine, conspire, confederate, and agree with each other to commit offenses, "furnishing defense services to persons and entities in the country over a three year period beginning around December 2015 and continuing through November 2019, including developing invasive spyware capable of breaking into mobile devices without any action by the targets.  "The defendants worked as senior managers at a United Arab Emirates (U.A.E.)-based company (U.A.E. CO) that supported and carried out computer network exploitation (CNE) operations (i.e., 'hacking') for the benefit of the U.A.E. government," the DoJ&nbsp; said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang threatens to wipe decryption key if negotiator hired<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-wipe-decryption-key-if-negotiator-hired/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Grief ransomware gang is threatening to delete victim's decryption keys if they hire a negotiation firm, making it impossible to recover encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects<a href="https://thehackernews.com/2021/09/travis-ci-flaw-exposes-secrets-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Continuous integration vendor Travis CI has patched a serious security flaw that exposed API keys, access tokens, and credentials, potentially putting organizations that use public source code repositories at risk of further attacks.  The issue — tracked as&nbsp; CVE-2021-41077 &nbsp;— concerns unauthorized access and plunder of secret environment data associated with a public open-source project during the software build process. The problem is said to have lasted during an eight-day window between September 3 and September 10.  Felix Lange of Ethereum has been credited with discovering the leakage on September 7, with the company's Péter Szilágyi&nbsp; pointing out &nbsp;that "anyone could exfiltrate these and gain lateral movement into 1000s of [organizations]."   Travis CI is a hosted CI/CD (short for continuous integration and continuous deployment) solution used to build and test software projects hosted on source code repository systems like GitHub and Bitbucket.  "The desired b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Critical Bug Affects Netgear Smart Switches — Details and PoC Released<a href="https://thehackernews.com/2021/09/third-critical-bug-affects-netgear.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details have been revealed about a recently remediated critical vulnerability in Netgear smart switches that could be leveraged by an attacker to potentially execute malicious code and take control of vulnerable devices.  The flaw — dubbed " Seventh Inferno " (CVSS score: 9.8) — is part of a trio of security weaknesses, called Demon's Cries (CVSS score: 9.8) and Draconian Fear (CVSS score: 7.8), that Google security engineer Gynvael Coldwind reported to the networking, storage, and security solutions provider.  The disclosure comes weeks after Netgear&nbsp; released patches &nbsp;to address the vulnerabilities earlier this month, on September 3.   Successful exploitation of&nbsp; Demon's Cries and Draconian Fear &nbsp;could grant a malicious party the ability to change the administrator password without actually having to know the previous password or hijack the session bootstrapping information, resulting in a full compromise of the device.  Now, in a new post sharing technical spe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSHTML 0-Day Exploited to Deploy Cobalt Strike Beacon in Targeted Attacks<a href="https://thehackernews.com/2021/09/windows-mshtml-0-day-exploited-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed details of a targeted phishing campaign that leveraged a now-patched zero-day flaw in its MSHTML platform using specially-crafted Office documents to deploy Cobalt Strike Beacon on compromised Windows systems.  "These attacks used the vulnerability, tracked as&nbsp; CVE-2021-40444 , as part of an initial access campaign that distributed custom Cobalt Strike Beacon loaders," Microsoft Threat Intelligence Center&nbsp; said &nbsp;in a technical write-up. "These loaders communicated with an infrastructure that Microsoft associates with multiple cybercriminal campaigns, including human-operated ransomware."   Details about CVE-2021-40444 (CVSS score: 8.8) first&nbsp; emerged &nbsp;on September 7 after researchers from EXPMON alerted the Windows maker about a "highly sophisticated zero-day attack" aimed at Microsoft Office users by taking advantage of a remote code execution vulnerability in MSHTML (aka Trident), a proprietary browser engine for the now
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

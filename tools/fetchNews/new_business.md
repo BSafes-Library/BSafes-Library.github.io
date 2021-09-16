@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dynatrace acquires SpectX to advance its observability and application security analytics capabilities<a href="https://www.helpnetsecurity.com/2021/09/16/dynatrace-spectx/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dynatrace completed acquisition of the parsing and query analytics company. This acquisition will accelerate the convergence of observability and security for modern hybrid, multicloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strike Graph raises $8M to expand its offerings of cybersecurity compliances<a href="https://www.helpnetsecurity.com/2021/09/16/strike-graph-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Strike Graph announces that it has secured $8 million in Series A funding, led by Information Venture Partners, investors in the next generation of leaders in B2B FinTech and Enterprise SaaS.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenable acquires infrastructure-monitoring startup Accurics<a href="https://venturebeat.com/2021/09/13/tenable-acquires-infrastructure-monitoring-startup-accurics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tenable, a cyber risk management company based in Columbia, Maryland, today announced it has acquired infrastructure-as-code (IaC) technology provider Accurics for $160 million in cash.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
