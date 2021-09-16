@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alerts 
+has_children: true
 nav_order: 150 
 ---
 
