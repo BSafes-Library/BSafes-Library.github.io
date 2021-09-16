@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free REvil ransomware master decrypter released for past victims<a href="https://www.bleepingcomputer.com/news/security/free-revil-ransomware-master-decrypter-released-for-past-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free master decryptor for the REvil ransomware operation has been released, allowing all victims encrypted before the gang disappeared to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Committees Seek to Spend Millions on Cybersecurity<a href="https://www.bankinfosecurity.com/house-committees-seek-to-spend-millions-on-cybersecurity-a-17544?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of House committees this week said they want to spend additional millions on cybersecurity by injecting funds into both the CISA and FTC, as part of the debate over the federal budget proposal.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects<a href="https://thehackernews.com/2021/09/travis-ci-flaw-exposes-secrets-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Continuous integration vendor Travis CI has patched a serious security flaw that exposed API keys, access tokens, and credentials, potentially putting organizations that use public source code repositories at risk of further attacks.  The issue — tracked as  CVE-2021-41077  — concerns unauthorized access and plunder of secret environment data associated with a public open-source project during the software build process. The problem is said to have lasted during an eight-day window between September 3 and September 10.  Felix Lange of Ethereum has been credited with discovering the leakage on September 7, with the company's Péter Szilágyi  pointing out  that "anyone could exfiltrate these and gain lateral movement into 1000s of [organizations]."   Travis CI is a hosted CI/CD (short for continuous integration and continuous deployment) solution used to build and test software projects hosted on source code repository systems like GitHub and Bitbucket.  "The desired b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender released free REvil ransomware decryptor that works for past victims<a href="https://securityaffairs.co/wordpress/122274/cyber-crime/revil-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Bitdefender released a free master decryptor for the REvil ransomware operation that allows past victims to recover their files for free.
+
+
+
+Good news for the victims of REvil ransomware gangs that were infected before the operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks: A Flourishing Business for Cybercrooks – Podcast<a href="https://threatpost.com/ddos-attacks-a-flourishing-business-for-cybercrooks-podcast/169473/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva’s Peter Klimek on how DDoS attacks started out as inconveniences but evolved to the point where attackers can disrupt businesses for as little as the price of a cup of coffee,
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Malware Samples Trying to Hack Windows from its Linux Subsystem<a href="https://therecord.media/malware-samples-found-trying-to-hack-windows-from-its-linux-subsystem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Lumen’s Black Lotus Labs have found a series of malware samples that were configured to infect the Windows Subsystem for Linux and then pivot to its native Windows environment.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Critical Bug Affects Netgear Smart Switches — Details and PoC Released<a href="https://thehackernews.com/2021/09/third-critical-bug-affects-netgear.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New details have been revealed about a recently remediated critical vulnerability in Netgear smart switches that could be leveraged by an attacker to potentially execute malicious code and take control of vulnerable devices.  The flaw — dubbed " Seventh Inferno " (CVSS score: 9.8) — is part of a trio of security weaknesses, called Demon's Cries (CVSS score: 9.8) and Draconian Fear (CVSS score: 7.8), that Google security engineer Gynvael Coldwind reported to the networking, storage, and security solutions provider.  The disclosure comes weeks after Netgear  released patches  to address the vulnerabilities earlier this month, on September 3.   Successful exploitation of  Demon's Cries and Draconian Fear  could grant a malicious party the ability to change the administrator password without actually having to know the previous password or hijack the session bootstrapping information, resulting in a full compromise of the device.  Now, in a new post sharing technical spe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Puppeteer Kits: The New Financial Services Security Threat<a href="https://www.zerofox.com/blog/cyber-puppeteer-kits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber puppeteer kits are more personalized, interactive, and successful than traditional phishing kits. This makes them a threat to an organization’s employees, customers, critical assets, and more.
+</details>
+<div style="text-align: right" markdown="1">
+ZeroFox
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows MSHTML 0-Day Exploited to Deploy Cobalt Strike Beacon in Targeted Attacks<a href="https://thehackernews.com/2021/09/windows-mshtml-0-day-exploited-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed details of a targeted phishing campaign that leveraged a now-patched zero-day flaw in its MSHTML platform using specially-crafted Office documents to deploy Cobalt Strike Beacon on compromised Windows systems.  "These attacks used the vulnerability, tracked as  CVE-2021-40444 , as part of an initial access campaign that distributed custom Cobalt Strike Beacon loaders," Microsoft Threat Intelligence Center  said  in a technical write-up. "These loaders communicated with an infrastructure that Microsoft associates with multiple cybercriminal campaigns, including human-operated ransomware."   Details about CVE-2021-40444 (CVSS score: 8.8) first  emerged  on September 7 after researchers from EXPMON alerted the Windows maker about a "highly sophisticated zero-day attack" aimed at Microsoft Office users by taking advantage of a remote code execution vulnerability in MSHTML (aka Trident), a proprietary browser engine for the now
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dynatrace acquires SpectX to advance its observability and application security analytics capabilities<a href="https://www.helpnetsecurity.com/2021/09/16/dynatrace-spectx/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dynatrace completed acquisition of the parsing and query analytics company. This acquisition will accelerate the convergence of observability and security for modern hybrid, multicloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Reshuffles Its Top 10 List, Adds New Categories<a href="https://www.darkreading.com/application-security/owasp-reshuffles-its-top-10-list-adds-new-categories?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Web Application Security Project reshuffles its list of top threats, putting broken access controls and cryptographic failures at the top and creating three new risk categories.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Strike Graph raises $8M to expand its offerings of cybersecurity compliances<a href="https://www.helpnetsecurity.com/2021/09/16/strike-graph-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Strike Graph announces that it has secured $8 million in Series A funding, led by Information Venture Partners, investors in the next generation of leaders in B2B FinTech and Enterprise SaaS.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Customer Care Giant TTEC Witnesses System Outage Following Ransomware Attack<a href="https://krebsonsecurity.com/2021/09/customer-care-giant-ttec-hit-by-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“We’re continuing to address the system outage impacting access to the network, applications and customer support,” reads an internal message sent by TTEC to certain employees.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenable acquires infrastructure-monitoring startup Accurics<a href="https://venturebeat.com/2021/09/13/tenable-acquires-infrastructure-monitoring-startup-accurics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tenable, a cyber risk management company based in Columbia, Maryland, today announced it has acquired infrastructure-as-code (IaC) technology provider Accurics for $160 million in cash.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Campaign Stole Data from Victim Organization Using Off-the-shelf Hacking and System Management Tools<a href="https://searchsecurity.techtarget.com/news/252506722/McAfee-discovers-Chinese-APT-campaign-Operation-Harvest?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors were able to gain their initial access to the victim by exploiting a vulnerability in a web access server. They further used privilege escalation exploits to steal credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Impersonate DoT in Two-Day Phishing Scam<a href="https://threatpost.com/attackers-impersonate-dot-phishing-scam/169484/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors dangled the lure of receiving funds from the $1 trillion infrastructure bill and created new domains mimicking the real federal site. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You Can Now Sign-in to Your Microsoft Accounts Without a Password<a href="https://thehackernews.com/2021/09/you-can-now-sign-in-to-you-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday announced a new passwordless mechanism that allows users to access their accounts without a password by using Microsoft Authenticator, Windows Hello, a security key, or a verification code sent via SMS or email.  The change is expected to be rolled out in the coming weeks.  "Except for auto-generated passwords that are nearly impossible to remember, we largely create our own passwords,"  said  Vasu Jakkal, Microsoft's corporate vice president for Security, Compliance, and Identity. "But, given the vulnerability of passwords, requirements for them have gotten increasingly complex in recent years, including multiple symbols, numbers, case sensitivity, and disallowing previous passwords."   "Passwords are incredibly inconvenient to create, remember, and manage across all the accounts in our lives," Jakkal added.  Over the years, weak passwords have emerged as the entry point for a vast majority of attacks across enterprise and cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
