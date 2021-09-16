@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked the controversial, far-right web host Epik<a href="https://securityaffairs.co/wordpress/122263/hacktivism/anonymous-hacked-epik-provider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous claims to have hacked the controversial web hosting provider Epik, known for allowing far-right, neo-Nazi, and other extremist content.
+
+
+
+Anonymous hacktivist collective&nbsp;claims has claimed to have hacked the controversial web hosting provided...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

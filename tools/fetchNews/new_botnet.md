@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MikroTik shares info on securing routers hit by massive Mēris botnet<a href="https://www.bleepingcomputer.com/news/security/mikrotik-shares-info-on-securing-routers-hit-by-massive-m-ris-botnet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latvian network equipment manufacturer MikroTik has shared details on how customers can secure and clean routers compromised by the massive Mēris DDoS botnet over the summer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

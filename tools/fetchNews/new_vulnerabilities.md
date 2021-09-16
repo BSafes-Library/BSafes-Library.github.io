@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Discovered in Azure App That Microsoft Secretly Installed on Linux VMs<a href="https://thehackernews.com/2021/09/critical-flaws-discovered-in-azure-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday addressed a quartet of security flaws as part of its&nbsp; Patch Tuesday updates &nbsp;that could be abused by adversaries to target Azure cloud customers and elevate privileges as well as allow for remote takeover of vulnerable systems.  The list of flaws, collectively called OMIGOD  by researchers from Wiz, affect a little-known software agent called Open Management Infrastructure that's automatically deployed in many Azure services -   CVE-2021-38647 &nbsp;(CVSS score: 9.8) - Open Management Infrastructure Remote Code Execution Vulnerability  CVE-2021-38648 &nbsp;(CVSS score: 7.8) - Open Management Infrastructure Elevation of Privilege Vulnerability  CVE-2021-38645 &nbsp;(CVSS score: 7.8) - Open Management Infrastructure Elevation of Privilege Vulnerability  CVE-2021-38649 &nbsp;(CVSS score: 7.0) - Open Management Infrastructure Elevation of Privilege Vulnerability   Open Management Infrastructure ( OMI ) is an open-source&nbsp; analogous equivalent &nbsp;of Windows Management Infrastructure (WMI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No Patch for High-Severity Bug in Legacy IBM System X Servers<a href="https://threatpost.com/no-patch-for-ibm-system-x-servers/169491/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two of IBM’s aging flagship server models, retired in 2020, won’t be patched for a command-injection flaw. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical bugs in secretly installed Azure Linux app<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-bugs-in-secretly-installed-azure-linux-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed four critical vulnerabilities collectively known as OMIGOD, found in the Open Management Infrastructure (OMI) software agent silently installed on Azure Linux machines accounting for more than half of Azure instances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution flaw allowed hijack of Motorola Halo+ baby monitors<a href="https://portswigger.net/daily-swig/remote-code-execution-flaw-allowed-hijack-of-motorola-halo-baby-monitors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, cybersecurity researcher Randy Westergren discovered a pre-authentication RCE security flaw and the means to obtain a full root shell of the Motorola Halo+, a popular baby monitor.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMIGOD vulnerabilities expose thousands of Azure users to hack<a href="https://securityaffairs.co/wordpress/122254/hacking/omigod-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OMIGOD - Microsoft addressed four vulnerabilities in the Open Management Infrastructure (OMI) software agent that could expose Azure users to attacks.
+
+
+
+Recently released September 2021 Patch Tuesday&nbsp;security updates have addressed four severe vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday fixes CVE-2021-40444 MSHTML zero-day<a href="https://securityaffairs.co/wordpress/122224/security/microsoft-patch-tuesday-sept-21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for September 2021 addressed a high severity&nbsp;zero-day flaw actively exploited in targeted attacks. 
+
+
+
+Microsoft Patch Tuesday security updates for September 2021 addressed a high severity&nbsp;zero-day RCE actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patch for Actively Exploited Windows Zero-Day Vulnerability<a href="https://thehackernews.com/2021/09/microsoft-releases-patch-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after&nbsp; Apple &nbsp;and&nbsp; Google &nbsp;rolled out urgent security updates, Microsoft has&nbsp; pushed software fixes &nbsp;as part of its monthly Patch Tuesday release cycle to plug 66 security holes affecting Windows and other components such as Azure, Office, BitLocker, and Visual Studio, including an&nbsp; actively exploited zero-day &nbsp;in its MSHTML Platform that came to light last week.&nbsp;  Of the 66 flaws, three are rated Critical, 62 are rated Important, and one is rated Moderate in severity. This is aside from the&nbsp; 20 vulnerabilities &nbsp;in the Chromium-based Microsoft Edge browser that the company addressed since the start of the month.   The most important of the updates concerns a patch for&nbsp; CVE-2021-40444 &nbsp;(CVSS score: 8.8), an actively exploited remote code execution vulnerability in MSHTML that leverages malware-laced Microsoft Office documents, with EXPMON researchers noting "the exploit uses logical flaws so the exploitation is perfectly reliable."  Also addressed is a publicly disclose
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

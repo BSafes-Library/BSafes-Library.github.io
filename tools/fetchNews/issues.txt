@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://thehill.com//policy/cybersecurity/572485-ftc-warns-health-apps-to-notify-consumers-impacted-by-data-breache
  
 Law
 

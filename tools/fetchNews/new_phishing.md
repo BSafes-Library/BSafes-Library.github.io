@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Travel Themed Phishing URLs Set to Prey on Eager Travelers<a href="https://unit42.paloaltonetworks.com/travel-themed-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the pandemic is not over, as the world opens up borders and the vaccines slow down the spread of the virus, people who have been cooped up at home are eager to travel.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

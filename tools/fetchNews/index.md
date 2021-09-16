@@ -34,7 +34,424 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2021
+September 15, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former U.S. intel operatives to pay $1.6M for hacking for foreign govt<a href="https://www.bleepingcomputer.com/news/security/former-us-intel-operatives-to-pay-16m-for-hacking-for-foreign-govt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government has entered a Deferred Prosecution Agreement (DPA) with three former intelligence operatives to resolve criminal charges relating to their offering of hacking services to a foreign government.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to let users completely remove account passwords and go passwordless<a href="https://therecord.media/microsoft-to-let-users-completely-remove-account-passwords-and-go-passwordless/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the coming weeks, Microsoft said that users would be able to remove the password from their consumer account and choose an alternative authentication option instead to boost security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns health apps to notify consumers impacted by data breaches<a href="https://thehill.com//policy/cybersecurity/572485-ftc-warns-health-apps-to-notify-consumers-impacted-by-data-breaches"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) voted 3-2 Wednesday that a decade-old rule on health data breaches applies to apps that handle sensitive health information, warning these companies to comply.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Discovered in Azure App That Microsoft Secretly Installed on Linux VMs<a href="https://thehackernews.com/2021/09/critical-flaws-discovered-in-azure-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday addressed a quartet of security flaws as part of its  Patch Tuesday updates  that could be abused by adversaries to target Azure cloud customers and elevate privileges as well as allow for remote takeover of vulnerable systems.  The list of flaws, collectively called OMIGOD  by researchers from Wiz, affect a little-known software agent called Open Management Infrastructure that's automatically deployed in many Azure services -   CVE-2021-38647  (CVSS score: 9.8) - Open Management Infrastructure Remote Code Execution Vulnerability  CVE-2021-38648  (CVSS score: 7.8) - Open Management Infrastructure Elevation of Privilege Vulnerability  CVE-2021-38645  (CVSS score: 7.8) - Open Management Infrastructure Elevation of Privilege Vulnerability  CVE-2021-38649  (CVSS score: 7.0) - Open Management Infrastructure Elevation of Privilege Vulnerability   Open Management Infrastructure ( OMI ) is an open-source  analogous equivalent  of Windows Management Infrastructure (WMI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked the controversial, far-right web host Epik<a href="https://securityaffairs.co/wordpress/122263/hacktivism/anonymous-hacked-epik-provider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous claims to have hacked the controversial web hosting provider Epik, known for allowing far-right, neo-Nazi, and other extremist content.
+
+
+
+Anonymous hacktivist collective claims has claimed to have hacked the controversial web hosting provided...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No Patch for High-Severity Bug in Legacy IBM System X Servers<a href="https://threatpost.com/no-patch-for-ibm-system-x-servers/169491/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two of IBM’s aging flagship server models, retired in 2020, won’t be patched for a command-injection flaw. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical bugs in secretly installed Azure Linux app<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-bugs-in-secretly-installed-azure-linux-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed four critical vulnerabilities collectively known as OMIGOD, found in the Open Management Infrastructure (OMI) software agent silently installed on Azure Linux machines accounting for more than half of Azure instances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution flaw allowed hijack of Motorola Halo+ baby monitors<a href="https://portswigger.net/daily-swig/remote-code-execution-flaw-allowed-hijack-of-motorola-halo-baby-monitors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, cybersecurity researcher Randy Westergren discovered a pre-authentication RCE security flaw and the means to obtain a full root shell of the Motorola Halo+, a popular baby monitor.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Former U.S. Intelligence Officers Admit to Hacking for UAE Company<a href="https://thehackernews.com/2021/09/3-former-us-intelligence-officers-admit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Tuesday disclosed it fined three intelligence community and military personnel $1.68 million in penalties for their role as cyber-mercenaries working on behalf of a U.A.E.-based cybersecurity company.  The trio in question — Marc Baier, 49, Ryan Adams, 34, and Daniel Gericke, 40 — are accused of "knowingly and willfully combine, conspire, confederate, and agree with each other to commit offenses, "furnishing defense services to persons and entities in the country over a three year period beginning around December 2015 and continuing through November 2019, including developing invasive spyware capable of breaking into mobile devices without any action by the targets.  "The defendants worked as senior managers at a United Arab Emirates (U.A.E.)-based company (U.A.E. CO) that supported and carried out computer network exploitation (CNE) operations (i.e., 'hacking') for the benefit of the U.A.E. government," the DoJ  said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMIGOD vulnerabilities expose thousands of Azure users to hack<a href="https://securityaffairs.co/wordpress/122254/hacking/omigod-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OMIGOD - Microsoft addressed four vulnerabilities in the Open Management Infrastructure (OMI) software agent that could expose Azure users to attacks.
+
+
+
+Recently released September 2021 Patch Tuesday security updates have addressed four severe vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware encrypts South Africa's entire Dept of Justice network<a href="https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The justice ministry of the South African government is working on restoring its operations after a recent ransomware attack encrypted all its systems, making all electronic services unavailable both internally and to the public.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘No indication’ Russia has cracked down on ransomware gangs, top FBI official says<a href="https://therecord.media/no-indication-russia-has-cracked-down-on-ransomware-gangs-top-fbi-official-says/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top-ranking FBI official on Tuesday said the federal agency has seen no evidence that the Russian government has moved against notorious ransomware gangs operating on its soil.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download the Essential Guide to Response Automation<a href="https://thehackernews.com/2020/12/download-essential-guide-to-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the classic children's movie 'The Princess Bride,' one of the characters utters the phrase, " You keep using that word. I do not think it means what you think it means ."  It's freely used as a response to someone's misuse or misunderstanding of a word or phrase.   "Response Automation" is another one of those phrases that have different meanings to different people. It's bantered around by the security vendor community so much that its precise meaning, when used, is unclear.  Many vendors throw the term out without explaining exactly what they mean by the phrase. One vendor's response automation might, and often do, perform very differently from another vendor's response automation capabilities. But, hey, they have "response automation!"  A recently published guide is meant to make sense of Response Automation ( Download here ). It discusses the evolution of response automation and distinguishes five increasingly capabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces passwordless authentication for consumer accounts<a href="https://securityaffairs.co/wordpress/122243/security/microsoft-passwordless-authentication-consumers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that users can access their consumer accounts without providing passwords and using more secure authentication methods.
+
+
+
+Microsoft will allow its users to log into their consumer accounts without using passwords, they will be able...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MikroTik shares info on securing routers hit by massive Mēris botnet<a href="https://www.bleepingcomputer.com/news/security/mikrotik-shares-info-on-securing-routers-hit-by-massive-m-ris-botnet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latvian network equipment manufacturer MikroTik has shared details on how customers can secure and clean routers compromised by the massive Mēris DDoS botnet over the summer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Threats Loom over Food Supply Chain Management<a href="https://cyware.com/news/ransomware-threats-loom-over-food-supply-chain-management-413a11e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors are trying to exploit the adoption of new digital and complex technologies in the global food supply chain. A new alert issued by the FBI highlights that organizations in the food and agriculture sector have come under the active radar of ransomware gangs. Such risks can only be r ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three formers NSA employees fined for providing hacker-for-hire services to UAE firm<a href="https://securityaffairs.co/wordpress/122234/security/formers-nsa-employees-fined.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three former NSA employees entered into a deferred prosecution agreement that restricts their future activities and employment and requires the payment of a penalty.
+
+
+
+Three former NSA employees (Marc Baier, 49, Ryan Adams, 34, and Daniel Gericke,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang threatens to wipe decryption key if negotiator hired<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-wipe-decryption-key-if-negotiator-hired/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Grief ransomware gang is threatening to delete victim's decryption keys if they hire a negotiation firm, making it impossible to recover encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Former NSA Operatives Worked as Cyber-Mercenaries<a href="https://gizmodo.com/doj-former-nsa-operatives-worked-as-cyber-mercenaries-1847676200?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marc Baier, 49, Ryan Adams, 34, and Daniel Gericke, 40, are all charged with having broken federal laws related to computer fraud and export regulations, the Department of Justice announced Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2021.3 released with new pentest tools, improvements<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20213-released-with-new-pentest-tools-improvements/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Kali Linux 2021.3 was released yesterday by Offensive Security and includes a new set of tools, improved virtualization support, and a new OpenSSL configuration that increases the attack surface.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Travel Themed Phishing URLs Set to Prey on Eager Travelers<a href="https://unit42.paloaltonetworks.com/travel-themed-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the pandemic is not over, as the world opens up borders and the vaccines slow down the spread of the virus, people who have been cooped up at home are eager to travel.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls out passwordless login for all Microsoft accounts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-passwordless-login-for-all-microsoft-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is rolling out passwordless login support over the coming weeks, allowing customers to sign in to Microsoft accounts without using a password.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security bods boost Apple iPhone hardware attack research with iTimed toolkit<a href="https://www.theregister.com/2021/09/14/security_bods_boost_apple_iphone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at NC State created a toolkit dubbed iTimed, which builds atop an open-source reimplementation of the "unpatchable" checkm8 boot ROM vulnerability first disclosed back in September 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infrastructure access platform StrongDM raises $54M<a href="https://venturebeat.com/2021/09/15/infrastructure-access-platform-strongdm-raises-55m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+StrongDM today announced that it raised $54 million in Series B round led by Tiger Global, with participation from GV, Sequoia Capital, True Ventures, HearstLab, Bloomberg Beta, and Godfrey Sullivan.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CI/CD Platform Provider Travis CI Confirms Security Breach Impacting Public Repository<a href="https://portswigger.net/daily-swig/credential-leak-fears-raised-following-security-breach-at-travis-ci?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It said that it has resolved the underlying problem with a series of security patches, adding that users should consider making changes to their passcodes and authentication tokens as a precaution.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA appointed Kiersten Todt as new chief of staff<a href="https://securityaffairs.co/wordpress/122228/security/cisa-kiersten-todt.html"> Full Text</a>
@@ -54,7 +471,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2021
+September 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday fixes CVE-2021-40444 MSHTML zero-day<a href="https://securityaffairs.co/wordpress/122224/security/microsoft-patch-tuesday-sept-21.html"> Full Text</a>
@@ -74,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases Patch for Actively Exploited Windows Zero-Day Vulnerability<a href="https://thehackernews.com/2021/09/microsoft-releases-patch-for-actively.html"> Full Text</a>
@@ -90,7 +507,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2021
+September 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2021’s Most Dangerous Software Weaknesses<a href="https://threatpost.com/2021-angerous-software-weaknesses/169458/"> Full Text</a>

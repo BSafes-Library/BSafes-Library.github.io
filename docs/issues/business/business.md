@@ -8,6 +8,38 @@ nav_order: 900027
 
 ## Business
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces passwordless authentication for consumer accounts<a href="https://securityaffairs.co/wordpress/122243/security/microsoft-passwordless-authentication-consumers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that users can access their consumer accounts without providing passwords and using more secure authentication methods.
+
+
+
+Microsoft will allow its users to log into their consumer accounts without using passwords, they will be able...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infrastructure access platform StrongDM raises $54M<a href="https://venturebeat.com/2021/09/15/infrastructure-access-platform-strongdm-raises-55m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+StrongDM today announced that it raised $54 million in Series B round led by Tiger Global, with participation from GV, Sequoia Capital, True Ventures, HearstLab, Bloomberg Beta, and Godfrey Sullivan.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

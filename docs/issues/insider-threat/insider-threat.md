@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three formers NSA employees fined for providing hacker-for-hire services to UAE firm<a href="https://securityaffairs.co/wordpress/122234/security/formers-nsa-employees-fined.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three former NSA employees entered into a deferred prosecution agreement that restricts their future activities and employment and requires the payment of a penalty.
+
+
+
+Three former NSA employees (Marc Baier, 49,&nbsp;Ryan Adams, 34, and&nbsp;Daniel Gericke,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

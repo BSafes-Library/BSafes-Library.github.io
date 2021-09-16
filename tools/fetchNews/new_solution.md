@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to let users completely remove account passwords and go passwordless<a href="https://therecord.media/microsoft-to-let-users-completely-remove-account-passwords-and-go-passwordless/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the coming weeks, Microsoft said that users would be able to remove the password from their consumer account and choose an alternative authentication option instead to boost security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2021.3 released with new pentest tools, improvements<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20213-released-with-new-pentest-tools-improvements/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Kali Linux 2021.3 was released yesterday by Offensive Security and includes a new set of tools, improved virtualization support, and a new OpenSSL configuration that increases the attack surface.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security bods boost Apple iPhone hardware attack research with iTimed toolkit<a href="https://www.theregister.com/2021/09/14/security_bods_boost_apple_iphone/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at NC State created a toolkit dubbed iTimed, which builds atop an open-source reimplementation of the "unpatchable" checkm8 boot ROM vulnerability first disclosed back in September 2019.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,63 @@ nav_order: 900072
 
 ## General
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download the Essential Guide to Response Automation<a href="https://thehackernews.com/2020/12/download-essential-guide-to-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the classic children's movie 'The Princess Bride,' one of the characters utters the phrase, " You keep using that word. I do not think it means what you think it means ."  It's freely used as a response to someone's misuse or misunderstanding of a word or phrase.   "Response Automation" is another one of those phrases that have different meanings to different people. It's bantered around by the security vendor community so much that its precise meaning, when used, is unclear.  Many vendors throw the term out without explaining exactly what they mean by the phrase. One vendor's response automation might, and often do, perform very differently from another vendor's response automation capabilities. But, hey, they have "response automation!"  A recently published guide is meant to make sense of Response Automation ( Download here ). It discusses the evolution of response automation and distinguishes five increasingly capabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Threats Loom over Food Supply Chain Management<a href="https://cyware.com/news/ransomware-threats-loom-over-food-supply-chain-management-413a11e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors are trying to exploit the adoption of new digital and complex technologies in the global food supply chain. A new alert issued by the FBI highlights that organizations in the food and agriculture sector have come under the active radar of ransomware gangs. Such risks can only be r ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls out passwordless login for all Microsoft accounts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-passwordless-login-for-all-microsoft-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is rolling out passwordless login support over the coming weeks, allowing customers to sign in to Microsoft accounts without using a password.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021’s Most Dangerous Software Weaknesses<a href="https://threatpost.com/2021-angerous-software-weaknesses/169458/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saryu Nayyar, CEO at Gurucul, peeks into Mitre’s list of dangerous software bug types, highlighting that the oldies are still the goodies for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

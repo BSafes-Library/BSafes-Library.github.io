@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC warns health apps to notify consumers impacted by data breaches<a href="https://thehill.com//policy/cybersecurity/572485-ftc-warns-health-apps-to-notify-consumers-impacted-by-data-breaches"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) voted 3-2 Wednesday that a decade-old rule on health data breaches applies to apps that handle sensitive health information, warning these companies to comply.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘No indication’ Russia has cracked down on ransomware gangs, top FBI official says<a href="https://therecord.media/no-indication-russia-has-cracked-down-on-ransomware-gangs-top-fbi-official-says/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top-ranking FBI official on Tuesday said the federal agency has seen no evidence that the Russian government has moved against notorious ransomware gangs operating on its soil.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Former NSA Operatives Worked as Cyber-Mercenaries<a href="https://gizmodo.com/doj-former-nsa-operatives-worked-as-cyber-mercenaries-1847676200?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marc Baier, 49, Ryan Adams, 34, and Daniel Gericke, 40, are all charged with having broken federal laws related to computer fraud and export regulations, the Department of Justice announced Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA appointed Kiersten Todt as new chief of staff<a href="https://securityaffairs.co/wordpress/122228/security/cisa-kiersten-todt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has appointed Kiersten Todt as its new chief of staff. 
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced to have appointed Kiersten Todt as its new chief of staff,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
