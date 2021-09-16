@@ -6,6 +6,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2021 - FTC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On Breaches by Health Apps and Other Connected Devices <a href="https://publications.bsafes.com/docs/ftc/ftc-20210915-on-breaches-by-health-apps-and-other-connected-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recognition of the proliferation of apps and connected devices that capture sensitive health data, the Federal Trade Commission is providing this Policy Statement to offer guidance on the scope of the FTC’s Health Breach Notification Rule, 16 C.F.R. Part 318 (“the Rule”).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13, 2021 - FTC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
