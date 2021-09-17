@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meris Botnet Creates a New Record for DDoS Attacks<a href="https://cyware.com/news/meris-botnet-creates-a-new-record-for-ddos-attacks-1499a89c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian internet service provider Yandex experienced one of the biggest DDoS attacks by a botnet dubbed Meris. It has infected thousands of networking devices so far.  The information collected from the multiple attacks revealed that Mēris has a network of more than 30,000 devices. MikroTik has  sh ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad Bots Take the Internet by Storm<a href="https://cyware.com/news/bad-bots-take-the-internet-by-storm-2bc075f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that there has been a constant rise in bad bots that has surpassed record-high bad bot traffic detected last year – 25.6% of all web requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

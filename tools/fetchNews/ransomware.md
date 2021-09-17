@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free REvil ransomware master decrypter released for past victims<a href="https://www.bleepingcomputer.com/news/security/free-revil-ransomware-master-decrypter-released-for-past-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free master decryptor for the REvil ransomware operation has been released, allowing all victims encrypted before the gang disappeared to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender released free REvil ransomware decryptor that works for past victims<a href="https://securityaffairs.co/wordpress/122274/cyber-crime/revil-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Bitdefender released a free master decryptor for the REvil ransomware operation that allows past victims to recover their files for free.
+
+
+
+Good news for the victims of REvil ransomware gangs that were infected before the operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

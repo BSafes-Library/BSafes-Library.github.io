@@ -11,6 +11,20 @@ nav_order: 900160
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Attackers Impersonate DoT in Two-Day Phishing Scam<a href="https://threatpost.com/attackers-impersonate-dot-phishing-scam/169484/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors dangled the lure of receiving funds from the $1 trillion infrastructure bill and created new domains mimicking the real federal site. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Travel Themed Phishing URLs Set to Prey on Eager Travelers<a href="https://unit42.paloaltonetworks.com/travel-themed-phishing/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900195
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+You Can Now Sign-in to Your Microsoft Accounts Without a Password<a href="https://thehackernews.com/2021/09/you-can-now-sign-in-to-you-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday announced a new passwordless mechanism that allows users to access their accounts without a password by using Microsoft Authenticator, Windows Hello, a security key, or a verification code sent via SMS or email.  The change is expected to be rolled out in the coming weeks.  "Except for auto-generated passwords that are nearly impossible to remember, we largely create our own passwords,"&nbsp; said &nbsp;Vasu Jakkal, Microsoft's corporate vice president for Security, Compliance, and Identity. "But, given the vulnerability of passwords, requirements for them have gotten increasingly complex in recent years, including multiple symbols, numbers, case sensitivity, and disallowing previous passwords."   "Passwords are incredibly inconvenient to create, remember, and manage across all the accounts in our lives," Jakkal added.  Over the years, weak passwords have emerged as the entry point for a vast majority of attacks across enterprise and cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft to let users completely remove account passwords and go passwordless<a href="https://therecord.media/microsoft-to-let-users-completely-remove-account-passwords-and-go-passwordless/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,66 @@ nav_order: 900220
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of attacks exploiting recently patched Windows MSHTML CVE-2021-40444 bug<a href="https://securityaffairs.co/wordpress/122281/security/windows-mshtml-cve-2021-40444-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that multiple threat actors are exploiting the recently patched Windows MSHTML remote code execution security flaw (CVE-2021-40444). 
+
+
+
+Microsoft warns of multiple threat actors, including ransomware operators, that are exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows security updates break network printing<a href="https://www.bleepingcomputer.com/news/security/new-windows-security-updates-break-network-printing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows administrators report wide-scale network printing problems after installing this week's September 2021 Patch Tuesday security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows security updates break network printing<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-security-updates-break-network-printing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows administrators report wide-scale network printing problems after installing this week's September 2021 Patch Tuesday security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Access Bypass, CSRF Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/several-access-bypass-csrf-vulnerabilities-patched-drupal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drupal developers informed users that updates released for Drupal 8.9, 9.1, and 9.2 patch five vulnerabilities that can be exploited for cross-site request forgery (CSRF) and access bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects<a href="https://thehackernews.com/2021/09/travis-ci-flaw-exposes-secrets-of.html"> Full Text</a>
 </p>
 <details>

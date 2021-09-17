@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Campaign Stole Data from Victim Organization Using Off-the-shelf Hacking and System Management Tools<a href="https://searchsecurity.techtarget.com/news/252506722/McAfee-discovers-Chinese-APT-campaign-Operation-Harvest?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors were able to gain their initial access to the victim by exploiting a vulnerability in a web access server. They further used privilege escalation exploits to steal credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

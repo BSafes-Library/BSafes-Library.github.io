@@ -11,6 +11,20 @@ nav_order: 900010
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI: State-Backed APTs May Be Exploiting Critical Zoho Bug<a href="https://threatpost.com/cisa-fbi-state-backed-apts-exploit-critical-zoho-bug/174768/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly identified bug in a Zoho single sign-on and password management tool has been under active attack since early August.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Campaign Stole Data from Victim Organization Using Off-the-shelf Hacking and System Management Tools<a href="https://searchsecurity.techtarget.com/news/252506722/McAfee-discovers-Chinese-APT-campaign-Operation-Harvest?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
