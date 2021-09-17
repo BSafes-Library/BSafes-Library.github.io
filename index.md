@@ -34,6 +34,336 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA warn of state hackers exploiting critical Zoho bug<a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-exploiting-critical-zoho-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and the Coast Guard Cyber Command (CGCYBER) today warned that state-backed advanced persistent threat (APT) groups are actively exploiting a critical flaw in a Zoho single sign-on and password management solution since early August 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Health app and connected device makers must disclose data breaches<a href="https://therecord.media/ftc-health-app-and-connected-device-makers-must-disclose-data-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC approved a policy statement Wednesday that warns makers of health apps and connected devices that collect health-related information to comply with a decade-old data breach notification rule.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator calls on agencies to take action to prevent criminal cryptocurrency use<a href="https://thehill.com//policy/cybersecurity/572663-senator-calls-on-agencies-to-take-action-to-prevent-criminal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Maggie Hassan (D-N.H.) on Thursday raised concerns around the use of cryptocurrency for criminal means, pressing key federal agencies to take action.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and CGCYBER warn of nation-state actors exploiting CVE-2021-40539 Zoho bug<a href="https://securityaffairs.co/wordpress/122293/security/cve-2021-40539-zoho-bug-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and the Coast Guard Cyber Command (CGCYBER) warn of state-sponsored attacks that are actively exploiting CVE-2021-40539 Zoho flaw.  
+
+
+
+The FBI, CISA, and the Coast Guard Cyber Command (CGCYBER) warn that nation-state APT groups are actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI: State-Backed APTs May Be Exploiting Critical Zoho Bug<a href="https://threatpost.com/cisa-fbi-state-backed-apts-exploit-critical-zoho-bug/174768/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly identified bug in a Zoho single sign-on and password management tool has been under active attack since early August.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New malware uses Windows Subsystem for Linux for stealthy attacks<a href="https://www.bleepingcomputer.com/news/security/new-malware-uses-windows-subsystem-for-linux-for-stealthy-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered malicious Linux binaries created for the Windows Subsystem for Linux (WSL), indicating that hackers are trying out new methods to compromise Windows machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meris Botnet Creates a New Record for DDoS Attacks<a href="https://cyware.com/news/meris-botnet-creates-a-new-record-for-ddos-attacks-1499a89c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian internet service provider Yandex experienced one of the biggest DDoS attacks by a botnet dubbed Meris. It has infected thousands of networking devices so far.  The information collected from the multiple attacks revealed that Mēris has a network of more than 30,000 devices. MikroTik has  sh ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of attacks exploiting recently patched Windows MSHTML CVE-2021-40444 bug<a href="https://securityaffairs.co/wordpress/122281/security/windows-mshtml-cve-2021-40444-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that multiple threat actors are exploiting the recently patched Windows MSHTML remote code execution security flaw (CVE-2021-40444). 
+
+
+
+Microsoft warns of multiple threat actors, including ransomware operators, that are exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airline Credential-Theft Takes Off in Widening Campaign<a href="https://threatpost.com/airline-credential-theft-campaign/174264/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spyware effort bent on stealing cookies and logins is being driven by unsophisticated attackers cashing in on the initial-access-broker boom.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: $113 million lost to online romance scams this year<a href="https://www.bleepingcomputer.com/news/security/fbi-113-million-lost-to-online-romance-scams-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned today that a massive spike of online romance scams this year caused Americans to lose more than $113 million since the start of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India reported an 11.8% rise in cybercrime in 2020<a href="https://timesofindia.indiatimes.com/india/india-reported-11-8-rise-in-cyber-crime-in-2020-578-incidents-of-fake-news-on-social-media-data/articleshow/86230597.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rate of cyber crime (incidents per lakh population) also increased from 3.3 percent in 2019 to 3.7 percent in 2020 in the country, according to the National Crime Records Bureau (NCRB) data.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows security updates break network printing<a href="https://www.bleepingcomputer.com/news/security/new-windows-security-updates-break-network-printing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows administrators report wide-scale network printing problems after installing this week's September 2021 Patch Tuesday security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0 Gains Free Rein After Recruiting Affiliates<a href="https://cyware.com/news/lockbit-20-gains-free-rein-after-recruiting-affiliates-b56e4f9f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit is showing no signs of slowing down as the gang continues to recruit affiliates under its LockBit 2.0 RaaS model. The group’s website displayed that LockBit is six times more active than its contemporaries.&nbsp;At this moment, organizations should start prioritizing their network security  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows security updates break network printing<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-security-updates-break-network-printing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows administrators report wide-scale network printing problems after installing this week's September 2021 Patch Tuesday security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad Bots Take the Internet by Storm<a href="https://cyware.com/news/bad-bots-take-the-internet-by-storm-2bc075f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that there has been a constant rise in bad bots that has surpassed record-high bad bot traffic detected last year – 25.6% of all web requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Windows MSHTML bug now exploited by ransomware gangs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-mshtml-bug-now-exploited-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says multiple threat actors, including ransomware affiliates, are targeting the recently patched Windows MSHTML remote code execution security flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangling Domains: Security Threats, Detection and Prevalence<a href="https://unit42.paloaltonetworks.com/dangling-domains/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit42 researchers found that dangling domains are a real and prevalent threat. Specifically, they detected 317,000 unsafe dangling domains in their passive DNS data set.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capoae Malware Ramps Up: Uses Multiple Vulnerabilities and Tactics to Spread<a href="https://www.akamai.com/blog/security/capoae-malware-ramps-up-uses-multiple-vulnerabilities-and-tactics-to-spread?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware’s primary tactic is to spread by taking advantage of vulnerable systems and weak administrative credentials. Once they’ve been infected, these systems are then used to mine cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Akamai
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Links Found Between MSHTML Zero-Day Attacks and Ransomware Operations<a href="https://www.securityweek.com/links-found-between-mshtml-zero-day-attacks-and-ransomware-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and threat intelligence company RiskIQ reported finding links between the exploitation of a recently patched Windows zero-day vulnerability and known ransomware operators.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Access Bypass, CSRF Vulnerabilities Patched in Drupal<a href="https://www.securityweek.com/several-access-bypass-csrf-vulnerabilities-patched-drupal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drupal developers informed users that updates released for Drupal 8.9, 9.1, and 9.2 patch five vulnerabilities that can be exploited for cross-site request forgery (CSRF) and access bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
