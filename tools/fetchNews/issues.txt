@@ -30,10 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-exploiting-critical-zoho-bug/
-. https://therecord.media/ftc-health-app-and-connected-device-makers-must-disclose-data-breaches/?&web_view=true
-. https://securityaffairs.co/wordpress/122293/security/cve-2021-40539-zoho-bug-attacks.html
-. https://www.bleepingcomputer.com/news/security/fbi-113-million-lost-to-online-romance-scams-this-year/
  
 Law
 

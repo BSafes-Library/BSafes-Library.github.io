@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Defraud Victims of Millions of Dollars in New Trend in Romance Scams <a href="https://www.ic3.gov/Media/Y2021/PSA210916"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of a rising trend in which scammers are defrauding victims via online romance scams, persuading individuals to send money to allegedly invest or trade cryptocurrency. From January 1, 2021 — July 31, 2021, the FBI Internet Crime Complaint Center (IC3) received over 1,800 complaints, related to online romance scams, resulting in losses of approximately $133,400,000.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2021 - CISA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Actors Exploiting Newly Identified Vulnerability in ManageEngine ADSelfService Plus <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-259a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This joint advisory is the result of analytic efforts between the Federal Bureau of Investigation (FBI), United States Coast Guard Cyber Command (CGCYBER), and the Cybersecurity and Infrastructure Security Agency (CISA) to highlight the cyber threat associated with active exploitation of a newly identified vulnerability (CVE-2021-40539) in ManageEngine ADSelfService Plus—a self-service password management and single sign-on solution.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 15, 2021 - FTC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
