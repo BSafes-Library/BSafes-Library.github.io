@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers pose as bank customers by stealing OTPs, making $500k in fake credit card payments<a href="https://www.straitstimes.com/tech/tech-news/hackers-pose-as-bank-customers-to-make-500k-in-fake-credit-card-payments-by-stealing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers abroad have been able to pose as 75 bank customers here to make about $500,000 in fake credit card payments. This was done by a sophisticated method of hijacking the OTPs by banks.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

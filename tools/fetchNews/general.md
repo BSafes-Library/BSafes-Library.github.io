@@ -11,6 +11,62 @@ nav_order: 900072
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Airline Credential-Theft Takes Off in Widening Campaign<a href="https://threatpost.com/airline-credential-theft-campaign/174264/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spyware effort bent on stealing cookies and logins is being driven by unsophisticated attackers cashing in on the initial-access-broker boom.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: $113 million lost to online romance scams this year<a href="https://www.bleepingcomputer.com/news/security/fbi-113-million-lost-to-online-romance-scams-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI&nbsp;warned today that a massive spike of online romance scams this year caused Americans to lose more than $113 million since the start of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India reported an 11.8% rise in cybercrime in 2020<a href="https://timesofindia.indiatimes.com/india/india-reported-11-8-rise-in-cyber-crime-in-2020-578-incidents-of-fake-news-on-social-media-data/articleshow/86230597.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rate of cyber crime (incidents per lakh population) also increased from 3.3 percent in 2019 to 3.7 percent in 2020 in the country, according to the National Crime Records Bureau (NCRB) data.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangling Domains: Security Threats, Detection and Prevalence<a href="https://unit42.paloaltonetworks.com/dangling-domains/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit42 researchers found that dangling domains are a real and prevalent threat. Specifically, they detected 317,000 unsafe dangling domains in their passive DNS data set.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cyber Puppeteer Kits: The New Financial Services Security Threat<a href="https://www.zerofox.com/blog/cyber-puppeteer-kits/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

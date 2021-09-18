@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Treasury to issue new cryptocurrency sanctions after ransomware attacks<a href="https://www.theverge.com/2021/9/17/22679952/ransomware-cryptocurrency-sanctions-treasury-biden?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Verge
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD Chipset Driver flaw allows obtaining sensitive data<a href="https://securityaffairs.co/wordpress/122330/security/amd-driver-vulnerability.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yes, of course there's now malware for Windows Subsystem for Linux<a href="https://www.theregister.com/2021/09/17/windows_subsystem_for_linux_malware/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 17th 2021 - REvil decrypted<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-17th-2021-revil-decrypted/"> Full Text</a>
@@ -98,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Targets Windows Subsystem for Linux to Evade Detection<a href="https://thehackernews.com/2021/09/new-malware-targets-windows-subsystem.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-26333 AMD Chipset Driver flaw allows obtaining sensitive data<a href="https://securityaffairs.co/wordpress/122330/security/amd-driver-vulnerability.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Porn Problem: Adult Ads Persist on US Gov’t, Military Sites<a href="https://threatpost.com/porn-viagra-spams-govt-military-sites/174794/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. to sanction crypto exchanges, wallets used by ransomware<a href="https://www.bleepingcomputer.com/news/security/us-to-sanction-crypto-exchanges-wallets-used-by-ransomware/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack on Aviation Sector Uncovered After Going Unnoticed for 2 Years<a href="https://thehackernews.com/2021/09/malware-attack-on-aviation-sector.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn that Mirai Botnet starts exploiting OMIGOD flaw<a href="https://securityaffairs.co/wordpress/122322/hacking/omigod-mirai-botnet.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ditch the Alert Cannon: Modernizing IDS is a Security Must-Do<a href="https://threatpost.com/modernizing-ids-security/174789/"> Full Text</a>
@@ -218,7 +218,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Admin of DDoS service behind 200,000 attacks faces 35yrs in prison<a href="https://www.bleepingcomputer.com/news/security/admin-of-ddos-service-behind-200-000-attacks-faces-35yrs-in-prison/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Election body hit by a cyber attack<a href="https://securityaffairs.co/wordpress/122314/cyber-warfare-2/german-election-body-cyber-attack.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Billions more Android devices will reset risky app permissions<a href="https://www.bleepingcomputer.com/news/security/billions-more-android-devices-will-reset-risky-app-permissions/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers pose as bank customers by stealing OTPs, making $500k in fake credit card payments<a href="https://www.straitstimes.com/tech/tech-news/hackers-pose-as-bank-customers-to-make-500k-in-fake-credit-card-payments-by-stealing?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Go malware Capoae uses multiple flaws to target WordPress installs, Linux systems<a href="https://securityaffairs.co/wordpress/122308/malware/go-malware-capoae.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OMIGOD: Microsoft Azure VMs exploited to drop Mirai, miners <a href="https://www.bleepingcomputer.com/news/security/omigod-microsoft-azure-vms-exploited-to-drop-mirai-miners/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alaska Department of Health Reveals Data Breach Potentially Exposing Residents’ Financial, Health Information<a href="https://portswigger.net/daily-swig/alaska-department-of-health-reveals-data-breach-potentially-exposing-residents-financial-health-information?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Win malware uses Windows Subsystem for Linux (WSL) to evade detection<a href="https://securityaffairs.co/wordpress/122299/malware/win-malware-wsl-to-evade-detection.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft asks Azure Linux admins to manually patch OMIGOD bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-azure-linux-admins-to-manually-patch-omigod-bugs/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Disrupted the Website of the Authority Running Germany's General Elections<a href="https://www.securityweek.com/german-election-authority-confirms-likely-cyber-attack?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to fix printers asking for admins creds after PrintNightmare patch<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-fix-printers-asking-for-admins-creds-after-printnightmare-patch/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Botnet Starts Exploiting OMIGOD Flaw as Microsoft Issues More Guidance<a href="https://www.securityweek.com/mirai-botnet-starts-exploiting-omigod-flaw-microsoft-issues-more-guidance?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt sites showing porn, viagra ads share a common software vendor<a href="https://www.bleepingcomputer.com/news/security/us-govt-sites-showing-porn-viagra-ads-share-a-common-software-vendor/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Yonkers attacked by ransomware but refuses to pay ransom<a href="https://www.itgovernanceusa.com/blog/yonkers-attacked-by-ransomware-but-refuses-to-pay-ransom?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ IT Governance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 17, 2021
+September 17, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identity startup Persona closes $150M round at $1.5B valuation<a href="https://siliconangle.com/2021/09/15/identity-startup-persona-closes-150m-round-1-5b-valuation/?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Silicon Angle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial Cybercrime: Following Cryptocurrency via Public Ledgers<a href="https://threatpost.com/financial-cybercrime-cryptocurrency-public-ledgers/169987/"> Full Text</a>
@@ -486,7 +486,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2021
+September 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil/Sodinokibi Ransomware Universal Decryptor Key Is Out<a href="https://threatpost.com/revil-sodinokibi-ransomware-universal-decryptor/169498/"> Full Text</a>

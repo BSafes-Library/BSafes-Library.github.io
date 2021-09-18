@@ -11,6 +11,52 @@ nav_order: 900075
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA warn of state hackers exploiting critical Zoho bug<a href="https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-state-hackers-exploiting-critical-zoho-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and the Coast Guard Cyber Command (CGCYBER) today warned that state-backed advanced persistent threat (APT) groups are actively&nbsp;exploiting a critical flaw in a Zoho single sign-on and password management solution since early August 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Health app and connected device makers must disclose data breaches<a href="https://therecord.media/ftc-health-app-and-connected-device-makers-must-disclose-data-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC approved a policy statement Wednesday that warns makers of health apps and connected devices that collect health-related information to comply with a decade-old data breach notification rule.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and CGCYBER warn of nation-state actors exploiting CVE-2021-40539 Zoho bug<a href="https://securityaffairs.co/wordpress/122293/security/cve-2021-40539-zoho-bug-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and the Coast Guard Cyber Command (CGCYBER) warn of state-sponsored attacks that are actively exploiting CVE-2021-40539 Zoho flaw.  
+
+
+
+The FBI, CISA, and the Coast Guard Cyber Command (CGCYBER) warn that nation-state APT groups are actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 House Committees Seek to Spend Millions on Cybersecurity<a href="https://www.bankinfosecurity.com/house-committees-seek-to-spend-millions-on-cybersecurity-a-17544?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

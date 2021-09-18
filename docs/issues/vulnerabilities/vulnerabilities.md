@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD Chipset Driver flaw allows obtaining sensitive data<a href="https://securityaffairs.co/wordpress/122330/security/amd-driver-vulnerability.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker AMD has addressed a medium severity issue in Platform Security Processor (PSP) chipset driver, tracked as CVE-2021-26333, that could allow an attacker to obtain sensitive information from the targeted system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-26333 AMD Chipset Driver flaw allows obtaining sensitive data<a href="https://securityaffairs.co/wordpress/122330/security/amd-driver-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker AMD has addressed a vulnerability in PSP driver, tracked as CVE-2021-26333, that could allow an attacker to obtain sensitive information from the targeted system. 
+
+
+
+Chipmaker AMD has addressed a medium severity issue in Platform Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Go malware Capoae uses multiple flaws to target WordPress installs, Linux systems<a href="https://securityaffairs.co/wordpress/122308/malware/go-malware-capoae.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware written in Golang programming language, tracked as Capoae, is targeting WordPress installs and Linux systems.
+
+
+
+Akamai researchers spotted a new strain of malware written in Golang programming language, dubbed Capoae, that was involved...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMIGOD: Microsoft Azure VMs exploited to drop Mirai, miners <a href="https://www.bleepingcomputer.com/news/security/omigod-microsoft-azure-vms-exploited-to-drop-mirai-miners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors started actively exploiting the critical Azure OMIGOD&nbsp;vulnerabilities two days after Microsoft disclosed them during this month's Patch Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft asks Azure Linux admins to manually patch OMIGOD bugs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-azure-linux-admins-to-manually-patch-omigod-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has issued additional guidance on securing Azure Linux machines&nbsp;impacted by recently addressed critical OMIGOD&nbsp;vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to fix printers asking for admins creds after PrintNightmare patch<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-fix-printers-asking-for-admins-creds-after-printnightmare-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some printers will request administrator credentials&nbsp;every time users try to print in Windows&nbsp;Point and Print environments due to a known issue caused by&nbsp;KB5005033&nbsp;or later security updates addressing the&nbsp;PrintNightmare&nbsp;vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ditch the Alert Cannon: Modernizing IDS is a Security Must-Do<a href="https://threatpost.com/modernizing-ids-security/174789/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jeff Costlow, CISO at ExtraHop, makes the case for implementing next-gen intrusion-detection systems (NG-IDS) and retiring those noisy 90s compliance platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity startup Persona closes $150M round at $1.5B valuation<a href="https://siliconangle.com/2021/09/15/identity-startup-persona-closes-150m-round-1-5b-valuation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C round was led by Founders Fund, Persona said in an announcement this morning. Meritech Capital Partners, BOND, Index Ventures, and Coatue Management participated as well.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

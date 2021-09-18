@@ -8,6 +8,48 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury to issue new cryptocurrency sanctions after ransomware attacks<a href="https://www.theverge.com/2021/9/17/22679952/ransomware-cryptocurrency-sanctions-treasury-biden?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is preparing to issue a series of actions, including sanctions, to make it more difficult for hackers to profit off of ransomware attacks through the use of digital currency.
+</details>
+<div style="text-align: right" markdown="1">
+The Verge
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. to sanction crypto exchanges, wallets used by ransomware<a href="https://www.bleepingcomputer.com/news/security/us-to-sanction-crypto-exchanges-wallets-used-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is expected to issue sanctions against crypto exchanges, wallets, and traders used by ransomware gangs to convert ransom payments into fiat money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Cybercrime: Following Cryptocurrency via Public Ledgers<a href="https://threatpost.com/financial-cybercrime-cryptocurrency-public-ledgers/169987/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Hammond, security researcher with Huntress, discusses a wallet-hijacking RAT, and how law enforcement recovered millions in Bitcoin after the Colonial Pipeline attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

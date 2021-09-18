@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator calls on agencies to take action to prevent criminal cryptocurrency use<a href="https://thehill.com//policy/cybersecurity/572663-senator-calls-on-agencies-to-take-action-to-prevent-criminal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Maggie Hassan (D-N.H.) on Thursday raised concerns around the use of cryptocurrency for criminal means, pressing key federal agencies to take action.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 17th 2021 - REvil decrypted<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-17th-2021-revil-decrypted/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been an interesting week with decryptors released, ransomware gangs continuing to rail against negotiators, and the US government expected to sanction crypto exchanges next week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil/Sodinokibi Ransomware Universal Decryptor Key Is Out<a href="https://threatpost.com/revil-sodinokibi-ransomware-universal-decryptor/169498/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender worked with law enforcement to create a key to unlock victims  encrypted in ransomware attacks before REvil’s servers went belly-up on July 13.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

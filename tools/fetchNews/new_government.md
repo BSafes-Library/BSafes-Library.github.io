@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt sites showing porn, viagra ads share a common software vendor<a href="https://www.bleepingcomputer.com/news/security/us-govt-sites-showing-porn-viagra-ads-share-a-common-software-vendor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple U.S. government sites using .gov and .mil domains have been seen hosting porn&nbsp;and spam content, such as&nbsp;Viagra ads, in the last year. A security researcher noticed all of these sites share&nbsp;a common software vendor, Laserfiche.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Disrupted the Website of the Authority Running Germany's General Elections<a href="https://www.securityweek.com/german-election-authority-confirms-likely-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected hackers last month briefly disrupted the website of the authority running Germany's September 26 general election, a spokesman for the agency told AFP Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

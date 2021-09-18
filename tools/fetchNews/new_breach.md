@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alaska Department of Health Reveals Data Breach Potentially Exposing Residents’ Financial, Health Information<a href="https://portswigger.net/daily-swig/alaska-department-of-health-reveals-data-breach-potentially-exposing-residents-financial-health-information?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alaska Department of Health and Social Services (DHSS) has warned that a “highly sophisticated” cyber-attack may have exposed residents’ personal data, including financial information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

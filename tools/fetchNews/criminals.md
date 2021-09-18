@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0 Gains Free Rein After Recruiting Affiliates<a href="https://cyware.com/news/lockbit-20-gains-free-rein-after-recruiting-affiliates-b56e4f9f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit is showing no signs of slowing down as the gang continues to recruit affiliates under its LockBit 2.0 RaaS model. The group’s website displayed that LockBit is six times more active than its contemporaries.&nbsp;At this moment, organizations should start prioritizing their network security  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Windows MSHTML bug now exploited by ransomware gangs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-mshtml-bug-now-exploited-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says multiple threat actors, including ransomware affiliates, are targeting the recently patched Windows MSHTML remote code execution security flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Links Found Between MSHTML Zero-Day Attacks and Ransomware Operations<a href="https://www.securityweek.com/links-found-between-mshtml-zero-day-attacks-and-ransomware-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and threat intelligence company RiskIQ reported finding links between the exploitation of a recently patched Windows zero-day vulnerability and known ransomware operators.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

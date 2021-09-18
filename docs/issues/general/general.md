@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Porn Problem: Adult Ads Persist on US Gov’t, Military Sites<a href="https://threatpost.com/porn-viagra-spams-govt-military-sites/174794/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cities, states, federal and military agencies should patch the Laserfiche CMS post-haste, said the security researcher whose jaw dropped at 50 sites hosting porn and Viagra spam. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billions more Android devices will reset risky app permissions<a href="https://www.bleepingcomputer.com/news/security/billions-more-android-devices-will-reset-risky-app-permissions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that support for a recently released Android privacy protection feature would be backported to billions of devices running older Android versions later this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
