@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T lost $200 million in phone-unlocking scheme<a href="https://securereading.com/att-lost-200-million-in-phone-unlocking-scheme/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Beginning in 2012, Fahd, 35, conspired with others to recruit AT&amp;T employees at a call centre located in Bothell, Washington, to unlock large numbers of cellular phones for profit,” said the DOJ.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T lost $200M in seven years to illegal phone unlocking scheme<a href="https://www.bleepingcomputer.com/news/security/atandt-lost-200m-in-seven-years-to-illegal-phone-unlocking-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistani fraudster was sentenced earlier this week to 12 years in prison after AT&amp;T, the world's largest telecommunications company, lost over $200 million after he and his co-conspirators coordinated a seven year scheme that led to the fraudulent unlocking of almost 2 million phones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Auto-Reset Unused Android App Permissions for Billions of Devices<a href="https://thehackernews.com/2021/09/google-to-auto-reset-unused-android-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday said it's bringing an Android 11 feature that auto-resets permissions granted to apps that haven't been used in months, to devices running Android versions 6 and above.  The expansion is expected to go live later this year in December 2021 and enabled on Android phones with Google Play services running Android 6.0 (API level 23) or higher, which the company said should cover "billions more devices." Google officially released Android 6.0 Marshmallow on October 5, 2015.   With Android 11 that came out last year, the internet giant introduced a permission auto-reset option that helps improve user privacy by automatically resetting an app's permissions to access sensitive features like storage or camera if the app in question is left unopened for a few months.  "Some apps and permissions are automatically exempted from revocation, like active Device Administrator apps used by enterprises, and permissions fixed by enterprise policy," Google
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

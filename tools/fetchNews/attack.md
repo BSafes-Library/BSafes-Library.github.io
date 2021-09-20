@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack on Aviation Sector Uncovered After Going Unnoticed for 2 Years<a href="https://thehackernews.com/2021/09/malware-attack-on-aviation-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted phishing campaign aimed at the aviation industry for two years may be spearheaded by a threat actor operating out of Nigeria, highlighting how attackers can carry out small-scale cyber offensives for extended periods of time while staying under the radar.  Cisco Talos dubbed the malware attacks "Operation Layover," building on&nbsp; previous research &nbsp;from the Microsoft Security Intelligence team in May 2021 that delved into a "dynamic campaign targeting the aerospace and travel sectors with spear-phishing emails that distribute an actively developed loader, which then delivers RevengeRAT or AsyncRAT."   "The actor […] doesn't seem to be technically sophisticated, using off-the-shelf malware since the beginning of its activities without developing its own malware," researchers Tiago Pereira and Vitor Ventura&nbsp; said . "The actor also buys the crypters that allow the usage of such malware without being detected, throughout the years it has use
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Election body hit by a cyber attack<a href="https://securityaffairs.co/wordpress/122314/cyber-warfare-2/german-election-body-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spokesman for the authority running Germany's September 26 general election confirmed that hackers briefly disrupted its website last month.  
+
+
+
+Threat actors last month hit the website of the authority running Germany's September 26 general election,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Yonkers attacked by ransomware but refuses to pay ransom<a href="https://www.itgovernanceusa.com/blog/yonkers-attacked-by-ransomware-but-refuses-to-pay-ransom?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government employees at the City of Yonkers were denied access to their computers last week, after cybercriminals launched a ransomware attack. The city said that it refused to pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+IT Governance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

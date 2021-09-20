@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Busts Major Crime Ring, Arrests Over 100 Online Fraudsters<a href="https://thehackernews.com/2021/09/europol-busts-major-cybercrime-ring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies in Italy and Spain have dismantled an organized crime group linked to the Italian Mafia that was involved in online fraud, money laundering, drug trafficking, and property crime, netting the gang about €10 million ($11.7 million) in illegal proceeds in just a year.  "The suspects defrauded hundreds of victims through phishing attacks and other types of online fraud such as SIM swapping and business email compromise before laundering the money through a wide network of money mules and shell companies," Europol&nbsp; said &nbsp;in a statement published today.&nbsp;   The group operated out of Tenerife, located in Spain's Canary Islands.  The development comes following a year-long sting operation that saw as many as 16 house searches, resulting in 106 arrests — mostly in Spain and Italy — and seizure of electronic devices, 224 credit cards, SIM cards, point-of-sale terminals, a marijuana plantation, and equipment used for its cultivation and distribution. 118 ban
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware still a primary threat as cybercriminals evolve tactics<a href="https://www.helpnetsecurity.com/2021/09/20/ransomware-primary-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware remains primary threat in the first half of the year. Working with third parties to gain access to targeted networks, they used APT tools and techniques to steal and encrypt victims’ data.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shining a Light on DarkOxide: A Technical Analysis<a href="https://www.crowdstrike.com/blog/darkoxide-technical-analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike Intelligence tracked the DarkOxide threat activity cluster which launched attack campaigns against organizations within the Asia Pacific (APAC) semiconductor industry.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

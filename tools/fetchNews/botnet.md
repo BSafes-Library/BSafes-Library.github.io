@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn that Mirai Botnet starts exploiting OMIGOD flaw<a href="https://securityaffairs.co/wordpress/122322/hacking/omigod-mirai-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai botnet starts exploiting the recently disclosed OMIGOD vulnerability to compromise vulnerable systems exposed online.
+
+
+
+Threat actors behind a Mirai botnet starts exploiting a critical Azure&nbsp;OMIGOD&nbsp;vulnerability, tracked as CVE-2021-38647,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Starts Exploiting OMIGOD Flaw as Microsoft Issues More Guidance<a href="https://www.securityweek.com/mirai-botnet-starts-exploiting-omigod-flaw-microsoft-issues-more-guidance?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday published additional guidance on addressing recently disclosed vulnerabilities in the OMI framework, along with new protections to secure affected Azure VM management extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

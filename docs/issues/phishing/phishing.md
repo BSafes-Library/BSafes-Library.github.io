@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "Elon Musk Club" crypto giveaway scam promoted via email<a href="https://www.bleepingcomputer.com/news/security/new-elon-musk-club-crypto-giveaway-scam-promoted-via-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Elon Musk-themed cryptocurrency giveaway scam called the "Elon Musk Mutual Aid Fund" or "Elon Musk Club" is being promoted through spam email campaigns that started over the past few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

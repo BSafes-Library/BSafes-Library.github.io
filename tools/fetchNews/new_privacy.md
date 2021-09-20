@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Edward Snowden is urging users to stop using ExpressVPN?<a href="https://securityaffairs.co/wordpress/122365/intelligence/edward-snowden-expressvpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular whistleblower Edward Snowden recommends customers of ExpressVPN VPN service to stop using it.
+
+
+
+Last week the Israeli cybersecurity firm&nbsp;Kape Technologies&nbsp;has acquired the industry's leading&nbsp;virtual private networks&nbsp;ExpressVPN, as part...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

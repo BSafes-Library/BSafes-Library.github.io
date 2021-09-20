@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani man sentenced to 12 years of prison for his role in AT&amp;T hacking scheme<a href="https://securityaffairs.co/wordpress/122382/cyber-crime/att-hacking-scheme-man-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistani national has been sentenced to 12 years of prison in the US for his role in a hacking scheme against the telecom giant AT&amp;T. 
+
+
+
+The Pakistani national Muhammad Fahd (35) was sentenced to 12 years of prison in the United States for his primary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

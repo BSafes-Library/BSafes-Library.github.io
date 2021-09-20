@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SSID Stripping Attacks Could Lead You to Fake Access Points<a href="https://cyware.com/news/ssid-stripping-attacks-could-lead-you-to-fake-access-points-f8605430"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol Busts Major Crime Ring, Arrests Over 100 Online Fraudsters<a href="https://thehackernews.com/2021/09/europol-busts-major-cybercrime-ring.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistani man sentenced to 12 years of prison for his role in AT&T hacking scheme<a href="https://securityaffairs.co/wordpress/122382/cyber-crime/att-hacking-scheme-man-sentenced.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware still a primary threat as cybercriminals evolve tactics<a href="https://www.helpnetsecurity.com/2021/09/20/ransomware-primary-threat/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Wave of Malware Attack Targeting Organizations in South America<a href="https://thehackernews.com/2021/09/a-new-wave-of-malware-attack-targeting.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shining a Light on DarkOxide: A Technical Analysis<a href="https://www.crowdstrike.com/blog/darkoxide-technical-analysis/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AT&T lost $200 million in phone-unlocking scheme<a href="https://securereading.com/att-lost-200-million-in-phone-unlocking-scheme/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Secure Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attack Service Admin Behind 200,000 Attacks Face 35 Years in Prison<a href="https://gbhackers.com/ddos-attack-service-admin-behind-200000-attacks-face-35-years-in-prison/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A hacker may have personal information of thousands of NEISD employees<a href="https://www.mysanantonio.com/news/education/article/NEISD-employees-data-breach-hack-16457767.php?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ MySanAntonio
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New "Elon Musk Club" crypto giveaway scam promoted via email<a href="https://www.bleepingcomputer.com/news/security/new-elon-musk-club-crypto-giveaway-scam-promoted-via-email/"> Full Text</a>
@@ -198,7 +198,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AT&T lost $200M in seven years to illegal phone unlocking scheme<a href="https://www.bleepingcomputer.com/news/security/atandt-lost-200m-in-seven-years-to-illegal-phone-unlocking-scheme/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Numando, a new banking Trojan that abuses YouTube for remote configuration<a href="https://securityaffairs.co/wordpress/122371/malware/numando-banking-trojan.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Auto-Reset Unused Android App Permissions for Billions of Devices<a href="https://thehackernews.com/2021/09/google-to-auto-reset-unused-android-app.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Edward Snowden is urging users to stop using ExpressVPN?<a href="https://securityaffairs.co/wordpress/122365/intelligence/edward-snowden-expressvpn.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Numando: A New Banking Trojan Targeting Latin American Users<a href="https://thehackernews.com/2021/09/numando-new-banking-trojan-targeting.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2021
+September 19, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 332<a href="https://securityaffairs.co/wordpress/122361/breaking-news/security-affairs-newsletter-round-332.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers compile list of vulnerabilities abused by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/researchers-compile-list-of-vulnerabilities-abused-by-ransomware-gangs/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biden administration plans to target exchanges supporting ransomware operations with sanctions<a href="https://securityaffairs.co/wordpress/122352/laws-and-regulations/biden-administration-ransomware-sanctions.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor has been targeting the aviation industry since at least 2018<a href="https://securityaffairs.co/wordpress/122343/malware/aviation-industry-attacks.html"> Full Text</a>
@@ -362,7 +362,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2021
+September 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert discloses details and PoC code for Netgear Seventh Inferno bug<a href="https://securityaffairs.co/wordpress/122338/security/netgear-seventh-inferno-bug.html"> Full Text</a>
