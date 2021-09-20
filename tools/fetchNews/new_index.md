@@ -34,6 +34,354 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSID Stripping Attacks Could Lead You to Fake Access Points<a href="https://cyware.com/news/ssid-stripping-attacks-could-lead-you-to-fake-access-points-f8605430"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSID Stripping is a method that malicious attackers could use to fool users into connecting to fake Wireless Access Points (WAPs). It affects devices running macOS, iOS, Ubuntu, Windows, and Android.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Busts Major Crime Ring, Arrests Over 100 Online Fraudsters<a href="https://thehackernews.com/2021/09/europol-busts-major-cybercrime-ring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies in Italy and Spain have dismantled an organized crime group linked to the Italian Mafia that was involved in online fraud, money laundering, drug trafficking, and property crime, netting the gang about €10 million ($11.7 million) in illegal proceeds in just a year.  "The suspects defrauded hundreds of victims through phishing attacks and other types of online fraud such as SIM swapping and business email compromise before laundering the money through a wide network of money mules and shell companies," Europol  said  in a statement published today.    The group operated out of Tenerife, located in Spain's Canary Islands.  The development comes following a year-long sting operation that saw as many as 16 house searches, resulting in 106 arrests — mostly in Spain and Italy — and seizure of electronic devices, 224 credit cards, SIM cards, point-of-sale terminals, a marijuana plantation, and equipment used for its cultivation and distribution. 118 ban
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani man sentenced to 12 years of prison for his role in AT&T hacking scheme<a href="https://securityaffairs.co/wordpress/122382/cyber-crime/att-hacking-scheme-man-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistani national has been sentenced to 12 years of prison in the US for his role in a hacking scheme against the telecom giant AT&T. 
+
+
+
+The Pakistani national Muhammad Fahd (35) was sentenced to 12 years of prison in the United States for his primary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware still a primary threat as cybercriminals evolve tactics<a href="https://www.helpnetsecurity.com/2021/09/20/ransomware-primary-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware remains primary threat in the first half of the year. Working with third parties to gain access to targeted networks, they used APT tools and techniques to steal and encrypt victims’ data.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Wave of Malware Attack Targeting Organizations in South America<a href="https://thehackernews.com/2021/09/a-new-wave-of-malware-attack-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spam campaign delivering spear-phishing emails aimed at South American organizations has retooled its techniques to include a wide range of commodity remote access trojans (RATs) and geolocation filtering to avoid detection, according to new research.  Cybersecurity firm Trend Micro attributed the attacks to an advanced persistent threat (APT) tracked as  APT-C-36  (aka Blind Eagle), a suspected South America espionage group that has been active since at least 2018 and  previously known  for setting its sights on Colombian government institutions and corporations spanning financial, petroleum, and manufacturing sectors.   Primarily spread via fraudulent emails by masquerading as Colombian government agencies, such as the National Directorate of Taxes and Customs (DIAN), the infection chain commences when the message recipients open a decoy PDF or Word document that claims to be a seizure order tied to their bank accounts and click on a link that's been generated from a URL short
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shining a Light on DarkOxide: A Technical Analysis<a href="https://www.crowdstrike.com/blog/darkoxide-technical-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike Intelligence tracked the DarkOxide threat activity cluster which launched attack campaigns against organizations within the Asia Pacific (APAC) semiconductor industry.
+</details>
+<div style="text-align: right" markdown="1">
+Crowdstrike
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T lost $200 million in phone-unlocking scheme<a href="https://securereading.com/att-lost-200-million-in-phone-unlocking-scheme/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Beginning in 2012, Fahd, 35, conspired with others to recruit AT&T employees at a call centre located in Bothell, Washington, to unlock large numbers of cellular phones for profit,” said the DOJ.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Service Admin Behind 200,000 Attacks Face 35 Years in Prison<a href="https://gbhackers.com/ddos-attack-service-admin-behind-200000-attacks-face-35-years-in-prison/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was found that 32-year old Matthew Gatrel of St. Charles, Illinois allowed users to launch more than 200,000 DDoS attacks through paid services for which he may face 35-years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A hacker may have personal information of thousands of NEISD employees<a href="https://www.mysanantonio.com/news/education/article/NEISD-employees-data-breach-hack-16457767.php?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 5,000 current and former NEISD employees received a letter from the district saying their payroll information, including names and social security numbers, was at risk of being compromised.
+</details>
+<div style="text-align: right" markdown="1">
+MySanAntonio
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "Elon Musk Club" crypto giveaway scam promoted via email<a href="https://www.bleepingcomputer.com/news/security/new-elon-musk-club-crypto-giveaway-scam-promoted-via-email/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Elon Musk-themed cryptocurrency giveaway scam called the "Elon Musk Mutual Aid Fund" or "Elon Musk Club" is being promoted through spam email campaigns that started over the past few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T lost $200M in seven years to illegal phone unlocking scheme<a href="https://www.bleepingcomputer.com/news/security/atandt-lost-200m-in-seven-years-to-illegal-phone-unlocking-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistani fraudster was sentenced earlier this week to 12 years in prison after AT&T, the world's largest telecommunications company, lost over $200 million after he and his co-conspirators coordinated a seven year scheme that led to the fraudulent unlocking of almost 2 million phones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Numando, a new banking Trojan that abuses YouTube for remote configuration<a href="https://securityaffairs.co/wordpress/122371/malware/numando-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numando, a new banking Trojan that abuses YouTube, Pastebin, and other public platforms as C2 infrastructure and to spread.
+
+
+
+ESET researchers spotted a new LATAM banking trojan, tracked as Numando, that abuses YouTube, Pastebin, and other public platforms...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Auto-Reset Unused Android App Permissions for Billions of Devices<a href="https://thehackernews.com/2021/09/google-to-auto-reset-unused-android-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday said it's bringing an Android 11 feature that auto-resets permissions granted to apps that haven't been used in months, to devices running Android versions 6 and above.  The expansion is expected to go live later this year in December 2021 and enabled on Android phones with Google Play services running Android 6.0 (API level 23) or higher, which the company said should cover "billions more devices." Google officially released Android 6.0 Marshmallow on October 5, 2015.   With Android 11 that came out last year, the internet giant introduced a permission auto-reset option that helps improve user privacy by automatically resetting an app's permissions to access sensitive features like storage or camera if the app in question is left unopened for a few months.  "Some apps and permissions are automatically exempted from revocation, like active Device Administrator apps used by enterprises, and permissions fixed by enterprise policy," Google
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Edward Snowden is urging users to stop using ExpressVPN?<a href="https://securityaffairs.co/wordpress/122365/intelligence/edward-snowden-expressvpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular whistleblower Edward Snowden recommends customers of ExpressVPN VPN service to stop using it.
+
+
+
+Last week the Israeli cybersecurity firm Kape Technologies has acquired the industry's leading virtual private networks ExpressVPN, as part...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Numando: A New Banking Trojan Targeting Latin American Users<a href="https://thehackernews.com/2021/09/numando-new-banking-trojan-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly spotted banking trojan has been caught leveraging legitimate platforms like YouTube and Pastebin to store its encrypted, remote configuration and commandeer infected Windows systems, making it the latest to join the  long list of malware  targeting Latin America (LATAM) after Guildma, Javali, Melcoz, Grandoreiro, Mekotio, Casbaneiro, Amavaldo, Vadokrist, and Janeleiro.  The threat actor behind this malware family — dubbed " Numando " — is believed to have been active since at least 2018.   "[Numando brings] interesting new techniques to the pool of Latin American banking trojans' tricks, like using seemingly useless ZIP archives or bundling payloads with decoy BMP images," ESET researchers  said  in a technical analysis published on Friday. "Geographically, it focuses almost exclusively on Brazil with rare campaigns in Mexico and Spain."  Written in Delphi, the malware comes with an array of backdoor capabilities that allow it to control compr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 332<a href="https://securityaffairs.co/wordpress/122361/breaking-news/security-affairs-newsletter-round-332.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.   
+
+
+
+The Biden administration plans to target exchanges supporting ransomware operations with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers compile list of vulnerabilities abused by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/researchers-compile-list-of-vulnerabilities-abused-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are working on compiling an easy to follow list of initial access attack vectors ransomware gangs and their affiliates are using to breach victims' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden administration plans to target exchanges supporting ransomware operations with sanctions<a href="https://securityaffairs.co/wordpress/122352/laws-and-regulations/biden-administration-ransomware-sanctions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Government is expected to issue sanctions against crypto exchanges, wallets, and traders used by ransomware operations to cash out ransom payments. 
+
+
+
+The Biden administration is putting in place all the strategies to disrupt the operations of the ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor has been targeting the aviation industry since at least 2018<a href="https://securityaffairs.co/wordpress/122343/malware/aviation-industry-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from the Cisco Talos team uncovered a spear-phishing campaign targeting the aviation industry for two years avoiding detection.
+
+
+
+Security researchers from Cisco Talos uncovered a spear-phishing campaign targeting, dubbed Operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discloses details and PoC code for Netgear Seventh Inferno bug<a href="https://securityaffairs.co/wordpress/122338/security/netgear-seventh-inferno-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new critical vulnerability in Netgear smart switches can be exploited by an attacker to potentially execute malicious code and take over impacted devices.
+
+
+
+Researchers provided technical details about a recently addressed critical vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
