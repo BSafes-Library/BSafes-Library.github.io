@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenOffice is currently impacted by a remote code execution flaw<a href="https://securityaffairs.co/wordpress/122426/security/apache-openoffice-rce-cve-2021-33035.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache OpenOffice (AOO) is currently impacted by a remote code execution flaw, tracked as CVE-2021-33035, that has yet to be fixed in the official release. 
+
+
+
+Security researcher Eugene Lim (@spaceraccoonsec) recently revealed technical details about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenOffice can be hijacked by malicious documents, fix still in beta<a href="https://www.theregister.com/2021/09/20/apache_openoffice_rce/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache OpenOffice is currently vulnerable to a remote code execution vulnerability and while the app's source code has been patched, the fix has only been made available as beta software.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to fix the Windows 0x0000011b network printing error<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-fix-the-windows-0x0000011b-network-printing-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Windows security update released in January and now fully enforced this month is causing Windows users to experience 0x0000011b errors when printing to network printers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EventBuilder misconfiguration exposes Microsoft event registrant data<a href="https://www.bleepingcomputer.com/news/security/eventbuilder-misconfiguration-exposes-microsoft-event-registrant-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal details of registrants to virtual events available through the EventBuilder platform have stayed accessible over the public internet, open to indexing by various engines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marketron marketing services hit by Blackmatter ransomware<a href="https://www.bleepingcomputer.com/news/security/marketron-marketing-services-hit-by-blackmatter-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emerging from uncertainty, DOD cyber war college looks to navigate the future<a href="https://therecord.media/emerging-from-uncertainty-dod-cyber-war-college-looks-to-navigate-the-future/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Capoae Malware Infiltrates WordPress Sites and Installs Backdoored Plugin<a href="https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache OpenOffice is currently impacted by a remote code execution flaw<a href="https://securityaffairs.co/wordpress/122426/security/apache-openoffice-rce-cve-2021-33035.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Opinion: America Is Being Held for Ransom. It Needs to Fight Back.<a href="https://www.nytimes.com/2021/09/20/opinion/ransomware-biden-russia.html?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Priorities in 2021: How Can CISOs Re-Analyze and Shift Focus?<a href="https://thehackernews.com/2021/09/cybersecurity-priorities-in-2021-how.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Matter gang demanded a $5.9M ransom to NEW Cooperative<a href="https://securityaffairs.co/wordpress/122410/cyber-crime/black-matter-new-cooperative.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Growing More Sophisticated<a href="https://securityboulevard.com/2021/09/ransomware-attacks-growing-more-sophisticated/?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 106 million visitors to Thailand leaked online<a href="https://securityaffairs.co/wordpress/122418/data-breach/thailand-visitors-leaked-online.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iowa Farm Services Provider Targeted by BlackMatter Ransomware, Faces $5.9 Million Ransom Demand<a href="https://www.zdnet.com/article/iowa-farm-services-provider-hit-with-blackmatter-ransomware-and-5-9-million-ransom/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud security company Threat Stack acquired by F5 for $68 million<a href="https://www.zdnet.com/article/cloud-security-company-threat-stack-acquired-by-f5-for-68-million/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Can Write Code Like Humans—Bugs and All<a href="https://www.wired.com/story/ai-write-code-like-humans-bugs/?&web_view=true"> Full Text</a>
@@ -238,7 +238,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache OpenOffice can be hijacked by malicious documents, fix still in beta<a href="https://www.theregister.com/2021/09/20/apache_openoffice_rce/?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid digitization of banks invites cyber risks as well. What are the risks, and what should banks do?<a href="https://ciso.economictimes.indiatimes.com/news/rapid-digitisation-of-banks-invites-cyber-risks-as-well-what-are-the-risks-and-what-should-banks-do/86358848?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 21, 2021
+September 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Indonesia Says No Evidence of Alleged Chinese Intel Hack<a href="https://www.securityweek.com/indonesia-says-no-evidence-alleged-chinese-intel-hack?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major agriculture group New Cooperative hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/573082-agriculture-group-new-cooperative-hit-by-ransomware-attack"> Full Text</a>
@@ -302,7 +302,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bring Your APIs Out of the Shadows to Protect Your Business<a href="https://threatpost.com/apis-out-of-shadows-protect-your-business/169334/"> Full Text</a>
@@ -318,7 +318,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to fix the Windows 0x0000011b network printing error<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-fix-the-windows-0x0000011b-network-printing-error/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacked sites push TeamViewer using fake expired certificate alert<a href="https://www.bleepingcomputer.com/news/security/hacked-sites-push-teamviewer-using-fake-expired-certificate-alert/"> Full Text</a>
@@ -350,7 +350,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US farmer cooperative hit by $5.9M BlackMatter ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-farmer-cooperative-hit-by-59m-blackmatter-ransomware-attack/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large phishing campaign targets EMEA and APAC governments<a href="https://securityaffairs.co/wordpress/122401/hacking/phishing-emea-apac-governments.html"> Full Text</a>
@@ -386,7 +386,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VoIP.ms phone services disrupted by DDoS extortion attack<a href="https://www.bleepingcomputer.com/news/security/voipms-phone-services-disrupted-by-ddos-extortion-attack/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol arrested 106 fraudsters, members of a major crime ring<a href="https://securityaffairs.co/wordpress/122392/cyber-crime/europol-arrested-106-fraudsters.html"> Full Text</a>
@@ -422,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Republican Governors Association email server breached by state hackers<a href="https://www.bleepingcomputer.com/news/security/republican-governors-association-email-server-breached-by-state-hackers/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EventBuilder misconfiguration exposes Microsoft event registrant data<a href="https://www.bleepingcomputer.com/news/security/eventbuilder-misconfiguration-exposes-microsoft-event-registrant-data/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2021
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol links Italian Mafia to million-dollar phishing scheme<a href="https://www.bleepingcomputer.com/news/security/europol-links-italian-mafia-to-million-dollar-phishing-scheme/"> Full Text</a>

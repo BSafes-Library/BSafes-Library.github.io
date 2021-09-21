@@ -8,6 +8,56 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Matter gang demanded a $5.9M ransom to NEW Cooperative<a href="https://securityaffairs.co/wordpress/122410/cyber-crime/black-matter-new-cooperative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. The farmers cooperative NEW Cooperative was hit by Black Matter ransomware gang that is demanding a $5.9 million ransom. 
+
+
+
+BlackMatter ransomware gang hit NEW Cooperative, a farmer's feed and grain cooperative, and is demanding a $5.9 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol arrested 106 fraudsters, members of a major crime ring<a href="https://securityaffairs.co/wordpress/122392/cyber-crime/europol-arrested-106-fraudsters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol, along with Italian and Spanish police, dismantled a major crime organization linked to the Italian Mafia that focuses on online frauds. 
+
+
+
+Europol, along with law enforcement agencies in Italy and Spain, has dismantled a major crime group linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol links Italian Mafia to million-dollar phishing scheme<a href="https://www.bleepingcomputer.com/news/security/europol-links-italian-mafia-to-million-dollar-phishing-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In collaboration with Europol and Eurojust, European law enforcement dismantled an extensive network of cybercriminals linked to the Italian Mafia that was able to defraud their victims of roughly €10 million ($11.7 million) last year alone.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,38 @@ nav_order: 900220
 September 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers compile list of vulnerabilities abused by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/researchers-compile-list-of-vulnerabilities-abused-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are working on compiling an easy to follow list of initial access attack vectors ransomware gangs and their affiliates are using to breach victims' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discloses details and PoC code for Netgear Seventh Inferno bug<a href="https://securityaffairs.co/wordpress/122338/security/netgear-seventh-inferno-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new critical vulnerability in Netgear smart switches can be exploited by an attacker to potentially execute malicious code and take over impacted devices.
+
+
+
+Researchers provided technical details about a recently addressed critical vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 AMD Chipset Driver flaw allows obtaining sensitive data<a href="https://securityaffairs.co/wordpress/122330/security/amd-driver-vulnerability.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

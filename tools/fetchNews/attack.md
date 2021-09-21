@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSID Stripping Attacks Could Lead You to Fake Access Points<a href="https://cyware.com/news/ssid-stripping-attacks-could-lead-you-to-fake-access-points-f8605430"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSID Stripping is a method that malicious attackers could use to fool users into connecting to fake Wireless Access Points (WAPs). It affects devices running macOS, iOS, Ubuntu, Windows, and Android.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Wave of Malware Attack Targeting Organizations in South America<a href="https://thehackernews.com/2021/09/a-new-wave-of-malware-attack-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spam campaign delivering spear-phishing emails aimed at South American organizations has retooled its techniques to include a wide range of commodity remote access trojans (RATs) and geolocation filtering to avoid detection, according to new research.  Cybersecurity firm Trend Micro attributed the attacks to an advanced persistent threat (APT) tracked as&nbsp; APT-C-36 &nbsp;(aka Blind Eagle), a suspected South America espionage group that has been active since at least 2018 and&nbsp; previously known &nbsp;for setting its sights on Colombian government institutions and corporations spanning financial, petroleum, and manufacturing sectors.   Primarily spread via fraudulent emails by masquerading as Colombian government agencies, such as the National Directorate of Taxes and Customs (DIAN), the infection chain commences when the message recipients open a decoy PDF or Word document that claims to be a seizure order tied to their bank accounts and click on a link that's been generated from a URL short
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

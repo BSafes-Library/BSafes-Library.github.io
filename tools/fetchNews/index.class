@@ -34,6 +34,442 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketron marketing services hit by Blackmatter ransomware<a href="https://www.bleepingcomputer.com/news/security/marketron-marketing-services-hit-by-blackmatter-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter ransomware gang over the weekend hit Marketron, a business software solutions provider that serves more than 6,000 customers in the media industry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging from uncertainty, DOD cyber war college looks to navigate the future<a href="https://therecord.media/emerging-from-uncertainty-dod-cyber-war-college-looks-to-navigate-the-future/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CIC was established in 1964 as the DoD Computer Institute. In 1981, it was incorporated into NDU located at Fort McNair, Washington, D.C., and reports to the Chairman of the Joint Chiefs of Staff.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Capoae Malware Infiltrates WordPress Sites and Installs Backdoored Plugin<a href="https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered wave of malware attacks has been spotted using a variety of tactics to enslave susceptible machines with easy-to-guess administrative credentials to co-opt them into a network with the goal of illegally mining cryptocurrency.  "The malware's primary tactic is to spread by taking advantage of vulnerable systems and weak administrative credentials. Once they've been infected, these systems are then used to mine cryptocurrency," Akamai security researcher Larry Cashdollar  said  in a write-up published last week.   The PHP malware — codenamed "Capoae" (short for "Сканирование," the Russian word for "Scanning") — is said to be delivered to the hosts via a backdoored addition to a WordPress plugin called "download-monitor," which gets installed after successfully brute-forcing WordPress admin credentials. The attacks also involve the deployment of a  Golang binary  with decryption functionality, with the obfusc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenOffice is currently impacted by a remote code execution flaw<a href="https://securityaffairs.co/wordpress/122426/security/apache-openoffice-rce-cve-2021-33035.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache OpenOffice (AOO) is currently impacted by a remote code execution flaw, tracked as CVE-2021-33035, that has yet to be fixed in the official release. 
+
+
+
+Security researcher Eugene Lim (@spaceraccoonsec) recently revealed technical details about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opinion: America Is Being Held for Ransom. It Needs to Fight Back.<a href="https://www.nytimes.com/2021/09/20/opinion/ransomware-biden-russia.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past few months, these attacks have leaked sensitive government data, thwarted the operations of hundreds of businesses and even temporarily shut down one of the US’ biggest oil pipelines.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Priorities in 2021: How Can CISOs Re-Analyze and Shift Focus?<a href="https://thehackernews.com/2021/09/cybersecurity-priorities-in-2021-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2020 was a year of relentless disruptions. The protective layer of secured enterprise networks and controlled IT environments of the physical premises did not exist. Over the past year,  CISOs (Chief Information Security Officers)  have had to grapple with the challenges of bolstering the security posture, minimizing risks, and ensuring business continuity in the new normal. The rise in volumes and sophistication of cyberattacks in the rather borderless IT situation only compounded the challenges. All this has necessitated a shift in cybersecurity priorities in 2021.  In this article, we have put together the top cybersecurity priorities for 2021 and beyond that will enable businesses to be fully equipped for future disruptions, without compromising on security.  Cybersecurity Priorities for 2021  Strengthen the Cybersecurity Fundamentals  CISOs must focus on security fundamentals, including asset management, password management, cyber hygiene, configuration,  vulnerability management
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Matter gang demanded a $5.9M ransom to NEW Cooperative<a href="https://securityaffairs.co/wordpress/122410/cyber-crime/black-matter-new-cooperative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. The farmers cooperative NEW Cooperative was hit by Black Matter ransomware gang that is demanding a $5.9 million ransom. 
+
+
+
+BlackMatter ransomware gang hit NEW Cooperative, a farmer's feed and grain cooperative, and is demanding a $5.9 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Growing More Sophisticated<a href="https://securityboulevard.com/2021/09/ransomware-attacks-growing-more-sophisticated/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first half of the year, malicious actors exploited flaws across different types of platforms, leading to major attacks that shut down fuel networks and extracted millions from enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 106 million visitors to Thailand leaked online<a href="https://securityaffairs.co/wordpress/122418/data-breach/thailand-visitors-leaked-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered an unsecured database exposed online containing the personal information of millions of visitors to Thailand.
+
+
+
+The popular cybersecurity research Bob Diachenko discovered his personal data online stored on an unprotected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iowa Farm Services Provider Targeted by BlackMatter Ransomware, Faces $5.9 Million Ransom Demand<a href="https://www.zdnet.com/article/iowa-farm-services-provider-hit-with-blackmatter-ransomware-and-5-9-million-ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Cooperative -- an Iowa-based farm service provider -- has been hit with a ransomware attack, continuing a streak of incidents affecting agricultural companies this year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud security company Threat Stack acquired by F5 for $68 million<a href="https://www.zdnet.com/article/cloud-security-company-threat-stack-acquired-by-f5-for-68-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 Networks, one of the world's largest providers of enterprise networking gear, announced on Monday that it is acquiring cloud security company Threat Stack for $68 million.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Can Write Code Like Humans—Bugs and All<a href="https://www.wired.com/story/ai-write-code-like-humans-bugs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at NYU recently analyzed code generated by Copilot and found that, for certain tasks where security is crucial, the code contains security flaws around 40 percent of the time.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenOffice can be hijacked by malicious documents, fix still in beta<a href="https://www.theregister.com/2021/09/20/apache_openoffice_rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache OpenOffice is currently vulnerable to a remote code execution vulnerability and while the app's source code has been patched, the fix has only been made available as beta software.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid digitization of banks invites cyber risks as well. What are the risks, and what should banks do?<a href="https://ciso.economictimes.indiatimes.com/news/rapid-digitisation-of-banks-invites-cyber-risks-as-well-what-are-the-risks-and-what-should-banks-do/86358848?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the CERT-In, over 290,000 cyberattacks related to digital banking were reported in 2020, including phishing attacks, network scanning and probing, viruses, and website hacking.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Indonesia Says No Evidence of Alleged Chinese Intel Hack<a href="https://www.securityweek.com/indonesia-says-no-evidence-alleged-chinese-intel-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indonesian authorities have found no evidence that the country’s main intelligence service’s computers were compromised, after a cybersecurity company alerted them of a suspected breach.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major agriculture group New Cooperative hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/573082-agriculture-group-new-cooperative-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agriculture group New Cooperative group was hit by a ransomware attack over the weekend, potentially endangering operations of a company key to the agricultural supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bring Your APIs Out of the Shadows to Protect Your Business<a href="https://threatpost.com/apis-out-of-shadows-protect-your-business/169334/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs are immensely more complex to secure. Shadow APIs—those unknown or forgotten API endpoints that escape the attention and protection of IT¬—present a real risk to your business. Learn how to identify shadow APIs and take control of them before attackers do.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to fix the Windows 0x0000011b network printing error<a href="https://www.bleepingcomputer.com/news/microsoft/how-to-fix-the-windows-0x0000011b-network-printing-error/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Windows security update released in January and now fully enforced this month is causing Windows users to experience 0x0000011b errors when printing to network printers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked sites push TeamViewer using fake expired certificate alert<a href="https://www.bleepingcomputer.com/news/security/hacked-sites-push-teamviewer-using-fake-expired-certificate-alert/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are compromising Windows IIS servers to add expired certificate notification pages that prompt visitors to download a malicious fake installer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US farmer cooperative hit by $5.9M BlackMatter ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-farmer-cooperative-hit-by-59m-blackmatter-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. farmers cooperative NEW Cooperative has suffered a BlackMatter ransomware attack demanding $5.9 million not to leak stolen data and provide a decryptor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large phishing campaign targets EMEA and APAC governments<a href="https://securityaffairs.co/wordpress/122401/hacking/phishing-emea-apac-governments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers uncovered a large phishing campaign targeting multiple government departments in APAC and EMEA countries. 
+
+
+
+Researchers from cybersecurity firm Cyjax uncovered a large phishing campaign targeting multiple government departments...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VoIP.ms phone services disrupted by DDoS extortion attack<a href="https://www.bleepingcomputer.com/news/security/voipms-phone-services-disrupted-by-ddos-extortion-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting voice-over-Internet provider VoIP.ms with a DDoS attack and extorting the company to stop the assault that's severely disrupting the company's operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol arrested 106 fraudsters, members of a major crime ring<a href="https://securityaffairs.co/wordpress/122392/cyber-crime/europol-arrested-106-fraudsters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol, along with Italian and Spanish police, dismantled a major crime organization linked to the Italian Mafia that focuses on online frauds. 
+
+
+
+Europol, along with law enforcement agencies in Italy and Spain, has dismantled a major crime group linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican Governors Association email server breached by state hackers<a href="https://www.bleepingcomputer.com/news/security/republican-governors-association-email-server-breached-by-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Republican Governors Association (RGA) revealed in data breach notification letters sent last week that its servers were breached during an extensive Microsoft Exchange hacking campaign that hit organizations worldwide in March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EventBuilder misconfiguration exposes Microsoft event registrant data<a href="https://www.bleepingcomputer.com/news/security/eventbuilder-misconfiguration-exposes-microsoft-event-registrant-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal details of registrants to virtual events available through the EventBuilder platform have stayed accessible over the public internet, open to indexing by various engines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol links Italian Mafia to million-dollar phishing scheme<a href="https://www.bleepingcomputer.com/news/security/europol-links-italian-mafia-to-million-dollar-phishing-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In collaboration with Europol and Eurojust, European law enforcement dismantled an extensive network of cybercriminals linked to the Italian Mafia that was able to defraud their victims of roughly €10 million ($11.7 million) last year alone.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

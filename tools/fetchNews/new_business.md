@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud security company Threat Stack acquired by F5 for $68 million<a href="https://www.zdnet.com/article/cloud-security-company-threat-stack-acquired-by-f5-for-68-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 Networks, one of the world's largest providers of enterprise networking gear, announced on Monday that it is acquiring cloud security company Threat Stack for $68 million.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A hacker may have personal information of thousands of NEISD employees<a href="https://www.mysanantonio.com/news/education/article/NEISD-employees-data-breach-hack-16457767.php?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 5,000 current and former NEISD employees received a letter from the district saying their payroll information, including names and social security numbers, was at risk of being compromised.
+</details>
+<div style="text-align: right" markdown="1">
+MySanAntonio
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor has been targeting the aviation industry since at least 2018<a href="https://securityaffairs.co/wordpress/122343/malware/aviation-industry-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from the Cisco Talos team uncovered a spear-phishing campaign targeting the aviation industry for two years avoiding detection.
+
+
+
+Security researchers from Cisco Talos uncovered a spear-phishing campaign targeting, dubbed Operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

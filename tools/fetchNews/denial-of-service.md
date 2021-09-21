@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Service Admin Behind 200,000 Attacks Face 35 Years in Prison<a href="https://gbhackers.com/ddos-attack-service-admin-behind-200000-attacks-face-35-years-in-prison/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was found that 32-year old Matthew Gatrel of St. Charles, Illinois allowed users to launch more than 200,000 DDoS attacks through paid services for which he may face 35-years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
