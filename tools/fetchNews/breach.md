@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 106 million visitors to Thailand leaked online<a href="https://securityaffairs.co/wordpress/122418/data-breach/thailand-visitors-leaked-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered an unsecured database exposed online containing the personal information of millions of visitors to Thailand.
+
+
+
+The popular cybersecurity research Bob Diachenko discovered his personal data online stored on an unprotected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked sites push TeamViewer using fake expired certificate alert<a href="https://www.bleepingcomputer.com/news/security/hacked-sites-push-teamviewer-using-fake-expired-certificate-alert/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are compromising Windows IIS servers to add expired certificate notification pages that prompt visitors to download a malicious fake installer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican Governors Association email server breached by state hackers<a href="https://www.bleepingcomputer.com/news/security/republican-governors-association-email-server-breached-by-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Republican Governors Association (RGA) revealed in data breach notification letters sent last week that its servers were breached during an extensive Microsoft Exchange hacking campaign that hit organizations worldwide in March 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian state hackers use new TinyTurla malware as secondary backdoor<a href="https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-tinyturla-malware-as-secondary-backdoor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored hackers known as the Turla APT group have been using new malware over the past year that acted as a secondary persistence method on compromised systems in the U.S., Germany, and Afghanistan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

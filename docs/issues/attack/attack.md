@@ -11,6 +11,35 @@ nav_order: 900015
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Israeli communications company hit by major cyberattack<a href="https://www.middleeastmonitor.com/20210921-israel-communications-company-hit-by-major-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company sent SMS messages to its clients on Sunday, saying that the perpetrators of the attack were "hackers from abroad." However, Voicenter claimed that the attack did not affect its work.
+</details>
+<div style="text-align: right" markdown="1">
+Middleeast Monitor
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attacks via Open-Source Repositories Spike<a href="https://cyware.com/news/supply-chain-attacks-via-open-source-repositories-spike-a615961d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from Sonatype revealed that supply chain attacks on open-source public repositories have increased up to 650% year-over-year.  The security firm has mentioned that the significant increase in supply-chain attacks has been mainly caused by the exploitation of flaws in popular open-source ec ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Marketron marketing services hit by Blackmatter ransomware<a href="https://www.bleepingcomputer.com/news/security/marketron-marketing-services-hit-by-blackmatter-ransomware/"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Are Going ‘Deep-Sea Phishing,’ So What Can You Do About It?<a href="https://threatpost.com/hackers-deep-sea-phishing/174868/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nick Kael, CTO at Ericom, discusses how phishing is gaining sophistication and what it means for businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

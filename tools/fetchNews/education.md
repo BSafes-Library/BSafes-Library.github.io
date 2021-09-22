@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging from uncertainty, DOD cyber war college looks to navigate the future<a href="https://therecord.media/emerging-from-uncertainty-dod-cyber-war-college-looks-to-navigate-the-future/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CIC was established in 1964 as the DoD Computer Institute. In 1981, it was incorporated into NDU located at Fort McNair, Washington, D.C., and reports to the Chairman of the Joint Chiefs of Staff.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

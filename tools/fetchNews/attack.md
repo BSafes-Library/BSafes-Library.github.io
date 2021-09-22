@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marketron marketing services hit by Blackmatter ransomware<a href="https://www.bleepingcomputer.com/news/security/marketron-marketing-services-hit-by-blackmatter-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter ransomware gang over the weekend hit Marketron, a business software solutions provider that serves more than 6,000 customers in the media industry.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iowa Farm Services Provider Targeted by BlackMatter Ransomware, Faces $5.9 Million Ransom Demand<a href="https://www.zdnet.com/article/iowa-farm-services-provider-hit-with-blackmatter-ransomware-and-5-9-million-ransom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Cooperative -- an Iowa-based farm service provider -- has been hit with a ransomware attack, continuing a streak of incidents affecting agricultural companies this year.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major agriculture group New Cooperative hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/573082-agriculture-group-new-cooperative-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agriculture group New Cooperative group was hit by a ransomware attack over the weekend, potentially endangering operations of a company key to the agricultural supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US farmer cooperative hit by $5.9M BlackMatter ransomware attack<a href="https://www.bleepingcomputer.com/news/security/us-farmer-cooperative-hit-by-59m-blackmatter-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. farmers cooperative NEW Cooperative has suffered a BlackMatter ransomware attack demanding $5.9 million not to leak stolen data and provide a decryptor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large phishing campaign targets EMEA and APAC governments<a href="https://securityaffairs.co/wordpress/122401/hacking/phishing-emea-apac-governments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers uncovered a large phishing campaign targeting multiple government departments in APAC and EMEA countries.&nbsp;
+
+
+
+Researchers from cybersecurity firm Cyjax uncovered a large phishing campaign targeting multiple government departments...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

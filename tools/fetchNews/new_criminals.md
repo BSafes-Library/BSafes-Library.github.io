@@ -11,6 +11,20 @@ nav_order: 900031
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cring Ransomware Gang Exploits 11-Year-Old ColdFusion Bug<a href="https://thehackernews.com/2021/09/cring-ransomware-gang-exploits-11-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unidentified threat actors breached a server running an unpatched, 11-year-old version of Adobe's ColdFusion 9 software in minutes to remotely take over control and deploy file-encrypting Cring ransomware on the target's network 79 hours after the hack.  The server, which belonged to an unnamed services company, was used to collect timesheet and accounting data for payroll as well as to host a number of virtual machines, according to a report published by Sophos and shared with The Hacker News. The attacks originated from an internet address assigned to the Ukrainian ISP Green Floid.   "Devices running vulnerable, outdated software are low-hanging-fruit for cyberattackers looking for an easy way into a target," Sophos principal researcher Andrew Brandt&nbsp; said . "The surprising thing is that this server was in active daily use. Often the most vulnerable devices are inactive or ghost machines, either forgotten about or overlooked when it comes to patching and upgra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Black Matter gang demanded a $5.9M ransom to NEW Cooperative<a href="https://securityaffairs.co/wordpress/122410/cyber-crime/black-matter-new-cooperative.html"> Full Text</a>
 </p>
 <details>

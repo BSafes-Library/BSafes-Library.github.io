@@ -11,6 +11,20 @@ nav_order: 900042
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VoIP.ms&nbsp;phone services disrupted by DDoS extortion attack<a href="https://www.bleepingcomputer.com/news/security/voipms-phone-services-disrupted-by-ddos-extortion-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting voice-over-Internet provider VoIP.ms with a DDoS attack and extorting the company to stop the assault that's severely disrupting the company's operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attack Service Admin Behind 200,000 Attacks Face 35 Years in Prison<a href="https://gbhackers.com/ddos-attack-service-admin-behind-200000-attacks-face-35-years-in-prison/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

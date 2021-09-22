@@ -11,6 +11,20 @@ nav_order: 900029
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US Optometry Provider Simon Eye Hit by Data Breach Impacting 144,000 Patients<a href="https://portswigger.net/daily-swig/us-optometry-provider-simon-eye-hit-by-data-breach-impacting-144-000-patients?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The possible compromise of sensitive personal data arose from unauthorized access to employee email accounts over a seven-day period between May 12-18, 2021, according to a data breach notice.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data of 106 million visitors to Thailand leaked online<a href="https://securityaffairs.co/wordpress/122418/data-breach/thailand-visitors-leaked-online.html"> Full Text</a>
 </p>
 <details>
