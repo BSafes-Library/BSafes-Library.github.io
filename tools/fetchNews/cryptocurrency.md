@@ -8,6 +8,48 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions cryptocurrency exchange used by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-cryptocurrency-exchange-used-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department announced the first-ever sanctions against a cryptocurrency exchange, the Russian-linked Suex, for facilitating ransom transactions for ransomware gangs and helping them evade sanctions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury sanctions cryptocurrency exchange for facilitating ransomware payments<a href="https://thehill.com//policy/cybersecurity/573165-treasury-sanctions-cryptocurrency-exchange-for-facilitating-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department on Tuesday announced a set of actions designed to crack down on ransomware attack payments following a major uptick in&nbsp;cases in recent months against U.S. companies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominer z0Miner Uses Newly Discovered Vulnerability CVE-2021-26084 to Its Advantage<a href="https://www.trendmicro.com/en_us/research/21/i/cryptominer-z0miner-uses-newly-discovered-vulnerability-cve-2021.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cryptomining trojan z0Miner has been taking advantage of Atlassian’s Confluence remote code execution (RCE) vulnerability assigned as CVE-2021-26084, which was disclosed by Atlassian in August.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

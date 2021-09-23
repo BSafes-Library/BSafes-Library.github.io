@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cring ransomware group exploits ancient ColdFusion server<a href="https://news.sophos.com/en-us/2021/09/21/cring-ransomware-group-exploits-ancient-coldfusion-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an attack recently investigated by Sophos, an unknown threat actor exploited an ancient-in-internet-years vulnerability in an 11-year-old installation of Adobe ColdFusion 9 to infect the server.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,567 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are scanning for VMware CVE-2021-22005 targets, patch now!<a href="https://www.bleepingcomputer.com/news/security/hackers-are-scanning-for-vmware-cve-2021-22005-targets-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have already started targeting Internet-exposed VMware vCenter servers unpatched against a critical arbitrary file upload vulnerability patched yesterday that could lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Texas behavioral health center affects more than 24,000<a href="https://therecord.media/data-breach-at-texas-behavioral-health-center-affects-more-than-24000/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Texas behavioral health provider Texoma Community Center affected more than 24,000 people and highlights how timelines for breach notification may lag behind security events.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican lawmakers raise security, privacy concerns over Huawei cloud services<a href="https://thehill.com//policy/cybersecurity/573496-republican-lawmakers-raise-security-privacy-concerns-over-huawei-cloud"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Tom Cotton (R-Ark.) and Rep. Mike Gallagher (R-Wis.) are raising concerns around U.S. and foreign governments' potential use of Chinese telecommunications group Huawei’s cloud services, warning of security and privacy issues. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of a Wide-Scale Phishing-as-a-Service Operation<a href="https://thehackernews.com/2021/09/microsoft-warns-of-wide-scale-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has opened the lid on a large-scale phishing-as-a-service (PHaaS) operation that's involved in selling phishing kits and email templates as well as providing hosting and automated services at a low cost, thus enabling cyber actors to purchase phishing campaigns and deploy them with minimal efforts.  "With over 100 available phishing templates that mimic known brands and services, the BulletProofLink operation is responsible for many of the phishing campaigns that impact enterprises today," Microsoft 365 Defender Threat Intelligence Team  said  in a Tuesday report.   "BulletProofLink (also referred to as BulletProftLink or Anthrax by its operators in various websites, ads, and other promotional materials) is used by multiple attacker groups in either one-off or monthly subscription-based business models, creating a steady revenue stream for its operators."  The tech giant said it uncovered the operation during its investigation of a credential phishing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA, FBI, and NSA warn an escalation of Conti ransomware attacks<a href="https://securityaffairs.co/wordpress/122480/security/conti-ransomware-attacks-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, FBI, and the NSA warned today of an escalation of the attacks of the Conti ransomware gang targeting US organizations. 
+
+
+
+CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) are warning of an increased number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear SOHO Security Bug Allows RCE, Corporate Attacks<a href="https://threatpost.com/netgear-soho-security-bug-rce/174921/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue lies in a parental-control function that’s always enabled by default, even if users don’t configure for child security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and NSA warn of escalating Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-warn-of-escalating-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) warned today of an increased number of Conti ransomware attacks targeting US organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PowerPoint Documents Used to Distribute AgentTesla RAT<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malicious-powerpoint-documents-on-the-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Labs have observed a new phishing campaign that utilizes macro capabilities available in Microsoft PowerPoint. In this campaign, the spam email comes with a PowerPoint file as an attachment.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies warn companies to be on guard against prolific ransomware strain<a href="https://thehill.com//policy/cybersecurity/573475-federal-agencies-warn-companies-to-be-on-guard-against-prolific"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the National Security Agency (NSA), and the Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday issued a warning to U.S. organizations to be aware of a specific type of ransomware that has already wreaked havoc on hundreds of groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nagios Software Bugs Could Let Hackers Take Over IT Infrastructures<a href="https://thehackernews.com/2021/09/new-nagios-software-bugs-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 11 security vulnerabilities have been disclosed in Nagios network management systems, some of which could be chained to achieve pre-authenticated remote code execution with the highest privileges, as well as lead to credential theft and phishing attacks.   Industrial cybersecurity firm Claroty, which discovered the flaws, said flaws in tools such as Nagios make them an attractive target owing to their "oversight of core servers, devices, and other critical components in the enterprise network." The issues have since been fixed in updates released in August with Nagios XI 5.8.5 or above, Nagios XI Switch Wizard 2.5.7 or above, Nagios XI Docker Wizard 1.13 or above, and Nagios XI WatchGuard 1.4.8 or above.  " SolarWinds  and  Kaseya  were likely targeted not only because of their large and influential customer bases, but also because of their respective technologies' access to enterprise networks, whether it was managing IT, operational technology (OT), or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hikvision cameras could be remotely hacked due to critical flaw<a href="https://securityaffairs.co/wordpress/122474/hacking/hikvision-cve-2021-36260-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical issue, tracked as CVE-2021-36260, affects more than 70 Hikvision device models and can allow attackers to take over them.
+
+
+
+A critical vulnerability, tracked as CVE-2021-36260, affects more than 70 Hikvision camera and NVR models and can allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok, GitHub, Facebook Join Open-Source Bug Bounty<a href="https://threatpost.com/tiktok-github-facebook-open-source-bug-bounty/174898/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative, run by HackerOne, aims to uncover dangerous code repository bugs that end up going viral across the application supply-chain.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple will disable insecure TLS in future iOS, macOS releases<a href="https://www.bleepingcomputer.com/news/apple/apple-will-disable-insecure-tls-in-future-ios-macos-releases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has deprecated the insecure Transport Layer Security (TLS) 1.0 and 1.1 protocols in recently launched iOS and macOS versions and plans to remove support in future releases altogether.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/lithuanian-government-warns-about-secret-censorship-features-in-xiaomi-phones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Deputy Minister of National Defense said that the phones were selected because they had been previously identified “by the international community as posing certain cyber security risks.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cynet's Response Automation Helps Organizations Mitigate Cyber Threats<a href="https://thehackernews.com/2021/09/how-cynets-response-automation-helps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the determining factors of how much damage a cyber-attack cause is how fast organizations can respond to it. Time to response is critical for security teams, and it is a major hurdle for leaner teams.  To help improve this metric and enhance organizations' ability to respond to attacks quickly, many endpoint detection and response (EDR) and extended detection and response (XDR) vendors have started including some form of automation in their platforms to reduce the need for manual intervention.  XDR provider Cynet claims that they go beyond existing solutions when it comes to security automation. More than automating individual components, the Cynet 360 platform ( see a live demo here ) offers automation across every phase of incident response – from detection through remediation. The company uses a variety of tools and techniques to keep organizations safe and quickly respond to any emerging threat.   How Cynet removes the guesswork from Incident Response   Cynet fully automate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Nagios Network Management systems pose risk to companies<a href="https://securityaffairs.co/wordpress/122464/hacking/nagios-network-management-systems-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found multiple flaws in widely used network management products from Nagios that pose serious risk to organizations.  
+
+
+
+Researchers from industrial cybersecurity firm Claroty have discovered eleven vulnerabilities in widely used network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Sanctions SUEX Cryptocurrency Exchange for Laundering Ransomware Payouts<a href="https://threatpost.com/feds-sanctions-suex-cryptocurrency-ransomware/174895/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The action is the first of its kind in the U.S., as the government increases efforts to get a handle on cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second farming cooperative shut down by ransomware this week<a href="https://www.bleepingcomputer.com/news/security/second-farming-cooperative-shut-down-by-ransomware-this-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Minnesota farming supply cooperative Crystal Valley has suffered a ransomware attack, making it the second farming cooperative attacked this weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Layover by Nigerian Threat Actor Targets Aviation Sector<a href="https://cyware.com/news/operation-layover-by-nigerian-threat-actor-targets-aviation-sector-4e136560"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos uncovered a three-year-long espionage campaign, dubbed Operation Layover, aimed at the airline industry. Cybercriminals are spreading AsyncRAT and njRAT via malicious documents.  In the ongoing campaign, attackers can change their crypter/attack vector and continue stealing from victims ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed a critical flaw in vCenter Server. Patch it now!<a href="https://securityaffairs.co/wordpress/122454/security/vmware-vcenter-server-cve-2021-22005.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical arbitrary file upload vulnerability that affects the default configuration of vCenter Server 6.7 and 7.0 deployments.
+
+
+
+VMware addressed a critical arbitrary file upload vulnerability, tracked as CVE-2021-22005, that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern cyber protection: The digital must-have for home users<a href="https://www.bleepingcomputer.com/news/security/modern-cyber-protection-the-digital-must-have-for-home-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital advances have reinvented how most of us work, organize our lives, and communicate with friends. As individuals, we're more dependent on data than at any time in history, which means protecting the data, applications, and systems we rely on is a serious concern.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Incidents Lead to 2 Big Eye Care Provider Breaches<a href="https://www.govinfosecurity.com/hacking-incidents-lead-to-2-big-eye-care-provider-breaches-a-17587?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Jersey-based USV Optical Inc. - a subsidiary of U.S.Vision on Sept. 3 reported to HHS' Office for Civil Rights a hacking IT incident involving a network server and affecting 180,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing-as-a-service operation uses double theft to boost profits<a href="https://www.bleepingcomputer.com/news/microsoft/phishing-as-a-service-operation-uses-double-theft-to-boost-profits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says BulletProofLink, a large-scale phishing-as-a-service operation it spotted while investigating recent phishing attacks, is the driving force behind many phishing campaigns that have targeted many corporate organizations lately.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cring ransomware group exploits ancient ColdFusion server<a href="https://news.sophos.com/en-us/2021/09/21/cring-ransomware-group-exploits-ancient-coldfusion-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an attack recently investigated by Sophos, an unknown threat actor exploited an ancient-in-internet-years vulnerability in an 11-year-old installation of Adobe ColdFusion 9 to infect the server.
+</details>
+<div style="text-align: right" markdown="1">
+Sophos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Autodiscover bugs leak 100K Windows credentials<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-autodiscover-bugs-leak-100k-windows-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bugs in the implementation of Microsoft Exchange's Autodiscover feature have leaked approximately 100,000 login names and passwords for Windows domains worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Osano, a data privacy platform, raises $11M<a href="https://venturebeat.com/2021/09/22/osano-a-data-compliance-platform-raises-11m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Osano, a data privacy platform that helps websites become compliant with international regulations, today announced that it closed an $11 million funding round led by Jump Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaidForums data marketplace accidentally exposes private staff page<a href="https://www.bleepingcomputer.com/news/security/raidforums-data-marketplace-accidentally-exposes-private-staff-page/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Underground marketplace and hacker forum, Raidforums, recently exposed internal pages from its website, meant for staff members only. Raidforums is a data breach marketplace where threat actors often sell or leak illicitly obtained data dumps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Attack Missouri Delta Medical Center and Barlow Respiratory Hospital<a href="https://www.hipaajournal.com/ransomware-gangs-attack-missouri-delta-medical-center-and-barlow-respiratory-hospital/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barlow Respiratory Hospital said while the attack affected several IT systems, the hospital was able to continue to operate under its emergency procedures and patient care was not interrupted.
+</details>
+<div style="text-align: right" markdown="1">
+HIPAA Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stairwell secures $20M Series A to help organizations outsmart attackers<a href="https://techcrunch.com/2021/09/21/stairwell-secures-20m-series-a-to-help-organizations-outsmart-attackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As well as raising $20 million, a round co-led by Sequoia Capital and Accel, Stairwell launched its threat-hunting platform to help organizations determine if they were compromised now or in the past.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Cryptocurrency Exchange SUEX for Aiding Ransomware Gangs<a href="https://thehackernews.com/2021/09/us-sanctions-cryptocurrency-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Tuesday imposed sanctions on Russian cryptocurrency exchange Suex for helping facilitate and launder transactions from at least eight ransomware variants as part of the government's efforts to crack down on a surge in ransomware incidents and make it difficult for bad actors to profit from such attacks using digital currencies.  "Virtual currency exchanges such as SUEX are critical to the profitability of ransomware attacks, which help fund additional cybercriminal activity," the department  said  in a press release. "Analysis of known SUEX transactions shows that over 40% of SUEX's known transaction history is associated with illicit actors. SUEX is being designated pursuant to  Executive Order 13694 , as amended, for providing material support to the threat posed by criminal ransomware actors."   According to blockchain analytics firm  Chainalysis , SUEX is legally registered in the Czech Republic and operates out of office
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epik Confirms Hack, Gigabytes of Data on Offer<a href="https://threatpost.com/epik-confirms-hack-data/174872/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Time to find out who in your family secretly ran … [a] QAnon hellhole,” said attackers who affiliated themselves with the hacktivist collective Anonymous, noting that Epik had laughable security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Gap in Your Zero Trust Implementation<a href="https://thehackernews.com/2021/09/the-gap-in-your-zero-trust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last several years, there have been numerous high-profile security breaches. These breaches have underscored the fact that traditional cyber defenses have become woefully inadequate and that stronger defenses are needed. As such, many organizations have transitioned toward a zero trust security model.  A zero trust security model is based on the idea that no IT resource should be trusted implicitly. Prior to the introduction of zero trust security, a user who authenticated into a network was trustworthy for the duration of their session, as was the user's device.  In a zero trust model, a user is no longer considered to be trustworthy just because they entered a password at the beginning of their session. Instead, the user's identity is verified through multi-factor authentication, and the user may be prompted to re-authenticate if they attempt to access resources that are particularly sensitive or if the user attempts to do something out of the ordinary.  How Complic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity RCE Flaw Disclosed in Several Netgear Router Models<a href="https://thehackernews.com/2021/09/high-severity-rce-flaw-disclosed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment company Netgear has released patches to remediate a high-severity remote code execution vulnerability affecting multiple routers that could be exploited by remote attackers to take control of an affected system.   Traced as  CVE-2021-40847  (CVSS score: 8.1), the security weakness impacts the following models -   R6400v2 (fixed in firmware version 1.0.4.120)  R6700 (fixed in firmware version 1.0.2.26)  R6700v3 (fixed in firmware version 1.0.4.120)  R6900 (fixed in firmware version 1.0.2.26)  R6900P (fixed in firmware version 3.3.142_HOTFIX)  R7000 (fixed in firmware version 1.0.11.128)  R7000P (fixed in firmware version 1.3.3.142_HOTFIX)  R7850 (fixed in firmware version 1.0.5.76)  R7900 (fixed in firmware version 1.0.4.46)  R8000 (fixed in firmware version 1.0.4.76)  RS400 (fixed in firmware version 1.5.1.80)   According to GRIMM security researcher Adam Nichols, the vulnerability resides within  Circle , a third-party component included in the firmware that offe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of Critical File Upload Vulnerability Affecting vCenter Server<a href="https://thehackernews.com/2021/09/vmware-warns-of-critical-file-upload.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday published a new bulletin warning of as many as 19 vulnerabilities in vCenter Server and Cloud Foundation appliances that a remote attacker could exploit to take control of an affected system.  The most urgent among them is an arbitrary file upload vulnerability in the Analytics service (CVE-2021-22005) that impacts vCenter Server 6.7 and 7.0 deployments. "A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file," the company  noted ,  adding  "this vulnerability can be used by anyone who can reach vCenter Server over the network to gain access, regardless of the configuration settings of vCenter Server."   Although VMware has published  workarounds  for the flaw, the company cautioned that they are "meant to be a temporary solution until updates […] can be deployed."  The complete list of flaws patched by the virtualization services
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

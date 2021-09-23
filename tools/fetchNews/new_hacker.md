@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Layover by Nigerian Threat Actor Targets Aviation Sector<a href="https://cyware.com/news/operation-layover-by-nigerian-threat-actor-targets-aviation-sector-4e136560"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos uncovered a three-year-long espionage campaign, dubbed Operation Layover, aimed at the airline industry. Cybercriminals are spreading AsyncRAT and njRAT via malicious documents.  In the ongoing campaign, attackers can change their crypter/attack vector and continue stealing from victims ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

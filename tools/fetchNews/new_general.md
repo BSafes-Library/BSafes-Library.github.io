@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies warn companies to be on guard against prolific ransomware strain<a href="https://thehill.com//policy/cybersecurity/573475-federal-agencies-warn-companies-to-be-on-guard-against-prolific"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, the National Security Agency (NSA), and the Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday&nbsp;issued a warning to U.S. organizations to be aware of a specific type of ransomware&nbsp;that has already wreaked havoc on hundreds of groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/lithuanian-government-warns-about-secret-censorship-features-in-xiaomi-phones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Deputy Minister of National Defense said that the phones were selected because they had been previously identified “by the international community as posing certain cyber security risks.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern cyber protection: The digital must-have for home users<a href="https://www.bleepingcomputer.com/news/security/modern-cyber-protection-the-digital-must-have-for-home-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital advances have reinvented how most of us work, organize our lives, and communicate with friends. As individuals, we're more dependent on data than at any time in history, which means protecting the data, applications, and systems we rely on is a serious concern.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

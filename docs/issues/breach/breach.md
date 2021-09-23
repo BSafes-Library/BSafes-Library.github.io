@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Texas behavioral health center affects more than 24,000<a href="https://therecord.media/data-breach-at-texas-behavioral-health-center-affects-more-than-24000/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach at Texas behavioral health provider Texoma Community Center affected more than 24,000 people and highlights how timelines for breach notification may lag behind security events.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Incidents Lead to 2 Big Eye Care Provider Breaches<a href="https://www.govinfosecurity.com/hacking-incidents-lead-to-2-big-eye-care-provider-breaches-a-17587?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Jersey-based USV Optical Inc. - a subsidiary of U.S.Vision on Sept. 3 reported to HHS' Office for Civil Rights a hacking IT incident involving a network server and affecting 180,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Autodiscover bugs leak 100K Windows credentials<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-autodiscover-bugs-leak-100k-windows-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bugs in the implementation of Microsoft Exchange's Autodiscover feature have leaked approximately 100,000 login names and passwords for Windows domains worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaidForums data marketplace accidentally exposes private staff page<a href="https://www.bleepingcomputer.com/news/security/raidforums-data-marketplace-accidentally-exposes-private-staff-page/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Underground marketplace and hacker forum, Raidforums, recently exposed internal pages from its website, meant for staff members only. Raidforums is a&nbsp;data breach marketplace where threat actors often sell&nbsp;or leak illicitly obtained data dumps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Epik Confirms Hack, Gigabytes of Data on Offer<a href="https://threatpost.com/epik-confirms-hack-data/174872/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Time to find out who in your family secretly ran … [a] QAnon hellhole,” said attackers who affiliated themselves with the hacktivist collective Anonymous, noting that Epik had laughable security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

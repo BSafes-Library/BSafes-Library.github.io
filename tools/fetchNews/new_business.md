@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple will disable insecure TLS in future iOS, macOS releases<a href="https://www.bleepingcomputer.com/news/apple/apple-will-disable-insecure-tls-in-future-ios-macos-releases/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has deprecated the insecure Transport Layer Security (TLS) 1.0 and 1.1 protocols in recently launched iOS and macOS versions and plans to remove support in future releases altogether.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Osano, a data privacy platform, raises $11M<a href="https://venturebeat.com/2021/09/22/osano-a-data-compliance-platform-raises-11m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Osano, a data privacy platform that helps websites become compliant with international regulations, today announced that it closed an $11 million funding round led by Jump Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Venture Beat
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stairwell secures $20M Series A to help organizations outsmart attackers<a href="https://techcrunch.com/2021/09/21/stairwell-secures-20m-series-a-to-help-organizations-outsmart-attackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As well as raising $20 million, a round co-led by Sequoia Capital and Accel, Stairwell launched its threat-hunting platform to help organizations determine if they were compromised now or in the past.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

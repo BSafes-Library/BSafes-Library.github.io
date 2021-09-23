@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cynet's Response Automation Helps Organizations Mitigate Cyber Threats<a href="https://thehackernews.com/2021/09/how-cynets-response-automation-helps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the determining factors of how much damage a cyber-attack cause is how fast organizations can respond to it. Time to response is critical for security teams, and it is a major hurdle for leaner teams.  To help improve this metric and enhance organizations' ability to respond to attacks quickly, many endpoint detection and response (EDR) and extended detection and response (XDR) vendors have started including some form of automation in their platforms to reduce the need for manual intervention.  XDR provider Cynet claims that they go beyond existing solutions when it comes to security automation. More than automating individual components, the Cynet 360 platform ( see a live demo here ) offers automation across every phase of incident response – from detection through remediation. The company uses a variety of tools and techniques to keep organizations safe and quickly respond to any emerging threat.   How Cynet removes the guesswork from Incident Response&nbsp;  Cynet fully automate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

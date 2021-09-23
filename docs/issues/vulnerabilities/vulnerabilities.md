@@ -8,6 +8,158 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are scanning for VMware CVE-2021-22005 targets, patch now!<a href="https://www.bleepingcomputer.com/news/security/hackers-are-scanning-for-vmware-cve-2021-22005-targets-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have already started targeting Internet-exposed VMware vCenter servers unpatched against a critical arbitrary file upload vulnerability patched yesterday that could lead to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear SOHO Security Bug Allows RCE, Corporate Attacks<a href="https://threatpost.com/netgear-soho-security-bug-rce/174921/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue lies in a parental-control function that’s always enabled by default, even if users don’t configure for child security.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Nagios Software Bugs Could Let Hackers Take Over IT Infrastructures<a href="https://thehackernews.com/2021/09/new-nagios-software-bugs-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 11 security vulnerabilities have been disclosed in Nagios network management systems, some of which could be chained to achieve pre-authenticated remote code execution with the highest privileges, as well as lead to credential theft and phishing attacks.&nbsp;  Industrial cybersecurity firm Claroty, which discovered the flaws, said flaws in tools such as Nagios make them an attractive target owing to their "oversight of core servers, devices, and other critical components in the enterprise network." The issues have since been fixed in updates released in August with Nagios XI 5.8.5 or above, Nagios XI Switch Wizard 2.5.7 or above, Nagios XI Docker Wizard 1.13 or above, and Nagios XI WatchGuard 1.4.8 or above.  " SolarWinds &nbsp;and&nbsp; Kaseya &nbsp;were likely targeted not only because of their large and influential customer bases, but also because of their respective technologies' access to enterprise networks, whether it was managing IT, operational technology (OT), or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hikvision cameras could be remotely hacked due to critical flaw<a href="https://securityaffairs.co/wordpress/122474/hacking/hikvision-cve-2021-36260-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical issue, tracked as CVE-2021-36260, affects more than 70 Hikvision device models and can allow attackers to take over them.
+
+
+
+A critical vulnerability, tracked as CVE-2021-36260, affects more than 70 Hikvision camera and NVR models and can allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok, GitHub, Facebook Join Open-Source Bug Bounty<a href="https://threatpost.com/tiktok-github-facebook-open-source-bug-bounty/174898/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative, run by HackerOne, aims to uncover dangerous code repository bugs that end up going viral across the application supply-chain.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Nagios Network Management systems pose risk to companies<a href="https://securityaffairs.co/wordpress/122464/hacking/nagios-network-management-systems-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found multiple flaws in widely used network management products from Nagios that pose serious risk to organizations.  
+
+
+
+Researchers from industrial cybersecurity firm Claroty have discovered eleven vulnerabilities in widely used network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed a critical flaw in vCenter Server. Patch it now!<a href="https://securityaffairs.co/wordpress/122454/security/vmware-vcenter-server-cve-2021-22005.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical arbitrary file upload vulnerability that affects the default configuration of vCenter Server 6.7 and 7.0 deployments.
+
+
+
+VMware addressed a critical arbitrary file upload vulnerability, tracked as CVE-2021-22005, that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Gap in Your Zero Trust Implementation<a href="https://thehackernews.com/2021/09/the-gap-in-your-zero-trust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last several years, there have been numerous high-profile security breaches. These breaches have underscored the fact that traditional cyber defenses have become woefully inadequate and that stronger defenses are needed. As such, many organizations have transitioned toward a zero trust security model.  A zero trust security model is based on the idea that no IT resource should be trusted implicitly. Prior to the introduction of zero trust security, a user who authenticated into a network was trustworthy for the duration of their session, as was the user's device.  In a zero trust model, a user is no longer considered to be trustworthy just because they entered a password at the beginning of their session. Instead, the user's identity is verified through multi-factor authentication, and the user may be prompted to re-authenticate if they attempt to access resources that are particularly sensitive or if the user attempts to do something out of the ordinary.  How Complic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity RCE Flaw Disclosed in Several Netgear Router Models<a href="https://thehackernews.com/2021/09/high-severity-rce-flaw-disclosed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment company Netgear has released patches to remediate a high-severity remote code execution vulnerability affecting multiple routers that could be exploited by remote attackers to take control of an affected system.   Traced as&nbsp; CVE-2021-40847 &nbsp;(CVSS score: 8.1), the security weakness impacts the following models -   R6400v2 (fixed in firmware version 1.0.4.120)  R6700 (fixed in firmware version 1.0.2.26)  R6700v3 (fixed in firmware version 1.0.4.120)  R6900 (fixed in firmware version 1.0.2.26)  R6900P (fixed in firmware version 3.3.142_HOTFIX)  R7000 (fixed in firmware version 1.0.11.128)  R7000P (fixed in firmware version 1.3.3.142_HOTFIX)  R7850 (fixed in firmware version 1.0.5.76)  R7900 (fixed in firmware version 1.0.4.46)  R8000 (fixed in firmware version 1.0.4.76)  RS400 (fixed in firmware version 1.5.1.80)   According to GRIMM security researcher Adam Nichols, the vulnerability resides within&nbsp; Circle , a third-party component included in the firmware that offe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of Critical File Upload Vulnerability Affecting vCenter Server<a href="https://thehackernews.com/2021/09/vmware-warns-of-critical-file-upload.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday published a new bulletin warning of as many as 19 vulnerabilities in vCenter Server and Cloud Foundation appliances that a remote attacker could exploit to take control of an affected system.  The most urgent among them is an arbitrary file upload vulnerability in the Analytics service (CVE-2021-22005) that impacts vCenter Server 6.7 and 7.0 deployments. "A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file," the company&nbsp; noted ,&nbsp; adding &nbsp;"this vulnerability can be used by anyone who can reach vCenter Server over the network to gain access, regardless of the configuration settings of vCenter Server."   Although VMware has published&nbsp; workarounds &nbsp;for the flaw, the company cautioned that they are "meant to be a temporary solution until updates […] can be deployed."  The complete list of flaws patched by the virtualization services
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

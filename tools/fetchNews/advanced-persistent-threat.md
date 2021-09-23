@@ -8,6 +8,39 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turla APT group used a new backdoor in attacks against Afghanistan, Germany and the US<a href="https://securityaffairs.co/wordpress/122437/apt/turla-apt-new-backdoor-afghanistan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked cyber espionage group Turla made the headlines again, the APT has employed a new backdoor in a recent wave of attacks 
+
+
+
+Cisco Talos researchers reported that the Russia-linked Turla APT group recently used a new backdoor, dubbed  TinyTurla,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Warning: APTs are Targeting Zoho ManageEngine<a href="https://cyware.com/news/new-warning-apts-are-targeting-zoho-manageengine-8385bdc8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI, CISA, and CGCYBER issued a joint advisory warning against the exploitation of a critical bug in the Zoho ManageEngine ADSelfService Plus software by the nation-state actors. Besides applying a patch, organizations are suggested to baseline the normal behavior in web server logs to spot a w ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

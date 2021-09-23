@@ -11,6 +11,34 @@ nav_order: 900075
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DHS chief 'horrified' by images at border<a href="https://thehill.com//homenews/administration/573267-dhs-chief-horrified-by-images-at-border"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GOP senators on Tuesday grilled Homeland Security Secretary Alejandro Mayorkas over the influx of Haitian refugees seeking asylum at the U.S.-Mexico border and viral images of Customs and Border Patrol officials on horseback chasing migrants away. &nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI withheld decryption key for Kaseya ransomware attack for three weeks: report<a href="https://thehill.com//policy/cybersecurity/573245-fbi-withheld-decryption-key-for-kaseya-ransomware-attack-for-three-weeks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI allegedly withheld the release of a decryption key for almost three weeks that could have assisted groups crippled by the massive ransomware attack on IT group Kaseya earlier this year to unlock their networks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: Indonesia Says No Evidence of Alleged Chinese Intel Hack<a href="https://www.securityweek.com/indonesia-says-no-evidence-alleged-chinese-intel-hack?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Cryptocurrency Exchange SUEX for Aiding Ransomware Gangs<a href="https://thehackernews.com/2021/09/us-sanctions-cryptocurrency-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Tuesday imposed sanctions on Russian cryptocurrency exchange Suex for helping facilitate and launder transactions from at least eight ransomware variants as part of the government's efforts to crack down on a surge in ransomware incidents and make it difficult for bad actors to profit from such attacks using digital currencies.  "Virtual currency exchanges such as SUEX are critical to the profitability of ransomware attacks, which help fund additional cybercriminal activity," the department&nbsp; said &nbsp;in a press release. "Analysis of known SUEX transactions shows that over 40% of SUEX's known transaction history is associated with illicit actors. SUEX is being designated pursuant to&nbsp; Executive Order 13694 , as amended, for providing material support to the threat posed by criminal ransomware actors."   According to blockchain analytics firm&nbsp; Chainalysis , SUEX is legally registered in the Czech Republic and operates out of office
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

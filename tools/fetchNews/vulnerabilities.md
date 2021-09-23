@@ -11,6 +11,123 @@ nav_order: 900220
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New macOS zero-day bug lets attackers run commands remotely<a href="https://www.bleepingcomputer.com/news/apple/new-macos-zero-day-bug-lets-attackers-run-commands-remotely/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers disclosed today a new vulnerability in Apple's macOS Finder, which makes it possible for attackers to run arbitrary commands on Macs running any&nbsp;macOS version&nbsp;up to the latest release, Big Sur.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher discloses iPhone lock screen bypass on iOS 15 launch day<a href="https://therecord.media/researcher-discloses-iphone-lock-screen-bypass-on-ios-15-launch-day/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the day Apple released iOS 15, a Spanish security researcher disclosed an iPhone lock screen bypass method that can be exploited to grant attackers access to a user’s notes.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched High-Severity Vulnerability Affects Apple macOS Computers<a href="https://thehackernews.com/2021/09/unpatched-high-severity-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed details of an unpatched vulnerability in macOS Finder that could be abused by remote adversaries to trick users into running arbitrary commands on the machines.  "A vulnerability in macOS Finder allows files whose extension is inetloc to execute arbitrary commands, these files can be embedded inside emails which if the user clicks on them will execute the commands embedded inside them without providing a prompt or warning to the user," SSD Secure Disclosure&nbsp; said &nbsp;in a write-up published today.   Park Minchan, an independent security researcher, has been credited with reporting the vulnerability which affects macOS versions of Big Sur and prior.   The weakness arises due to the manner macOS processes INETLOC files — shortcuts to internet locations such as RSS feeds or Telnet connections containing username and password for SSH — resulting in a scenario that allows commands embedded in those files to be executed without any warni
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A zero-day flaw allows to run arbitrary commands on macOS systems<a href="https://securityaffairs.co/wordpress/122447/hacking/zero-day-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers disclosed a new zero-day flaw in Apple's macOS Finder that can allow attackers to run arbitrary commands on Macs. 
+
+
+
+Independent security researcher Park Minchan disclosed a zero-day vulnerability in Apple's macOS Finder that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical bug in default vCenter Server installs<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-bug-in-default-vcenter-server-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns customers to immediately patch a critical arbitrary file upload vulnerability in the Analytics service, impacting all appliances running default vCenter Server 6.7 and 7.0 deployments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+46% of On-Prem Databases Globally Contain Vulnerabilities: Is Yours Safe?<a href="https://threatpost.com/46-on-prem-databases-globally-contain-vulnerabilities/174815/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are organizations neglecting the security of their data? An unprecedented five-year study reveals that internal databases are riddled with vulnerabilities – some even years old.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes dangerous code execution bug in multiple routers<a href="https://www.bleepingcomputer.com/news/security/netgear-fixes-dangerous-code-execution-bug-in-multiple-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear has fixed a high severity remote code execution (RCE) vulnerability found in the Circle parental control service, which runs with root permissions on almost a dozen modern Small Offices/Home Offices (SOHO) Netgear routers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Exploits OMIGOD Flaws in the Wild<a href="https://cyware.com/news/mirai-exploits-omigod-flaws-in-the-wild-6c743051"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure customers are requested to urgently address the OMIGOD flaw exploited by Mirai botnet operators. Microsoft has released additional guidance on securing Linux machines impacted by the critical flaw that concerns thousands of Azure customers and millions of endpoints. Due to no auto-update mech ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Apache OpenOffice is currently impacted by a remote code execution flaw<a href="https://securityaffairs.co/wordpress/122426/security/apache-openoffice-rce-cve-2021-33035.html"> Full Text</a>
 </p>
 <details>

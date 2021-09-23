@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Attack Missouri Delta Medical Center and Barlow Respiratory Hospital<a href="https://www.hipaajournal.com/ransomware-gangs-attack-missouri-delta-medical-center-and-barlow-respiratory-hospital/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barlow Respiratory Hospital said while the attack affected several IT systems, the hospital was able to continue to operate under its emergency procedures and patient care was not interrupted.
+</details>
+<div style="text-align: right" markdown="1">
+HIPAA Journal
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
