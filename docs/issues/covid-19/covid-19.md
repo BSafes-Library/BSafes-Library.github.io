@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware Targeting US, Canadian Users with COVID-19 Lures<a href="https://thehackernews.com/2021/09/new-android-malware-targeting-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "insidious" new SMS smishing malware has been found targeting Android mobile users in the U.S. and Canada as part of an ongoing campaign that uses SMS text message lures related to COVID-19 regulations and vaccine information in an attempt to steal personal and financial data.  Proofpoint's messaging security subsidiary Cloudmark coined the emerging malware "TangleBot."   "The malware has been given the moniker TangleBot because of its many levels of obfuscation and control over a myriad of entangled device functions, including contacts, SMS and phone capabilities, call logs, internet access, and camera and microphone," the researchers&nbsp; said . Besides capabilities to obtain sensitive information, the malware is engineered to control device interaction with banking or financial apps using overlay screens and plunder account credentials from financial activities initiated on the phones.   The attacks themselves originate from SMS messages that claim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials urge Congress to consider fining companies that fail to report cyber incidents<a href="https://thehill.com//policy/cybersecurity/573706-officials-urge-congress-to-consider-fining-companies-that-fail-to-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nation’s top cybersecurity officials on Thursday urged Congress to consider passing legislation that would fine organizations if they failed to report cybersecurity incidents to the federal government, part of an effort to do more to confront a recent spree of attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

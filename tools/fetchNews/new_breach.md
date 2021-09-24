@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group used ProxyLogon exploits to breach hotels worldwide<a href="https://www.bleepingcomputer.com/news/security/hacking-group-used-proxylogon-exploits-to-breach-hotels-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered cyberespionage group has been targeting hotels worldwide around the world since at least 2019, as well as higher-profile targets such as governments, international organizations, law firms, and engineering companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange Bug Exposes ~100,000 Windows Domain Credentials<a href="https://thehackernews.com/2021/09/microsoft-exchange-bug-exposes-100000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unpatched design flaw in the implementation of Microsoft Exchange's Autodiscover protocol has resulted in the leak of approximately 100,000 login names and passwords for Windows domains worldwide.  "This is a severe security issue, since if an attacker can control such domains or has the ability to 'sniff' traffic in the same network, they can capture domain credentials in plain text (HTTP basic authentication) that are being transferred over the wire," Guardicore's Amit Serper&nbsp; said &nbsp;in a technical report.  "Moreover, if the attacker has DNS-poisoning capabilities on a large scale (such as a nation-state attacker), they could systematically syphon out leaky passwords through a large-scale DNS poisoning campaign based on these Autodiscover TLDs [top-level domains]."   The Exchange&nbsp; Autodiscover &nbsp;service enables users to configure applications such as Microsoft Outlook with minimal user input, allowing just a combination of email addresses and pas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in Microsoft Exchange Autodiscover feature leaks +372K of domain credentials<a href="https://securityaffairs.co/wordpress/122510/hacking/microsoft-exchange-autodiscover-feature-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the Microsoft Exchange Autodiscover feature can be exploited to harvest Windows domain and app credentials.
+
+
+
+Security researchers from Guardicore discovered a flaw in the Microsoft Exchange Autodiscover feature that can be exploited to harvest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colombian Real Estate Agency Leak Exposes Records of Over 100,000 Buyers<a href="https://thehackernews.com/2021/09/colombian-real-estate-agency-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than one terabyte of data containing 5.5 million files has been left exposed, leaking personal information of over 100,000 customers of a Colombian real estate firm, according to cybersecurity company WizCase.  The breach was discovered by Ata Hakçıl and his team in a database owned by Coninsa Ramon  H, a company that specializes in architecture, engineering, construction, and real estate services. "There was no need for a password or login credentials to see this information, and the data was not encrypted," the researchers&nbsp; said &nbsp;in an exclusive report shared with The Hacker News.   The data exposure is the result of a misconfigured Amazon Web Services (AWS) Simple Storage Service (S3) bucket, causing sensitive information such as clients' names, photos, and addresses to be disclosed. The details stored in the bucket range from invoices and income documents to quotes and account statements dating between 2014 and 2021. The complete list of information contained in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

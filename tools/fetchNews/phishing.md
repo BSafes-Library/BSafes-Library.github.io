@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of a Wide-Scale Phishing-as-a-Service Operation<a href="https://thehackernews.com/2021/09/microsoft-warns-of-wide-scale-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has opened the lid on a large-scale phishing-as-a-service (PHaaS) operation that's involved in selling phishing kits and email templates as well as providing hosting and automated services at a low cost, thus enabling cyber actors to purchase phishing campaigns and deploy them with minimal efforts.  "With over 100 available phishing templates that mimic known brands and services, the BulletProofLink operation is responsible for many of the phishing campaigns that impact enterprises today," Microsoft 365 Defender Threat Intelligence Team&nbsp; said &nbsp;in a Tuesday report.   "BulletProofLink (also referred to as BulletProftLink or Anthrax by its operators in various websites, ads, and other promotional materials) is used by multiple attacker groups in either one-off or monthly subscription-based business models, creating a steady revenue stream for its operators."  The tech giant said it uncovered the operation during its investigation of a credential phishing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing-as-a-service operation uses double theft to boost profits<a href="https://www.bleepingcomputer.com/news/microsoft/phishing-as-a-service-operation-uses-double-theft-to-boost-profits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says&nbsp;BulletProofLink, a large-scale phishing-as-a-service operation it spotted while investigating recent phishing attacks,&nbsp;is the driving force behind many phishing campaigns that have targeted&nbsp;many corporate organizations lately.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

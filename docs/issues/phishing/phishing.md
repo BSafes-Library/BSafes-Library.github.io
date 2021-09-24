@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BulletProofLink, a large-scale phishing-as-a-service active since 2018<a href="https://securityaffairs.co/wordpress/122503/cyber-crime/bulletprooflink-phishing-phaas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft uncovered a large-scale phishing-as-a-service operation, dubbed BulletProofLink, that enabled threat actors to easily carry out malicious campaigns.
+
+
+
+Microsoft researchers have uncovered a large-scale phishing-as-a-service (PHaaS) operation,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing-as-a-Service is Here - Phishing Gets Easier<a href="https://cyware.com/news/phishing-as-a-service-is-here-phishing-gets-easier-04402d7d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered a Phishing-as-a-Service (PhaaS) operation that is responsible for quite a few phishing attacks against corporations. The PhaaS model makes it easier to conduct phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

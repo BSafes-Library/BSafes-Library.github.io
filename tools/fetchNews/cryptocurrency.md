@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Sanctions SUEX Cryptocurrency Exchange for Laundering Ransomware Payouts<a href="https://threatpost.com/feds-sanctions-suex-cryptocurrency-ransomware/174895/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The action is the first of its kind in the U.S., as the government increases efforts to get a handle on cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

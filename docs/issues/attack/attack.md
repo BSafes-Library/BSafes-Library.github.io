@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crystal Valley hit by ransomware attack, it is the second farming cooperative shut down in a week<a href="https://securityaffairs.co/wordpress/122489/cyber-crime/crystal-valley-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Minnesota-based farming supply cooperative Crystal Valley was hit by a ransomware attack, it is the second attack against the agriculture business in a few days.
+
+
+
+Minnesota farming supply cooperative Crystal Valley has suffered a ransomware attack,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crystal Valley Farm Coop Hit with Ransomware<a href="https://threatpost.com/crystal-valley-farm-coop-hit-with-ransomware/174928/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s the second agricultural business to be seized this week and portends a bitter harvest with yet another nasty jab at critical infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

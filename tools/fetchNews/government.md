@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Republican lawmakers raise security, privacy concerns over Huawei cloud services<a href="https://thehill.com//policy/cybersecurity/573496-republican-lawmakers-raise-security-privacy-concerns-over-huawei-cloud"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Tom Cotton (R-Ark.) and Rep. Mike Gallagher (R-Wis.) are raising concerns around U.S. and foreign governments' potential use of Chinese telecommunications group Huawei’s cloud services, warning of security and privacy issues.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA, FBI, and NSA warn an escalation of Conti ransomware attacks<a href="https://securityaffairs.co/wordpress/122480/security/conti-ransomware-attacks-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, FBI, and the NSA warned today of an escalation of the attacks of the Conti ransomware gang targeting US organizations. 
+
+
+
+CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) are warning of an increased number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and NSA warn of escalating Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-warn-of-escalating-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) warned today of an increased number of Conti ransomware attacks targeting US organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
