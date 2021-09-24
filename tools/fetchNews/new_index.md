@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 23, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Urgent Apple iOS and macOS Updates Released to Fix Actively Exploited Zero-Days<a href="https://thehackernews.com/2021/09/urgent-apple-ios-and-macos-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday released security updates to fix multiple security vulnerabilities in older versions of  iOS  and  macOS  that it says have been detected in exploits in the wild, in addition to expanding patches for a previously plugged security weakness abused by NSO Group's Pegasus surveillance tool to target iPhone users.   Chief among them is CVE-2021-30869, a type confusion flaw that resides in the kernel component  XNU  developed by Apple that could cause a malicious application to execute arbitrary code with the highest privileges. The Cupertino-based tech giant said it addressed the bug with improved state handling.  Google's Threat Analysis Group, which is credited with reporting the flaw, said  it detected the vulnerability being "used in conjunction with a N-day remote code execution targeting WebKit."  Two other flaws include  CVE-2021-30858 and CVE-2021-30860 , both of which were resolved by the company earlier this month following disclosure from the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 REvil Affiliates Confirm: Leadership Were Cheating Dirtbags<a href="https://threatpost.com/revil-affiliates-leadership-cheated-ransom-payments/174972/"> Full Text</a>
 </p>
 <details>
