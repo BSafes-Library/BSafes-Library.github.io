@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach reporting required for health apps and devices, FTC says<a href="https://www.csoonline.com/article/3634190/breach-reporting-required-for-health-apps-and-devices-ftc-says.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the FTC statement, “Entities covered by the Rule who have experienced breaches cannot conceal this fact from those who have entrusted them with sensitive health information.”
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

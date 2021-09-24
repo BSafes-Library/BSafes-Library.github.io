@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karma Uses Journalists to Get Free Publicity and Pressure Victims Into Paying Ransom<a href="https://www.inforisktoday.com/blogs/karma-seeks-free-publicity-to-fulfill-ransomware-destiny-p-3124?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The little-known ransomware group has been pursuing a novel strategy to pressure victims into paying: Get journalists to try and name the businesses they've hit, to help pressure them into paying.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Sell Billions of Clubhouse and Facebook Scraped User Records on Hacker Forum<a href="https://securityaffairs.co/wordpress/122532/cyber-crime/clubhouse-facebook-data-scraping.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The user who posted on the hacker forum is asking $100,000 for the full database of 3.8 billion entries but is also willing to split the archive into smaller portions for potential buyers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Launches Double Chats Scheme to Dupe its Affiliates<a href="https://cyware.com/news/revil-launches-double-chats-scheme-to-dupe-its-affiliates-a7b086bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil ransomware gang is back in business with a different mind game as it silently robs its affiliates. Malware specialists have found that the gang is cheating on its affiliates to keep 100% of ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Affiliates Confirm: Leadership Were Cheating Dirtbags<a href="https://threatpost.com/revil-affiliates-leadership-cheated-ransom-payments/174972/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After news of REvil’s rip-off-the-affiliates backdoor &amp; double chats, affiliates fumed, reiterating prior claims against the gang in “Hackers Court.” 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

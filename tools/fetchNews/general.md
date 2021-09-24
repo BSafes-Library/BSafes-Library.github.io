@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen helps IRCTC fix bug that could expose passenger's private information<a href="https://www.dnaindia.com/india/report-indian-railways-news-chennai-school-student-ranganathan-helps-irctc-fix-bug-that-could-expose-passenger-s-private-information-2912438?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security vulnerability helped him to access details of other passengers including name, gender, age, PNR number, train details, departure station, and date of journey.
+</details>
+<div style="text-align: right" markdown="1">
+DNA India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major US port target of attempted cyber attack<a href="https://thehill.com//homenews/state-watch/573749-major-us-port-target-of-attempted-cyber-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Houston, a major U.S. port, was targeted in an attempted cyber attack last month,&nbsp;the Port shared in a statement on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Tips for Achieving Better Cybersecurity Risk Management<a href="https://threatpost.com/tips-cybersecurity-risk-management/174968/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Casey Ellis, founder, CTO and chairman of Bugcrowd, discusses a roadmap for lowering risk from cyberattacks most effectively.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why You Should Consider QEMU Live Patching<a href="https://thehackernews.com/2021/09/why-you-should-consider-qemu-live.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sysadmins know what the risks are of running unpatched services. Given the choice, and unlimited resources, most hardworking administrators will ensure that all systems and services are patched consistently.  But things are rarely that simple. Technical resources are limited, and patching can often be more complicated than it appears at first glance. Worse, some services are so hidden in the background, that they just don't make it onto the list of things to be patched.  QEMU is one of those services that tend to create difficulties with patching. It works away in the background and is easy to take for granted. Plus, patching QEMU involves significant technical and practical challenges – while requiring enormous resources.  In this article, we'll address some of the difficulties around patching QEMU, and point to a solution that takes the toughest bits out of QEMU patching.  Ignoring QEMU patching is a big risk  You'll probably know about it if you're using QEMU – shor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The CISO and the C-Suite: How to Achieve Better Working Relations<a href="https://securityintelligence.com/articles/ciso-achieve-better-working-relations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISO role is still finding its place among C-suite executives. As organizations continue to use a remote or hybrid workforce, the CISO’s role at the executive’s table will be needed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

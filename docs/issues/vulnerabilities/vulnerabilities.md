@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher drops three iOS zero-days that Apple refused to fix<a href="https://www.bleepingcomputer.com/news/security/researcher-drops-three-ios-zero-days-that-apple-refused-to-fix/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for three iOS zero-day vulnerabilities (and a fourth one patched in July) was published on GitHub&nbsp;after Apple delayed patching and failed to credit the researcher.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher released PoC exploit code for 3 iOS zero-day issues<a href="https://securityaffairs.co/wordpress/122545/hacking/poc-exploit-code-ios-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher release PoC exploit code for three iOS zero-day flaws after Apple delayed addressing them and did not credit him. 
+
+
+
+An unknown researcher publicly released on GitHub proof-of-concept exploit code for three iOS zero-day vulnerabilities and one flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco Bugs Allow Code Execution on Wireless, SD-WAN<a href="https://threatpost.com/critical-cisco-bugs-wireless-sd-wan/174991/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unauthenticated cyberattackers can also wreak havoc on networking device configurations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes highly critical vulnerabilities in IOS XE Software<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-highly-critical-vulnerabilities-in-ios-xe-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has patched three critical vulnerabilities affecting components in its IOS XE internetworking operating system powering routers and wireless controllers, or products running with a specific configuration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addresses 3 critical vulnerabilities in IOS XE Software<a href="https://securityaffairs.co/wordpress/122538/security/cisco-ios-xe-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed three critical flaws impacting IOS XE operating system powering some of its devices, such as routers and wireless controllers.
+
+
+
+Cisco has addressed three critical vulnerabilities impacting its IOS XE operating system powering multiple products,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Patches 3 New Critical Flaws Affecting IOS XE Software<a href="https://thehackernews.com/2021/09/cisco-releases-patches-3-new-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Cisco Systems has rolled out patches to address three critical security vulnerabilities in its IOS XE network operating system that remote attackers could potentially abuse to execute arbitrary code with administrative privileges and trigger a denial-of-service (DoS) condition on vulnerable devices.  The list of three flaws is as follows -   CVE-2021-34770 &nbsp;(CVSS score: 10.0) - Cisco IOS XE Software for Catalyst 9000 Family Wireless Controllers CAPWAP Remote Code Execution Vulnerability  CVE-2021-34727 &nbsp;(CVSS score: 9.8) - Cisco IOS XE SD-WAN Software Buffer Overflow Vulnerability  CVE-2021-1619 &nbsp;(CVSS score: 9.8) - Cisco IOS XE Software NETCONF and RESTCONF Authentication Bypass Vulnerability   The most severe of the issues is CVE-2021-34770, which Cisco calls a "logic error" that occurs during the processing of&nbsp; CAPWAP &nbsp;(Control And Provisioning of Wireless Access Points) packets that enable a central wireless Controller to manage a group of wire
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes critical bug allowing SMA 100 device takeover<a href="https://www.bleepingcomputer.com/news/security/sonicwall-fixes-critical-bug-allowing-sma-100-device-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has patched a critical security flaw impacting several Secure Mobile Access (SMA) 100 series products that can let unauthenticated attackers remotely gain admin access on targeted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent Apple iOS and macOS Updates Released to Fix Actively Exploited Zero-Days<a href="https://thehackernews.com/2021/09/urgent-apple-ios-and-macos-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday released security updates to fix multiple security vulnerabilities in older versions of&nbsp; iOS &nbsp;and&nbsp; macOS &nbsp;that it says have been detected in exploits in the wild, in addition to expanding patches for a previously plugged security weakness abused by NSO Group's Pegasus surveillance tool to target iPhone users.   Chief among them is CVE-2021-30869, a type confusion flaw that resides in the kernel component&nbsp; XNU &nbsp;developed by Apple that could cause a malicious application to execute arbitrary code with the highest privileges. The Cupertino-based tech giant said it addressed the bug with improved state handling.  Google's Threat Analysis Group, which is credited with reporting the flaw, said  it detected the vulnerability being "used in conjunction with a N-day remote code execution targeting WebKit."  Two other flaws include&nbsp; CVE-2021-30858 and CVE-2021-30860 , both of which were resolved by the company earlier this month following disclosure from the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

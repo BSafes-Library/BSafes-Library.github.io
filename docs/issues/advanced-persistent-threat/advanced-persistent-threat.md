@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FamousSparrow APT group used ProxyLogon exploits in its attacks<a href="https://securityaffairs.co/wordpress/122525/apt/famoussparrow-apt-target-hotels.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new cyberespionage group, dubbed&nbsp;FamousSparrow, that used ProxyLogon exploits to target hotels worldwide. 
+
+
+
+Researchers from ESET discovered a new cyberespionage group, tracked as FamousSparrow, that has been targeting hotels...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

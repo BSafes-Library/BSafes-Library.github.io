@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher drops three iOS zero-days that Apple refused to fix<a href="https://www.bleepingcomputer.com/news/security/researcher-drops-three-ios-zero-days-that-apple-refused-to-fix/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Karma Uses Journalists to Get Free Publicity and Pressure Victims Into Paying Ransom<a href="https://www.inforisktoday.com/blogs/karma-seeks-free-publicity-to-fulfill-ransomware-destiny-p-3124?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple's New iCloud Private Relay Service Leaks Users' Real IP Addresses<a href="https://thehackernews.com/2021/09/apples-new-icloud-private-relay-service.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher released PoC exploit code for 3 iOS zero-day issues<a href="https://securityaffairs.co/wordpress/122545/hacking/poc-exploit-code-ios-zero-day.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cisco Bugs Allow Code Execution on Wireless, SD-WAN<a href="https://threatpost.com/critical-cisco-bugs-wireless-sd-wan/174991/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes highly critical vulnerabilities in IOS XE Software<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-highly-critical-vulnerabilities-in-ios-xe-software/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breach reporting required for health apps and devices, FTC says<a href="https://www.csoonline.com/article/3634190/breach-reporting-required-for-health-apps-and-devices-ftc-says.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Warns of a New Way Hackers Can Make Malware Undetectable on Windows<a href="https://thehackernews.com/2021/09/google-warns-of-new-way-hackers-can.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco addresses 3 critical vulnerabilities in IOS XE Software<a href="https://securityaffairs.co/wordpress/122538/security/cisco-ios-xe-critical-flaws.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Sell Billions of Clubhouse and Facebook Scraped User Records on Hacker Forum<a href="https://securityaffairs.co/wordpress/122532/cyber-crime/clubhouse-facebook-data-scraping.html?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Releases Patches 3 New Critical Flaws Affecting IOS XE Software<a href="https://thehackernews.com/2021/09/cisco-releases-patches-3-new-critical.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3.8 billion Clubhouse and Facebook user records allegedly scraped and merged, put for sale online<a href="https://securityaffairs.co/wordpress/122532/cyber-crime/clubhouse-facebook-data-scraping.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Launches Double Chats Scheme to Dupe its Affiliates<a href="https://cyware.com/news/revil-launches-double-chats-scheme-to-dupe-its-affiliates-a7b086bd"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most IT leaders prioritize cloud migration, yet security concerns remain<a href="https://www.helpnetsecurity.com/2021/09/24/cloud-security-concerns/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 African Bank warns of data breach with personal details compromised<a href="https://businesstech.co.za/news/banking/523312/african-bank-warns-of-data-breach-with-personal-details-compromised/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Business Tech
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cring Ransomware Targets a Decade-Old Adobe Flaw<a href="https://cyware.com/news/cring-ransomware-targets-a-decade-old-adobe-flaw-caf2c412"> Full Text</a>
@@ -307,7 +307,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tech Industry Group Weighs in on Federal Zero Trust Strategy<a href="https://www.nextgov.com/cio-briefing/2021/09/tech-industry-group-weighs-federal-zero-trust-strategy/185524/?&web_view=true"> Full Text</a>
@@ -323,7 +323,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted Attacks Launched Against Government Personnel in India Using Commercial RATs<a href="https://blog.talosintelligence.com/2021/09/operation-armor-piercer.html?&web_view=true"> Full Text</a>
@@ -339,7 +339,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Education sector has improving window of exposure despite lower remediation rates and higher than average time to fix: report<a href="https://www.zdnet.com/article/education-sector-has-improving-window-of-exposure-despite-lower-remediation-rates-and-higher-than-average-time-to-fix-report/?&web_view=true"> Full Text</a>
@@ -355,7 +355,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall fixes critical bug allowing SMA 100 device takeover<a href="https://www.bleepingcomputer.com/news/security/sonicwall-fixes-critical-bug-allowing-sma-100-device-takeover/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FamousSparrow APT group used ProxyLogon exploits in its attacks<a href="https://securityaffairs.co/wordpress/122525/apt/famoussparrow-apt-target-hotels.html"> Full Text</a>
@@ -391,7 +391,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2021
+September 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent Apple iOS and macOS Updates Released to Fix Actively Exploited Zero-Days<a href="https://thehackernews.com/2021/09/urgent-apple-ios-and-macos-updates.html"> Full Text</a>
@@ -407,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2021
+September 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Affiliates Confirm: Leadership Were Cheating Dirtbags<a href="https://threatpost.com/revil-affiliates-leadership-cheated-ransom-payments/174972/"> Full Text</a>

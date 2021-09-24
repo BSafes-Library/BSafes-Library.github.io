@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware devs added a backdoor to cheat affiliates<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-devs-added-a-backdoor-to-cheat-affiliates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are slowly realizing that the REvil ransomware operators have been hijacking ransom negotiations, to cut affiliates out of payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

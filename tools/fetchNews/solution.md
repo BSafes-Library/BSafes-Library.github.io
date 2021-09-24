@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Domain Brand Monitor: The First Brand Protection Layer by WhoisXML API<a href="https://threatpost.com/domain-brand-monitor-whoisxml-api/174807/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Domain names are often brands’ most valuable and impersonated assets. Learn how Brand Monitor by WhoisXML API supports brand protection.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

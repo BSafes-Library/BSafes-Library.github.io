@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most IT leaders prioritize cloud migration, yet security concerns remain<a href="https://www.helpnetsecurity.com/2021/09/24/cloud-security-concerns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a significant year-on-year leap in companies planning to move business-critical applications to the cloud, despite cybersecurity concerns, Equinix has found.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech Industry Group Weighs in on Federal Zero Trust Strategy<a href="https://www.nextgov.com/cio-briefing/2021/09/tech-industry-group-weighs-federal-zero-trust-strategy/185524/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance sought public comment on an overarching federal policy from OMB as well as draft technical reference architecture and maturity model from Cybersecurity and Infrastructure Security Agency.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

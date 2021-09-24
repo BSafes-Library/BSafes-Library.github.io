@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.8 billion Clubhouse and Facebook user records allegedly scraped and merged, put for sale online<a href="https://securityaffairs.co/wordpress/122532/cyber-crime/clubhouse-facebook-data-scraping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A user on a popular hacker forum is selling a database that purportedly contains 3.8 billion Clubhouse and Facebook user records.
+
+
+
+Original Post @CyberNews https://cybernews.com/security/3-8-billion-allegedly-scraped-and-merged-clubhouse-and-facebook-user-records-put-for-sale-online/
+
+
+
+A...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+African Bank warns of data breach with personal details compromised<a href="https://businesstech.co.za/news/banking/523312/african-bank-warns-of-data-breach-with-personal-details-compromised/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+African Bank has confirmed that one of its appointed professional debt recovery partners, Debt-IN, was targeted by hackers in April 2021. The bank said that no data shared post April 1 is compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Business Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

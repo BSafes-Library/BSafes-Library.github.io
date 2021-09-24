@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education sector has improving window of exposure despite lower remediation rates and higher than average time to fix: report<a href="https://www.zdnet.com/article/education-sector-has-improving-window-of-exposure-despite-lower-remediation-rates-and-higher-than-average-time-to-fix-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adoption of online learning environments due to COVID-19 and higher rates of ransomware and phishing attacks against K-12 schools have increased focus on the unique cybersecurity challenges they face.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

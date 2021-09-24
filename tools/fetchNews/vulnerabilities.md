@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addresses a new zero-day exploited to deploy the NSO Pegasus spyware<a href="https://securityaffairs.co/wordpress/122518/security/apple-zero-day-pegasus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed three zero-day vulnerabilities exploited by threat actors in attacks in the wild to take over iPhones and Macs. 
+
+
+
+Apple has released security updates to address three zero-day vulnerabilities exploited in attacks in the wild to compromise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple patches new zero-day bug used to hack iPhones and Macs<a href="https://www.bleepingcomputer.com/news/apple/apple-patches-new-zero-day-bug-used-to-hack-iphones-and-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to fix a zero-day vulnerability&nbsp;exploited in the wild by attackers to hack into iPhones and Macs running older iOS and macOS versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Bug in Microsoft Windows Could Let Hackers Easily Install a Rootkit<a href="https://thehackernews.com/2021/09/a-new-bug-in-microsoft-windows-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed an unpatched weakness in Microsoft Windows Platform Binary Table (WPBT) affecting all Windows-based devices since Windows 8 that could be potentially exploited to install a rootkit and compromise the integrity of devices.  "These flaws make every Windows system vulnerable to easily-crafted attacks that install fraudulent vendor-specific tables," researchers from Eclypsium&nbsp; said &nbsp;in a report published on Monday. "These tables can be exploited by attackers with direct physical access, with remote access, or through manufacturer supply chains. More importantly, these motherboard-level flaws can obviate initiatives like&nbsp; Secured-core &nbsp;because of the ubiquitous usage of&nbsp; ACPI &nbsp;[Advanced Configuration and Power Interface] and WPBT."   WPBT, introduced with Windows 8 in 2012, is a&nbsp; feature &nbsp;that enables "boot firmware to provide Windows with a platform binary that the operating system can execute."&nbsp;  In other words, it allows
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Offers up to $5,000 to Users Who Spot Bugs in Its Cyber Protection Products<a href="https://threatpost.com/acronis-bug-bounty-program/174849/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once available only to the cybersecurity community, Acronis has opened its bug-hunting program to the public and aims to double the total bounties paid. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-40847 flaw in Netgear SOHO routers could allow remote code execution<a href="https://securityaffairs.co/wordpress/122486/hacking/cve-2021-40847-netgear-soho-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-40847 flaw in Netgear SOHO routers could be exploited by a remote attacker to execute arbitrary code as root.  
+
+
+
+Security experts from consulting firm GRIMM have discovered a vulnerability in Small Offices/Home Offices (SOHO) Netgear routers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beego patches severe XSS vulnerability in open source web framework<a href="https://portswigger.net/daily-swig/beego-patches-severe-xss-vulnerability-in-open-source-web-framework?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, security researcher Omri Inbar disclosed the vulnerability. Tracked as CVE-2021-39391, the vulnerability was found in the administration panel of Beego v2.0.1.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerabilities in IOS XE Software<a href="https://www.securityweek.com/cisco-patches-critical-vulnerabilities-ios-xe-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these vulnerabilities is CVE-2021-34770 (CVSS score of 10), which could lead to remote code execution without authentication, with administrator privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's New iCloud Private Relay Service Leaks Users' Real IP Addresses<a href="https://thehackernews.com/2021/09/apples-new-icloud-private-relay-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new as-yet unpatched weakness in Apple's iCloud Private Relay feature could be circumvented to leak users' true IP addresses from iOS devices running the latest version of the operating system.  Introduced with iOS 15, which was officially released this week,&nbsp; iCloud Private Relay &nbsp;aims to improve anonymity on the web by employing a dual-hop architecture that effectively shields users' IP address, location, and DNS requests from websites and network service providers.  It achieves this by routing users' internet traffic on the Safari browser through two proxies in order to mask who's browsing and where that data is coming from in what could be viewed as a simplified version of Tor.&nbsp;   However, the feature is available to iCloud+ subscribers running iOS 15 or macOS 12 Monterey and above.  "If you read the IP address from an HTTP request received by your server, you'll get the IP address of the egress proxy," FingerprintJS researcher Sergey Mostsevenk
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

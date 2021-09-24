@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cring Ransomware Targets a Decade-Old Adobe Flaw<a href="https://cyware.com/news/cring-ransomware-targets-a-decade-old-adobe-flaw-caf2c412"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ColdFusion 9 bugs patched by Adobe more than a decade ago are under active exploitation by threat actors. Criminals tried to drop Cringe ransomware on the target networks. The attacks originated from an internet address given to Green Floid (a Ukrainian ISP). Lest we forget, the first defense i ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted Attacks Launched Against Government Personnel in India Using Commercial RATs<a href="https://blog.talosintelligence.com/2021/09/operation-armor-piercer.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lures used in this campaign are predominantly themed around operational documents and guides such as those pertaining to the "Kavach" (hindi for "armor") 2FA application operated by India's NIC.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
