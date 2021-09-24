@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 24, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SonicWall fixes critical bug allowing SMA 100 device takeover<a href="https://www.bleepingcomputer.com/news/security/sonicwall-fixes-critical-bug-allowing-sma-100-device-takeover/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has patched a critical security flaw impacting several Secure Mobile Access (SMA) 100 series products that can let unauthenticated attackers remotely gain admin access on targeted devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New FamousSparrow APT group used ProxyLogon exploits in its attacks<a href="https://securityaffairs.co/wordpress/122525/apt/famoussparrow-apt-target-hotels.html"> Full Text</a>
 </p>
 <details>
