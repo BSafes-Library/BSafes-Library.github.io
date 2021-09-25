@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns of a New Way Hackers Can Make Malware Undetectable on Windows<a href="https://thehackernews.com/2021/09/google-warns-of-new-way-hackers-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a novel technique adopted by threat actors to deliberately evade detection with the help of malformed digital signatures of its malware payloads.  "Attackers created malformed code signatures that are treated as valid by Windows but are not able to be decoded or checked by OpenSSL code — which is used in a number of security scanning products," Google Threat Analysis Group's Neel Mehta&nbsp; said &nbsp;in a write-up published on Thursday.   The new mechanism was observed to be exploited by a notorious family of unwanted software known as&nbsp; OpenSUpdater &nbsp;that's used to download and install other suspicious programs on compromised systems. Most targets of the campaign are users located in the U.S. who are prone to downloading cracked versions of games and other grey-area software.  The findings come from a set of OpenSUpdater&nbsp; samples &nbsp; uploaded &nbsp;to VirusTotal at least since mid-August.   Not only are the artifacts signed with an invalid l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

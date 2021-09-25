@@ -11,6 +11,34 @@ nav_order: 900072
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+EU officially blames Russia for 'Ghostwriter' hacking activities<a href="https://www.bleepingcomputer.com/news/security/eu-officially-blames-russia-for-ghostwriter-hacking-activities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union has officially linked Russia to a hacking operation known as Ghostwriter that targets&nbsp;high-profile EU officials, journalists, and the general public.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How ransomware affects stock market share prices: report - Comparitech<a href="https://www.comparitech.com/blog/information-security/ransomware-share-price-analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The findings from the Comparitech study show that Wall Street investors are largely unconcerned with ransomware attacks aside from a very brief sell-off when news of the attack is first published.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Most IT leaders prioritize cloud migration, yet security concerns remain<a href="https://www.helpnetsecurity.com/2021/09/24/cloud-security-concerns/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

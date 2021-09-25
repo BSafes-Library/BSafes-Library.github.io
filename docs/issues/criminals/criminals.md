@@ -11,6 +11,20 @@ nav_order: 900031
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hunting the LockBit Gang's Exfiltration Infrastructures - Yoroi<a href="https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the last few months, the LockBit gang decided to develop and evolve a custom tool specialized in data exfiltration and used as a peculiar element to distinguish their criminal brand.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Karma Uses Journalists to Get Free Publicity and Pressure Victims Into Paying Ransom<a href="https://www.inforisktoday.com/blogs/karma-seeks-free-publicity-to-fulfill-ransomware-destiny-p-3124?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -11,6 +11,20 @@ nav_order: 900080
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploiting critical VMware vCenter CVE-2021-22005 bug<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-vmware-vcenter-cve-2021-22005-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code that could be used for remote code execution on VMware vCenter Server vulnerable to CVE-2021-22005 has been released today and attackers are already using it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Google Warns of a New Way Hackers Can Make Malware Undetectable on Windows<a href="https://thehackernews.com/2021/09/google-warns-of-new-way-hackers-can.html"> Full Text</a>
 </p>
 <details>

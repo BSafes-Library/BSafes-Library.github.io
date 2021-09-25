@@ -11,6 +11,20 @@ nav_order: 900180
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 24th 2021 - Targeting crypto<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-24th-2021-targeting-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's biggest news is the&nbsp;USA sanctioning a crypto exchange&nbsp;used by ransomware gangs to convert cryptocurrency into fiat currency. By targeting rogue exchanges, the US government is hoping to disrupt ransomware's payment system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cring Ransomware Targets a Decade-Old Adobe Flaw<a href="https://cyware.com/news/cring-ransomware-targets-a-decade-old-adobe-flaw-caf2c412"> Full Text</a>
 </p>
 <details>

@@ -34,6 +34,334 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new zero-day is being exploited to compromise Macs<a href="https://www.helpnetsecurity.com/2021/09/24/cve-2021-30869/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flagged by researchers Erye Hernandez and Clément Lecigne of Google’s Threat Analysis Group and Ian Beer of Google Project Zero, the vulnerability is a type confusion issue found in XNU, the kernel of Apple’s macOS and iOS operating systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Union formally blames Russia for the GhostWriter operation<a href="https://securityaffairs.co/wordpress/122555/apt/european-union-accuses-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Union representatives formally accused Russia of attempting to target the elections and political systems of several EU states. 
+
+
+
+European Union has formally accused Russia of meddling in the elections and political systems of several EU states....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Port of Houston Target of Suspected Nation-State Hack<a href="https://www.securityweek.com/port-houston-target-suspected-nation-state-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Houston, a critical piece of infrastructure along the Gulf Coast, issued a statement saying it had successfully defended against an attempted hack in August and “no operational data or systems were impacted.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns users to patch critical vulnerability "as soon as possible"<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/09/sonicwall-warns-users-to-patch-critical-vulnerability-as-soon-as-possible/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability could potentially allow a remote unauthenticated attacker the ability to delete arbitrary files from an SMA 100 series appliance and gain administrator access to the device.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 24th 2021 - Targeting crypto<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-24th-2021-targeting-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's biggest news is the USA sanctioning a crypto exchange used by ransomware gangs to convert cryptocurrency into fiat currency. By targeting rogue exchanges, the US government is hoping to disrupt ransomware's payment system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU 'denounces' Russian malicious cyber activity aimed at member states<a href="https://thehill.com//policy/cybersecurity/573867-eu-denounces-russian-malicious-cyber-activity-aimed-at-member-states"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top European Union (EU) official on Friday called out Russia for its involvement in recent hacking efforts directed towards the governments of multiple member states, describing these efforts as “unacceptable.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent Chrome Update Released to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2021/09/urgent-chrome-update-released-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday rolled out an emergency security patch to its Chrome web browser to address a security flaw that's known to have an exploit in the wild.  Tracked as  CVE-2021-37973 , the vulnerability has been described as  use after free  in  Portals API , a web page navigation system that enables a page to show another page as an inset and "perform a seamless transition to a new state, where the formerly-inset page becomes the top-level document."  Clément Lecigne of Google Threat Analysis Group (TAG) has been credited with reporting the flaw. Additional specifics pertaining to the weakness have not been disclosed in light of active exploitation and to allow a majority of the users to apply the patch, but the internet giant said it's "aware that an exploit for CVE-2021-37973 exists in the wild."   The update arrives a day after Apple moved to close an actively exploited security hole in older versions of iOS and macOS ( CVE-2021-30869 ), which the TAG no
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange/Outlook Autodiscover Bug Spills $100K+ Email Passwords<a href="https://threatpost.com/exchange-outlook-autodiscover-bug-spills-100k-email-passwords/175004/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of thousands of email credentials, many of which double as Active Directory domain credentials, came through to credential-trapping domains in clear text. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+United Health Centers ransomware attack claimed by Vice Society<a href="https://www.bleepingcomputer.com/news/security/united-health-centers-ransomware-attack-claimed-by-vice-society/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​California-based United Health Centers suffered a ransomware attack that reportedly disrupted all of their locations and resulted in patient data theft.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Issues Patches for a New Critical Flaw in SMA 100 Series Devices<a href="https://thehackernews.com/2021/09/sonicwall-issues-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security company SonicWall has addressed a critical security vulnerability affecting its Secure Mobile Access (SMA) 100 series appliances that can permit remote, unauthenticated attackers to gain administrator access on targeted devices remotely.  Tracked as  CVE-2021-20034 , the arbitrary file deletion flaw is rated 9.1 out of a maximum of 10 on the CVSS scoring system, and could allow an adversary to bypass path traversal checks and delete any file, causing the devices to reboot to factory default settings.   "The vulnerability is due to an improper limitation of a file path to a restricted directory potentially leading to arbitrary file deletion as 'nobody,'" the San Jose-based firm  noted  in an advisory published Thursday. "There is no evidence that this vulnerability is being exploited in the wild."   SonicWall credited Wenxu Yin of Alpha Lab, Qihoo 360, with reporting the security shortcoming, which impacts SMA 100 Series — SMA 200, SMA 210,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-20034 flaw can allow SMA 100 device takeover, patch it now!<a href="https://securityaffairs.co/wordpress/122547/security/cve-2021-20034-sonicwall-sma-100.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall fixed a critical security flaw, tracked as CVE-2021-20034, that impacts some Secure Mobile Access (SMA) 100 series products that can allow device takeover. 
+
+
+
+SonicWall has addressed a critical security vulnerability, tracked as CVE-2021-20034,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploiting critical VMware vCenter CVE-2021-22005 bug<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-vmware-vcenter-cve-2021-22005-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code that could be used for remote code execution on VMware vCenter Server vulnerable to CVE-2021-22005 has been released today and attackers are already using it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New APT Hacker Group Spying On Hotels and Governments Worldwide<a href="https://thehackernews.com/2021/09/a-new-apt-hacker-group-spying-on-hotels.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new advanced persistent threat (APT) has been behind a string of attacks against hotels across the world, along with governments, international organizations, engineering companies, and law firms.  Slovak cybersecurity firm ESET codenamed the cyber espionage group  FamousSparrow , which it said has been active since at least August 2019, with victims located across Africa, Asia, Europe, the Middle East, and the Americas, spanning several countries such as Burkina Faso, Taiwan, France, Lithuania, the U.K., Israel, Saudi Arabia, Brazil, Canada, and Guatemala.   Attacks mounted by the group involve exploiting known vulnerabilities in server applications such as SharePoint and Oracle Opera, in addition to the  ProxyLogon  remote code execution vulnerability in Microsoft Exchange Server that came to light in March 2021, making it the  latest threat actor  to have had access to the exploit before details of the flaw became public.   According to ESET, intrusion exploiting the flaws commen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Google Chrome update fixes zero-day exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/emergency-google-chrome-update-fixes-zero-day-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 94.0.4606.61 for Windows, Mac, and Linux, an emergency update addressing a high-severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major European call center provider goes down in ransomware attack<a href="https://therecord.media/major-european-call-center-provider-goes-down-in-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a letter sent to affected customers, GSS officials said they took down all internal systems affected by the attack earlier and are currently using Google-based systems as an alternative.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rushes to register Autodiscover domains leaking credentials<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rushes-to-register-autodiscover-domains-leaking-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is rushing to register Internet domains used to steal Windows credentials sent from faulty implementations of the Microsoft Exchange Autodiscover protocol.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers fix multitude of vulnerabilities in Apache HTTP Server<a href="https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous security vulnerabilities have been identified and fixed in Apache HTTP Server 2.4, including high-impact server-side request forgery (SSRF) and request smuggling bugs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU officially blames Russia for 'Ghostwriter' hacking activities<a href="https://www.bleepingcomputer.com/news/security/eu-officially-blames-russia-for-ghostwriter-hacking-activities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union has officially linked Russia to a hacking operation known as Ghostwriter that targets high-profile EU officials, journalists, and the general public.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hunting the LockBit Gang's Exfiltration Infrastructures - Yoroi<a href="https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the last few months, the LockBit gang decided to develop and evolve a custom tool specialized in data exfiltration and used as a peculiar element to distinguish their criminal brand.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How ransomware affects stock market share prices: report - Comparitech<a href="https://www.comparitech.com/blog/information-security/ransomware-share-price-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The findings from the Comparitech study show that Wall Street investors are largely unconcerned with ransomware attacks aside from a very brief sell-off when news of the attack is first published.
+</details>
+<div style="text-align: right" markdown="1">
+Comparitech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

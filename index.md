@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new zero-day is being exploited to compromise Macs<a href="https://www.helpnetsecurity.com/2021/09/24/cve-2021-30869/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Union formally blames Russia for the GhostWriter operation<a href="https://securityaffairs.co/wordpress/122555/apt/european-union-accuses-russia.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Port of Houston Target of Suspected Nation-State Hack<a href="https://www.securityweek.com/port-houston-target-suspected-nation-state-hack?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall warns users to patch critical vulnerability "as soon as possible"<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/09/sonicwall-warns-users-to-patch-critical-vulnerability-as-soon-as-possible/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 24th 2021 - Targeting crypto<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-24th-2021-targeting-crypto/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU 'denounces' Russian malicious cyber activity aimed at member states<a href="https://thehill.com//policy/cybersecurity/573867-eu-denounces-russian-malicious-cyber-activity-aimed-at-member-states"> Full Text</a>
@@ -134,7 +134,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent Chrome Update Released to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2021/09/urgent-chrome-update-released-to-patch.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange/Outlook Autodiscover Bug Spills $100K+ Email Passwords<a href="https://threatpost.com/exchange-outlook-autodiscover-bug-spills-100k-email-passwords/175004/"> Full Text</a>
@@ -166,7 +166,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 United Health Centers ransomware attack claimed by Vice Society<a href="https://www.bleepingcomputer.com/news/security/united-health-centers-ransomware-attack-claimed-by-vice-society/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Issues Patches for a New Critical Flaw in SMA 100 Series Devices<a href="https://thehackernews.com/2021/09/sonicwall-issues-patches-for-new.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-20034 flaw can allow SMA 100 device takeover, patch it now!<a href="https://securityaffairs.co/wordpress/122547/security/cve-2021-20034-sonicwall-sma-100.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploiting critical VMware vCenter CVE-2021-22005 bug<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-vmware-vcenter-cve-2021-22005-bug/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New APT Hacker Group Spying On Hotels and Governments Worldwide<a href="https://thehackernews.com/2021/09/a-new-apt-hacker-group-spying-on-hotels.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emergency Google Chrome update fixes zero-day exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/emergency-google-chrome-update-fixes-zero-day-exploited-in-the-wild/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major European call center provider goes down in ransomware attack<a href="https://therecord.media/major-european-call-center-provider-goes-down-in-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft rushes to register Autodiscover domains leaking credentials<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rushes-to-register-autodiscover-domains-leaking-credentials/"> Full Text</a>
@@ -298,7 +298,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developers fix multitude of vulnerabilities in Apache HTTP Server<a href="https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU officially blames Russia for 'Ghostwriter' hacking activities<a href="https://www.bleepingcomputer.com/news/security/eu-officially-blames-russia-for-ghostwriter-hacking-activities/"> Full Text</a>
@@ -330,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hunting the LockBit Gang's Exfiltration Infrastructures - Yoroi<a href="https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Yoroi
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2021
+September 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How ransomware affects stock market share prices: report - Comparitech<a href="https://www.comparitech.com/blog/information-security/ransomware-share-price-analysis/?&web_view=true"> Full Text</a>

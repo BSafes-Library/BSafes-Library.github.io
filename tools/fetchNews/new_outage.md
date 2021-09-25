@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major European call center provider goes down in ransomware attack<a href="https://therecord.media/major-european-call-center-provider-goes-down-in-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a letter sent to affected customers, GSS officials said they took down all internal systems affected by the attack earlier and are currently using Google-based systems as an alternative.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

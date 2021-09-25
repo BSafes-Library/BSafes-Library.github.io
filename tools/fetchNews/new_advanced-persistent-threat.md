@@ -11,6 +11,20 @@ nav_order: 900010
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+A New APT Hacker Group Spying On Hotels and Governments Worldwide<a href="https://thehackernews.com/2021/09/a-new-apt-hacker-group-spying-on-hotels.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new advanced persistent threat (APT) has been behind a string of attacks against hotels across the world, along with governments, international organizations, engineering companies, and law firms.  Slovak cybersecurity firm ESET codenamed the cyber espionage group&nbsp; FamousSparrow , which it said has been active since at least August 2019, with victims located across Africa, Asia, Europe, the Middle East, and the Americas, spanning several countries such as Burkina Faso, Taiwan, France, Lithuania, the U.K., Israel, Saudi Arabia, Brazil, Canada, and Guatemala.   Attacks mounted by the group involve exploiting known vulnerabilities in server applications such as SharePoint and Oracle Opera, in addition to the&nbsp; ProxyLogon &nbsp;remote code execution vulnerability in Microsoft Exchange Server that came to light in March 2021, making it the&nbsp; latest threat actor &nbsp;to have had access to the exploit before details of the flaw became public.   According to ESET, intrusion exploiting the flaws commen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New FamousSparrow APT group used ProxyLogon exploits in its attacks<a href="https://securityaffairs.co/wordpress/122525/apt/famoussparrow-apt-target-hotels.html"> Full Text</a>
 </p>
 <details>
