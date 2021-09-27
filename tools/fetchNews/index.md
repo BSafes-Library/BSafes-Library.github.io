@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft will disable Basic Auth in Exchange Online in October 2022<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-disable-basic-auth-in-exchange-online-in-october-2022/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZuRu Malware Exploits Baidu Search Results<a href="https://cyware.com/news/zuru-malware-exploits-baidu-search-results-7c48549c"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Port of Houston was hit by an alleged state-sponsored attack<a href="https://securityaffairs.co/wordpress/122599/hacking/port-of-houston-cyberattack.html"> Full Text</a>
@@ -87,7 +87,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credential Phishing Campaign Targets Governments in APAC and EMEA<a href="https://cyware.com/news/credential-phishing-campaign-targets-governments-in-apac-and-emea-1f70c835"> Full Text</a>
@@ -104,7 +104,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JSC GREC Makeyev and other Russian entities under attack<a href="https://securityaffairs.co/wordpress/122589/hacking/jsc-grec-makeyev-russia-orgs-attacks.html"> Full Text</a>
@@ -124,7 +124,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 333<a href="https://securityaffairs.co/wordpress/122583/breaking-news/security-affairs-newsletter-round-333.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG spotted actors using new code signing tricks to evade detection<a href="https://securityaffairs.co/wordpress/122576/hacking/code-signing-avoid-detection.html"> Full Text</a>
@@ -168,7 +168,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft WPBT flaw lets hackers install rootkits on Windows devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-wpbt-flaw-lets-hackers-install-rootkits-on-windows-devices/"> Full Text</a>
@@ -184,7 +184,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin.org hackers steal $17,000 in 'double your cash' scam<a href="https://www.bleepingcomputer.com/news/security/bitcoinorg-hackers-steal-17-000-in-double-your-cash-scam/"> Full Text</a>
@@ -200,7 +200,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GSS, one of the major European call center providers, suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/122570/cyber-crime/gss-ransomware-attack.html"> Full Text</a>
@@ -220,7 +220,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are attempting to exploit VMware vCenter CVE-2021-22005 flaw<a href="https://securityaffairs.co/wordpress/122565/hacking/vmware-vcenter-cve-2021-22005-attacks.html"> Full Text</a>
@@ -240,7 +240,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2021
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addressed the eleventh Chrome zero-day flaw this year<a href="https://securityaffairs.co/wordpress/122561/security/google-chrome-zero-day-flaw.html"> Full Text</a>

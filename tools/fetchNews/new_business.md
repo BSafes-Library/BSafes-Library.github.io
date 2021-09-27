@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will disable Basic Auth in Exchange Online in October 2022<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-disable-basic-auth-in-exchange-online-in-october-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that&nbsp;Basic Authentication will be turned off for all protocols in all tenants starting October 1st, 2022,&nbsp;to protect millions of Exchange Online users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

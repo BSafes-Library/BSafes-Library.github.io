@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Port of Houston Target of Suspected Nation-State Hack<a href="https://www.securityweek.com/port-houston-target-suspected-nation-state-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Houston, a critical piece of infrastructure along the Gulf Coast, issued a statement saying it had successfully defended against an attempted hack in August and “no operational data or systems were impacted.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+United Health Centers ransomware attack claimed by Vice Society<a href="https://www.bleepingcomputer.com/news/security/united-health-centers-ransomware-attack-claimed-by-vice-society/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​California-based United Health Centers suffered a ransomware attack that reportedly disrupted all of their locations and resulted in patient data theft.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

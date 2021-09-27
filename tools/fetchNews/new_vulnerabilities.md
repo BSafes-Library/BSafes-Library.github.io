@@ -11,6 +11,56 @@ nav_order: 900220
 September 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft WPBT flaw lets hackers install rootkits on Windows devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-wpbt-flaw-lets-hackers-install-rootkits-on-windows-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found a flaw in the Microsoft Windows Platform Binary Table (WPBT) that could be exploited in easy attacks to install rootkits on all Windows computers shipped since 2012.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are attempting to exploit VMware vCenter CVE-2021-22005 flaw<a href="https://securityaffairs.co/wordpress/122565/hacking/vmware-vcenter-cve-2021-22005-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immediately after the public release of the exploit code for the VMware vCenter CVE-2021-22005 flaw threat actors started using it.
+
+
+
+Researchers warn that immediately after the release of the exploit code for the recently addressed CVE-2021-22005 flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addressed the eleventh Chrome zero-day flaw this year<a href="https://securityaffairs.co/wordpress/122561/security/google-chrome-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released a Chrome emergency update for Windows, Mac, and Linux that addresses&nbsp;a high-severity zero-day flaw exploited in the wild. 
+
+
+
+Google has released Chrome 94.0.4606.61&nbsp;for Windows, Mac, and Linux that addresses&nbsp;a high-severity zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A new zero-day is being exploited to compromise Macs<a href="https://www.helpnetsecurity.com/2021/09/24/cve-2021-30869/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

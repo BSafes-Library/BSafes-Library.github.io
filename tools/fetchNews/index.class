@@ -34,6 +34,232 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will disable Basic Auth in Exchange Online in October 2022<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-disable-basic-auth-in-exchange-online-in-october-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that Basic Authentication will be turned off for all protocols in all tenants starting October 1st, 2022, to protect millions of Exchange Online users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZuRu Malware Exploits Baidu Search Results<a href="https://cyware.com/news/zuru-malware-exploits-baidu-search-results-7c48549c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported new Mac ZuRu malware spreading via poisoned search engine results in China via Baidu. The criminals masquerade as iTerm2, an alternative to the default Mac terminal app. The fake app couldn't be  flagged even with an extra  security badge that Apple usually provides to the notariz ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Port of Houston was hit by an alleged state-sponsored attack<a href="https://securityaffairs.co/wordpress/122599/hacking/port-of-houston-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, the Port of Houston, one of the major US ports, was hit by a cyber attack allegedly orchestrated by a nation-state actor. 
+
+
+
+One of the major US ports, the Port of Houston, revealed that it was hit by a cyber attack in August that had no impact...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Phishing Campaign Targets Governments in APAC and EMEA<a href="https://cyware.com/news/credential-phishing-campaign-targets-governments-in-apac-and-emea-1f70c835"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers were found disguising as various ministries in a phishing scheme targeting the government departments of at least seven countries in APAC and EMEA.  To date, at least 15 pages are actively targeting the governments of Belarus, Georgia, Kyrgyzstan, Pakistan, Turkmenistan, Ukraine, and Uzbeki ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JSC GREC Makeyev and other Russian entities under attack<a href="https://securityaffairs.co/wordpress/122589/hacking/jsc-grec-makeyev-russia-orgs-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage campaign hit multiple Russian organizations, including  JSC GREC Makeyev, a major defense contractor, exploiting a recently disclosed zero-day.
+
+
+
+Security researchers from Malwarebytes uncovered multiple attacks targeting many Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 333<a href="https://securityaffairs.co/wordpress/122583/breaking-news/security-affairs-newsletter-round-333.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+GSS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG spotted actors using new code signing tricks to evade detection<a href="https://securityaffairs.co/wordpress/122576/hacking/code-signing-avoid-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google’s TAG team reported that financially motivated actors are using new code signing tricks to evade detection.
+
+
+
+Researchers from Google’s Threat Analysis Group reported that financially motivated actors are using new code signing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft WPBT flaw lets hackers install rootkits on Windows devices<a href="https://www.bleepingcomputer.com/news/security/microsoft-wpbt-flaw-lets-hackers-install-rootkits-on-windows-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found a flaw in the Microsoft Windows Platform Binary Table (WPBT) that could be exploited in easy attacks to install rootkits on all Windows computers shipped since 2012.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin.org hackers steal $17,000 in 'double your cash' scam<a href="https://www.bleepingcomputer.com/news/security/bitcoinorg-hackers-steal-17-000-in-double-your-cash-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, threat actors hijacked Bitcoin.org, the authentic website of the Bitcoin project, and altered parts of the website to push a cryptocurrency giveaway scam that unfortunately some users fell for. Although the hack lasted for less than a day, hackers seem to have walked away with a little over $17,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GSS, one of the major European call center providers, suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/122570/cyber-crime/gss-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The customer care and call center provider GSS has suffered a ransomware attack that crippled its systems and impacted its Spanish-speaking customers. 
+
+
+
+GSS customer care and call center provider has suffered a ransomware attack that crippled its system...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are attempting to exploit VMware vCenter CVE-2021-22005 flaw<a href="https://securityaffairs.co/wordpress/122565/hacking/vmware-vcenter-cve-2021-22005-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immediately after the public release of the exploit code for the VMware vCenter CVE-2021-22005 flaw threat actors started using it.
+
+
+
+Researchers warn that immediately after the release of the exploit code for the recently addressed CVE-2021-22005 flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addressed the eleventh Chrome zero-day flaw this year<a href="https://securityaffairs.co/wordpress/122561/security/google-chrome-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released a Chrome emergency update for Windows, Mac, and Linux that addresses a high-severity zero-day flaw exploited in the wild. 
+
+
+
+Google has released Chrome 94.0.4606.61 for Windows, Mac, and Linux that addresses a high-severity zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

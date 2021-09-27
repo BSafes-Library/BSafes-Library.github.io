@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG spotted actors using new code signing tricks to evade detection<a href="https://securityaffairs.co/wordpress/122576/hacking/code-signing-avoid-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google’s TAG team reported that financially motivated actors are using new code signing tricks to evade detection.
+
+
+
+Researchers from Google’s Threat Analysis Group reported that financially motivated actors are using new code signing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

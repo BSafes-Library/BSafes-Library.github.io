@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin.org hackers steal $17,000 in 'double your cash' scam<a href="https://www.bleepingcomputer.com/news/security/bitcoinorg-hackers-steal-17-000-in-double-your-cash-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, threat actors hijacked Bitcoin.org, the authentic&nbsp;website of the Bitcoin project,&nbsp;and altered parts of the website to push a cryptocurrency giveaway scam that unfortunately some users fell for. Although the hack lasted for less than a day, hackers seem to have walked away with a little over $17,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

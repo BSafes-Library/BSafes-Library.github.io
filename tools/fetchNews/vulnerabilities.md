@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new zero-day is being exploited to compromise Macs<a href="https://www.helpnetsecurity.com/2021/09/24/cve-2021-30869/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flagged by researchers Erye Hernandez and Clément Lecigne of Google’s Threat Analysis Group and Ian Beer of Google Project Zero, the vulnerability is a type confusion issue found in XNU, the kernel of Apple’s macOS and iOS operating systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall warns users to patch critical vulnerability "as soon as possible"<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/09/sonicwall-warns-users-to-patch-critical-vulnerability-as-soon-as-possible/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability could potentially allow a remote unauthenticated attacker the ability to delete arbitrary files from an SMA 100 series appliance and gain administrator access to the device.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent Chrome Update Released to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2021/09/urgent-chrome-update-released-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday rolled out an emergency security patch to its Chrome web browser to address a security flaw that's known to have an exploit in the wild.  Tracked as&nbsp; CVE-2021-37973 , the vulnerability has been described as&nbsp; use after free &nbsp;in&nbsp; Portals API , a web page navigation system that enables a page to show another page as an inset and "perform a seamless transition to a new state, where the formerly-inset page becomes the top-level document."  Clément Lecigne of Google Threat Analysis Group (TAG) has been credited with reporting the flaw. Additional specifics pertaining to the weakness have not been disclosed in light of active exploitation and to allow a majority of the users to apply the patch, but the internet giant said it's "aware that an exploit for CVE-2021-37973 exists in the wild."   The update arrives a day after Apple moved to close an actively exploited security hole in older versions of iOS and macOS ( CVE-2021-30869 ), which the TAG no
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange/Outlook Autodiscover Bug Spills $100K+ Email Passwords<a href="https://threatpost.com/exchange-outlook-autodiscover-bug-spills-100k-email-passwords/175004/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of thousands of email credentials, many of which double as Active Directory domain credentials, came through to credential-trapping domains in clear text. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Issues Patches for a New Critical Flaw in SMA 100 Series Devices<a href="https://thehackernews.com/2021/09/sonicwall-issues-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network security company SonicWall has addressed a critical security vulnerability affecting its Secure Mobile Access (SMA) 100 series appliances that can permit remote, unauthenticated attackers to gain administrator access on targeted devices remotely.  Tracked as&nbsp; CVE-2021-20034 , the arbitrary file deletion flaw is rated 9.1 out of a maximum of 10 on the CVSS scoring system, and could allow an adversary to bypass path traversal checks and delete any file, causing the devices to reboot to factory default settings.   "The vulnerability is due to an improper limitation of a file path to a restricted directory potentially leading to arbitrary file deletion as 'nobody,'" the San Jose-based firm&nbsp; noted &nbsp;in an advisory published Thursday. "There is no evidence that this vulnerability is being exploited in the wild."   SonicWall credited Wenxu Yin of Alpha Lab, Qihoo 360, with reporting the security shortcoming, which impacts SMA 100 Series — SMA 200, SMA 210,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-20034 flaw can allow SMA 100 device takeover, patch it now!<a href="https://securityaffairs.co/wordpress/122547/security/cve-2021-20034-sonicwall-sma-100.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall fixed a critical security flaw, tracked as CVE-2021-20034, that impacts some Secure Mobile Access (SMA) 100 series products that can allow device takeover. 
+
+
+
+SonicWall has addressed a critical security vulnerability, tracked as CVE-2021-20034,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Google Chrome update fixes zero-day exploited in the wild<a href="https://www.bleepingcomputer.com/news/security/emergency-google-chrome-update-fixes-zero-day-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 94.0.4606.61&nbsp;for Windows, Mac, and Linux, an emergency update addressing&nbsp;a high-severity zero-day vulnerability&nbsp;exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers fix multitude of vulnerabilities in Apache HTTP Server<a href="https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous security vulnerabilities have been identified and fixed in Apache HTTP Server 2.4, including high-impact server-side request forgery (SSRF) and request smuggling bugs.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

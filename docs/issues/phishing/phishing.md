@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Phishing Campaign Targets Governments in APAC and EMEA<a href="https://cyware.com/news/credential-phishing-campaign-targets-governments-in-apac-and-emea-1f70c835"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers were found disguising as various ministries in a phishing scheme targeting the government departments of at least seven countries in APAC and EMEA.  To date, at least 15 pages are actively targeting the governments of Belarus, Georgia, Kyrgyzstan, Pakistan, Turkmenistan, Ukraine, and Uzbeki ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,60 @@ nav_order: 900015
 
 ## Attack
 ---
+September 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Port of Houston was hit by an alleged state-sponsored attack<a href="https://securityaffairs.co/wordpress/122599/hacking/port-of-houston-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month, the Port of Houston, one of the major US ports, was hit by a cyber attack allegedly orchestrated by a nation-state actor. 
+
+
+
+One of the major US ports, the Port of Houston, revealed that it was hit by a cyber attack in August that had no impact...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JSC GREC Makeyev and other Russian entities under attack<a href="https://securityaffairs.co/wordpress/122589/hacking/jsc-grec-makeyev-russia-orgs-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage campaign hit multiple Russian organizations, including  JSC GREC Makeyev, a major defense contractor, exploiting a recently disclosed zero-day.
+
+
+
+Security researchers from Malwarebytes uncovered multiple attacks targeting many Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GSS, one of the major European call center providers, suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/122570/cyber-crime/gss-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The customer care and call center provider GSS has suffered a ransomware attack that crippled its systems and impacted its Spanish-speaking customers. 
+
+
+
+GSS customer care and call center provider has suffered a ransomware attack that crippled its system...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
