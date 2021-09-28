@@ -8,6 +8,48 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators aim to increase oversight of cryptocurrency mining with new bill<a href="https://thehill.com//policy/cybersecurity/574149-senators-aim-to-increase-oversight-of-cryptocurrency-mining-with-new"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sens. Maggie Hassan (D-N.H.) and Joni ErnstJoni Kay ErnstOvernight Defense &amp; National Security — Presented by AM General — Afghan evacuation still frustrates Bipartisan momentum builds for war on terror memorial GOP senators unveil bill designating Taliban as terrorist organization MORE (R-Iowa) introduced legislation Monday intended to increase oversight of cryptocurrency mining overseas.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethereum dev admits to helping North Korea evade crypto sanctions<a href="https://www.bleepingcomputer.com/news/security/ethereum-dev-admits-to-helping-north-korea-evade-crypto-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency expert Virgil Griffith pled guilty today to assisting the Democratic People's Republic of Korea in evading U.S. sanctions by conspiring to violate the International Emergency Economic Powers Act (IEEPA) and&nbsp;Executive Order 13466.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious 'Safepal Wallet' Firefox add-on stole cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/malicious-safepal-wallet-firefox-add-on-stole-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Firefox add-on named "Safepal Wallet" lived on the Mozilla add-ons site for seven&nbsp;months and&nbsp;scammed users by emptying out their wallets. Safepal&nbsp;is a cryptocurrency wallet application capable of securely&nbsp;storing a variety of&nbsp;crypto assets, including Bitcoin, Ethereum, and Litecoin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

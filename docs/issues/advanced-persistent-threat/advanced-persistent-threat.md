@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Turla APT Group Deploying New Backdoor on Targeted Systems<a href="https://thehackernews.com/2021/09/russian-turla-apt-group-deploying-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored hackers affiliated with Russia are behind a new series of intrusions using a previously undocumented implant to compromise systems in the U.S., Germany, and Afghanistan.  Cisco Talos attributed the attacks to the&nbsp; Turla &nbsp;advanced persistent threat (APT) group, coining the malware "TinyTurla" for its limited functionality and efficient coding style that allows it to go undetected. Attacks incorporating the backdoor are believed to have occurred since 2020.   "This simple backdoor is likely used as a second-chance backdoor to maintain access to the system, even if the primary malware is removed," the researchers&nbsp; said . "It could also be used as a second-stage dropper to infect the system with additional malware." Furthermore, TinyTurla can upload and execute files or exfiltrate sensitive data from the infected machine to a remote server, while also polling the command-and-control (C2) station every five seconds for any new commands.  Also k
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

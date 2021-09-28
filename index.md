@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Nobelium uses custom malware to backdoor Windows domains<a href="https://www.bleepingcomputer.com/news/security/microsoft-nobelium-uses-custom-malware-to-backdoor-windows-domains/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake 'BT' caller steals from elderly victims in app scam<a href="https://www.theregister.com/2021/09/27/fake_bt_caller_fraud/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators aim to increase oversight of cryptocurrency mining with new bill<a href="https://thehill.com//policy/cybersecurity/574149-senators-aim-to-increase-oversight-of-cryptocurrency-mining-with-new"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Turla APT Group Deploying New Backdoor on Targeted Systems<a href="https://thehackernews.com/2021/09/russian-turla-apt-group-deploying-new.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reading Laws in the Digital Age<a href="https://www.lawfareblog.com/reading-laws-digital-age"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found RCE flaw in Visual Studio Code Remote Development Extension<a href="https://securityaffairs.co/wordpress/122638/hacking/rce-visual-studio-code-remote-development-extension.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Steps to Securing Your Network Perimeter<a href="https://threatpost.com/securing-network-perimeter/175043/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ethereum dev admits to helping North Korea evade crypto sanctions<a href="https://www.bleepingcomputer.com/news/security/ethereum-dev-admits-to-helping-north-korea-evade-crypto-sanctions/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data from Oath Keepers leaked online after alleged hack<a href="https://www.dailydot.com/debug/oath-keepers-hack/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Daily Dot
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Steals Financial Data from 378 Banking and Wallet Apps<a href="https://thehackernews.com/2021/09/new-android-malware-steals-financial.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jupyter infostealer continues to evolve and is distributed via MSI installers<a href="https://securityaffairs.co/wordpress/122627/cyber-crime/jupyter-infostealer-msi-installers.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes critical bugs in QVR video surveillance solution<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-bugs-in-qvr-video-surveillance-solution/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Escalating Conti Ransomware Attacks Major Cause of Concern<a href="https://cyware.com/news/escalating-conti-ransomware-attacks-major-cause-of-concern-cbbfad00"> Full Text</a>
@@ -254,7 +254,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Does DMARC Prevent Phishing?<a href="https://thehackernews.com/2021/09/how-does-dmarc-prevent-phishing.html"> Full Text</a>
@@ -270,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram is becoming the paradise of cyber criminals<a href="https://securityaffairs.co/wordpress/122609/cyber-crime/telegram-cybercrime.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware steals Steam, Epic Games Store, and EA Origin accounts<a href="https://www.bleepingcomputer.com/news/security/new-malware-steals-steam-epic-games-store-and-ea-origin-accounts/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Use Fake Installers to Drop Malware and Open Doors for Cryptomining and Credential Theft<a href="https://www.trendmicro.com/en_us/research/21/i/fake-installers-drop-malware-and-open-doors-for-opportunistic-attackers.html?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Federal Office for Information Security (BSI) investigates Chinese mobile phones<a href="https://securityaffairs.co/wordpress/122604/intelligence/bsi-investigates-chinese-mobile-phones.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious 'Safepal Wallet' Firefox add-on stole cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/malicious-safepal-wallet-firefox-add-on-stole-cryptocurrency/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SenseOn nabs $20M for faster, more accurate cybersecurity detection and response via its ‘triangulation’ approach<a href="https://techcrunch.com/2021/09/27/senseon-cybersecurity/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A multi-party data breach creates 26x the financial damage of single-party breach<a href="https://www.helpnetsecurity.com/2021/09/27/multi-party-data-breach/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QR codes temporarily removed from Sask. COVID-19 vaccine records due to ‘privacy breach’<a href="https://globalnews.ca/news/8219731/qr-codes-saskatchewan-covid-19-vaccine-records/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Global News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 130,000 malicious IP addresses were blocked during Australia Census 2021: AWS<a href="https://www.zdnet.com/article/more-than-130000-malicious-ip-addresses-were-blocked-during-census-2021-aws/?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Jupyter Malware Version is Being Distributed via MSI Installers<a href="https://thehackernews.com/2021/09/a-new-jupyter-malware-version-is-being.html"> Full Text</a>

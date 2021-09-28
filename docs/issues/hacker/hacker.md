@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Nobelium uses custom malware to backdoor Windows domains<a href="https://www.bleepingcomputer.com/news/security/microsoft-nobelium-uses-custom-malware-to-backdoor-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered new malware used by the Nobelium hacking group to deploy additional payloads and steal sensitive info from Active Directory Federation Services (AD FS) servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Use Fake Installers to Drop Malware and Open Doors for Cryptomining and Credential Theft<a href="https://www.trendmicro.com/en_us/research/21/i/fake-installers-drop-malware-and-open-doors-for-opportunistic-attackers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake installers of popular software are being used to deliver malware onto victims’ devices. These lures trick users into opening malicious documents or installing unwanted applications.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram is becoming the paradise of cyber criminals<a href="https://securityaffairs.co/wordpress/122609/cyber-crime/telegram-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telegram is becoming an essential platform for cybercriminal activities, crooks use it but and sell any kind of stolen data and hacking tools. 
+
+
+
+Many experts believe that the popular Telegram app is an efficient alternative to dark web marketplaces,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

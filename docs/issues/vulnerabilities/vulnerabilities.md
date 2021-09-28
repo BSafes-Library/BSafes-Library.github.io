@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found RCE flaw in Visual Studio Code Remote Development Extension<a href="https://securityaffairs.co/wordpress/122638/hacking/rce-visual-studio-code-remote-development-extension.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Italian cybersecurity firm Shielder found a remote code execution vulnerability in Visual Studio Code Remote Development Extension. 
+
+
+
+Visual Studio Code Remote Development&nbsp;allows users to adopt a container, remote machine, or the&nbsp;Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes critical bugs in QVR video surveillance solution<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-bugs-in-qvr-video-surveillance-solution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) maker QNAP has patched its QVR video management system against two critical-severity issues that could be exploited to run arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
