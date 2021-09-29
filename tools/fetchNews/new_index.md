@@ -34,7 +34,493 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA share VPN security tips to defend against hackers (edited) <a href="https://www.bleepingcomputer.com/news/security/nsa-cisa-share-vpn-security-tips-to-defend-against-hackers-edited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) have released guidance for hardening the security of virtual private network (VPN) solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FamousSparrow APT Launches Worldwide Attack Campaign<a href="https://cyware.com/news/famoussparrow-apt-launches-worldwide-attack-campaign-9964109d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FamousSparrow, a new entrant to the cyberespionage space, is reportedly spying on users across multiple sectors, including government, engineering, legal, and hospitality. It is  one of the earliest attackers leveraging Microsoft Exchange  ProxyLogon  vulnerabilities for its attacks. Its victims ar ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators roll out bill giving organizations 24 hours to report ransomware attack payments<a href="https://thehill.com//policy/cybersecurity/574367-senators-roll-out-bill-giving-organizations-24-hours-to-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the Senate Homeland Security and Governmental Affairs Committee on Tuesday introduced legislation that would give set timelines for cyber incident reporting, including giving certain organizations 24 hours to report if they paid the sum demanded in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence RCE Flaw Abused in Multiple Cyberattack Campaigns<a href="https://thehackernews.com/2021/09/atlassian-confluence-rce-flaw-abused-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opportunistic threat actors have been found actively exploiting a recently disclosed critical security flaw in Atlassian Confluence deployments across Windows and Linux to deploy web shells that result in the execution of crypto miners on compromised systems.  Tracked as  CVE-2021-26084  (CVSS score: 9.8), the vulnerability concerns an OGNL (Object-Graph Navigation Language) injection flaw that could be exploited to achieve arbitrary code execution on a Confluence Server or Data Center instance.  "A remote attacker can exploit this vulnerability by sending a crafted HTTP request containing a malicious parameter to a vulnerable server," researchers from Trend Micro  noted  in a technical write-up detailing the weakness. "Successful exploitation can result in arbitrary code execution in the security context of the affected server."   The vulnerability, which resides in the Webwork module of Atlassian Confluence Server and Data Center, stems from an insufficient valid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes a critical flaw in ServerProtec Solution, patch it now!<a href="https://securityaffairs.co/wordpress/122694/security/trend-micro-serverprotec-solution-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro has addressed a critical authentication bypass vulnerability, tracked as CVE-2021-36745, affecting the ServerProtect solution.
+
+
+
+Trend Micro has released security patches to address a critical authentication bypass vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent Account Takeovers in 2021<a href="https://threatpost.com/protect-account-takeover-cyberattacks/175090/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dave Stewart, Approov CEO, lays out six best practices for orgs to avoid costly account takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinFisher malware hijacks Windows Boot Manager with UEFI bootkit<a href="https://www.bleepingcomputer.com/news/security/finfisher-malware-hijacks-windows-boot-manager-with-uefi-bootkit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Commercially developed FinFisher malware now can infect Windows devices using a UEFI bootkit that it injects in the Windows Boot Manager.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TangleBot is Using Coronavirus Lures to Target Victims<a href="https://cyware.com/news/tanglebot-is-using-coronavirus-lures-to-target-victims-802f36e4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new smishing campaign, TangleBot was discovered targeting Android users in the U.S. and Canada with lures related to COVID-19 regulations and vaccine information.  Malicious messages, if clicked, notify users that their Flash player has become obsolete and must be updated. U sers need to be wa ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers look to include cyber incident reporting measure in annual defense spending bill<a href="https://thehill.com//policy/cybersecurity/574345-lawmakers-eye-defense-bill-as-pathway-for-cyber-incident-reporting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan legislation intended to require certain organizations to report cybersecurity incidents to the federal government could be included as part of the must-pass annual defense legislation, Senate Intelligence Committee Chairman Mark Warner (D-Va.) said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BloodyStealer Trojan Steals Gamers' Epic Games and Steam Accounts<a href="https://thehackernews.com/2021/09/new-bloodystealer-trojan-steals-gamers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new advanced trojan sold on Russian-speaking underground forums comes with capabilities to steal users' accounts on popular online video game distribution services, including Steam, Epic Games Store, and EA Origin, underscoring a growing threat to the lucrative gaming market.  Cybersecurity firm Kaspersky, which coined the malware " BloodyStealer ," said it first detected the malicious tool in March 2021 as being advertised for sale at an attractive price of 700 RUB (less than $10) for one month or $40 for a lifetime subscription. Attacks using Bloody Stealer have been uncovered so far in Europe, Latin America, and the Asia-Pacific region.   "BloodyStealer is a Trojan-stealer capable of gathering and exfiltrating various types of data, for cookies, passwords, forms, banking cards from browsers, screenshots, log-in memory, and sessions from various applications," the company  said . The information harvested from gaming apps, such as Bethesda, Epic Games, GOG,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A complete PoC exploit for CVE-2021-22005 in VMware vCenter is available online<a href="https://securityaffairs.co/wordpress/122686/hacking/cve-2021-22005-exploit-vmware-vcenter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exploit for the recently disclosed CVE-2021-22005 vulnerability in VMware vCenter was publicly released, threat actors are already using it.
+
+
+
+A working exploit for the CVE-2021-22005 vulnerability in VMware vCenter is publicly available, and attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamers Beware: Malware Hunts Steam, Epic and EA Origin Accounts<a href="https://threatpost.com/gamers-malware-steam-epic-ea-origin-accounts/175081/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BloodyStealer trojan helps cyberattackers go after in-game goods and credits.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine takes down call centers behind cryptocurrency investor scams<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-call-centers-behind-cryptocurrency-investor-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SBU) has taken down a network of six call centers in Lviv, used by a ring of scammers to defraud cryptocurrency and stock market investors worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncover new techniques used to spread FinSpy<a href="https://securelist.com/finspy-unseen-findings/104322/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from the Trojanized installers, Kaspersky observed infections involving usage of a UEFI or MBR bootkit. While the MBR infection is well known, details on the UEFI bootkit are newly revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Nobelium APT group uses custom backdoor to target Windows domains<a href="https://securityaffairs.co/wordpress/122673/apt/nobelium-foggyweb-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered new custom malware, dubbed FoggyWeb, used by the Nobelium cyberespionage group to implant backdoor in Windows domains.
+
+
+
+Microsoft Threat Intelligence Center (MSTIC) researchers have discovered a new custom malware, dubbed FoggyWeb...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange service mitigates high-risk bugs automatically<a href="https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-service-mitigates-high-risk-bugs-automatically/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added a new Exchange Server feature that automatically applies interim mitigations for high-risk (and likely actively exploited) security flaws to secure on-premises servers against incoming attacks and give admins more time to apply security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recognizing the Impact of a Multi-Party Data Breach<a href="https://cyware.com/news/recognizing-the-impact-of-a-multi-party-data-breach-24bc52c5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The past three years witnessed 108 ripples or multi-party breaches. According to RiskRecon and Cyentia Institute, the financial damage incurred from the worst ripple events is 26 times more than a single-party breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ERMAC, a new banking Trojan that borrows the code from Cerberus malware<a href="https://securityaffairs.co/wordpress/122657/malware/ermac-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ERMAC is a new Android banking Trojan that can steal financial data from 378 banking and wallet apps.
+
+
+
+Researchers from Threatfabric found in July a new Android banking trojan dubbed ERMAC that is almost fully based on the popular banking trojan Cerberus....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Working exploit released for VMware vCenter CVE-2021-22005 bug<a href="https://www.bleepingcomputer.com/news/security/working-exploit-released-for-vmware-vcenter-cve-2021-22005-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A complete exploit for the remote code execution vulnerability in VMware vCenter tracked as CVE-2021-22005 is now widely available, and threat actors are taking advantage of it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+69% of All Malware is Ransomware, Study Reveals<a href="https://cyware.com/news/69-of-all-malware-is-ransomware-study-reveals-ae301940"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research shows that ransomware attacks have attained stratospheric levels in the second half of this year. Malware attacks on Unix systems, orchestrators, and virtualization tools have also surged.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BloodyStealer malware is targeting the gaming sector<a href="https://securityaffairs.co/wordpress/122646/cyber-crime/bloodystealer-malware-targets-gamers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new malware, dubbed BloodyStealer, that could allow stealing accounts for multiple gaming platforms.
+
+
+
+Researchers from Kaspersky have spotted a new malware dubbed BloodyStealer that is being used by threat actors to steal accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese State-linked Threat Actors Infiltrated Major Afghan Telecom Provider Roshan<a href="https://therecord.media/suspected-chinese-state-linked-threat-actors-infiltrated-major-afghan-telecom-provider/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four distinct infiltrations by suspected Chinese-state-sponsored threat actors stole gigabytes of data from the corporate mail server of major Afghan telecom provider Roshan within the past year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai_ptea_Rimasuta variant is exploiting a new RUIJIE router 0 day to spread<a href="https://blog.netlab.360.com/rimasuta-spread-with-ruijie-0day-en/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai_ptea_Rimasuta now has a built-in mechanism to check if the running environment is a sandbox. It also encrypts the network traffic to counter the network level detection.
+</details>
+<div style="text-align: right" markdown="1">
+Netlab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The biggest problem with ransomware is not encryption, but credentials<a href="https://www.helpnetsecurity.com/2021/09/28/ransomware-credentials-problem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that are truly concerned about the massive growth in ransomware are working to understand the TTPs used by threat actors to craft preventative, detective, and responsive measures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Bots Being Used to Trick Users into Making PayPal and Venmo Payments to Fraudsters’ Accounts<a href="https://portswigger.net/daily-swig/social-media-scam-twitter-bots-are-tricking-users-into-making-paypal-and-venmo-payments-into-fraudsters-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bots appear to be activated when a legitimate user asks another for their payment information, presumably discovering these tweets via a keyword search for ‘PayPal’, ‘Venmo’, or other services.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of FoggyWeb Malware Targeting Active Directory FS Servers<a href="https://thehackernews.com/2021/09/microsoft-warns-of-foggyweb-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday revealed new malware deployed by the hacking group behind the SolarWinds supply chain attack last December to deliver additional payloads and steal sensitive information from Active Directory Federation Services ( AD FS ) servers.  The tech giant's Threat Intelligence Center (MSTIC) codenamed the "passive and highly targeted backdoor" FoggyWeb, making it the threat actor tracked as Nobelium's latest tool in a long list of cyber weaponry such as  Sunburst ,  Sunspot ,  Raindrop ,  Teardrop ,  GoldMax, GoldFinder, Sibot ,  Flipflop ,  NativeZone ,  EnvyScout, BoomBox, and VaporRage .   "Once Nobelium obtains credentials and successfully compromises a server, the actor relies on that access to maintain persistence and deepen its infiltration using sophisticated malware and tools," MSTIC researchers  said . "Nobelium uses FoggyWeb to remotely exfiltrate the configuration database of compromised AD FS servers, decrypted token-signing cer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Women, Minorities Are Hacked More Than Others<a href="https://threatpost.com/women-minorities-hacked/175038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Income level, education and being part of a disadvantaged population all contribute to cybercrime outcomes, a survey suggests.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU: Russia Behind ‘Ghostwriter’ Campaign Targeting Germany<a href="https://threatpost.com/eu-russia-ghostwriter-germany/175025/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not the first time that the disinformation/spearphishing campaign, which originally smeared NATO, has been linked to Russia. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bandwidth.com is latest victim of DDoS attacks against VoIP providers<a href="https://www.bleepingcomputer.com/news/security/bandwidthcom-is-latest-victim-of-ddos-attacks-against-voip-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bandwidth.com has become the latest victim of distributed denial of service attacks targeting VoIP providers this month, leading to nationwide voice outages over the past few days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Nobelium uses custom malware to backdoor Windows domains<a href="https://www.bleepingcomputer.com/news/security/microsoft-nobelium-uses-custom-malware-to-backdoor-windows-domains/"> Full Text</a>
@@ -50,7 +536,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake 'BT' caller steals from elderly victims in app scam<a href="https://www.theregister.com/2021/09/27/fake_bt_caller_fraud/?&web_view=true"> Full Text</a>
@@ -66,7 +552,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators aim to increase oversight of cryptocurrency mining with new bill<a href="https://thehill.com//policy/cybersecurity/574149-senators-aim-to-increase-oversight-of-cryptocurrency-mining-with-new"> Full Text</a>
@@ -82,7 +568,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Turla APT Group Deploying New Backdoor on Targeted Systems<a href="https://thehackernews.com/2021/09/russian-turla-apt-group-deploying-new.html"> Full Text</a>
@@ -98,7 +584,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reading Laws in the Digital Age<a href="https://www.lawfareblog.com/reading-laws-digital-age"> Full Text</a>
@@ -114,7 +600,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found RCE flaw in Visual Studio Code Remote Development Extension<a href="https://securityaffairs.co/wordpress/122638/hacking/rce-visual-studio-code-remote-development-extension.html"> Full Text</a>
@@ -134,7 +620,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Steps to Securing Your Network Perimeter<a href="https://threatpost.com/securing-network-perimeter/175043/"> Full Text</a>
@@ -150,7 +636,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ethereum dev admits to helping North Korea evade crypto sanctions<a href="https://www.bleepingcomputer.com/news/security/ethereum-dev-admits-to-helping-north-korea-evade-crypto-sanctions/"> Full Text</a>
@@ -166,7 +652,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data from Oath Keepers leaked online after alleged hack<a href="https://www.dailydot.com/debug/oath-keepers-hack/?&web_view=true"> Full Text</a>
@@ -182,7 +668,7 @@ Daily Dot
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Steals Financial Data from 378 Banking and Wallet Apps<a href="https://thehackernews.com/2021/09/new-android-malware-steals-financial.html"> Full Text</a>
@@ -198,7 +684,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jupyter infostealer continues to evolve and is distributed via MSI installers<a href="https://securityaffairs.co/wordpress/122627/cyber-crime/jupyter-infostealer-msi-installers.html"> Full Text</a>
@@ -222,7 +708,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes critical bugs in QVR video surveillance solution<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-bugs-in-qvr-video-surveillance-solution/"> Full Text</a>
@@ -238,7 +724,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Escalating Conti Ransomware Attacks Major Cause of Concern<a href="https://cyware.com/news/escalating-conti-ransomware-attacks-major-cause-of-concern-cbbfad00"> Full Text</a>
@@ -254,7 +740,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Does DMARC Prevent Phishing?<a href="https://thehackernews.com/2021/09/how-does-dmarc-prevent-phishing.html"> Full Text</a>
@@ -270,7 +756,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram is becoming the paradise of cyber criminals<a href="https://securityaffairs.co/wordpress/122609/cyber-crime/telegram-cybercrime.html"> Full Text</a>
@@ -290,7 +776,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware steals Steam, Epic Games Store, and EA Origin accounts<a href="https://www.bleepingcomputer.com/news/security/new-malware-steals-steam-epic-games-store-and-ea-origin-accounts/"> Full Text</a>
@@ -306,7 +792,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Use Fake Installers to Drop Malware and Open Doors for Cryptomining and Credential Theft<a href="https://www.trendmicro.com/en_us/research/21/i/fake-installers-drop-malware-and-open-doors-for-opportunistic-attackers.html?&web_view=true"> Full Text</a>
@@ -322,7 +808,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Federal Office for Information Security (BSI) investigates Chinese mobile phones<a href="https://securityaffairs.co/wordpress/122604/intelligence/bsi-investigates-chinese-mobile-phones.html"> Full Text</a>
@@ -342,7 +828,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious 'Safepal Wallet' Firefox add-on stole cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/malicious-safepal-wallet-firefox-add-on-stole-cryptocurrency/"> Full Text</a>
@@ -358,7 +844,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SenseOn nabs $20M for faster, more accurate cybersecurity detection and response via its ‘triangulation’ approach<a href="https://techcrunch.com/2021/09/27/senseon-cybersecurity/?&web_view=true"> Full Text</a>
@@ -374,7 +860,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A multi-party data breach creates 26x the financial damage of single-party breach<a href="https://www.helpnetsecurity.com/2021/09/27/multi-party-data-breach/?&web_view=true"> Full Text</a>
@@ -390,7 +876,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QR codes temporarily removed from Sask. COVID-19 vaccine records due to ‘privacy breach’<a href="https://globalnews.ca/news/8219731/qr-codes-saskatchewan-covid-19-vaccine-records/?&web_view=true"> Full Text</a>
@@ -406,7 +892,7 @@ Global News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 130,000 malicious IP addresses were blocked during Australia Census 2021: AWS<a href="https://www.zdnet.com/article/more-than-130000-malicious-ip-addresses-were-blocked-during-census-2021-aws/?&web_view=true"> Full Text</a>
@@ -422,7 +908,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2021
+September 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Jupyter Malware Version is Being Distributed via MSI Installers<a href="https://thehackernews.com/2021/09/a-new-jupyter-malware-version-is-being.html"> Full Text</a>
