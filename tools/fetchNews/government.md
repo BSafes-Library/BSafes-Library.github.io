@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Federal Office for Information Security (BSI) investigates Chinese mobile phones<a href="https://securityaffairs.co/wordpress/122604/intelligence/bsi-investigates-chinese-mobile-phones.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German Federal Office for Information Security is launching an investigation into the cybersecurity of certain Chinese mobile phones. 
+
+
+
+German Federal Office for Information Security (BSI) is launching an investigation into the cybersecurity of mobile...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 130,000 malicious IP addresses were blocked during Australia Census 2021: AWS<a href="https://www.zdnet.com/article/more-than-130000-malicious-ip-addresses-were-blocked-during-census-2021-aws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 130,000 malicious IP addresses were blocked to ensure no breaches or interruptions were experienced during what was deemed a successful Census 2021, according to Amazon Web Services (AWS).
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

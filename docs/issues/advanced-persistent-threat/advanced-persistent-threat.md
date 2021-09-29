@@ -8,6 +8,39 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FamousSparrow APT Launches Worldwide Attack Campaign<a href="https://cyware.com/news/famoussparrow-apt-launches-worldwide-attack-campaign-9964109d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FamousSparrow, a new entrant to the cyberespionage space, is reportedly spying on users across multiple sectors, including government, engineering, legal, and hospitality. It is  one of the earliest attackers leveraging Microsoft Exchange  ProxyLogon  vulnerabilities for its attacks. Its victims ar ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Nobelium APT group uses custom backdoor to target Windows domains<a href="https://securityaffairs.co/wordpress/122673/apt/nobelium-foggyweb-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered new custom malware, dubbed FoggyWeb, used by the Nobelium cyberespionage group to implant backdoor in Windows domains.
+
+
+
+Microsoft Threat Intelligence Center (MSTIC) researchers have discovered a new custom malware, dubbed FoggyWeb...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

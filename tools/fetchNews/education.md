@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Steps to Securing Your Network Perimeter<a href="https://threatpost.com/securing-network-perimeter/175043/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ekaterina Kilyusheva, head of the Information Security Analytics Research Group at Positive Technologies, offers a blueprint for locking up the fortress.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Does DMARC Prevent Phishing?<a href="https://thehackernews.com/2021/09/how-does-dmarc-prevent-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DMARC &nbsp;is a global standard for email authentication. It allows senders to verify that the email really comes from whom it claims to come from. This helps curb spam and phishing attacks, which are among the most prevalent cybercrimes of today. Gmail, Yahoo, and many other large email providers have implemented DMARC and praised its benefits in recent years.  If your company's domain name is bankofamerica.com, you do not want a cyber attacker to be able to send emails under that domain. This puts your brand reputation at risk and could potentially spread financial malware. The DMARC standard prevents this by checking whether emails are sent from an expected IP address or domain. It specifies how domains can be contacted if there are authentication or migration issues and provides forensic information so senders can monitor email traffic and quarantine suspicious emails.  What is a Phishing Attack?  Phishing is an attempt by cybercriminals to trick victims into giving away sensitive
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

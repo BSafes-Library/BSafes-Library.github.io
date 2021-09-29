@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data from Oath Keepers leaked online after alleged hack<a href="https://www.dailydot.com/debug/oath-keepers-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The roughly 5GB of data, which was provided by the hacker to DDoSecrets, contains everything from emails and internal chats to details on the organization’s members and donors.
+</details>
+<div style="text-align: right" markdown="1">
+Daily Dot
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A multi-party data breach creates 26x the financial damage of single-party breach<a href="https://www.helpnetsecurity.com/2021/09/27/multi-party-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+897 multi-party data breach incidents, also referred to as ripple events, have been observed since 2008. A median ripple breach event causes 10x financial loss than a traditional single-party breach.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

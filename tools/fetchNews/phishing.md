@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake 'BT' caller steals from elderly victims in app scam<a href="https://www.theregister.com/2021/09/27/fake_bt_caller_fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fraud incident happened last Thursday (23 September), prompting West Mercia Police to issue a bulletin warning people to be on their guard against suspicious phone calls.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

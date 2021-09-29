@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers uncover new techniques used to spread FinSpy<a href="https://securelist.com/finspy-unseen-findings/104322/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from the Trojanized installers, Kaspersky observed infections involving usage of a UEFI or MBR bootkit. While the MBR infection is well known, details on the UEFI bootkit are newly revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese State-linked Threat Actors Infiltrated Major Afghan Telecom Provider Roshan<a href="https://therecord.media/suspected-chinese-state-linked-threat-actors-infiltrated-major-afghan-telecom-provider/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four distinct infiltrations by suspected Chinese-state-sponsored threat actors stole gigabytes of data from the corporate mail server of major Afghan telecom provider Roshan within the past year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

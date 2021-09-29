@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recognizing the Impact of a Multi-Party Data Breach<a href="https://cyware.com/news/recognizing-the-impact-of-a-multi-party-data-breach-24bc52c5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The past three years witnessed 108 ripples or multi-party breaches. According to RiskRecon and Cyentia Institute, the financial damage incurred from the worst ripple events is 26 times more than a single-party breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

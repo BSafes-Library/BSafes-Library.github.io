@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence RCE Flaw Abused in Multiple Cyberattack Campaigns<a href="https://thehackernews.com/2021/09/atlassian-confluence-rce-flaw-abused-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opportunistic threat actors have been found actively exploiting a recently disclosed critical security flaw in Atlassian Confluence deployments across Windows and Linux to deploy web shells that result in the execution of crypto miners on compromised systems.  Tracked as&nbsp; CVE-2021-26084 &nbsp;(CVSS score: 9.8), the vulnerability concerns an OGNL (Object-Graph Navigation Language) injection flaw that could be exploited to achieve arbitrary code execution on a Confluence Server or Data Center instance.  "A remote attacker can exploit this vulnerability by sending a crafted HTTP request containing a malicious parameter to a vulnerable server," researchers from Trend Micro&nbsp; noted &nbsp;in a technical write-up detailing the weakness. "Successful exploitation can result in arbitrary code execution in the security context of the affected server."   The vulnerability, which resides in the Webwork module of Atlassian Confluence Server and Data Center, stems from an insufficient valid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro fixes a critical flaw in ServerProtec Solution, patch it now!<a href="https://securityaffairs.co/wordpress/122694/security/trend-micro-serverprotec-solution-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro has addressed a critical authentication bypass vulnerability, tracked as&nbsp;CVE-2021-36745,&nbsp;affecting the ServerProtect solution.
+
+
+
+Trend Micro has released security patches to address a critical authentication bypass vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A complete PoC exploit for CVE-2021-22005 in VMware vCenter is available online<a href="https://securityaffairs.co/wordpress/122686/hacking/cve-2021-22005-exploit-vmware-vcenter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exploit for the recently disclosed CVE-2021-22005 vulnerability in VMware vCenter was publicly released, threat actors are already using it.
+
+
+
+A working exploit for the CVE-2021-22005 vulnerability in VMware vCenter is publicly available, and attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange service mitigates high-risk bugs automatically<a href="https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-service-mitigates-high-risk-bugs-automatically/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added a new Exchange Server feature that automatically applies interim mitigations for high-risk (and likely actively exploited) security flaws to secure on-premises servers against incoming attacks and give admins more time to apply security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Working exploit released for VMware vCenter CVE-2021-22005 bug<a href="https://www.bleepingcomputer.com/news/security/working-exploit-released-for-vmware-vcenter-cve-2021-22005-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A complete exploit for the remote code execution vulnerability in VMware vCenter tracked as CVE-2021-22005 is now widely available, and threat actors are taking advantage of it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

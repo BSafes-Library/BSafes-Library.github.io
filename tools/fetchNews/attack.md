@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalating Conti Ransomware Attacks Major Cause of Concern<a href="https://cyware.com/news/escalating-conti-ransomware-attacks-major-cause-of-concern-cbbfad00"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA, the FBI, and the NSA published a joint alert, warning organizations of increased Conti activity. It states that the ransomware has been, so far, used in more than 400 attacks in the U.S. and other countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

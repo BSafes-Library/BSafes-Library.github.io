@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR codes temporarily removed from Sask. COVID-19 vaccine records due to ‘privacy breach’<a href="https://globalnews.ca/news/8219731/qr-codes-saskatchewan-covid-19-vaccine-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QR codes are being temporarily removed from residents’ COVID-19 vaccination records due to a situation that eHealth Saskatchewan is treating as a privacy breach incident.
+</details>
+<div style="text-align: right" markdown="1">
+Global News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

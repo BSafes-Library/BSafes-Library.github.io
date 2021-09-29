@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 28, 202 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent Account Takeovers in 2021<a href="https://threatpost.com/protect-account-takeover-cyberattacks/175090/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dave Stewart, Approov CEO, lays out six best practices for orgs to avoid costly account takeovers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
