@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA, CISA share VPN security tips to defend against hackers (edited) <a href="https://www.bleepingcomputer.com/news/security/nsa-cisa-share-vpn-security-tips-to-defend-against-hackers-edited/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FamousSparrow APT Launches Worldwide Attack Campaign<a href="https://cyware.com/news/famoussparrow-apt-launches-worldwide-attack-campaign-9964109d"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 202 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators roll out bill giving organizations 24 hours to report ransomware attack payments<a href="https://thehill.com//policy/cybersecurity/574367-senators-roll-out-bill-giving-organizations-24-hours-to-report"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Confluence RCE Flaw Abused in Multiple Cyberattack Campaigns<a href="https://thehackernews.com/2021/09/atlassian-confluence-rce-flaw-abused-in.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trend Micro fixes a critical flaw in ServerProtec Solution, patch it now!<a href="https://securityaffairs.co/wordpress/122694/security/trend-micro-serverprotec-solution-flaw.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 202 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Prevent Account Takeovers in 2021<a href="https://threatpost.com/protect-account-takeover-cyberattacks/175090/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 202 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FinFisher malware hijacks Windows Boot Manager with UEFI bootkit<a href="https://www.bleepingcomputer.com/news/security/finfisher-malware-hijacks-windows-boot-manager-with-uefi-bootkit/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TangleBot is Using Coronavirus Lures to Target Victims<a href="https://cyware.com/news/tanglebot-is-using-coronavirus-lures-to-target-victims-802f36e4"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers look to include cyber incident reporting measure in annual defense spending bill<a href="https://thehill.com//policy/cybersecurity/574345-lawmakers-eye-defense-bill-as-pathway-for-cyber-incident-reporting"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BloodyStealer Trojan Steals Gamers' Epic Games and Steam Accounts<a href="https://thehackernews.com/2021/09/new-bloodystealer-trojan-steals-gamers.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A complete PoC exploit for CVE-2021-22005 in VMware vCenter is available online<a href="https://securityaffairs.co/wordpress/122686/hacking/cve-2021-22005-exploit-vmware-vcenter.html"> Full Text</a>
@@ -220,7 +220,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gamers Beware: Malware Hunts Steam, Epic and EA Origin Accounts<a href="https://threatpost.com/gamers-malware-steam-epic-ea-origin-accounts/175081/"> Full Text</a>
@@ -236,7 +236,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine takes down call centers behind cryptocurrency investor scams<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-call-centers-behind-cryptocurrency-investor-scams/"> Full Text</a>
@@ -252,7 +252,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers uncover new techniques used to spread FinSpy<a href="https://securelist.com/finspy-unseen-findings/104322/?&web_view=true"> Full Text</a>
@@ -268,7 +268,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Nobelium APT group uses custom backdoor to target Windows domains<a href="https://securityaffairs.co/wordpress/122673/apt/nobelium-foggyweb-backdoor.html"> Full Text</a>
@@ -288,7 +288,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Microsoft Exchange service mitigates high-risk bugs automatically<a href="https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-service-mitigates-high-risk-bugs-automatically/"> Full Text</a>
@@ -304,7 +304,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recognizing the Impact of a Multi-Party Data Breach<a href="https://cyware.com/news/recognizing-the-impact-of-a-multi-party-data-breach-24bc52c5"> Full Text</a>
@@ -320,7 +320,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ERMAC, a new banking Trojan that borrows the code from Cerberus malware<a href="https://securityaffairs.co/wordpress/122657/malware/ermac-banking-trojan.html"> Full Text</a>
@@ -340,7 +340,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Working exploit released for VMware vCenter CVE-2021-22005 bug<a href="https://www.bleepingcomputer.com/news/security/working-exploit-released-for-vmware-vcenter-cve-2021-22005-bug/"> Full Text</a>
@@ -356,7 +356,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 69% of All Malware is Ransomware, Study Reveals<a href="https://cyware.com/news/69-of-all-malware-is-ransomware-study-reveals-ae301940"> Full Text</a>
@@ -372,7 +372,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BloodyStealer malware is targeting the gaming sector<a href="https://securityaffairs.co/wordpress/122646/cyber-crime/bloodystealer-malware-targets-gamers.html"> Full Text</a>
@@ -392,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Chinese State-linked Threat Actors Infiltrated Major Afghan Telecom Provider Roshan<a href="https://therecord.media/suspected-chinese-state-linked-threat-actors-infiltrated-major-afghan-telecom-provider/?&web_view=true"> Full Text</a>
@@ -408,7 +408,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai_ptea_Rimasuta variant is exploiting a new RUIJIE router 0 day to spread<a href="https://blog.netlab.360.com/rimasuta-spread-with-ruijie-0day-en/?&web_view=true"> Full Text</a>
@@ -424,7 +424,7 @@ Netlab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The biggest problem with ransomware is not encryption, but credentials<a href="https://www.helpnetsecurity.com/2021/09/28/ransomware-credentials-problem/?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter Bots Being Used to Trick Users into Making PayPal and Venmo Payments to Fraudsters’ Accounts<a href="https://portswigger.net/daily-swig/social-media-scam-twitter-bots-are-tricking-users-into-making-paypal-and-venmo-payments-into-fraudsters-accounts?&web_view=true"> Full Text</a>
@@ -456,7 +456,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of FoggyWeb Malware Targeting Active Directory FS Servers<a href="https://thehackernews.com/2021/09/microsoft-warns-of-foggyweb-malware.html"> Full Text</a>
@@ -472,7 +472,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Women, Minorities Are Hacked More Than Others<a href="https://threatpost.com/women-minorities-hacked/175038/"> Full Text</a>
@@ -488,7 +488,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU: Russia Behind ‘Ghostwriter’ Campaign Targeting Germany<a href="https://threatpost.com/eu-russia-ghostwriter-germany/175025/"> Full Text</a>
@@ -504,7 +504,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2021
+September 27, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bandwidth.com is latest victim of DDoS attacks against VoIP providers<a href="https://www.bleepingcomputer.com/news/security/bandwidthcom-is-latest-victim-of-ddos-attacks-against-voip-providers/"> Full Text</a>

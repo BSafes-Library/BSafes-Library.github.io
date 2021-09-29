@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2021 - NSA, CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA Release Guidance on Selecting and Hardening Remote Access VPNs <a href="https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2791320/nsa-cisa-release-guidance-on-selecting-and-hardening-remote-access-vpns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FORT MEADE, Md.   –   The National Security Agency and the Cybersecurity and Infrastructure Security Agency (CISA) released a joint Cybersecurity Information Sheet today detailing factors to consider when choosing a virtual private network (VPN) and top configurations for deploying it securely.  “Selecting and Hardening Remote Access VPN Solutions” also will help leaders in the Department of Defense, National Security Systems and the Defense Industrial Base better understand the risks associated with VPNs.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 22, 2021 - FBI, CISA, NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
