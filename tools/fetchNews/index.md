@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 29, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple Pay with VISA lets hackers force payments on locked iPhones<a href="https://www.bleepingcomputer.com/news/security/apple-pay-with-visa-lets-hackers-force-payments-on-locked-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers have found a way to make fraudulent payments using Apple Pay from a locked iPhone with a Visa card in the digital wallet set as a transit card.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Facebook open-sources tool to find Android app security flaws<a href="https://www.bleepingcomputer.com/news/security/facebook-open-sources-tool-to-find-android-app-security-flaws/"> Full Text</a>
 </p>
 <details>
