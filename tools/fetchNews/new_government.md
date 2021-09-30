@@ -8,6 +8,108 @@ nav_order: 900075
 
 ## Government
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers demand briefing on FBI's decision to withhold Kaseya decryption key<a href="https://thehill.com//policy/cybersecurity/574544-lawmakers-demand-briefing-on-fbis-decision-to-withhold-kaseya-decryption"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the House Oversight and Reform Committee on Wednesday demanded a briefing from the FBI on its decision to withhold for three weeks the decryption key necessary for companies impacted by the ransomware attack on IT company Kaseya to recover.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keep Attackers Out of VPNs: Feds Offer Guidance<a href="https://threatpost.com/vpns-nsa-cisa-guidance/175150/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA and CISA issued recommendations on choosing and hardening VPNs to prevent nation-state APTs from weaponizing flaws &amp; CVEs to break into protected networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests cybersecurity firm CEO after raiding offices<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-cybersecurity-firm-ceo-after-raiding-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian law enforcement on Tuesday has arrested Ilya Sachkov, the&nbsp;co-founder and CEO&nbsp;of cybersecurity company Group-IB, on suspicion of high treason resulting from sharing data with foreign intelligence..
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA to maintain 'rumor control' site to counter false claims in future elections<a href="https://thehill.com//policy/cybersecurity/574491-cisa-to-continue-rumor-control-site-to-counter-election-disinformation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) will&nbsp;use its "rumor control" website to counter disinformation and misinformation during future elections despite the site's role in former President Trump ousting several of the agency's top officials in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA release guidance on hardening remote access via VPN solutions<a href="https://securityaffairs.co/wordpress/122718/security/hardening-access-via-vpn-solutions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA and the NSA agencies have published guidance for securely using virtual private network (VPN) solutions.  
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) have released guidance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CFIUS, Team Telecom and China<a href="https://www.lawfareblog.com/cfius-team-telecom-and-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What have CFIUS and Team Telecom been up to?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA share VPN security tips to defend against hackers<a href="https://www.bleepingcomputer.com/news/security/nsa-cisa-share-vpn-security-tips-to-defend-against-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) have released guidance for hardening the security of virtual private network (VPN) solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

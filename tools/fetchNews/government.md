@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA share VPN security tips to defend against hackers (edited) <a href="https://www.bleepingcomputer.com/news/security/nsa-cisa-share-vpn-security-tips-to-defend-against-hackers-edited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) have released guidance for hardening the security of virtual private network (VPN) solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 202 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators roll out bill giving organizations 24 hours to report ransomware attack payments<a href="https://thehill.com//policy/cybersecurity/574367-senators-roll-out-bill-giving-organizations-24-hours-to-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the Senate Homeland Security and Governmental Affairs Committee on Tuesday introduced legislation that would give set timelines for cyber incident reporting, including giving certain organizations 24 hours to report if they paid the sum demanded in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU: Russia Behind ‘Ghostwriter’ Campaign Targeting Germany<a href="https://threatpost.com/eu-russia-ghostwriter-germany/175025/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not the first time that the disinformation/spearphishing campaign, which originally smeared NATO, has been linked to Russia. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

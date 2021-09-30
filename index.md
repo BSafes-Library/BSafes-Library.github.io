@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Pay with VISA lets hackers force payments on locked iPhones<a href="https://www.bleepingcomputer.com/news/security/apple-pay-with-visa-lets-hackers-force-payments-on-locked-iphones/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook open-sources tool to find Android app security flaws<a href="https://www.bleepingcomputer.com/news/security/facebook-open-sources-tool-to-find-android-app-security-flaws/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Navistar confirms data breach involved employee healthcare information<a href="https://portswigger.net/daily-swig/navistar-confirms-data-breach-involved-employee-healthcare-information?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers demand briefing on FBI's decision to withhold Kaseya decryption key<a href="https://thehill.com//policy/cybersecurity/574544-lawmakers-demand-briefing-on-fbis-decision-to-withhold-kaseya-decryption"> Full Text</a>
@@ -98,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Releases New Tool That Finds Security and Privacy Bugs in Android Apps<a href="https://thehackernews.com/2021/09/facebook-releases-new-tool-that-finds.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert discloses new iPhone lock screen vulnerability in iOS 15<a href="https://securityaffairs.co/wordpress/122740/hacking/lock-screen-vulnerability.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keep Attackers Out of VPNs: Feds Offer Guidance<a href="https://threatpost.com/vpns-nsa-cisa-guidance/175150/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia arrests cybersecurity firm CEO after raiding offices<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-cybersecurity-firm-ceo-after-raiding-offices/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE vulnerabilities in open source software Cachet could put users at risk<a href="https://portswigger.net/daily-swig/rce-vulnerabilities-in-open-source-software-cachet-could-put-users-at-risk?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House passes legislation to strengthen federal cybersecurity workforce<a href="https://thehill.com//policy/cybersecurity/574529-house-passes-legislation-to-strengthen-federal-cybersecurity-workforce"> Full Text</a>
@@ -198,7 +198,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware! This Android Trojan Stole Millions of Dollars from Over 10 Million Users<a href="https://thehackernews.com/2021/09/beware-this-android-trojan-stole.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GriftHorse malware infected more than 10 million Android phones from 70 countries<a href="https://securityaffairs.co/wordpress/122730/malware/grifthorse-malware-campaign.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Weaponize Telegram Bots to Compromise PayPal Accounts<a href="https://threatpost.com/telegram-bots-compromise-paypal/175099/"> Full Text</a>
@@ -250,7 +250,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases tool to help orgs fend off insider threat risks<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-help-orgs-fend-off-insider-threat-risks/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Code Signing Technique isn't that Effective, Maybe<a href="https://cyware.com/news/new-code-signing-technique-isnt-that-effective-maybe-85e827e5"> Full Text</a>
@@ -283,7 +283,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA to maintain 'rumor control' site to counter false claims in future elections<a href="https://thehill.com//policy/cybersecurity/574491-cisa-to-continue-rumor-control-site-to-counter-election-disinformation"> Full Text</a>
@@ -299,7 +299,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] Your First 90 Days as CISO — 9 Steps to Success<a href="https://thehackernews.com/2021/09/ebook-your-first-90-days-as-ciso-9.html"> Full Text</a>
@@ -315,7 +315,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA, CISA release guidance on hardening remote access via VPN solutions<a href="https://securityaffairs.co/wordpress/122718/security/hardening-access-via-vpn-solutions.html"> Full Text</a>
@@ -335,7 +335,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trucking giant Forward Air reports ransomware data breach<a href="https://www.bleepingcomputer.com/news/security/trucking-giant-forward-air-reports-ransomware-data-breach/"> Full Text</a>
@@ -351,7 +351,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple AirTag can be Abused to Redirect People to iCloud Phishing Pages<a href="https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/?&web_view=true"> Full Text</a>
@@ -367,7 +367,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting Brazil's PIX Payment System to Drain Users' Bank Accounts<a href="https://thehackernews.com/2021/09/hackers-targeting-brazils-pix-payment.html"> Full Text</a>
@@ -383,7 +383,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Group-IB CEO was put under arrest on treason charges<a href="https://securityaffairs.co/wordpress/122710/cyber-crime/group-ib-ceo-arrested-treason-changes.html"> Full Text</a>
@@ -403,7 +403,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Tomiris backdoor likely developed by SolarWinds hackers<a href="https://www.bleepingcomputer.com/news/security/new-tomiris-backdoor-likely-developed-by-solarwinds-hackers/"> Full Text</a>
@@ -419,7 +419,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Karma Ransomware Attempts New Tricks For Quick Ransom<a href="https://cyware.com/news/karma-ransomware-attempts-new-tricks-for-quick-ransom-2c2c196e"> Full Text</a>
@@ -436,7 +436,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FinSpy Malware Variant Infects Windows Systems With UEFI Bootkit<a href="https://thehackernews.com/2021/09/new-finspy-malware-variant-infects.html"> Full Text</a>
@@ -452,7 +452,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts observed for the first time FinFisher infections involving usage of a UEFI bootkit<a href="https://securityaffairs.co/wordpress/122698/malware/finfisher-uefi-bootkit.html"> Full Text</a>
@@ -472,7 +472,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android malware steals millions after infecting 10M phones<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-steals-millions-after-infecting-10m-phones/"> Full Text</a>
@@ -488,7 +488,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoppelDridex Delivered via Slack and Discord<a href="https://security-soup.net/doppeldridex-delivered-via-slack-and-discord/?&web_view=true"> Full Text</a>
@@ -504,7 +504,7 @@ Security Soup
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA544 Threat Group Targets Over 2,000 Italian Organizations with Ursnif Malware<a href="https://www.proofpoint.com/us/blog/security-briefs/ta544-targets-italian-organizations-ursnif-malware?&web_view=true"> Full Text</a>
@@ -520,7 +520,7 @@ Proofpoint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GriftHorse Android Trojan Steals Millions from Over 10 Million Victims Globally<a href="https://blog.zimperium.com/grifthorse-android-trojan-steals-millions-from-over-10-million-victims-globally/?&web_view=true"> Full Text</a>
@@ -536,7 +536,7 @@ Zimperium
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2021
+September 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Assessing subsidiary risk a top priority for most enterprises, yet they still lack proper visibility<a href="https://www.helpnetsecurity.com/2021/09/28/assessing-subsidiary-risk/?&web_view=true"> Full Text</a>
@@ -552,7 +552,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CFIUS, Team Telecom and China<a href="https://www.lawfareblog.com/cfius-team-telecom-and-china"> Full Text</a>
@@ -568,7 +568,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAS 2021: FinSpy Surveillance Kit Re-Emerges Stronger Than Ever<a href="https://threatpost.com/finspy-surveillance-kit/175068/"> Full Text</a>
@@ -584,7 +584,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2021
+September 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA, CISA share VPN security tips to defend against hackers<a href="https://www.bleepingcomputer.com/news/security/nsa-cisa-share-vpn-security-tips-to-defend-against-hackers/"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+69% of All Malware is Ransomware, Study Reveals<a href="https://cyware.com/news/69-of-all-malware-is-ransomware-study-reveals-ae301940"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research shows that ransomware attacks have attained stratospheric levels in the second half of this year. Malware attacks on Unix systems, orchestrators, and virtualization tools have also surged.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The biggest problem with ransomware is not encryption, but credentials<a href="https://www.helpnetsecurity.com/2021/09/28/ransomware-credentials-problem/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that are truly concerned about the massive growth in ransomware are working to understand the TTPs used by threat actors to craft preventative, detective, and responsive measures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Women, Minorities Are Hacked More Than Others<a href="https://threatpost.com/women-minorities-hacked/175038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Income level, education and being part of a disadvantaged population all contribute to cybercrime outcomes, a survey suggests.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

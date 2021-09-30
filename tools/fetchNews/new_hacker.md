@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Brazil's PIX Payment System to Drain Users' Bank Accounts<a href="https://thehackernews.com/2021/09/hackers-targeting-brazils-pix-payment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two newly discovered malicious Android applications on Google Play Store have been used to target users of Brazil's instant payment ecosystem in a likely attempt to lure victims into fraudulently transferring their entire account balances into another bank account under cybercriminals' control.  "The attackers distributed two different variants of banking malware, named PixStealer  and MalRhino , through two separate malicious applications […] to carry out their attacks," Check Point  Research said in an analysis shared with The Hacker News. "Both malicious applications were designed to steal money of victims through user interaction and the original PIX application."  The two apps in question, which were uncovered in April 2021, have since been removed from the app store.   Launched in November 2020 by the Central Bank of Brazil, the country's monetary authority,&nbsp; Pix &nbsp;is a state-owned payments platform that enables consumers and companies to make mone
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tomiris backdoor likely developed by SolarWinds hackers<a href="https://www.bleepingcomputer.com/news/security/new-tomiris-backdoor-likely-developed-by-solarwinds-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky security researchers&nbsp;have discovered a new backdoor likely developed by the Nobelium hacking group behind last year's SolarWinds supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA544 Threat Group Targets Over 2,000 Italian Organizations with Ursnif Malware<a href="https://www.proofpoint.com/us/blog/security-briefs/ta544-targets-italian-organizations-ursnif-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has observed nearly 20 notable campaigns distributing thousands of messages targeting Italian organizations this year, which equals 80% of the number of similar campaigns in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

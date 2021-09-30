@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers look to include cyber incident reporting measure in annual defense spending bill<a href="https://thehill.com//policy/cybersecurity/574345-lawmakers-eye-defense-bill-as-pathway-for-cyber-incident-reporting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bipartisan legislation intended to require certain organizations to report cybersecurity incidents to the federal government could be included as part of the must-pass annual defense legislation, Senate Intelligence Committee Chairman Mark Warner (D-Va.) said Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

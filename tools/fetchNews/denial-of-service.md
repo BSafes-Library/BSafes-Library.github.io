@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bandwidth.com is latest victim of DDoS attacks against VoIP providers<a href="https://www.bleepingcomputer.com/news/security/bandwidthcom-is-latest-victim-of-ddos-attacks-against-voip-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bandwidth.com has become the latest victim of distributed denial of service attacks&nbsp;targeting VoIP providers this month, leading to nationwide voice outages over the past few days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

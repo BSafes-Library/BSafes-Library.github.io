@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes legislation to strengthen federal cybersecurity workforce<a href="https://thehill.com//policy/cybersecurity/574529-house-passes-legislation-to-strengthen-federal-cybersecurity-workforce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday passed bipartisan legislation aimed at strengthening the federal cybersecurity workforce, an issue that has garnered support&nbsp;following a year of massive information security incidents.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO was put under arrest on treason charges<a href="https://securityaffairs.co/wordpress/122710/cyber-crime/group-ib-ceo-arrested-treason-changes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian media reported that the police made searches in the Moscow office of security firm Group-IB apparently linked to an investigation into a criminal case.
+
+
+
+The police made searches in the Moscow office of the threat intelligence firm Group-IB,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

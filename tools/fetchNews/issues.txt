@@ -30,6 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://threatpost.com/vpns-nsa-cisa-guidance/175150/
+. https://thehill.com//policy/cybersecurity/574491-cisa-to-continue-rumor-control-site-to-counter-election-disinformation
  
 Law
 

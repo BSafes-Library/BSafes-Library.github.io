@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Weaponize Telegram Bots to Compromise PayPal Accounts<a href="https://threatpost.com/telegram-bots-compromise-paypal/175099/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign is stealing one-time password tokens to gain access to PayPal, Apple Pay and Google Pay, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

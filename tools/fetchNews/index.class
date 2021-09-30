@@ -34,6 +34,572 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pay with VISA lets hackers force payments on locked iPhones<a href="https://www.bleepingcomputer.com/news/security/apple-pay-with-visa-lets-hackers-force-payments-on-locked-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers have found a way to make fraudulent payments using Apple Pay from a locked iPhone with a Visa card in the digital wallet set as a transit card.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook open-sources tool to find Android app security flaws<a href="https://www.bleepingcomputer.com/news/security/facebook-open-sources-tool-to-find-android-app-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook today open-sourced a static analysis tool its software and security engineers use internally to find potentially dangerous security and privacy flaws in the company's Android and Java applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navistar confirms data breach involved employee healthcare information<a href="https://portswigger.net/daily-swig/navistar-confirms-data-breach-involved-employee-healthcare-information?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially compromised data included the full names, addresses, dates of birth, and SSNs of an unspecified number of employees, according to an updated statement by Navistar on the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers demand briefing on FBI's decision to withhold Kaseya decryption key<a href="https://thehill.com//policy/cybersecurity/574544-lawmakers-demand-briefing-on-fbis-decision-to-withhold-kaseya-decryption"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the House Oversight and Reform Committee on Wednesday demanded a briefing from the FBI on its decision to withhold for three weeks the decryption key necessary for companies impacted by the ransomware attack on IT company Kaseya to recover. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Releases New Tool That Finds Security and Privacy Bugs in Android Apps<a href="https://thehackernews.com/2021/09/facebook-releases-new-tool-that-finds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Wednesday announced it's open-sourcing  Mariana Trench , an Android-focused static analysis platform the company uses to detect and prevent security and privacy bugs in applications created for the mobile operating system at scale.  "[Mariana Trench] is designed to be able to scan large mobile codebases and flag potential issues on  pull requests  before they make it into production," the Menlo Park-based social tech behemoth said .   In a nutshell, the utility allows developers to frame rules for different data flows to scan the codebase for in order to unearth potential issues — say,  intent   redirection   flaws  that could result in the leak of sensitive data or injection vulnerabilities that would allow adversaries to insert arbitrary code — explicitly setting boundaries as to where user-supplied data entering the app is allowed to come from (source) and flow into (sink) such as a database, file, web view, or a log.   Data flows found violating the rules
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discloses new iPhone lock screen vulnerability in iOS 15<a href="https://securityaffairs.co/wordpress/122740/hacking/lock-screen-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security researcher Jose Rodriguez discovered a new lock screen vulnerability for iOS 15 (& iOS 14.8) that has yet to be fixed.
+
+
+
+The security researcher  Jose Rodriguez (@VBarraquito) discovered a new lock screen vulnerability for iOS 15 (&...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keep Attackers Out of VPNs: Feds Offer Guidance<a href="https://threatpost.com/vpns-nsa-cisa-guidance/175150/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA and CISA issued recommendations on choosing and hardening VPNs to prevent nation-state APTs from weaponizing flaws & CVEs to break into protected networks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia arrests cybersecurity firm CEO after raiding offices<a href="https://www.bleepingcomputer.com/news/security/russia-arrests-cybersecurity-firm-ceo-after-raiding-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian law enforcement on Tuesday has arrested Ilya Sachkov, the co-founder and CEO of cybersecurity company Group-IB, on suspicion of high treason resulting from sharing data with foreign intelligence..
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE vulnerabilities in open source software Cachet could put users at risk<a href="https://portswigger.net/daily-swig/rce-vulnerabilities-in-open-source-software-cachet-could-put-users-at-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities in open source status page system Cachet could allow an attacker to execute arbitrary code and steal sensitive data, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes legislation to strengthen federal cybersecurity workforce<a href="https://thehill.com//policy/cybersecurity/574529-house-passes-legislation-to-strengthen-federal-cybersecurity-workforce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday passed bipartisan legislation aimed at strengthening the federal cybersecurity workforce, an issue that has garnered support following a year of massive information security incidents. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! This Android Trojan Stole Millions of Dollars from Over 10 Million Users<a href="https://thehackernews.com/2021/09/beware-this-android-trojan-stole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered "aggressive" mobile campaign has infected north of 10 million users from over 70 countries via seemingly innocuous Android apps that subscribe the individuals to premium services costing €36 (~$42) per month without their knowledge.  Zimperium zLabs dubbed the malicious trojan " GriftHorse ." The money-making scheme is believed to have been under active development starting from November 2020, with victims reported across Australia, Brazil, Canada, China, France, Germany, India, Russia, Saudi Arabia, Spain, the U.K., and the U.S.   No fewer than 200 trojan applications were used in the campaign, making it one of the most widespread scams to have been uncovered in 2021. What's more, the malicious apps catered to a varied set of categories ranging from Tools and Entertainment to Personalization, Lifestyle, and Dating, effectively widening the scale of the attacks. One of the apps, Handy Translator Pro, amassed as much as 500,000 downloads.  &qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GriftHorse malware infected more than 10 million Android phones from 70 countries<a href="https://securityaffairs.co/wordpress/122730/malware/grifthorse-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers uncovered a massive malware operation, dubbed  GriftHorse, that has already infected more than 10 million Android devices worldwide.
+
+
+
+Security researchers from Zimperium have uncovered a piece of malware, dubbed GriftHorse, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Weaponize Telegram Bots to Compromise PayPal Accounts<a href="https://threatpost.com/telegram-bots-compromise-paypal/175099/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign is stealing one-time password tokens to gain access to PayPal, Apple Pay and Google Pay, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases tool to help orgs fend off insider threat risks<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-help-orgs-fend-off-insider-threat-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released a new tool that allows public and private sector organizations to assess their vulnerability to insider threats and devise their own defense plans against such risks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Code Signing Technique isn't that Effective, Maybe<a href="https://cyware.com/news/new-code-signing-technique-isnt-that-effective-maybe-85e827e5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers highlighted a new threat in the form of OpenSUpdater used by cybercriminals who are targeting people prone to downloading cracked versions of games and other popular software in the U.S. However, Microsoft thinks attackers wouldn't be infecting devices via this technique and unde ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA to maintain 'rumor control' site to counter false claims in future elections<a href="https://thehill.com//policy/cybersecurity/574491-cisa-to-continue-rumor-control-site-to-counter-election-disinformation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) will use its "rumor control" website to counter disinformation and misinformation during future elections despite the site's role in former President Trump ousting several of the agency's top officials in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Your First 90 Days as CISO — 9 Steps to Success<a href="https://thehackernews.com/2021/09/ebook-your-first-90-days-as-ciso-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief Information Security Officers (CISOs) are an essential pillar of an organization's defense, and they must account for a lot. Especially for new CISOs, this can be a daunting task. The first 90 days for a new CISO are crucial in setting up their security team, so there is little time to waste, and much to accomplish.   Fortunately. A new guide by XDR provider Cynet ( download here ) looks to give new and veteran CISOs a durable foundation to build a successful security organization. The challenges faced by new CISOs aren't just logistical.  They include securing their environment from both known and unknown threats, dealing with stakeholders with unique needs and demands, and interfacing with management to show the value of strong security.   Therefore, having clearly defined steps planned out can help CISOs seize the opportunity for change and implement security capabilities that allow organizations to grow and prosper.  Security leaders can also leverage the willingness of orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA release guidance on hardening remote access via VPN solutions<a href="https://securityaffairs.co/wordpress/122718/security/hardening-access-via-vpn-solutions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA and the NSA agencies have published guidance for securely using virtual private network (VPN) solutions.  
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) have released guidance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trucking giant Forward Air reports ransomware data breach<a href="https://www.bleepingcomputer.com/news/security/trucking-giant-forward-air-reports-ransomware-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trucking giant Forward Air has disclosed a data breach after a ransomware attack that allowed threat actors to access employees' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple AirTag can be Abused to Redirect People to iCloud Phishing Pages<a href="https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anyone who finds the AirTag and scans it with an Apple or Android phone will immediately see a unique Apple URL with the owner’s message. This feature can be abused to redirect to a phishing page.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Brazil's PIX Payment System to Drain Users' Bank Accounts<a href="https://thehackernews.com/2021/09/hackers-targeting-brazils-pix-payment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two newly discovered malicious Android applications on Google Play Store have been used to target users of Brazil's instant payment ecosystem in a likely attempt to lure victims into fraudulently transferring their entire account balances into another bank account under cybercriminals' control.  "The attackers distributed two different variants of banking malware, named PixStealer  and MalRhino , through two separate malicious applications […] to carry out their attacks," Check Point  Research said in an analysis shared with The Hacker News. "Both malicious applications were designed to steal money of victims through user interaction and the original PIX application."  The two apps in question, which were uncovered in April 2021, have since been removed from the app store.   Launched in November 2020 by the Central Bank of Brazil, the country's monetary authority,  Pix  is a state-owned payments platform that enables consumers and companies to make mone
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO was put under arrest on treason charges<a href="https://securityaffairs.co/wordpress/122710/cyber-crime/group-ib-ceo-arrested-treason-changes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian media reported that the police made searches in the Moscow office of security firm Group-IB apparently linked to an investigation into a criminal case.
+
+
+
+The police made searches in the Moscow office of the threat intelligence firm Group-IB,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tomiris backdoor likely developed by SolarWinds hackers<a href="https://www.bleepingcomputer.com/news/security/new-tomiris-backdoor-likely-developed-by-solarwinds-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky security researchers have discovered a new backdoor likely developed by the Nobelium hacking group behind last year's SolarWinds supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karma Ransomware Attempts New Tricks For Quick Ransom<a href="https://cyware.com/news/karma-ransomware-attempts-new-tricks-for-quick-ransom-2c2c196e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a tactic to pressure victims into paying up, the lesser-known Karma ransomware group was discovered communicating with journalists about the victims. The attackers claimed to have stolen a few terabytes of internal data from a medical device-making firm. Organizations are recommended to increase ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FinSpy Malware Variant Infects Windows Systems With UEFI Bootkit<a href="https://thehackernews.com/2021/09/new-finspy-malware-variant-infects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Commercially developed FinFisher surveillanceware has been upgraded to infect Windows devices using a  UEFI  (Unified Extensible Firmware Interface) bootkit that leverages a trojanized Windows Boot Manager, marking a shift in infection vectors that allow it to elude discovery and analysis.  Detected in the wild since 2011, FinFisher (aka FinSpy or Wingbird) is a spyware toolset for Windows, macOS, and Linux developed by Anglo-German firm Gamma International and supplied exclusively to law enforcement and intelligence agencies. But like with NSO Group's Pegasus, the software has also been used to  spy on Bahraini activists  in the past allegedly and delivered as part of  spear-phishing campaigns  in September 2017.   FinFisher is equipped to harvest user credentials, file listings, sensitive documents, record keystrokes, siphon email messages from Thunderbird, Outlook, Apple Mail, and Icedove, intercept Skype contacts, chats, calls and transferred files, and capture audio and video
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts observed for the first time FinFisher infections involving usage of a UEFI bootkit<a href="https://securityaffairs.co/wordpress/122698/malware/finfisher-uefi-bootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a new variant of the FinFisher surveillance spyware that is able to hijack and replace the Windows UEFI bootloader to infect Windows machines.
+
+
+
+Malware researchers at Kaspersky have spotted a new improvement of the infamous commercial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malware steals millions after infecting 10M phones<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-steals-millions-after-infecting-10m-phones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale malware campaign has infected more than 10 million Android devices from over 70 countries and likely stole hundreds of millions from its victims by subscribing to paid services without their knowledge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoppelDridex Delivered via Slack and Discord<a href="https://security-soup.net/doppeldridex-delivered-via-slack-and-discord/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several recent phishing campaigns have attempted to deliver a variant of the Dridex banking trojan that is named as DoppelDridex, via payloads staged on Slack and Discord CDNs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Soup
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA544 Threat Group Targets Over 2,000 Italian Organizations with Ursnif Malware<a href="https://www.proofpoint.com/us/blog/security-briefs/ta544-targets-italian-organizations-ursnif-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has observed nearly 20 notable campaigns distributing thousands of messages targeting Italian organizations this year, which equals 80% of the number of similar campaigns in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GriftHorse Android Trojan Steals Millions from Over 10 Million Victims Globally<a href="https://blog.zimperium.com/grifthorse-android-trojan-steals-millions-from-over-10-million-victims-globally/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forensic evidence of this active Android Trojan attack, which Zimperium researchers have named GriftHorse, suggests that the threat group has been running this campaign since November 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Zimperium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Assessing subsidiary risk a top priority for most enterprises, yet they still lack proper visibility<a href="https://www.helpnetsecurity.com/2021/09/28/assessing-subsidiary-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of the organizations believe they are doing a good job managing subsidiary risk, yet 67% said their organization had experienced a cyberattack where the attack chain likely included a subsidiary.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CFIUS, Team Telecom and China<a href="https://www.lawfareblog.com/cfius-team-telecom-and-china"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What have CFIUS and Team Telecom been up to?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAS 2021: FinSpy Surveillance Kit Re-Emerges Stronger Than Ever<a href="https://threatpost.com/finspy-surveillance-kit/175068/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ‘nearly impossible to analyze’ version of the malware sports a bootkit and ‘steal-everything’ capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA share VPN security tips to defend against hackers<a href="https://www.bleepingcomputer.com/news/security/nsa-cisa-share-vpn-security-tips-to-defend-against-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) have released guidance for hardening the security of virtual private network (VPN) solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 28, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

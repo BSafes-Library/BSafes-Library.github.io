@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAS 2021: FinSpy Surveillance Kit Re-Emerges Stronger Than Ever<a href="https://threatpost.com/finspy-surveillance-kit/175068/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ‘nearly impossible to analyze’ version of the malware sports a bootkit and ‘steal-everything’ capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

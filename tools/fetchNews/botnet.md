@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TangleBot is Using Coronavirus Lures to Target Victims<a href="https://cyware.com/news/tanglebot-is-using-coronavirus-lures-to-target-victims-802f36e4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new smishing campaign, TangleBot was discovered targeting Android users in the U.S. and Canada with lures related to COVID-19 regulations and vaccine information.  Malicious messages, if clicked, notify users that their Flash player has become obsolete and must be updated. U sers need to be wa ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Bots Being Used to Trick Users into Making PayPal and Venmo Payments to Fraudsters’ Accounts<a href="https://portswigger.net/daily-swig/social-media-scam-twitter-bots-are-tricking-users-into-making-paypal-and-venmo-payments-into-fraudsters-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bots appear to be activated when a legitimate user asks another for their payment information, presumably discovering these tweets via a keyword search for ‘PayPal’, ‘Venmo’, or other services.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
