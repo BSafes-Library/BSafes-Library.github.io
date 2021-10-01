@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ELECTION SECURITY RUMOR VS. REALITY <a href="https://www.cisa.gov/rumorcontrol"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mis- and disinformation can undermine public confidence in the electoral process, as well as in our democracy.  Elections are administered by state and local officials who implement numerous safeguards to protect the security of your vote pursuant to various state and federal laws and processes. This resource is designed to debunk common misinformation and disinformation narratives and themes that relate broadly to the security of election infrastructure and related processes. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 22, 2021 - NSA, CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
