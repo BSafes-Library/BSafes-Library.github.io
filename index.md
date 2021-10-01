@@ -34,6 +34,544 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes bug that let attackers run malicious commands remotely<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-bug-that-let-attackers-run-malicious-commands-remotely/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) maker QNAP has released security patches for multiple vulnerabilities that could allow attackers to inject and execute malicious code and commands remotely on vulnerable NAS devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Enterprise-FireEye Products To Merge Into $2B Titan<a href="https://www.crn.com/news/security/mcafee-enterprise-fireeye-products-to-merge-into-2b-titan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The combined 5,000-employee company will be led by former Blackberry President and Cisco SVP Bryan Palma, while Ian Halifax, Riverbed Technology’s CFO since December 2019, will step into the CFO role.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House approves legislation to protect K-12 schools against cyberattacks<a href="https://thehill.com//policy/cybersecurity/574700-house-approves-legislation-to-protect-k-12-schools-against-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday unanimously passed legislation intended to help strengthen K-12 institutions against cyber threats, which have ticked up as classes have moved online during the COVID-19 pandemic. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Azure AD Bug Lets Hackers Brute-Force Passwords Without Getting Caught<a href="https://thehackernews.com/2021/09/new-azure-ad-bug-lets-hackers-brute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed an unpatched security vulnerability in the protocol used by Microsoft Azure Active Directory that potential adversaries could abuse to stage undetected brute-force attacks.  "This flaw allows threat actors to perform single-factor brute-force attacks against Azure Active Directory ( Azure AD ) without generating sign-in events in the targeted organization's tenant," researchers from Secureworks Counter Threat Unit (CTU)  said  in a report published on Wednesday.   Azure Active Directory is Microsoft's enterprise cloud-based identity and access management (IAM) solution designed for single sign-on (SSO) and multi-factor authentication. It's also a core component of Microsoft 365 (formerly Office 365), with capabilities to provide authentication to other applications via OAuth.  The weakness resides in the  Seamless Single Sign-On  feature that allows employees to automatically sign when using their corporate devices that ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts show how to make fraudulent payments using Apple Pay with VISA on locked iPhones<a href="https://securityaffairs.co/wordpress/122781/hacking/apple-pay-visa-iphone-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers devised a new attack method against iPhone owners using Apple Pay and Visa payment cards. 
+
+
+
+Boffins from the University of Birmingham and the University of Surrey exploited a series of vulnerabilities in an attack against iPhone...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Emergency Update Fixes Two Chrome Zero Days<a href="https://threatpost.com/google-emergency-update-chrome-zero-days/175266/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is the second pair of zero days that Google’s fixed this month, all four of which have been actively exploited in the wild. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix two zero-days<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-two-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 94.0.4606.71 for Windows, Mac, and Linux, to fix two zero-day vulnerabilities that have been exploited by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revived Mirai Variant Now Targets a Zero-Day in Ruijie Routers<a href="https://cyware.com/news/revived-mirai-variant-now-targets-a-zero-day-in-ruijie-routers-cab7c003"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai_ptea_Rimasuta, an old and unpopular variant of Mirai, has resurfaced to exploit a zero-day vulnerability in RUIJIE router devices.&nbsp;Hacker have redesigned encryption algorithm and C2 communication protocol; it uses the TEA algorithm and encrypts other sensitive resource info. Users are su ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incentivizing Developers is the Key to Better Security Practices<a href="https://thehackernews.com/2021/09/incentivizing-developers-is-key-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professional developers want to embrace DevSecOps and write secure code, but their organizations need to support this seachange if they want that effort to grow.  The cyber threat landscape is becoming more complex by the day. Attackers are constantly scanning networks for vulnerable applications, programs, cloud instances, and the latest flavor of the month is APIs, widely considered an easy win thanks to their often lax security controls.  They are so persistent that new apps can sometimes be compromised and exploited within hours of deployment. The Verizon 2021 Data Breach Investigations Report makes it very clear that the threats leveled against businesses and organizations  are more dangerous  today than at any other point in history.  It's becoming very clear that the only way to truly fortify the software being created is to ensure that it's built on secure code. In other words, the best way to stop the threat actor invasion is to deny them a foothold into your applications in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Android apps with 142.5 million collective installs leak user data<a href="https://securityaffairs.co/wordpress/122777/mobile-2/android-apps-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+14 top Android apps with 142.5 million installs are misconfigured, leaving their data exposed to unauthorized parties 
+
+
+
+Original post @ https://cybernews.com/security/research-popular-android-apps-with-142-5-million-collective-downloads-are-leaking-user-data/
+
+
+
+14...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tips & Tricks for Unmasking Ghoulish API Behavior<a href="https://threatpost.com/unmasking-ghoulish-api-behavior/175253/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses how to track user-agent connections to mobile and desktop APIs, to spot malicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Amnesty International Pegasus scanner used to infect Windows<a href="https://www.bleepingcomputer.com/news/security/fake-amnesty-international-pegasus-scanner-used-to-infect-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are trying to capitalize on the recent revelations on Pegasus spyware from Amnesty International to drop a less-known remote access tool called Sarwent.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Platforms Face a Major Threat from BloodyStealer<a href="https://cyware.com/news/gaming-platforms-face-a-major-threat-from-bloodystealer-2ee641c7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky uncovered a new trojan called BloodyStealer aimed at gamers' accounts on EA Origin, Steam, Epic Games, GOG, and other services.  Since its discovery, BloodyStealer has already targeted users based in Latin America, Asia Pacific, and Europe.  This latest development indicates the rapid pac ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage<a href="https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months.  Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud, while often underestimating novel and cloud-specific security or privacy issues.   Nearly every morning, the headlines are full of sensational news about tens of millions of health or financial records being found in unprotected cloud storage like AWS S3 buckets, Microsoft Azure blobs or another cloud-native storage service by the growing number of smaller cloud security providers.   ImmuniWeb, a rapidly growing application security vendor that offers a variety of AI-driven products, has announced this week that its free  Community Edition , running over 150,000 daily security tests, now has one more online tool –  cloud security test .  To check your unprotected cloud storage, you just need to enter your
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use recently discovered CVE-2021-26084 Atlassian Confluence<a href="https://securityaffairs.co/wordpress/122769/hacking/cve-2021-26084-atlassian-confluence-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting the recently disclosed CVE-2021-26084 RCE vulnerability in Atlassian Confluence deployments.
+
+
+
+Trend Micro researchers have spotted crypto-mining campaigns that are actively exploiting a recently disclosed critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Innovative Proxy Phantom ATO Fraud Ring Haunts eCommerce Accounts<a href="https://threatpost.com/proxy-phantom-fraud-ecommerce-accounts/175241/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses millions of password combos at the rate of nearly 2,700 login attempts per minute with new techniques that push the ATO envelope. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEmperor hackers use new Windows 10 rootkit in attacks<a href="https://www.bleepingcomputer.com/news/security/ghostemperor-hackers-use-new-windows-10-rootkit-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking cyberspies have targeted Southeast Asian governmental entities and telecommunication companies for more than a year, backdooring systems running the latest Windows 10 versions with a newly discovered rootkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SecZetta Announces $20.5 Million Series B Funding<a href="https://finance.yahoo.com/news/seczetta-announces-20-5-million-124500288.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by SYN Ventures and MassMutual Ventures. The round also included participation from existing investors ClearSky and Rally Ventures, which strengthened their investments in SecZetta.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tomiris Backdoor Found Linked to Hackers Behind SolarWinds Cyberattack<a href="https://thehackernews.com/2021/09/new-tomiris-backdoor-found-linked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed a previously undocumented backdoor likely designed and developed by the Nobelium advanced persistent threat (APT) behind last year's  SolarWinds supply chain attack , joining the threat actor's ever-expanding arsenal of hacking tools.  Moscow-headquartered firm Kaspersky codenamed the malware " Tomiris ," calling out its similarities to another second-stage malware used during the campaign, SUNSHUTTLE (aka GoldMax), targeting the IT management software provider's Orion platform. Nobelium is also known by the monikers UNC2452, SolarStorm, StellarParticle, Dark Halo, and Iron Ritual.   "While supply-chain attacks were already a documented attack vector leveraged by a number of APT actors, this specific campaign stood out due to the extreme carefulness of the attackers and the high-profile nature of their victims," Kaspersky researchers  said . "Evidence gathered so far indicates that Dark Halo spent si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases Insider Risk Mitigation Self-Assessment Tool<a href="https://securityaffairs.co/wordpress/122762/security/cisa-insider-risk-mitigation-self-assessment-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA has released a new tool that allows to assess the level of exposure of organizations to insider threats and devise their own defense plans against such risks. 
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Top Ransomware Threats Aren’t Who You Think<a href="https://threatpost.com/the-top-ransomware-threats-arent-who-you-think/175164/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Move over REvil, Ragnar Locker, BlackMatter, Conti et al: Three lesser-known gangs account for the vast majority of ransomware attacks in the U.S. and globally.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JVCKenwood hit by Conti ransomware claiming theft of 1.5TB data<a href="https://www.bleepingcomputer.com/news/security/jvckenwood-hit-by-conti-ransomware-claiming-theft-of-15tb-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JVCKenwood has suffered a Conti ransomware attack where the threat actors claim to have stolen 1.7 TB of data and are demanding a $7 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEmperor: From ProxyLogon to kernel mode<a href="https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GhostEmperor uses a formerly unknown Windows kernel mode rootkit dubbed Demodex and a sophisticated multi-stage malware framework aimed at providing remote control over the attacked servers.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm Group-IB's CEO Arrested Over Treason Charges in Russia<a href="https://thehackernews.com/2021/09/cybersecurity-firm-group-ibs-ceo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian authorities on Wednesday  arrested  and detained Ilya Sachkov , the founder of cybersecurity firm Group-IB, for two months in Moscow on charges of state treason following a search of its office on September 28.  The Russian company, which is headquartered in Singapore, confirmed the development but noted the "reason for the search was not yet clear,"  adding  "The decentralized infrastructure of Group-IB allows us to keep our customer's data safe, maintain business operations and work without interruption across our offices in Russia and around the world."   Group IB said the raids at its Moscow office had commenced on Tuesday, with law enforcement authorities leaving that same evening. Kremlin Spokesman Dmitry Peskov said the government was aware of the arrest but that it had no additional details about the case, Russian state news agency TASS  reported .  The cybersecurity company  relocated  to Singapore in late 2018 as part of its attempts to distan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook released Mariana Trench tool to find flaws in Android and Java apps<a href="https://securityaffairs.co/wordpress/122751/security/mariana-trench-code-analysis-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook released Mariana Trench, an internal open-source tool that can be used to identify vulnerabilities in Android and Java applications. 
+
+
+
+The Facebook security team has open-sourced the code for Mariana Trench, an internal open-source tool used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of University Wi-Fi Networks Expose Log-In Credentials<a href="https://threatpost.com/misconfiguration-university-wifi-login-credentials/175157/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certificate misconfigurations of the EAP protocol in Eduroam (and likely other networks globally) threaten Android and Windows users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WireX DDoS botnet admin charged for attacking hotel chain<a href="https://www.bleepingcomputer.com/news/security/wirex-ddos-botnet-admin-charged-for-attacking-hotel-chain/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice charged the admin of the WireX Android botnet for targeting an American multinational hotel chain in a distributed denial-of-service (DDoS) attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+S2W raised over $10M of Series B funding<a href="https://finance.yahoo.com/news/s2w-inc-raised-over-10m-065400067.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the lead of LB Investment, KDB Development Bank, Magellan Technology Investment, YG Investment, Mirae Asset Venture Investment, Lotte Ventures, and DS Asset Management participated in the round.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX ransomware Linux encryptor may damage victims' files<a href="https://www.bleepingcomputer.com/news/security/ransomexx-ransomware-linux-encryptor-may-damage-victims-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Profero has discovered that the RansomExx gang does not correctly lock Linux files during encryption, leading to potentially corrupted files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proxy Phantom: Fraud rings flood online merchants with credential stuffing attacks<a href="https://www.zdnet.com/article/proxy-phantom-online-fraud-rings-flood-online-merchants-with-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraud prevention company Sift said the ring, dubbed Proxy Phantom, is using over 1.5 million sets of stolen account credentials in automated credential stuffing attacks against online merchants.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Congress asks FBI to explain delay in helping Kaseya atack victims<a href="https://www.bleepingcomputer.com/news/security/us-congress-asks-fbi-to-explain-delay-in-helping-kaseya-atack-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Committee on Oversight and Reform has requested a briefing to understand the rationale behind FBI's decision to delay providing the victims of the Kaseya REvil ransomware with an universal decryption key for three weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Users Targeted by Trojanized iTerm2 App<a href="https://www.trendmicro.com/en_us/research/21/i/mac-users-targeted-by-trojanized-iterm2-app.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When this app is executed, it downloads and runs a malicious Python script. This malware, which Trend Micro has detected as TrojanSpy.Python.ZURU.A, collects private data from a victim’s machine.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
