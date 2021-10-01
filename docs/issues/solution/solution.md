@@ -8,6 +8,56 @@ nav_order: 900195
 
 ## Solution
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage<a href="https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months.  Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud, while often underestimating novel and cloud-specific security or privacy issues.&nbsp;  Nearly every morning, the headlines are full of sensational news about tens of millions of health or financial records being found in unprotected cloud storage like AWS S3 buckets, Microsoft Azure blobs or another cloud-native storage service by the growing number of smaller cloud security providers.&nbsp;  ImmuniWeb, a rapidly growing application security vendor that offers a variety of AI-driven products, has announced this week that its free&nbsp; Community Edition , running over 150,000 daily security tests, now has one more online tool –&nbsp; cloud security test .  To check your unprotected cloud storage, you just need to enter your
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases Insider Risk Mitigation Self-Assessment Tool<a href="https://securityaffairs.co/wordpress/122762/security/cisa-insider-risk-mitigation-self-assessment-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA has released a new tool that allows to assess the level of exposure of organizations to insider threats and devise their own defense plans against such risks. 
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook released Mariana Trench tool to find flaws in Android and Java apps<a href="https://securityaffairs.co/wordpress/122751/security/mariana-trench-code-analysis-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook released Mariana Trench, an internal open-source tool that can be used to identify vulnerabilities in Android and Java applications. 
+
+
+
+The Facebook security team has open-sourced the code for Mariana Trench, an internal open-source tool used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

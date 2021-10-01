@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weaponizing Apple AirTag to lure users to malicious sites<a href="https://securityaffairs.co/wordpress/122788/hacking/weaponizing-apple-airtag.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors could exploit a stored cross-site scripting (XSS) vulnerability  in Apple AirTag product to lure users to malicious websites.
+
+
+
+Security researcher Bobby Rauch discovered a stored cross-site scripting (XSS) vulnerability in the Apple AirTag...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

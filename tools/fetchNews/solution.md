@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook open-sources tool to find Android app security flaws<a href="https://www.bleepingcomputer.com/news/security/facebook-open-sources-tool-to-find-android-app-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook today open-sourced a&nbsp;static analysis tool its software and security engineers use internally to find potentially dangerous security and privacy flaws in the company's Android and Java applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Releases New Tool That Finds Security and Privacy Bugs in Android Apps<a href="https://thehackernews.com/2021/09/facebook-releases-new-tool-that-finds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Wednesday announced it's open-sourcing&nbsp; Mariana Trench , an Android-focused static analysis platform the company uses to detect and prevent security and privacy bugs in applications created for the mobile operating system at scale.  "[Mariana Trench] is designed to be able to scan large mobile codebases and flag potential issues on&nbsp; pull requests &nbsp;before they make it into production," the Menlo Park-based social tech behemoth said .   In a nutshell, the utility allows developers to frame rules for different data flows to scan the codebase for in order to unearth potential issues — say,&nbsp; intent &nbsp; redirection &nbsp; flaws &nbsp;that could result in the leak of sensitive data or injection vulnerabilities that would allow adversaries to insert arbitrary code — explicitly setting boundaries as to where user-supplied data entering the app is allowed to come from (source) and flow into (sink) such as a database, file, web view, or a log.   Data flows found violating the rules
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases tool to help orgs fend off insider threat risks<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-tool-to-help-orgs-fend-off-insider-threat-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) has released a new tool that allows public and private sector organizations to assess their vulnerability to insider threats and devise their own defense plans against such risks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

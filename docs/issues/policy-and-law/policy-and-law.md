@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm Group-IB's CEO Arrested Over Treason Charges in Russia<a href="https://thehackernews.com/2021/09/cybersecurity-firm-group-ibs-ceo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian authorities on Wednesday&nbsp; arrested &nbsp;and detained Ilya Sachkov , the founder of cybersecurity firm Group-IB, for two months in Moscow on charges of state treason following a search of its office on September 28.  The Russian company, which is headquartered in Singapore, confirmed the development but noted the "reason for the search was not yet clear,"&nbsp; adding &nbsp;"The decentralized infrastructure of Group-IB allows us to keep our customer's data safe, maintain business operations and work without interruption across our offices in Russia and around the world."   Group IB said the raids at its Moscow office had commenced on Tuesday, with law enforcement authorities leaving that same evening. Kremlin Spokesman Dmitry Peskov said the government was aware of the arrest but that it had no additional details about the case, Russian state news agency TASS&nbsp; reported .  The cybersecurity company&nbsp; relocated &nbsp;to Singapore in late 2018 as part of its attempts to distan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

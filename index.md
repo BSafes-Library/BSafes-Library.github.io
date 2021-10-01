@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Around the world with the NSA’s cyber chief<a href="https://therecord.media/around-the-world-with-the-nsas-cyber-chief/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Fake Amnesty International Antivirus for Pegasus that Hacks PCs with Malware<a href="https://thehackernews.com/2021/10/beware-of-fake-amnesty-international.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Weaponizing Apple AirTag to lure users to malicious sites<a href="https://securityaffairs.co/wordpress/122788/hacking/weaponizing-apple-airtag.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report highlights cybersecurity dangers of Elastic Stack implementation mistakes<a href="https://www.zdnet.com/article/security-report-highlights-cybersecurity-dangers-of-elastic-stack-implementation-mistakes/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Stalkerware’ Apps Are Proliferating. Protect Yourself.<a href="https://www.nytimes.com/2021/09/29/technology/personaltech/stalkerware-apps-protection.html?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Google Chrome ASAP to Patch 2 New Actively Exploited Zero-Day Flaws<a href="https://thehackernews.com/2021/09/update-google-chrome-asap-to-patch-2.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes bug that let attackers run malicious commands remotely<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-bug-that-let-attackers-run-malicious-commands-remotely/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee Enterprise-FireEye Products To Merge Into $2B Titan<a href="https://www.crn.com/news/security/mcafee-enterprise-fireeye-products-to-merge-into-2b-titan?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House approves legislation to protect K-12 schools against cyberattacks<a href="https://thehill.com//policy/cybersecurity/574700-house-approves-legislation-to-protect-k-12-schools-against-cyberattacks"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Azure AD Bug Lets Hackers Brute-Force Passwords Without Getting Caught<a href="https://thehackernews.com/2021/09/new-azure-ad-bug-lets-hackers-brute.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts show how to make fraudulent payments using Apple Pay with VISA on locked iPhones<a href="https://securityaffairs.co/wordpress/122781/hacking/apple-pay-visa-iphone-attack.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Emergency Update Fixes Two Chrome Zero Days<a href="https://threatpost.com/google-emergency-update-chrome-zero-days/175266/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google pushes emergency Chrome update to fix two zero-days<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-two-zero-days/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revived Mirai Variant Now Targets a Zero-Day in Ruijie Routers<a href="https://cyware.com/news/revived-mirai-variant-now-targets-a-zero-day-in-ruijie-routers-cab7c003"> Full Text</a>
@@ -267,7 +267,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Incentivizing Developers is the Key to Better Security Practices<a href="https://thehackernews.com/2021/09/incentivizing-developers-is-key-to.html"> Full Text</a>
@@ -283,7 +283,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular Android apps with 142.5 million collective installs leak user data<a href="https://securityaffairs.co/wordpress/122777/mobile-2/android-apps-data-leak.html"> Full Text</a>
@@ -307,7 +307,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tips & Tricks for Unmasking Ghoulish API Behavior<a href="https://threatpost.com/unmasking-ghoulish-api-behavior/175253/"> Full Text</a>
@@ -323,7 +323,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Amnesty International Pegasus scanner used to infect Windows<a href="https://www.bleepingcomputer.com/news/security/fake-amnesty-international-pegasus-scanner-used-to-infect-windows/"> Full Text</a>
@@ -339,7 +339,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaming Platforms Face a Major Threat from BloodyStealer<a href="https://cyware.com/news/gaming-platforms-face-a-major-threat-from-bloodystealer-2ee641c7"> Full Text</a>
@@ -356,7 +356,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage<a href="https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html"> Full Text</a>
@@ -372,7 +372,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors use recently discovered CVE-2021-26084 Atlassian Confluence<a href="https://securityaffairs.co/wordpress/122769/hacking/cve-2021-26084-atlassian-confluence-vulnerability.html"> Full Text</a>
@@ -392,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Innovative Proxy Phantom ATO Fraud Ring Haunts eCommerce Accounts<a href="https://threatpost.com/proxy-phantom-fraud-ecommerce-accounts/175241/"> Full Text</a>
@@ -408,7 +408,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostEmperor hackers use new Windows 10 rootkit in attacks<a href="https://www.bleepingcomputer.com/news/security/ghostemperor-hackers-use-new-windows-10-rootkit-in-attacks/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SecZetta Announces $20.5 Million Series B Funding<a href="https://finance.yahoo.com/news/seczetta-announces-20-5-million-124500288.html?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Tomiris Backdoor Found Linked to Hackers Behind SolarWinds Cyberattack<a href="https://thehackernews.com/2021/09/new-tomiris-backdoor-found-linked-to.html"> Full Text</a>
@@ -456,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases Insider Risk Mitigation Self-Assessment Tool<a href="https://securityaffairs.co/wordpress/122762/security/cisa-insider-risk-mitigation-self-assessment-tool.html"> Full Text</a>
@@ -476,7 +476,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Top Ransomware Threats Aren’t Who You Think<a href="https://threatpost.com/the-top-ransomware-threats-arent-who-you-think/175164/"> Full Text</a>
@@ -492,7 +492,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JVCKenwood hit by Conti ransomware claiming theft of 1.5TB data<a href="https://www.bleepingcomputer.com/news/security/jvckenwood-hit-by-conti-ransomware-claiming-theft-of-15tb-data/"> Full Text</a>
@@ -508,7 +508,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostEmperor: From ProxyLogon to kernel mode<a href="https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/?&web_view=true"> Full Text</a>
@@ -524,7 +524,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Firm Group-IB's CEO Arrested Over Treason Charges in Russia<a href="https://thehackernews.com/2021/09/cybersecurity-firm-group-ibs-ceo.html"> Full Text</a>
@@ -540,7 +540,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook released Mariana Trench tool to find flaws in Android and Java apps<a href="https://securityaffairs.co/wordpress/122751/security/mariana-trench-code-analysis-tool.html"> Full Text</a>
@@ -560,7 +560,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of University Wi-Fi Networks Expose Log-In Credentials<a href="https://threatpost.com/misconfiguration-university-wifi-login-credentials/175157/"> Full Text</a>
@@ -576,7 +576,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WireX DDoS botnet admin charged for attacking hotel chain<a href="https://www.bleepingcomputer.com/news/security/wirex-ddos-botnet-admin-charged-for-attacking-hotel-chain/"> Full Text</a>
@@ -592,7 +592,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 S2W raised over $10M of Series B funding<a href="https://finance.yahoo.com/news/s2w-inc-raised-over-10m-065400067.html?&web_view=true"> Full Text</a>
@@ -608,7 +608,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX ransomware Linux encryptor may damage victims' files<a href="https://www.bleepingcomputer.com/news/security/ransomexx-ransomware-linux-encryptor-may-damage-victims-files/"> Full Text</a>
@@ -624,7 +624,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proxy Phantom: Fraud rings flood online merchants with credential stuffing attacks<a href="https://www.zdnet.com/article/proxy-phantom-online-fraud-rings-flood-online-merchants-with-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
@@ -640,7 +640,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Congress asks FBI to explain delay in helping Kaseya atack victims<a href="https://www.bleepingcomputer.com/news/security/us-congress-asks-fbi-to-explain-delay-in-helping-kaseya-atack-victims/"> Full Text</a>
@@ -656,7 +656,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2021
+September 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mac Users Targeted by Trojanized iTerm2 App<a href="https://www.trendmicro.com/en_us/research/21/i/mac-users-targeted-by-trojanized-iterm2-app.html?&web_view=true"> Full Text</a>

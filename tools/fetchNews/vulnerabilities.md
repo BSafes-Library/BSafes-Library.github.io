@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pay with VISA lets hackers force payments on locked iPhones<a href="https://www.bleepingcomputer.com/news/security/apple-pay-with-visa-lets-hackers-force-payments-on-locked-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers have found a way to make fraudulent payments using Apple Pay from a locked iPhone with a Visa card in the digital wallet set as a transit card.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discloses new iPhone lock screen vulnerability in iOS 15<a href="https://securityaffairs.co/wordpress/122740/hacking/lock-screen-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security researcher Jose Rodriguez discovered a new lock screen vulnerability for iOS 15 (&amp; iOS 14.8) that has yet to be fixed.
+
+
+
+The security researcher  Jose Rodriguez (@VBarraquito) discovered a new lock screen vulnerability for iOS 15 (&amp;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE vulnerabilities in open source software Cachet could put users at risk<a href="https://portswigger.net/daily-swig/rce-vulnerabilities-in-open-source-software-cachet-could-put-users-at-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities in open source status page system Cachet could allow an attacker to execute arbitrary code and steal sensitive data, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

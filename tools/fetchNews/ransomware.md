@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karma Ransomware Attempts New Tricks For Quick Ransom<a href="https://cyware.com/news/karma-ransomware-attempts-new-tricks-for-quick-ransom-2c2c196e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a tactic to pressure victims into paying up, the lesser-known Karma ransomware group was discovered communicating with journalists about the victims. The attackers claimed to have stolen a few terabytes of internal data from a medical device-making firm. Organizations are recommended to increase ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

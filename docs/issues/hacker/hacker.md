@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts show how to make fraudulent payments using Apple Pay with VISA on locked iPhones<a href="https://securityaffairs.co/wordpress/122781/hacking/apple-pay-visa-iphone-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers devised a new attack method against iPhone owners using Apple Pay and Visa payment cards. 
+
+
+
+Boffins from the University of Birmingham and the University of Surrey exploited a series of vulnerabilities in an attack against iPhone...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Innovative Proxy Phantom ATO Fraud Ring Haunts eCommerce Accounts<a href="https://threatpost.com/proxy-phantom-fraud-ecommerce-accounts/175241/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses millions of password combos at the rate of nearly 2,700 login attempts per minute with new techniques that push the ATO envelope. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEmperor hackers use new Windows 10 rootkit in attacks<a href="https://www.bleepingcomputer.com/news/security/ghostemperor-hackers-use-new-windows-10-rootkit-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking cyberspies have targeted Southeast Asian governmental entities and telecommunication companies for more than a year, backdooring systems running the latest Windows 10 versions with a newly discovered rootkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tomiris Backdoor Found Linked to Hackers Behind SolarWinds Cyberattack<a href="https://thehackernews.com/2021/09/new-tomiris-backdoor-found-linked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday disclosed a previously undocumented backdoor likely designed and developed by the Nobelium advanced persistent threat (APT) behind last year's&nbsp; SolarWinds supply chain attack , joining the threat actor's ever-expanding arsenal of hacking tools.  Moscow-headquartered firm Kaspersky codenamed the malware " Tomiris ,"&nbsp;calling out its similarities to another second-stage malware used during the campaign, SUNSHUTTLE (aka GoldMax), targeting the IT management software provider's Orion platform. Nobelium is also known by the monikers UNC2452, SolarStorm, StellarParticle, Dark Halo, and Iron Ritual.   "While supply-chain attacks were already a documented attack vector leveraged by a number of APT actors, this specific campaign stood out due to the extreme carefulness of the attackers and the high-profile nature of their victims," Kaspersky researchers&nbsp; said . "Evidence gathered so far indicates that Dark Halo spent si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

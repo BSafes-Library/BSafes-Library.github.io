@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around the world with the NSA’s cyber chief<a href="https://therecord.media/around-the-world-with-the-nsas-cyber-chief/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Almost every nation in the world now has a cyber exploitation program,” Rob Joyce, director of the NSA’s Cybersecurity Directorate, said during the Aspen Cyber Summit in Colorado.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House approves legislation to protect K-12 schools against cyberattacks<a href="https://thehill.com//policy/cybersecurity/574700-house-approves-legislation-to-protect-k-12-schools-against-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday unanimously passed legislation intended to help strengthen K-12 institutions against cyber threats, which have ticked up as classes have moved online during the COVID-19 pandemic.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Congress asks FBI to explain delay in helping Kaseya atack victims<a href="https://www.bleepingcomputer.com/news/security/us-congress-asks-fbi-to-explain-delay-in-helping-kaseya-atack-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Committee on Oversight and Reform has requested a briefing to understand the rationale behind FBI's decision to delay providing the victims of the Kaseya&nbsp;REvil ransomware with an universal decryption key for three weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

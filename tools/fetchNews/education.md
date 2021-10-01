@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Your First 90 Days as CISO — 9 Steps to Success<a href="https://thehackernews.com/2021/09/ebook-your-first-90-days-as-ciso-9.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief Information Security Officers (CISOs) are an essential pillar of an organization's defense, and they must account for a lot. Especially for new CISOs, this can be a daunting task. The first 90 days for a new CISO are crucial in setting up their security team, so there is little time to waste, and much to accomplish.&nbsp;  Fortunately. A new guide by XDR provider Cynet ( download here ) looks to give new and veteran CISOs a durable foundation to build a successful security organization. The challenges faced by new CISOs aren't just logistical.  They include securing their environment from both known and unknown threats, dealing with stakeholders with unique needs and demands, and interfacing with management to show the value of strong security.&nbsp;  Therefore, having clearly defined steps planned out can help CISOs seize the opportunity for change and implement security capabilities that allow organizations to grow and prosper.  Security leaders can also leverage the willingness of orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 202 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

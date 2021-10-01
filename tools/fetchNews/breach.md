@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navistar confirms data breach involved employee healthcare information<a href="https://portswigger.net/daily-swig/navistar-confirms-data-breach-involved-employee-healthcare-information?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potentially compromised data included the full names, addresses, dates of birth, and SSNs of an unspecified number of employees, according to an updated statement by Navistar on the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trucking giant Forward Air reports ransomware data breach<a href="https://www.bleepingcomputer.com/news/security/trucking-giant-forward-air-reports-ransomware-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trucking giant Forward Air has disclosed a data breach after a ransomware attack that allowed threat actors to access employees' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

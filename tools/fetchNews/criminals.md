@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Code Signing Technique isn't that Effective, Maybe<a href="https://cyware.com/news/new-code-signing-technique-isnt-that-effective-maybe-85e827e5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers highlighted a new threat in the form of OpenSUpdater used by cybercriminals who are targeting people prone to downloading cracked versions of games and other popular software in the U.S. However, Microsoft thinks attackers wouldn't be infecting devices via this technique and unde ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

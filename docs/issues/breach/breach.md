@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular Android apps with 142.5 million collective installs leak user data<a href="https://securityaffairs.co/wordpress/122777/mobile-2/android-apps-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+14 top Android apps with 142.5 million installs are misconfigured, leaving their data exposed to unauthorized parties 
+
+
+
+Original post @ https://cybernews.com/security/research-popular-android-apps-with-142-5-million-collective-downloads-are-leaking-user-data/
+
+
+
+14...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of University Wi-Fi Networks Expose Log-In Credentials<a href="https://threatpost.com/misconfiguration-university-wifi-login-credentials/175157/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certificate misconfigurations of the EAP protocol in Eduroam (and likely other networks globally) threaten Android and Windows users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

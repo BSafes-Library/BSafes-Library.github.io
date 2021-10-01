@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incentivizing Developers is the Key to Better Security Practices<a href="https://thehackernews.com/2021/09/incentivizing-developers-is-key-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professional developers want to embrace DevSecOps and write secure code, but their organizations need to support this seachange if they want that effort to grow.  The cyber threat landscape is becoming more complex by the day. Attackers are constantly scanning networks for vulnerable applications, programs, cloud instances, and the latest flavor of the month is APIs, widely considered an easy win thanks to their often lax security controls.  They are so persistent that new apps can sometimes be compromised and exploited within hours of deployment. The Verizon 2021 Data Breach Investigations Report makes it very clear that the threats leveled against businesses and organizations&nbsp; are more dangerous &nbsp;today than at any other point in history.  It's becoming very clear that the only way to truly fortify the software being created is to ensure that it's built on secure code. In other words, the best way to stop the threat actor invasion is to deny them a foothold into your applications in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tips &amp; Tricks for Unmasking Ghoulish API Behavior<a href="https://threatpost.com/unmasking-ghoulish-api-behavior/175253/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jason Kent, hacker-in-residence at Cequence Security, discusses how to track user-agent connections to mobile and desktop APIs, to spot malicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
