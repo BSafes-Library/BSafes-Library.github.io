@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome ASAP to Patch 2 New Actively Exploited Zero-Day Flaws<a href="https://thehackernews.com/2021/09/update-google-chrome-asap-to-patch-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday pushed urgent security fixes for its Chrome browser, including a pair of two new security weaknesses that the company said are being exploited in the wild, making them the fourth and fifth actively zero-days plugged this month alone.  The issues, designed as  CVE-2021-37975 and CVE-2021-37976 , are part of a total of four patches, and concern a  use-after-free flaw  in V8 JavaScript and WebAssembly engine as well as an information leak in core.  As is usually the case, the tech giant has refrained from sharing any additional details regarding how these zero-day vulnerabilities were used in attacks until a majority of users are updated with the patches, but noted that it's aware that "exploits for CVE-2021-37975 and CVE-2021-37976 exist in the wild."   An anonymous researcher has been credited with reporting CVE-2021-37975. The discovery of CVE-2021-37976, on the other hand, involves Clément Lecigne from Google Threat Analysis Group, who was also credit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixes bug that let attackers run malicious commands remotely<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-bug-that-let-attackers-run-malicious-commands-remotely/"> Full Text</a>
 </p>
 <details>

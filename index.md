@@ -34,6 +34,90 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around the world with the NSA’s cyber chief<a href="https://therecord.media/around-the-world-with-the-nsas-cyber-chief/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Almost every nation in the world now has a cyber exploitation program,” Rob Joyce, director of the NSA’s Cybersecurity Directorate, said during the Aspen Cyber Summit in Colorado.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Fake Amnesty International Antivirus for Pegasus that Hacks PCs with Malware<a href="https://thehackernews.com/2021/10/beware-of-fake-amnesty-international.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another indicator of how hacking groups are quick to capitalize on world events and improvise their attack campaigns for maximum impact, threat actors have been discovered impersonating Amnesty International to distribute malware that purports to be security software designed to safeguard against NSO Group's Pegasus surveillanceware.   "Adversaries have set up a phony website that looks like Amnesty International's — a human rights-focused non-governmental organization — and points to a promised antivirus tool to protect against the NSO Group's Pegasus tool," Cisco Talos researchers  said . "However, the download actually installs the little-known Sarwent malware."   The countries most affected by the campaign include the U.K., the U.S., Russia, India, Ukraine, Czech Republic, Romania, and Colombia. While it's unclear as to how the victims are lured into visiting the fake Amnesty International website, the cybersecurity firm surmised the atta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weaponizing Apple AirTag to lure users to malicious sites<a href="https://securityaffairs.co/wordpress/122788/hacking/weaponizing-apple-airtag.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors could exploit a stored cross-site scripting (XSS) vulnerability  in Apple AirTag product to lure users to malicious websites.
+
+
+
+Security researcher Bobby Rauch discovered a stored cross-site scripting (XSS) vulnerability in the Apple AirTag...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report highlights cybersecurity dangers of Elastic Stack implementation mistakes<a href="https://www.zdnet.com/article/security-report-highlights-cybersecurity-dangers-of-elastic-stack-implementation-mistakes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm Salt Security discovered widespread mistakes that allowed them to launch attacks where any user could extract sensitive customer and system data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Stalkerware’ Apps Are Proliferating. Protect Yourself.<a href="https://www.nytimes.com/2021/09/29/technology/personaltech/stalkerware-apps-protection.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While these apps numbered in the hundreds a few years ago, they have since grown into the thousands. They are widely available on Google’s Play Store and to a lesser degree on Apple’s App Store.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 30, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
