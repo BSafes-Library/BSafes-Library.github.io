@@ -34,6 +34,478 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla: Superman, Batman, Spider-Man dominate list of passwords leaked in breaches<a href="https://www.zdnet.com/article/mozilla-superman-batman-spider-man-dominate-list-of-passwords-leaked-in-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Superhero-based passwords are increasingly showing up in datasets of breached information, according to a new blog post from Mozilla. Mozilla used data from haveibeenpwned.com to figure out the most common passwords found in breached datasets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Android banking Trojan spreads via fake security updates<a href="https://securityaffairs.co/wordpress/122839/malware/flubot-android-trojan-fake-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Flubot Android malware is now leveraging fake security updates warning to trick users into installing the malicious code.
+
+
+
+Threat actors behind the Flubot Android malware are now leveraging fake security updates to trick victims into installing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password-stealing Android malware uses sneaky security warning to trick you into downloading<a href="https://www.zdnet.com/article/password-stealing-android-malware-tricks-you-into-downloading-it-by-claiming-your-phone-is-already-infected/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FluBot attacks have commonly come in the form of text messages which claim the recipient has missed a delivery, asking them to click a link to install an app to organize a redelivery. This app installs the malware.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tim’s RED Team Research reports 3 new CVEs, two of which in 4G/5G<a href="https://securityaffairs.co/wordpress/122832/security/oracle-glassfish-nokia-netact-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecom Italia Red Team Research (RTR) laboratory led by Massimiliano Brolli reported three new flaws in Oracle GlassFish and Nokia NetAct. 
+
+
+
+Telecom Italia Red Team Research (RTR) laboratory led by Massimiliano Brolli, reported three new vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase says hackers stole cryptocurrency from at least 6,000 customers<a href="https://www.reuters.com/article/coinbase-cyber/coinbase-says-hackers-stole-cryptocurrency-from-at-least-6000-customers-idUSKBN2GR47T?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole from the accounts of at least 6,000 customers of Coinbase Global Inc, according to a breach notification letter sent by the cryptocurrency exchange to affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House to convene 30-country cybersecurity meeting<a href="https://www.zdnet.com/article/white-house-to-convene-30-country-cybersecurity-meeting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The topics of the meeting, President Biden said, will include combating cybercrime, improving law enforcement collaboration, stemming the illicit use of cryptocurrency, building trusted 5G technology and better securing supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 1st 2021 - "This was preventable"<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-1st-2021-this-was-preventable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week comes with reports of a hospital ransomware attack that led to the death of a baby and new efforts by governments worldwide to combat ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden 'confident' in the nation's cybersecurity efforts as Cybersecurity Awareness Month begins<a href="https://thehill.com//policy/cybersecurity/574933-biden-confident-in-the-nations-cybersecurity-efforts-as-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Friday expressed confidence in measures taken by his administration during his first months in office to secure the nation against mounting cyber threats as Cybersecurity Awareness Month kicks off.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pay Can be Abused to Make Contactless Payments From Locked iPhones<a href="https://thehackernews.com/2021/10/apple-pay-can-be-abused-to-make.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed an unpatched flaw in Apple Pay that attackers could abuse to make an unauthorized Visa payment with a locked iPhone by taking advantage of the Express Travel mode set up in the device's wallet.  "An attacker only needs a stolen, powered on iPhone. The transactions could also be relayed from an iPhone inside someone's bag, without their knowledge," a group of academics from the University of Birmingham and University of Surrey  said . "The attacker needs no assistance from the merchant and backend fraud detection checks have not stopped any of our test payments."   Express Travel  is a feature that allows users of iPhone and Apple Watch to make quick contactless payments for public transit without having to wake or unlock the device, open an app, or even validate with Face ID, Touch ID or a passcode.  The man-in-the-middle ( MitM ) replay and  relay attack , which involves bypassing the lock screen to make a payment t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyber Monoculture Risk<a href="https://www.lawfareblog.com/cyber-monoculture-risk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monoculture risk is manageable for most systems, but that isn’t the case for government systems. For these systems, monoculture vulnerability is a national security risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Glitch Leads to 6K+ Coinbase Customers Getting Robbed<a href="https://threatpost.com/mfa-glitch-coinbase-customers-robbery/175290/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase suspects phishing led to attackers getting personal details needed to access wallets but also blamed a flaw in its SMS-based 2FA. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US unites 30 countries to disrupt global ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-unites-30-countries-to-disrupt-global-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden said today announced today that the U.S. has brought together 30 countries to jointly crackdown on ransomware gangs behind a barrage of attacks impacting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neiman Marcus notifying 4.6M customers of data breach<a href="https://thehill.com//policy/cybersecurity/574918-neiman-marcus-notifying-46-million-customers-of-data-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department store Neiman Marcus announced Friday that it was in the process of notifying 4.6 million online customers that some of their data had been compromised as part of a data breach that took place last year.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used a New Rootkit to Spy on Targeted Windows 10 Users<a href="https://thehackernews.com/2021/10/chinese-hackers-used-new-rootkit-to-spy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A formerly unknown Chinese-speaking threat actor has been linked to a long-standing evasive operation aimed at South East Asian targets as far back as July 2020 to deploy a kernel-mode rootkit on compromised Windows systems.  Attacks mounted by the hacking group, dubbed  GhostEmperor  by Kaspersky, are also said to have used a "sophisticated multi-stage malware framework" that allows for providing persistence and remote control over the targeted hosts.  The Russian cybersecurity firm called the rootkit Demodex , with infections reported across several high-profile entities in Malaysia, Thailand, Vietnam, and Indonesia, in addition to outliers located in Egypt, Ethiopia, and Afghanistan.   "[Demodex] is used to hide the user mode malware's artefacts from investigators and security solutions, while demonstrating an interesting undocumented loading scheme involving the kernel mode component of an open-source project named  Cheat Engine  to bypass the Windows Driver Sig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC orders phone carriers to enforce unlawful robocall blocking<a href="https://www.bleepingcomputer.com/news/security/fcc-orders-phone-carriers-to-enforce-unlawful-robocall-blocking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) announced earlier this week that phone companies are now required to filter calls from providers who haven't complied with a deadline to block illegal robocalls that expired on September 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baby died at Alabama Springhill Medical Center due to cyber attack<a href="https://securityaffairs.co/wordpress/122820/security/child-dies-springhill-medical-center-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A baby allegedly received inadequate childbirth health care, and later died, at an Alabama Springhill Medical Center due to a ransomware attack.
+
+
+
+An Alabama woman named Teiranni Kidd has filed suit after the death of her baby, she claims that the  Springhill...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto platform mistakenly gives $90M to users, asks for refund<a href="https://www.bleepingcomputer.com/news/security/crypto-platform-mistakenly-gives-90m-to-users-asks-for-refund/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major blunder, cryptocurrency platform Compound accidentally paid out $90 million among its users. Shortly after the mistake, the platform's founder began asking users to return the money—or else they would be reported to IRS, and possibly doxxed, threatened the founder.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydra Android trojan campaign targets customers of European banks<a href="https://securityaffairs.co/wordpress/122807/cyber-crime/hydra-android-trojan-european-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new Hydra banking trojan campaign targeting European e-banking platform users, including the customers of Commerzbank.   
+
+
+
+Experts warn of a malware campaign targeting European e-banking platform users with the Hydra banking trojan....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoneyLion locks customer accounts after credential stuffing attacks<a href="https://www.bleepingcomputer.com/news/security/moneylion-locks-customer-accounts-after-credential-stuffing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The banking and investing platform MoneyLion had to lock customer accounts that were breached in credential stuffing attacks over the summer, in June and July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydra Android Trojan Campaign Targets Customers of Commerzbank and other European Banks<a href="https://securityaffairs.co/wordpress/122807/cyber-crime/hydra-android-trojan-european-banks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors set up a page posing as the official CommerzBank page and registered multiple domains on the same IP address. Crooks used the fake website to spread fake CommerzBank apps.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neiman Marcus discloses data breach, payment card data exposed<a href="https://securityaffairs.co/wordpress/122799/data-breach/neiman-marcus-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxury retail company Neiman Marcus Group has announced this week that it has suffered a data breach that impacted customer information.
+
+
+
+The attack against Neiman Marcus Group took place in May 2020, as a result of the attack, threat actors had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neiman Marcus sends notices of breach to 4.3 million customers<a href="https://www.bleepingcomputer.com/news/security/neiman-marcus-sends-notices-of-breach-to-43-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Neiman Marcus, the Texas-based luxury department stores chain, is sending notices of a data breach to roughly 4.3 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases New Tool to Help Organizations Guard Against Insider Threats<a href="https://www.cisa.gov/news/2021/09/28/cisa-releases-new-tool-help-organizations-guard-against-insider-threats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA released an Insider Risk Mitigation Self-Assessment Tool today, which assists public and private sector organizations in assessing their vulnerability to an insider threat.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/122792/security/google-chrome-2-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google rolled out urgent security updates to address two new actively exploited zero-day vulnerabilities in its Chrome browser.
+
+
+
+Google this week rolled out urgent security updates for the Chrome browser to address four security flaws, including two new zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FCC proposes rules to fight SIM swap and port-out fraud<a href="https://www.bleepingcomputer.com/news/security/the-fcc-proposes-rules-to-fight-sim-swap-and-port-out-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission in the U.S. this week announced that it started to work on rules that would pull the brake on SIM swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers rob thousands of Coinbase customers using MFA flaw<a href="https://www.bleepingcomputer.com/news/security/hackers-rob-thousands-of-coinbase-customers-using-mfa-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto exchange Coinbase disclosed that a threat actor stole cryptocurrency from 6,000 customers after using a vulnerability to bypass the company's SMS multi-factor authentication security feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flubot Android malware now spreads via fake security updates<a href="https://www.bleepingcomputer.com/news/security/flubot-android-malware-now-spreads-via-fake-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Flubot malware has switched to a new and likely more effective lure to compromise Android devices, now trying to trick its victims into infecting themselves with the help of fake security updates warning them of Flubot infections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydra malware targets customers of Germany's second largest bank<a href="https://www.bleepingcomputer.com/news/security/hydra-malware-targets-customers-of-germanys-second-largest-bank/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hydra banking trojan is back to targeting European e-banking platform users, and more specifically, customers of Commerzbank, Germany's second-largest financial institution.  
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
