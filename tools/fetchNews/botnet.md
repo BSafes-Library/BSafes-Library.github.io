@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WireX DDoS botnet admin charged for attacking hotel chain<a href="https://www.bleepingcomputer.com/news/security/wirex-ddos-botnet-admin-charged-for-attacking-hotel-chain/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US&nbsp;Department of Justice charged the admin of the WireX Android botnet for targeting an&nbsp;American&nbsp;multinational&nbsp;hotel chain in a&nbsp;distributed denial-of-service (DDoS) attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

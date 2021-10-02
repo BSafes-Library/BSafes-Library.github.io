@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report highlights cybersecurity dangers of Elastic Stack implementation mistakes<a href="https://www.zdnet.com/article/security-report-highlights-cybersecurity-dangers-of-elastic-stack-implementation-mistakes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm Salt Security discovered widespread mistakes that allowed them to launch attacks where any user could extract sensitive customer and system data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome ASAP to Patch 2 New Actively Exploited Zero-Day Flaws<a href="https://thehackernews.com/2021/09/update-google-chrome-asap-to-patch-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday pushed urgent security fixes for its Chrome browser, including a pair of two new security weaknesses that the company said are being exploited in the wild, making them the fourth and fifth actively zero-days plugged this month alone.  The issues, designed as&nbsp; CVE-2021-37975 and CVE-2021-37976 , are part of a total of four patches, and concern a&nbsp; use-after-free flaw &nbsp;in V8 JavaScript and WebAssembly engine as well as an information leak in core.  As is usually the case, the tech giant has refrained from sharing any additional details regarding how these zero-day vulnerabilities were used in attacks until a majority of users are updated with the patches, but noted that it's aware that "exploits for CVE-2021-37975 and CVE-2021-37976 exist in the wild."   An anonymous researcher has been credited with reporting CVE-2021-37975. The discovery of CVE-2021-37976, on the other hand, involves Clément Lecigne from Google Threat Analysis Group, who was also credit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixes bug that let attackers run malicious commands remotely<a href="https://www.bleepingcomputer.com/news/security/qnap-fixes-bug-that-let-attackers-run-malicious-commands-remotely/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based network-attached storage (NAS) maker QNAP has released security patches for multiple vulnerabilities that could allow attackers to inject and execute malicious code and commands remotely on vulnerable NAS devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Azure AD Bug Lets Hackers Brute-Force Passwords Without Getting Caught<a href="https://thehackernews.com/2021/09/new-azure-ad-bug-lets-hackers-brute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed an unpatched security vulnerability in the protocol used by Microsoft Azure Active Directory that potential adversaries could abuse to stage undetected brute-force attacks.  "This flaw allows threat actors to perform single-factor brute-force attacks against Azure Active Directory ( Azure AD ) without generating sign-in events in the targeted organization's tenant," researchers from Secureworks Counter Threat Unit (CTU)&nbsp; said &nbsp;in a report published on Wednesday.   Azure Active Directory is Microsoft's enterprise cloud-based identity and access management (IAM) solution designed for single sign-on (SSO) and multi-factor authentication. It's also a core component of Microsoft 365 (formerly Office 365), with capabilities to provide authentication to other applications via OAuth.  The weakness resides in the&nbsp; Seamless Single Sign-On &nbsp;feature that allows employees to automatically sign when using their corporate devices that ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Emergency Update Fixes Two Chrome Zero Days<a href="https://threatpost.com/google-emergency-update-chrome-zero-days/175266/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This is the second pair of zero days that Google’s fixed this month, all four of which have been actively exploited in the wild. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix two zero-days<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-two-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 94.0.4606.71 for Windows, Mac, and Linux, to fix two zero-day vulnerabilities that have been exploited by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use recently discovered CVE-2021-26084 Atlassian Confluence<a href="https://securityaffairs.co/wordpress/122769/hacking/cve-2021-26084-atlassian-confluence-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting the recently disclosed CVE-2021-26084 RCE vulnerability in Atlassian Confluence deployments.
+
+
+
+Trend Micro researchers have spotted crypto-mining campaigns that are actively exploiting a recently disclosed critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

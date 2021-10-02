@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 1st 2021 - "This was preventable"<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-1st-2021-this-was-preventable/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week comes with reports of a hospital ransomware attack that led to the death of a baby and new efforts by governments worldwide to combat ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

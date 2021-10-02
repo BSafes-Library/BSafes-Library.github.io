@@ -8,6 +8,48 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase says hackers stole cryptocurrency from at least 6,000 customers<a href="https://www.reuters.com/article/coinbase-cyber/coinbase-says-hackers-stole-cryptocurrency-from-at-least-6000-customers-idUSKBN2GR47T?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole from the accounts of at least 6,000 customers of Coinbase Global Inc, according to a breach notification letter sent by the cryptocurrency exchange to affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto platform mistakenly gives $90M to users, asks for refund<a href="https://www.bleepingcomputer.com/news/security/crypto-platform-mistakenly-gives-90m-to-users-asks-for-refund/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a major blunder, cryptocurrency platform Compound accidentally paid out $90 million among its users. Shortly after the mistake, the platform's founder began asking users to return the money—or&nbsp;else they would be reported to IRS, and possibly doxxed, threatened the founder.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers rob thousands of Coinbase customers using MFA flaw<a href="https://www.bleepingcomputer.com/news/security/hackers-rob-thousands-of-coinbase-customers-using-mfa-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto exchange Coinbase disclosed that a threat actor stole cryptocurrency from 6,000 customers after using a vulnerability to bypass the company's SMS multi-factor authentication security feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla: Superman, Batman, Spider-Man dominate list of passwords leaked in breaches<a href="https://www.zdnet.com/article/mozilla-superman-batman-spider-man-dominate-list-of-passwords-leaked-in-breaches/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flubot Android banking Trojan spreads via fake security updates<a href="https://securityaffairs.co/wordpress/122839/malware/flubot-android-trojan-fake-updates.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Password-stealing Android malware uses sneaky security warning to trick you into downloading<a href="https://www.zdnet.com/article/password-stealing-android-malware-tricks-you-into-downloading-it-by-claiming-your-phone-is-already-infected/?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tim’s RED Team Research reports 3 new CVEs, two of which in 4G/5G<a href="https://securityaffairs.co/wordpress/122832/security/oracle-glassfish-nokia-netact-flaws.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coinbase says hackers stole cryptocurrency from at least 6,000 customers<a href="https://www.reuters.com/article/coinbase-cyber/coinbase-says-hackers-stole-cryptocurrency-from-at-least-6000-customers-idUSKBN2GR47T?&web_view=true"> Full Text</a>
@@ -122,7 +122,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House to convene 30-country cybersecurity meeting<a href="https://www.zdnet.com/article/white-house-to-convene-30-country-cybersecurity-meeting/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 1st 2021 - "This was preventable"<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-1st-2021-this-was-preventable/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden 'confident' in the nation's cybersecurity efforts as Cybersecurity Awareness Month begins<a href="https://thehill.com//policy/cybersecurity/574933-biden-confident-in-the-nations-cybersecurity-efforts-as-cybersecurity"> Full Text</a>
@@ -170,7 +170,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Pay Can be Abused to Make Contactless Payments From Locked iPhones<a href="https://thehackernews.com/2021/10/apple-pay-can-be-abused-to-make.html"> Full Text</a>
@@ -186,7 +186,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cyber Monoculture Risk<a href="https://www.lawfareblog.com/cyber-monoculture-risk"> Full Text</a>
@@ -202,7 +202,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Glitch Leads to 6K+ Coinbase Customers Getting Robbed<a href="https://threatpost.com/mfa-glitch-coinbase-customers-robbery/175290/"> Full Text</a>
@@ -218,7 +218,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US unites 30 countries to disrupt global ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-unites-30-countries-to-disrupt-global-ransomware-attacks/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neiman Marcus notifying 4.6M customers of data breach<a href="https://thehill.com//policy/cybersecurity/574918-neiman-marcus-notifying-46-million-customers-of-data-breach"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Used a New Rootkit to Spy on Targeted Windows 10 Users<a href="https://thehackernews.com/2021/10/chinese-hackers-used-new-rootkit-to-spy.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC orders phone carriers to enforce unlawful robocall blocking<a href="https://www.bleepingcomputer.com/news/security/fcc-orders-phone-carriers-to-enforce-unlawful-robocall-blocking/"> Full Text</a>
@@ -282,7 +282,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Baby died at Alabama Springhill Medical Center due to cyber attack<a href="https://securityaffairs.co/wordpress/122820/security/child-dies-springhill-medical-center-ransomware.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto platform mistakenly gives $90M to users, asks for refund<a href="https://www.bleepingcomputer.com/news/security/crypto-platform-mistakenly-gives-90m-to-users-asks-for-refund/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hydra Android trojan campaign targets customers of European banks<a href="https://securityaffairs.co/wordpress/122807/cyber-crime/hydra-android-trojan-european-banks.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MoneyLion locks customer accounts after credential stuffing attacks<a href="https://www.bleepingcomputer.com/news/security/moneylion-locks-customer-accounts-after-credential-stuffing-attacks/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hydra Android Trojan Campaign Targets Customers of Commerzbank and other European Banks<a href="https://securityaffairs.co/wordpress/122807/cyber-crime/hydra-android-trojan-european-banks.html?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neiman Marcus discloses data breach, payment card data exposed<a href="https://securityaffairs.co/wordpress/122799/data-breach/neiman-marcus-data-breach.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neiman Marcus sends notices of breach to 4.3 million customers<a href="https://www.bleepingcomputer.com/news/security/neiman-marcus-sends-notices-of-breach-to-43-million-customers/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases New Tool to Help Organizations Guard Against Insider Threats<a href="https://www.cisa.gov/news/2021/09/28/cisa-releases-new-tool-help-organizations-guard-against-insider-threats?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ US CERT
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2021
+October 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/122792/security/google-chrome-2-zero-day-flaws.html"> Full Text</a>
@@ -442,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The FCC proposes rules to fight SIM swap and port-out fraud<a href="https://www.bleepingcomputer.com/news/security/the-fcc-proposes-rules-to-fight-sim-swap-and-port-out-fraud/"> Full Text</a>
@@ -458,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers rob thousands of Coinbase customers using MFA flaw<a href="https://www.bleepingcomputer.com/news/security/hackers-rob-thousands-of-coinbase-customers-using-mfa-flaw/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flubot Android malware now spreads via fake security updates<a href="https://www.bleepingcomputer.com/news/security/flubot-android-malware-now-spreads-via-fake-security-updates/"> Full Text</a>
@@ -490,7 +490,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2021
+October 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hydra malware targets customers of Germany's second largest bank<a href="https://www.bleepingcomputer.com/news/security/hydra-malware-targets-customers-of-germanys-second-largest-bank/"> Full Text</a>

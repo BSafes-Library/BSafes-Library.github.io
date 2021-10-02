@@ -8,6 +8,90 @@ nav_order: 900075
 
 ## Government
 ---
+October 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House to convene 30-country cybersecurity meeting<a href="https://www.zdnet.com/article/white-house-to-convene-30-country-cybersecurity-meeting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The topics of the meeting, President Biden said, will include combating cybercrime, improving law enforcement collaboration, stemming the illicit use of cryptocurrency, building trusted 5G technology and better securing supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden 'confident' in the nation's cybersecurity efforts as Cybersecurity Awareness Month begins<a href="https://thehill.com//policy/cybersecurity/574933-biden-confident-in-the-nations-cybersecurity-efforts-as-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Friday expressed confidence in measures taken by his administration during his first months in office to secure the nation against mounting cyber threats as Cybersecurity Awareness Month kicks off.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US unites 30 countries to disrupt global ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-unites-30-countries-to-disrupt-global-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden said today announced today that the U.S. has&nbsp;brought together 30 countries to jointly crackdown on ransomware gangs behind a barrage of attacks impacting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC orders phone carriers to enforce unlawful robocall blocking<a href="https://www.bleepingcomputer.com/news/security/fcc-orders-phone-carriers-to-enforce-unlawful-robocall-blocking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) announced earlier this week that phone companies are now required to filter calls from providers who haven't complied with a deadline to block illegal robocalls that expired on September 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases New Tool to Help Organizations Guard Against Insider Threats<a href="https://www.cisa.gov/news/2021/09/28/cisa-releases-new-tool-help-organizations-guard-against-insider-threats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA released an Insider Risk Mitigation Self-Assessment Tool today, which assists public and private sector organizations in assessing their vulnerability to an insider threat.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FCC proposes rules to fight SIM swap and port-out fraud<a href="https://www.bleepingcomputer.com/news/security/the-fcc-proposes-rules-to-fight-sim-swap-and-port-out-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission in the U.S. this week announced that it started to work on rules that would pull the brake on SIM swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

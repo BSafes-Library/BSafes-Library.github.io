@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Stalkerware’ Apps Are Proliferating. Protect Yourself.<a href="https://www.nytimes.com/2021/09/29/technology/personaltech/stalkerware-apps-protection.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While these apps numbered in the hundreds a few years ago, they have since grown into the thousands. They are widely available on Google’s Play Store and to a lesser degree on Apple’s App Store.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Amnesty International Pegasus scanner used to infect Windows<a href="https://www.bleepingcomputer.com/news/security/fake-amnesty-international-pegasus-scanner-used-to-infect-windows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are trying to capitalize on the recent revelations on Pegasus spyware from Amnesty International to drop a less-known remote access tool called Sarwent.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

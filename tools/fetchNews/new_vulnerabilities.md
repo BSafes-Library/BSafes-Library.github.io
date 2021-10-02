@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tim’s RED Team Research reports 3 new CVEs, two of which in 4G/5G<a href="https://securityaffairs.co/wordpress/122832/security/oracle-glassfish-nokia-netact-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecom Italia Red Team Research (RTR) laboratory led by Massimiliano Brolli reported three new flaws in Oracle GlassFish and Nokia NetAct. 
+
+
+
+Telecom Italia Red Team Research (RTR) laboratory led by Massimiliano Brolli, reported three new vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Pay Can be Abused to Make Contactless Payments From Locked iPhones<a href="https://thehackernews.com/2021/10/apple-pay-can-be-abused-to-make.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed an unpatched flaw in Apple Pay that attackers could abuse to make an unauthorized Visa payment with a locked iPhone by taking advantage of the Express Travel mode set up in the device's wallet.  "An attacker only needs a stolen, powered on iPhone. The transactions could also be relayed from an iPhone inside someone's bag, without their knowledge," a group of academics from the University of Birmingham and University of Surrey&nbsp; said . "The attacker needs no assistance from the merchant and backend fraud detection checks have not stopped any of our test payments."   Express Travel &nbsp;is a feature that allows users of iPhone and Apple Watch to make quick contactless payments for public transit without having to wake or unlock the device, open an app, or even validate with Face ID, Touch ID or a passcode.  The man-in-the-middle ( MitM ) replay and&nbsp; relay attack , which involves bypassing the lock screen to make a payment t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/122792/security/google-chrome-2-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google rolled out urgent security updates to address two new actively exploited zero-day vulnerabilities in its Chrome browser.
+
+
+
+Google this week rolled out urgent security updates for the Chrome browser to address four security flaws, including two new zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

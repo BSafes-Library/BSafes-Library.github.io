@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baby died at Alabama Springhill Medical Center due to cyber attack<a href="https://securityaffairs.co/wordpress/122820/security/child-dies-springhill-medical-center-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A baby allegedly received inadequate childbirth health care, and later died, at an Alabama Springhill Medical Center due to a ransomware attack.
+
+
+
+An Alabama woman named Teiranni Kidd has filed suit after the death of her baby, she claims that the  Springhill...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoneyLion locks customer accounts after credential stuffing attacks<a href="https://www.bleepingcomputer.com/news/security/moneylion-locks-customer-accounts-after-credential-stuffing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The banking and investing platform MoneyLion had to lock customer accounts that were breached in credential stuffing attacks over the summer, in June and July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydra Android Trojan Campaign Targets Customers of Commerzbank and other European Banks<a href="https://securityaffairs.co/wordpress/122807/cyber-crime/hydra-android-trojan-european-banks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors set up a page posing as the official CommerzBank page and registered multiple domains on the same IP address. Crooks used the fake website to spread fake CommerzBank apps.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee Enterprise-FireEye Products To Merge Into $2B Titan<a href="https://www.crn.com/news/security/mcafee-enterprise-fireeye-products-to-merge-into-2b-titan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The combined 5,000-employee company will be led by former Blackberry President and Cisco SVP Bryan Palma, while Ian Halifax, Riverbed Technology’s CFO since December 2019, will step into the CFO role.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SecZetta Announces $20.5 Million Series B Funding<a href="https://finance.yahoo.com/news/seczetta-announces-20-5-million-124500288.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by SYN Ventures and MassMutual Ventures. The round also included participation from existing investors ClearSky and Rally Ventures, which strengthened their investments in SecZetta.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+S2W raised over $10M of Series B funding<a href="https://finance.yahoo.com/news/s2w-inc-raised-over-10m-065400067.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the lead of LB Investment, KDB Development Bank, Magellan Technology Investment, YG Investment, Mirae Asset Venture Investment, Lotte Ventures, and DS Asset Management participated in the round.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

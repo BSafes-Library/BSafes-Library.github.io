@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used a New Rootkit to Spy on Targeted Windows 10 Users<a href="https://thehackernews.com/2021/10/chinese-hackers-used-new-rootkit-to-spy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A formerly unknown Chinese-speaking threat actor has been linked to a long-standing evasive operation aimed at South East Asian targets as far back as July 2020 to deploy a kernel-mode rootkit on compromised Windows systems.  Attacks mounted by the hacking group, dubbed&nbsp; GhostEmperor &nbsp;by Kaspersky, are also said to have used a "sophisticated multi-stage malware framework" that allows for providing persistence and remote control over the targeted hosts.  The Russian cybersecurity firm called the rootkit Demodex , with infections reported across several high-profile entities in Malaysia, Thailand, Vietnam, and Indonesia, in addition to outliers located in Egypt, Ethiopia, and Afghanistan.   "[Demodex] is used to hide the user mode malware's artefacts from investigators and security solutions, while demonstrating an interesting undocumented loading scheme involving the kernel mode component of an open-source project named&nbsp; Cheat Engine &nbsp;to bypass the Windows Driver Sig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

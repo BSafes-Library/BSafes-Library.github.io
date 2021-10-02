@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JVCKenwood hit by Conti ransomware claiming theft of 1.5TB data<a href="https://www.bleepingcomputer.com/news/security/jvckenwood-hit-by-conti-ransomware-claiming-theft-of-15tb-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JVCKenwood has suffered a Conti ransomware attack where the threat actors claim to have stolen 1.7 TB of data and are demanding a $7 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proxy Phantom: Fraud rings flood online merchants with credential stuffing attacks<a href="https://www.zdnet.com/article/proxy-phantom-online-fraud-rings-flood-online-merchants-with-credential-stuffing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fraud prevention company Sift said the ring, dubbed Proxy Phantom, is using over 1.5 million sets of stolen account credentials in automated credential stuffing attacks against online merchants.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

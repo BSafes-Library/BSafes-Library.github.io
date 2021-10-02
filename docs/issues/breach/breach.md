@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+October 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla: Superman, Batman, Spider-Man dominate list of passwords leaked in breaches<a href="https://www.zdnet.com/article/mozilla-superman-batman-spider-man-dominate-list-of-passwords-leaked-in-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Superhero-based passwords are increasingly showing up in datasets of breached information, according to a new blog post from Mozilla. Mozilla used data from haveibeenpwned.com to figure out the most common passwords found in breached datasets.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Glitch Leads to 6K+ Coinbase Customers Getting Robbed<a href="https://threatpost.com/mfa-glitch-coinbase-customers-robbery/175290/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase suspects phishing led to attackers getting personal details needed to access wallets but also blamed a flaw in its SMS-based 2FA. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neiman Marcus notifying 4.6M customers of data breach<a href="https://thehill.com//policy/cybersecurity/574918-neiman-marcus-notifying-46-million-customers-of-data-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Department store Neiman Marcus announced Friday that it was in the process of notifying 4.6 million online customers that some of their data had been&nbsp;compromised as part of a data breach that took place last year.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neiman Marcus discloses data breach, payment card data exposed<a href="https://securityaffairs.co/wordpress/122799/data-breach/neiman-marcus-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxury retail company Neiman Marcus Group has announced this week that it has suffered a data breach that impacted customer information.
+
+
+
+The attack against Neiman Marcus Group took place in May 2020, as a result of the attack, threat actors had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

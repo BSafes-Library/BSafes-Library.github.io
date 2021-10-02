@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Top Ransomware Threats Aren’t Who You Think<a href="https://threatpost.com/the-top-ransomware-threats-arent-who-you-think/175164/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Move over REvil, Ragnar Locker, BlackMatter, Conti et al: Three lesser-known gangs account for the vast majority of ransomware attacks in the U.S. and globally.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX ransomware Linux encryptor may damage victims' files<a href="https://www.bleepingcomputer.com/news/security/ransomexx-ransomware-linux-encryptor-may-damage-victims-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Profero has discovered that the RansomExx gang does not correctly lock Linux files during encryption, leading to potentially corrupted files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
