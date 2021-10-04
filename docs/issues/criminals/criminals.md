@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transnational fraud ring stole millions from Army members, veterans<a href="https://www.bleepingcomputer.com/news/security/transnational-fraud-ring-stole-millions-from-army-members-veterans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fredrick Brown, a former U.S. Army contrractor, was sentenced today to&nbsp;151 months in prison after admitting to his role in a conspiracy&nbsp;that targeted thousands of&nbsp;U.S. servicemembers and veterans&nbsp;and caused millions of dollars in losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA544 group behind a spike in Ursnif malware campaigns targeting Italy<a href="https://securityaffairs.co/wordpress/122875/malware/ta544-ursnif-campaigns-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers reported that TA544 threat actors are behind a new Ursnif campaign that is targeting Italian organizations.  
+
+
+
+Proofpoint researchers have discovered a new Ursnif baking Trojan campaign carried out by a group tracked as TA544...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

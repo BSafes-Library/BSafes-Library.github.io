@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2021
+October 03, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transnational fraud ring stole millions from Army members, veterans<a href="https://www.bleepingcomputer.com/news/security/transnational-fraud-ring-stole-millions-from-army-members-veterans/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2021
+October 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA544 group behind a spike in Ursnif malware campaigns targeting Italy<a href="https://securityaffairs.co/wordpress/122875/malware/ta544-ursnif-campaigns-italy.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2021
+October 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-38647 OMIGOD flaw impacts IBM QRadar Azure<a href="https://securityaffairs.co/wordpress/122869/security/cve-2021-38647-omigod-ibm-qradar-azure.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2021
+October 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 334<a href="https://securityaffairs.co/wordpress/122866/breaking-news/security-affairs-newsletter-round-334.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2021
+October 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biden administration will work with 30 countries to curb global cybercrime<a href="https://securityaffairs.co/wordpress/122861/cyber-crime/biden-administration-30-countries-cybercrime.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2021
+October 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 False election claims undermine efforts to increase security<a href="https://thehill.com//policy/cybersecurity/574983-false-election-claims-undermine-efforts-to-increase-security"> Full Text</a>
@@ -150,7 +150,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2021
+October 02, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandhills online machinery markets shut down by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sandhills-online-machinery-markets-shut-down-by-ransomware-attack/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2021
+October 2, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors exploit a flaw in Coinbase 2FA to steal user funds<a href="https://securityaffairs.co/wordpress/122846/hacking/coinbase-2fa-flaw.html"> Full Text</a>

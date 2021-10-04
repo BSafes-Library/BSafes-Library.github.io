@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandhills online machinery markets shut down by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sandhills-online-machinery-markets-shut-down-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry publication giant Sandhills Global has suffered a ransomware attack, causing hosted websites to become inaccessible and disrupting their business operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

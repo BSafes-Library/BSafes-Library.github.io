@@ -34,6 +34,158 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transnational fraud ring stole millions from Army members, veterans<a href="https://www.bleepingcomputer.com/news/security/transnational-fraud-ring-stole-millions-from-army-members-veterans/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fredrick Brown, a former U.S. Army contrractor, was sentenced today to 151 months in prison after admitting to his role in a conspiracy that targeted thousands of U.S. servicemembers and veterans and caused millions of dollars in losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA544 group behind a spike in Ursnif malware campaigns targeting Italy<a href="https://securityaffairs.co/wordpress/122875/malware/ta544-ursnif-campaigns-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers reported that TA544 threat actors are behind a new Ursnif campaign that is targeting Italian organizations.  
+
+
+
+Proofpoint researchers have discovered a new Ursnif baking Trojan campaign carried out by a group tracked as TA544...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-38647 OMIGOD flaw impacts IBM QRadar Azure<a href="https://securityaffairs.co/wordpress/122869/security/cve-2021-38647-omigod-ibm-qradar-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that CVE-2021-38647 OMIGOD flaws affect IBM QRadar Azure and can be exploited by remote attackers to execute arbitrary code.
+
+
+
+The Open Management Infrastructure RPM package in the IBM QRadar Azure marketplace images is affected by a remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 334<a href="https://securityaffairs.co/wordpress/122866/breaking-news/security-affairs-newsletter-round-334.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden administration will work with 30 countries to curb global cybercrime<a href="https://securityaffairs.co/wordpress/122861/cyber-crime/biden-administration-30-countries-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration announced it will work with 30 countries, including NATO allies and G7 partners, to curb global cybercrime. 
+
+
+
+U.S. President Joe Biden announced that the US will work with 30 countries to curb cybercrime and dismantle ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+False election claims undermine efforts to increase security<a href="https://thehill.com//policy/cybersecurity/574983-false-election-claims-undermine-efforts-to-increase-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials say the biggest threat facing U.S. elections isn't Russian hacking or domestic voter fraud but disinformation and misinformation increasingly undermining the public’s perception of voting security.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandhills online machinery markets shut down by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sandhills-online-machinery-markets-shut-down-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry publication giant Sandhills Global has suffered a ransomware attack, causing hosted websites to become inaccessible and disrupting their business operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit a flaw in Coinbase 2FA to steal user funds<a href="https://securityaffairs.co/wordpress/122846/hacking/coinbase-2fa-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole funds from the accounts of more than 6,000 users of the crypto exchange Coinbase exploiting a flaw to bypass 2FA authentication.
+
+
+
+Threat actors have exploited a vulnerability in the SMS-based two-factor authentication (2FA) system...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

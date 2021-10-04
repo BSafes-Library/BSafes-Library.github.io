@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-38647 OMIGOD flaw impacts IBM QRadar Azure<a href="https://securityaffairs.co/wordpress/122869/security/cve-2021-38647-omigod-ibm-qradar-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that CVE-2021-38647 OMIGOD flaws affect IBM QRadar Azure and can be exploited by remote attackers to execute arbitrary code.
+
+
+
+The Open Management Infrastructure RPM package in the IBM QRadar Azure marketplace images is affected by a remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
