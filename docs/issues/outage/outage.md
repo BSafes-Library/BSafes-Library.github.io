@@ -8,6 +8,70 @@ nav_order: 900140
 
 ## Outage
 ---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandhill Shut Down by Conti Ransomware Attack<a href="https://heimdalsecurity.com/blog/sandhills-shut-down-by-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The publication giant, Sandhill, suffered a ransomware attack that unfortunately caused hosted websites to become inaccessible, in this way disrupting their business operations.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook, WhatsApp, and Instagram are down worldwide, it’s panic online<a href="https://securityaffairs.co/wordpress/122949/breaking-news/facebook-whatsapp-instagram-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users worldwide are experiencing problems while accessing Facebook services, including Instagram and WhatsApp.
+
+
+
+Users worldwide are not able to access Facebook, Instagram, and WhatsApp services due to a BGP problems. Users attempting to visit the above...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pottawatomie County paid the ransom to recover its systems<a href="https://securityaffairs.co/wordpress/122933/cyber-crime/pottawatomie-county-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pottawatomie County restored operations that were suspended after a ransomware attack hit its systems on September 17, 2021. 
+
+
+
+Officials at Pottawatomie County announced to have fully recovered their IT infrastructure that was hit by a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pottawatomie County Fixing Systems After Ransomware Attack<a href="https://www.securityweek.com/pottawatomie-county-fixing-systems-after-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county resolved the attack by paying less than 10% of the hackers’ original demands, County Administrator Chad Kinsley said in a statement. The eastern Kansas county did not disclose the amount it paid.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

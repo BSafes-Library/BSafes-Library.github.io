@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Shortfalls of Mean Time Metrics in Cybersecurity<a href="https://thehackernews.com/2021/10/the-shortfalls-of-mean-time-metrics-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams at mid-sized organizations are constantly faced with the question of "what does success look like?". At ActZero, their continued data-driven approach to cybersecurity invites them to grapple daily with measuring, evaluating, and validating the work they do on behalf of their customers.&nbsp;  Like most, they initially turned toward the standard metrics used in cybersecurity, built around a "Mean Time to X" (MTTX) formula, where X indicates a specific milestone in the attack lifecycle. In this formula, these milestones include factors like Detect, Alert, Respond, Recover, or even Remediate when necessary.  However, as they started to operationalize their unique&nbsp; AI and machine-learning approach , they realized that "speed" measures weren't giving them a holistic view of the story. More importantly, simply measuring just speed wasn't as applicable in an industry where machine-driven alerts and responses were happening in fractions of secon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

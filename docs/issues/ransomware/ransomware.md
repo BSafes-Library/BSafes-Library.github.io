@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Atom Silo ransomware targets vulnerable Confluence servers<a href="https://www.bleepingcomputer.com/news/security/new-atom-silo-ransomware-targets-vulnerable-confluence-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atom Silo, a newly spotted ransomware group, is targeting a&nbsp;recently patched and actively exploited&nbsp;Confluence Server and Data Center vulnerability&nbsp;to deploy their ransomware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

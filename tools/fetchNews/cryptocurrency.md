@@ -11,6 +11,24 @@ nav_order: 900033
 October 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit a flaw in Coinbase 2FA to steal user funds<a href="https://securityaffairs.co/wordpress/122846/hacking/coinbase-2fa-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole funds from the accounts of more than 6,000 users of the crypto exchange Coinbase exploiting a flaw to bypass 2FA authentication.
+
+
+
+Threat actors have exploited a vulnerability in the SMS-based two-factor authentication (2FA) system...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Coinbase says hackers stole cryptocurrency from at least 6,000 customers<a href="https://www.reuters.com/article/coinbase-cyber/coinbase-says-hackers-stole-cryptocurrency-from-at-least-6000-customers-idUSKBN2GR47T?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

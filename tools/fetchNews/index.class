@@ -34,6 +34,410 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest mobile SMS routing firm discloses five-year-long breach<a href="https://www.bleepingcomputer.com/news/security/largest-mobile-sms-routing-firm-discloses-five-year-long-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Syniverse, a service provider for most telecommunications companies, disclosed that hackers had access to its databases over the past five years and compromised login credentials belonging to hundreds of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandhill Shut Down by Conti Ransomware Attack<a href="https://heimdalsecurity.com/blog/sandhills-shut-down-by-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The publication giant, Sandhill, suffered a ransomware attack that unfortunately caused hosted websites to become inaccessible, in this way disrupting their business operations.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International coalition arrests 'prolific' hackers involved in ransomware attacks<a href="https://thehill.com//policy/cybersecurity/575242-international-coalition-arrests-prolific-hackers-involved-in-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international coalition of American, French, Ukrainian and European Union (EU) law enforcement authorities coordinated on the arrest last week of two individuals and the seizure of millions of dollars in profit allegedly involved with a spree of damaging ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Creating Wireless Signals with Ethernet Cable to Steal Data from Air-Gapped Systems<a href="https://thehackernews.com/2021/10/creating-wireless-signals-with-ethernet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered data exfiltration mechanism employs Ethernet cables as a "transmitting antenna" to stealthily siphon highly-sensitive data from air-gapped systems, according to the latest research.  "It's interesting that the wires that came to protect the air-gap become the vulnerability of the air gap in this attack," Dr. Mordechai Guri, the head of R&D in the Cyber Security Research Center in the Ben Gurion University of the Negev in Israel, told The Hacker News.  Dubbed " LANtenna Attack ," the novel technique enables malicious code in air-gapped computers to amass sensitive data and then encode it over radio waves emanating from Ethernet cables just as if they are antennas. The transmitted signals can then be intercepted by a nearby software-defined radio (SDR) receiver wirelessly, decode the data, and send it to an attacker who is in an adjacent room.  "Notably, the malicious code can run in an ordinary user-mode process and successf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook, WhatsApp, and Instagram are down worldwide, it’s panic online<a href="https://securityaffairs.co/wordpress/122949/breaking-news/facebook-whatsapp-instagram-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users worldwide are experiencing problems while accessing Facebook services, including Instagram and WhatsApp.
+
+
+
+Users worldwide are not able to access Facebook, Instagram, and WhatsApp services due to a BGP problems. Users attempting to visit the above...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaidForums forced to use mirror after Brazilian govt contacts registrar<a href="https://www.bleepingcomputer.com/news/security/raidforums-forced-to-use-mirror-after-brazilian-govt-contacts-registrar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaidForums hacking forum has gone through a turbulent week, with its website now forced through a mirror domain after a government filed a legal request with their registrar.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for macOS Gatekeeper Bypass<a href="https://www.securityweek.com/poc-exploit-released-macos-gatekeeper-bypass?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rasmus Sten, a software engineer with cybersecurity firm F-Secure, has released proof-of-concept (PoC) exploit code for a macOS Gatekeeper bypass that Apple patched in April this year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators warn of Chinese technology threats ahead of international meeting<a href="https://thehill.com//policy/technology/575228-senators-warn-of-chinese-technology-threats-ahead-of-international-meeting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the Senate Intelligence Committee on Monday warned of continuing threats posed by the Chinese government to telecommunications systems and other critical technologies ahead of a major international summit.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poorly Configured Apache Airflow Instances Leak Credentials for Popular Services<a href="https://thehackernews.com/2021/10/poorly-configured-apache-airflow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday discovered misconfigurations across older versions of Apache Airflow instances belonging to a number of high-profile companies across various sectors, resulting in the exposure of sensitive credentials for popular platforms and services such as Amazon Web Services (AWS), Binance, Google Cloud Platform (GCP), PayPal, Slack, and Stripe.  "These unsecured instances expose sensitive information of companies across the media, finance, manufacturing, information technology (IT), biotech, e-commerce, health, energy, cybersecurity, and transportation industries," Intezer said in a report  shared with The Hacker News.   Originally launched in June 2015,  Apache Airflow  is an open-source workflow management platform that enables programmatic scheduling and monitoring of workflows on AWS, GCP, Microsoft Azure, and other third-party services. It's also one of the most popular task orchestration tools, followed by Luigi, Kubeflow, and MLflow.   So
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pottawatomie County paid the ransom to recover its systems<a href="https://securityaffairs.co/wordpress/122933/cyber-crime/pottawatomie-county-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pottawatomie County restored operations that were suspended after a ransomware attack hit its systems on September 17, 2021. 
+
+
+
+Officials at Pottawatomie County announced to have fully recovered their IT infrastructure that was hit by a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Apache Airflow servers leak thousands of credentials<a href="https://www.bleepingcomputer.com/news/security/misconfigured-apache-airflow-servers-leak-thousands-of-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating a misconfiguration flaw in Apache Airflow, researchers discovered many exposed instances over the web leaking sensitive information, including credentials, from well-known tech companies. Apache Airflow is a popular open-source workflow management platform for organizing and managing tasks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Police Arrest Hacker Who Caused $150 Million Damage to Global Firms<a href="https://www.reuters.com/technology/ukrainian-police-arrest-hacker-who-caused-150-million-damage-global-firms-2021-10-04/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police said they had arrested a 25-year-old man who hacked more than 100 foreign companies and caused damage worth more than $150 million. The hacker used phishing attacks and hijacked software that allows computers to be accessed remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to strengthen federal cybersecurity after attacks<a href="https://thehill.com//policy/cybersecurity/575198-senators-introduce-bill-to-strengthen-federal-cybersecurity-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Homeland Security and Governmental Affairs Committee Chairman Gary Peters (D-Mich.) and ranking member Rob PortmanRobert (Rob) Jones PortmanThe United States must lead the way on artificial intelligence standards The most important part of the infrastructure bill is little noticed Hillicon Valley — Presented by Ericsson — Bill would give some groups 24 hours to report ransomware payments MORE (R-Ohio) introduced a bill Monday to overhaul and improve federal cybersecurity policies following multiple major cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New APT Hacking Group Targeting Fuel, Energy, and Aviation Industries<a href="https://thehackernews.com/2021/10/a-new-apt-hacking-group-targeting-fuel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor has been identified as behind a string of attacks targeting fuel, energy, and aviation production industries in Russia, the U.S., India, Nepal, Taiwan, and Japan with the goal of stealing data from compromised networks.  Cybersecurity company Positive Technologies dubbed the advanced persistent threat (APT) group ChamelGang — referring to their chameleellonic capabilities, including disguising "its malware and network infrastructure under legitimate services of Microsoft, TrendMicro, McAfee, IBM, and Google."    "To achieve their goal, the attackers used a trending penetration method—supply chain," the researchers  said  of one of the incidents investigated by the firm. "The group compromised a subsidiary and penetrated the target company's network through it. Trusted relationship attacks are rare today due to the complexity of their execution. Using this method […], the ChamelGang group was able to achieve its goal a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two ransomware operators were arrested in Kyiv with EUROPOL’s support<a href="https://securityaffairs.co/wordpress/122922/cyber-crime/ransomware-operators-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware operators arrested in Kyiv, Ukraine, that are suspected to have attacked more than 100 companies causing more than $150M in damages.
+
+
+
+A joint international law enforcement operation led to the arrest of the ransomware operators in Kyiv,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK plans to invest £5 billion in retaliatory cyber-attacks<a href="https://www.bleepingcomputer.com/news/security/uk-plans-to-invest-5-billion-in-retaliatory-cyber-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom has revealed plans to invest £5 billion in bolstering national cybersecurity that includes creating a "Cyber Force" unit to perform retaliatory attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudster jailed for stealing US military health records, millions in benefits<a href="https://www.zdnet.com/article/fraudster-jailed-for-stealing-us-military-health-records-millions-in-benefits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between July 2014 and September 2015, the 40-year-old stole the personal identifying information (PII) of over 3,300 individuals, including "at least eight general officers, as well as numerous disabled veterans," said the DoJ.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Shortfalls of Mean Time Metrics in Cybersecurity<a href="https://thehackernews.com/2021/10/the-shortfalls-of-mean-time-metrics-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams at mid-sized organizations are constantly faced with the question of "what does success look like?". At ActZero, their continued data-driven approach to cybersecurity invites them to grapple daily with measuring, evaluating, and validating the work they do on behalf of their customers.   Like most, they initially turned toward the standard metrics used in cybersecurity, built around a "Mean Time to X" (MTTX) formula, where X indicates a specific milestone in the attack lifecycle. In this formula, these milestones include factors like Detect, Alert, Respond, Recover, or even Remediate when necessary.  However, as they started to operationalize their unique  AI and machine-learning approach , they realized that "speed" measures weren't giving them a holistic view of the story. More importantly, simply measuring just speed wasn't as applicable in an industry where machine-driven alerts and responses were happening in fractions of secon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT ChamelGang Targets energy and aviation companies in Russia<a href="https://securityaffairs.co/wordpress/122902/apt/chamelgang-apt-targets-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChamelGang APT is a new cyberespionage group that focuses on fuel and energy organizations and aviation industry in Russia
+
+
+
+ChamelGang is a new APT group that was first spotted in March by researchers at security firm Positive Technologies, it targets...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Atom Silo ransomware targets vulnerable Confluence servers<a href="https://www.bleepingcomputer.com/news/security/new-atom-silo-ransomware-targets-vulnerable-confluence-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atom Silo, a newly spotted ransomware group, is targeting a recently patched and actively exploited Confluence Server and Data Center vulnerability to deploy their ransomware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pottawatomie County Fixing Systems After Ransomware Attack<a href="https://www.securityweek.com/pottawatomie-county-fixing-systems-after-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county resolved the attack by paying less than 10% of the hackers’ original demands, County Administrator Chad Kinsley said in a statement. The eastern Kansas county did not disclose the amount it paid.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 2.0 ransomware hit Israeli defense firm E.M.I.T. Aviation Consulting<a href="https://securityaffairs.co/wordpress/122892/cyber-crime/e-m-i-t-aviation-consulting-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli Aerospace & Defense firm E.M.I.T. Aviation Consulting Ltd. was hit by LockBit 2.0 ransomware, operators will leak files on 07 Oct, 2021.
+
+
+
+LockBit 2.0 ransomware operators hit the Israeli aerospace and defense firm E.M.I.T. Aviation Consulting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware operators behind hundreds of attacks arrested in Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-operators-behind-hundreds-of-attacks-arrested-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol has announced the arrest of two men in Ukraine, said to be members of a prolific ransomware operation that extorted victims with ransom demands ranging between €5 to €70 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA544 group behind a spike in Ursnif malware campaigns targeting Italy<a href="https://securityaffairs.co/wordpress/122875/malware/ta544-ursnif-campaigns-italy.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers have discovered a new Ursnif baking Trojan campaign carried out by a group tracked as TA544 that is targeting organizations in Italy. The experts observed nearly 20 notable campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 03, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

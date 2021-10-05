@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudster jailed for stealing US military health records, millions in benefits<a href="https://www.zdnet.com/article/fraudster-jailed-for-stealing-us-military-health-records-millions-in-benefits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between July 2014 and September 2015, the 40-year-old stole the personal identifying information (PII) of over 3,300 individuals, including "at least eight general officers, as well as numerous disabled veterans," said the DoJ.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Creating Wireless Signals with Ethernet Cable to Steal Data from Air-Gapped Systems<a href="https://thehackernews.com/2021/10/creating-wireless-signals-with-ethernet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered data exfiltration mechanism employs Ethernet cables as a "transmitting antenna" to stealthily siphon highly-sensitive data from air-gapped systems, according to the latest research.  "It's interesting that the wires that came to protect the air-gap become the vulnerability of the air gap in this attack," Dr. Mordechai Guri, the head of R&amp;D in the Cyber Security Research Center in the Ben Gurion University of the Negev in Israel, told The Hacker News.  Dubbed " LANtenna Attack ," the novel technique enables malicious code in air-gapped computers to amass sensitive data and then encode it over radio waves emanating from Ethernet cables just as if they are antennas. The transmitted signals can then be intercepted by a nearby software-defined radio (SDR) receiver wirelessly, decode the data, and send it to an attacker who is in an adjacent room.  "Notably, the malicious code can run in an ordinary user-mode process and successf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for macOS Gatekeeper Bypass<a href="https://www.securityweek.com/poc-exploit-released-macos-gatekeeper-bypass?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rasmus Sten, a software engineer with cybersecurity firm F-Secure, has released proof-of-concept (PoC) exploit code for a macOS Gatekeeper bypass that Apple patched in April this year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poorly Configured Apache Airflow Instances Leak Credentials for Popular Services<a href="https://thehackernews.com/2021/10/poorly-configured-apache-airflow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday discovered misconfigurations across older versions of Apache Airflow instances belonging to a number of high-profile companies across various sectors, resulting in the exposure of sensitive credentials for popular platforms and services such as Amazon Web Services (AWS), Binance, Google Cloud Platform (GCP), PayPal, Slack, and Stripe.  "These unsecured instances expose sensitive information of companies across the media, finance, manufacturing, information technology (IT), biotech, e-commerce, health, energy, cybersecurity, and transportation industries," Intezer said in a report  shared with The Hacker News.   Originally launched in June 2015,&nbsp; Apache Airflow &nbsp;is an open-source workflow management platform that enables programmatic scheduling and monitoring of workflows on AWS, GCP, Microsoft Azure, and other third-party services. It's also one of the most popular task orchestration tools, followed by Luigi, Kubeflow, and MLflow.   So
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

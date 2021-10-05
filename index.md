@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Largest mobile SMS routing firm discloses five-year-long breach<a href="https://www.bleepingcomputer.com/news/security/largest-mobile-sms-routing-firm-discloses-five-year-long-breach/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandhill Shut Down by Conti Ransomware Attack<a href="https://heimdalsecurity.com/blog/sandhills-shut-down-by-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International coalition arrests 'prolific' hackers involved in ransomware attacks<a href="https://thehill.com//policy/cybersecurity/575242-international-coalition-arrests-prolific-hackers-involved-in-ransomware"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Creating Wireless Signals with Ethernet Cable to Steal Data from Air-Gapped Systems<a href="https://thehackernews.com/2021/10/creating-wireless-signals-with-ethernet.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook, WhatsApp, and Instagram are down worldwide, it’s panic online<a href="https://securityaffairs.co/wordpress/122949/breaking-news/facebook-whatsapp-instagram-down.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RaidForums forced to use mirror after Brazilian govt contacts registrar<a href="https://www.bleepingcomputer.com/news/security/raidforums-forced-to-use-mirror-after-brazilian-govt-contacts-registrar/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for macOS Gatekeeper Bypass<a href="https://www.securityweek.com/poc-exploit-released-macos-gatekeeper-bypass?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators warn of Chinese technology threats ahead of international meeting<a href="https://thehill.com//policy/technology/575228-senators-warn-of-chinese-technology-threats-ahead-of-international-meeting"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poorly Configured Apache Airflow Instances Leak Credentials for Popular Services<a href="https://thehackernews.com/2021/10/poorly-configured-apache-airflow.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pottawatomie County paid the ransom to recover its systems<a href="https://securityaffairs.co/wordpress/122933/cyber-crime/pottawatomie-county-paid-ransom.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured Apache Airflow servers leak thousands of credentials<a href="https://www.bleepingcomputer.com/news/security/misconfigured-apache-airflow-servers-leak-thousands-of-credentials/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Police Arrest Hacker Who Caused $150 Million Damage to Global Firms<a href="https://www.reuters.com/technology/ukrainian-police-arrest-hacker-who-caused-150-million-damage-global-firms-2021-10-04/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators introduce bill to strengthen federal cybersecurity after attacks<a href="https://thehill.com//policy/cybersecurity/575198-senators-introduce-bill-to-strengthen-federal-cybersecurity-after"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New APT Hacking Group Targeting Fuel, Energy, and Aviation Industries<a href="https://thehackernews.com/2021/10/a-new-apt-hacking-group-targeting-fuel.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two ransomware operators were arrested in Kyiv with EUROPOL’s support<a href="https://securityaffairs.co/wordpress/122922/cyber-crime/ransomware-operators-arrested.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK plans to invest £5 billion in retaliatory cyber-attacks<a href="https://www.bleepingcomputer.com/news/security/uk-plans-to-invest-5-billion-in-retaliatory-cyber-attacks/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fraudster jailed for stealing US military health records, millions in benefits<a href="https://www.zdnet.com/article/fraudster-jailed-for-stealing-us-military-health-records-millions-in-benefits/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Shortfalls of Mean Time Metrics in Cybersecurity<a href="https://thehackernews.com/2021/10/the-shortfalls-of-mean-time-metrics-in.html"> Full Text</a>
@@ -334,7 +334,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New APT ChamelGang Targets energy and aviation companies in Russia<a href="https://securityaffairs.co/wordpress/122902/apt/chamelgang-apt-targets-russia.html"> Full Text</a>
@@ -354,7 +354,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Atom Silo ransomware targets vulnerable Confluence servers<a href="https://www.bleepingcomputer.com/news/security/new-atom-silo-ransomware-targets-vulnerable-confluence-servers/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pottawatomie County Fixing Systems After Ransomware Attack<a href="https://www.securityweek.com/pottawatomie-county-fixing-systems-after-ransomware-attack?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 2.0 ransomware hit Israeli defense firm E.M.I.T. Aviation Consulting<a href="https://securityaffairs.co/wordpress/122892/cyber-crime/e-m-i-t-aviation-consulting-ransomware.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2021
+October 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware operators behind hundreds of attacks arrested in Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-operators-behind-hundreds-of-attacks-arrested-in-ukraine/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA544 group behind a spike in Ursnif malware campaigns targeting Italy<a href="https://securityaffairs.co/wordpress/122875/malware/ta544-ursnif-campaigns-italy.html?&web_view=true"> Full Text</a>

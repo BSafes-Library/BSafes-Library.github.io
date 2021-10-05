@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+October 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden administration will work with 30 countries to curb global cybercrime<a href="https://securityaffairs.co/wordpress/122861/cyber-crime/biden-administration-30-countries-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration announced it will work with 30 countries, including NATO allies and G7 partners, to curb global cybercrime. 
+
+
+
+U.S. President Joe Biden announced that the US will work with 30 countries to curb cybercrime and dismantle ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
