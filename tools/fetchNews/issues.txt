@@ -30,8 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://securityaffairs.co/wordpress/122762/security/cisa-insider-risk-mitigation-self-assessment-tool.html
-. https://www.cisa.gov/news/2021/09/28/cisa-releases-new-tool-help-organizations-guard-against-insider-threats?&web_view=true
  
 Law
 

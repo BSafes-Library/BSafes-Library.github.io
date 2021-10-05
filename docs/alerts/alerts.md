@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA RELEASES NEW TOOL TO HELP ORGANIZATIONS GUARD AGAINST INSIDER THREATS <a href="https://www.cisa.gov/news/2021/09/28/cisa-releases-new-tool-help-organizations-guard-against-insider-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON – The Cybersecurity and Infrastructure Security Agency (CISA) released an Insider Risk Mitigation Self-Assessment Tool today, which assists public and private sector organizations in assessing their vulnerability to an insider threat.  By answering a series of questions, users receive feedback they can use to gauge their risk posture.  The tool will also help users further understand the nature of insider threats and take steps to create their own prevention and mitigation programs.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 23, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
