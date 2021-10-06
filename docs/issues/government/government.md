@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA director expects to be facing ransomware attacks 'every single day' in five years<a href="https://thehill.com//policy/cybersecurity/575386-nsa-director-expects-to-be-facing-ransomware-attacks-every-single-day-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Security Agency (NSA) Director Paul Nakasone predicted Tuesday that the rate of ransomware attacks will not slow down in the next five years, and said efforts to counter those threats must remain constant as well.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce bill to identify and protect critical groups from cyber threats<a href="https://thehill.com//policy/cybersecurity/575285-lawmakers-introduce-bill-to-identify-and-protect-critical-groups-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Homeland Security Committee ranking member John Katko (R-N.Y.) and Rep. Abigail SpanbergerAbigail Davis SpanbergerBiden to host lawmakers at White House next week amid impasse on his agenda Progressives cheer, moderates groan as Biden visit caps chaotic week&nbsp; Katie Hill launches effort to protect Democratic majority in House MORE (D-Va.) on Tuesday introduced legislation to help the federal government identify and further protect certain critical groups from cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

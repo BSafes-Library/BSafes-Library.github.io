@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to auto-enroll 150 million user accounts into 2FA<a href="https://www.bleepingcomputer.com/news/google/google-to-auto-enroll-150-million-user-accounts-into-2fa/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FinFisher is One of the Stealthiest Malware: Kaspersky<a href="https://cyware.com/news/finfisher-is-one-of-the-stealthiest-malware-kaspersky-1001e4d6"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA director expects to be facing ransomware attacks 'every single day' in five years<a href="https://thehill.com//policy/cybersecurity/575386-nsa-director-expects-to-be-facing-ransomware-attacks-every-single-day-in"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover UEFI Bootkit Targeting Windows Computers Since 2012<a href="https://thehackernews.com/2021/10/researchers-discover-uefi-bootkit.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache patch a zero-day flaw exploited in the wild<a href="https://securityaffairs.co/wordpress/122999/hacking/apache-zero-day-flaw.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Build an Incident-Response Plan, Before Security Disaster Strikes<a href="https://threatpost.com/incident-response-plan-security-disaster/175335/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Telegraph exposes 10 TB database with subscriber info<a href="https://www.bleepingcomputer.com/news/security/the-telegraph-exposes-10-tb-database-with-subscriber-info/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analyzing LockBit’s Data Exfiltration Model<a href="https://cyware.com/news/analyzing-lockbits-data-exfiltration-model-f5950c8a"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers introduce bill to identify and protect critical groups from cyber threats<a href="https://thehill.com//policy/cybersecurity/575285-lawmakers-introduce-bill-to-identify-and-protect-critical-groups-from"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Warns of Zero-Day Exploit in the Wild — Patch Your Web Servers Now!<a href="https://thehackernews.com/2021/10/apache-warns-of-zero-day-exploit-in.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unnamed Ransomware gang uses a Python script to encrypt VMware ESXi servers<a href="https://securityaffairs.co/wordpress/122993/malware/ransomware-gang-script-vmware-esxi.html"> Full Text</a>
@@ -220,7 +220,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache fixes actively exploited zero-day vulnerability, patch now<a href="https://www.bleepingcomputer.com/news/security/apache-fixes-actively-exploited-zero-day-vulnerability-patch-now/"> Full Text</a>
@@ -236,7 +236,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured, Old Apache Airflow Instances Leak Slack, AWS Credentials<a href="https://www.zdnet.com/article/misconfigured-airflow-instances-leak-slack-aws-credentials/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -252,7 +252,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Study Links Seemingly Disparate Malware Attacks to Chinese Hackers<a href="https://thehackernews.com/2021/10/new-study-links-seemingly-disparate.html"> Full Text</a>
@@ -268,7 +268,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telco service provider giant Syniverse had unauthorized access since 2016<a href="https://securityaffairs.co/wordpress/122986/data-breach/syniverse-security-breach.html"> Full Text</a>
@@ -288,7 +288,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang encrypts VMware ESXi servers with Python script<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-encrypts-vmware-esxi-servers-with-python-script/"> Full Text</a>
@@ -304,7 +304,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Aims at Virtual Machines, ESXi Hypervisors to Encrypt Disks<a href="https://www.zdnet.com/article/new-python-ransomware-targets-virtual-machines-esxi-hypervisor-to-encrypt-disks/?&web_view=true"> Full Text</a>
@@ -320,7 +320,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hackers Who Attacked Over 100 Companies Arrested in Ukraine<a href="https://thehackernews.com/2021/10/ransomware-hackers-who-attacked-over.html"> Full Text</a>
@@ -336,7 +336,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web marketplace White House announces end to its operations<a href="https://securityaffairs.co/wordpress/122974/cyber-crime/dark-web-marketplace-white-house-closes.html"> Full Text</a>
@@ -356,7 +356,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android October patch fixes three critical bugs, 41 flaws in total<a href="https://www.bleepingcomputer.com/news/security/android-october-patch-fixes-three-critical-bugs-41-flaws-in-total/"> Full Text</a>
@@ -372,7 +372,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Temasek leads $550M Series C extension into Orca Security, which aims for further international foothold<a href="https://techcrunch.com/2021/10/05/temasek-leads-550m-series-c-extension-into-orca-security-which-aims-for-further-international-foothold/?&web_view=true"> Full Text</a>
@@ -388,7 +388,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured Apache Airflow servers leak thousands of credentials<a href="https://securityaffairs.co/wordpress/122941/security/misconfigured-apache-airflow-leak-credentials.html"> Full Text</a>
@@ -408,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2021
+October 05, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UEFI bootkit used to backdoor Windows devices since 2012<a href="https://www.bleepingcomputer.com/news/security/new-uefi-bootkit-used-to-backdoor-windows-devices-since-2012/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OnionShare: Secure communications platform used by whistleblowers and journalists patches data exposure bug<a href="https://portswigger.net/daily-swig/onionshare-secure-communications-platform-used-by-whistleblowers-and-journalists-patches-data-exposure-bug?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Outage Drags Down Instagram, WhatsApp, Messenger, Oculus VR<a href="https://threatpost.com/facebook-outage-instagram-whatsapp-messenger-oculus-vr/175308/"> Full Text</a>
@@ -456,7 +456,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encrypted & Fileless Malware Sees Big Growth<a href="https://threatpost.com/encrypted-fileless-malware-growth/175306/"> Full Text</a>
@@ -472,7 +472,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2021
+October 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transnational Fraud Ring Bilks U.S. Military Service Members Out of Millions<a href="https://threatpost.com/transnational-fraud-military-members/175298/"> Full Text</a>

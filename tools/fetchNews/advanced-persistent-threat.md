@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New APT Hacking Group Targeting Fuel, Energy, and Aviation Industries<a href="https://thehackernews.com/2021/10/a-new-apt-hacking-group-targeting-fuel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor has been identified as behind a string of attacks targeting fuel, energy, and aviation production industries in Russia, the U.S., India, Nepal, Taiwan, and Japan with the goal of stealing data from compromised networks.  Cybersecurity company Positive Technologies dubbed the advanced persistent threat (APT) group ChamelGang — referring to their chameleellonic capabilities, including disguising "its malware and network infrastructure under legitimate services of Microsoft, TrendMicro, McAfee, IBM, and Google."&nbsp;   "To achieve their goal, the attackers used a trending penetration method—supply chain," the researchers&nbsp; said &nbsp;of one of the incidents investigated by the firm. "The group compromised a subsidiary and penetrated the target company's network through it. Trusted relationship attacks are rare today due to the complexity of their execution. Using this method […], the ChamelGang group was able to achieve its goal a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT ChamelGang Targets energy and aviation companies in Russia<a href="https://securityaffairs.co/wordpress/122902/apt/chamelgang-apt-targets-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChamelGang APT is a new cyberespionage group that focuses on fuel and energy organizations and aviation industry in Russia
+
+
+
+ChamelGang is a new APT group that was first spotted in March by researchers at security firm&nbsp;Positive Technologies, it targets...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

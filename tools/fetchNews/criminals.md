@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International coalition arrests 'prolific' hackers involved in ransomware attacks<a href="https://thehill.com//policy/cybersecurity/575242-international-coalition-arrests-prolific-hackers-involved-in-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international coalition&nbsp;of American, French, Ukrainian and European Union (EU) law enforcement authorities&nbsp;coordinated on the arrest last week of two individuals and the seizure of millions of dollars in profit allegedly involved with a spree of damaging ransomware attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Police Arrest Hacker Who Caused $150 Million Damage to Global Firms<a href="https://www.reuters.com/technology/ukrainian-police-arrest-hacker-who-caused-150-million-damage-global-firms-2021-10-04/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police said they had arrested a 25-year-old man who hacked more than 100 foreign companies and caused damage worth more than $150 million. The hacker used phishing attacks and hijacked software that allows computers to be accessed remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two ransomware operators were arrested in Kyiv with EUROPOL’s support<a href="https://securityaffairs.co/wordpress/122922/cyber-crime/ransomware-operators-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two ransomware operators arrested in Kyiv, Ukraine, that are suspected to have attacked more than 100 companies causing more than $150M in damages.
+
+
+
+A joint international law enforcement operation led to the arrest of the ransomware operators in Kyiv,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware operators behind hundreds of attacks arrested in Ukraine<a href="https://www.bleepingcomputer.com/news/security/ransomware-operators-behind-hundreds-of-attacks-arrested-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol has announced the arrest of two men in Ukraine, said to be members of a prolific ransomware operation that extorted victims with ransom demands ranging between €5 to €70 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unnamed Ransomware gang uses a Python script to encrypt VMware ESXi servers<a href="https://securityaffairs.co/wordpress/122993/malware/ransomware-gang-script-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed ransomware gang used a custom Python script to target VMware ESXi and encrypt all the virtual machines hosted on the server.
+
+
+
+Researchers from Sophos were investigating a ransomware attack when discovered that the attackers employed a Python...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang encrypts VMware ESXi servers with Python script<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-encrypts-vmware-esxi-servers-with-python-script/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators of an unknown ransomware gang are using a Python script to encrypt&nbsp;virtual machines hosted on VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers Who Attacked Over 100 Companies Arrested in Ukraine<a href="https://thehackernews.com/2021/10/ransomware-hackers-who-attacked-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies have announced the arrest of two "prolific ransomware operators" in Ukraine who allegedly conducted a string of targeted attacks against large industrial entities in Europe and North America since at least April 2020, marking the latest step in combating ransomware incidents.  The joint exercise was undertaken on September 28 by officials from the French National Gendarmerie, the Ukrainian National Police, and the U.S. Federal Bureau of Investigation (FBI), alongside participation from the Europol's European Cybercrime Centre and the INTERPOL's Cyber Fusion Centre.   "The criminals would deploy malware and steal sensitive data from these companies, before encrypting their files," Europol&nbsp; said &nbsp;in a press statement on Monday. "They would then proceed to offer a decryption key in return for a ransom payment of several millions of euros, threatening to leak the stolen data on the dark web should their demands not be met."  B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transnational Fraud Ring Bilks U.S. Military Service Members Out of Millions<a href="https://threatpost.com/transnational-fraud-military-members/175298/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former medical records tech stole PII that was then used to fraudulently claim DoD and VA benefits, particularly targeting disabled veterans.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

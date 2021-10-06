@@ -11,6 +11,20 @@ nav_order: 900140
 October 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Facebook Outage Drags Down Instagram, WhatsApp, Messenger, Oculus VR<a href="https://threatpost.com/facebook-outage-instagram-whatsapp-messenger-oculus-vr/175308/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+They were all flat on their faces for hours on Monday, throwing off DNS error messages or other server-related errors. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Sandhill Shut Down by Conti Ransomware Attack<a href="https://heimdalsecurity.com/blog/sandhills-shut-down-by-ransomware-attack/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

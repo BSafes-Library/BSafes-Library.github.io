@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest mobile SMS routing firm discloses five-year-long breach<a href="https://www.bleepingcomputer.com/news/security/largest-mobile-sms-routing-firm-discloses-five-year-long-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Syniverse, a service provider for most telecommunications companies, disclosed that hackers had access to its databases over the past five years and compromised login credentials belonging to hundreds of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Apache Airflow servers leak thousands of credentials<a href="https://www.bleepingcomputer.com/news/security/misconfigured-apache-airflow-servers-leak-thousands-of-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating a misconfiguration flaw in Apache Airflow, researchers discovered many exposed instances over the web leaking sensitive information, including credentials, from well-known&nbsp;tech&nbsp;companies. Apache Airflow&nbsp;is a popular&nbsp;open-source workflow management platform for organizing and managing tasks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,460 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to auto-enroll 150 million user accounts into 2FA<a href="https://www.bleepingcomputer.com/news/google/google-to-auto-enroll-150-million-user-accounts-into-2fa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that they plan on auto-enrolling 150 million accounts into two-factor authentication by the end of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FinFisher is One of the Stealthiest Malware: Kaspersky<a href="https://cyware.com/news/finfisher-is-one-of-the-stealthiest-malware-kaspersky-1001e4d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky laid bare a n eight-month-long investigation into  FinSpy operations,  revealing multiple insights about the new upgrades in the spyware.  Using bootkits, attackers are able to control operating systems' boot process and disable the defenses by evading the Secure Boot mechanism of the sys ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA director expects to be facing ransomware attacks 'every single day' in five years<a href="https://thehill.com//policy/cybersecurity/575386-nsa-director-expects-to-be-facing-ransomware-attacks-every-single-day-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Security Agency (NSA) Director Paul Nakasone predicted Tuesday that the rate of ransomware attacks will not slow down in the next five years, and said efforts to counter those threats must remain constant as well. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover UEFI Bootkit Targeting Windows Computers Since 2012<a href="https://thehackernews.com/2021/10/researchers-discover-uefi-bootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday revealed details of a previously undocumented  UEFI  (Unified Extensible Firmware Interface) bootkit that has been put to use by threat actors to backdoor Windows systems as early as 2012 by modifying a legitimate Windows Boot Manager binary to achieve persistence, once again demonstrating how technology meant to secure the environment prior to loading the operating system is increasingly becoming a "tempting target."  Slovak cybersecurity firm ESET codenamed the new malware "ESPecter" for its ability to persist on the EFI System Partition ( ESP ), in addition to circumventing Microsoft Windows Driver Signature Enforcement to load its own unsigned driver that can be used to facilitate espionage activities such as document theft, keylogging, and screen monitoring by periodically capturing screenshots.   "ESPecter shows that threat actors are relying not only on UEFI firmware implants when it comes to pre-OS persistence and,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache patch a zero-day flaw exploited in the wild<a href="https://securityaffairs.co/wordpress/122999/hacking/apache-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has addressed two vulnerabilities, one of which is a path traversal and file disclosure flaw in its HTTP server actively exploited in the wild. 
+
+
+
+Apache has rolled out security patches to address two flaws, including a path traversal and file...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build an Incident-Response Plan, Before Security Disaster Strikes<a href="https://threatpost.com/incident-response-plan-security-disaster/175335/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, Chief Security Scientist at ThycoticCentrify, offers a 7-step practical IR checklist for ensuring a swift recovery from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Telegraph exposes 10 TB database with subscriber info<a href="https://www.bleepingcomputer.com/news/security/the-telegraph-exposes-10-tb-database-with-subscriber-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+'The Telegraph', one of UK's largest newspapers and online media outlets, has leaked 10 TB of data after failing to properly secure one of its databases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing LockBit’s Data Exfiltration Model<a href="https://cyware.com/news/analyzing-lockbits-data-exfiltration-model-f5950c8a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yoroi Malware ZLAB analyzed the new working model of LockBit 2.0 that has recently developed its custom tool specialized in data exfiltration. The RaaS group has been&nbsp;helping its partners by providing StealBit data exfiltration service. With the proliferation of such tools, protecting sensitiv ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers introduce bill to identify and protect critical groups from cyber threats<a href="https://thehill.com//policy/cybersecurity/575285-lawmakers-introduce-bill-to-identify-and-protect-critical-groups-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+House Homeland Security Committee ranking member John Katko (R-N.Y.) and Rep. Abigail SpanbergerAbigail Davis SpanbergerBiden to host lawmakers at White House next week amid impasse on his agenda Progressives cheer, moderates groan as Biden visit caps chaotic week  Katie Hill launches effort to protect Democratic majority in House MORE (D-Va.) on Tuesday introduced legislation to help the federal government identify and further protect certain critical groups from cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Warns of Zero-Day Exploit in the Wild — Patch Your Web Servers Now!<a href="https://thehackernews.com/2021/10/apache-warns-of-zero-day-exploit-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has issued patches to address two security vulnerabilities, including a path traversal and file disclosure flaw in its HTTP server that it said is being actively exploited in the wild.  "A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the expected document root," the open-source project maintainers  noted  in an advisory published Tuesday.  "If files outside of the document root are not protected by 'require all denied' these requests can succeed. Additionally this flaw could leak the source of interpreted files like CGI scripts."   The flaw, tracked as  CVE-2021-41773 , affects only Apache HTTP server version 2.4.49. Ash Daulton and cPanel Security Team have been credited with discovering and reporting the issue on September 29, 2021.  Source: PT SWARM  Also resolved by Apache is a null pointer dereference vulnerability observed during pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unnamed Ransomware gang uses a Python script to encrypt VMware ESXi servers<a href="https://securityaffairs.co/wordpress/122993/malware/ransomware-gang-script-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed ransomware gang used a custom Python script to target VMware ESXi and encrypt all the virtual machines hosted on the server.
+
+
+
+Researchers from Sophos were investigating a ransomware attack when discovered that the attackers employed a Python...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache fixes actively exploited zero-day vulnerability, patch now<a href="https://www.bleepingcomputer.com/news/security/apache-fixes-actively-exploited-zero-day-vulnerability-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation has released version 2.4.50 of the HTTP Web Server to address two vulnerabilities, one of which is an actively exploited path traversal and file disclosure flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured, Old Apache Airflow Instances Leak Slack, AWS Credentials<a href="https://www.zdnet.com/article/misconfigured-airflow-instances-leak-slack-aws-credentials/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, Intezer researchers said the instances, vulnerable to data theft, belong to industries including IT, cybersecurity, health, energy, finance, and manufacturing, among other sectors.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Links Seemingly Disparate Malware Attacks to Chinese Hackers<a href="https://thehackernews.com/2021/10/new-study-links-seemingly-disparate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cyber espionage group APT41 has been linked to seemingly disparate malware campaigns, according to fresh research that has mapped together additional parts of the group's network infrastructure to hit upon a state-sponsored campaign that takes advantage of COVID-themed phishing lures to target victims in India.   "The image we uncovered was that of a state-sponsored campaign that plays on people's hopes for a swift end to the pandemic as a lure to entrap its victims," the BlackBerry Research and Intelligence team said in a report  shared with The Hacker News. "And once on a user's machine, the threat blends into the digital woodwork by using its own customized profile to hide its network traffic."  APT41 (aka Barium or Winnti) is a moniker assigned to a prolific Chinese cyber threat group that carries out state-sponsored espionage activity in conjunction with financially motivated operations for personal gain as far back as 2012. Calling the gro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telco service provider giant Syniverse had unauthorized access since 2016<a href="https://securityaffairs.co/wordpress/122986/data-breach/syniverse-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Syniverse service provider discloses a security breach, threat actors have had access to its databases since 2016 and gained some customers' credentials.
+
+
+
+Syniverse is a global company that provides technology and business services for a number of telecommunications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang encrypts VMware ESXi servers with Python script<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-encrypts-vmware-esxi-servers-with-python-script/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operators of an unknown ransomware gang are using a Python script to encrypt virtual machines hosted on VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Aims at Virtual Machines, ESXi Hypervisors to Encrypt Disks<a href="https://www.zdnet.com/article/new-python-ransomware-targets-virtual-machines-esxi-hypervisor-to-encrypt-disks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, one of the fastest recorded by Sophos researchers, was achieved by operators who "precision-targeted the ESXi platform" in order to encrypt the virtual machines of the victim.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers Who Attacked Over 100 Companies Arrested in Ukraine<a href="https://thehackernews.com/2021/10/ransomware-hackers-who-attacked-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies have announced the arrest of two "prolific ransomware operators" in Ukraine who allegedly conducted a string of targeted attacks against large industrial entities in Europe and North America since at least April 2020, marking the latest step in combating ransomware incidents.  The joint exercise was undertaken on September 28 by officials from the French National Gendarmerie, the Ukrainian National Police, and the U.S. Federal Bureau of Investigation (FBI), alongside participation from the Europol's European Cybercrime Centre and the INTERPOL's Cyber Fusion Centre.   "The criminals would deploy malware and steal sensitive data from these companies, before encrypting their files," Europol  said  in a press statement on Monday. "They would then proceed to offer a decryption key in return for a ransom payment of several millions of euros, threatening to leak the stolen data on the dark web should their demands not be met."  B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web marketplace White House announces end to its operations<a href="https://securityaffairs.co/wordpress/122974/cyber-crime/dark-web-marketplace-white-house-closes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web marketplace White House Market shuts down its operation, last week its operators announced that they were retiring. 
+
+
+
+The dark web marketplace White House Market shuts down its operation, the announcement was published on a dread forum....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android October patch fixes three critical bugs, 41 flaws in total<a href="https://www.bleepingcomputer.com/news/security/android-october-patch-fixes-three-critical-bugs-41-flaws-in-total/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the Android October security updates, addressing 41 vulnerabilities, all ranging between high and critical severity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Temasek leads $550M Series C extension into Orca Security, which aims for further international foothold<a href="https://techcrunch.com/2021/10/05/temasek-leads-550m-series-c-extension-into-orca-security-which-aims-for-further-international-foothold/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orca Security, an Israeli security company offering an agent-less platform for protecting cloud-based assets, secured a $550 million extension to the Series C funding round it raised seven months ago.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Apache Airflow servers leak thousands of credentials<a href="https://securityaffairs.co/wordpress/122941/security/misconfigured-apache-airflow-leak-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered many misconfigured Apache Airflow servers exposed online that were leaking sensitive information from prominent tech firms.
+
+
+
+Apache Airflow is an open-source workflow management platform used by many organizations worldwide for automating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI bootkit used to backdoor Windows devices since 2012<a href="https://www.bleepingcomputer.com/news/security/new-uefi-bootkit-used-to-backdoor-windows-devices-since-2012/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered and previously undocumented UEFI (Unified Extensible Firmware Interface) bootkit has been used by attackers to backdoor Windows systems by hijacking the Windows Boot Manager since at least 2012.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnionShare: Secure communications platform used by whistleblowers and journalists patches data exposure bug<a href="https://portswigger.net/daily-swig/onionshare-secure-communications-platform-used-by-whistleblowers-and-journalists-patches-data-exposure-bug?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A tool used by whisteblowers and the media to securely send information has patched two vulnerabilities that could have impacted the anonymous nature of the file-sharing system.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Outage Drags Down Instagram, WhatsApp, Messenger, Oculus VR<a href="https://threatpost.com/facebook-outage-instagram-whatsapp-messenger-oculus-vr/175308/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+They were all flat on their faces for hours on Monday, throwing off DNS error messages or other server-related errors. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted & Fileless Malware Sees Big Growth<a href="https://threatpost.com/encrypted-fileless-malware-growth/175306/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of second-quarter malware trends shows that threats are becoming stealthier.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transnational Fraud Ring Bilks U.S. Military Service Members Out of Millions<a href="https://threatpost.com/transnational-fraud-military-members/175298/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former medical records tech stole PII that was then used to fraudulently claim DoD and VA benefits, particularly targeting disabled veterans.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 04, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

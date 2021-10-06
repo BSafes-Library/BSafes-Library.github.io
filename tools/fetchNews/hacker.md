@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaidForums forced to use mirror after Brazilian govt contacts registrar<a href="https://www.bleepingcomputer.com/news/security/raidforums-forced-to-use-mirror-after-brazilian-govt-contacts-registrar/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RaidForums hacking forum has gone through a turbulent week, with its website now forced through a mirror domain after a government filed a legal request with their registrar.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

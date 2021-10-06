@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to auto-enroll 150 million user accounts into 2FA<a href="https://www.bleepingcomputer.com/news/google/google-to-auto-enroll-150-million-user-accounts-into-2fa/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that they plan on auto-enrolling 150 million accounts into two-factor authentication by the end of 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Temasek leads $550M Series C extension into Orca Security, which aims for further international foothold<a href="https://techcrunch.com/2021/10/05/temasek-leads-550m-series-c-extension-into-orca-security-which-aims-for-further-international-foothold/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orca Security, an Israeli security company offering an agent-less platform for protecting cloud-based assets, secured a $550 million extension to the Series C funding round it raised seven months ago.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

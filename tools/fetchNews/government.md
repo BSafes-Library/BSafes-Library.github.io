@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators warn of Chinese technology threats ahead of international meeting<a href="https://thehill.com//policy/technology/575228-senators-warn-of-chinese-technology-threats-ahead-of-international-meeting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaders of the Senate Intelligence Committee on Monday warned of continuing threats posed by the Chinese government to telecommunications systems and other critical technologies ahead of a major international summit.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators introduce bill to strengthen federal cybersecurity after attacks<a href="https://thehill.com//policy/cybersecurity/575198-senators-introduce-bill-to-strengthen-federal-cybersecurity-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senate Homeland Security and Governmental Affairs Committee Chairman Gary Peters (D-Mich.) and ranking member Rob PortmanRobert (Rob) Jones PortmanThe United States must lead the way on artificial intelligence standards The most important part of the infrastructure bill is little noticed Hillicon Valley — Presented by Ericsson — Bill would give some groups 24 hours to report ransomware payments MORE (R-Ohio) introduced a bill Monday to overhaul and improve federal cybersecurity policies following multiple major cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK plans to invest £5 billion in retaliatory cyber-attacks<a href="https://www.bleepingcomputer.com/news/security/uk-plans-to-invest-5-billion-in-retaliatory-cyber-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom has revealed plans to invest £5 billion in bolstering national cybersecurity that includes creating a "Cyber Force" unit to perform retaliatory attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
