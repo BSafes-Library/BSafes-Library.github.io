@@ -34,6 +34,586 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. govt to sue contractors who hide breach incidents<a href="https://www.bleepingcomputer.com/news/security/us-govt-to-sue-contractors-who-hide-breach-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under the new Civil Cyber-Fraud Initiative that the U.S. Department of Justice announced today, government contractors are accountable in a civil court if they don't report a breach or fail to meet required cybersecurity standards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers had Access to OSF HealthCare's IT Systems for Six Weeks Before Outage<a href="https://www.beckershospitalreview.com/cybersecurity/hacker-had-access-to-osf-healthcare-s-it-systems-for-6-weeks-before-outage.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patient information exposed by the incident included names, birthdates, Social Security numbers, treatment details, prescription details, and health insurance details.
+</details>
+<div style="text-align: right" markdown="1">
+Becker's Health IT Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers advocate for establishment of standalone House and Senate cyber panels<a href="https://thehill.com//policy/cybersecurity/575639-lawmakers-advocate-for-establishment-of-standalone-cyber-panels-in-house"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers on both sides of the aisle Wednesday argued for the need to establish standalone cybersecurity committees in the House and Senate to address mounting threats and streamline an increasingly bogged down process to approve legislation. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Abuse Dropbox in Cyberattacks Against Aerospace and Telecom Firms<a href="https://thehackernews.com/2021/10/iranian-hackers-abuse-dropbox-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a new cyber espionage campaign directed against the aerospace and telecommunications industries, primarily in the Middle East, with the goal of stealing sensitive information about critical assets, organizations' infrastructure, and technology while remaining in the dark and successfully evading security solutions.  Boston-based cybersecurity company Cybereason dubbed the attacks " Operation Ghostshell ," pointing out the use of a previously undocumented and stealthy remote access trojan (RAT) called ShellClient that's deployed as the main spy tool of choice. The first sign of the attacks was observed in July 2021 against a handpicked set of victims, indicating a highly targeted approach.  "The ShellClient RAT has been under ongoing development since at least 2018, with several iterations that introduced new functionalities, while it evaded antivirus tools and managed to remain undetected and publicly unknown," researchers Tom Fak
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: Researchers dumped Gigabytes of data from Agent Tesla C2Cs<a href="https://securityaffairs.co/wordpress/123039/malware/agent-tesla-c2c-dumped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity researchers dumped Gigabytes of data from Agent Tesla C2Cs, one of the most well-known cyberespionage tools suffers a data leakage.
+
+
+
+Agent Tesla, first discovered in late 2014, is an extremely popular "malware-as-a-service" Remote Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use stealthy ShellClient malware on aerospace, telco firms<a href="https://www.bleepingcomputer.com/news/security/hackers-use-stealthy-shellclient-malware-on-aerospace-telco-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat researchers investigating malware used to target companies in the aerospace and telecommunications sectors discovered a new threat actor that has been running cyber espionage campaigns since at least 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackstone-backed Patria creates Latam cybersecurity platform, eyes IPO<a href="https://www.reuters.com/technology/blackstone-backed-patria-creates-latam-cybersecurity-platform-eyes-ipo-2021-10-05/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian asset manager Patria Investments Ltd has acquired cybersecurity companies Neosecure and Proteus to create the largest information security platform in Latin America, it said on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bill requiring companies report cyber incidents moves forward in the Senate<a href="https://thehill.com//policy/cybersecurity/575627-bill-requiring-organization-to-report-cyber-incidents-moves-forward-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Homeland Security and Governmental Affairs Committee on Wednesday approved legislation to require many companies to report both major cybersecurity breaches and payments made related to ransomware attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to turn on 2-factor authentication by default for 150 million users<a href="https://thehackernews.com/2021/10/google-to-turns-on-2-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to automatically enroll about 150 million users into its two-factor authentication scheme by the end of the year as part of its ongoing efforts to prevent unauthorized access to accounts and improve security.  In addition, the internet giant said it also intends to require 2 million YouTube creators to switch on the setting, which it calls two-step verification (2SV), to protect their channels from potential takeover attacks.   "2SV is strongest when it combines both 'something you know' (like a password) and 'something you have' (like your phone or a security key)," Google's AbdelKarim Mardini and Guemmy Kim  said  in a post, adding "having a second form of authentication dramatically decreases an attacker's chance of gaining access to an account."  The rollout follows the  company's proposals  to beef up account sign-ins earlier this May, when it said it intends to "automatically enrolling users in 2SV i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch source code and sensitive data leaked online<a href="https://securityaffairs.co/wordpress/123030/data-breach/twitch-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An anonymous individual has leaked the source code and data of the popular video streaming platform Twitch via a torrent file posted on 4chan.
+
+
+
+An anonymous individual has leaked online the source code and streamers and users data of the popular video...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited Apache 0-day also allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-apache-0-day-also-allows-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-Concept (PoC) exploits for the Apache web server zero-day surfaced on the internet revealing that the vulnerability is far more critical than originally disclosed. These exploits show that the scope of the vulnerability transcends path traversal, allowing attackers remote code execution (RCE) abilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's in a Threat Group Name? An Inside Look at the Intricacies of Nation-State Attribution<a href="https://www.securityweek.com/whats-threat-group-name-inside-look-intricacies-nation-state-attribution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Different researchers may see similar activity clusters at the same time, but because of their limited visibility, may be unaware that other researchers are going through the same process.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch hack allegedly includes source code and earnings for streamers<a href="https://thehill.com//policy/cybersecurity/575592-twitch-hack-allegedly-includes-source-code-and-earnings-for-streamers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online video game streaming service Twitch suffered a hack on Wednesday that leaked sources codes, user payouts and earnings for streamers, The Wall Street Journal reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Critical Flaws Discovered in Honeywell Experion PKS and ACE Controllers<a href="https://thehackernews.com/2021/10/multiple-critical-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday  released  an advisory regarding multiple security vulnerabilities affecting all versions of Honeywell Experion Process Knowledge System C200, C200E, C300, and ACE controllers that could be exploited to achieve remote code execution and denial-of-service (DoS) conditions.  "A Control Component Library (CCL) may be modified by a bad actor and loaded to a controller such that malicious code is executed by the controller," Honeywell  noted  in an independent security notification published earlier this February. Credited with discovering and reporting the flaws are Rei Henigman and Nadav Erez of industrial cybersecurity firm Claroty.   Experion Process Knowledge System (PKS) is a distributed control system ( DCS ) that's designed to control large industrial processes spanning a variety of sectors ranging from petrochemical refineries to nuclear power plants where high reliability and security is imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arizona governor announces the launch of  Command Center to protect state computer systems<a href="https://securityaffairs.co/wordpress/123005/security/arizona-command-center-combat-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The governor of Arizona, Doug Ducey, has announced the launch of a Cyber Command Center to address the thousands of attacks that daily target government computers.
+
+
+
+The governor of Arizona, Doug Ducey, has launched a Cyber Command Center to repel the huge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medtronic urgently recalls insulin pump controllers over hacking concerns<a href="https://www.bleepingcomputer.com/news/security/medtronic-urgently-recalls-insulin-pump-controllers-over-hacking-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medtronic is urgently recalling remote controllers for insulin pumps belonging to its 'MiniMed Paradigm' family of products, due to potential cybersecurity risks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One in three IT security managers don’t have a formal cybersecurity incident response plan<a href="https://www.helpnetsecurity.com/2021/10/06/response-plan-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of industry, information security incidents have become more of a targeted threat for businesses, increasing in amount and efficacy, according to the 2021 Data Security Report from GetApp.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA to issue regulations to secure rail, aviation groups against cyber threats<a href="https://thehill.com//policy/cybersecurity/575580-tsa-to-issue-regulations-to-secure-rail-aviation-groups-against-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) will soon issue regulations to further secure rail transit and airline companies against cyber threats, Homeland Security Secretary Alejandro Mayorkas announced Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK newspaper The Telegraph exposed a 10TB database with subscriber data<a href="https://securityaffairs.co/wordpress/123020/data-breach/the-telegraph-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK media outlet The Telegraph has leaked 10 TB of  subscriber data after failing to properly secure one of its databases. 
+
+
+
+The UK newspaper The Telegraph’, one of the UK’s largest newspapers and online media outlets, has leaked 10 TB of data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Twitch hack: Source code and payment reports leaked<a href="https://www.bleepingcomputer.com/news/security/massive-twitch-hack-source-code-and-payment-reports-leaked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitch source code, as well as streamers' and users' sensitive information, was allegedly leaked online by an anonymous user on the 4chan imageboard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Clothing Brand Next Level Apparel Reports Phishing-related Data Breach<a href="https://portswigger.net/daily-swig/us-clothing-brand-next-level-apparel-reports-phishing-related-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Next Level Apparel, a wholesale producer and online retailer of blank apparel, said it “could not confirm that any individual's information was in fact viewed by an unauthorized person”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ to go after government contractors that fail to report breaches<a href="https://thehill.com//policy/cybersecurity/575557-doj-to-go-after-government-contractors-that-fail-to-report-breaches"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) said Wednesday it will go after federal contractors that fail to report cybersecurity incidents to the U.S. government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LANtenna attack allows exfiltrating data from Air-Gapped systems via Ethernet cables<a href="https://securityaffairs.co/wordpress/123008/hacking/lantenna-attack-exfiltration-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins devised a new technique, dubbed LANtenna, to exfiltrate data from systems in air-gapped networks using Ethernet cables as a "transmitting antenna." 
+
+
+
+Security researchers from the Cyber Security Research Center in the Ben Gurion University...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares Windows 11 TPM check bypass for unsupported PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-windows-11-tpm-check-bypass-for-unsupported-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published a new support webpage where they provide an official method to bypass the TPM 2.0 and CPU checks (TPM 1.2 is still required) and have Windows 11 installed on unsupported systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mana Tools: A Malware C2 Panel with a Past<a href="https://www.riskiq.com/blog/external-threat-management/mana-tools-malware-c2-panel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mana Tools was first reported in 2019 by Yoroi researchers who identified it as a fork of the AzoRult 3.2 malware created by a Pakistani actor named Aqib Waseem, better known as Hagga.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox improves advertising tracker blocking in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-improves-advertising-tracker-blocking-in-private-browsing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla says that Firefox users will be better protected from advertising trackers (like Google Analytics scripts) while browsing the Internet in Private Browsing mode and using Strict Tracking Protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FDA: How to Inform Patients About Medical Device Cyber Flaws<a href="https://www.govinfosecurity.com/fda-how-to-inform-patients-about-medical-device-cyber-flaws-a-17677?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These devices range from Software as a Medical Device, such as certain mobile phone applications, to implantable medical devices, such as pacemakers, the federal agency notes.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Disclosure Act would give victims 48 hours to report payments<a href="https://www.bleepingcomputer.com/news/legal/ransom-disclosure-act-would-give-victims-48-hours-to-report-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of ransomware attacks in the United States may soon have to report any payments to hackers within 48 hours, as required by a new legislation proposal titled the 'Ransom Disclosure Act'.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ATO attacks increased 307% between 2019 and 2021<a href="https://www.helpnetsecurity.com/2021/10/06/ato-attacks-increased/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report released by Sift revealed a staggering 307% increase in ATO attacks between April 2019—shortly after many COVID-19 stay-at-home orders were enacted—and June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired IT admin revenge-hacks school by wiping data, changing passwords<a href="https://www.bleepingcomputer.com/news/security/fired-it-admin-revenge-hacks-school-by-wiping-data-changing-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 29-year old wiped data on systems of a secondary school in the U.K. and changed the passwords at an IT company, in retaliatory cyber attacks for being fired.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chase Bank Heavily Targeted Via XBALTI Phishing Kit<a href="https://www.securityweek.com/chase-bank-heavily-targeted-xbalti-phishing-kit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the three months from mid-May to mid-August 2021, Cyren researchers detected a 300% increase in phishing URLs and kits within their own telemetry targeting Chase Bank.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IP Surveillance Bugs in Axis Gear Allow RCE, Data Theft<a href="https://threatpost.com/ip-surveillance-bugs-axis-rce-data-theft/175350/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities in Axis video products could open up the door to a bevy of different cyberattacks on businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Web Server Zero-Day Exposes Sensitive Data<a href="https://threatpost.com/apache-web-server-zero-day-sensitive-data/175340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source project has rolled out a security fix for CVE-2021-41773, for which public cyberattack exploit code is circulating.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Blames Outage on Faulty Router Configuration<a href="https://threatpost.com/facebook-blames-outage-on-faulty-router-configuration/175322/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One easily disproved conspiracy theory linked the ~six-hour outage to a supposed data breach tied to a Sept. 22 hacker forum ad for 1.5B Facebook user records.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oops! Compound DeFi Platform Gives Out $90M, Would Like it Back, Please<a href="https://threatpost.com/compound-defi-platform-90m/175321/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Compound cryptocurrency exchange accidentally botched a platform upgrade and distributed millions in free COMP tokens to users – then threatened to dox the recipients.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 05, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackstone-backed Patria creates Latam cybersecurity platform, eyes IPO<a href="https://www.reuters.com/technology/blackstone-backed-patria-creates-latam-cybersecurity-platform-eyes-ipo-2021-10-05/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian asset manager Patria Investments Ltd has acquired cybersecurity companies Neosecure and Proteus to create the largest information security platform in Latin America, it said on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

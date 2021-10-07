@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Links Seemingly Disparate Malware Attacks to Chinese Hackers<a href="https://thehackernews.com/2021/10/new-study-links-seemingly-disparate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cyber espionage group APT41 has been linked to seemingly disparate malware campaigns, according to fresh research that has mapped together additional parts of the group's network infrastructure to hit upon a state-sponsored campaign that takes advantage of COVID-themed phishing lures to target victims in India.&nbsp;  "The image we uncovered was that of a state-sponsored campaign that plays on people's hopes for a swift end to the pandemic as a lure to entrap its victims," the BlackBerry Research and Intelligence team said in a report  shared with The Hacker News. "And once on a user's machine, the threat blends into the digital woodwork by using its own customized profile to hide its network traffic."  APT41 (aka Barium or Winnti) is a moniker assigned to a prolific&nbsp;Chinese cyber threat group&nbsp;that carries out state-sponsored espionage activity in conjunction with financially motivated operations for personal gain as far back as 2012. Calling the gro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web marketplace White House announces end to its operations<a href="https://securityaffairs.co/wordpress/122974/cyber-crime/dark-web-marketplace-white-house-closes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web marketplace White House Market shuts down its operation, last week its operators announced that they were retiring. 
+
+
+
+The dark web marketplace White House Market shuts down its operation, the announcement was published on a dread forum....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

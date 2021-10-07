@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chase Bank Heavily Targeted Via XBALTI Phishing Kit<a href="https://www.securityweek.com/chase-bank-heavily-targeted-xbalti-phishing-kit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the three months from mid-May to mid-August 2021, Cyren researchers detected a 300% increase in phishing URLs and kits within their own telemetry targeting Chase Bank.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

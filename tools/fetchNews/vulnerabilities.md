@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache patch a zero-day flaw exploited in the wild<a href="https://securityaffairs.co/wordpress/122999/hacking/apache-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has addressed two vulnerabilities, one of which is a path traversal and file disclosure flaw in its HTTP server actively exploited in the wild. 
+
+
+
+Apache has rolled out security patches to address two flaws, including a path traversal and file...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Warns of Zero-Day Exploit in the Wild — Patch Your Web Servers Now!<a href="https://thehackernews.com/2021/10/apache-warns-of-zero-day-exploit-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has issued patches to address two security vulnerabilities, including a path traversal and file disclosure flaw in its HTTP server that it said is being actively exploited in the wild.  "A flaw was found in a change made to path normalization in Apache HTTP Server 2.4.49. An attacker could use a path traversal attack to map URLs to files outside the expected document root," the open-source project maintainers&nbsp; noted &nbsp;in an advisory published Tuesday.  "If files outside of the document root are not protected by 'require all denied' these requests can succeed. Additionally this flaw could leak the source of interpreted files like CGI scripts."   The flaw, tracked as&nbsp; CVE-2021-41773 , affects only Apache HTTP server version 2.4.49. Ash Daulton and cPanel Security Team have been credited with discovering and reporting the issue on September 29, 2021.  Source: PT SWARM  Also resolved by Apache is a null pointer dereference vulnerability observed during pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache fixes actively exploited zero-day vulnerability, patch now<a href="https://www.bleepingcomputer.com/news/security/apache-fixes-actively-exploited-zero-day-vulnerability-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation has released version 2.4.50 of the HTTP Web Server to address two vulnerabilities, one of which is an actively exploited path traversal and file disclosure flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android October patch fixes three critical bugs, 41 flaws in total<a href="https://www.bleepingcomputer.com/news/security/android-october-patch-fixes-three-critical-bugs-41-flaws-in-total/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the Android October security updates, addressing 41 vulnerabilities, all ranging between high and critical severity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Apache Airflow servers leak thousands of credentials<a href="https://securityaffairs.co/wordpress/122941/security/misconfigured-apache-airflow-leak-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered many misconfigured Apache Airflow servers exposed online that were leaking sensitive information from prominent tech&nbsp;firms.
+
+
+
+Apache Airflow&nbsp;is an open-source workflow management platform used by many organizations worldwide for automating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

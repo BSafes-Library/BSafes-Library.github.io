@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+October 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Telegraph exposes 10 TB database with subscriber info<a href="https://www.bleepingcomputer.com/news/security/the-telegraph-exposes-10-tb-database-with-subscriber-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+'The Telegraph', one of UK's largest newspapers and online media outlets, has leaked 10 TB of data after failing to properly secure one of its databases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured, Old Apache Airflow Instances Leak Slack, AWS Credentials<a href="https://www.zdnet.com/article/misconfigured-airflow-instances-leak-slack-aws-credentials/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, Intezer researchers said the instances, vulnerable to data theft, belong to industries including IT, cybersecurity, health, energy, finance, and manufacturing, among other sectors.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telco service provider giant Syniverse had unauthorized access since 2016<a href="https://securityaffairs.co/wordpress/122986/data-breach/syniverse-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Syniverse service provider discloses a security breach, threat actors have had access to its databases since 2016 and gained some customers' credentials.
+
+
+
+Syniverse&nbsp;is a global company that provides technology and business services for a number of telecommunications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OnionShare: Secure communications platform used by whistleblowers and journalists patches data exposure bug<a href="https://portswigger.net/daily-swig/onionshare-secure-communications-platform-used-by-whistleblowers-and-journalists-patches-data-exposure-bug?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A tool used by whisteblowers and the media to securely send information has patched two vulnerabilities that could have impacted the anonymous nature of the file-sharing system.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

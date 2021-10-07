@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to turn on 2-factor authentication by default for 150 million users<a href="https://thehackernews.com/2021/10/google-to-turns-on-2-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to automatically enroll about 150 million users into its two-factor authentication scheme by the end of the year as part of its ongoing efforts to prevent unauthorized access to accounts and improve security.  In addition, the internet giant said it also intends to require 2 million YouTube creators to switch on the setting, which it calls two-step verification (2SV), to protect their channels from potential takeover attacks.   "2SV is strongest when it combines both 'something you know' (like a password) and 'something you have' (like your phone or a security key)," Google's AbdelKarim Mardini and Guemmy Kim&nbsp; said &nbsp;in a post, adding "having a second form of authentication dramatically decreases an attacker's chance of gaining access to an account."  The rollout follows the&nbsp; company's proposals &nbsp;to beef up account sign-ins earlier this May, when it said it intends to "automatically enrolling users in 2SV i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares Windows 11 TPM check bypass for unsupported PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-windows-11-tpm-check-bypass-for-unsupported-pcs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published a new support webpage where they provide an official method to bypass the TPM 2.0 and CPU checks (TPM 1.2 is still required) and have Windows 11 installed on unsupported systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox improves advertising tracker blocking in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-improves-advertising-tracker-blocking-in-private-browsing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla says that Firefox users will be better protected from advertising trackers (like Google Analytics scripts) while browsing the Internet in Private Browsing mode and using&nbsp;Strict Tracking Protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

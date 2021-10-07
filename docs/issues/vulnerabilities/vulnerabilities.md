@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited Apache 0-day also allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-apache-0-day-also-allows-remote-code-execution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-Concept (PoC) exploits for the Apache web server zero-day surfaced on the internet revealing that the vulnerability is far more critical than originally disclosed. These exploits show that the scope of the vulnerability transcends path traversal, allowing attackers remote code execution (RCE) abilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Critical Flaws Discovered in Honeywell Experion PKS and ACE Controllers<a href="https://thehackernews.com/2021/10/multiple-critical-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday&nbsp; released &nbsp;an advisory regarding multiple security vulnerabilities affecting all versions of Honeywell Experion Process Knowledge System C200, C200E, C300, and ACE controllers that could be exploited to achieve remote code execution and denial-of-service (DoS) conditions.  "A Control Component Library (CCL) may be modified by a bad actor and loaded to a controller such that malicious code is executed by the controller," Honeywell&nbsp; noted &nbsp;in an independent security notification published earlier this February. Credited with discovering and reporting the flaws are Rei Henigman and Nadav Erez of industrial cybersecurity firm Claroty.   Experion Process Knowledge System (PKS) is a distributed control system ( DCS ) that's designed to control large industrial processes spanning a variety of sectors ranging from petrochemical refineries to nuclear power plants where high reliability and security is imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medtronic urgently recalls insulin pump controllers over hacking concerns<a href="https://www.bleepingcomputer.com/news/security/medtronic-urgently-recalls-insulin-pump-controllers-over-hacking-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medtronic is urgently recalling remote controllers for insulin pumps belonging to its 'MiniMed Paradigm' family of products, due to potential cybersecurity risks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IP Surveillance Bugs in Axis Gear Allow RCE, Data Theft<a href="https://threatpost.com/ip-surveillance-bugs-axis-rce-data-theft/175350/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities in Axis video products could open up the door to a bevy of different cyberattacks on businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Web Server Zero-Day Exposes Sensitive Data<a href="https://threatpost.com/apache-web-server-zero-day-sensitive-data/175340/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source project has rolled out a security fix for CVE-2021-41773, for which public cyberattack exploit code is circulating.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

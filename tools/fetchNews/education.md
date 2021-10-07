@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build an Incident-Response Plan, Before Security Disaster Strikes<a href="https://threatpost.com/incident-response-plan-security-disaster/175335/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, Chief Security Scientist at ThycoticCentrify, offers a 7-step practical IR checklist for ensuring a swift recovery from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

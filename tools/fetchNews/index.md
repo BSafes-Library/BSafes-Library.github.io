@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. govt to sue contractors who hide breach incidents<a href="https://www.bleepingcomputer.com/news/security/us-govt-to-sue-contractors-who-hide-breach-incidents/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers had Access to OSF HealthCare's IT Systems for Six Weeks Before Outage<a href="https://www.beckershospitalreview.com/cybersecurity/hacker-had-access-to-osf-healthcare-s-it-systems-for-6-weeks-before-outage.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Becker's Health IT Review
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers advocate for establishment of standalone House and Senate cyber panels<a href="https://thehill.com//policy/cybersecurity/575639-lawmakers-advocate-for-establishment-of-standalone-cyber-panels-in-house"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Abuse Dropbox in Cyberattacks Against Aerospace and Telecom Firms<a href="https://thehackernews.com/2021/10/iranian-hackers-abuse-dropbox-in.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exclusive: Researchers dumped Gigabytes of data from Agent Tesla C2Cs<a href="https://securityaffairs.co/wordpress/123039/malware/agent-tesla-c2c-dumped.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use stealthy ShellClient malware on aerospace, telco firms<a href="https://www.bleepingcomputer.com/news/security/hackers-use-stealthy-shellclient-malware-on-aerospace-telco-firms/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackstone-backed Patria creates Latam cybersecurity platform, eyes IPO<a href="https://www.reuters.com/technology/blackstone-backed-patria-creates-latam-cybersecurity-platform-eyes-ipo-2021-10-05/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bill requiring companies report cyber incidents moves forward in the Senate<a href="https://thehill.com//policy/cybersecurity/575627-bill-requiring-organization-to-report-cyber-incidents-moves-forward-in"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to turn on 2-factor authentication by default for 150 million users<a href="https://thehackernews.com/2021/10/google-to-turns-on-2-factor.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch source code and sensitive data leaked online<a href="https://securityaffairs.co/wordpress/123030/data-breach/twitch-data-leak.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Actively exploited Apache 0-day also allows remote code execution<a href="https://www.bleepingcomputer.com/news/security/actively-exploited-apache-0-day-also-allows-remote-code-execution/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's in a Threat Group Name? An Inside Look at the Intricacies of Nation-State Attribution<a href="https://www.securityweek.com/whats-threat-group-name-inside-look-intricacies-nation-state-attribution?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch hack allegedly includes source code and earnings for streamers<a href="https://thehill.com//policy/cybersecurity/575592-twitch-hack-allegedly-includes-source-code-and-earnings-for-streamers"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Critical Flaws Discovered in Honeywell Experion PKS and ACE Controllers<a href="https://thehackernews.com/2021/10/multiple-critical-flaws-discovered-in.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arizona governor announces the launch of  Command Center to protect state computer systems<a href="https://securityaffairs.co/wordpress/123005/security/arizona-command-center-combat-cyberattacks.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medtronic urgently recalls insulin pump controllers over hacking concerns<a href="https://www.bleepingcomputer.com/news/security/medtronic-urgently-recalls-insulin-pump-controllers-over-hacking-concerns/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One in three IT security managers don’t have a formal cybersecurity incident response plan<a href="https://www.helpnetsecurity.com/2021/10/06/response-plan-cybersecurity/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA to issue regulations to secure rail, aviation groups against cyber threats<a href="https://thehill.com//policy/cybersecurity/575580-tsa-to-issue-regulations-to-secure-rail-aviation-groups-against-cyber"> Full Text</a>
@@ -334,7 +334,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK newspaper The Telegraph exposed a 10TB database with subscriber data<a href="https://securityaffairs.co/wordpress/123020/data-breach/the-telegraph-data-leak.html"> Full Text</a>
@@ -354,7 +354,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Twitch hack: Source code and payment reports leaked<a href="https://www.bleepingcomputer.com/news/security/massive-twitch-hack-source-code-and-payment-reports-leaked/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Clothing Brand Next Level Apparel Reports Phishing-related Data Breach<a href="https://portswigger.net/daily-swig/us-clothing-brand-next-level-apparel-reports-phishing-related-data-breach?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ to go after government contractors that fail to report breaches<a href="https://thehill.com//policy/cybersecurity/575557-doj-to-go-after-government-contractors-that-fail-to-report-breaches"> Full Text</a>
@@ -402,7 +402,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LANtenna attack allows exfiltrating data from Air-Gapped systems via Ethernet cables<a href="https://securityaffairs.co/wordpress/123008/hacking/lantenna-attack-exfiltration-technique.html"> Full Text</a>
@@ -422,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft shares Windows 11 TPM check bypass for unsupported PCs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-windows-11-tpm-check-bypass-for-unsupported-pcs/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mana Tools: A Malware C2 Panel with a Past<a href="https://www.riskiq.com/blog/external-threat-management/mana-tools-malware-c2-panel/?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Risk IQ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox improves advertising tracker blocking in private browsing<a href="https://www.bleepingcomputer.com/news/security/firefox-improves-advertising-tracker-blocking-in-private-browsing/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FDA: How to Inform Patients About Medical Device Cyber Flaws<a href="https://www.govinfosecurity.com/fda-how-to-inform-patients-about-medical-device-cyber-flaws-a-17677?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Disclosure Act would give victims 48 hours to report payments<a href="https://www.bleepingcomputer.com/news/legal/ransom-disclosure-act-would-give-victims-48-hours-to-report-payments/"> Full Text</a>
@@ -502,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ATO attacks increased 307% between 2019 and 2021<a href="https://www.helpnetsecurity.com/2021/10/06/ato-attacks-increased/?&web_view=true"> Full Text</a>
@@ -518,7 +518,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fired IT admin revenge-hacks school by wiping data, changing passwords<a href="https://www.bleepingcomputer.com/news/security/fired-it-admin-revenge-hacks-school-by-wiping-data-changing-passwords/"> Full Text</a>
@@ -534,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chase Bank Heavily Targeted Via XBALTI Phishing Kit<a href="https://www.securityweek.com/chase-bank-heavily-targeted-xbalti-phishing-kit?&web_view=true"> Full Text</a>
@@ -550,7 +550,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IP Surveillance Bugs in Axis Gear Allow RCE, Data Theft<a href="https://threatpost.com/ip-surveillance-bugs-axis-rce-data-theft/175350/"> Full Text</a>
@@ -566,7 +566,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Web Server Zero-Day Exposes Sensitive Data<a href="https://threatpost.com/apache-web-server-zero-day-sensitive-data/175340/"> Full Text</a>
@@ -582,7 +582,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Blames Outage on Faulty Router Configuration<a href="https://threatpost.com/facebook-blames-outage-on-faulty-router-configuration/175322/"> Full Text</a>
@@ -598,7 +598,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2021
+October 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oops! Compound DeFi Platform Gives Out $90M, Would Like it Back, Please<a href="https://threatpost.com/compound-defi-platform-90m/175321/"> Full Text</a>

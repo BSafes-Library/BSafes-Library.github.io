@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Aims at Virtual Machines, ESXi Hypervisors to Encrypt Disks<a href="https://www.zdnet.com/article/new-python-ransomware-targets-virtual-machines-esxi-hypervisor-to-encrypt-disks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, one of the fastest recorded by Sophos researchers, was achieved by operators who "precision-targeted the ESXi platform" in order to encrypt the virtual machines of the victim.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

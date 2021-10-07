@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. govt to sue contractors who hide breach incidents<a href="https://www.bleepingcomputer.com/news/security/us-govt-to-sue-contractors-who-hide-breach-incidents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under the new Civil Cyber-Fraud Initiative that the U.S. Department of Justice announced today, government contractors are accountable in a civil court if they don't report a breach or fail to meet required cybersecurity standards.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bill requiring companies report cyber incidents moves forward in the Senate<a href="https://thehill.com//policy/cybersecurity/575627-bill-requiring-organization-to-report-cyber-incidents-moves-forward-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Homeland Security and Governmental Affairs Committee on Wednesday approved legislation to require many companies to report both major cybersecurity breaches and payments made related to ransomware attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arizona governor announces the launch of  Command Center to protect state computer systems<a href="https://securityaffairs.co/wordpress/123005/security/arizona-command-center-combat-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The governor of Arizona, Doug Ducey, has announced the launch of a Cyber Command Center to address the thousands of attacks that daily target government computers.
+
+
+
+The governor of Arizona, Doug Ducey, has launched a Cyber Command Center to repel the huge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ to go after government contractors that fail to report breaches<a href="https://thehill.com//policy/cybersecurity/575557-doj-to-go-after-government-contractors-that-fail-to-report-breaches"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) said Wednesday it will go after federal contractors that fail to report cybersecurity incidents to the U.S. government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FDA: How to Inform Patients About Medical Device Cyber Flaws<a href="https://www.govinfosecurity.com/fda-how-to-inform-patients-about-medical-device-cyber-flaws-a-17677?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These devices range from Software as a Medical Device, such as certain mobile phone applications, to implantable medical devices, such as pacemakers, the federal agency notes.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
