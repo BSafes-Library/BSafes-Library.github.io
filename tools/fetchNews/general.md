@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers advocate for establishment of standalone House and Senate cyber panels<a href="https://thehill.com//policy/cybersecurity/575639-lawmakers-advocate-for-establishment-of-standalone-cyber-panels-in-house"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers on both sides of the aisle Wednesday argued for the need to establish standalone cybersecurity committees in the House and Senate to address mounting threats and streamline an increasingly bogged down process to approve legislation.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's in a Threat Group Name? An Inside Look at the Intricacies of Nation-State Attribution<a href="https://www.securityweek.com/whats-threat-group-name-inside-look-intricacies-nation-state-attribution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Different researchers may see similar activity clusters at the same time, but because of their limited visibility, may be unaware that other researchers are going through the same process.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One in three IT security managers don’t have a formal cybersecurity incident response plan<a href="https://www.helpnetsecurity.com/2021/10/06/response-plan-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of industry, information security incidents have become more of a targeted threat for businesses, increasing in amount and efficacy, according to the 2021 Data Security Report from GetApp.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ATO attacks increased 307% between 2019 and 2021<a href="https://www.helpnetsecurity.com/2021/10/06/ato-attacks-increased/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report released by Sift revealed a staggering 307% increase in ATO attacks between April 2019—shortly after many COVID-19 stay-at-home orders were enacted—and June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

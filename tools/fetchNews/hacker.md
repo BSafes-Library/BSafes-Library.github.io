@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Abuse Dropbox in Cyberattacks Against Aerospace and Telecom Firms<a href="https://thehackernews.com/2021/10/iranian-hackers-abuse-dropbox-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a new cyber espionage campaign directed against the aerospace and telecommunications industries, primarily in the Middle East, with the goal of stealing sensitive information about critical assets, organizations' infrastructure, and technology while remaining in the dark and successfully evading security solutions.  Boston-based cybersecurity company Cybereason dubbed the attacks " Operation Ghostshell ," pointing out the use of a previously undocumented and stealthy remote access trojan (RAT) called ShellClient that's deployed as the main spy tool of choice. The first sign of the attacks was observed in July 2021 against a handpicked set of victims, indicating a highly targeted approach.  "The ShellClient RAT has been under ongoing development since at least 2018, with several iterations that introduced new functionalities, while it evaded antivirus tools and managed to remain undetected and publicly unknown," researchers Tom Fak
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: Researchers dumped Gigabytes of data from Agent Tesla C2Cs<a href="https://securityaffairs.co/wordpress/123039/malware/agent-tesla-c2c-dumped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity researchers dumped Gigabytes of data from Agent Tesla C2Cs, one of the most well-known cyberespionage tools suffers a data leakage.
+
+
+
+Agent Tesla, first discovered in late 2014, is an extremely popular "malware-as-a-service" Remote Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use stealthy ShellClient malware on aerospace, telco firms<a href="https://www.bleepingcomputer.com/news/security/hackers-use-stealthy-shellclient-malware-on-aerospace-telco-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat researchers investigating malware used to target companies in the aerospace and telecommunications sectors discovered a new threat actor that has been running cyber espionage campaigns since at least 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

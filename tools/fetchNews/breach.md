@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch source code and sensitive data leaked online<a href="https://securityaffairs.co/wordpress/123030/data-breach/twitch-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An anonymous individual has leaked the source code and data of the popular video streaming platform Twitch via a torrent file posted on 4chan.
+
+
+
+An anonymous individual has leaked online the source code and streamers and users data of the popular video...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK newspaper The Telegraph exposed a 10TB database with subscriber data<a href="https://securityaffairs.co/wordpress/123020/data-breach/the-telegraph-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK media outlet The Telegraph has leaked 10 TB of  subscriber data after failing to properly secure one of its databases. 
+
+
+
+The UK newspaper The Telegraph’, one of the UK’s largest newspapers and online media outlets, has leaked 10 TB of data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Twitch hack: Source code and payment reports leaked<a href="https://www.bleepingcomputer.com/news/security/massive-twitch-hack-source-code-and-payment-reports-leaked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitch source code, as well as streamers' and users' sensitive information, was allegedly leaked online by an anonymous user on the 4chan imageboard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Clothing Brand Next Level Apparel Reports Phishing-related Data Breach<a href="https://portswigger.net/daily-swig/us-clothing-brand-next-level-apparel-reports-phishing-related-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Next Level Apparel, a wholesale producer and online retailer of blank apparel, said it “could not confirm that any individual's information was in fact viewed by an unauthorized person”.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google warns 14,000 Gmail users targeted by Russian hackers<a href="https://www.bleepingcomputer.com/news/security/google-warns-14-000-gmail-users-targeted-by-russian-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has warned about 14,000 of its users about being targeted in a state-sponsored phishing campaign from APT28, a threat group that has been linked to Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN12 hits healthcare with quick and focused ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/fin12-hits-healthcare-with-quick-and-focused-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While most ransomware actors spend time on the victim network looking for important data to steal, one group favors quick malware deployment against sensitive, high-value targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

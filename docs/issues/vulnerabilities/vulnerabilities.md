@@ -8,6 +8,108 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code Execution Bug Affects Yamale Python Package — Used by Over 200 Projects<a href="https://thehackernews.com/2021/10/code-execution-bug-affects-yamale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity code injection vulnerability has been disclosed in 23andMe's Yamale, a schema and validator for YAML, that could be trivially exploited by adversaries to execute arbitrary Python code.  The flaw, tracked as&nbsp; CVE-2021-38305 &nbsp;(CVSS score: 7.8), involves manipulating the schema file provided as input to the tool to circumvent protections and achieve code execution. Particularly, the&nbsp; issue &nbsp;resides in the schema parsing function, which allows any input passed to be evaluated and executed, resulting in a scenario where a specially-crafted string within the schema can be abused for the injection of system commands.   Yamale is a Python package that allows developers to validate YAML — a data serialization language often used for writing configuration files — from the command line. The package is used by at least&nbsp; 224 repositories &nbsp;on GitHub.&nbsp;  "This gap allows attackers that can provide an input schema file to perform Python code injection that leads to code execut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit for 2 flaws in Dahua cameras leaked online<a href="https://securityaffairs.co/wordpress/123076/hacking/dahua-cameras-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proof of concept exploit for two authentication bypass vulnerabilities in Dahua cameras is available online, users are recommended to immediately apply updates. 
+
+
+
+Experts warn of the availability of proof of concept (PoC) exploit code for a couple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache emergency update fixes incomplete patch for exploited bug<a href="https://www.bleepingcomputer.com/news/security/apache-emergency-update-fixes-incomplete-patch-for-exploited-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache Software Foundation has released HTTP Web Server 2.4.51 after researchers discovered that a previous security update didn't correctly fix an actively exploited vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in Security Appliances, Business Switches<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-security-appliances-business-switches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week released patches for multiple high-severity vulnerabilities affecting its Web Security Appliance (WSA), Intersight Virtual Appliance, Small Business 220 switches, and other products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes bug blocking Azure Virtual Desktops security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-blocking-azure-virtual-desktops-security-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a bug blocking some&nbsp;Azure Virtual Desktop&nbsp;(AVD) devices from downloading and installing monthly security via Windows Server Update Services (WSUS) since early July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ Unpatched Dahua cams vulnerable to unauthenticated remote access<a href="https://www.bleepingcomputer.com/news/security/unpatched-dahua-cams-vulnerable-to-unauthenticated-remote-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Dahua cameras are prone to two authentication bypass vulnerabilities, and a proof of concept exploit that came out today makes the case of upgrading pressing.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canopy Parental Control App Wide Open to Unpatched XSS Bugs<a href="https://threatpost.com/canopy-parental-control-app-unpatched-xss-bugs/175384/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The possible cyberattacks include disabling monitoring, location-tracking of children and malicious redirects of parent-console users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

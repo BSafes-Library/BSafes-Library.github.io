@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google warns 14,000 Gmail users targeted by Russian hackers<a href="https://www.bleepingcomputer.com/news/security/google-warns-14-000-gmail-users-targeted-by-russian-hackers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ASEAN regional cybersecurity training centre opens in Singapore<a href="https://www.channelnewsasia.com/singapore/new-regional-cybersecurity-training-centre-opens-singapore-2225216?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Channel News Asia
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian-speaking hacking group scaling up ransomware attacks on hospitals<a href="https://thehill.com//policy/cybersecurity/575787-russian-speaking-hacking-group-scaling-up-ransomware-attacks-on"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Code Execution Bug Affects Yamale Python Package — Used by Over 200 Projects<a href="https://thehackernews.com/2021/10/code-execution-bug-affects-yamale.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN12 ransomware gang don’t implement double extortion to prioritize speed<a href="https://securityaffairs.co/wordpress/123084/cyber-crime/fin12-ransomware-report.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft is disabling Excel 4.0 macros by default to protect users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-disabling-excel-40-macros-by-default-to-protect-users/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russia Behind 58% of Detected State-Backed Hacks<a href="https://www.securityweek.com/microsoft-russia-behind-58-detected-state-backed-hacks?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft report finds Russia dominant force behind cyberattacks in past year<a href="https://thehill.com//policy/cybersecurity/575756-microsoft-report-finds-russia-dominant-force-behind-cyberattacks-in-past"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Penetration Testing Your AWS Environment - A CTO's Guide<a href="https://thehackernews.com/2021/10/penetration-testing-your-aws.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploit for 2 flaws in Dahua cameras leaked online<a href="https://securityaffairs.co/wordpress/123076/hacking/dahua-cameras-flaws.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache emergency update fixes incomplete patch for exploited bug<a href="https://www.bleepingcomputer.com/news/security/apache-emergency-update-fixes-incomplete-patch-for-exploited-bug/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gretel AI raises $50M for a platform that provides synthetic datasets to ensure privacy of actual data<a href="https://techcrunch.com/2021/10/07/gretel-ai-raises-50m-for-a-platform-that-lets-engineers-build-and-use-synthetic-datasets-to-ensure-the-privacy-of-their-actual-data/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New U.S. Government Initiative Holds Contractors Accountable for Cybersecurity<a href="https://thehackernews.com/2021/10/us-justice-dept-launches-civil-cyber.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch data breach updates: login credentials or card numbers not exposed<a href="https://securityaffairs.co/wordpress/123060/data-breach/twitch-data-breach-updates.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN12 hits healthcare with quick and focused ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/fin12-hits-healthcare-with-quick-and-focused-ransomware-attacks/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches High-Severity Vulnerabilities in Security Appliances, Business Switches<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-security-appliances-business-switches?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple now requires all apps to make it easy for users to delete their accounts<a href="https://thehackernews.com/2021/10/apple-requires-devs-to-make-it-easy-for.html"> Full Text</a>
@@ -318,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation GhostShell: MalKamak APT targets aerospace and telco firms<a href="https://securityaffairs.co/wordpress/123045/apt/operation-ghostshell-shellclient-malware.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vidar stealer abuses Mastodon to silently get C2 configuration<a href="https://www.bleepingcomputer.com/news/security/vidar-stealer-abuses-mastodon-to-silently-get-c2-configuration/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 No, there isn’t proof that the private data of 1.5 billion Facebook users is being sold by hackers.<a href="https://www.nytimes.com/2021/10/05/technology/fb-hackers-data-sale.html?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox now shows ads as sponsored address bar suggestions<a href="https://www.bleepingcomputer.com/news/security/firefox-now-shows-ads-as-sponsored-address-bar-suggestions/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roundup of ransomware in the CIS<a href="https://securelist.com/cis-ransomware/104452/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes bug blocking Azure Virtual Desktops security updates<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-blocking-azure-virtual-desktops-security-updates/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2021
+October 7, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity best practices lagging, despite people being aware of the risks<a href="https://www.helpnetsecurity.com/2021/10/07/cybersecurity-best-practices-lagging/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
  Unpatched Dahua cams vulnerable to unauthenticated remote access<a href="https://www.bleepingcomputer.com/news/security/unpatched-dahua-cams-vulnerable-to-unauthenticated-remote-access/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch: No credentials or card numbers exposed in data breach<a href="https://www.bleepingcomputer.com/news/security/twitch-no-credentials-or-card-numbers-exposed-in-data-breach/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canopy Parental Control App Wide Open to Unpatched XSS Bugs<a href="https://threatpost.com/canopy-parental-control-app-unpatched-xss-bugs/175384/"> Full Text</a>
@@ -486,7 +486,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESPecter Bootkit Malware Haunts Victims with Persistent Espionage<a href="https://threatpost.com/especter-bootkit-malware-espionage/175366/"> Full Text</a>
@@ -502,7 +502,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2021
+October 6, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch Gets Gutted: All Source Code Leaked<a href="https://threatpost.com/twitch-source-code-leaked/175359/"> Full Text</a>
@@ -518,7 +518,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch Suffers Massive 125GB Data and Source Code Leak Due to Server Misconfiguration<a href="https://thehackernews.com/2021/10/twitch-suffers-massive-125gb-data-and.html"> Full Text</a>
@@ -534,7 +534,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2021
+October 06, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Security WEBINAR — How to Ace Your InfoSec Board Deck<a href="https://thehackernews.com/2021/10/cyber-security-webinar-how-to-ace-your.html"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers had Access to OSF HealthCare's IT Systems for Six Weeks Before Outage<a href="https://www.beckershospitalreview.com/cybersecurity/hacker-had-access-to-osf-healthcare-s-it-systems-for-6-weeks-before-outage.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patient information exposed by the incident included names, birthdates, Social Security numbers, treatment details, prescription details, and health insurance details.
+</details>
+<div style="text-align: right" markdown="1">
+Becker's Health IT Review
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Blames Outage on Faulty Router Configuration<a href="https://threatpost.com/facebook-blames-outage-on-faulty-router-configuration/175322/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One easily disproved conspiracy theory linked the ~six-hour outage to a supposed data breach tied to a Sept. 22 hacker forum ad for 1.5B Facebook user records.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

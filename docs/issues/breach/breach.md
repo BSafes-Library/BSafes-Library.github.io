@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch data breach updates: login credentials or card numbers not exposed<a href="https://securityaffairs.co/wordpress/123060/data-breach/twitch-data-breach-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An anonymous individual has leaked the source code and data of the popular video streaming platform Twitch via a torrent file posted on 4chan.
+
+
+
+An anonymous 4chan user has published a torrent link to a 128GB file on the 4chan discussion board, the leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch: No credentials or card numbers exposed in data breach<a href="https://www.bleepingcomputer.com/news/security/twitch-no-credentials-or-card-numbers-exposed-in-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitch says that no login credentials and credit card numbers belonging to users or streamers were exposed following yesterday's massive data leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch Gets Gutted: All Source Code Leaked<a href="https://threatpost.com/twitch-source-code-leaked/175359/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An anonymous user posted a link to a 125GB torrent to 4chan yesterday, containing all of Twitch’s source code, comments going back to its inception and more. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch Suffers Massive 125GB Data and Source Code Leak Due to Server Misconfiguration<a href="https://thehackernews.com/2021/10/twitch-suffers-massive-125gb-data-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interactive livestreaming platform Twitch&nbsp; acknowledged &nbsp;a "breach" after an anonymous poster on the 4chan messaging board leaked its source code, an unreleased Steam competitor from Amazon Game Studios, details of creator payouts , proprietary software development kits, and other internal tools.  The Amazon-owned service said it's "working with urgency to understand the extent of this," adding the data was exposed "due to an error in a Twitch server configuration change that was subsequently accessed by a malicious third party."   "At this time, we have no indication that login credentials have been exposed," Twitch&nbsp; noted &nbsp;in a post published late Wednesday. "Additionally, full credit card numbers are not stored by Twitch, so full credit card numbers were not exposed."   The forum user claimed the hack is designed to "foster more disruption and competition in the online video streaming space" because "their communi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

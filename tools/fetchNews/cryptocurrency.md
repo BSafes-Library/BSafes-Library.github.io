@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oops! Compound DeFi Platform Gives Out $90M, Would Like it Back, Please<a href="https://threatpost.com/compound-defi-platform-90m/175321/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Compound cryptocurrency exchange accidentally botched a platform upgrade and distributed millions in free COMP tokens to users – then threatened to dox the recipients.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

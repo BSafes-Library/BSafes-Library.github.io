@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-speaking hacking group scaling up ransomware attacks on hospitals<a href="https://thehill.com//policy/cybersecurity/575787-russian-speaking-hacking-group-scaling-up-ransomware-attacks-on"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-speaking cyber criminal group is disproportionately using ransomware attacks to target hospitals and health care groups across North America as the COVID-19 pandemic continues, according to new research released Thursday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN12 ransomware gang don’t implement double extortion to prioritize speed<a href="https://securityaffairs.co/wordpress/123084/cyber-crime/fin12-ransomware-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed the activities of the FIN12 ransomware group that earned million of dollars over the past years.
+
+
+
+Researchers from Mandiant published a detailed report on the activities of a financially motivated ransomware group tracked as FIN12...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

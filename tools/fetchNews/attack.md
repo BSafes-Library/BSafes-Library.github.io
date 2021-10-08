@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch hack allegedly includes source code and earnings for streamers<a href="https://thehill.com//policy/cybersecurity/575592-twitch-hack-allegedly-includes-source-code-and-earnings-for-streamers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online video game streaming service Twitch suffered a hack on Wednesday that leaked sources codes, user payouts and earnings for streamers, The Wall Street Journal reported.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LANtenna attack allows exfiltrating data from Air-Gapped systems via Ethernet cables<a href="https://securityaffairs.co/wordpress/123008/hacking/lantenna-attack-exfiltration-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins devised a new technique, dubbed LANtenna, to exfiltrate data from systems in air-gapped networks using Ethernet cables as a "transmitting antenna." 
+
+
+
+Security researchers from the Cyber Security Research Center in the Ben Gurion University...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired IT admin revenge-hacks school by wiping data, changing passwords<a href="https://www.bleepingcomputer.com/news/security/fired-it-admin-revenge-hacks-school-by-wiping-data-changing-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 29-year old wiped data on systems of a secondary school in the U.K. and changed the passwords at an IT company, in retaliatory cyber attacks for being fired.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

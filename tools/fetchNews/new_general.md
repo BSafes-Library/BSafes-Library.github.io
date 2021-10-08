@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russia Behind 58% of Detected State-Backed Hacks<a href="https://www.securityweek.com/microsoft-russia-behind-58-detected-state-backed-hacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia accounted for most state-sponsored hacking detected by Microsoft over the past year, with a 58% share, mostly targeting government agencies and think tanks in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple now requires all apps to make it easy for users to delete their accounts<a href="https://thehackernews.com/2021/10/apple-requires-devs-to-make-it-easy-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All third-party iOS, iPadOS, and macOS apps that allow users to create an account should also provide a method for terminating their accounts from within the apps beginning next year, Apple said on Wednesday.  "This requirement applies to all app submissions starting January 31, 2022," the iPhone maker&nbsp; said , urging developers to "review any laws that may require you to maintain certain types of data, and to make sure your app clearly explains what data your app collects, how it collects that data, all uses of that data, your data retention/deletion policies."   While the feature could be convenient, it's worth noting that Apple only says the mechanism should have a provision for users to "initiate deletion of their account from within the app," meaning it's possible that apps could redirect users to a website or prompt them to send an email in order actually to purge their information.  The reminder follows updates to&nbsp; App Store Review Guideline
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

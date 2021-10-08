@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA to issue regulations to secure rail, aviation groups against cyber threats<a href="https://thehill.com//policy/cybersecurity/575580-tsa-to-issue-regulations-to-secure-rail-aviation-groups-against-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) will soon issue regulations to further secure rail transit and airline companies against cyber threats, Homeland Security Secretary Alejandro Mayorkas announced Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Disclosure Act would give victims 48 hours to report payments<a href="https://www.bleepingcomputer.com/news/legal/ransom-disclosure-act-would-give-victims-48-hours-to-report-payments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of ransomware attacks in the United States may soon have to report any payments to hackers within 48 hours, as required by a new legislation proposal titled the 'Ransom Disclosure Act'.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
