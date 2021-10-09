@@ -34,6 +34,493 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Says Russian APT Targeting Journalists, Politicians<a href="https://www.govinfosecurity.com/google-says-russian-apt-targeting-journalists-politicians-a-17708?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some 14,000 Google users were warned of being suspected targets of Russian government-backed threat actors. Post that, the tech giant announced cybersecurity updates - particularly for email accounts of high-profile users.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert published NMAP script for Apache CVE-2021-41773 vulnerability<a href="https://securityaffairs.co/wordpress/123148/hacking/nmap-script-cve-apache-2021-41773.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert Dhiraj Mishra published an NMAP script for the CVE-2021-41773 Path Traversal vulnerability affecting Apache Web Server version 2.4.49.  
+
+
+
+Security researcher Dhiraj Mishra released an NMAP script for the CVE-2021-41773 path...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Encrypt VMware ESXi Server With Python Ransomware<a href="https://www.securityweek.com/attackers-encrypt-vmware-esxi-server-python-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sophos, the script contains multiple hardcoded encryption keys, and a routine for generating even more keys, which led the researchers to the conclusion that the ransomware creates a unique key at each run.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sky.com servers exposed via misconfiguration<a href="https://securityaffairs.co/wordpress/123143/data-breach/sky-com-server-misconfiguration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found an exposed configuration file hosted on a Sky.com subdomain containing production data. 
+
+
+
+Original post @ https://cybernews.com/news/sky-com-servers-exposed-via-misconfiguration/
+
+
+
+CyberNews researchers found an exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox Media Group took down broadcasts after a ransomware attack<a href="https://securityaffairs.co/wordpress/123136/malware/cox-media-group-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American media conglomerate Cox Media Group (CMG) was hit by a ransomware attack that took down live TV and radio broadcast streams in June 2021. 
+
+
+
+The American media conglomerate Cox Media Group (CMG) announced it was hit by a ransomware attack that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 8th 2021 - Making arrrests<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-8th-2021-making-arrrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's big news is the arrests of two ransomware operators in Ukraine responsible for hundreds of attacks targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Democrats urge federal agencies to address use of cryptocurrencies for ransomware payments<a href="https://thehill.com//policy/cybersecurity/575989-democrats-urge-federal-agencies-to-address-use-of-cryptocurrencies-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Democrats on Friday urged the Biden administration to do more to confront the growing use of cryptocurrency markets in ransomware attacks, which have become an increasing national security threat over the past year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Group FIN12 Aggressively Going After Healthcare Targets<a href="https://thehackernews.com/2021/10/ransomware-group-fin12-aggressively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "aggressive" financially motivated threat actor has been identified as linked to a string of RYUK ransomware attacks since October 2018, while maintaining close partnerships with TrickBot-affiliated threat actors and using a publicly available arsenal of tools such as Cobalt Strike Beacon payloads to interact with victim networks.  Cybersecurity firm Mandiant attributed the intrusions to a Russian-speaking hacker group codenamed FIN12, and previously tracked as  UNC1878 , with a disproportionate focus on healthcare organizations with more than $300 million in revenue, among others, including education, financial, manufacturing, and technology sectors, located in North America, Europe, and the Asia Pacific.  "FIN12 relies on partners to obtain initial access to victim environments," Mandiant researchers  said . "Notably, instead of conducting multifaceted extortion, a tactic widely adopted by other ransomware threat actors, FIN12 appears to prioritize speed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox Media Group confirms ransomware attack that took down broadcasts<a href="https://www.bleepingcomputer.com/news/security/cox-media-group-confirms-ransomware-attack-that-took-down-broadcasts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American media conglomerate Cox Media Group (CMG) confirmed that it was hit by a ransomware attack that took down live TV and radio broadcast streams in June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs bill to strengthen K-12 school cybersecurity<a href="https://thehill.com//policy/cybersecurity/575957-biden-signs-bill-into-law-to-strengthen-k-12-school-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Friday signed into law legislation intended to strengthen the cybersecurity of K-12 institutions after a year in which cyberattacks aimed at schools spiked as classes moved online during the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of FontOnLake Rootkit Malware Targeting Linux Systems<a href="https://thehackernews.com/2021/10/researchers-warn-of-fontonlake-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a new campaign that likely targets entities in Southeast Asia with a previously unrecognized Linux malware that's engineered to enable remote access to its operators, in addition to amassing credentials and function as a proxy server.  The malware family, dubbed " FontOnLake " by Slovak cybersecurity firm ESET, is said to feature "well-designed modules" that are continuously being upgraded with new features, indicating an active development phase. Samples uploaded to VirusTotal point to the possibility that the very first intrusions utilizing this threat have been happening as early as May 2020.  Avast  and  Lacework Labs  are tracking the same malware under the moniker HCRootkit.   "The sneaky nature of FontOnLake's tools in combination with advanced design and low prevalence suggest that they are used in targeted attacks," ESET researcher Vladislav Hrčka  said . "To collect data or conduct other malic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intuit warns QuickBooks customers of ongoing phishing attacks<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-quickbooks-customers-of-ongoing-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intuit has warned QuickBooks customers that they are targeted by an ongoing phishing campaign impersonating the company and trying to lure potential victims with fake renewal charges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atom Silo Group Eyeing Confluence Servers<a href="https://cyware.com/news/atom-silo-group-eyeing-confluence-servers-e10d014e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SophosLabs researchers uncovered Atom Silo, a new ransomware group almost identical to LockFile, actively exploiting Atlassian Confluence Server and Data Center flaw.  The group is using several novel techniques that make it very challenging to examine, including DLL side-loading to interrupt endpo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poll: Americans think US politicians, social media spread misinformation more than foreign governments<a href="https://thehill.com//policy/cybersecurity/575891-poll-americans-think-us-politicians-social-media-groups-spread"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of Americans believe U.S. politicians and social media companies spread misinformation online more than China, Russia or other foreign governments, a poll released Friday found.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch game page backgrounds defaced with Jeff Bezos' face<a href="https://www.bleepingcomputer.com/news/security/twitch-game-page-backgrounds-defaced-with-jeff-bezos-face/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Twitch's website's game pages today appeared a close up of Jeff Bezos' face, in what appears to be a mysterious defacement attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand CERT Warns of FluBot Using New Tricks<a href="https://cyware.com/news/new-zealand-cert-warns-of-flubot-using-new-tricks-975c62d8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous FluBot banking Trojan is targeting New Zealand mobile users wherein it uses different types of text-based messaging lures regarding parcel delivery and FluBot infection alert.  After a successful infection, FluBot operators use the malware to steal payment information, text messages, c ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+58% of all nation-state attacks in the last year were launched by Russian nation-state actors<a href="https://securityaffairs.co/wordpress/123124/apt/russuan-nation-state-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that Russia-linked cyberespionage groups are behind the majority of the nation-state cyber attacks on US government agencies. 
+
+
+
+Microsoft revealed that most of the cyber attacks on US government agencies are orchestrated by Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian orgs heavily targeted by smaller tier ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/russian-orgs-heavily-targeted-by-smaller-tier-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even though American and European companies enjoy the lion's share in ransomware attacks launched from Russian ground, companies in the country aren't spared from having to deal with file encryption and double-extortion troubles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydra Spreads Tentacles to Target European Banks<a href="https://cyware.com/news/hydra-spreads-tentacles-to-target-european-banks-4047e101"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam reported a new campaign spreading Hydra banking trojan across European banking platforms, specifically customers of Germany’s second-largest financial institution.  The malware uses different encryption methods to avoid detection, along with the use of Tor for communication.&nbsp; ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Netherlands declares war on ransomware operations<a href="https://securityaffairs.co/wordpress/123113/security/the-netherlands-war-ransomware-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch government will not tolerate ransomware attacks that could threaten national security, it will use intelligence or military services to curb them.
+
+
+
+The Dutch government announced that it will not tolerate cyberattacks that pose a risk to its national...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Engineering giant Weir Group hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/engineering-giant-weir-group-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scottish multinational engineering firm Weir Group has disclosed by what it called an "attempted ransomware attack" that led to "significant temporary disruption" in the second half of September.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Four Severe Vulnerabilities in Chrome<a href="https://www.securityweek.com/google-patches-four-severe-vulnerabilities-chrome?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of an updated Chrome version for Windows, Mac, and Linux, to address a total of four high-severity security vulnerabilities in the browser.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google warns of APT28 attack attempts against 14,000 Gmail users<a href="https://securityaffairs.co/wordpress/123104/apt/apt28-gmail-users-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warned more than 14,000 Gmail users that they have been the target of nation-state spear-phishing campaigns. 
+
+
+
+On Wednesday, Google announced to have warned approximately 14,000 Gmail users that they had been targeted by nation-state hackers.
+
+
+
+Shane...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian state hackers behind 53% of attacks on US govt agencies<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-state-hackers-behind-53-percent-of-attacks-on-us-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that Russian-sponsored hacking groups are increasingly targeting US government agencies, with roughly 58% of all nation-state attacks observed by Microsoft between July 2020 and June 2021 coming from Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers of SolarWinds stole data on U.S. sanctions policy, intelligence probes<a href="https://www.reuters.com/world/us/hackers-solarwinds-breach-stole-data-us-sanctions-policy-intelligence-probes-2021-10-07/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign alarmed officials with its stealth and careful staging. The hackers burrowed into the code production process at SolarWinds, which makes widely used software for managing networks.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache rolled out a new update in a few days to fix incomplete patch for an actively exploited flaw<a href="https://securityaffairs.co/wordpress/123096/hacking/apache-actively-exploited-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache Software Foundation has released HTTP Web Server 2.4.51 to completely address a vulnerability that has been actively exploited in the wild. 
+
+
+
+Apache Software Foundation has released HTTP Web Server 2.4.51 to address an actively exploited path...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BrewDog exposed data for over 200,000 shareholders and customers<a href="https://www.bleepingcomputer.com/news/security/brewdog-exposed-data-for-over-200-000-shareholders-and-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BrewDog, the Scottish brewery and pub chain famous for its crowd-ownership model and the tasty IPAs, has irreversibly exposed the details of 200,000 of its shareholders and customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Patch Released for Actively Exploited 0-Day Apache Path Traversal to RCE Attacks<a href="https://thehackernews.com/2021/10/new-patch-released-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation on Thursday released additional security updates for its HTTP Server product to remediate what it says is an "incomplete fix" for an  actively exploited  path traversal and remote code execution flaw that it patched earlier this week.  CVE-2021-42013 , as the new vulnerability is identified as, builds upon  CVE-2021-41773 , a flaw that impacted Apache web servers running version 2.4.49 and involved a  path normalization  bug that could enable an adversary to access and view arbitrary files stored on a vulnerable server.   Although the flaw was addressed by the maintainers in version 2.4.50, a day after the patches were released it became known that the weakness could also be abused to gain remote code execution if the "mod_cgi" module was loaded and the configuration "require all denied" was absent, prompting Apache to issue another round of emergency updates.   "It was found that the fix for CVE-2021-41773 in Apache HT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

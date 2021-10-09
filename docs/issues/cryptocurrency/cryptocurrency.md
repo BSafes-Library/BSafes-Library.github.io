@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Democrats urge federal agencies to address use of cryptocurrencies for ransomware payments<a href="https://thehill.com//policy/cybersecurity/575989-democrats-urge-federal-agencies-to-address-use-of-cryptocurrencies-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Democrats on Friday urged the Biden administration to do more to confront the growing use of cryptocurrency markets in ransomware attacks, which have become an increasing national security threat over the past year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Group FIN12 Aggressively Going After Healthcare Targets<a href="https://thehackernews.com/2021/10/ransomware-group-fin12-aggressively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "aggressive" financially motivated threat actor has been identified as linked to a string of RYUK ransomware attacks since October 2018, while maintaining close partnerships with TrickBot-affiliated threat actors and using a publicly available arsenal of tools such as Cobalt Strike Beacon payloads to interact with victim networks.  Cybersecurity firm Mandiant attributed the intrusions to a Russian-speaking hacker group codenamed FIN12, and previously tracked as&nbsp; UNC1878 , with a disproportionate focus on healthcare organizations with more than $300 million in revenue, among others, including education, financial, manufacturing, and technology sectors, located in North America, Europe, and the Asia Pacific.  "FIN12 relies on partners to obtain initial access to victim environments," Mandiant researchers&nbsp; said . "Notably, instead of conducting multifaceted extortion, a tactic widely adopted by other ransomware threat actors, FIN12 appears to prioritize speed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

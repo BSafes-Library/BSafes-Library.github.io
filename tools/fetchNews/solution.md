@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is disabling Excel 4.0 macros by default to protect users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-disabling-excel-40-macros-by-default-to-protect-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Microsoft will soon begin disabling Excel 4.0 XLM macros by default in Microsoft 365 tenants to protect customers from malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

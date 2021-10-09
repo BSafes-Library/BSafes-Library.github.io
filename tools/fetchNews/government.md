@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New U.S. Government Initiative Holds Contractors Accountable for Cybersecurity<a href="https://thehackernews.com/2021/10/us-justice-dept-launches-civil-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday announced the formation of a new Civil Cyber-Fraud Initiative that aims to hold contractors accountable for failing to meet required cybersecurity requirements in order to safeguard public sector information and infrastructure.  "For too long, companies have chosen silence under the mistaken belief that it is less risky to hide a breach than to bring it forward and to report it,"&nbsp; said &nbsp;Deputy Attorney General Monaco in a press statement. "Well that changes today, [and] we will use our civil enforcement tools to pursue companies, those who are government contractors who receive federal funds, when they fail to follow required cybersecurity standards — because we know that puts all of us at risk."   The Civil Cyber-Fraud Initiative is part of the U.S. Justice Department's (DoJ) efforts to build resilience against cybersecurity intrusions and holding companies to task for deliberately providing deficient cybersecurity products or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

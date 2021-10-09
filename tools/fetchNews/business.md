@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gretel AI raises $50M for a platform that provides synthetic datasets to ensure privacy of actual data<a href="https://techcrunch.com/2021/10/07/gretel-ai-raises-50m-for-a-platform-that-lets-engineers-build-and-use-synthetic-datasets-to-ensure-the-privacy-of-their-actual-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anthos Capital is leading the round with Section 32 also participating alongside Greylock and Moonshots Capital. Greylock led the company’s previous round in 2020. It has raised $65.5 million to date.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox now shows ads as sponsored address bar suggestions<a href="https://www.bleepingcomputer.com/news/security/firefox-now-shows-ads-as-sponsored-address-bar-suggestions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla is now showing ads in the form of sponsored Firefox contextual suggestions when U.S. users type in the URL address bar.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

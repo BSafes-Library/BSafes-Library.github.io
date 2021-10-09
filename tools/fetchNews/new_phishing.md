@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intuit warns QuickBooks customers of ongoing phishing attacks<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-quickbooks-customers-of-ongoing-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intuit has warned&nbsp;QuickBooks customers that they are&nbsp;targeted by an ongoing&nbsp;phishing campaign impersonating the company and trying to lure potential victims with fake renewal charges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

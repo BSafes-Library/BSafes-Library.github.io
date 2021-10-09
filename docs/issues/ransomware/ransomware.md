@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 8th 2021 - Making arrrests<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-8th-2021-making-arrrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's big news is the&nbsp;arrests of two ransomware operators&nbsp;in Ukraine responsible for hundreds of attacks targeting organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian orgs heavily targeted by smaller tier ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/russian-orgs-heavily-targeted-by-smaller-tier-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Even though American and European companies enjoy the lion's share in ransomware attacks launched from Russian ground, companies in the country aren't spared from having to deal with file encryption and double-extortion troubles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900053
 
 ## Education
 ---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ASEAN regional cybersecurity training centre opens in Singapore<a href="https://www.channelnewsasia.com/singapore/new-regional-cybersecurity-training-centre-opens-singapore-2225216?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ASEAN regional cybersecurity training centre that will see ASEAN member states work together to conduct research, share knowledge and train to respond to cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Channel News Asia
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Penetration Testing Your AWS Environment - A CTO's Guide<a href="https://thehackernews.com/2021/10/penetration-testing-your-aws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So, you've been thinking about getting a Penetration Test done on your Amazon Web Services (AWS) environment. Great! What should that involve exactly?&nbsp;  There are many options available, and knowing what you need will help you make your often limited security budget go as far as possible. Broadly, the key focus areas for most penetration tests involving AWS:   Your externally accessible cloud infrastructure  Any application(s) you're building or hosting  Your internal cloud infrastructure  Your AWS configuration itself  Secrets management&nbsp;   We'll look at each one, starting with the most important:  External Infrastructure  The good news here is that, by default, AWS does its best to help you stay secure. For example, the default security groups don't let your EC2 instances receive communication from the outside world unless you actively specify it by adding additional rules.  That said, AWS still allows you plenty of rope to hang yourself with if you're not carefu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity best practices lagging, despite people being aware of the risks<a href="https://www.helpnetsecurity.com/2021/10/07/cybersecurity-best-practices-lagging/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by National Cybersecurity Alliance and CybSafe, public response, and implementation of commonly known best practices including strong passwords, MFA and others are tepid at best.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Security WEBINAR — How to Ace Your InfoSec Board Deck<a href="https://thehackernews.com/2021/10/cyber-security-webinar-how-to-ace-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communication is a vital skill for any leader at an organization, regardless of seniority. For security leaders, this goes double. Communicating clearly works on multiple levels. On the one hand, security leaders and CISOs must be able to communicate strategies clearly – instructions, incident response plans, and security policies. On the other, they must be able to communicate the importance of security and the value of having robust defenses to the C-level.&nbsp;  For CISOs and other security leaders, this latter skill is crucial but often overlooked or not prioritized. A new webinar: " How to ace your Infosec board deck ," looks to shed light on both the importance of being able to communicate clearly with management, and key strategies to do so effectively. The webinar will feature a conversation with vCISO and Cybersecurity Consultant Dr. Eric Cole, as well as Norwest Venture Partners General Partner Dave Zilberman.&nbsp;  More so than just talking about the dollar value of a sec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

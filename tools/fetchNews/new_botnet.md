@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand CERT Warns of FluBot Using New Tricks<a href="https://cyware.com/news/new-zealand-cert-warns-of-flubot-using-new-tricks-975c62d8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous FluBot banking Trojan is targeting New Zealand mobile users wherein it uses different types of text-based messaging lures regarding parcel delivery and FluBot infection alert.  After a successful infection, FluBot operators use the malware to steal payment information, text messages, c ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

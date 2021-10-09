@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poll: Americans think US politicians, social media spread misinformation more than foreign governments<a href="https://thehill.com//policy/cybersecurity/575891-poll-americans-think-us-politicians-social-media-groups-spread"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of Americans believe U.S. politicians and social media companies spread misinformation online more than China, Russia or other foreign governments, a poll released Friday found.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

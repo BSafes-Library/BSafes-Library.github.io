@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No, there isn’t proof that the private data of 1.5 billion Facebook users is being sold by hackers.<a href="https://www.nytimes.com/2021/10/05/technology/fb-hackers-data-sale.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The claim of the breach came from an anonymous account on a hacking forum that, according to Vice, obtained access to the database from a supposed company called “X2Emails.”
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

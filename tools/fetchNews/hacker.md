@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft report finds Russia dominant force behind cyberattacks in past year<a href="https://thehill.com//policy/cybersecurity/575756-microsoft-report-finds-russia-dominant-force-behind-cyberattacks-in-past"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks originating in Russia accounted for more than half of intrusions tracked by Microsoft since mid-2020, the company said in a report released Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

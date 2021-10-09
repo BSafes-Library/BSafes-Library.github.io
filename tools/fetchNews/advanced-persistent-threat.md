@@ -8,6 +8,28 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 7, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation GhostShell: MalKamak APT targets aerospace and telco firms<a href="https://securityaffairs.co/wordpress/123045/apt/operation-ghostshell-shellclient-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation GhostShell: Threat actors used ShellClient malware in cyberespionage campaigns aimed at companies in the aerospace and telecommunications sectors.
+
+
+
+Hackers use stealthy ShellClient malware on aerospace, telco firms
+
+
+
+Cybereason Nocturnus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

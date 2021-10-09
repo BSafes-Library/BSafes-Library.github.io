@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+October 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Encrypt VMware ESXi Server With Python Ransomware<a href="https://www.securityweek.com/attackers-encrypt-vmware-esxi-server-python-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sophos, the script contains multiple hardcoded encryption keys, and a routine for generating even more keys, which led the researchers to the conclusion that the ransomware creates a unique key at each run.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydra Spreads Tentacles to Target European Banks<a href="https://cyware.com/news/hydra-spreads-tentacles-to-target-european-banks-4047e101"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam reported a new campaign spreading Hydra banking trojan across European banking platforms, specifically customers of Germany’s second-largest financial institution.  The malware uses different encryption methods to avoid detection, along with the use of Tor for communication.&nbsp; ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Engineering giant Weir Group hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/engineering-giant-weir-group-hit-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scottish multinational engineering firm&nbsp;Weir Group has disclosed by what it called an "attempted ransomware attack" that led to "significant temporary disruption" in the second half of September.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

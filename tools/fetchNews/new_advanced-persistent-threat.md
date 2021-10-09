@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Says Russian APT Targeting Journalists, Politicians<a href="https://www.govinfosecurity.com/google-says-russian-apt-targeting-journalists-politicians-a-17708?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some 14,000 Google users were warned of being suspected targets of Russian government-backed threat actors. Post that, the tech giant announced cybersecurity updates - particularly for email accounts of high-profile users.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google warns of APT28 attack attempts against 14,000 Gmail users<a href="https://securityaffairs.co/wordpress/123104/apt/apt28-gmail-users-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warned more than 14,000 Gmail users that they have been the target of nation-state spear-phishing campaigns. 
+
+
+
+On Wednesday, Google announced to have warned approximately 14,000 Gmail users that they had been targeted by nation-state hackers.
+
+
+
+Shane...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

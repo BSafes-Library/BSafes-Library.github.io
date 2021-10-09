@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roundup of ransomware in the CIS<a href="https://securelist.com/cis-ransomware/104452/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although there are different vectors of malware distribution, most of the current crop of ransomware threats targeting businesses in the CIS penetrate the victim’s network via RDP.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
