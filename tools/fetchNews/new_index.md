@@ -34,7 +34,155 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FontOnLake malware infects Linux systems via trojanized utilities<a href="https://www.bleepingcomputer.com/news/security/fontonlake-malware-infects-linux-systems-via-trojanized-utilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered malware family has been infecting Linux systems concealed in legitimate binaries. Dubbed FontOnLake, the threat delivers backdoor and rootkit components.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medtronic recalls some controllers used with some of its insulin pumps over cyberattack risks<a href="https://securityaffairs.co/wordpress/123182/breaking-news/medtronic-recalled-insulin-pumps-controllers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical device maker Medtronic recalled the remote controllers used with some of its insulin pumps because of dangerous vulnerabilities. 
+
+
+
+Medical device maker Medtronic has recalled the remote controllers used with some of its insulin pumps because...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amnesty International links cybersecurity firm to spyware operation<a href="https://www.bleepingcomputer.com/news/security/amnesty-international-links-cybersecurity-firm-to-spyware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Amnesty International links an Indian cybersecurity company to an Android spyware program used to target prominent activists. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 335<a href="https://securityaffairs.co/wordpress/123176/breaking-news/security-affairs-newsletter-round-335.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+Previously...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously undetected FontOnLake Linux malware used in targeted attacks<a href="https://securityaffairs.co/wordpress/123161/malware/fontonlake-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers spotted a previously unknown, modular Linux malware, dubbed FontOnLake, that has been employed in targeted attacks. 
+
+
+
+ESET researchers spotted a previously unknown, modular Linux malware, dubbed FontOnLake, that was employed in targeted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bank of America insider charged with money laundering for BEC scams<a href="https://www.bleepingcomputer.com/news/security/bank-of-america-insider-charged-with-money-laundering-for-bec-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. District Court for the Eastern District of Virginia has charged three men with money laundering and aggravated identity theft after allegedly conducting a business email compromise (BEC) scheme.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds tamper protection to Windows 11 security baseline<a href="https://www.bleepingcomputer.com/news/security/microsoft-adds-tamper-protection-to-windows-11-security-baseline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the final version of its security configuration baseline settings for Windows 11, downloadable today using the Microsoft Security Compliance Toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses four high-severity flaws in Chrome<a href="https://securityaffairs.co/wordpress/123155/security/google-chrome-high-severity-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a total of four high-severity vulnerabilities in the Chrome version for Windows, Mac, and Linux.
+
+
+
+Google released security updates to address a total of four high-severity vulnerabilities in the Chrome version for Windows, Mac,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Says Russian APT Targeting Journalists, Politicians<a href="https://www.govinfosecurity.com/google-says-russian-apt-targeting-journalists-politicians-a-17708?&web_view=true"> Full Text</a>
@@ -50,7 +198,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2021
+October 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security expert published NMAP script for Apache CVE-2021-41773 vulnerability<a href="https://securityaffairs.co/wordpress/123148/hacking/nmap-script-cve-apache-2021-41773.html"> Full Text</a>
@@ -70,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2021
+October 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Encrypt VMware ESXi Server With Python Ransomware<a href="https://www.securityweek.com/attackers-encrypt-vmware-esxi-server-python-ransomware?&web_view=true"> Full Text</a>
@@ -86,7 +234,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2021
+October 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sky.com servers exposed via misconfiguration<a href="https://securityaffairs.co/wordpress/123143/data-breach/sky-com-server-misconfiguration.html"> Full Text</a>
@@ -110,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2021
+October 9, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cox Media Group took down broadcasts after a ransomware attack<a href="https://securityaffairs.co/wordpress/123136/malware/cox-media-group-ransomware.html"> Full Text</a>
@@ -130,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 8th 2021 - Making arrrests<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-8th-2021-making-arrrests/"> Full Text</a>
@@ -146,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Democrats urge federal agencies to address use of cryptocurrencies for ransomware payments<a href="https://thehill.com//policy/cybersecurity/575989-democrats-urge-federal-agencies-to-address-use-of-cryptocurrencies-for"> Full Text</a>
@@ -162,7 +310,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Group FIN12 Aggressively Going After Healthcare Targets<a href="https://thehackernews.com/2021/10/ransomware-group-fin12-aggressively.html"> Full Text</a>
@@ -178,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cox Media Group confirms ransomware attack that took down broadcasts<a href="https://www.bleepingcomputer.com/news/security/cox-media-group-confirms-ransomware-attack-that-took-down-broadcasts/"> Full Text</a>
@@ -194,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden signs bill to strengthen K-12 school cybersecurity<a href="https://thehill.com//policy/cybersecurity/575957-biden-signs-bill-into-law-to-strengthen-k-12-school-cybersecurity"> Full Text</a>
@@ -210,7 +358,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of FontOnLake Rootkit Malware Targeting Linux Systems<a href="https://thehackernews.com/2021/10/researchers-warn-of-fontonlake-rootkit.html"> Full Text</a>
@@ -226,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intuit warns QuickBooks customers of ongoing phishing attacks<a href="https://www.bleepingcomputer.com/news/security/intuit-warns-quickbooks-customers-of-ongoing-phishing-attacks/"> Full Text</a>
@@ -242,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atom Silo Group Eyeing Confluence Servers<a href="https://cyware.com/news/atom-silo-group-eyeing-confluence-servers-e10d014e"> Full Text</a>
@@ -259,7 +407,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poll: Americans think US politicians, social media spread misinformation more than foreign governments<a href="https://thehill.com//policy/cybersecurity/575891-poll-americans-think-us-politicians-social-media-groups-spread"> Full Text</a>
@@ -275,7 +423,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch game page backgrounds defaced with Jeff Bezos' face<a href="https://www.bleepingcomputer.com/news/security/twitch-game-page-backgrounds-defaced-with-jeff-bezos-face/"> Full Text</a>
@@ -291,7 +439,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zealand CERT Warns of FluBot Using New Tricks<a href="https://cyware.com/news/new-zealand-cert-warns-of-flubot-using-new-tricks-975c62d8"> Full Text</a>
@@ -308,7 +456,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 58% of all nation-state attacks in the last year were launched by Russian nation-state actors<a href="https://securityaffairs.co/wordpress/123124/apt/russuan-nation-state-attacks.html"> Full Text</a>
@@ -328,7 +476,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian orgs heavily targeted by smaller tier ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/russian-orgs-heavily-targeted-by-smaller-tier-ransomware-gangs/"> Full Text</a>
@@ -344,7 +492,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hydra Spreads Tentacles to Target European Banks<a href="https://cyware.com/news/hydra-spreads-tentacles-to-target-european-banks-4047e101"> Full Text</a>
@@ -361,7 +509,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Netherlands declares war on ransomware operations<a href="https://securityaffairs.co/wordpress/123113/security/the-netherlands-war-ransomware-operations.html"> Full Text</a>
@@ -381,7 +529,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Engineering giant Weir Group hit by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/engineering-giant-weir-group-hit-by-ransomware-attack/"> Full Text</a>
@@ -397,7 +545,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Four Severe Vulnerabilities in Chrome<a href="https://www.securityweek.com/google-patches-four-severe-vulnerabilities-chrome?&web_view=true"> Full Text</a>
@@ -413,7 +561,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google warns of APT28 attack attempts against 14,000 Gmail users<a href="https://securityaffairs.co/wordpress/123104/apt/apt28-gmail-users-attacks.html"> Full Text</a>
@@ -437,7 +585,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russian state hackers behind 53% of attacks on US govt agencies<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-state-hackers-behind-53-percent-of-attacks-on-us-govt-agencies/"> Full Text</a>
@@ -453,7 +601,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Hackers of SolarWinds stole data on U.S. sanctions policy, intelligence probes<a href="https://www.reuters.com/world/us/hackers-solarwinds-breach-stole-data-us-sanctions-policy-intelligence-probes-2021-10-07/?&web_view=true"> Full Text</a>
@@ -469,7 +617,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2021
+October 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache rolled out a new update in a few days to fix incomplete patch for an actively exploited flaw<a href="https://securityaffairs.co/wordpress/123096/hacking/apache-actively-exploited-flaw.html"> Full Text</a>
@@ -489,7 +637,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2021
+October 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BrewDog exposed data for over 200,000 shareholders and customers<a href="https://www.bleepingcomputer.com/news/security/brewdog-exposed-data-for-over-200-000-shareholders-and-customers/"> Full Text</a>
@@ -505,7 +653,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2021
+October 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Patch Released for Actively Exploited 0-Day Apache Path Traversal to RCE Attacks<a href="https://thehackernews.com/2021/10/new-patch-released-for-actively.html"> Full Text</a>
