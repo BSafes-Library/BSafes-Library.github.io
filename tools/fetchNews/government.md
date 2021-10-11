@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs bill to strengthen K-12 school cybersecurity<a href="https://thehill.com//policy/cybersecurity/575957-biden-signs-bill-into-law-to-strengthen-k-12-school-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Friday signed into law legislation intended to strengthen the cybersecurity of K-12 institutions after a year in which cyberattacks aimed at schools spiked as classes moved online during the COVID-19 pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Netherlands declares war on ransomware operations<a href="https://securityaffairs.co/wordpress/123113/security/the-netherlands-war-ransomware-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch government will not tolerate ransomware attacks that could threaten national security, it will use intelligence or military services to curb them.
+
+
+
+The Dutch government announced that it will not tolerate cyberattacks that pose a risk to its national...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

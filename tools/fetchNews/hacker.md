@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atom Silo Group Eyeing Confluence Servers<a href="https://cyware.com/news/atom-silo-group-eyeing-confluence-servers-e10d014e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SophosLabs researchers uncovered Atom Silo, a new ransomware group almost identical to LockFile, actively exploiting Atlassian Confluence Server and Data Center flaw.  The group is using several novel techniques that make it very challenging to examine, including DLL side-loading to interrupt endpo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers of SolarWinds stole data on U.S. sanctions policy, intelligence probes<a href="https://www.reuters.com/world/us/hackers-solarwinds-breach-stole-data-us-sanctions-policy-intelligence-probes-2021-10-07/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign alarmed officials with its stealth and careful staging. The hackers burrowed into the code production process at SolarWinds, which makes widely used software for managing networks.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

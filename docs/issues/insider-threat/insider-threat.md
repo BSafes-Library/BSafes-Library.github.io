@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bank of America insider charged with money laundering for BEC scams<a href="https://www.bleepingcomputer.com/news/security/bank-of-america-insider-charged-with-money-laundering-for-bec-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. District Court for the Eastern District of Virginia has charged three men with money laundering and aggravated identity theft after allegedly conducting a business email compromise (BEC) scheme.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

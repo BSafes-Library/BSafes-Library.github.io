@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security expert published NMAP script for Apache CVE-2021-41773 vulnerability<a href="https://securityaffairs.co/wordpress/123148/hacking/nmap-script-cve-apache-2021-41773.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security expert Dhiraj Mishra&nbsp;published an NMAP script for the CVE-2021-41773 Path Traversal vulnerability affecting Apache Web Server version 2.4.49.  
+
+
+
+Security researcher Dhiraj Mishra&nbsp;released an NMAP script for the CVE-2021-41773 path...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Four Severe Vulnerabilities in Chrome<a href="https://www.securityweek.com/google-patches-four-severe-vulnerabilities-chrome?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of an updated Chrome version for Windows, Mac, and Linux, to address a total of four high-severity security vulnerabilities in the browser.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache rolled out a new update in a few days to fix incomplete patch for an actively exploited flaw<a href="https://securityaffairs.co/wordpress/123096/hacking/apache-actively-exploited-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache Software Foundation has released HTTP Web Server 2.4.51 to completely address a vulnerability that has been actively exploited in the wild. 
+
+
+
+Apache Software Foundation has released HTTP Web Server 2.4.51 to address an actively exploited path...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Patch Released for Actively Exploited 0-Day Apache Path Traversal to RCE Attacks<a href="https://thehackernews.com/2021/10/new-patch-released-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation on Thursday released additional security updates for its HTTP Server product to remediate what it says is an "incomplete fix" for an&nbsp; actively exploited &nbsp;path traversal and remote code execution flaw that it patched earlier this week.  CVE-2021-42013 , as the new vulnerability is identified as, builds upon&nbsp; CVE-2021-41773 , a flaw that impacted Apache web servers running version 2.4.49 and involved a&nbsp; path normalization &nbsp;bug that could enable an adversary to access and view arbitrary files stored on a vulnerable server.   Although the flaw was addressed by the maintainers in version 2.4.50, a day after the patches were released it became known that the weakness could also be abused to gain remote code execution if the "mod_cgi" module was loaded and the configuration "require all denied" was absent, prompting Apache to issue another round of emergency updates.   "It was found that the fix for CVE-2021-41773 in Apache HT
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

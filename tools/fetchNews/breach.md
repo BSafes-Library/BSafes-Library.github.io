@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+October 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sky.com servers exposed via misconfiguration<a href="https://securityaffairs.co/wordpress/123143/data-breach/sky-com-server-misconfiguration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers found an exposed configuration file hosted on a Sky.com subdomain containing production data. 
+
+
+
+Original post @ https://cybernews.com/news/sky-com-servers-exposed-via-misconfiguration/
+
+
+
+CyberNews researchers found an exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch game page backgrounds defaced with Jeff Bezos' face<a href="https://www.bleepingcomputer.com/news/security/twitch-game-page-backgrounds-defaced-with-jeff-bezos-face/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Twitch's website's game pages today appeared a close up of Jeff Bezos' face, in what appears to be a mysterious defacement attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BrewDog exposed data for over 200,000 shareholders and customers<a href="https://www.bleepingcomputer.com/news/security/brewdog-exposed-data-for-over-200-000-shareholders-and-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BrewDog, the Scottish brewery and pub chain famous for its crowd-ownership model and the tasty IPAs, has irreversibly exposed the details of 200,000 of its shareholders and customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

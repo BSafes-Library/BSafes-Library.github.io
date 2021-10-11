@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+October 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+58% of all nation-state attacks in the last year were launched by Russian nation-state actors<a href="https://securityaffairs.co/wordpress/123124/apt/russuan-nation-state-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that Russia-linked cyberespionage groups are behind the majority of the nation-state cyber attacks on US government agencies. 
+
+
+
+Microsoft revealed that most of the cyber attacks on US government agencies are orchestrated by Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian state hackers behind 53% of attacks on US govt agencies<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-state-hackers-behind-53-percent-of-attacks-on-us-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says that Russian-sponsored hacking groups are increasingly targeting US government agencies, with roughly 58% of all nation-state attacks observed by Microsoft between July 2020 and June 2021 coming from Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

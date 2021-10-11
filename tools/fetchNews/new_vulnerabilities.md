@@ -8,6 +8,42 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medtronic recalls some controllers used with some of its insulin pumps over cyberattack risks<a href="https://securityaffairs.co/wordpress/123182/breaking-news/medtronic-recalled-insulin-pumps-controllers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical device maker Medtronic&nbsp;recalled&nbsp;the remote controllers used with some of its insulin pumps because of dangerous vulnerabilities. 
+
+
+
+Medical device maker Medtronic has&nbsp;recalled&nbsp;the remote controllers used with some of its insulin pumps because...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addresses four high-severity flaws in Chrome<a href="https://securityaffairs.co/wordpress/123155/security/google-chrome-high-severity-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a total of four high-severity vulnerabilities in the Chrome version for Windows, Mac, and Linux.
+
+
+
+Google released security updates to address a total of four high-severity vulnerabilities in the Chrome version for Windows, Mac,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

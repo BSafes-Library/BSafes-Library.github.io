@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+October 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox Media Group took down broadcasts after a ransomware attack<a href="https://securityaffairs.co/wordpress/123136/malware/cox-media-group-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American media conglomerate Cox Media Group (CMG) was hit by a ransomware attack that took down live TV and radio broadcast streams in June 2021. 
+
+
+
+The American media conglomerate Cox Media Group (CMG) announced it was hit by a ransomware attack that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox Media Group confirms ransomware attack that took down broadcasts<a href="https://www.bleepingcomputer.com/news/security/cox-media-group-confirms-ransomware-attack-that-took-down-broadcasts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American media conglomerate Cox Media Group (CMG) confirmed that it was hit by a ransomware attack that took down live TV and radio broadcast streams in June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
