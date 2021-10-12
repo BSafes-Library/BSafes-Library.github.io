@@ -34,6 +34,462 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub revokes duplicate SSH auth keys linked to library bug<a href="https://www.bleepingcomputer.com/news/security/github-revokes-duplicate-ssh-auth-keys-linked-to-library-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has revoked weak SSH authentication keys generated using a library that incorrectly created duplicate RSA keypairs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When criminals go corporate: Ransomware-as-a-service<a href="https://www.theregister.com/2021/10/11/ransomware_as_a_service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In many cases, the groups work on an affiliate model, with the developers taking a cut of the ransom on top of the monthly payment, generally to the tune of around 20 to 50 percent.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft reports Iranian hackers targeting US, Israeli defense companies<a href="https://thehill.com//policy/cybersecurity/576250-microsoft-reports-iranian-hackers-targeting-us-israeli-defense-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday released evidence showing Iranian-linked hackers targeting and at times compromising systems of U.S. and Israeli defense technology companies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verify End-Users at the Helpdesk to Prevent Social Engineering Cyber Attack<a href="https://thehackernews.com/2021/10/verify-end-users-at-helpdesk-to-prevent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although organizations commonly go to great lengths to address security vulnerabilities that may exist within their IT infrastructure, an organization's helpdesk might pose a bigger threat due to social engineering attacks.  Social engineering is "the art of manipulating people so they give up confidential information," according to  Webroot . There are many different types of social engineering schemes but one is area of vulnerability is how social engineering might be used against a helpdesk technician to steal a user's credentials.  The Process of Gaining Access With Social Engineering  The first step in such an attack is usually for the attacker to gather information about the organization that they are targeting. The attacker might start by using information that is freely available on the Internet to figure out who within the organization is most likely to have elevated permissions or access to sensitive information. An attacker can often get this information
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released emergency update to fix zero-day actively exploited<a href="https://securityaffairs.co/wordpress/123236/mobile-2/apple-zero-day-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released emergency updates for both iOS and iPadOS to address a zero-day flaw that is actively exploited in the wild. 
+
+
+
+Apple has released iOS 15.0.2 and iPadOS 15.0.2 to address a zero-day flaw, tracked as CVE-2021-30883, that is actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Apple iOS 15.0.2 update fixes zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/emergency-apple-ios-1502-update-fixes-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released iOS 15.0.2 and iPadOS 15.0.2 to fix a zero-day vulnerability that is actively exploited in the wild in attacks targeting Phones and iPads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon Phishing Scam Targets Customers Through a Text Message<a href="https://www.techtimes.com/articles/266446/20211010/verizon-phishing-scam-targets-customers-through-text-message-beware-bogus.htm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals behind this scam ask subscribers to provide their personal information. If they for this trap, their security number, bank account number, and other information could be hacked.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Pentagon official says China has won artificial intelligence battle<a href="https://thehill.com//policy/cybersecurity/576213-former-pentagon-official-says-china-has-won-artificial-intelligence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pentagon's former software chief resigned and said that China is headed toward global dominance in artificial intelligence due to the relatively slow pace of innovation in the United States. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian-Made Mobile Spyware Targeted Human Rights Activist in Togo<a href="https://thehackernews.com/2021/10/indian-made-mobile-spyware-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A prominent Togolese human rights defender has been targeted with spyware by a threat actor known for striking victims in South Asia, marking the hacking group's first foray into digital surveillance in Africa.  Amnesty International tied the covert attack campaign to a collective tracked as " Donot Team " (aka APT-C-35), which has been linked to cyber offensives in India and Pakistan, while also identifying apparent evidence coupling the group's infrastructure to an Indian company called Innefu Labs. The unnamed activist is believed to have targeted over a period of two months starting in December 2019 with the help of fake Android applications and spyware-loaded emails.  "The persistent attacks over WhatsApp and email tried to trick the victim into installing a malicious application that masqueraded as a secure chat application," Amnesty International  said  in a report published last week. "The application was in fact a piece of custom Android spywa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Service of Ukraine arrested a man operating a huge DDoS botnet<a href="https://securityaffairs.co/wordpress/123227/cyber-crime/ddos-botnet-botmaster-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police arrested a cybercriminal who controlled a botnet composed of 100,000 devices that was available for rent to launch DDoS attacks.
+
+
+
+Security Service of Ukraine (SSU) has arrested a hacker who controlled a DDoS botnet composed of 100,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice, OpenOffice bug allows hackers to spoof signed docs<a href="https://www.bleepingcomputer.com/news/security/libreoffice-openoffice-bug-allows-hackers-to-spoof-signed-docs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LibreOffice and OpenOffice have pushed updates to address a vulnerability that makes it possible for an attacker to manipulate documents to appear as signed by a trusted source. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiz raises $250 mln, values Israeli cyber firm at $6 bln<a href="https://www.reuters.com/world/middle-east/wiz-raises-250-mln-values-israeli-cyber-firm-6-bln-2021-10-11/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiz said that most of its previous investors -- Sequoia Capital, Index Ventures, Insight Partners, Greenoaks, Salesforce, CyberStarts, Bernard Arnault, and Howard Schultz -- participated in the round.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of Americans concerned about cyberattacks on critical groups: poll<a href="https://thehill.com//policy/cybersecurity/575997-majority-of-americans-concerned-about-cyberattacks-on-critical-groups"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vast majority of Americans are concerned about cyberattacks on critical groups, in particular those in the financial and national security sectors, a poll released Monday found. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked DEV-0343 APT target US and Israeli defense technology firms<a href="https://securityaffairs.co/wordpress/123219/apt/dev-0343-apt-campaing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DEV-0343: Iran-linked threat actors are targeting US and Israeli defense technology companies leveraging password spraying attacks. 
+
+
+
+Researchers at Microsoft Threat Intelligence Center (MSTIC) and Microsoft Digital Security Unit (DSU) uncovered a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iran-linked hackers target US defense tech companies<a href="https://www.bleepingcomputer.com/news/security/microsoft-iran-linked-hackers-target-us-defense-tech-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors are targeting the Office 365 tenants of US and Israeli defense technology companies in extensive password spraying attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oregon Eye Specialists discloses data breach following employee email compromise<a href="https://portswigger.net/daily-swig/oregon-eye-specialists-discloses-data-breach-following-employee-email-compromise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed data likely includes customers’ names, dates of birth, dates of service, medical record numbers, financial account information, and health insurance provider names and/or policy numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improper Certificate Validation issue in LibreOffice and OpenOffice allows signed docs spoofing<a href="https://securityaffairs.co/wordpress/123212/security/libreoffice-openoffice-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LibreOffice and OpenOffice released security updates to address a vulnerability that can be exploited by an attacker to spoof signed documents.  
+
+
+
+LibreOffice and OpenOffice released security updates to address a moderate-severity flaw that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iran-linked hackers target US defense tech companies<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iran-linked-hackers-target-us-defense-tech-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors are targeting the Office 365 tenants of US and Israeli defense technology companies in extensive password spraying attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZTE widens bug bounty to focus on 5G security<a href="https://www.zdnet.com/article/zte-widens-bug-bounty-to-focus-on-5g-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ZTE has widened a bug bounty scheme to plug security vulnerabilities in its products, especially potential holes brought about by the launch of commercial 5G networks and services.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donot Team targets a Togo prominent activist with Indian-made spyware<a href="https://securityaffairs.co/wordpress/123205/intelligence/donot-team-apt-surveillance-togo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Togolese human rights advocate was hit by mobile spyware that has been allegedly developed by an Indian firm called Innefu Labs. 
+
+
+
+Researchers from Amnesty International have uncovered a cyberespionage campaign tracked as 'Donot Team' (aka APT-C-35)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huawei Cloud targeted by updated cryptomining malware<a href="https://www.bleepingcomputer.com/news/security/huawei-cloud-targeted-by-updated-cryptomining-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of a 2020 crypto-mining malware that was previously targeting Docker containers has now been spotted focusing on new cloud service providers like the Huawei Cloud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Concerning to Most in US: Pearson/AP-NORC Poll<a href="https://www.securityweek.com/cyberattacks-concerning-most-us-pearsonap-norc-poll?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most Americans across party lines have serious concerns about cyberattacks on U.S. computer systems and view China and Russia as major threats, according to a newly released poll.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA explains how to avoid dangers of Wildcard TLS Certificates and ALPACA attacks<a href="https://securityaffairs.co/wordpress/123181/breaking-news/nsa-advisory-wildcard-tls-certificates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA issued a technical advisory to warn organizations against the use of wildcard TLS certificates and the new ALPACA TLS attack. 
+
+
+
+The National Security Agency (NSA) is warning organizations against the use of wildcard TLS certificates and the new ALPACA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian police arrest DDoS operator controlling 100,000 bots<a href="https://www.bleepingcomputer.com/news/security/ukrainian-police-arrest-ddos-operator-controlling-100-000-bots/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police have arrested a hacker who controlled a 100,000 device botnet used to perform DDoS attacks on behalf of paid customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Identity to detect Windows Bronze Bit attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-identity-to-detect-windows-bronze-bit-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding support for Bronze Bit attacks detection to Microsoft Defender for Identity to make it easier for Security Operations teams to detect attempts to abuse a Windows Kerberos bug tracked as CVE-2020-17049.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuclear engineer's espionage plans unraveled by undercover FBI agent<a href="https://www.bleepingcomputer.com/news/security/nuclear-engineers-espionage-plans-unraveled-by-undercover-fbi-agent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Navy nuclear engineer and his wife were arrested under espionage-related charges alleging violations of the Atomic Energy Act after selling restricted nuclear-powered warship design data to a person they believed was a foreign power agent.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pacific City Bank discloses ransomware attack claimed by AvosLocker<a href="https://www.bleepingcomputer.com/news/security/pacific-city-bank-discloses-ransomware-attack-claimed-by-avoslocker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pacific City Bank (PCB), one of the largest Korean-American community banking service providers in America, has disclosed a ransomware incident that took place last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
