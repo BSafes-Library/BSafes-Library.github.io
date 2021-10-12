@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2021 - NSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid Dangers of Wildcard TLS Certificates, the ALPACA Technique <a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2804293/avoid-dangers-of-wildcard-tls-certificates-the-alpaca-technique/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FORT MEADE, Md. — NSA released the Cybersecurity Information Sheet, “Avoid Dangers of Wildcard TLS Certificates and the ALPACA Technique” today, warning network administrators about the risks of using poorly scoped wildcard Transport Layer Security (TLS) certificates. NSA recommends several actions web administrators should take to keep their servers secure. This guidance also outlines the risks of falling victim to a web application exploitation method called Application Layer Protocols Allowing Cross-Protocol Attacks (ALPACA), which malicious cyber actors can use to access sensitive information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 28, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
