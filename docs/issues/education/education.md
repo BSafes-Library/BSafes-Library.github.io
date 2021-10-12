@@ -8,6 +8,38 @@ nav_order: 900053
 
 ## Education
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verify End-Users at the Helpdesk to Prevent Social Engineering Cyber Attack<a href="https://thehackernews.com/2021/10/verify-end-users-at-helpdesk-to-prevent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although organizations commonly go to great lengths to address security vulnerabilities that may exist within their IT infrastructure, an organization's helpdesk might pose a bigger threat due to social engineering attacks.  Social engineering is "the art of manipulating people so they give up confidential information," according to&nbsp; Webroot . There are many different types of social engineering schemes but one is area of vulnerability is how social engineering might be used against a helpdesk technician to steal a user's credentials.  The Process of Gaining Access With Social Engineering  The first step in such an attack is usually for the attacker to gather information about the organization that they are targeting. The attacker might start by using information that is freely available on the Internet to figure out who within the organization is most likely to have elevated permissions or access to sensitive information. An attacker can often get this information
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA explains how to avoid dangers of Wildcard TLS Certificates and ALPACA attacks<a href="https://securityaffairs.co/wordpress/123181/breaking-news/nsa-advisory-wildcard-tls-certificates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA issued a technical advisory to warn organizations against the use of wildcard TLS certificates and the new ALPACA TLS attack. 
+
+
+
+The National Security Agency (NSA) is warning organizations against the use of wildcard TLS certificates and the new ALPACA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

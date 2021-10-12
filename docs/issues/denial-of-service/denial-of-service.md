@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian police arrest DDoS operator controlling 100,000 bots<a href="https://www.bleepingcomputer.com/news/security/ukrainian-police-arrest-ddos-operator-controlling-100-000-bots/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police have arrested a hacker who controlled a 100,000 device botnet used to perform DDoS attacks on behalf of paid customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

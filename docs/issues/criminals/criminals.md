@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When criminals go corporate: Ransomware-as-a-service<a href="https://www.theregister.com/2021/10/11/ransomware_as_a_service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In many cases, the groups work on an affiliate model, with the developers taking a cut of the ransom on top of the monthly payment, generally to the tune of around 20 to 50 percent.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

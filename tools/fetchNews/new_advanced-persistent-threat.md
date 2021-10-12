@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked DEV-0343 APT target US and Israeli defense technology firms<a href="https://securityaffairs.co/wordpress/123219/apt/dev-0343-apt-campaing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DEV-0343: Iran-linked threat actors are targeting US and Israeli defense technology companies leveraging password spraying attacks. 
+
+
+
+Researchers at Microsoft Threat Intelligence Center (MSTIC) and Microsoft Digital Security Unit (DSU) uncovered a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

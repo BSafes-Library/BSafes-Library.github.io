@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiz raises $250 mln, values Israeli cyber firm at $6 bln<a href="https://www.reuters.com/world/middle-east/wiz-raises-250-mln-values-israeli-cyber-firm-6-bln-2021-10-11/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiz said that most of its previous investors -- Sequoia Capital, Index Ventures, Insight Partners, Greenoaks, Salesforce, CyberStarts, Bernard Arnault, and Howard Schultz -- participated in the round.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

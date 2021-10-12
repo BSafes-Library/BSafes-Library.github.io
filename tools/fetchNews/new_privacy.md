@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian-Made Mobile Spyware Targeted Human Rights Activist in Togo<a href="https://thehackernews.com/2021/10/indian-made-mobile-spyware-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A prominent Togolese human rights defender has been targeted with spyware by a threat actor known for striking victims in South Asia, marking the hacking group's first foray into digital surveillance in Africa.  Amnesty International tied the covert attack campaign to a collective tracked as " Donot Team " (aka APT-C-35), which has been linked to cyber offensives in India and Pakistan, while also identifying apparent evidence coupling the group's infrastructure to an Indian company called Innefu Labs. The unnamed activist is believed to have targeted over a period of two months starting in December 2019 with the help of fake Android applications and spyware-loaded emails.  "The persistent attacks over WhatsApp and email tried to trick the victim into installing a malicious application that masqueraded as a secure chat application," Amnesty International&nbsp; said &nbsp;in a report published last week. "The application was in fact a piece of custom Android spywa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donot Team targets a Togo prominent activist with Indian-made spyware<a href="https://securityaffairs.co/wordpress/123205/intelligence/donot-team-apt-surveillance-togo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Togolese human rights advocate was hit by mobile spyware that has been allegedly developed by an Indian firm called Innefu Labs. 
+
+
+
+Researchers from Amnesty International have uncovered a cyberespionage campaign tracked as 'Donot Team' (aka APT-C-35)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

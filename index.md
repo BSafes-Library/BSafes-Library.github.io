@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub revokes duplicate SSH auth keys linked to library bug<a href="https://www.bleepingcomputer.com/news/security/github-revokes-duplicate-ssh-auth-keys-linked-to-library-bug/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When criminals go corporate: Ransomware-as-a-service<a href="https://www.theregister.com/2021/10/11/ransomware_as_a_service/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft reports Iranian hackers targeting US, Israeli defense companies<a href="https://thehill.com//policy/cybersecurity/576250-microsoft-reports-iranian-hackers-targeting-us-israeli-defense-companies"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verify End-Users at the Helpdesk to Prevent Social Engineering Cyber Attack<a href="https://thehackernews.com/2021/10/verify-end-users-at-helpdesk-to-prevent.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple released emergency update to fix zero-day actively exploited<a href="https://securityaffairs.co/wordpress/123236/mobile-2/apple-zero-day-vulnerability.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emergency Apple iOS 15.0.2 update fixes zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/emergency-apple-ios-1502-update-fixes-zero-day-used-in-attacks/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verizon Phishing Scam Targets Customers Through a Text Message<a href="https://www.techtimes.com/articles/266446/20211010/verizon-phishing-scam-targets-customers-through-text-message-beware-bogus.htm?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Tech Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Pentagon official says China has won artificial intelligence battle<a href="https://thehill.com//policy/cybersecurity/576213-former-pentagon-official-says-china-has-won-artificial-intelligence"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian-Made Mobile Spyware Targeted Human Rights Activist in Togo<a href="https://thehackernews.com/2021/10/indian-made-mobile-spyware-targeted.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Service of Ukraine arrested a man operating a huge DDoS botnet<a href="https://securityaffairs.co/wordpress/123227/cyber-crime/ddos-botnet-botmaster-arrested.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LibreOffice, OpenOffice bug allows hackers to spoof signed docs<a href="https://www.bleepingcomputer.com/news/security/libreoffice-openoffice-bug-allows-hackers-to-spoof-signed-docs/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wiz raises $250 mln, values Israeli cyber firm at $6 bln<a href="https://www.reuters.com/world/middle-east/wiz-raises-250-mln-values-israeli-cyber-firm-6-bln-2021-10-11/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Majority of Americans concerned about cyberattacks on critical groups: poll<a href="https://thehill.com//policy/cybersecurity/575997-majority-of-americans-concerned-about-cyberattacks-on-critical-groups"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked DEV-0343 APT target US and Israeli defense technology firms<a href="https://securityaffairs.co/wordpress/123219/apt/dev-0343-apt-campaing.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iran-linked hackers target US defense tech companies<a href="https://www.bleepingcomputer.com/news/security/microsoft-iran-linked-hackers-target-us-defense-tech-companies/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oregon Eye Specialists discloses data breach following employee email compromise<a href="https://portswigger.net/daily-swig/oregon-eye-specialists-discloses-data-breach-following-employee-email-compromise?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Improper Certificate Validation issue in LibreOffice and OpenOffice allows signed docs spoofing<a href="https://securityaffairs.co/wordpress/123212/security/libreoffice-openoffice-flaw.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iran-linked hackers target US defense tech companies<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iran-linked-hackers-target-us-defense-tech-companies/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZTE widens bug bounty to focus on 5G security<a href="https://www.zdnet.com/article/zte-widens-bug-bounty-to-focus-on-5g-security/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Donot Team targets a Togo prominent activist with Indian-made spyware<a href="https://securityaffairs.co/wordpress/123205/intelligence/donot-team-apt-surveillance-togo.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huawei Cloud targeted by updated cryptomining malware<a href="https://www.bleepingcomputer.com/news/security/huawei-cloud-targeted-by-updated-cryptomining-malware/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Concerning to Most in US: Pearson/AP-NORC Poll<a href="https://www.securityweek.com/cyberattacks-concerning-most-us-pearsonap-norc-poll?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA explains how to avoid dangers of Wildcard TLS Certificates and ALPACA attacks<a href="https://securityaffairs.co/wordpress/123181/breaking-news/nsa-advisory-wildcard-tls-certificates.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian police arrest DDoS operator controlling 100,000 bots<a href="https://www.bleepingcomputer.com/news/security/ukrainian-police-arrest-ddos-operator-controlling-100-000-bots/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Identity to detect Windows Bronze Bit attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-identity-to-detect-windows-bronze-bit-attacks/"> Full Text</a>
@@ -458,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nuclear engineer's espionage plans unraveled by undercover FBI agent<a href="https://www.bleepingcomputer.com/news/security/nuclear-engineers-espionage-plans-unraveled-by-undercover-fbi-agent/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pacific City Bank discloses ransomware attack claimed by AvosLocker<a href="https://www.bleepingcomputer.com/news/security/pacific-city-bank-discloses-ransomware-attack-claimed-by-avoslocker/"> Full Text</a>

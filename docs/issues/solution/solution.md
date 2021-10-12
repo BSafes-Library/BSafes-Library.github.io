@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Identity to detect Windows Bronze Bit attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-identity-to-detect-windows-bronze-bit-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding support for Bronze Bit attacks detection to Microsoft Defender for Identity&nbsp;to make it easier for Security Operations teams to detect&nbsp;attempts&nbsp;to abuse&nbsp;a Windows Kerberos&nbsp;bug tracked as CVE-2020-17049.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

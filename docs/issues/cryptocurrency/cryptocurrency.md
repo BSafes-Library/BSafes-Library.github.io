@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huawei Cloud targeted by updated cryptomining malware<a href="https://www.bleepingcomputer.com/news/security/huawei-cloud-targeted-by-updated-cryptomining-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of a 2020 crypto-mining malware that was previously targeting Docker containers has now been spotted focusing on new cloud service providers like the Huawei Cloud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

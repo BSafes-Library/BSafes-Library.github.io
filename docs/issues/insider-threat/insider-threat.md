@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nuclear engineer's espionage plans unraveled by undercover FBI agent<a href="https://www.bleepingcomputer.com/news/security/nuclear-engineers-espionage-plans-unraveled-by-undercover-fbi-agent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Navy nuclear engineer and his wife were arrested under&nbsp;espionage-related charges alleging violations of the Atomic Energy Act after selling restricted nuclear-powered warship design data to a person they believed was a foreign power agent.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

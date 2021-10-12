@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub revokes duplicate SSH auth keys linked to library bug<a href="https://www.bleepingcomputer.com/news/security/github-revokes-duplicate-ssh-auth-keys-linked-to-library-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has revoked weak SSH authentication keys generated using a library that incorrectly created duplicate RSA keypairs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released emergency update to fix zero-day actively exploited<a href="https://securityaffairs.co/wordpress/123236/mobile-2/apple-zero-day-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released emergency updates for both iOS and iPadOS to address a zero-day flaw that is actively exploited in the wild. 
+
+
+
+Apple has released iOS 15.0.2 and iPadOS 15.0.2 to address a zero-day flaw, tracked as CVE-2021-30883, that is actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Apple iOS 15.0.2 update fixes zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/emergency-apple-ios-1502-update-fixes-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released iOS 15.0.2 and iPadOS 15.0.2 to fix a zero-day vulnerability that is actively exploited in the wild in attacks targeting Phones and iPads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LibreOffice, OpenOffice bug allows hackers to spoof signed docs<a href="https://www.bleepingcomputer.com/news/security/libreoffice-openoffice-bug-allows-hackers-to-spoof-signed-docs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LibreOffice and OpenOffice have pushed updates to address a vulnerability that makes it possible for an attacker to manipulate documents to appear as signed by a trusted source.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improper Certificate Validation issue in LibreOffice and OpenOffice allows signed docs spoofing<a href="https://securityaffairs.co/wordpress/123212/security/libreoffice-openoffice-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LibreOffice and OpenOffice released security updates to address a vulnerability that can be exploited by an attacker to spoof signed documents.&nbsp; 
+
+
+
+LibreOffice&nbsp;and OpenOffice released security updates to address a moderate-severity flaw that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

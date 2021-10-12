@@ -8,6 +8,20 @@ nav_order: 800050
 
 ## 5G
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZTE widens bug bounty to focus on 5G security<a href="https://www.zdnet.com/article/zte-widens-bug-bounty-to-focus-on-5g-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ZTE has widened a bug bounty scheme to plug security vulnerabilities in its products, especially potential holes brought about by the launch of commercial 5G networks and services.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

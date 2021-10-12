@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft reports Iranian hackers targeting US, Israeli defense companies<a href="https://thehill.com//policy/cybersecurity/576250-microsoft-reports-iranian-hackers-targeting-us-israeli-defense-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday released evidence showing Iranian-linked hackers targeting and at times compromising systems of U.S. and Israeli defense technology companies.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iran-linked hackers target US defense tech companies<a href="https://www.bleepingcomputer.com/news/security/microsoft-iran-linked-hackers-target-us-defense-tech-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors are targeting the Office 365 tenants&nbsp;of US and Israeli defense technology companies in extensive password spraying attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iran-linked hackers target US defense tech companies<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iran-linked-hackers-target-us-defense-tech-companies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors are targeting the Office 365 tenants&nbsp;of US and Israeli defense technology companies in extensive password spraying attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

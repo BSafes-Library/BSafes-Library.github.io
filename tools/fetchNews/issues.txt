@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.co/wordpress/123181/breaking-news/nsa-advisory-wildcard-tls-certificates.html
  
 Law
 

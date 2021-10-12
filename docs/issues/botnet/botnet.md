@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Service of Ukraine arrested a man operating a huge DDoS botnet<a href="https://securityaffairs.co/wordpress/123227/cyber-crime/ddos-botnet-botmaster-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian police arrested a cybercriminal who controlled a botnet composed of 100,000 devices that was available for rent to launch DDoS attacks.
+
+
+
+Security Service of Ukraine (SSU) has arrested a hacker who controlled a DDoS botnet composed of 100,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
