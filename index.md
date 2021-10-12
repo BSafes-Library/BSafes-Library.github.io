@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent iPhone and iPad Updates to Patch New Zero-Day Vulnerability<a href="https://thehackernews.com/2021/10/apple-releases-urgent-iphone-and-ipad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released a security update for iOS and iPad to address a critical vulnerability that it says is being exploited in the wild, making it the 17th zero-day flaw the company has addressed in its products since the start of the year.'  The weakness, assigned the identifier  CVE-2021-30883 , concerns a memory corruption issue in the "IOMobileFrameBuffer" component that could allow an application to execute arbitrary code with kernel privileges. Crediting an anonymous researcher for reporting the vulnerability, Apple said it's "aware of a report that this issue may have been actively exploited."  Technical specifics about the flaw and the nature of the attacks remain unavailable as yet, as is the identity of the threat actor, so as to allow a majority of the users to apply the patch and prevent other adversaries from weaponizing the vulnerability. The iPhone maker said it addressed the issue with improved memory handling.   Security researcher Saar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
