@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pacific City Bank discloses ransomware attack claimed by AvosLocker<a href="https://www.bleepingcomputer.com/news/security/pacific-city-bank-discloses-ransomware-attack-claimed-by-avoslocker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pacific City Bank (PCB), one of the largest Korean-American community banking service providers in America, has disclosed a ransomware incident that took place last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

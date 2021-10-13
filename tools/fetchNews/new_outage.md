@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Olympus US was forced to take down computer systems due to cyberattack<a href="https://securityaffairs.co/wordpress/123263/security/olympus-us-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Olympus US was forced to take down IT systems in the American region (U.S., Canada, and Latin America) following a cyberattack. 
+
+
+
+The medical technology giant Olympus was forced to shut down its computer network in America (U.S., Canada, and Latin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack shuts down Ecuador's largest bank, Banco Pichincha<a href="https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-ecuadors-largest-bank-banco-pichincha/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ecuador's largest private bank&nbsp;Banco Pichincha has suffered a cyberattack that disrupted operations and taken the ATM and online banking portal offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

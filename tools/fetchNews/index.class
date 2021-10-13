@@ -34,6 +34,641 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT IronHusky use Win zero-day in recent wave of attacks<a href="https://securityaffairs.co/wordpress/123285/hacking/ironhusky-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking hacking group exploited a Windows zero-day vulnerability in a wave of attacks on defense and IT businesses.  
+
+
+
+A Chinese-speaking hacking group exploited a zero-day vulnerability in the Windows Win32k kernel driver to deploy a new remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police send warning letters to DDoS booter customers<a href="https://www.bleepingcomputer.com/news/security/dutch-police-send-warning-letters-to-ddos-booter-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch authorities gave a final warning to more than a dozen customers of a distributed denial-of-service (DDoS) website, letting them know that continued cyber offenses lead to prosecution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Iranian APT Targets Aerospace and  Telecoms in Western Countries<a href="https://cyware.com/news/new-iranian-apt-targets-aerospace-and-telecoms-in-western-countries-976b85b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage operation by MalKamak, an Iran-based hacker group, is targeting aerospace and telecom firms based in the Middle East, Russia, the U.S., and Europe.  MalKamak, which uses ShellClient RAT, has targeted only a small number of targets since its alleged inception in 2018.  Security team ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google creates cybersecurity team to respond to increased hacks<a href="https://thehill.com//policy/cybersecurity/576280-google-creates-cybersecurity-team-to-respond-to-increased-hacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the creation of a new cybersecurity team to help respond to attacks against governments and other critical groups, along with a new program to help strengthen the cybersecurity of businesses. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Your Windows PCs Immediately to Patch New 0-Day Under Active Attack<a href="https://thehackernews.com/2021/10/update-your-windows-pcs-immediately-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday rolled out  security patches  to contain a total of 71 vulnerabilities in Microsoft Windows and other software, including a fix for an actively exploited privilege escalation vulnerability that could be exploited in conjunction with remote code execution bugs to take control over vulnerable systems.  Two of the addressed security flaws are rated Critical, 68 are rated Important, and one is rated Low in severity, with three of the issues listed as publicly known at the time of the release. The four zero-days are as follows —   CVE-2021-40449  (CVSS score: 7.8) - Win32k Elevation of Privilege Vulnerability  CVE-2021-41335  (CVSS score: 7.8) - Windows Kernel Elevation of Privilege Vulnerability  CVE-2021-40469  (CVSS score: 7.2) - Windows DNS Server Remote Code Execution Vulnerability  CVE-2021-41338  (CVSS score: 5.5) - Windows AppContainer Firewall Rules Security Feature Bypass Vulnerability   At the top of the list is CVE-2021-40449, a use-after-free vulnerability
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 Spy Campaign Targets US Military Defense<a href="https://threatpost.com/military-defense-spy-campaign/175425/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked group is taking aim at makers of drones and satellites, Persian Gulf ports and maritime shipping companies, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use Windows zero-day to attack defense, IT firms<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-windows-zero-day-to-attack-defense-it-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking hacking group exploited a zero-day vulnerability in the Windows Win32k kernel driver to deploy a previously unknown remote access trojan (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There is Lot More About Fake iTerm2 Apps than Thought Earlier<a href="https://cyware.com/news/there-is-lot-more-about-fake-iterm2-apps-than-thought-earlier-2106a5d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro sheds light on the ZuRu malware campaign that collects private data from a victim’s machine.  Further analysis of the fake iTerm2 app’s Apple Distribution certificate led to the discovery of more trojanized apps on VirusTotal. S tay vigilant while downloading software online from untrus ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress looks to strengthen government's aging cyber infrastructure<a href="https://thehill.com//policy/cybersecurity/576189-congress-looks-to-strengthen-governments-aging-cyber-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Congress is working to funnel resources to beef up state and local government cybersecurity infrastructure after the COVID-19 pandemic forced municipalities to move many essential operations to aging and vulnerable online sources.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Signature Spoofing Flaws Uncovered in OpenOffice and LibreOffice<a href="https://thehackernews.com/2021/10/digital-signature-spoofing-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of LibreOffice and OpenOffice have shipped security updates to their productivity software to remediate multiple vulnerabilities that could be weaponized by malicious actors to alter documents to make them appear as if they are digitally signed by a trusted source.  The list of the three flaws is as follows —   CVE-2021-41830  /  CVE-2021-25633  - Content and Macro Manipulation with Double Certificate Attack  CVE-2021-41831  /  CVE-2021-25634  - Timestamp Manipulation with Signature Wrapping  CVE-2021-41832  /  CVE-2021-25635  - Content Manipulation with Certificate Validation Attack    Successful exploitation of the vulnerabilities could permit an attacker to  manipulate the timestamp  of signed ODF documents, and worse,  alter the contents  of a document or  self-sign a document  with an untrusted signature, which is then tweaked to change the  signature algorithm  to an invalid or unknown algorithm.    In both the latter two attack scenarios — stemming as a result o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Necro botnet now targets Visual Tools DVRs<a href="https://securityaffairs.co/wordpress/123275/cyber-crime/necro-botnet-dvrs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FreakOut (aka Necro, N3Cr0m0rPh) Python botnet evolves, it now includes a recently published PoC exploit for Visual Tools DVR. 
+
+
+
+Operators behind the FreakOut (aka Necro, N3Cr0m0rPh) Python botnet have added a PoC exploit for Visual Tools DVR,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI removes 'mitmproxy2' over code execution concerns<a href="https://www.bleepingcomputer.com/news/security/pypi-removes-mitmproxy2-over-code-execution-concerns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PyPI repository has removed a Python package called 'mitmproxy2' that was an identical copy of the official "mitmproxy" library, but with an "artificially introduced" code execution vulnerability. The 'mitmproxy' Python package is a free and open-source interactive HTTPS proxy
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI Bootkit Performs Espionage<a href="https://cyware.com/news/new-uefi-bootkit-performs-espionage-f2c3d154"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ESPecter bootkit was uncovered that performs cyberespionage and compromises system partitions. There are signs in the malware's components that revealed that the attackers could be Chinese-speaking. For protection, experts suggest ensuring security patches quickly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Revoked Insecure SSH Keys Generated by a Popular git Client<a href="https://thehackernews.com/2021/10/github-revoked-insecure-ssh-keys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code hosting platform GitHub has  revoked  weak SSH authentication keys that were generated via the GitKraken git GUI client due to a vulnerability in a third-party library that increased the likelihood of duplicated SSH keys.  As an added precautionary measure, the Microsoft-owned company also said it's building safeguards to prevent vulnerable versions of GitKraken from adding newly generated weak keys.   The problematic dependency, called " keypair ," is an open-source SSH key generation library that allows users to create RSA keys for authentication-related purposes. It has been found to impact  GitKraken  versions 7.6.x, 7.7.x, and 8.0.0, released between May 12, 2021, and September 27, 2021.  The flaw — tracked as CVE-2021-41117  (CVSS score: 8.7) — concerns  a bug in the pseudo-random number generator used by the library, resulting in the creation of a weaker form of public SSH keys, which, owing to their low entropy — i.e., the measure of randomness — could boost
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses four critical flaws in its products<a href="https://securityaffairs.co/wordpress/123269/security/adobe-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe addressed ten vulnerabilities across its Acrobat and Reader, Connect, Commerce, and Campaign Standard products. 
+
+
+
+Adobe has released security updates to address ten vulnerabilities across its Acrobat and Reader, Connect, Commerce, and Campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft October 2021 Patch Tuesday fixes 4 zero-days, 71 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2021-patch-tuesday-fixes-4-zero-days-71-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's October 2021 Patch Tuesday, and with it comes fixes for four zero-day vulnerabilities and a total of 74 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Links Multiple Attack Campaigns to APT41 Group<a href="https://cyware.com/news/research-links-multiple-attack-campaigns-to-apt41-group-267bbc14"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blackberry revealed three phishing schemes by APT41 that were targeting multiple sectors in India using COVID-19-themed phishing baits.&nbsp;Some of the phishing emails included information related to the latest income tax legislation targeting residents not living in India. Security teams need to  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fended Off a Record 2.4 Tbps DDoS Attack Targeting Azure Customers<a href="https://thehackernews.com/2021/10/microsoft-fended-off-record-24-tbps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday revealed that its Azure cloud platform mitigated a 2.4 Tbps distributed denial-of-service (DDoS) attack in the last week of August targeting an unnamed customer in Europe, surpassing a  2.3 Tbps attack  stopped by Amazon Web Services in February 2020.  "This is 140 percent higher than  2020's 1 Tbps attack  and higher than any network volumetric event previously detected on Azure," Amir Dahan, senior program manager for Azure Networking,  said  in a post, calling it a " UDP reflection " lasting for about 10 minutes.   Reflected amplification attacks are a type of denial of service attacks wherein a threat actor takes advantage of the connectionless nature of UDP protocol with spoofed requests so as to overwhelm a target server or network with a flood of packets, causing disruption or rendering the server and its surrounding infrastructure unavailable.   The attack is said to have originated from a botnet of approximately 70,000 compromised d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Olympus US was forced to take down computer systems due to cyberattack<a href="https://securityaffairs.co/wordpress/123263/security/olympus-us-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Olympus US was forced to take down IT systems in the American region (U.S., Canada, and Latin America) following a cyberattack. 
+
+
+
+The medical technology giant Olympus was forced to shut down its computer network in America (U.S., Canada, and Latin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreakOut botnet now attacks vulnerable video DVR devices<a href="https://www.bleepingcomputer.com/news/security/freakout-botnet-now-attacks-vulnerable-video-dvr-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new update to the FreakOut (aka Necro, N3Cr0m0rPh) Python botnet has added a recently published PoC exploit for Visual Tools DVR in its arsenal to further aid in breaching systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware cost US companies almost $21 billion in downtime in 2020<a href="https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Comparitech of 186 successful ransomware attacks against businesses in the United States in 2020 has shown that the companies lost almost US$21 billion due to attack-induced downtime.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitKraken flaw lead to the generation of weak SSH keys<a href="https://securityaffairs.co/wordpress/123255/security/gitkraken-flaw-ssh-keys-generation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Git GUI client GitKraken team fixed a flaw that lead to the generation of weak SSH keys, users are recommended to revoke and renew their keys. 
+
+
+
+The development team behind the Git GUI client GitKraken has fixed a vulnerability that was leading to the generation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack shuts down Ecuador's largest bank, Banco Pichincha<a href="https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-ecuadors-largest-bank-banco-pichincha/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ecuador's largest private bank Banco Pichincha has suffered a cyberattack that disrupted operations and taken the ATM and online banking portal offline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InHand Router Flaws Could Expose Many Industrial Companies to Remote Attacks<a href="https://www.securityweek.com/inhand-router-flaws-could-expose-many-industrial-companies-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several serious vulnerabilities discovered by researchers in industrial routers made by InHand Networks could expose many organizations to remote attacks, and patches do not appear to be available.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigated a record 2.4 Tbps DDoS attack in August<a href="https://securityaffairs.co/wordpress/123245/hacking/azure-record-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Azure cloud service mitigated a massive DDoS attack of 2.4 terabytes per second (Tbps) at the end of August, it is the largest DDoS attack to date. 
+
+
+
+Microsoft announced that its Azure cloud service mitigated a 2.4 terabytes per second (Tbps)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study reveals Android phones constantly snoop on their users<a href="https://www.bleepingcomputer.com/news/security/study-reveals-android-phones-constantly-snoop-on-their-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study by a team of university researchers in the UK has unveiled a host of privacy issues that arise from using Android smartphones. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Apple: How macOS attacks are evolving<a href="https://blog.malwarebytes.com/malwarebytes-news/2021/10/inside-apple-how-macos-attacks-are-evolving/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transparency, Consent, and Control (TCC) is a system for requiring user consent to access certain data, via prompts confirming that the user is okay with an app accessing that data.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SnapMC hackers skip file encryption and just steal your files<a href="https://www.bleepingcomputer.com/news/security/snapmc-hackers-skip-file-encryption-and-just-steal-your-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new actor tracked as SnapMC has emerged in the cybercrime space, performing the typical data-stealing extortion that underpins ransomware operations, but without doing any file encryption. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Expose exacqVision Video Surveillance Systems to Remote Attacks<a href="https://www.securityweek.com/vulnerabilities-expose-exacqvision-video-surveillance-systems-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Tenable discovered critical and high-severity vulnerabilities in video surveillance systems made by Exacq Technologies, which is owned by building technology giant Johnson Controls.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft revokes insecure SSH keys for Azure DevOps customers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-revokes-insecure-ssh-keys-for-azure-devops-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revoked insecure SSH keys some Azure DevOps have generated using a GitKraken git GUI client version impacted by an underlying issue found in one of its dependencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint To Acquire Cloud Security Startup Bitglass<a href="https://www.crn.com/news/security/forcepoint-to-acquire-cloud-security-startup-bitglass?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint said it has reached a deal to acquire cloud security startup Bitglass. The deal is expected to close later this year. The financial terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Olympus US systems hit by cyberattack over the weekend<a href="https://www.bleepingcomputer.com/news/security/olympus-us-systems-hit-by-cyberattack-over-the-weekend/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Olympus, a leading medical technology company, was forced to take down IT systems in the Americas (U.S., Canada and Latin America) following a cyberattack that hit its network Sunday, on October 10, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Azure customer hit by record DDoS attack in August<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-customer-hit-by-record-ddos-attack-in-august/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has mitigated a record 2.4 Tbps (terabits per second) Distributed Denial-of-Service (DDoS) attack targeting an European Azure customer during the last week of August.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Photo editor Android app STILL sitting on Google Play store is malware<a href="https://www.bleepingcomputer.com/news/security/photo-editor-android-app-still-sitting-on-google-play-store-is-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android app sitting on the Google Play store touts itself to be a photo editor app. But, it contains code that steals the user's Facebook credentials to potentially run ad campaigns on the user's behalf, with their payment information. The app has scored over 5K installs, with similar spyware apps having 500K+ installs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA warns of wildcard certificate risks, provides mitigations<a href="https://www.bleepingcomputer.com/news/security/nsa-warns-of-wildcard-certificate-risks-provides-mitigations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) is warning of the dangers stemming from the use of broadly-scoped certificates to authenticate multiple servers in an organization. These include a recently disclosed ALPACA technique that could be used for various traffic redirect attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Iran-Linked Hackers Targeting US and Israeli Defense Firms<a href="https://thehackernews.com/2021/10/microsoft-warns-of-iran-linked-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging threat actor likely supporting Iranian national interests has been behind a password spraying campaign targeting US, EU, and Israeli defense technology companies, with additional activity observed against regional ports of entry in the Persian Gulf as well as maritime and cargo transportation companies focused in the Middle East.  Microsoft is tracking the hacking crew under the moniker DEV-0343 .  The intrusions, which were first observed in late July 2021, are believed to have targeted more than 250 Office 365 tenants, fewer than 20 of which were successfully compromised following a  password spray  attack — a type of brute force attack wherein the same password is cycled against different usernames to log into an application or a network in an effort to avoid account lockouts.   Indications thus far allude to the possibility that the activity is part of an intellectual property theft campaign aimed at government partners producing military-grade radars, drone technology
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Arrests Operator of DDoS Botnet with 100,000 Compromised Devices<a href="https://thehackernews.com/2021/10/ukraine-arrests-operator-of-ddos-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement authorities on Monday disclosed the arrest of a hacker responsible for the creation and management of a "powerful botnet" consisting of over 100,000 enslaved devices that was used to carry out distributed denial-of-service (DDoS) and spam attacks on behalf of paid customers.  The unnamed individual, from the Ivano-Frankivsk region of the country, is also said to have leveraged the automated network to detect vulnerabilities in websites and break into them as well as stage brute-force attacks in order to guess email passwords. The Ukrainian police agency said it conducted a raid of the suspect's residence and seized their computer equipment as evidence of illegal activity.   "He looked for customers on the closed forums and Telegram chats and payments were made via blocked electronic payment systems," the Security Service of Ukraine (SSU)  said  in a press statement. The payments were facilitated via WebMoney, a Russian money transfer p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Urgent iPhone and iPad Updates to Patch New Zero-Day Vulnerability<a href="https://thehackernews.com/2021/10/apple-releases-urgent-iphone-and-ipad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released a security update for iOS and iPad to address a critical vulnerability that it says is being exploited in the wild, making it the 17th zero-day flaw the company has addressed in its products since the start of the year.'  The weakness, assigned the identifier  CVE-2021-30883 , concerns a memory corruption issue in the "IOMobileFrameBuffer" component that could allow an application to execute arbitrary code with kernel privileges. Crediting an anonymous researcher for reporting the vulnerability, Apple said it's "aware of a report that this issue may have been actively exploited."  Technical specifics about the flaw and the nature of the attacks remain unavailable as yet, as is the identity of the threat actor, so as to allow a majority of the users to apply the patch and prevent other adversaries from weaponizing the vulnerability. The iPhone maker said it addressed the issue with improved memory handling.   Security researcher Saar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

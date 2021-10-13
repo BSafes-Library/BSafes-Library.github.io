@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware cost US companies almost $21 billion in downtime in 2020<a href="https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Comparitech of 186 successful ransomware attacks against businesses in the United States in 2020 has shown that the companies lost almost US$21 billion due to attack-induced downtime.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Apple: How macOS attacks are evolving<a href="https://blog.malwarebytes.com/malwarebytes-news/2021/10/inside-apple-how-macos-attacks-are-evolving/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transparency, Consent, and Control (TCC) is a system for requiring user consent to access certain data, via prompts confirming that the user is okay with an app accessing that data.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

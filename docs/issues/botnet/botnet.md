@@ -8,6 +8,52 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Necro botnet now targets Visual Tools DVRs<a href="https://securityaffairs.co/wordpress/123275/cyber-crime/necro-botnet-dvrs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FreakOut (aka Necro, N3Cr0m0rPh) Python botnet evolves, it now includes a recently published PoC exploit for Visual Tools DVR. 
+
+
+
+Operators behind the FreakOut (aka Necro, N3Cr0m0rPh) Python botnet have added a PoC exploit for Visual Tools DVR,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreakOut botnet now attacks vulnerable video DVR devices<a href="https://www.bleepingcomputer.com/news/security/freakout-botnet-now-attacks-vulnerable-video-dvr-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new update to the FreakOut (aka Necro, N3Cr0m0rPh) Python botnet has added a recently published PoC exploit for Visual Tools DVR in its arsenal to further aid in breaching systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Arrests Operator of DDoS Botnet with 100,000 Compromised Devices<a href="https://thehackernews.com/2021/10/ukraine-arrests-operator-of-ddos-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement authorities on Monday disclosed the arrest of a hacker responsible for the creation and management of a "powerful botnet" consisting of over 100,000 enslaved devices that was used to carry out distributed denial-of-service (DDoS) and spam attacks on behalf of paid customers.  The unnamed individual, from the Ivano-Frankivsk region of the country, is also said to have leveraged the automated network to detect vulnerabilities in websites and break into them as well as stage brute-force attacks in order to guess email passwords. The Ukrainian police agency said it conducted a raid of the suspect's residence and seized their computer equipment as evidence of illegal activity.   "He looked for customers on the closed forums and Telegram chats and payments were made via blocked electronic payment systems," the Security Service of Ukraine (SSU)&nbsp; said &nbsp;in a press statement. The payments were facilitated via WebMoney, a Russian money transfer p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police send warning letters to DDoS booter customers<a href="https://www.bleepingcomputer.com/news/security/dutch-police-send-warning-letters-to-ddos-booter-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch authorities gave a final warning to more than a dozen customers of a distributed denial-of-service (DDoS) website, letting them know that continued cyber offenses lead to prosecution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fended Off a Record 2.4 Tbps DDoS Attack Targeting Azure Customers<a href="https://thehackernews.com/2021/10/microsoft-fended-off-record-24-tbps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday revealed that its Azure cloud platform mitigated a 2.4 Tbps distributed denial-of-service (DDoS) attack in the last week of August targeting an unnamed customer in Europe, surpassing a&nbsp; 2.3 Tbps attack &nbsp;stopped by Amazon Web Services in February 2020.  "This is 140 percent higher than&nbsp; 2020's 1 Tbps attack &nbsp;and higher than any network volumetric event previously detected on Azure," Amir Dahan, senior program manager for Azure Networking,&nbsp; said &nbsp;in a post, calling it a " UDP reflection " lasting for about 10 minutes.   Reflected amplification attacks are a type of denial of service attacks wherein a threat actor takes advantage of the connectionless nature of UDP protocol with spoofed requests so as to overwhelm a target server or network with a flood of packets, causing disruption or rendering the server and its surrounding infrastructure unavailable.   The attack is said to have originated from a botnet of approximately 70,000 compromised d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigated a record 2.4 Tbps DDoS attack in August<a href="https://securityaffairs.co/wordpress/123245/hacking/azure-record-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Azure cloud service mitigated a massive DDoS attack of 2.4 terabytes per second (Tbps) at the end of August, it is the largest DDoS attack to date. 
+
+
+
+Microsoft announced that its Azure cloud service mitigated a 2.4 terabytes per second (Tbps)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Azure customer hit by record DDoS attack in August<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-customer-hit-by-record-ddos-attack-in-august/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has mitigated a record 2.4 Tbps&nbsp;(terabits per second)&nbsp;Distributed Denial-of-Service (DDoS) attack targeting an European Azure customer&nbsp;during the last week of August.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

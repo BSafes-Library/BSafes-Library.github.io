@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT IronHusky use Win zero-day in recent wave of attacks<a href="https://securityaffairs.co/wordpress/123285/hacking/ironhusky-zero-day.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch police send warning letters to DDoS booter customers<a href="https://www.bleepingcomputer.com/news/security/dutch-police-send-warning-letters-to-ddos-booter-customers/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Iranian APT Targets Aerospace and  Telecoms in Western Countries<a href="https://cyware.com/news/new-iranian-apt-targets-aerospace-and-telecoms-in-western-countries-976b85b5"> Full Text</a>
@@ -87,7 +87,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google creates cybersecurity team to respond to increased hacks<a href="https://thehill.com//policy/cybersecurity/576280-google-creates-cybersecurity-team-to-respond-to-increased-hacks"> Full Text</a>
@@ -103,7 +103,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Your Windows PCs Immediately to Patch New 0-Day Under Active Attack<a href="https://thehackernews.com/2021/10/update-your-windows-pcs-immediately-to.html"> Full Text</a>
@@ -119,7 +119,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365 Spy Campaign Targets US Military Defense<a href="https://threatpost.com/military-defense-spy-campaign/175425/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers use Windows zero-day to attack defense, IT firms<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-windows-zero-day-to-attack-defense-it-firms/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There is Lot More About Fake iTerm2 Apps than Thought Earlier<a href="https://cyware.com/news/there-is-lot-more-about-fake-iterm2-apps-than-thought-earlier-2106a5d4"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress looks to strengthen government's aging cyber infrastructure<a href="https://thehill.com//policy/cybersecurity/576189-congress-looks-to-strengthen-governments-aging-cyber-infrastructure"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital Signature Spoofing Flaws Uncovered in OpenOffice and LibreOffice<a href="https://thehackernews.com/2021/10/digital-signature-spoofing-flaws.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Necro botnet now targets Visual Tools DVRs<a href="https://securityaffairs.co/wordpress/123275/cyber-crime/necro-botnet-dvrs.html"> Full Text</a>
@@ -220,7 +220,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI removes 'mitmproxy2' over code execution concerns<a href="https://www.bleepingcomputer.com/news/security/pypi-removes-mitmproxy2-over-code-execution-concerns/"> Full Text</a>
@@ -236,7 +236,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UEFI Bootkit Performs Espionage<a href="https://cyware.com/news/new-uefi-bootkit-performs-espionage-f2c3d154"> Full Text</a>
@@ -252,7 +252,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Revoked Insecure SSH Keys Generated by a Popular git Client<a href="https://thehackernews.com/2021/10/github-revoked-insecure-ssh-keys.html"> Full Text</a>
@@ -268,7 +268,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses four critical flaws in its products<a href="https://securityaffairs.co/wordpress/123269/security/adobe-critical-flaws.html"> Full Text</a>
@@ -288,7 +288,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft October 2021 Patch Tuesday fixes 4 zero-days, 71 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2021-patch-tuesday-fixes-4-zero-days-71-flaws/"> Full Text</a>
@@ -304,7 +304,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Research Links Multiple Attack Campaigns to APT41 Group<a href="https://cyware.com/news/research-links-multiple-attack-campaigns-to-apt41-group-267bbc14"> Full Text</a>
@@ -321,7 +321,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fended Off a Record 2.4 Tbps DDoS Attack Targeting Azure Customers<a href="https://thehackernews.com/2021/10/microsoft-fended-off-record-24-tbps.html"> Full Text</a>
@@ -337,7 +337,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Olympus US was forced to take down computer systems due to cyberattack<a href="https://securityaffairs.co/wordpress/123263/security/olympus-us-cyberattack.html"> Full Text</a>
@@ -357,7 +357,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreakOut botnet now attacks vulnerable video DVR devices<a href="https://www.bleepingcomputer.com/news/security/freakout-botnet-now-attacks-vulnerable-video-dvr-devices/"> Full Text</a>
@@ -373,7 +373,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware cost US companies almost $21 billion in downtime in 2020<a href="https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/?&web_view=true"> Full Text</a>
@@ -389,7 +389,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitKraken flaw lead to the generation of weak SSH keys<a href="https://securityaffairs.co/wordpress/123255/security/gitkraken-flaw-ssh-keys-generation.html"> Full Text</a>
@@ -409,7 +409,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack shuts down Ecuador's largest bank, Banco Pichincha<a href="https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-ecuadors-largest-bank-banco-pichincha/"> Full Text</a>
@@ -425,7 +425,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 InHand Router Flaws Could Expose Many Industrial Companies to Remote Attacks<a href="https://www.securityweek.com/inhand-router-flaws-could-expose-many-industrial-companies-remote-attacks?&web_view=true"> Full Text</a>
@@ -441,7 +441,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft mitigated a record 2.4 Tbps DDoS attack in August<a href="https://securityaffairs.co/wordpress/123245/hacking/azure-record-ddos-attack.html"> Full Text</a>
@@ -461,7 +461,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Study reveals Android phones constantly snoop on their users<a href="https://www.bleepingcomputer.com/news/security/study-reveals-android-phones-constantly-snoop-on-their-users/"> Full Text</a>
@@ -477,7 +477,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Apple: How macOS attacks are evolving<a href="https://blog.malwarebytes.com/malwarebytes-news/2021/10/inside-apple-how-macos-attacks-are-evolving/?&web_view=true"> Full Text</a>
@@ -493,7 +493,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SnapMC hackers skip file encryption and just steal your files<a href="https://www.bleepingcomputer.com/news/security/snapmc-hackers-skip-file-encryption-and-just-steal-your-files/"> Full Text</a>
@@ -509,7 +509,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities Expose exacqVision Video Surveillance Systems to Remote Attacks<a href="https://www.securityweek.com/vulnerabilities-expose-exacqvision-video-surveillance-systems-remote-attacks?&web_view=true"> Full Text</a>
@@ -525,7 +525,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft revokes insecure SSH keys for Azure DevOps customers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-revokes-insecure-ssh-keys-for-azure-devops-customers/"> Full Text</a>
@@ -541,7 +541,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forcepoint To Acquire Cloud Security Startup Bitglass<a href="https://www.crn.com/news/security/forcepoint-to-acquire-cloud-security-startup-bitglass?&web_view=true"> Full Text</a>
@@ -557,7 +557,7 @@ CRN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Olympus US systems hit by cyberattack over the weekend<a href="https://www.bleepingcomputer.com/news/security/olympus-us-systems-hit-by-cyberattack-over-the-weekend/"> Full Text</a>
@@ -573,7 +573,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Azure customer hit by record DDoS attack in August<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-customer-hit-by-record-ddos-attack-in-august/"> Full Text</a>
@@ -589,7 +589,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Photo editor Android app STILL sitting on Google Play store is malware<a href="https://www.bleepingcomputer.com/news/security/photo-editor-android-app-still-sitting-on-google-play-store-is-malware/"> Full Text</a>
@@ -605,7 +605,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2021
+October 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA warns of wildcard certificate risks, provides mitigations<a href="https://www.bleepingcomputer.com/news/security/nsa-warns-of-wildcard-certificate-risks-provides-mitigations/"> Full Text</a>
@@ -621,7 +621,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Iran-Linked Hackers Targeting US and Israeli Defense Firms<a href="https://thehackernews.com/2021/10/microsoft-warns-of-iran-linked-hackers.html"> Full Text</a>
@@ -637,7 +637,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Arrests Operator of DDoS Botnet with 100,000 Compromised Devices<a href="https://thehackernews.com/2021/10/ukraine-arrests-operator-of-ddos-botnet.html"> Full Text</a>
@@ -653,7 +653,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2021
+October 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Urgent iPhone and iPad Updates to Patch New Zero-Day Vulnerability<a href="https://thehackernews.com/2021/10/apple-releases-urgent-iphone-and-ipad.html"> Full Text</a>

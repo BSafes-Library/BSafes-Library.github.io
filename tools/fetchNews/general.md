@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of Americans concerned about cyberattacks on critical groups: poll<a href="https://thehill.com//policy/cybersecurity/575997-majority-of-americans-concerned-about-cyberattacks-on-critical-groups"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vast majority of Americans are concerned about cyberattacks on critical groups, in particular those in the financial and national security sectors, a poll released Monday found.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Concerning to Most in US: Pearson/AP-NORC Poll<a href="https://www.securityweek.com/cyberattacks-concerning-most-us-pearsonap-norc-poll?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most Americans across party lines have serious concerns about cyberattacks on U.S. computer systems and view China and Russia as major threats, according to a newly released poll.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
