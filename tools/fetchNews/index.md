@@ -34,6 +34,440 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyKings botnet still active and making massive amounts of money<a href="https://www.bleepingcomputer.com/news/security/mykings-botnet-still-active-and-making-massive-amounts-of-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MyKings botnet (aka Smominru or DarkCloud) is still actively spreading, making massive amounts of money in crypto, five years after it first appeared in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FontOnLake Malware Cripples Linux Systems<a href="https://cyware.com/news/new-fontonlake-malware-cripples-linux-systems-a94ab500"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET unearthed a new malware strain, dubbed FontOnLake, that targets Linux systems and appears to have claimed a limited number of victims in Southeast Asia.  The malware appears to boast sneaky nature and advanced designs.  Security teams are suggested to proactively prepare their defenses against ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Johns Hopkins to launch degree program in cybersecurity and policy<a href="https://thehill.com//policy/cybersecurity/576635-johns-hopkins-to-launch-degree-in-cybersecurity-and-policy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Johns Hopkins University School of Advanced International Studies on Wednesday announced plans to launch an advanced academic program focused on the intersection of cybersecurity, technology, intelligence and international affairs.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in OpenSea Could Have Let Hackers Steal Cryptocurrency From Wallets<a href="https://thehackernews.com/2021/10/critical-flaw-in-opensea-could-have-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched critical vulnerability in OpenSea, the world's largest non-fungible token ( NFT ) marketplace, could've been abused by malicious actors to drain cryptocurrency funds from a victim by sending a specially-crafted token, opening a new attack vector for exploitation.  The findings come from cybersecurity firm Check Point Research, which began an investigation into the platform following public reports of stolen cryptocurrency wallets triggered by free airdropped NFTs. The issues were fixed in less than one hour of responsible disclosure on September 26, 2021.   "Left unpatched, the vulnerabilities could allow hackers to hijack user accounts and steal entire cryptocurrency wallets by crafting malicious NFTs," Check Point researchers  said .  As the name indicates, NFTs are unique digital assets such as photos, videos, audio, and other items that can be sold and traded on the blockchain, using the technology as a certificate of authenticity to establish a ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple silently fixed iOS zero-day without crediting the expet who reported it<a href="https://securityaffairs.co/wordpress/123321/mobile-2/apple-silently-fixed-ios-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has silently addressed a zero-day vulnerability that could allow attackers to gain access to sensitive user data. 
+
+
+
+Apple has silently addressed zero-day vulnerability with the release of iOS 15.0.2, the vulnerability could allow attackers gain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreakOut Botnet Turns DVRs Into Monero Cryptominers<a href="https://threatpost.com/freakout-botnet-dvrs-monero-cryptominers/175467/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Necro Python exploit targets Visual Tool DVRs used in surveillance systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple silently fixes iOS zero-day, asks bug reporter to keep quiet<a href="https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has silently fixed a gamed zero-day vulnerability with the release of iOS 15.0.2, on Monday, a security flaw that could let attackers gain access to sensitive user information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Launches Spearphishing Campaign Against Gmail Users: Google Warns<a href="https://cyware.com/news/apt28-launches-spearphishing-campaign-against-gmail-users-google-warns-84b73646"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warned against phishing attempts by APT28 impacting nearly 14,000 Gmail users, especially activists, journalists, and government officials as they are the key targets of state-sponsored hacks.  However, there were no confirmed reports of compromised Gmail accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers, security experts call for beefing up cybersecurity<a href="https://thehill.com//policy/cybersecurity/576634-lawmakers-security-experts-call-for-beefing-up-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers and national security experts said Tuesday that the U.S. needs to take bigger steps at the government level and in the private sector to guard against ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] The Guide for Reducing SaaS Applications Risk for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-for-reducing-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Software-as-a-service (SaaS) industry has gone from novelty to an integral part of today's business world in just a few years. While the benefits to most organizations are clear – more efficiency, greater productivity, and accessibility – the risks that the SaaS model poses are starting to become visible. It's not an overstatement to say that most companies today run on SaaS. This poses an increasing challenge to their security teams.   A new guide from XDR and SSPM provider Cynet, titled The Guide for Reducing SaaS Applications Risk for Lean IT Security Teams ( download here ), breaks down exactly why SaaS ecosystems are so risky, and how security teams can mitigate those dangers.   Today, the average midsize company uses 185 SaaS apps. What this means is that the number of app-to-person connections has risen exponentially. Most midsize companies have nearly 4,406 touch points, creating an attack surface that requires significant resources to simply monitor. The risk of a digital
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyKings botnet operators already amassed at least $24 million<a href="https://securityaffairs.co/wordpress/123312/malware/mykings-botnet-still-alive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MyKings botnet (aka Smominru or DarkCloud) is still alive and continues to spread, allowing its operators to make huge amounts of money.
+
+
+
+Avast Threat Labs researchers reported that the MyKings botnet (aka Smominru or DarkCloud) is still alive and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brizy WordPress Plugin Exploit Chains Allow Full Site Takeovers<a href="https://threatpost.com/brizy-wordpress-plugin-exploit-site-takeovers/175463/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stored XSS and arbitrary file-upload bug can be paired with an authorization bypass to wreak havoc.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia to tackle ransomware data breaches by deleting stolen files<a href="https://www.bleepingcomputer.com/news/security/australia-to-tackle-ransomware-data-breaches-by-deleting-stolen-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's Minister for Home Affairs has announced the "Australian Government's Ransomware Action Plan," which is a set of new measures the country will adopt in an attempt to tackle the rising threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Flaws in Apache Servers are Under Attack<a href="https://cyware.com/news/two-flaws-in-apache-servers-are-under-attack-d493d3f9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache, the open-source cross-platform web server software, rolled out patches to fix two security vulnerabilities that were being abused by criminals. While the first flaw can be exploited for RCE, the other moderate flaw can enable DoS attacks on the server. Experts recommend following proper pat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World leaders call for enhanced cooperation to fight escalating wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/576578-world-leaders-call-for-enhanced-cooperation-to-fight-escalating-wave-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of leaders from around 30 nations kicked off a White House-led summit on countering ransomware attacks Wednesday by calling for increased international cooperation to fight these incidents. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police warn customers of a popular DDoS booter service<a href="https://securityaffairs.co/wordpress/123303/cyber-crime/dutch-police-warn-customers-ddos-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch police warn customers of a distributed denial-of-service (DDoS) website of stopping using the service to avoid prosecution. 
+
+
+
+Dutch police warn customers of a booter service, abused to carry out distributed denial-of-service (DDoS) attacks, of to stop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandating a Zero-Trust Approach for Software Supply Chains<a href="https://threatpost.com/mandate-zero-trust-software-supply-chains/175333/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sounil Yu, CISO at JupiterOne, discusses software bills of materials (SBOMs) and the need for a shift in thinking about securing software supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon digital carrier Visible customer accounts were hacked<a href="https://www.bleepingcomputer.com/news/security/verizon-digital-carrier-visible-customer-accounts-were-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Visible, a US digital wireless carrier owned by Verizon, admitted that some customer accounts were hacked after dealing with technical problems in the past couple of days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Executive Accessed PHI of Nearly 38,000 Individuals<a href="https://www.govinfosecurity.com/former-executive-accessed-phi-nearly-38000-individuals-a-17724?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A compromise of sensitive health information at Premier Patient Healthcare affecting nearly 38,000 individuals was discovered nearly a year after a terminated company executive accessed the data.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia excluded from virtual White House meeting on ransomware<a href="https://thehill.com//policy/cybersecurity/576417-white-house-convenes-virtual-meeting-of-countries-to-counter-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House on Wednesday will convene a virtual meeting on countering ransomware with senior officials representing 30 countries and the European Union, Biden administration officials said, as part of President Biden’s effort to work with global partners to address cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks use math symbols to evade anti-phishing solutions<a href="https://securityaffairs.co/wordpress/123297/hacking/anti-phishing-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using mathematical symbols on impersonated company logos to evade detection in phishing campaigns.
+
+
+
+Researchers from anti-phishing cybersecurity firm INKY have detailed a new technique to evade detection in phishing attacks, it leverages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea NFT platform bugs let hackers steal crypto wallets<a href="https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found that an attacker could leave OpenSea account owners with an empty cryptocurrency balance by luring them to click on malicious NFT art.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cybersecurity Agency Releases New BYOD Guidance<a href="https://www.inforisktoday.com/uk-cybersecurity-agency-releases-new-byod-guidance-a-17722?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Cyber Security Center has published an updated guidance for employees using their personal devices for work, amid a prolonged work-from-home setting.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia and China left out of global anti-ransomware meetings<a href="https://www.bleepingcomputer.com/news/security/russia-and-china-left-out-of-global-anti-ransomware-meetings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House National Security Council facilitates virtual meetings this week with senior officials and ministers from more than 30 countries in a virtual international counter-ransomware event to rally allies in the fight against the ransomware threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens and Schneider Electric Address Over 50 Vulnerabilities for Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-and-schneider-electric-address-over-50-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial giants Siemens and Schneider Electric on Tuesday released nearly a dozen security advisories describing a total of more than 50 vulnerabilities affecting their products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE launches two organizations to protect critical infrastructure and clinical health data<a href="https://www.helpnetsecurity.com/2021/10/13/mitre-two-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has created two new organizations intended to help the company better focus on cybersecurity threats to critical infrastructure and new approaches to public health challenges.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyKings botnet still active and making massive amounts of money<a href="https://www.bleepingcomputer.com/news/security/mykings-botnet-still-active-and-making-massive-amounts-of-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MyKings botnet (aka Smominru or DarkCloud) is still actively&nbsp;spreading, making massive amounts of money in crypto, five years after it first appeared in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FreakOut Botnet Turns DVRs Into Monero Cryptominers<a href="https://threatpost.com/freakout-botnet-dvrs-monero-cryptominers/175467/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Necro Python exploit targets Visual Tool DVRs used in surveillance systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia to tackle ransomware data breaches by deleting stolen files<a href="https://www.bleepingcomputer.com/news/security/australia-to-tackle-ransomware-data-breaches-by-deleting-stolen-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's Minister for Home Affairs has announced the "Australian Government's Ransomware Action Plan," which is a set of new measures the country will adopt in an attempt to tackle the rising threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World leaders call for enhanced cooperation to fight escalating wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/576578-world-leaders-call-for-enhanced-cooperation-to-fight-escalating-wave-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of leaders from around 30 nations kicked off a White House-led summit on countering ransomware attacks Wednesday by calling for increased international cooperation to fight these incidents.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia excluded from virtual White House meeting on ransomware<a href="https://thehill.com//policy/cybersecurity/576417-white-house-convenes-virtual-meeting-of-countries-to-counter-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House on Wednesday will convene a virtual meeting on countering ransomware with senior officials representing 30 countries and the European Union, Biden administration officials said, as part of President Biden’s effort to work with global partners to address cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cybersecurity Agency Releases New BYOD Guidance<a href="https://www.inforisktoday.com/uk-cybersecurity-agency-releases-new-byod-guidance-a-17722?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Cyber Security Center has published an updated guidance for employees using their personal devices for work, amid a prolonged work-from-home setting.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia and China left out of global anti-ransomware meetings<a href="https://www.bleepingcomputer.com/news/security/russia-and-china-left-out-of-global-anti-ransomware-meetings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House National Security Council facilitates virtual meetings this week with senior officials and ministers from more than 30 countries in a virtual international counter-ransomware event to rally allies in the fight against the ransomware threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

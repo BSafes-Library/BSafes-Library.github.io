@@ -8,6 +8,95 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in OpenSea Could Have Let Hackers Steal Cryptocurrency From Wallets<a href="https://thehackernews.com/2021/10/critical-flaw-in-opensea-could-have-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched critical vulnerability in OpenSea, the world's largest non-fungible token ( NFT ) marketplace, could've been abused by malicious actors to drain cryptocurrency funds from a victim by sending a specially-crafted token, opening a new attack vector for exploitation.  The findings come from cybersecurity firm Check Point Research, which began an investigation into the platform following public reports of stolen cryptocurrency wallets triggered by free airdropped NFTs. The issues were fixed in less than one hour of responsible disclosure on September 26, 2021.   "Left unpatched, the vulnerabilities could allow hackers to hijack user accounts and steal entire cryptocurrency wallets by crafting malicious NFTs," Check Point researchers&nbsp; said .  As the name indicates, NFTs are unique digital assets such as photos, videos, audio, and other items that can be sold and traded on the blockchain, using the technology as a certificate of authenticity to establish a ver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple silently fixed iOS zero-day without crediting the expet who reported it<a href="https://securityaffairs.co/wordpress/123321/mobile-2/apple-silently-fixed-ios-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has silently addressed a zero-day vulnerability that could allow attackers to gain access to sensitive user data. 
+
+
+
+Apple has silently addressed zero-day vulnerability with the release of iOS 15.0.2, the vulnerability could allow attackers gain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple silently fixes iOS zero-day, asks bug reporter to keep quiet<a href="https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has silently fixed a gamed zero-day vulnerability with the release of iOS 15.0.2, on Monday, a security flaw&nbsp;that could let attackers gain access to sensitive user information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Flaws in Apache Servers are Under Attack<a href="https://cyware.com/news/two-flaws-in-apache-servers-are-under-attack-d493d3f9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache, the open-source cross-platform web server software, rolled out patches to fix two security vulnerabilities that were being abused by criminals. While the first flaw can be exploited for RCE, the other moderate flaw can enable DoS attacks on the server. Experts recommend following proper pat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea NFT platform bugs let hackers steal crypto wallets<a href="https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found that an attacker could leave OpenSea account owners with an empty cryptocurrency balance by luring them to click on malicious NFT art.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens and Schneider Electric Address Over 50 Vulnerabilities for Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-and-schneider-electric-address-over-50-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial giants Siemens and Schneider Electric on Tuesday released nearly a dozen security advisories describing a total of more than 50 vulnerabilities affecting their products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

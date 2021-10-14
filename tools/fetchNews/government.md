@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress looks to strengthen government's aging cyber infrastructure<a href="https://thehill.com//policy/cybersecurity/576189-congress-looks-to-strengthen-governments-aging-cyber-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Congress is working to funnel resources to beef up state and local government cybersecurity infrastructure after the COVID-19 pandemic forced municipalities to move many essential operations to aging and vulnerable online sources.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA warns of wildcard certificate risks, provides mitigations<a href="https://www.bleepingcomputer.com/news/security/nsa-warns-of-wildcard-certificate-risks-provides-mitigations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) is warning of the dangers stemming from the use of broadly-scoped certificates to authenticate multiple servers in an organization. These include a recently disclosed ALPACA technique that could be used for various traffic redirect attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

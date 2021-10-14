@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyKings botnet still active and making massive amounts of money<a href="https://www.bleepingcomputer.com/news/security/mykings-botnet-still-active-and-making-massive-amounts-of-money/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FontOnLake Malware Cripples Linux Systems<a href="https://cyware.com/news/new-fontonlake-malware-cripples-linux-systems-a94ab500"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Johns Hopkins to launch degree program in cybersecurity and policy<a href="https://thehill.com//policy/cybersecurity/576635-johns-hopkins-to-launch-degree-in-cybersecurity-and-policy"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in OpenSea Could Have Let Hackers Steal Cryptocurrency From Wallets<a href="https://thehackernews.com/2021/10/critical-flaw-in-opensea-could-have-let.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple silently fixed iOS zero-day without crediting the expet who reported it<a href="https://securityaffairs.co/wordpress/123321/mobile-2/apple-silently-fixed-ios-zero-day.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreakOut Botnet Turns DVRs Into Monero Cryptominers<a href="https://threatpost.com/freakout-botnet-dvrs-monero-cryptominers/175467/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple silently fixes iOS zero-day, asks bug reporter to keep quiet<a href="https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Launches Spearphishing Campaign Against Gmail Users: Google Warns<a href="https://cyware.com/news/apt28-launches-spearphishing-campaign-against-gmail-users-google-warns-84b73646"> Full Text</a>
@@ -167,7 +167,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers, security experts call for beefing up cybersecurity<a href="https://thehill.com//policy/cybersecurity/576634-lawmakers-security-experts-call-for-beefing-up-cybersecurity"> Full Text</a>
@@ -183,7 +183,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] The Guide for Reducing SaaS Applications Risk for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-for-reducing-saas.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyKings botnet operators already amassed at least $24 million<a href="https://securityaffairs.co/wordpress/123312/malware/mykings-botnet-still-alive.html"> Full Text</a>
@@ -219,7 +219,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brizy WordPress Plugin Exploit Chains Allow Full Site Takeovers<a href="https://threatpost.com/brizy-wordpress-plugin-exploit-site-takeovers/175463/"> Full Text</a>
@@ -235,7 +235,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia to tackle ransomware data breaches by deleting stolen files<a href="https://www.bleepingcomputer.com/news/security/australia-to-tackle-ransomware-data-breaches-by-deleting-stolen-files/"> Full Text</a>
@@ -251,7 +251,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Flaws in Apache Servers are Under Attack<a href="https://cyware.com/news/two-flaws-in-apache-servers-are-under-attack-d493d3f9"> Full Text</a>
@@ -268,7 +268,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World leaders call for enhanced cooperation to fight escalating wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/576578-world-leaders-call-for-enhanced-cooperation-to-fight-escalating-wave-of"> Full Text</a>
@@ -284,7 +284,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch police warn customers of a popular DDoS booter service<a href="https://securityaffairs.co/wordpress/123303/cyber-crime/dutch-police-warn-customers-ddos-service.html"> Full Text</a>
@@ -304,7 +304,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandating a Zero-Trust Approach for Software Supply Chains<a href="https://threatpost.com/mandate-zero-trust-software-supply-chains/175333/"> Full Text</a>
@@ -320,7 +320,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verizon digital carrier Visible customer accounts were hacked<a href="https://www.bleepingcomputer.com/news/security/verizon-digital-carrier-visible-customer-accounts-were-hacked/"> Full Text</a>
@@ -336,7 +336,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Executive Accessed PHI of Nearly 38,000 Individuals<a href="https://www.govinfosecurity.com/former-executive-accessed-phi-nearly-38000-individuals-a-17724?&web_view=true"> Full Text</a>
@@ -352,7 +352,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia excluded from virtual White House meeting on ransomware<a href="https://thehill.com//policy/cybersecurity/576417-white-house-convenes-virtual-meeting-of-countries-to-counter-ransomware"> Full Text</a>
@@ -368,7 +368,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use math symbols to evade anti-phishing solutions<a href="https://securityaffairs.co/wordpress/123297/hacking/anti-phishing-technique.html"> Full Text</a>
@@ -388,7 +388,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSea NFT platform bugs let hackers steal crypto wallets<a href="https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/"> Full Text</a>
@@ -404,7 +404,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Cybersecurity Agency Releases New BYOD Guidance<a href="https://www.inforisktoday.com/uk-cybersecurity-agency-releases-new-byod-guidance-a-17722?&web_view=true"> Full Text</a>
@@ -420,7 +420,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia and China left out of global anti-ransomware meetings<a href="https://www.bleepingcomputer.com/news/security/russia-and-china-left-out-of-global-anti-ransomware-meetings/"> Full Text</a>
@@ -436,7 +436,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens and Schneider Electric Address Over 50 Vulnerabilities for Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-and-schneider-electric-address-over-50-vulnerabilities?&web_view=true"> Full Text</a>
@@ -452,7 +452,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE launches two organizations to protect critical infrastructure and clinical health data<a href="https://www.helpnetsecurity.com/2021/10/13/mitre-two-organizations/?&web_view=true"> Full Text</a>

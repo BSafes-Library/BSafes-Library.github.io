@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police warn customers of a popular DDoS booter service<a href="https://securityaffairs.co/wordpress/123303/cyber-crime/dutch-police-warn-customers-ddos-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch police warn customers of a distributed denial-of-service (DDoS) website of stopping using the service to avoid prosecution. 
+
+
+
+Dutch police warn customers of a booter service, abused to carry out distributed denial-of-service (DDoS) attacks, of to stop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google creates cybersecurity team to respond to increased hacks<a href="https://thehill.com//policy/cybersecurity/576280-google-creates-cybersecurity-team-to-respond-to-increased-hacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the creation of a new cybersecurity team to help respond to attacks against governments and other critical groups, along with a new program to help strengthen the cybersecurity of businesses.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forcepoint To Acquire Cloud Security Startup Bitglass<a href="https://www.crn.com/news/security/forcepoint-to-acquire-cloud-security-startup-bitglass?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint said it has reached a deal to acquire cloud security startup Bitglass. The deal is expected to close later this year. The financial terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

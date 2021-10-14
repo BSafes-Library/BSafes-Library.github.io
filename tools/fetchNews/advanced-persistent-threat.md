@@ -8,6 +8,54 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT IronHusky use Win zero-day in recent wave of attacks<a href="https://securityaffairs.co/wordpress/123285/hacking/ironhusky-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking hacking group exploited a Windows zero-day vulnerability in a wave of attacks on defense and IT businesses.  
+
+
+
+A Chinese-speaking hacking group exploited a zero-day vulnerability in the Windows Win32k kernel driver to deploy a new remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Iranian APT Targets Aerospace and  Telecoms in Western Countries<a href="https://cyware.com/news/new-iranian-apt-targets-aerospace-and-telecoms-in-western-countries-976b85b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage operation by MalKamak, an Iran-based hacker group, is targeting aerospace and telecom firms based in the Middle East, Russia, the U.S., and Europe.  MalKamak, which uses ShellClient RAT, has targeted only a small number of targets since its alleged inception in 2018.  Security team ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Links Multiple Attack Campaigns to APT41 Group<a href="https://cyware.com/news/research-links-multiple-attack-campaigns-to-apt41-group-267bbc14"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Blackberry revealed three phishing schemes by APT41 that were targeting multiple sectors in India using COVID-19-themed phishing baits.&nbsp;Some of the phishing emails included information related to the latest income tax legislation targeting residents not living in India. Security teams need to  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

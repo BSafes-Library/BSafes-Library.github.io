@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use Windows zero-day to attack defense, IT firms<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-windows-zero-day-to-attack-defense-it-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking hacking group exploited a zero-day vulnerability in the Windows Win32k kernel driver to deploy a previously unknown remote access trojan (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SnapMC hackers skip file encryption and just steal your files<a href="https://www.bleepingcomputer.com/news/security/snapmc-hackers-skip-file-encryption-and-just-steal-your-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new actor tracked as SnapMC has emerged in the cybercrime space, performing the typical data-stealing extortion that underpins ransomware operations, but without doing any file encryption.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Iran-Linked Hackers Targeting US and Israeli Defense Firms<a href="https://thehackernews.com/2021/10/microsoft-warns-of-iran-linked-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging threat actor likely supporting Iranian national interests has been behind a password spraying campaign targeting US, EU, and Israeli defense technology companies, with additional activity observed against regional ports of entry in the Persian Gulf as well as maritime and cargo transportation companies focused in the Middle East.  Microsoft is tracking the hacking crew under the moniker DEV-0343 .  The intrusions, which were first observed in late July 2021, are believed to have targeted more than 250 Office 365 tenants, fewer than 20 of which were successfully compromised following a&nbsp; password spray &nbsp;attack — a type of brute force attack wherein the same password is cycled against different usernames to log into an application or a network in an effort to avoid account lockouts.   Indications thus far allude to the possibility that the activity is part of an intellectual property theft campaign aimed at government partners producing military-grade radars, drone technology
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

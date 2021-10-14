@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 Spy Campaign Targets US Military Defense<a href="https://threatpost.com/military-defense-spy-campaign/175425/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked group is taking aim at makers of drones and satellites, Persian Gulf ports and maritime shipping companies, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study reveals Android phones constantly snoop on their users<a href="https://www.bleepingcomputer.com/news/security/study-reveals-android-phones-constantly-snoop-on-their-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study by a team of university researchers in the UK has unveiled a host of privacy issues that arise from using Android smartphones.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
