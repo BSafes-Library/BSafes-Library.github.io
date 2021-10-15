@@ -34,7 +34,543 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp rolls out iOS, Android end-to-end encrypted chat backups<a href="https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-ios-android-end-to-end-encrypted-chat-backups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​WhatsApp is rolling out end-to-end encrypted chat backups on iOS and Android to prevent anyone from accessing your chats, regardless of where they are stored.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Hospital Forced to Cancel Non-Urgent Procedures Due to Ransomware Attack<a href="https://portswigger.net/daily-swig/israeli-hospital-cancels-non-urgent-procedures-following-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel’s National Cyber Directorate (INCD) is urging organizations across the country to bolster their cyber defenses following a disruptive ransomware attack against a hospital in Israel’s northwest.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies warn of cyber threats to water, wastewater systems<a href="https://thehill.com//policy/cybersecurity/576835-agencies-warn-of-cyber-threats-to-water-wastewater-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of federal agencies on Thursday warned that hackers are targeting the water and wastewater treatment sectors, strongly recommending that organizations take steps to protect themselves.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: We're Tracking 270 State-Sponsored Hacker Groups From Over 50 Countries<a href="https://thehackernews.com/2021/10/google-were-tracking-270-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday  said  it's tracking more than 270 government-backed threat actors from more than 50 countries, adding it has approximately sent 50,000 alerts of state-sponsored phishing or malware attempts to customers since the start of 2021.  The warnings mark a 33% increase from 2020, the internet giant said, with the spike largely  stemming  from "blocking an unusually large campaign from a Russian actor known as APT28 or Fancy Bear."   Additionally, Google said it disrupted a number of campaigns mounted by an Iranian state-sponsored attacker group tracked as  APT35  (aka Charming Kitten, Phosphorous, or Newscaster), including a sophisticated social engineering attack dubbed "Operation SpoofedScholars" aimed at think tanks, journalists, and professors with an aim to solicit sensitive information by masquerading as scholars with the University of London's School of Oriental and African Studies (SOAS).   Details of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp made available end-to-end encrypted chat backups<a href="https://securityaffairs.co/wordpress/123389/security/whatsapp-made-available-end-to-end-encrypted-chat-backups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp made available end-to-end encrypted chat backups on iOS and Android to prevent anyone from accessing user chats.
+
+
+
+WhatsApp is rolling out end-to-end encrypted chat backups on both iOS and Android devices, the move aims at implementing an optional...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rickroll Grad Prank Exposes Exterity IPTV Bug<a href="https://threatpost.com/rickroll-exterity-iptv-bug/175491/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IPTV and IP video security is increasingly under scrutiny, even by high school kids.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Linux version of the Windows Sysmon tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-linux-version-of-the-windows-sysmon-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a Linux version of the very popular Sysmon system monitoring utility for Windows, allowing Linux administrators to monitor devices for malicious activity. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, VMware Join Patch Tuesday Parade<a href="https://www.securityweek.com/intel-vmware-join-patch-tuesday-parade?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel released two advisories to fix privilege escalation and information disclosure vulnerabilities in the SGX software development kit and Hardware Accelerated Execution Manager software products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World leaders recognize ransomware attacks as 'global security threat'<a href="https://thehill.com//policy/cybersecurity/576763-world-leaders-recognize-ransomware-attacks-as-global-security-threat"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government cybersecurity leaders from the United States and more than 30 countries on Thursday formally recognized ransomware attacks as an "escalating global security threat,” and pledged greater cooperation and diplomacy in fighting against these incidents. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate SaaS Security Posture Management (SSPM) Checklist<a href="https://thehackernews.com/2021/10/the-ultimate-saas-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security is the umbrella that holds within it: IaaS, PaaS and SaaS. Gartner created the SaaS Security Posture Management (SSPM) category for solutions that continuously assess security risk and manage the SaaS applications' security posture. With enterprises having 1,000 or more employees relying on dozens to hundreds of apps, the need for deep visibility and remediation for SaaS security settings is only getting more critical.   The top pain points for SaaS security stem from:   Lack of control  over the growing SaaS app estate  Lack of governance in the lifecycle  of SaaS apps: from purchase to deployment, operation and maintenance  Lack of visibility  of all the configurations in SaaS app estate  Skills gap  in ever-evolving, accelerating, complex cloud security   Laborious and  overwhelming workload  to stay on top of hundreds to thousands (to tens of thousands) of settings and permissions.   The capability of governance across the whole SaaS estate is both nuanced and compl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Since 2020, at least 130 different ransomware families have been active<a href="https://securityaffairs.co/wordpress/123376/malware/virustotal-ransomware-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Google’s VirusTotal scanning service has published an interesting analysis of more than 80 Million ransomware samples.
+
+
+
+VirusTotal has published its first ransomware activity report based on the analysis of more than 80 million samples...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: 67% of Orgs Have Been Hit by Ransomware at Least Once<a href="https://threatpost.com/podcast-67-percent-orgs-ransomware/175339/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet’s Derek Manky discusses a recent global survey showing that two-thirds of organizations suffered at least one ransomware attack, while half were hit multiple times.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Sunderland announces outage following cyberattack<a href="https://www.bleepingcomputer.com/news/security/university-of-sunderland-announces-outage-following-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Sunderland in the UK has announced extensive operational issues that have taken most of its IT systems down, attributing the problem to a cyber-attack. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Firm At-Bay Announces $20 Million Series D Extension<a href="https://www.securityweek.com/cyber-insurance-firm-bay-announces-20-million-series-d-extension?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new injection of capital came from ION Crossover Partners, which joins Series D investors Icon Ventures, Lightspeed Venture Partners, Acrew Capital, Khosla Ventures, and M12, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Democrats announce bill to rein in tech algorithms<a href="https://thehill.com//policy/cybersecurity/576729-house-democrats-announce-bill-to-rein-in-tech-algorithms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top Democrats on the House Energy and Commerce Committee on Thursday announced legislation aimed at holding online platforms accountable for content promoted by their algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Hacking Flaws Disclosed in Linphone and MicroSIP Softphones<a href="https://thehackernews.com/2021/10/critical-remote-hacking-flaws-disclosed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in softphone software from Linphone and MicroSIP that could be exploited by an unauthenticated remote adversary to crash the client and even extract sensitive information like password hashes by simply making a malicious call.  The vulnerabilities, which were discovered by Moritz Abrell of German pen-testing firm SySS GmbH, have since been addressed by the respective manufacturers following responsible disclosure.  Softphones are essentially software-based phones that mimic desk phones and allow for making telephone calls over the Internet without the need for using dedicated hardware. At the core of the issues are the SIP services offered by the clients to connect two peers to facilitate telephony services in IP-based mobile networks.   SIP aka Session Initiation Protocol is a  signaling protocol  that's used to control interactive communication sessions, such as voice, video, chat and instant messaging, as well as games and v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sent over 50,000 warnings of state-sponsored attacks, +33% from same period in 2020<a href="https://securityaffairs.co/wordpress/123361/apt/google-state-sponsored-attacks-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google revealed to have sent roughly 50,000 alerts of state-sponsored phishing or hacking attempts to customers since January.
+
+
+
+Google announced to have sent roughly 50,000 alerts of state-sponsored phishing or hacking attempts to customers during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DocuSign phishing campaign targets low-ranking employees <a href="https://www.bleepingcomputer.com/news/security/docusign-phishing-campaign-targets-low-ranking-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors are following a new trend of targeting non-executive employees but who still have access to valuable areas within an organization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Free Steam game" scams on TikTok are Among Us<a href="https://blog.malwarebytes.com/scams/2021/10/free-steam-game-scams-on-tiktok-are-among-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers are claiming to offer up free versions of the incredibly popular Among Us game. However, they also claim to have special hacked versions up for grabs that allow players to cheat.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Releases Ransomware Report Based on Analysis of 80 Million Samples<a href="https://thehackernews.com/2021/10/virustotal-releases-ransomware-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 130 different ransomware families have been found to be active in 2020 and the first half of 2021, with Israel, South Korea, Vietnam, China, Singapore, India, Kazakhstan, Philippines, Iran, and the U.K. emerging as the most affected territories, a comprehensive analysis of 80 million ransomware-related samples has revealed.  Google's cybersecurity arm VirusTotal attributed a significant chunk of the activity to the GandCrab ransomware-as-a-service (RaaS) group (78.5%), followed by Babuk (7.61%), Cerber (3.11%), Matsnu (2.63%), Wannacry (2.41%), Congur (1.52%), Locky (1.29%), Teslacrypt (1.12%), Rkor (1.11%), and Reveon (0.70%).   "Attackers are using a range of approaches, including well-known botnet malware and other Remote Access Trojans (RATs) as vehicles to deliver their ransomware," VirusTotal Threat Intelligence Strategist Vicente Diaz  said . "In most cases, they are using fresh or new ransomware samples for their campaigns."   Some of the oth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the first time, an Israeli hospital was hit by a major ransomware attack<a href="https://securityaffairs.co/wordpress/123350/hacking/israeli-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hillel Yaffe Medical Center in Hadera, Israel, was hit by a ransomware attack that was defined by Israel's National Cyber Directorate as a "major" attack. 
+
+
+
+The Hillel Yaffe Medical Center in Hadera, Israel was hit by a ransomware attack that impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sent 50,000 warnings of state-sponsored attacks in 2021<a href="https://www.bleepingcomputer.com/news/security/google-sent-50-000-warnings-of-state-sponsored-attacks-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said today that it sent roughly 50,000 alerts of state-sponsored phishing or hacking attempts to customers during 2021, a considerable increase compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 228,000 Subscribers of Thingiverse Circulated on Hacker Forum<a href="https://www.inforisktoday.com/thingiverse-data-leak-affects-25-million-subscribers-a-17729?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thingiverse, a site for sharing user-created digital design files, has reportedly leaked a 36GB backup file that contains 228,000 unique email addresses and other personally identifiable information.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Unprotected Prometheus Endpoints Exposing Sensitive Information<a href="https://thehackernews.com/2021/10/experts-warn-of-unprotected-prometheus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale unauthenticated scraping of publicly available and non-secured endpoints from older versions of Prometheus event monitoring and alerting solution could be leveraged to inadvertently leak sensitive information, according to the latest research.  "Due to the fact that authentication and encryption support is relatively new, many organizations that use Prometheus haven't yet enabled these features and thus many Prometheus endpoints are completely exposed to the Internet (e.g. endpoints that run earlier versions), leaking metric and label dat," JFrog researchers Andrey Polkovnychenko and Shachar Menashe  said  in a report.  Prometheus  is an open-source system monitoring and alerting toolkit used to collect and process metrics from different endpoints, alongside enabling easy observation of software metrics such as memory usage, network usage, and software-specific defined metrics, such as the number of failed logins to a web application. Support for Transport
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer suffered the second security breach in a few months<a href="https://securityaffairs.co/wordpress/123339/data-breach/acer-suffered-second-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese electronics technology giant Acer discloses a security breach suffered by its after-sales service systems in India after an isolated attack.
+
+
+
+Bad news for the Taiwanese electronics technology giant Acer, it disclosed a second security breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Chrome ad blocker injects ads behind the scenes<a href="https://www.bleepingcomputer.com/news/security/malicious-chrome-ad-blocker-injects-ads-behind-the-scenes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AllBlock Chromium ad blocking extension has been found to be injecting hidden affiliate links that generate commissions for the developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Continues to Stay Strong Despite the Recent Arrest of Gang Members<a href="https://cyware.com/news/trickbot-continues-to-stay-strong-despite-the-recent-arrest-of-gang-members-0b6c5594"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since its re-emergence following the major takedown in 2020, the operators have released new and more persistent versions of the malware to claim successful attacks on victims.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yanluowang ransomware used in highly targeted attacks on large orgs<a href="https://securityaffairs.co/wordpress/123328/malware/yanluowang-ransomware-targeted-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new strain of ransomware, dubbed Yanluowang, that was used in highly targeted attacks against enterprises.
+
+
+
+Researchers from Symantec Threat Hunter Team discovered a ransomware family, tracked as Yanluowang ransomware that was used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer confirms breach of after-sales service systems in India<a href="https://www.bleepingcomputer.com/news/security/acer-confirms-breach-of-after-sales-service-systems-in-india/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese computer giant Acer has confirmed that its after-sales service systems in India were recently breached in what the company called "an isolated attack."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freakout Botnet Unleashes a New Bunch of Attacks<a href="https://cyware.com/news/freakout-botnet-unleashes-a-new-bunch-of-attacks-638ce954"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Towards the end of September 2021, researchers at Juniper Threat Labs observed new activity from FreakOut aka 3Cr0m0rPh that resulted in the takeover of Visual Tools DVR.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yanluowang ransomware used in targeted enterprise attacks<a href="https://www.bleepingcomputer.com/news/security/new-yanluowang-ransomware-used-in-targeted-enterprise-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new and still under development ransomware strain is being used in highly targeted attacks against enterprise entities as Broadcom's Symantec Threat Hunter Team discovered.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea ‘Free Gift’ NFTs Drain Cryptowallet Balances<a href="https://threatpost.com/opensea-nfts-cryptowallet-balances/175453/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals exploited bugs in the world’s largest digital-goods marketplace to create malicious artwork offered as a perk to unsuspecting users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyKings botnet still active and making massive amounts of money<a href="https://www.bleepingcomputer.com/news/security/mykings-botnet-still-active-and-making-massive-amounts-of-money/"> Full Text</a>
@@ -50,7 +586,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FontOnLake Malware Cripples Linux Systems<a href="https://cyware.com/news/new-fontonlake-malware-cripples-linux-systems-a94ab500"> Full Text</a>
@@ -67,7 +603,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Johns Hopkins to launch degree program in cybersecurity and policy<a href="https://thehill.com//policy/cybersecurity/576635-johns-hopkins-to-launch-degree-in-cybersecurity-and-policy"> Full Text</a>
@@ -83,7 +619,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in OpenSea Could Have Let Hackers Steal Cryptocurrency From Wallets<a href="https://thehackernews.com/2021/10/critical-flaw-in-opensea-could-have-let.html"> Full Text</a>
@@ -99,7 +635,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple silently fixed iOS zero-day without crediting the expet who reported it<a href="https://securityaffairs.co/wordpress/123321/mobile-2/apple-silently-fixed-ios-zero-day.html"> Full Text</a>
@@ -119,7 +655,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreakOut Botnet Turns DVRs Into Monero Cryptominers<a href="https://threatpost.com/freakout-botnet-dvrs-monero-cryptominers/175467/"> Full Text</a>
@@ -135,7 +671,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple silently fixes iOS zero-day, asks bug reporter to keep quiet<a href="https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/"> Full Text</a>
@@ -151,7 +687,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Launches Spearphishing Campaign Against Gmail Users: Google Warns<a href="https://cyware.com/news/apt28-launches-spearphishing-campaign-against-gmail-users-google-warns-84b73646"> Full Text</a>
@@ -167,7 +703,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers, security experts call for beefing up cybersecurity<a href="https://thehill.com//policy/cybersecurity/576634-lawmakers-security-experts-call-for-beefing-up-cybersecurity"> Full Text</a>
@@ -183,7 +719,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] The Guide for Reducing SaaS Applications Risk for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-for-reducing-saas.html"> Full Text</a>
@@ -199,7 +735,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyKings botnet operators already amassed at least $24 million<a href="https://securityaffairs.co/wordpress/123312/malware/mykings-botnet-still-alive.html"> Full Text</a>
@@ -219,7 +755,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brizy WordPress Plugin Exploit Chains Allow Full Site Takeovers<a href="https://threatpost.com/brizy-wordpress-plugin-exploit-site-takeovers/175463/"> Full Text</a>
@@ -235,7 +771,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia to tackle ransomware data breaches by deleting stolen files<a href="https://www.bleepingcomputer.com/news/security/australia-to-tackle-ransomware-data-breaches-by-deleting-stolen-files/"> Full Text</a>
@@ -251,7 +787,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Flaws in Apache Servers are Under Attack<a href="https://cyware.com/news/two-flaws-in-apache-servers-are-under-attack-d493d3f9"> Full Text</a>
@@ -268,7 +804,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World leaders call for enhanced cooperation to fight escalating wave of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/576578-world-leaders-call-for-enhanced-cooperation-to-fight-escalating-wave-of"> Full Text</a>
@@ -284,7 +820,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch police warn customers of a popular DDoS booter service<a href="https://securityaffairs.co/wordpress/123303/cyber-crime/dutch-police-warn-customers-ddos-service.html"> Full Text</a>
@@ -304,7 +840,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandating a Zero-Trust Approach for Software Supply Chains<a href="https://threatpost.com/mandate-zero-trust-software-supply-chains/175333/"> Full Text</a>
@@ -320,7 +856,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verizon digital carrier Visible customer accounts were hacked<a href="https://www.bleepingcomputer.com/news/security/verizon-digital-carrier-visible-customer-accounts-were-hacked/"> Full Text</a>
@@ -336,7 +872,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Executive Accessed PHI of Nearly 38,000 Individuals<a href="https://www.govinfosecurity.com/former-executive-accessed-phi-nearly-38000-individuals-a-17724?&web_view=true"> Full Text</a>
@@ -352,7 +888,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia excluded from virtual White House meeting on ransomware<a href="https://thehill.com//policy/cybersecurity/576417-white-house-convenes-virtual-meeting-of-countries-to-counter-ransomware"> Full Text</a>
@@ -368,7 +904,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use math symbols to evade anti-phishing solutions<a href="https://securityaffairs.co/wordpress/123297/hacking/anti-phishing-technique.html"> Full Text</a>
@@ -388,7 +924,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSea NFT platform bugs let hackers steal crypto wallets<a href="https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/"> Full Text</a>
@@ -404,7 +940,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Cybersecurity Agency Releases New BYOD Guidance<a href="https://www.inforisktoday.com/uk-cybersecurity-agency-releases-new-byod-guidance-a-17722?&web_view=true"> Full Text</a>
@@ -420,7 +956,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia and China left out of global anti-ransomware meetings<a href="https://www.bleepingcomputer.com/news/security/russia-and-china-left-out-of-global-anti-ransomware-meetings/"> Full Text</a>
@@ -436,7 +972,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens and Schneider Electric Address Over 50 Vulnerabilities for Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-and-schneider-electric-address-over-50-vulnerabilities?&web_view=true"> Full Text</a>
@@ -452,7 +988,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE launches two organizations to protect critical infrastructure and clinical health data<a href="https://www.helpnetsecurity.com/2021/10/13/mitre-two-organizations/?&web_view=true"> Full Text</a>
