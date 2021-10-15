@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers, security experts call for beefing up cybersecurity<a href="https://thehill.com//policy/cybersecurity/576634-lawmakers-security-experts-call-for-beefing-up-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers and national security experts said Tuesday that the U.S. needs to take bigger steps at the government level and in the private sector to guard against ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandating a Zero-Trust Approach for Software Supply Chains<a href="https://threatpost.com/mandate-zero-trust-software-supply-chains/175333/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sounil Yu, CISO at JupiterOne, discusses software bills of materials (SBOMs) and the need for a shift in thinking about securing software supply chains.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

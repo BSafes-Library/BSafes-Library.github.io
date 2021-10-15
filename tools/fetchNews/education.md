@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Johns Hopkins to launch degree program in cybersecurity and policy<a href="https://thehill.com//policy/cybersecurity/576635-johns-hopkins-to-launch-degree-in-cybersecurity-and-policy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Johns Hopkins University School of Advanced International Studies on Wednesday announced plans to launch an advanced academic program focused on the intersection of cybersecurity, technology, intelligence and international affairs.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] The Guide for Reducing SaaS Applications Risk for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-for-reducing-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Software-as-a-service (SaaS) industry has gone from novelty to an integral part of today's business world in just a few years. While the benefits to most organizations are clear – more efficiency, greater productivity, and accessibility – the risks that the SaaS model poses are starting to become visible. It's not an overstatement to say that most companies today run on SaaS. This poses an increasing challenge to their security teams.&nbsp;  A new guide from XDR and SSPM provider Cynet, titled The Guide for Reducing SaaS Applications Risk for Lean IT Security Teams ( download here ), breaks down exactly why SaaS ecosystems are so risky, and how security teams can mitigate those dangers.&nbsp;  Today, the average midsize company uses 185 SaaS apps. What this means is that the number of app-to-person connections has risen exponentially. Most midsize companies have nearly 4,406 touch points, creating an attack surface that requires significant resources to simply monitor. The risk of a digital
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

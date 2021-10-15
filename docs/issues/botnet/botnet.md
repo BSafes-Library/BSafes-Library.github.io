@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot Continues to Stay Strong Despite the Recent Arrest of Gang Members<a href="https://cyware.com/news/trickbot-continues-to-stay-strong-despite-the-recent-arrest-of-gang-members-0b6c5594"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since its re-emergence following the major takedown in 2020, the operators have released new and more persistent versions of the malware to claim successful attacks on victims.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freakout Botnet Unleashes a New Bunch of Attacks<a href="https://cyware.com/news/freakout-botnet-unleashes-a-new-bunch-of-attacks-638ce954"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Towards the end of September 2021, researchers at Juniper Threat Labs observed new activity from FreakOut aka 3Cr0m0rPh that resulted in the takeover of Visual Tools DVR.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp rolls out iOS, Android end-to-end encrypted chat backups<a href="https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-ios-android-end-to-end-encrypted-chat-backups/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Hospital Forced to Cancel Non-Urgent Procedures Due to Ransomware Attack<a href="https://portswigger.net/daily-swig/israeli-hospital-cancels-non-urgent-procedures-following-ransomware-attack?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agencies warn of cyber threats to water, wastewater systems<a href="https://thehill.com//policy/cybersecurity/576835-agencies-warn-of-cyber-threats-to-water-wastewater-systems"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: We're Tracking 270 State-Sponsored Hacker Groups From Over 50 Countries<a href="https://thehackernews.com/2021/10/google-were-tracking-270-state.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp made available end-to-end encrypted chat backups<a href="https://securityaffairs.co/wordpress/123389/security/whatsapp-made-available-end-to-end-encrypted-chat-backups.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rickroll Grad Prank Exposes Exterity IPTV Bug<a href="https://threatpost.com/rickroll-exterity-iptv-bug/175491/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases Linux version of the Windows Sysmon tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-linux-version-of-the-windows-sysmon-tool/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel, VMware Join Patch Tuesday Parade<a href="https://www.securityweek.com/intel-vmware-join-patch-tuesday-parade?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World leaders recognize ransomware attacks as 'global security threat'<a href="https://thehill.com//policy/cybersecurity/576763-world-leaders-recognize-ransomware-attacks-as-global-security-threat"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Ultimate SaaS Security Posture Management (SSPM) Checklist<a href="https://thehackernews.com/2021/10/the-ultimate-saas-security-posture.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Since 2020, at least 130 different ransomware families have been active<a href="https://securityaffairs.co/wordpress/123376/malware/virustotal-ransomware-report.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Podcast: 67% of Orgs Have Been Hit by Ransomware at Least Once<a href="https://threatpost.com/podcast-67-percent-orgs-ransomware/175339/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of Sunderland announces outage following cyberattack<a href="https://www.bleepingcomputer.com/news/security/university-of-sunderland-announces-outage-following-cyberattack/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Insurance Firm At-Bay Announces $20 Million Series D Extension<a href="https://www.securityweek.com/cyber-insurance-firm-bay-announces-20-million-series-d-extension?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House Democrats announce bill to rein in tech algorithms<a href="https://thehill.com//policy/cybersecurity/576729-house-democrats-announce-bill-to-rein-in-tech-algorithms"> Full Text</a>
@@ -282,7 +282,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Remote Hacking Flaws Disclosed in Linphone and MicroSIP Softphones<a href="https://thehackernews.com/2021/10/critical-remote-hacking-flaws-disclosed.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google sent over 50,000 warnings of state-sponsored attacks, +33% from same period in 2020<a href="https://securityaffairs.co/wordpress/123361/apt/google-state-sponsored-attacks-2021.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DocuSign phishing campaign targets low-ranking employees <a href="https://www.bleepingcomputer.com/news/security/docusign-phishing-campaign-targets-low-ranking-employees/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Free Steam game" scams on TikTok are Among Us<a href="https://blog.malwarebytes.com/scams/2021/10/free-steam-game-scams-on-tiktok-are-among-us/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal Releases Ransomware Report Based on Analysis of 80 Million Samples<a href="https://thehackernews.com/2021/10/virustotal-releases-ransomware-report.html"> Full Text</a>
@@ -366,7 +366,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For the first time, an Israeli hospital was hit by a major ransomware attack<a href="https://securityaffairs.co/wordpress/123350/hacking/israeli-hospital-ransomware-attack.html"> Full Text</a>
@@ -386,7 +386,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google sent 50,000 warnings of state-sponsored attacks in 2021<a href="https://www.bleepingcomputer.com/news/security/google-sent-50-000-warnings-of-state-sponsored-attacks-in-2021/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 228,000 Subscribers of Thingiverse Circulated on Hacker Forum<a href="https://www.inforisktoday.com/thingiverse-data-leak-affects-25-million-subscribers-a-17729?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Unprotected Prometheus Endpoints Exposing Sensitive Information<a href="https://thehackernews.com/2021/10/experts-warn-of-unprotected-prometheus.html"> Full Text</a>
@@ -434,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acer suffered the second security breach in a few months<a href="https://securityaffairs.co/wordpress/123339/data-breach/acer-suffered-second-security-breach.html"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Chrome ad blocker injects ads behind the scenes<a href="https://www.bleepingcomputer.com/news/security/malicious-chrome-ad-blocker-injects-ads-behind-the-scenes/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot Continues to Stay Strong Despite the Recent Arrest of Gang Members<a href="https://cyware.com/news/trickbot-continues-to-stay-strong-despite-the-recent-arrest-of-gang-members-0b6c5594"> Full Text</a>
@@ -486,7 +486,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Yanluowang ransomware used in highly targeted attacks on large orgs<a href="https://securityaffairs.co/wordpress/123328/malware/yanluowang-ransomware-targeted-attacks.html"> Full Text</a>
@@ -506,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acer confirms breach of after-sales service systems in India<a href="https://www.bleepingcomputer.com/news/security/acer-confirms-breach-of-after-sales-service-systems-in-india/"> Full Text</a>
@@ -522,7 +522,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Freakout Botnet Unleashes a New Bunch of Attacks<a href="https://cyware.com/news/freakout-botnet-unleashes-a-new-bunch-of-attacks-638ce954"> Full Text</a>
@@ -538,7 +538,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2021
+October 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Yanluowang ransomware used in targeted enterprise attacks<a href="https://www.bleepingcomputer.com/news/security/new-yanluowang-ransomware-used-in-targeted-enterprise-attacks/"> Full Text</a>
@@ -554,7 +554,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2021
+October 13, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSea ‘Free Gift’ NFTs Drain Cryptowallet Balances<a href="https://threatpost.com/opensea-nfts-cryptowallet-balances/175453/"> Full Text</a>

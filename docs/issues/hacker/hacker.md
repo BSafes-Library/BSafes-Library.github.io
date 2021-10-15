@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: We're Tracking 270 State-Sponsored Hacker Groups From Over 50 Countries<a href="https://thehackernews.com/2021/10/google-were-tracking-270-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) on Thursday&nbsp; said &nbsp;it's tracking more than 270 government-backed threat actors from more than 50 countries, adding it has approximately sent 50,000 alerts of state-sponsored phishing or malware attempts to customers since the start of 2021.  The warnings mark a 33% increase from 2020, the internet giant said, with the spike largely&nbsp; stemming &nbsp;from "blocking an unusually large campaign from a Russian actor known as APT28 or Fancy Bear."   Additionally, Google said it disrupted a number of campaigns mounted by an Iranian state-sponsored attacker group tracked as&nbsp; APT35 &nbsp;(aka Charming Kitten, Phosphorous, or Newscaster), including a sophisticated social engineering attack dubbed "Operation SpoofedScholars" aimed at think tanks, journalists, and professors with an aim to solicit sensitive information by masquerading as scholars with the University of London's School of Oriental and African Studies (SOAS).   Details of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

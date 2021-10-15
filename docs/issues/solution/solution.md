@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp rolls out iOS, Android end-to-end encrypted chat backups<a href="https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-ios-android-end-to-end-encrypted-chat-backups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​WhatsApp is rolling out end-to-end encrypted chat backups on iOS and Android to prevent anyone from accessing your chats, regardless of where they are stored.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases Linux version of the Windows Sysmon tool<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-linux-version-of-the-windows-sysmon-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a Linux version of the very popular Sysmon system monitoring utility for Windows, allowing Linux administrators to monitor devices for malicious activity.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

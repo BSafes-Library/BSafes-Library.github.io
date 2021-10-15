@@ -11,6 +11,20 @@ nav_order: 900010
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+APT28 Launches Spearphishing Campaign Against Gmail Users: Google Warns<a href="https://cyware.com/news/apt28-launches-spearphishing-campaign-against-gmail-users-google-warns-84b73646"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warned against phishing attempts by APT28 impacting nearly 14,000 Gmail users, especially activists, journalists, and government officials as they are the key targets of state-sponsored hacks.  However, there were no confirmed reports of compromised Gmail accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT IronHusky use Win zero-day in recent wave of attacks<a href="https://securityaffairs.co/wordpress/123285/hacking/ironhusky-zero-day.html"> Full Text</a>
 </p>
 <details>

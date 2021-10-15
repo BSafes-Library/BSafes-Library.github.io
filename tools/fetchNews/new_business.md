@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Firm At-Bay Announces $20 Million Series D Extension<a href="https://www.securityweek.com/cyber-insurance-firm-bay-announces-20-million-series-d-extension?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new injection of capital came from ION Crossover Partners, which joins Series D investors Icon Ventures, Lightspeed Venture Partners, Acrew Capital, Khosla Ventures, and M12, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

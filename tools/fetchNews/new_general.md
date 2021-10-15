@@ -8,6 +8,84 @@ nav_order: 900072
 
 ## General
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Since 2020, at least 130 different ransomware families have been active<a href="https://securityaffairs.co/wordpress/123376/malware/virustotal-ransomware-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Google’s VirusTotal scanning service has published an interesting analysis of more than 80 Million ransomware samples.
+
+
+
+VirusTotal has published its first ransomware activity report based on the analysis of more than 80 million samples...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: 67% of Orgs Have Been Hit by Ransomware at Least Once<a href="https://threatpost.com/podcast-67-percent-orgs-ransomware/175339/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet’s Derek Manky discusses a recent global survey showing that two-thirds of organizations suffered at least one ransomware attack, while half were hit multiple times.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sent over 50,000 warnings of state-sponsored attacks, +33% from same period in 2020<a href="https://securityaffairs.co/wordpress/123361/apt/google-state-sponsored-attacks-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google revealed to have sent roughly 50,000 alerts of state-sponsored phishing or hacking attempts to customers since January.
+
+
+
+Google announced to have sent roughly 50,000 alerts of state-sponsored phishing or hacking attempts to customers during...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Releases Ransomware Report Based on Analysis of 80 Million Samples<a href="https://thehackernews.com/2021/10/virustotal-releases-ransomware-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 130 different ransomware families have been found to be active in 2020 and the first half of 2021, with Israel, South Korea, Vietnam, China, Singapore, India, Kazakhstan, Philippines, Iran, and the U.K. emerging as the most affected territories, a comprehensive analysis of 80 million ransomware-related samples has revealed.  Google's cybersecurity arm VirusTotal attributed a significant chunk of the activity to the GandCrab ransomware-as-a-service (RaaS) group (78.5%), followed by Babuk (7.61%), Cerber (3.11%), Matsnu (2.63%), Wannacry (2.41%), Congur (1.52%), Locky (1.29%), Teslacrypt (1.12%), Rkor (1.11%), and Reveon (0.70%).   "Attackers are using a range of approaches, including well-known botnet malware and other Remote Access Trojans (RATs) as vehicles to deliver their ransomware," VirusTotal Threat Intelligence Strategist Vicente Diaz&nbsp; said . "In most cases, they are using fresh or new ransomware samples for their campaigns."   Some of the oth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sent 50,000 warnings of state-sponsored attacks in 2021<a href="https://www.bleepingcomputer.com/news/security/google-sent-50-000-warnings-of-state-sponsored-attacks-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said today that it sent roughly 50,000 alerts of state-sponsored phishing or hacking attempts to customers during 2021,&nbsp;a considerable increase compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

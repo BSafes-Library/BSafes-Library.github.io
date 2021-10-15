@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Sunderland announces outage following cyberattack<a href="https://www.bleepingcomputer.com/news/security/university-of-sunderland-announces-outage-following-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Sunderland in the UK has announced extensive operational issues that have taken most of its IT&nbsp;systems down, attributing the problem to a cyber-attack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

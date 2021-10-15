@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DocuSign phishing campaign targets low-ranking employees <a href="https://www.bleepingcomputer.com/news/security/docusign-phishing-campaign-targets-low-ranking-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors are following a new trend of targeting non-executive employees but who still have access to valuable areas within an organization.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Free Steam game" scams on TikTok are Among Us<a href="https://blog.malwarebytes.com/scams/2021/10/free-steam-game-scams-on-tiktok-are-among-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers are claiming to offer up free versions of the incredibly popular Among Us game. However, they also claim to have special hacked versions up for grabs that allow players to cheat.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

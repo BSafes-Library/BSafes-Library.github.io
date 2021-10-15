@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 228,000 Subscribers of Thingiverse Circulated on Hacker Forum<a href="https://www.inforisktoday.com/thingiverse-data-leak-affects-25-million-subscribers-a-17729?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thingiverse, a site for sharing user-created digital design files, has reportedly leaked a 36GB backup file that contains 228,000 unique email addresses and other personally identifiable information.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer suffered the second security breach in a few months<a href="https://securityaffairs.co/wordpress/123339/data-breach/acer-suffered-second-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese electronics technology giant Acer discloses a security breach suffered by its after-sales service systems in India after an isolated attack.
+
+
+
+Bad news for the Taiwanese electronics technology giant Acer, it disclosed a second security breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer confirms breach of after-sales service systems in India<a href="https://www.bleepingcomputer.com/news/security/acer-confirms-breach-of-after-sales-service-systems-in-india/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese computer giant Acer has confirmed that its after-sales service systems in India were recently breached in what the company called "an isolated attack."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

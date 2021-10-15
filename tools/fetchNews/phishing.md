@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks use math symbols to evade anti-phishing solutions<a href="https://securityaffairs.co/wordpress/123297/hacking/anti-phishing-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using mathematical symbols on impersonated company logos to evade detection in phishing campaigns.
+
+
+
+Researchers from anti-phishing cybersecurity firm INKY have detailed a new technique to evade detection in phishing attacks, it leverages...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

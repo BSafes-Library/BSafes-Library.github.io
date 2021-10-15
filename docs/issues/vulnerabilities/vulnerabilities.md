@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rickroll Grad Prank Exposes Exterity IPTV Bug<a href="https://threatpost.com/rickroll-exterity-iptv-bug/175491/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IPTV and IP video security is increasingly under scrutiny, even by high school kids.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, VMware Join Patch Tuesday Parade<a href="https://www.securityweek.com/intel-vmware-join-patch-tuesday-parade?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel released two advisories to fix privilege escalation and information disclosure vulnerabilities in the SGX software development kit and Hardware Accelerated Execution Manager software products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Hacking Flaws Disclosed in Linphone and MicroSIP Softphones<a href="https://thehackernews.com/2021/10/critical-remote-hacking-flaws-disclosed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in softphone software from Linphone and MicroSIP that could be exploited by an unauthenticated remote adversary to crash the client and even extract sensitive information like password hashes by simply making a malicious call.  The vulnerabilities, which were discovered by Moritz Abrell of German pen-testing firm SySS GmbH, have since been addressed by the respective manufacturers following responsible disclosure.  Softphones are essentially software-based phones that mimic desk phones and allow for making telephone calls over the Internet without the need for using dedicated hardware. At the core of the issues are the SIP services offered by the clients to connect two peers to facilitate telephony services in IP-based mobile networks.   SIP aka Session Initiation Protocol is a&nbsp; signaling protocol &nbsp;that's used to control interactive communication sessions, such as voice, video, chat and instant messaging, as well as games and v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Unprotected Prometheus Endpoints Exposing Sensitive Information<a href="https://thehackernews.com/2021/10/experts-warn-of-unprotected-prometheus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale unauthenticated scraping of publicly available and non-secured endpoints from older versions of Prometheus event monitoring and alerting solution could be leveraged to inadvertently leak sensitive information, according to the latest research.  "Due to the fact that authentication and encryption support is relatively new, many organizations that use Prometheus haven't yet enabled these features and thus many Prometheus endpoints are completely exposed to the Internet (e.g. endpoints that run earlier versions), leaking metric and label dat," JFrog researchers Andrey Polkovnychenko and Shachar Menashe&nbsp; said &nbsp;in a report.  Prometheus &nbsp;is an open-source system monitoring and alerting toolkit used to collect and process metrics from different endpoints, alongside enabling easy observation of software metrics such as memory usage, network usage, and software-specific defined metrics, such as the number of failed logins to a web application. Support for Transport
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

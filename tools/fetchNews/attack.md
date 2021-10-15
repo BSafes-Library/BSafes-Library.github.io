@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon digital carrier Visible customer accounts were hacked<a href="https://www.bleepingcomputer.com/news/security/verizon-digital-carrier-visible-customer-accounts-were-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Visible, a US digital wireless carrier owned by Verizon, admitted that some customer accounts were hacked after dealing with technical problems in the past couple of days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
