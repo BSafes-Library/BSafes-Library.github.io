@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSea ‘Free Gift’ NFTs Drain Cryptowallet Balances<a href="https://threatpost.com/opensea-nfts-cryptowallet-balances/175453/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals exploited bugs in the world’s largest digital-goods marketplace to create malicious artwork offered as a perk to unsuspecting users.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

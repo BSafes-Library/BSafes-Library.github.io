@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFT Marketplace OpenSea Patches Flaw Potentially Leading to Cryptocurrency Theft<a href="https://www.securityweek.com/nft-marketplace-opensea-patches-flaw-potentially-leading-cryptocurrency-theft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea, the world’s largest NFT marketplace, has addressed a security vulnerability that could have allowed hackers to hijack user accounts and empty their crypto wallets with the help of maliciously crafted NFTs (non-fungible tokens).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US links $5.2 billion worth of Bitcoin transactions to ransomware<a href="https://www.bleepingcomputer.com/news/security/us-links-52-billion-worth-of-bitcoin-transactions-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has identified roughly $5.2 billion worth of outgoing Bitcoin transactions likely tied to&nbsp;the top 10 most commonly reported ransomware variants.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

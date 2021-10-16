@@ -30,6 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://thehackernews.com/2021/10/cisa-issues-warning-on-cyber-threats.html
+. https://www.zdnet.com/article/cisa-outlines-cyberthreats-targeting-us-water-and-wastewater-systems/?&web_view=true
  
 Law
 

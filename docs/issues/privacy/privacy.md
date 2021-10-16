@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Our Pockets: The Risks of Client-Side Scanning<a href="https://www.lawfareblog.com/bugs-our-pockets-risks-client-side-scanning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Client-side scanning poses serious technical risks, and there is little that prevents such systems from being repurposed to scan for other types of targeted content.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Experts Sound Alarm on Apple and E.U. Phone Scanning Plans<a href="https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a dozen prominent cybersecurity experts raised concerns on plans by Apple and the EU to monitor people’s phones for illicit material, calling the efforts ineffective and dangerous strategies that would embolden government surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

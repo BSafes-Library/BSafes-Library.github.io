@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies warn of cyber threats to water, wastewater systems<a href="https://thehill.com//policy/cybersecurity/576835-agencies-warn-of-cyber-threats-to-water-wastewater-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of federal agencies on Thursday warned that hackers are targeting the water and wastewater treatment sectors, strongly recommending that organizations take steps to protect themselves.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World leaders recognize ransomware attacks as 'global security threat'<a href="https://thehill.com//policy/cybersecurity/576763-world-leaders-recognize-ransomware-attacks-as-global-security-threat"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government cybersecurity leaders from the United States and&nbsp;more than 30 countries on Thursday formally recognized ransomware attacks as an "escalating global security threat,” and pledged greater cooperation and diplomacy in fighting against these incidents.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House Democrats announce bill to rein in tech algorithms<a href="https://thehill.com//policy/cybersecurity/576729-house-democrats-announce-bill-to-rein-in-tech-algorithms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top Democrats on the House Energy and Commerce Committee on Thursday announced legislation aimed at holding online platforms accountable for content promoted by their algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

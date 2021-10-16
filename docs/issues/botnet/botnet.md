@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Behind Trickbot Expanding Malware Distribution Channels<a href="https://thehackernews.com/2021/10/attackers-behind-trickbot-expanding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the pernicious TrickBot malware have resurfaced with new tricks that aim to increase its foothold by expanding its distribution channels, ultimately leading to the deployment of ransomware such as Conti.  The threat actor, tracked under the monikers ITG23 and Wizard Spider, has been found to partner with other cybercrime gangs known Hive0105, Hive0106 (aka TA551 or Shathak), and Hive0107, adding to a growing number of campaigns that the attackers are banking on to deliver proprietary malware, according to a report by IBM X-Force.  "These and other cybercrime vendors are infecting corporate networks with malware by hijacking email threads, using fake customer response forms and social engineering employees with a fake call center known as BazarCall," researchers Ole Villadsen and Charlotte Hammond&nbsp; said .   Since emerging on the threat landscape in 2016, TrickBot has evolved from a banking trojan to a modular Windows-based crimeware solution, while also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This malware botnet gang has stolen millions with a surprisingly simple trick<a href="https://www.zdnet.com/article/this-relentless-malware-botnet-has-made-millions-with-a-surprisingly-simple-trick/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The long-running botnet known as MyKings is still in business and has raked in at least $24.7 million by using its network of compromised computers to mine for cryptocurrencies.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

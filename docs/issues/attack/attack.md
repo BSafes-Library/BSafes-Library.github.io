@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch downplays this month's hack, says it had minimal impact<a href="https://www.bleepingcomputer.com/news/security/twitch-downplays-this-months-hack-says-it-had-minimal-impact/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an update regarding this month's security incident, Twitch downplayed the breach saying that it&nbsp;had minimal impact and it only affected a small number of users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boffins devise a new side-channel attack affecting all AMD CPUs<a href="https://securityaffairs.co/wordpress/123401/hacking/side-channel-attack-amd-cpus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers from the Graz University of Technology and CISPA Helmholtz Center for Information Security devised a new side-channel attack that affects AMD CPUs.
+
+
+
+Researchers Moritz Lipp and Daniel Gruss of the Graz University of Technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon-owned Visible Acknowledges Hack, Confirms Account Manipulations<a href="https://www.zdnet.com/article/verizon-owned-visible-acknowledges-hack-confirms-account-manipulations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company came forward and confirmed the attack in a Twitter thread, writing that it was "aware of an issue in which some member accounts were accessed and/or charged without their authorization."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three more ransomware attacks hit Water and Wastewater systems in 2021<a href="https://securityaffairs.co/wordpress/123395/security/ransomware-us-water-and-wastewater-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint&nbsp;cybersecurity advisory published by US agencies revealed that three ransomware attacks on wastewater systems this year.
+
+
+
+A joint&nbsp;cybersecurity advisory&nbsp;published today by the FBI, NSA, CISA, and the EPA revealed three more attacks launched...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

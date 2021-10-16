@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate SaaS Security Posture Management (SSPM) Checklist<a href="https://thehackernews.com/2021/10/the-ultimate-saas-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security is the umbrella that holds within it: IaaS, PaaS and SaaS. Gartner created the SaaS Security Posture Management (SSPM) category for solutions that continuously assess security risk and manage the SaaS applications' security posture. With enterprises having 1,000 or more employees relying on dozens to hundreds of apps, the need for deep visibility and remediation for SaaS security settings is only getting more critical.&nbsp;  The top pain points for SaaS security stem from:   Lack of control &nbsp;over the growing SaaS app estate  Lack of governance in the lifecycle &nbsp;of SaaS apps: from purchase to deployment, operation and maintenance  Lack of visibility &nbsp;of all the configurations in SaaS app estate  Skills gap &nbsp;in ever-evolving, accelerating, complex cloud security&nbsp;  Laborious and&nbsp; overwhelming workload&nbsp; to stay on top of hundreds to thousands (to tens of thousands) of settings and permissions.   The capability of governance across the whole SaaS estate is both nuanced and compl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks released +40 security advisories to fix +70 vulnerabilities<a href="https://securityaffairs.co/wordpress/123416/security/juniper-networks-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider Juniper Networks released more than 40 security advisories to address over 70 vulnerabilities that affect its solutions.
+
+
+
+Cybersecurity provider Juniper Networks released more than 40 security advisories to address more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

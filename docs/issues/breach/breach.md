@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture discloses data breach after LockBit ransomware attack<a href="https://securityaffairs.co/wordpress/123422/data-breach/accenture-data-breach-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and consulting giant Accenture confirmed a data breach after the ransomware attack conducted by LockBit operators in August 2021.  
+
+
+
+Global IT consultancy giant Accenture discloses a data breach after the LockBit ransomware attack that hit the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture confirms data breach after August ransomware attack<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-data-breach-after-august-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global IT consultancy giant Accenture confirmed that LockBit ransomware operators stole data from its systems&nbsp;during an attack that hit the company's systems in August 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

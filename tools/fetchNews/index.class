@@ -34,6 +34,390 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 15th 2021 - Disrupting ransoms<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-15th-2021-disrupting-ransoms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, senior officials from over thirty countries held virtual conferences on disrupting ransomware operations and attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFT Marketplace OpenSea Patches Flaw Potentially Leading to Cryptocurrency Theft<a href="https://www.securityweek.com/nft-marketplace-opensea-patches-flaw-potentially-leading-cryptocurrency-theft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSea, the world’s largest NFT marketplace, has addressed a security vulnerability that could have allowed hackers to hijack user accounts and empty their crypto wallets with the help of maliciously crafted NFTs (non-fungible tokens).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury: $590M paid out by victims of ransomware attacks in first half of 2021<a href="https://thehill.com//policy/cybersecurity/576955-treasury-department-reports-590-million-paid-out-for-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report released by the Treasury Department Friday found that around $590 million had been paid by victims of ransomware to their attackers in the first six months of 2021, as such attacks skyrocketed. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Behind Trickbot Expanding Malware Distribution Channels<a href="https://thehackernews.com/2021/10/attackers-behind-trickbot-expanding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the pernicious TrickBot malware have resurfaced with new tricks that aim to increase its foothold by expanding its distribution channels, ultimately leading to the deployment of ransomware such as Conti.  The threat actor, tracked under the monikers ITG23 and Wizard Spider, has been found to partner with other cybercrime gangs known Hive0105, Hive0106 (aka TA551 or Shathak), and Hive0107, adding to a growing number of campaigns that the attackers are banking on to deliver proprietary malware, according to a report by IBM X-Force.  "These and other cybercrime vendors are infecting corporate networks with malware by hijacking email threads, using fake customer response forms and social engineering employees with a fake call center known as BazarCall," researchers Ole Villadsen and Charlotte Hammond  said .   Since emerging on the threat landscape in 2016, TrickBot has evolved from a banking trojan to a modular Windows-based crimeware solution, while also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in Our Pockets: The Risks of Client-Side Scanning<a href="https://www.lawfareblog.com/bugs-our-pockets-risks-client-side-scanning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Client-side scanning poses serious technical risks, and there is little that prevents such systems from being repurposed to scan for other types of targeted content.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture discloses data breach after LockBit ransomware attack<a href="https://securityaffairs.co/wordpress/123422/data-breach/accenture-data-breach-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and consulting giant Accenture confirmed a data breach after the ransomware attack conducted by LockBit operators in August 2021.  
+
+
+
+Global IT consultancy giant Accenture discloses a data breach after the LockBit ransomware attack that hit the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US links $5.2 billion worth of Bitcoin transactions to ransomware<a href="https://www.bleepingcomputer.com/news/security/us-links-52-billion-worth-of-bitcoin-transactions-to-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has identified roughly $5.2 billion worth of outgoing Bitcoin transactions likely tied to the top 10 most commonly reported ransomware variants.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This malware botnet gang has stolen millions with a surprisingly simple trick<a href="https://www.zdnet.com/article/this-relentless-malware-botnet-has-made-millions-with-a-surprisingly-simple-trick/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The long-running botnet known as MyKings is still in business and has raked in at least $24.7 million by using its network of compromised computers to mine for cryptocurrencies.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ad-Blocking Chrome Extension Caught Injecting Ads in Google Search Pages<a href="https://thehackernews.com/2021/10/ad-blocking-chrome-extension-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new deceptive ad injection campaign has been found leveraging an ad blocker extension for Google Chrome and Opera web browsers to sneakily insert ads and affiliate codes on websites, according to new research from cybersecurity firm Imperva.  The findings come following the discovery of rogue domains distributing an ad injection script in late August 2021 that the researchers connected to an add-on called AllBlock. The  extension  has since been pulled from both the Chrome Web Store and Opera add-ons marketplaces.   While AllBlock is designed to block ads legitimately, the JavaScript code is injected into every new tab opened on the browser. It works by identifying and sending all links in a web page — typically on search engine results pages — to a remote server, which responds back with a list of websites to replace the genuine links with, leading to a scenario where upon clicking a link, the victim is redirected to a different page.   "When the user clicks on any modified li
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks released +40 security advisories to fix +70 vulnerabilities<a href="https://securityaffairs.co/wordpress/123416/security/juniper-networks-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity provider Juniper Networks released more than 40 security advisories to address over 70 vulnerabilities that affect its solutions.
+
+
+
+Cybersecurity provider Juniper Networks released more than 40 security advisories to address more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch downplays this month's hack, says it had minimal impact<a href="https://www.bleepingcomputer.com/news/security/twitch-downplays-this-months-hack-says-it-had-minimal-impact/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an update regarding this month's security incident, Twitch downplayed the breach saying that it had minimal impact and it only affected a small number of users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte: Free Decryptor Released for Ransomware Strain<a href="https://www.govinfosecurity.com/blackbyte-free-decryptor-released-for-ransomware-strain-a-17738?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave, a Chicago-based cybersecurity and managed security services provider owned by Singaporean telecommunications company Singtel Group Enterprise, on Friday announced the release of the free decryptor, available for download from GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning On Cyber Threats Targeting Water and Wastewater Systems<a href="https://thehackernews.com/2021/10/cisa-issues-warning-on-cyber-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity Infrastructure and Security Agency (CISA) on Thursday warned of continued ransomware attacks aimed at disrupting water and wastewater facilities (WWS), highlighting five incidents that occurred between March 2019 and August 2021.  "This activity—which includes attempts to compromise system integrity via unauthorized access—threatens the ability of WWS facilities to provide clean, potable water to, and effectively manage the wastewater of, their communities," CISA, along with the Federal Bureau of Investigation (FBI), the Environmental Protection Agency (EPA), and the National Security Agency (NSA),  said  in a joint bulletin.   Citing spear-phishing, outdated operating systems and software, and control system devices running vulnerable firmware versions as the primary intrusion vectors, the agencies singled out five different cyber attacks from 2019 to early 2021 targeting the WWS Sector —   A former employee at Kansas-based WWS facility unsuccessfully
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boffins devise a new side-channel attack affecting all AMD CPUs<a href="https://securityaffairs.co/wordpress/123401/hacking/side-channel-attack-amd-cpus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers from the Graz University of Technology and CISPA Helmholtz Center for Information Security devised a new side-channel attack that affects AMD CPUs.
+
+
+
+Researchers Moritz Lipp and Daniel Gruss of the Graz University of Technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture confirms data breach after August ransomware attack<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-data-breach-after-august-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global IT consultancy giant Accenture confirmed that LockBit ransomware operators stole data from its systems during an attack that hit the company's systems in August 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon-owned Visible Acknowledges Hack, Confirms Account Manipulations<a href="https://www.zdnet.com/article/verizon-owned-visible-acknowledges-hack-confirms-account-manipulations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company came forward and confirmed the attack in a Twitter thread, writing that it was "aware of an issue in which some member accounts were accessed and/or charged without their authorization."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three more ransomware attacks hit Water and Wastewater systems in 2021<a href="https://securityaffairs.co/wordpress/123395/security/ransomware-us-water-and-wastewater-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint cybersecurity advisory published by US agencies revealed that three ransomware attacks on wastewater systems this year.
+
+
+
+A joint cybersecurity advisory published today by the FBI, NSA, CISA, and the EPA revealed three more attacks launched...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime gang targets finance firms with stealthy macros<a href="https://www.bleepingcomputer.com/news/security/russian-cybercrime-gang-targets-finance-firms-with-stealthy-macros/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign dubbed MirrorBlast is deploying weaponized Excel documents that are extremely difficult to detect to compromise financial service organizations
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Outlines Cyberthreats Targeting US Water and Wastewater Systems<a href="https://www.zdnet.com/article/cisa-outlines-cyberthreats-targeting-us-water-and-wastewater-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Dragos worked with CISA, the FBI, the NSA and the EPA to outline cyberthreats targeting the information and operational technology underpinning the networks, systems and devices of US water and wastewater facilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Governments worldwide to crack down on ransomware payment channels<a href="https://www.bleepingcomputer.com/news/security/governments-worldwide-to-crack-down-on-ransomware-payment-channels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior officials from 31 countries and the European Union said that their governments would take action to disrupt the cryptocurrency payment channels used by ransomware gangs to finance their operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Experts Sound Alarm on Apple and E.U. Phone Scanning Plans<a href="https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a dozen prominent cybersecurity experts raised concerns on plans by Apple and the EU to monitor people’s phones for illicit material, calling the efforts ineffective and dangerous strategies that would embolden government surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government discloses more ransomware attacks on water plants<a href="https://www.bleepingcomputer.com/news/security/us-government-discloses-more-ransomware-attacks-on-water-plants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Water and Wastewater Systems (WWS) Sector facilities have been breached multiple times in ransomware attacks during the last two years according to joint advisory published by US government agencies on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adblocker promises to blocks ads, injects them instead<a href="https://blog.malwarebytes.com/web-threats/2021/10/adblocker-promises-to-blocks-ads-injects-them-instead/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Imperva uncovered a new ad injection campaign based on an adblocker named AllBlock. The AllBlock extension was available at the time of writing for Chrome and Opera in the respective web stores.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

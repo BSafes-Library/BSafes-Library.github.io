@@ -8,6 +8,70 @@ nav_order: 900015
 
 ## Attack
 ---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Hospital Forced to Cancel Non-Urgent Procedures Due to Ransomware Attack<a href="https://portswigger.net/daily-swig/israeli-hospital-cancels-non-urgent-procedures-following-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel’s National Cyber Directorate (INCD) is urging organizations across the country to bolster their cyber defenses following a disruptive ransomware attack against a hospital in Israel’s northwest.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For the first time, an Israeli hospital was hit by a major ransomware attack<a href="https://securityaffairs.co/wordpress/123350/hacking/israeli-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hillel Yaffe Medical Center in Hadera, Israel, was hit by a ransomware attack that was defined by Israel's National Cyber Directorate as a "major" attack. 
+
+
+
+The Hillel Yaffe Medical Center in Hadera, Israel was hit by a ransomware attack that impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yanluowang ransomware used in highly targeted attacks on large orgs<a href="https://securityaffairs.co/wordpress/123328/malware/yanluowang-ransomware-targeted-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new strain of ransomware, dubbed Yanluowang, that was used in highly targeted attacks against enterprises.
+
+
+
+Researchers from Symantec Threat Hunter Team discovered a ransomware family, tracked as Yanluowang ransomware that was used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yanluowang ransomware used in targeted enterprise attacks<a href="https://www.bleepingcomputer.com/news/security/new-yanluowang-ransomware-used-in-targeted-enterprise-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new and still under development ransomware strain is being used in highly targeted attacks against enterprise entities&nbsp;as Broadcom's&nbsp;Symantec Threat Hunter Team discovered.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
