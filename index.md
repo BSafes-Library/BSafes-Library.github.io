@@ -34,6 +34,271 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware shuts down again after Tor sites were hijacked<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-shuts-down-again-after-tor-sites-were-hijacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation has likely shut down once again after an unknown person hijacked their Tor payment portal and data leak blog.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid Using Wildcard TLS Certificates, Warns NSA<a href="https://cyware.com/news/avoid-using-wildcard-tls-certificates-warns-nsa-4216fa34"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA clued in organizations against the use of wildcard TLS certificates that may lead to a widespread attack on an organization, as well as invite the new ALPACA TLS attack.  According to researchers, around 119,000 web servers are still exposed to the new ALPACA attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts hacked a fully patched iOS 15 running on iPhone 13 at China’s Tianfu Cup hacking contest<a href="https://securityaffairs.co/wordpress/123476/hacking/tianfu-cup-2021-hacking-contest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White hat hackers earned $1.88 million at the Tianfu Cup hacking contest by finding vulnerabilities in popular software. 
+
+
+
+The Tianfu Cup is the most important hacking contest held in China, this year white hat hackers earned $1.88 Million demonstrating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Android Apps Steal Credentials from Japanese Telecom Users<a href="https://cyware.com/news/fake-android-apps-steal-credentials-from-japanese-telecom-users-32bd652c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android-based phishing campaign was observed targeting customers of telecommunication services based in Japan.  The malware-laced fake app steals credentials and session cookies. Experts recommend bypass such risks by avoiding apps downloads from unknown third-party stores.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch security breach had minimal impact, the company states<a href="https://securityaffairs.co/wordpress/123472/data-breach/twitch-security-breach-uodate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitch provided an update for the recent security breach, the company confirmed that it only had a limited impact on a small number of users.
+
+
+
+Twitch downplayed the recent security breach in an update, the company said it only impacted a small number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot’s FIN12 is Claiming Victims at Higher Rate<a href="https://cyware.com/news/trickbots-fin12-is-claiming-victims-at-higher-rate-438ed65c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Mandiant report claims FIN12 has been dropping Ryuk ransomware rapidly across multiple sectors, with one in five victims in the healthcare sector. It targets organizations that have annual revenues over $300 million, with an average of almost $6 billion. The report found that the average time F ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ecuador’s Banco Pichincha has yet to recover after recent cyberattack<a href="https://securityaffairs.co/wordpress/123465/cyber-crime/ecuadors-banco-pichincha-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The customers of Banco Pichincha, the largest bank in Ecuador, are still experiencing service disruptions after a massive cyberattack hit the financial organization early this week. 
+
+
+
+The cyberattack took place over the last weekend and forced the bank...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$5.2 billion in BTC transactions tied to top 10 ransomware variants: US Treasury<a href="https://www.zdnet.com/article/5-2-billion-in-btc-transactions-tied-to-top-10-ransomware-variants-us-treasury/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinCen said the total value of suspicious activity reported in ransomware-related SARs during the first six months of 2021 was $590 million, which exceeds the $416 million reported for all of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot spreads malware through new distribution channels<a href="https://securityaffairs.co/wordpress/123455/cyber-crime/trickbot-expands-distribution-channels.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot operators are back and expand the distribution channels with partnership with cybercrime affiliates.
+
+
+
+The operators behind the infamous TrickBot (ITG23 and Wizard Spider) malware have resurfaced with new distribution channels to deliver malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudSEK published a new report exploring ICSs and their security posture in light of recent cyberattacks against the industrial, utility, and manufacturing targets. The research focuses on ICSs available through the internet.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked TA505 targets financial institutions in a new malspam campaign<a href="https://securityaffairs.co/wordpress/123441/breaking-news/ta505-mirrorblast-malspam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked TA505 group leverages a lightweight Office file to spread malware in a campaign, tracked as MirrorBlast, aimed at financial institutions. 
+
+
+
+Russia-linked APT group TA505 (e.g. Evil Corp) is leveraging a lightweight Office file in a new malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose New Side-Channel Attacks Affecting All AMD CPUs<a href="https://www.securityweek.com/researchers-disclose-new-side-channel-attacks-affecting-all-amd-cpus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed the details of new timing and power-based side-channel attacks that affect all CPUs made by AMD, but the chipmaker says no new mitigations are necessary.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury FinCEN linked $5.2 billion in BTC transactions to ransomware payments<a href="https://securityaffairs.co/wordpress/123431/malware/fincen-ransomware-payments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) linked roughly $5.2 billion worth of Bitcoin transactions to ransomware. 
+
+
+
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has identified approximately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon-owned Twitch says source code exposed in last week's data breach<a href="https://www.reuters.com/article/twitch-cyber/amazon-owned-twitch-says-source-code-exposed-in-last-weeks-data-breach-idUSKBN2H51QQ?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon.com Inc-owned Twitch has said that last week’s data breach at the live streaming e-sports platform contained documents from its source code. Twitch said it was “confident” the incident affected only a small number of users.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches Over 70 Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-over-70-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking and cybersecurity solutions provider Juniper Networks this week released more than 40 security advisories to describe over 70 vulnerabilities that affect the company’s products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

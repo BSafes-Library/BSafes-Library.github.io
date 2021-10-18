@@ -34,7 +34,272 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware shuts down again after Tor sites were hijacked<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-shuts-down-again-after-tor-sites-were-hijacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REvil ransomware operation has likely shut down once again after an unknown person hijacked their Tor payment portal and data leak blog.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid Using Wildcard TLS Certificates, Warns NSA<a href="https://cyware.com/news/avoid-using-wildcard-tls-certificates-warns-nsa-4216fa34"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA clued in organizations against the use of wildcard TLS certificates that may lead to a widespread attack on an organization, as well as invite the new ALPACA TLS attack.  According to researchers, around 119,000 web servers are still exposed to the new ALPACA attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts hacked a fully patched iOS 15 running on iPhone 13 at China’s Tianfu Cup hacking contest<a href="https://securityaffairs.co/wordpress/123476/hacking/tianfu-cup-2021-hacking-contest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White hat hackers earned $1.88 million at the Tianfu Cup hacking contest by finding vulnerabilities in popular software. 
+
+
+
+The Tianfu Cup is the most important hacking contest held in China, this year white hat hackers earned $1.88 Million demonstrating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Android Apps Steal Credentials from Japanese Telecom Users<a href="https://cyware.com/news/fake-android-apps-steal-credentials-from-japanese-telecom-users-32bd652c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android-based phishing campaign was observed targeting customers of telecommunication services based in Japan.  The malware-laced fake app steals credentials and session cookies. Experts recommend bypass such risks by avoiding apps downloads from unknown third-party stores.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch security breach had minimal impact, the company states<a href="https://securityaffairs.co/wordpress/123472/data-breach/twitch-security-breach-uodate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitch provided an update for the recent security breach, the company confirmed that it only had a limited impact on a small number of users.
+
+
+
+Twitch downplayed the recent security breach in an update, the company said it only impacted a small number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot’s FIN12 is Claiming Victims at Higher Rate<a href="https://cyware.com/news/trickbots-fin12-is-claiming-victims-at-higher-rate-438ed65c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Mandiant report claims FIN12 has been dropping Ryuk ransomware rapidly across multiple sectors, with one in five victims in the healthcare sector. It targets organizations that have annual revenues over $300 million, with an average of almost $6 billion. The report found that the average time F ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ecuador’s Banco Pichincha has yet to recover after recent cyberattack<a href="https://securityaffairs.co/wordpress/123465/cyber-crime/ecuadors-banco-pichincha-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The customers of Banco Pichincha, the largest bank in Ecuador, are still experiencing service disruptions after a massive cyberattack hit the financial organization early this week. 
+
+
+
+The cyberattack took place over the last weekend and forced the bank...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$5.2 billion in BTC transactions tied to top 10 ransomware variants: US Treasury<a href="https://www.zdnet.com/article/5-2-billion-in-btc-transactions-tied-to-top-10-ransomware-variants-us-treasury/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FinCen said the total value of suspicious activity reported in ransomware-related SARs during the first six months of 2021 was $590 million, which exceeds the $416 million reported for all of 2020.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot spreads malware through new distribution channels<a href="https://securityaffairs.co/wordpress/123455/cyber-crime/trickbot-expands-distribution-channels.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot operators are back and expand the distribution channels with partnership with cybercrime affiliates.
+
+
+
+The operators behind the infamous TrickBot (ITG23 and Wizard Spider) malware have resurfaced with new distribution channels to deliver malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudSEK published a new report exploring ICSs and their security posture in light of recent cyberattacks against the industrial, utility, and manufacturing targets. The research focuses on ICSs available through the internet.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked TA505 targets financial institutions in a new malspam campaign<a href="https://securityaffairs.co/wordpress/123441/breaking-news/ta505-mirrorblast-malspam-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked TA505 group leverages a lightweight Office file to spread malware in a campaign, tracked as MirrorBlast, aimed at financial institutions. 
+
+
+
+Russia-linked APT group TA505 (e.g. Evil Corp) is leveraging a lightweight Office file in a new malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose New Side-Channel Attacks Affecting All AMD CPUs<a href="https://www.securityweek.com/researchers-disclose-new-side-channel-attacks-affecting-all-amd-cpus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed the details of new timing and power-based side-channel attacks that affect all CPUs made by AMD, but the chipmaker says no new mitigations are necessary.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury FinCEN linked $5.2 billion in BTC transactions to ransomware payments<a href="https://securityaffairs.co/wordpress/123431/malware/fincen-ransomware-payments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) linked roughly $5.2 billion worth of Bitcoin transactions to ransomware. 
+
+
+
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has identified approximately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon-owned Twitch says source code exposed in last week's data breach<a href="https://www.reuters.com/article/twitch-cyber/amazon-owned-twitch-says-source-code-exposed-in-last-weeks-data-breach-idUSKBN2H51QQ?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon.com Inc-owned Twitch has said that last week’s data breach at the live streaming e-sports platform contained documents from its source code. Twitch said it was “confident” the incident affected only a small number of users.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches Over 70 Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-over-70-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking and cybersecurity solutions provider Juniper Networks this week released more than 40 security advisories to describe over 70 vulnerabilities that affect the company’s products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 15th 2021 - Disrupting ransoms<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-15th-2021-disrupting-ransoms/"> Full Text</a>
@@ -50,7 +315,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFT Marketplace OpenSea Patches Flaw Potentially Leading to Cryptocurrency Theft<a href="https://www.securityweek.com/nft-marketplace-opensea-patches-flaw-potentially-leading-cryptocurrency-theft?&web_view=true"> Full Text</a>
@@ -66,7 +331,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Treasury: $590M paid out by victims of ransomware attacks in first half of 2021<a href="https://thehill.com//policy/cybersecurity/576955-treasury-department-reports-590-million-paid-out-for-ransomware-attacks"> Full Text</a>
@@ -82,7 +347,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Behind Trickbot Expanding Malware Distribution Channels<a href="https://thehackernews.com/2021/10/attackers-behind-trickbot-expanding.html"> Full Text</a>
@@ -98,7 +363,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in Our Pockets: The Risks of Client-Side Scanning<a href="https://www.lawfareblog.com/bugs-our-pockets-risks-client-side-scanning"> Full Text</a>
@@ -114,7 +379,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accenture discloses data breach after LockBit ransomware attack<a href="https://securityaffairs.co/wordpress/123422/data-breach/accenture-data-breach-lockbit-ransomware.html"> Full Text</a>
@@ -134,7 +399,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US links $5.2 billion worth of Bitcoin transactions to ransomware<a href="https://www.bleepingcomputer.com/news/security/us-links-52-billion-worth-of-bitcoin-transactions-to-ransomware/"> Full Text</a>
@@ -150,7 +415,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This malware botnet gang has stolen millions with a surprisingly simple trick<a href="https://www.zdnet.com/article/this-relentless-malware-botnet-has-made-millions-with-a-surprisingly-simple-trick/?&web_view=true"> Full Text</a>
@@ -166,7 +431,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ad-Blocking Chrome Extension Caught Injecting Ads in Google Search Pages<a href="https://thehackernews.com/2021/10/ad-blocking-chrome-extension-caught.html"> Full Text</a>
@@ -182,7 +447,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks released +40 security advisories to fix +70 vulnerabilities<a href="https://securityaffairs.co/wordpress/123416/security/juniper-networks-vulnerabilities.html"> Full Text</a>
@@ -202,7 +467,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch downplays this month's hack, says it had minimal impact<a href="https://www.bleepingcomputer.com/news/security/twitch-downplays-this-months-hack-says-it-had-minimal-impact/"> Full Text</a>
@@ -218,7 +483,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte: Free Decryptor Released for Ransomware Strain<a href="https://www.govinfosecurity.com/blackbyte-free-decryptor-released-for-ransomware-strain-a-17738?&web_view=true"> Full Text</a>
@@ -234,7 +499,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Warning On Cyber Threats Targeting Water and Wastewater Systems<a href="https://thehackernews.com/2021/10/cisa-issues-warning-on-cyber-threats.html"> Full Text</a>
@@ -250,7 +515,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boffins devise a new side-channel attack affecting all AMD CPUs<a href="https://securityaffairs.co/wordpress/123401/hacking/side-channel-attack-amd-cpus.html"> Full Text</a>
@@ -270,7 +535,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accenture confirms data breach after August ransomware attack<a href="https://www.bleepingcomputer.com/news/security/accenture-confirms-data-breach-after-august-ransomware-attack/"> Full Text</a>
@@ -286,7 +551,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Verizon-owned Visible Acknowledges Hack, Confirms Account Manipulations<a href="https://www.zdnet.com/article/verizon-owned-visible-acknowledges-hack-confirms-account-manipulations/?&web_view=true"> Full Text</a>
@@ -302,7 +567,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three more ransomware attacks hit Water and Wastewater systems in 2021<a href="https://securityaffairs.co/wordpress/123395/security/ransomware-us-water-and-wastewater-systems.html"> Full Text</a>
@@ -322,7 +587,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian cybercrime gang targets finance firms with stealthy macros<a href="https://www.bleepingcomputer.com/news/security/russian-cybercrime-gang-targets-finance-firms-with-stealthy-macros/"> Full Text</a>
@@ -338,7 +603,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Outlines Cyberthreats Targeting US Water and Wastewater Systems<a href="https://www.zdnet.com/article/cisa-outlines-cyberthreats-targeting-us-water-and-wastewater-systems/?&web_view=true"> Full Text</a>
@@ -354,7 +619,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Governments worldwide to crack down on ransomware payment channels<a href="https://www.bleepingcomputer.com/news/security/governments-worldwide-to-crack-down-on-ransomware-payment-channels/"> Full Text</a>
@@ -370,7 +635,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Experts Sound Alarm on Apple and E.U. Phone Scanning Plans<a href="https://www.nytimes.com/2021/10/14/business/apple-child-sex-abuse-cybersecurity.html?&web_view=true"> Full Text</a>
@@ -386,7 +651,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government discloses more ransomware attacks on water plants<a href="https://www.bleepingcomputer.com/news/security/us-government-discloses-more-ransomware-attacks-on-water-plants/"> Full Text</a>
@@ -402,7 +667,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2021
+October 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adblocker promises to blocks ads, injects them instead<a href="https://blog.malwarebytes.com/web-threats/2021/10/adblocker-promises-to-blocks-ads-injects-them-instead/?&web_view=true"> Full Text</a>
