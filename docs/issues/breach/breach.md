@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitch security breach had minimal impact, the company states<a href="https://securityaffairs.co/wordpress/123472/data-breach/twitch-security-breach-uodate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitch provided an update for the recent security breach, the company confirmed that it only had a limited impact on a small number of users.
+
+
+
+Twitch downplayed the recent security breach in an update, the company said it only impacted a small number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon-owned Twitch says source code exposed in last week's data breach<a href="https://www.reuters.com/article/twitch-cyber/amazon-owned-twitch-says-source-code-exposed-in-last-weeks-data-breach-idUSKBN2H51QQ?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon.com Inc-owned Twitch has said that last week’s data breach at the live streaming e-sports platform contained documents from its source code. Twitch said it was “confident” the incident affected only a small number of users.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

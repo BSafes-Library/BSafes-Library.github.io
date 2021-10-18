@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts hacked a fully patched iOS 15 running on iPhone 13 at China’s Tianfu Cup hacking contest<a href="https://securityaffairs.co/wordpress/123476/hacking/tianfu-cup-2021-hacking-contest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White hat hackers earned $1.88 million at the Tianfu Cup hacking contest by finding vulnerabilities in popular software. 
+
+
+
+The Tianfu Cup is the most important hacking contest held in China, this year white hat hackers earned $1.88 Million demonstrating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose New Side-Channel Attacks Affecting All AMD CPUs<a href="https://www.securityweek.com/researchers-disclose-new-side-channel-attacks-affecting-all-amd-cpus?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed the details of new timing and power-based side-channel attacks that affect all CPUs made by AMD, but the chipmaker says no new mitigations are necessary.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

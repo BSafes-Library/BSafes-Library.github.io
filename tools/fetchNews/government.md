@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning On Cyber Threats Targeting Water and Wastewater Systems<a href="https://thehackernews.com/2021/10/cisa-issues-warning-on-cyber-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity Infrastructure and Security Agency (CISA) on Thursday warned of continued ransomware attacks aimed at disrupting water and wastewater facilities (WWS), highlighting five incidents that occurred between March 2019 and August 2021.  "This activity—which includes attempts to compromise system integrity via unauthorized access—threatens the ability of WWS facilities to provide clean, potable water to, and effectively manage the wastewater of, their communities," CISA, along with the Federal Bureau of Investigation (FBI), the Environmental Protection Agency (EPA), and the National Security Agency (NSA),&nbsp; said &nbsp;in a joint bulletin.   Citing spear-phishing, outdated operating systems and software, and control system devices running vulnerable firmware versions as the primary intrusion vectors, the agencies singled out five different cyber attacks from 2019 to early 2021 targeting the WWS Sector —   A former employee at Kansas-based WWS facility unsuccessfully
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Outlines Cyberthreats Targeting US Water and Wastewater Systems<a href="https://www.zdnet.com/article/cisa-outlines-cyberthreats-targeting-us-water-and-wastewater-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Dragos worked with CISA, the FBI, the NSA and the EPA to outline cyberthreats targeting the information and operational technology underpinning the networks, systems and devices of US water and wastewater facilities.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Governments worldwide to crack down on ransomware payment channels<a href="https://www.bleepingcomputer.com/news/security/governments-worldwide-to-crack-down-on-ransomware-payment-channels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior officials from 31 countries and the European Union said that their governments would take action to disrupt the cryptocurrency payment channels used by ransomware gangs to finance their operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government discloses more ransomware attacks on water plants<a href="https://www.bleepingcomputer.com/news/security/us-government-discloses-more-ransomware-attacks-on-water-plants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Water and Wastewater Systems (WWS) Sector facilities have been breached multiple&nbsp;times in ransomware attacks during the last two years according to joint advisory published by US government agencies on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,39 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot’s FIN12 is Claiming Victims at Higher Rate<a href="https://cyware.com/news/trickbots-fin12-is-claiming-victims-at-higher-rate-438ed65c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Mandiant report claims FIN12 has been dropping Ryuk ransomware rapidly across multiple sectors, with one in five victims in the healthcare sector. It targets organizations that have annual revenues over $300 million, with an average of almost $6 billion. The report found that the average time F ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot spreads malware through new distribution channels<a href="https://securityaffairs.co/wordpress/123455/cyber-crime/trickbot-expands-distribution-channels.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickBot operators are back and expand the distribution channels with partnership with cybercrime affiliates.
+
+
+
+The operators behind the infamous TrickBot (ITG23 and Wizard Spider) malware have resurfaced with new distribution channels to deliver malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

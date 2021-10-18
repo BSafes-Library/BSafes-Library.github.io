@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte: Free Decryptor Released for Ransomware Strain<a href="https://www.govinfosecurity.com/blackbyte-free-decryptor-released-for-ransomware-strain-a-17738?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave, a Chicago-based cybersecurity and managed security services provider owned by Singaporean telecommunications company Singtel Group Enterprise, on Friday announced the release of the free decryptor, available for download from GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

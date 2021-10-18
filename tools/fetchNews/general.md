@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 15th 2021 - Disrupting ransoms<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-15th-2021-disrupting-ransoms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, senior officials from over thirty countries held virtual conferences on disrupting ransomware operations and attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury: $590M paid out by victims of ransomware attacks in first half of 2021<a href="https://thehill.com//policy/cybersecurity/576955-treasury-department-reports-590-million-paid-out-for-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report released by the Treasury Department Friday found that around $590 million had been paid by victims of ransomware to their attackers in the first six months of 2021,&nbsp;as such attacks skyrocketed.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
