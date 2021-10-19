@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-backed hackers breach telcos with custom malware<a href="https://www.bleepingcomputer.com/news/security/state-backed-hackers-breach-telcos-with-custom-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown state-sponsored actor is deploying a novel toolset in attacks targeting telecommunication providers and IT firms in South Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Accenture Confirms Data Stolen in Ransomware Attack<a href="https://www.securityweek.com/accenture-confirms-data-stolen-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Form 10-K filing with the Securities and Exchange Commission (SEC) last week, the company confirmed that the attackers were able to steal some proprietary information from its servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

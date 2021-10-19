@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair Broadcast Group hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/577203-sinclair-broadcast-group-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sinclair Broadcast Group, one of the nation’s largest television station operators, announced Monday that it had been hit by a ransomware attack over the weekend that resulted in data theft and network disruption.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese hackers behind attacks on ten Israeli hospitals<a href="https://www.bleepingcomputer.com/news/security/suspected-chinese-hackers-behind-attacks-on-ten-israeli-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint announcement from the Ministry of Health and the National Cyber Directorate in Israel describes a spike in ransomware attacks over the weekend that targeted the systems of nine health institutes in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

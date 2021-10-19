@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus endpoint unprotected installs could expose sensitive data<a href="https://securityaffairs.co/wordpress/123529/hacking/prometheus-endpoint-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered several unprotected installs of open source event monitoring solution Prometheus that may expose sensitive data.
+
+
+
+JFrog researchers have discovered multiple unprotected instances of open source event monitoring solution Prometheus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft asks admins to patch PowerShell to fix WDAC bypass<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-admins-to-patch-powershell-to-fix-wdac-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has asked system administrators to patch PowerShell 7 against two vulnerabilities allowing attackers to bypass&nbsp;Windows Defender Application Control (WDAC) enforcements and gain access to plain text credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit card PINs can be guessed even when covering the ATM pad<a href="https://www.bleepingcomputer.com/news/security/credit-card-pins-can-be-guessed-even-when-covering-the-atm-pad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have proven it's possible to train a special-purpose deep-learning&nbsp;algorithm that can guess 4-digit card PINs 41% of the time, even if the victim is covering the pad with their hands.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10, Linux, iOS, Chrome and Many Others at Hacked Tianfu Cup 2021<a href="https://thehackernews.com/2021/10/windows-10-linux-ios-chrome-and-many.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 10, iOS 15, Google Chrome, Apple Safari, Microsoft Exchange Server, and Ubuntu 20 were successfully broken into using original, never-before-seen exploits at the Tianfu Cup 2021, the fourth edition of the international cybersecurity contest held in the city of Chengdu, China.  Targets this year&nbsp; included &nbsp;Google Chrome running on Windows 10 21H1, Apple Safari running on Macbook Pro, Adobe PDF Reader, Docker CE, Ubuntu 20/CentOS 8, Microsoft Exchange Server 2019, Windows 10, VMware Workstation, VMware ESXi, Parallels Desktop, iPhone 13 Pro running iOS 15, domestic mobile phones running Android, QEMU VM, Synology DS220j DiskStation, and ASUS RT-AX56U router.   The Chinese version of Pwn2Own was&nbsp; started &nbsp;in 2018 in the wake of government regulation in the country that barred security researchers from participating in international hacking competitions because of national security concerns.   With the exception of Synology DS220j NAS, Xiaomi Mi 11 smartphone, and an unnamed Chine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

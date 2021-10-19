@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid Using Wildcard TLS Certificates, Warns NSA<a href="https://cyware.com/news/avoid-using-wildcard-tls-certificates-warns-nsa-4216fa34"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA clued in organizations against the use of wildcard TLS certificates that may lead to a widespread attack on an organization, as well as invite the new ALPACA TLS attack.  According to researchers, around 119,000 web servers are still exposed to the new ALPACA attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

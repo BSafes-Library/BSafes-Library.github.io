@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies say agriculture groups being targeted by BlackMatter ransomware<a href="https://thehill.com//policy/cybersecurity/577266-agencies-say-agriculture-groups-being-targeted-by-blackmatter-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of federal agencies on Monday sounded the alarm about critical infrastructure groups,&nbsp;particularly agricultural organizations, being targeted by a prolific ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

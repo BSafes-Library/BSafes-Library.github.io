@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+October 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudSEK published a new report exploring ICSs and their security posture in light of recent cyberattacks against the industrial, utility, and manufacturing targets. The research focuses on ICSs available through the internet.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury FinCEN linked $5.2 billion in BTC transactions to ransomware payments<a href="https://securityaffairs.co/wordpress/123431/malware/fincen-ransomware-payments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) linked roughly $5.2 billion worth of Bitcoin transactions to ransomware. 
+
+
+
+The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has identified approximately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
