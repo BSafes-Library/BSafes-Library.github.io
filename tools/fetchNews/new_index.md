@@ -34,7 +34,461 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, NSA share defense tips for BlackMatter ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-nsa-share-defense-tips-for-blackmatter-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) published today an advisory with details about how the BlackMatter ransomware gang operates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attackers Used Math Symbols to Evade Detection<a href="https://cyware.com/news/how-attackers-used-math-symbols-to-evade-detection-f839abc0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported a phishing attempt targeted at Verizon that involves the use of mathematical symbols to bypass anti-phishing systems to acquire users’ Office 365 credentials. The spoofed messages pretend to be a voicemail notification with an embedded Play button. The recent campaign reflects how  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agencies say agriculture groups being targeted by BlackMatter ransomware<a href="https://thehill.com//policy/cybersecurity/577266-agencies-say-agriculture-groups-being-targeted-by-blackmatter-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trio of federal agencies on Monday sounded the alarm about critical infrastructure groups, particularly agricultural organizations, being targeted by a prolific ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Database Patching Best Practice Just Doesn't Work and How to Fix It<a href="https://thehackernews.com/2021/10/why-database-patching-best-practice.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patching really, really matters – patching is what keeps technology solutions from becoming like big blocks of Swiss cheese, with endless security vulnerabilities punching hole after hole into critical solutions.  But anyone who's spent any amount of time maintaining systems will know that patching is often easier said than done.  Yes, in some instances, you can just run a command line to install that patch, and that's it. These instances are increasingly rare though – given the complexity of the technology environment, you're more likely faced with a complex process to achieve patching best practice.  In this article, we'll outline why database patching matters (yes, databases are vulnerable too!), explain what the problem is with patching databases, and point to a novel solution that takes the pain out of database patching.  Watch out – your database services are vulnerable too  We know that database services are critical – databases underpin IT operations in countle
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Deploys Malicious Docker Image On Docker Hub<a href="https://securityaffairs.co/wordpress/123535/cyber-crime/teamtnt-docker-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs Threat Research Team spotted a campaign in which the TeamTNT threat actors deployed a malicious container image on Docker hub.
+
+
+
+The Uptycs Threat Research Team recently identified a campaign in which the TeamTNT threat actors deployed a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: Could the Zoho Flaw Trigger SolarWinds 2.0?<a href="https://threatpost.com/podcast-zoho-solarwinds/175553/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are worried that the highly privileged password app could let attackers deep inside an enterprise’s footprint, says Redscan’s George Glass.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-backed hackers breach telcos with custom malware<a href="https://www.bleepingcomputer.com/news/security/state-backed-hackers-breach-telcos-with-custom-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown state-sponsored actor is deploying a novel toolset in attacks targeting telecommunication providers and IT firms in South Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Actors Use MysterySnail RAT to Exploit Windows Zero-day<a href="https://cyware.com/news/chinese-actors-use-mysterysnail-rat-to-exploit-windows-zero-day-30833e79"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky unearthed a cyberespionage campaign exploiting a zero-day flaw in Windows to deliver MysterySnail malware and steal data. A connection to a Chinese-speaking APT was also established. Experts recommend organizations stay proactive and ready with adequate security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair Broadcast Group hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/577203-sinclair-broadcast-group-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sinclair Broadcast Group, one of the nation’s largest television station operators, announced Monday that it had been hit by a ransomware attack over the weekend that resulted in data theft and network disruption.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30 Countries Pledge to Fight Ransomware Attacks in US-led Global Meeting<a href="https://thehackernews.com/2021/10/over-30-countries-pledge-to-fight.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Representatives from the U.S., the European Union, and 30 other countries pledged to mitigate the risk of ransomware and harden the financial system from exploitation with the goal of disrupting the ecosystem, calling it an "escalating global security threat with serious economic and security consequences."   "From malign operations against local health providers that endanger patient care, to those directed at businesses that limit their ability to provide fuel, groceries, or other goods to the public, ransomware poses a significant risk to critical infrastructure, essential services, public safety, consumer protection and privacy, and economic prosperity," officials  said  in a statement released last week.   To that end, efforts are expected to be made to enhance network resilience by adopting cyber hygiene good practices, such as using strong passwords, securing accounts with multi-factor authentication, maintaining periodic offline data backups, keeping softwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometheus endpoint unprotected installs could expose sensitive data<a href="https://securityaffairs.co/wordpress/123529/hacking/prometheus-endpoint-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered several unprotected installs of open source event monitoring solution Prometheus that may expose sensitive data.
+
+
+
+JFrog researchers have discovered multiple unprotected instances of open source event monitoring solution Prometheus...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Chinese hackers behind attacks on ten Israeli hospitals<a href="https://www.bleepingcomputer.com/news/security/suspected-chinese-hackers-behind-attacks-on-ten-israeli-hospitals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint announcement from the Ministry of Health and the National Cyber Directorate in Israel describes a spike in ransomware attacks over the weekend that targeted the systems of nine health institutes in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and Israeli Defense Tech Firms Targeted by Iranian Actors<a href="https://cyware.com/news/us-and-israeli-defense-tech-firms-targeted-by-iranian-actors-b6ac4dcc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked hackers were found conducting extensive password spraying attacks against Office 365 accounts of defense technology and global maritime firms in the U.S. and Israel. The group attempts to gain access to commercial satellite imagery and proprietary shipping plans/logs.  Microsoft notifie ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair TV stations downtime allegedly caused by a ransomware attack<a href="https://securityaffairs.co/wordpress/123517/cyber-crime/sinclair-tv-stations-downtime-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack is likely the cause of the recent downtime for TV stations owned by the Sinclair Broadcast Group broadcast television company.
+
+
+
+TV stations owned by the Sinclair Broadcast Group went down over the weekend officially due to technical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft asks admins to patch PowerShell to fix WDAC bypass<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-admins-to-patch-powershell-to-fix-wdac-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has asked system administrators to patch PowerShell 7 against two vulnerabilities allowing attackers to bypass Windows Defender Application Control (WDAC) enforcements and gain access to plain text credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ecuador’s Banco Pichincha has yet to recover after recent cyberattack<a href="https://securityaffairs.co/wordpress/123465/cyber-crime/ecuadors-banco-pichincha-cyberattack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bank issued a statement on Monday to inform customers about the cyberattack, it also added to have “identified a cybersecurity incident in our systems that has partially disabled our services.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware operation shuts down once again<a href="https://securityaffairs.co/wordpress/123504/cyber-crime/revil-ransomware-shuts-down-once-again.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It seems that the REvil ransomware operation has shut down once again after a threat actor has hijacked their Tor hidden service.
+
+
+
+The REvil ransomware gang has shut down its operation once again after a threat actor has hijacked their Tor leak site...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit card PINs can be guessed even when covering the ATM pad<a href="https://www.bleepingcomputer.com/news/security/credit-card-pins-can-be-guessed-even-when-covering-the-atm-pad/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have proven it's possible to train a special-purpose deep-learning algorithm that can guess 4-digit card PINs 41% of the time, even if the victim is covering the pad with their hands. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in malware create ‘backdoors’ for security researchers<a href="https://portswigger.net/daily-swig/bugs-in-malware-create-backdoors-for-security-researchers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research from cloud security firm Zscaler, presented at the recent VB2021 conference, exploits bugs and coding errors in malware code to thwart infections by botnets, ransomware, and trojans.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted an Ad-Blocking Chrome extension injecting malicious ads<a href="https://securityaffairs.co/wordpress/123488/cyber-crime/ad-blocking-chrome-extension-allblock.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of an Ad-Blocking Chrome extension that was abused by threat actors to Injecting Ads in Google search pages.
+
+
+
+Researchers from Imperva have spotted a new deceptive ad injection campaign that is targeting users of some large websites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair TV stations crippled by weekend ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sinclair-tv-stations-crippled-by-weekend-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TV stations owned by the Sinclair Broadcast Group broadcast television company went down over the weekend across the US, with multiple sources telling BleepingComputer the downtime was caused by a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password Auditing Tool L0phtCrack Released as Open Source<a href="https://www.securityweek.com/password-auditing-tool-l0phtcrack-released-open-source?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First released in 1997, the L0phtCrack tool can be used to test password strength and recover lost Windows passwords via dictionary, brute-force, and other types of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Accenture Confirms Data Stolen in Ransomware Attack<a href="https://www.securityweek.com/accenture-confirms-data-stolen-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a Form 10-K filing with the Securities and Exchange Commission (SEC) last week, the company confirmed that the attackers were able to steal some proprietary information from its servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was only last month that the Port of Houston fended off a cyberattack and there is no reason to believe cyberattacks on OT systems won't continue -- or, perhaps, become more common.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang Goes Underground After Tor Sites Were Compromised<a href="https://thehackernews.com/2021/10/revil-ransomware-gang-goes-underground.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil, the notorious ransomware gang behind a string of cyberattacks in recent years, appears to have gone off the radar once again, a little over a month after the cybercrime group staged a surprise return following a two-month-long hiatus.  The development, first  spotted  by Recorded Future's  Dmitry Smilyanets , comes after a member affiliated with the REvil operation posted on the XSS hacking forum that unidentified actors had taken control of the gang's Tor payment portal and data leak website.   "The server was compromised and they were looking for me. To be precise, they deleted the path to my hidden service in the  torrc file  and raised their own so that I would (sic) go there. I checked on others - this was not. Good luck everyone, I'm off," user 0_neday said in the post.  As of writing, it isn't clear exactly who was behind the compromise of REvil's servers, although it wouldn't be entirely surprising if law enforcement agencies played a r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Your Data Safe? Check Out Some Cybersecurity Master Classes<a href="https://thehackernews.com/2021/10/is-your-data-safe-check-out-some.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since cybersecurity is definitely an issue that's here to stay, I've just checked out the recently released first episodes of Cato Networks  Cybersecurity Master Class Series .   According to Cato, the series aims to teach and demonstrate cybersecurity tools and best practices; provide research and real-world case studies on cybersecurity; and bring the voices and opinions of top cybersecurity thought-leaders. Designed for security and IT professionals, C-level managers and security experts, each session contains both theory and hands-on examples about strategic, tactical, and operational issues on a wide range of topics.   The classes are hosted by industry-recognized cybersecurity researcher and keynote speaker, Etay Maor, who is also Senior Director of Security Strategy at Cato. Four out of the planned annual 8-10 episodes are currently available online.    Episode 1 , entitled  How (and Why) to Apply OSINT to Protect your Enterprise  takes an in-depth look at our era of data proli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10, Linux, iOS, Chrome and Many Others at Hacked Tianfu Cup 2021<a href="https://thehackernews.com/2021/10/windows-10-linux-ios-chrome-and-many.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 10, iOS 15, Google Chrome, Apple Safari, Microsoft Exchange Server, and Ubuntu 20 were successfully broken into using original, never-before-seen exploits at the Tianfu Cup 2021, the fourth edition of the international cybersecurity contest held in the city of Chengdu, China.  Targets this year  included  Google Chrome running on Windows 10 21H1, Apple Safari running on Macbook Pro, Adobe PDF Reader, Docker CE, Ubuntu 20/CentOS 8, Microsoft Exchange Server 2019, Windows 10, VMware Workstation, VMware ESXi, Parallels Desktop, iPhone 13 Pro running iOS 15, domestic mobile phones running Android, QEMU VM, Synology DS220j DiskStation, and ASUS RT-AX56U router.   The Chinese version of Pwn2Own was  started  in 2018 in the wake of government regulation in the country that barred security researchers from participating in international hacking competitions because of national security concerns.   With the exception of Synology DS220j NAS, Xiaomi Mi 11 smartphone, and an unnamed Chine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware shuts down again after Tor sites were hijacked<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-shuts-down-again-after-tor-sites-were-hijacked/"> Full Text</a>
@@ -50,7 +504,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avoid Using Wildcard TLS Certificates, Warns NSA<a href="https://cyware.com/news/avoid-using-wildcard-tls-certificates-warns-nsa-4216fa34"> Full Text</a>
@@ -66,7 +520,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts hacked a fully patched iOS 15 running on iPhone 13 at China’s Tianfu Cup hacking contest<a href="https://securityaffairs.co/wordpress/123476/hacking/tianfu-cup-2021-hacking-contest.html"> Full Text</a>
@@ -86,7 +540,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Android Apps Steal Credentials from Japanese Telecom Users<a href="https://cyware.com/news/fake-android-apps-steal-credentials-from-japanese-telecom-users-32bd652c"> Full Text</a>
@@ -102,7 +556,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitch security breach had minimal impact, the company states<a href="https://securityaffairs.co/wordpress/123472/data-breach/twitch-security-breach-uodate.html"> Full Text</a>
@@ -122,7 +576,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot’s FIN12 is Claiming Victims at Higher Rate<a href="https://cyware.com/news/trickbots-fin12-is-claiming-victims-at-higher-rate-438ed65c"> Full Text</a>
@@ -139,7 +593,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ecuador’s Banco Pichincha has yet to recover after recent cyberattack<a href="https://securityaffairs.co/wordpress/123465/cyber-crime/ecuadors-banco-pichincha-cyberattack.html"> Full Text</a>
@@ -159,7 +613,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $5.2 billion in BTC transactions tied to top 10 ransomware variants: US Treasury<a href="https://www.zdnet.com/article/5-2-billion-in-btc-transactions-tied-to-top-10-ransomware-variants-us-treasury/?&web_view=true"> Full Text</a>
@@ -175,7 +629,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot spreads malware through new distribution channels<a href="https://securityaffairs.co/wordpress/123455/cyber-crime/trickbot-expands-distribution-channels.html"> Full Text</a>
@@ -195,7 +649,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/?&web_view=true"> Full Text</a>
@@ -211,7 +665,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked TA505 targets financial institutions in a new malspam campaign<a href="https://securityaffairs.co/wordpress/123441/breaking-news/ta505-mirrorblast-malspam-campaign.html"> Full Text</a>
@@ -231,7 +685,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose New Side-Channel Attacks Affecting All AMD CPUs<a href="https://www.securityweek.com/researchers-disclose-new-side-channel-attacks-affecting-all-amd-cpus?&web_view=true"> Full Text</a>
@@ -247,7 +701,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Treasury FinCEN linked $5.2 billion in BTC transactions to ransomware payments<a href="https://securityaffairs.co/wordpress/123431/malware/fincen-ransomware-payments.html"> Full Text</a>
@@ -267,7 +721,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amazon-owned Twitch says source code exposed in last week's data breach<a href="https://www.reuters.com/article/twitch-cyber/amazon-owned-twitch-says-source-code-exposed-in-last-weeks-data-breach-idUSKBN2H51QQ?&web_view=true"> Full Text</a>
@@ -283,7 +737,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2021
+October 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks Patches Over 70 Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-over-70-vulnerabilities?&web_view=true"> Full Text</a>
