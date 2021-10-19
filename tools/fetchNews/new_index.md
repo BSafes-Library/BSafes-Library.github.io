@@ -34,6 +34,454 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium wants zero-day exploits for Windows VPN clients<a href="https://www.bleepingcomputer.com/news/security/zerodium-wants-zero-day-exploits-for-windows-vpn-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a short tweet today, exploit broker Zerodium said that it is looking to acquire zero-day exploits for vulnerabilities in three popular virtual private network (VPN) service providers on the market.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleFox Adds New Vulnerability Exploit, Rootkit Capabilities, and .NET Backdoor<a href="https://www.trendmicro.com/en_us/research/21/j/purplefox-adds-new-backdoor-that-uses-websockets.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new backdoor leverages WebSockets to communicate with its command-and-control (C&C) servers, resulting in a more robust and secure means of communication compared to regular HTTP traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Potential Chinese hackers targeting telecommunications companies<a href="https://thehill.com//policy/cybersecurity/577440-potential-chinese-hackers-targeting-telecommunications-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers potentially linked to China are continuously targeting the telecommunications sector, a report released Tuesday by cybersecurity company CrowdStrike found. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Squirrel Engine Bug Could Let Attackers Hack Games and Cloud Services<a href="https://thehackernews.com/2021/10/squirrel-engine-bug-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed an out-of-bounds read vulnerability in the Squirrel programming language that can be abused by attackers to break out of the sandbox restrictions and execute arbitrary code within a SquirrelVM, thus giving a malicious actor complete access to the underlying machine.   Tracked as CVE-2021-41556 , the issue occurs when a game library referred to as Squirrel Engine  is used to execute untrusted code and affects stable release branches 3.x and 2.x of Squirrel. The vulnerability was responsibly disclosed on August 10, 2021.   Squirrel  is an open-source, object-oriented programming language that's used for scripting video games and as well as in IoT devices and distributed transaction processing platforms such as Enduro/X.  "In a real-world scenario, an attacker could embed a malicious Squirrel script into a community map and distribute it via the trusted Steam Workshop," researchers Simon Scannell and Niklas Breitfeld said  in a report shared with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found many similarities between the new Karma Ransomware and Nemty variants<a href="https://securityaffairs.co/wordpress/123568/malware/karma-ransomware-nemty-similarities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sentinel Labs experts have analyzed the new Karma ransomware and speculate it represents an evolution of the Nemty ransomware operation.
+
+
+
+Karma ransomware is a new threat that was first spotted in June of 2021, it is important to distinguish it from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Squirrel Bug Lets Attackers Execute Code in Games, Cloud Services<a href="https://threatpost.com/squirrel-attackers-execute-code-games-cloud-services/175586/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The out-of-bounds read vulnerability enables an attacker to escape a Squirrel VM in games with millions of monthly players – such as Counter-Strike: Global Offensive and Portal 2 – and in cloud services such as Twilio Electric Imp.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave ditches Google for its own privacy-centric search engine<a href="https://www.bleepingcomputer.com/news/software/brave-ditches-google-for-its-own-privacy-centric-search-engine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brave Browser has replaced Google with its own no-tracking privacy-centric Brave Search as the default search engine for new users in five regions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SASE Firm Cato Networks Raises $200 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/sase-firm-cato-networks-raises-200-million-25-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round was led by Lightspeed Venture Partners, with participation from Greylock, Aspect Ventures / Acrew Capital, Coatue, Singtel Innov8, and Shlomo Kramer.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keeping the world's focus on cyber<a href="https://thehill.com//policy/cybersecurity/577309-keeping-the-worlds-focus-on-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Christopher Painter, a former coordinator for cyber issues at the State Department under both the Obama and Trump administrations, says greater international engagement is required to face down malicious nations and cybercriminals alike.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Variant of FlawedGrace Spreading Through Mass Email Campaigns<a href="https://thehackernews.com/2021/10/a-new-variant-of-flawedgrace-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday took the wraps off a mass volume email attack staged by a prolific cybercriminal gang affecting a wide range of industries, with one of its region-specific operations notably targeting Germany and Austria.  Enterprise security firm Proofpoint  tied the malware campaign with high confidence to  TA505 , which is the name assigned to the financially motivated threat group that's been active in the cybercrime business since at least 2014, and is behind the infamous Dridex banking trojan and other arsenals of malicious tools such as FlawedAmmyy, FlawedGrace, Neutrino botnet, and Locky ransomware, among others.  The attacks are said to have started as a series of low-volume email waves, delivering only several thousand messages in each phase, before ramping up in late September and as recently as October 13, resulting in tens to hundreds of thousands of emails.   "Many of the campaigns, especially the large volume ones, strongly resemble the his
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Symantec uncovered a previously unknown nation-state actor, named Harvester, that targeted telcos<a href="https://securityaffairs.co/wordpress/123559/apt/harvester-targets-telcos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec spotted a previously unknown nation-state actor, tracked as Harvester, that is targeting telecommunication providers and IT firms in South Asia.
+
+
+
+Symantec spotted a previously unknown nation-state actor, tracked as Harvester, that is using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Guide to Doing Cyberintelligence on a Restricted Budget<a href="https://threatpost.com/guide-cyberintelligence-restricted-budget/175574/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity budget cuts are everywhere. Chad Anderson, senior security researcher at DomainTools, discusses alternatives to fancy tooling, and good human skills alignment.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer hacked twice in a week by the same threat actor<a href="https://www.bleepingcomputer.com/news/security/acer-hacked-twice-in-a-week-by-the-same-threat-actor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acer has suffered a second cyberattack in just a week by the same hacking group that says other regions are vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis: Top Ransomware Gangs Targeting Healthcare Sector<a href="https://www.govinfosecurity.com/analysis-top-ransomware-gangs-targeting-healthcare-sector-a-17755?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are continuing to threaten the U.S. and global healthcare sectors, in part due to many entities' high dependency on legacy systems and lack of security resources, according to HC3.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, NSA published a joint advisory on BlackMatter ransomware operations<a href="https://securityaffairs.co/wordpress/123549/cyber-crime/blackmatter-ransomware-joint-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI, CISA, NSA have published a joint advisory about the operation of the BlackMatter ransomware gang and provides defense recommendations.  
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+About 26% of all malicious JavaScript threats are obfuscated<a href="https://www.bleepingcomputer.com/news/security/about-26-percent-of-all-malicious-javascript-threats-are-obfuscated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A research that analyzed over 10,000 samples of diverse malicious software written in JavaScript concluded that roughly 26% of it is obfuscated to evade detection and analysis. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On Track for Fifth Record Year in a Row for Vulnerabilities<a href="https://www.k2io.com/on-track-for-fifth-record-year-in-a-row-for-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With 15,080 vulnerabilities (2,957 high, 9,737 medium and 2,386 low) recorded as of October 14, 2021, we’re on track to marking a fifth record year of vulnerabilities discovered in production code.
+</details>
+<div style="text-align: right" markdown="1">
+k2io
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trustwave released a free decryptor for the BlackByte ransomware<a href="https://securityaffairs.co/wordpress/123541/malware/blackbyte-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave’s SpiderLabs researchers have released a free decryptor for the BlackByte ransomware that can allow victims to recover their files. 
+
+
+
+Researchers from Trustwave’s SpiderLabs have released a decryptor that can allow victims of the BlackByte...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware decryptor released to recover files for free<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-decryptor-released-to-recover-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free decryptor for the BlackByte ransomware has been released, allowing past victims to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LightBasin hacking group breaches 13 global telecoms in two years<a href="https://www.bleepingcomputer.com/news/security/lightbasin-hacking-group-breaches-13-global-telecoms-in-two-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers that security researchers call LightBasin has been compromising mobile telecommunication systems across the world for the past five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man gets 7 years in prison for hacking 65K health care employees<a href="https://www.bleepingcomputer.com/news/security/man-gets-7-years-in-prison-for-hacking-65k-health-care-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Sean Johnson, also known as TheDearthStar and Dearthy Star, was sentenced this week to seven years in prison for the 2014 hack of the health care provider and insurer University of Pittsburgh Medical Center (UPMC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fake govt sites used to steal financial, personal data<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-govt-sites-used-to-steal-financial-personal-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned the US public that threat actors actively use fake and spoofed unemployment benefit websites to harvest sensitive financial and personal information from unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Karma ransomware group likely a Nemty rebrand<a href="https://www.bleepingcomputer.com/news/security/new-karma-ransomware-group-likely-a-nemty-rebrand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts at Sentinel Labs have found evidence of the Karma ransomware being just another evolutionary step in the strain that started as JSWorm, became Nemty, then Nefilim, Fusion, Milihpen, and most recently, Gangbang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft issues advisory for Surface Pro 3 TPM bypass vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-issues-advisory-for-surface-pro-3-tpm-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published an advisory regarding a security feature bypass vulnerability impacting Surface Pro 3 tablets which could allow threat actors to introduce malicious devices within enterprise environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Experts Warn of a Rise in Lyceum Hacker Group Activities in Tunisia<a href="https://thehackernews.com/2021/10/cybersecurity-experts-warn-of-rise-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor, previously known for striking organizations in the energy and telecommunications sectors across the Middle East as early as April 2018, has evolved its malware arsenal to strike two entities in Tunisia.  Security researchers at Kaspersky, who presented their findings at the VirusBulletin VB2021 conference earlier this month, attributed the attacks to a group tracked as  Lyceum  (aka Hexane), which was first  publicly documented  in 2019 by Secureworks.   "The victims we observed were all high-profile Tunisian organizations, such as telecommunications or aviation companies," researchers Aseel Kayal, Mark Lechtik, and Paul Rascagneres  detailed . "Based on the targeted industries, we assume that the attackers might have been interested in compromising such entities to track the movements and communications of individuals of interest to them."  Analysis of the threat actor's toolset has shown that the attacks have shifted from leveraging a combinat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time to Build Accountability Back into Cybersecurity<a href="https://threatpost.com/accountability-cybersecurity/175571/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chris Hass, director of information security and research at Automox, discusses how to assign security responsibility, punishment for poor cyber-hygiene and IDing ‘security champions’ to help small businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair Confirms Ransomware Attack That Disrupted TV Stations<a href="https://threatpost.com/sinclair-ransomware-tv-stations/175548/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major cyberattack resulted in data being stolen, too, but Sinclair’s not sure which information is now in the hands of the crooks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
