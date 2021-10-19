@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI, CISA, NSA share defense tips for BlackMatter ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-cisa-nsa-share-defense-tips-for-blackmatter-ransomware-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Attackers Used Math Symbols to Evade Detection<a href="https://cyware.com/news/how-attackers-used-math-symbols-to-evade-detection-f839abc0"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agencies say agriculture groups being targeted by BlackMatter ransomware<a href="https://thehill.com//policy/cybersecurity/577266-agencies-say-agriculture-groups-being-targeted-by-blackmatter-ransomware"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Database Patching Best Practice Just Doesn't Work and How to Fix It<a href="https://thehackernews.com/2021/10/why-database-patching-best-practice.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Deploys Malicious Docker Image On Docker Hub<a href="https://securityaffairs.co/wordpress/123535/cyber-crime/teamtnt-docker-attack.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Podcast: Could the Zoho Flaw Trigger SolarWinds 2.0?<a href="https://threatpost.com/podcast-zoho-solarwinds/175553/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-backed hackers breach telcos with custom malware<a href="https://www.bleepingcomputer.com/news/security/state-backed-hackers-breach-telcos-with-custom-malware/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Actors Use MysterySnail RAT to Exploit Windows Zero-day<a href="https://cyware.com/news/chinese-actors-use-mysterysnail-rat-to-exploit-windows-zero-day-30833e79"> Full Text</a>
@@ -167,7 +167,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sinclair Broadcast Group hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/577203-sinclair-broadcast-group-hit-by-ransomware-attack"> Full Text</a>
@@ -183,7 +183,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 30 Countries Pledge to Fight Ransomware Attacks in US-led Global Meeting<a href="https://thehackernews.com/2021/10/over-30-countries-pledge-to-fight.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prometheus endpoint unprotected installs could expose sensitive data<a href="https://securityaffairs.co/wordpress/123529/hacking/prometheus-endpoint-data-leak.html"> Full Text</a>
@@ -219,7 +219,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Chinese hackers behind attacks on ten Israeli hospitals<a href="https://www.bleepingcomputer.com/news/security/suspected-chinese-hackers-behind-attacks-on-ten-israeli-hospitals/"> Full Text</a>
@@ -235,7 +235,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. and Israeli Defense Tech Firms Targeted by Iranian Actors<a href="https://cyware.com/news/us-and-israeli-defense-tech-firms-targeted-by-iranian-actors-b6ac4dcc"> Full Text</a>
@@ -252,7 +252,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sinclair TV stations downtime allegedly caused by a ransomware attack<a href="https://securityaffairs.co/wordpress/123517/cyber-crime/sinclair-tv-stations-downtime-ransomware.html"> Full Text</a>
@@ -272,7 +272,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft asks admins to patch PowerShell to fix WDAC bypass<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-admins-to-patch-powershell-to-fix-wdac-bypass/"> Full Text</a>
@@ -288,7 +288,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ecuador’s Banco Pichincha has yet to recover after recent cyberattack<a href="https://securityaffairs.co/wordpress/123465/cyber-crime/ecuadors-banco-pichincha-cyberattack.html?&web_view=true"> Full Text</a>
@@ -304,7 +304,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware operation shuts down once again<a href="https://securityaffairs.co/wordpress/123504/cyber-crime/revil-ransomware-shuts-down-once-again.html"> Full Text</a>
@@ -324,7 +324,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credit card PINs can be guessed even when covering the ATM pad<a href="https://www.bleepingcomputer.com/news/security/credit-card-pins-can-be-guessed-even-when-covering-the-atm-pad/"> Full Text</a>
@@ -340,7 +340,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in malware create ‘backdoors’ for security researchers<a href="https://portswigger.net/daily-swig/bugs-in-malware-create-backdoors-for-security-researchers?&web_view=true"> Full Text</a>
@@ -356,7 +356,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted an Ad-Blocking Chrome extension injecting malicious ads<a href="https://securityaffairs.co/wordpress/123488/cyber-crime/ad-blocking-chrome-extension-allblock.html"> Full Text</a>
@@ -376,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sinclair TV stations crippled by weekend ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sinclair-tv-stations-crippled-by-weekend-ransomware-attack/"> Full Text</a>
@@ -392,7 +392,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Password Auditing Tool L0phtCrack Released as Open Source<a href="https://www.securityweek.com/password-auditing-tool-l0phtcrack-released-open-source?&web_view=true"> Full Text</a>
@@ -408,7 +408,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Accenture Confirms Data Stolen in Ransomware Attack<a href="https://www.securityweek.com/accenture-confirms-data-stolen-ransomware-attack?&web_view=true"> Full Text</a>
@@ -424,7 +424,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2021
+October 18, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Gang Goes Underground After Tor Sites Were Compromised<a href="https://thehackernews.com/2021/10/revil-ransomware-gang-goes-underground.html"> Full Text</a>
@@ -456,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Your Data Safe? Check Out Some Cybersecurity Master Classes<a href="https://thehackernews.com/2021/10/is-your-data-safe-check-out-some.html"> Full Text</a>
@@ -472,7 +472,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2021
+October 17, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10, Linux, iOS, Chrome and Many Others at Hacked Tianfu Cup 2021<a href="https://thehackernews.com/2021/10/windows-10-linux-ios-chrome-and-many.html"> Full Text</a>

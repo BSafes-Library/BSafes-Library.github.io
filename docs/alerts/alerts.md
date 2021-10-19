@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2021 - CISA, FBI, NSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-291a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since July 2021, BlackMatter ransomware has targeted multiple U.S. critical infrastructure entities, including two U.S. Food and Agriculture Sector organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2021 - FBI, CISA, EPA, NSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Cyber Threats to U.S. Water and Wastewater Systems <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-287a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This activity—which includes attempts to compromise system integrity via unauthorized access—threatens the ability of WWS facilities to provide clean, potable water to, and effectively manage the wastewater of, their communities. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 7, 2021 - NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
