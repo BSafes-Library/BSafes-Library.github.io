@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Database Patching Best Practice Just Doesn't Work and How to Fix It<a href="https://thehackernews.com/2021/10/why-database-patching-best-practice.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patching really, really matters – patching is what keeps technology solutions from becoming like big blocks of Swiss cheese, with endless security vulnerabilities punching hole after hole into critical solutions.  But anyone who's spent any amount of time maintaining systems will know that patching is often easier said than done.  Yes, in some instances, you can just run a command line to install that patch, and that's it. These instances are increasingly rare though – given the complexity of the technology environment, you're more likely faced with a complex process to achieve patching best practice.  In this article, we'll outline why database patching matters (yes, databases are vulnerable too!), explain what the problem is with patching databases, and point to a novel solution that takes the pain out of database patching.  Watch out – your database services are vulnerable too  We know that database services are critical – databases underpin IT operations in countle
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Your Data Safe? Check Out Some Cybersecurity Master Classes<a href="https://thehackernews.com/2021/10/is-your-data-safe-check-out-some.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since cybersecurity is definitely an issue that's here to stay, I've just checked out the recently released first episodes of Cato Networks&nbsp; Cybersecurity Master Class Series .&nbsp;  According to Cato, the series aims to teach and demonstrate cybersecurity tools and best practices; provide research and real-world case studies on cybersecurity; and bring the voices and opinions of top cybersecurity thought-leaders. Designed for security and IT professionals, C-level managers and security experts, each session contains both theory and hands-on examples about strategic, tactical, and operational issues on a wide range of topics.&nbsp;  The classes are hosted by industry-recognized cybersecurity researcher and keynote speaker, Etay Maor, who is also Senior Director of Security Strategy at Cato. Four out of the planned annual 8-10 episodes are currently available online.&nbsp;   Episode 1 , entitled&nbsp; How (and Why) to Apply OSINT to Protect your Enterprise &nbsp;takes an in-depth look at our era of data proli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

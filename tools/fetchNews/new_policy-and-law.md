@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man gets 7 years in prison for hacking 65K health care employees<a href="https://www.bleepingcomputer.com/news/security/man-gets-7-years-in-prison-for-hacking-65k-health-care-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justin Sean Johnson, also known as&nbsp;TheDearthStar and Dearthy Star, was sentenced this week to seven years in prison for the&nbsp;2014 hack of&nbsp;the&nbsp;health care provider and insurer University of Pittsburgh Medical Center (UPMC).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

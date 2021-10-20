@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis: Top Ransomware Gangs Targeting Healthcare Sector<a href="https://www.govinfosecurity.com/analysis-top-ransomware-gangs-targeting-healthcare-sector-a-17755?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are continuing to threaten the U.S. and global healthcare sectors, in part due to many entities' high dependency on legacy systems and lack of security resources, according to HC3.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LightBasin hacking group breaches 13 global telecoms in two years<a href="https://www.bleepingcomputer.com/news/security/lightbasin-hacking-group-breaches-13-global-telecoms-in-two-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hackers that security researchers call LightBasin has been compromising mobile telecommunication systems across the world for the past five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Karma ransomware group likely a Nemty rebrand<a href="https://www.bleepingcomputer.com/news/security/new-karma-ransomware-group-likely-a-nemty-rebrand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts at Sentinel Labs have found evidence of the Karma ransomware being just another evolutionary step in the strain that started as JSWorm, became Nemty, then Nefilim, Fusion, Milihpen, and most recently, Gangbang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware operation shuts down once again<a href="https://securityaffairs.co/wordpress/123504/cyber-crime/revil-ransomware-shuts-down-once-again.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It seems that the REvil ransomware operation has shut down once again after a threat actor has hijacked their Tor hidden service.
+
+
+
+The REvil ransomware gang has shut down its operation once again after a threat actor has hijacked their Tor leak site...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Gang Goes Underground After Tor Sites Were Compromised<a href="https://thehackernews.com/2021/10/revil-ransomware-gang-goes-underground.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+REvil, the notorious ransomware gang behind a string of cyberattacks in recent years, appears to have gone off the radar once again, a little over a month after the cybercrime group staged a surprise return following a two-month-long hiatus.  The development, first&nbsp; spotted &nbsp;by Recorded Future's&nbsp; Dmitry Smilyanets , comes after a member affiliated with the REvil operation posted on the XSS hacking forum that unidentified actors had taken control of the gang's Tor payment portal and data leak website.   "The server was compromised and they were looking for me. To be precise, they deleted the path to my hidden service in the&nbsp; torrc file &nbsp;and raised their own so that I would (sic) go there. I checked on others - this was not. Good luck everyone, I'm off," user 0_neday said in the post.  As of writing, it isn't clear exactly who was behind the compromise of REvil's servers, although it wouldn't be entirely surprising if law enforcement agencies played a r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

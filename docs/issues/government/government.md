@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, NSA published a joint advisory on BlackMatter ransomware operations<a href="https://securityaffairs.co/wordpress/123549/cyber-crime/blackmatter-ransomware-joint-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI, CISA, NSA have published a joint advisory about the operation of the BlackMatter ransomware gang and provides defense recommendations.  
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA),&nbsp;the Federal Bureau of Investigation (FBI),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fake govt sites used to steal financial, personal data<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-govt-sites-used-to-steal-financial-personal-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned the US public that threat actors actively use fake and spoofed unemployment benefit websites to harvest sensitive financial and personal information from unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,68 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attackers Used Math Symbols to Evade Detection<a href="https://cyware.com/news/how-attackers-used-math-symbols-to-evade-detection-f839abc0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported a phishing attempt targeted at Verizon that involves the use of mathematical symbols to bypass anti-phishing systems to acquire users’ Office 365 credentials. The spoofed messages pretend to be a voicemail notification with an embedded Play button. The recent campaign reflects how  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Deploys Malicious Docker Image On Docker Hub<a href="https://securityaffairs.co/wordpress/123535/cyber-crime/teamtnt-docker-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs Threat Research Team spotted a campaign in which the TeamTNT threat actors deployed a malicious container image on Docker hub.
+
+
+
+The Uptycs Threat Research Team recently identified a campaign in which the TeamTNT threat actors deployed a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Actors Use MysterySnail RAT to Exploit Windows Zero-day<a href="https://cyware.com/news/chinese-actors-use-mysterysnail-rat-to-exploit-windows-zero-day-30833e79"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky unearthed a cyberespionage campaign exploiting a zero-day flaw in Windows to deliver MysterySnail malware and steal data. A connection to a Chinese-speaking APT was also established. Experts recommend organizations stay proactive and ready with adequate security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and Israeli Defense Tech Firms Targeted by Iranian Actors<a href="https://cyware.com/news/us-and-israeli-defense-tech-firms-targeted-by-iranian-actors-b6ac4dcc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked hackers were found conducting extensive password spraying attacks against Office 365 accounts of defense technology and global maritime firms in the U.S. and Israel. The group attempts to gain access to commercial satellite imagery and proprietary shipping plans/logs.  Microsoft notifie ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

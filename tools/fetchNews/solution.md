@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password Auditing Tool L0phtCrack Released as Open Source<a href="https://www.securityweek.com/password-auditing-tool-l0phtcrack-released-open-source?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First released in 1997, the L0phtCrack tool can be used to test password strength and recover lost Windows passwords via dictionary, brute-force, and other types of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

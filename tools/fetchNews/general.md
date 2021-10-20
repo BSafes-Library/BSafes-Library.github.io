@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Podcast: Could the Zoho Flaw Trigger SolarWinds 2.0?<a href="https://threatpost.com/podcast-zoho-solarwinds/175553/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are worried that the highly privileged password app could let attackers deep inside an enterprise’s footprint, says Redscan’s George Glass.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30 Countries Pledge to Fight Ransomware Attacks in US-led Global Meeting<a href="https://thehackernews.com/2021/10/over-30-countries-pledge-to-fight.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Representatives from the U.S., the European Union, and 30 other countries pledged to mitigate the risk of ransomware and harden the financial system from exploitation with the goal of disrupting the ecosystem, calling it an "escalating global security threat with serious economic and security consequences."&nbsp;  "From malign operations against local health providers that endanger patient care, to those directed at businesses that limit their ability to provide fuel, groceries, or other goods to the public, ransomware poses a significant risk to critical infrastructure, essential services, public safety, consumer protection and privacy, and economic prosperity," officials&nbsp; said &nbsp;in a statement released last week.   To that end, efforts are expected to be made to enhance network resilience by adopting cyber hygiene good practices, such as using strong passwords, securing accounts with multi-factor authentication, maintaining periodic offline data backups, keeping softwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical infrastructure security dubbed 'abysmal' by researchers<a href="https://www.zdnet.com/article/critical-infrastructure-security-dubbed-abysmal-by-researchers/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was only last month that the Port of Houston fended off a cyberattack and there is no reason to believe cyberattacks on OT systems won't continue -- or, perhaps, become more common.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

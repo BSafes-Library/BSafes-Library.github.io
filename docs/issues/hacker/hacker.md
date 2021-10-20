@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Potential Chinese hackers targeting telecommunications companies<a href="https://thehill.com//policy/cybersecurity/577440-potential-chinese-hackers-targeting-telecommunications-companies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers potentially linked to China are continuously targeting the telecommunications sector, a report released Tuesday by cybersecurity company CrowdStrike found.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Symantec uncovered a previously unknown nation-state actor, named Harvester, that targeted telcos<a href="https://securityaffairs.co/wordpress/123559/apt/harvester-targets-telcos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec spotted a previously unknown nation-state actor, tracked as Harvester, that is targeting telecommunication providers and IT firms in South Asia.
+
+
+
+Symantec spotted a previously unknown nation-state actor, tracked as Harvester, that is using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Experts Warn of a Rise in Lyceum Hacker Group Activities in Tunisia<a href="https://thehackernews.com/2021/10/cybersecurity-experts-warn-of-rise-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor, previously known for striking organizations in the energy and telecommunications sectors across the Middle East as early as April 2018, has evolved its malware arsenal to strike two entities in Tunisia.  Security researchers at Kaspersky, who presented their findings at the VirusBulletin VB2021 conference earlier this month, attributed the attacks to a group tracked as&nbsp; Lyceum &nbsp;(aka Hexane), which was first&nbsp; publicly documented &nbsp;in 2019 by Secureworks.   "The victims we observed were all high-profile Tunisian organizations, such as telecommunications or aviation companies," researchers Aseel Kayal, Mark Lechtik, and Paul Rascagneres&nbsp; detailed . "Based on the targeted industries, we assume that the attackers might have been interested in compromising such entities to track the movements and communications of individuals of interest to them."  Analysis of the threat actor's toolset has shown that the attacks have shifted from leveraging a combinat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

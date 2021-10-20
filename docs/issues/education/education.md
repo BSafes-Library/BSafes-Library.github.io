@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Guide to Doing Cyberintelligence on a Restricted Budget<a href="https://threatpost.com/guide-cyberintelligence-restricted-budget/175574/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity budget cuts are everywhere. Chad Anderson, senior security researcher at DomainTools, discusses alternatives to fancy tooling, and good human skills alignment.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time to Build Accountability Back into Cybersecurity<a href="https://threatpost.com/accountability-cybersecurity/175571/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chris Hass, director of information security and research at Automox, discusses how to assign security responsibility, punishment for poor cyber-hygiene and IDing ‘security champions’ to help small businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

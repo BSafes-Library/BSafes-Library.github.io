@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair TV stations downtime allegedly caused by a ransomware attack<a href="https://securityaffairs.co/wordpress/123517/cyber-crime/sinclair-tv-stations-downtime-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack is likely the cause of the recent downtime for TV stations owned by the Sinclair Broadcast Group broadcast television company.
+
+
+
+TV stations owned by the Sinclair Broadcast Group went down over the weekend officially due to technical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair TV stations crippled by weekend ransomware attack<a href="https://www.bleepingcomputer.com/news/security/sinclair-tv-stations-crippled-by-weekend-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TV stations owned by the Sinclair Broadcast Group broadcast television&nbsp;company went down over the weekend across the US, with multiple sources telling BleepingComputer the downtime was caused by a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

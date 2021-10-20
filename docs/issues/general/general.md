@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keeping the world's focus on cyber<a href="https://thehill.com//policy/cybersecurity/577309-keeping-the-worlds-focus-on-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Christopher Painter, a former coordinator for cyber issues at the State Department under both the Obama and Trump administrations, says greater international engagement is required to face down malicious nations and cybercriminals alike.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+About 26% of all malicious JavaScript threats are obfuscated<a href="https://www.bleepingcomputer.com/news/security/about-26-percent-of-all-malicious-javascript-threats-are-obfuscated/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A research that analyzed over 10,000 samples of diverse malicious software written in JavaScript concluded that roughly 26% of it is obfuscated to evade detection and analysis.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On Track for Fifth Record Year in a Row for Vulnerabilities<a href="https://www.k2io.com/on-track-for-fifth-record-year-in-a-row-for-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With 15,080 vulnerabilities (2,957 high, 9,737 medium and 2,386 low) recorded as of October 14, 2021, we’re on track to marking a fifth record year of vulnerabilities discovered in production code.
+</details>
+<div style="text-align: right" markdown="1">
+k2io
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
