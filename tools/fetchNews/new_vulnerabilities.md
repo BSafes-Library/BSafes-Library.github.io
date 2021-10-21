@@ -8,6 +8,81 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle's October 2021 CPU Includes 419 Security Patches<a href="https://www.securityweek.com/oracles-october-2021-cpu-includes-419-security-patches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle on Tuesday announced the release of its latest quarterly Critical Patch Update (CPU), which includes a total of 419 security patches for vulnerabilities across the company’s portfolio.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Political-themed actor using old MS Office flaw to drop multiple RATs<a href="https://www.bleepingcomputer.com/news/security/political-themed-actor-using-old-ms-office-flaw-to-drop-multiple-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel threat actor with unclear motives has been discovered running a crimeware campaign which&nbsp;delivers&nbsp;multiple Windows and Android RATs (remote access tools) through the exploitation of CVE-2017-11882.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Security Flaw Affecting Surface Pro 3 Devices<a href="https://thehackernews.com/2021/10/microsoft-warns-of-new-security-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published a new advisory warning of a security bypass vulnerability affecting Surface Pro 3 convertible laptops that could be exploited by an adversary to introduce malicious devices within enterprise networks and defeat the device attestation mechanism.  Tracked as&nbsp; CVE-2021-42299 &nbsp;(CVSS score: 5.6), the issue has been codenamed " TPM Carte Blanche " by Google software engineer Chris Fenner, who is credited with discovering and reporting the attack technique. As of writing, other Surface devices, including the Surface Pro 4 and Surface Book, have been deemed unaffected, although other non-Microsoft machines using a similar BIOS may be vulnerable.   "Devices use Platform Configuration Registers ( PCRs ) to record information about device and software configuration to ensure that the boot process is secure," the Windows maker noted in a bulletin. "Windows uses these PCR measurements to determine device health. A vulnerable device can masquerade as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium is looking for zero-day exploits in ExpressVPN, NordVPN, and Surfshark Windows VPN clients<a href="https://securityaffairs.co/wordpress/123581/hacking/zerodium-expressvpn-nordvpn-surfshark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium announced it is looking for zero-day vulnerabilities in the Windows clients of ExpressVPN, NordVPN, and Surfshark.
+
+
+
+Zerodium is looking to pay for zero-day exploits for vulnerabilities in the Windows clients of three...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit that Bypass macOS Security is Out and Being Exploited<a href="https://cyware.com/news/poc-exploit-that-bypass-macos-security-is-out-and-being-exploited-1379c82f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a PoC exploit for a macOS Gatekeeper bypass flaw that was being exploited in the wild. Tracked as CVE-2021-1810, t he vulnerability exploits the way in which Archive Utility handles file paths in MacOS systems. If any malware bypass this, it could be a massive compromise for a targete ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

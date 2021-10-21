@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees Make Best Frontline Phishing Defense<a href="https://threatpost.com/employees-make-best-frontline-phishing-defense/175535/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+October is Cybersecurity Awareness Month. Make empowering workers to detect and thwart inbox attacks a priority with Trend Micro Phish Insight.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

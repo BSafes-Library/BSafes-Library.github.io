@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium wants zero-day exploits for Windows VPN clients<a href="https://www.bleepingcomputer.com/news/security/zerodium-wants-zero-day-exploits-for-windows-vpn-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a short tweet today, exploit broker Zerodium said that it is looking to acquire zero-day exploits for vulnerabilities in three popular virtual private network (VPN) service providers on the market.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleFox Adds New Vulnerability Exploit, Rootkit Capabilities, and .NET Backdoor<a href="https://www.trendmicro.com/en_us/research/21/j/purplefox-adds-new-backdoor-that-uses-websockets.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new backdoor leverages WebSockets to communicate with its command-and-control (C&amp;C) servers, resulting in a more robust and secure means of communication compared to regular HTTP traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Squirrel Engine Bug Could Let Attackers Hack Games and Cloud Services<a href="https://thehackernews.com/2021/10/squirrel-engine-bug-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed an out-of-bounds read vulnerability in the Squirrel programming language that can be abused by attackers to break out of the sandbox restrictions and execute arbitrary code within a SquirrelVM, thus giving a malicious actor complete access to the underlying machine.&nbsp;  Tracked as CVE-2021-41556 , the issue occurs when a game library referred to as Squirrel Engine  is used to execute untrusted code and affects stable release branches 3.x and 2.x of Squirrel. The vulnerability was responsibly disclosed on August 10, 2021.   Squirrel  is an open-source, object-oriented programming language that's used for scripting video games and as well as in IoT devices and distributed transaction processing platforms such as Enduro/X.  "In a real-world scenario, an attacker could embed a malicious Squirrel script into a community map and distribute it via the trusted Steam Workshop," researchers Simon Scannell and Niklas Breitfeld said  in a report shared with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Squirrel Bug Lets Attackers Execute Code in Games, Cloud Services<a href="https://threatpost.com/squirrel-attackers-execute-code-games-cloud-services/175586/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The out-of-bounds read vulnerability enables an attacker to escape a Squirrel VM in games with millions of monthly players – such as Counter-Strike: Global Offensive and Portal 2 – and in cloud services such as Twilio Electric Imp.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft issues advisory for Surface Pro 3 TPM bypass vulnerability<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-issues-advisory-for-surface-pro-3-tpm-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published an advisory regarding a security feature bypass vulnerability impacting Surface Pro 3 tablets which could allow threat actors to introduce malicious devices within enterprise environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

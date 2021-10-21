@@ -8,6 +8,56 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found many similarities between the new Karma Ransomware and Nemty variants<a href="https://securityaffairs.co/wordpress/123568/malware/karma-ransomware-nemty-similarities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sentinel Labs experts have analyzed the new Karma ransomware and speculate it represents an evolution of the Nemty ransomware operation.
+
+
+
+Karma ransomware is a new threat that was first spotted in June of 2021, it is important to distinguish it from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trustwave released a free decryptor for the BlackByte ransomware<a href="https://securityaffairs.co/wordpress/123541/malware/blackbyte-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave’s SpiderLabs researchers have released a free decryptor for the BlackByte ransomware that can allow victims to recover their files. 
+
+
+
+Researchers from Trustwave’s SpiderLabs have released a decryptor that can allow victims of the BlackByte...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware decryptor released to recover files for free<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-decryptor-released-to-recover-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free decryptor for the BlackByte ransomware has been released, allowing past victims to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

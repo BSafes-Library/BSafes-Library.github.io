@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt to ban export of hacking tools to authoritarian regimes<a href="https://www.bleepingcomputer.com/news/security/us-govt-to-ban-export-of-hacking-tools-to-authoritarian-regimes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department's Bureau of Industry and Security (BIS) today announced export controls for software and hardware tools that could be used for malicious hacking activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House approves bill to strengthen IT supply chain following SolarWinds hack<a href="https://thehill.com//policy/cybersecurity/577671-house-approves-bill-to-strengthen-it-supply-chain-following-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday approved legislation to strengthen software and information technology supply chains at the Department of Homeland Security (DHS) and to help protect against attacks similar to last year’s SolarWinds hack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bills to secure telecommunications infrastructure<a href="https://thehill.com//policy/cybersecurity/577657-house-passes-bills-to-secure-telecommunications-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday approved multiple bipartisan bills aimed at securing U.S. telecommunications systems against foreign interference, in particular against threats from China.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate Republicans raise concerns about TSA cyber directives for rail, aviation<a href="https://thehill.com//policy/cybersecurity/577634-senate-republicans-raise-concerns-about-tsa-cyber-directives-for-rail"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Republican leaders and members of the Senate Commerce Committee on Wednesday raised concerns about the timeline and lack of public input involved in recently announced cybersecurity directives for the rail and aviation sectors.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce Department cracks down on sale of hacking products to foreign governments<a href="https://thehill.com//policy/cybersecurity/577587-commerce-department-cracks-down-on-sale-of-hacking-products-to-foreign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department on Wednesday took steps to crack down on the sale of certain hacking products used by foreign governments and other groups to surveil and repress individuals.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

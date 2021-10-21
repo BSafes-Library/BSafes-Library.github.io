@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 will get enhanced insider risk management tools<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-will-get-enhanced-insider-risk-management-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is updating Microsoft 365&nbsp;to allow admins to better manage insider security threats in their environments with improvements to risky activity&nbsp;detection and visibility.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

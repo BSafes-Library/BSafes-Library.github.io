@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP's 2021 List Shuffle: A New Battle Plan and Primary Foe<a href="https://thehackernews.com/2021/10/owasps-2021-list-shuffle-new-battle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code injection attacks, the infamous king of vulnerabilities, have lost the top spot to broken access control as the worst of the worst, and developers need to take notice.  In this increasingly chaotic world, there have always been a few constants that people could reliably count on: The sun will rise in the morning and set again at night, Mario will always be cooler than Sonic the Hedgehog, and code injection attacks will always occupy the top spot on the Open Web Application Security Project (OWASP) list of the&nbsp; top ten most common &nbsp;and dangerous vulnerabilities that attackers are actively exploiting.  Well, the sun will rise tomorrow, and Mario still has "one-up" on Sonic, but code injection attacks have fallen out of the number one spot on the infamous OWASP list, refreshed in 2021. One of the oldest forms of attacks,&nbsp; code injection vulnerabilities &nbsp;have been around almost as long as computer networking. The blanket vulnerability is responsible for a wide range of attacks, inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer hacked twice in a week by the same threat actor<a href="https://www.bleepingcomputer.com/news/security/acer-hacked-twice-in-a-week-by-the-same-threat-actor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acer has suffered a second cyberattack in just a week by the same hacking group that says other regions are vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinclair Confirms Ransomware Attack That Disrupted TV Stations<a href="https://threatpost.com/sinclair-ransomware-tv-stations/175548/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A major cyberattack resulted in data being stolen, too, but Sinclair’s not sure which information is now in the hands of the crooks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

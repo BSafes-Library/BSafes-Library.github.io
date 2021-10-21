@@ -8,6 +8,50 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Interactsh Tool for Vulnerability Validation<a href="https://cyware.com/news/cybercriminals-use-interactsh-tool-for-vulnerability-validation-68ea5acd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 discovered hackers exploiting an open-source service called Interactsh; the tool generates desired domain names to&nbsp;help users test whether an exploit is successful.  The tool allows anyone to generate specific URLs for testing on HTTP attempts and DNS queries, which help them test whet ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Disappears Once Again<a href="https://cyware.com/news/revil-disappears-once-again-3b845b49"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor payment portal and data leak site of REvil was sent to oblivion after an unknown hacker using the same private keys hijacked the group’s domains. This is the second time that REvil has shut down its operations. Still, organizations should stay protected from such threats by keeping a reliab ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn BlackMatter Ransomware Gang is Poised to Strike<a href="https://threatpost.com/feds-warn-blackmatter-ransomware-gang-is-poised-to-strike/175567/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advisory by the CISA, FBI and NSA reveals hallmark tactics of and shares defense tips against the cybercriminal group that’s picked up where its predecessor DarkSide left off.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

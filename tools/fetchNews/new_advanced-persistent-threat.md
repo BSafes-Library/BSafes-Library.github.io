@@ -8,6 +8,49 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyceum Group Updates its Arsenal With New Tricks and Tools<a href="https://cyware.com/news/lyceum-group-updates-its-arsenal-with-new-tricks-and-tools-5b3c247c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lesser-known Lyceum APT seems to be on a mission to gain a foothold with its re-appearance. The gang has been associated with an attack campaign launched against entities in Tunisia.&nbsp; Similarities between Lyceum and the infamous  DNSpionage  campaign, a  cluster of activity  linked to the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh APT Harvester Reaps Telco, Government Data<a href="https://threatpost.com/apt-harvester-telco-government-data/175585/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is likely nation-state-backed and is mounting an ongoing spy campaign using custom malware and stealthy tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyceum APT Returns, This Time Targeting Tunisian Firms<a href="https://threatpost.com/lyceum-apt-tunisian-firms/175579/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT, which targets Middle-Eastern energy firms &amp; telecoms, has been relatively quiet since its exposure but not entirely silent. It’s kept up attacks through 2021 and is working on retooling its arsenal yet again.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

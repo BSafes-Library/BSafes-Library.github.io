@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS attacks against Russian firms have almost tripled in 2021<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-against-russian-firms-have-almost-tripled-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report analyzing data from the start of the year concludes that distributed denial-of-service (DDoS) attacks on Russian companies have increased 2.5 times compared to the same period last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

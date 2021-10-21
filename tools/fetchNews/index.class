@@ -34,6 +34,591 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt to ban export of hacking tools to authoritarian regimes<a href="https://www.bleepingcomputer.com/news/security/us-govt-to-ban-export-of-hacking-tools-to-authoritarian-regimes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department's Bureau of Industry and Security (BIS) today announced export controls for software and hardware tools that could be used for malicious hacking activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle's October 2021 CPU Includes 419 Security Patches<a href="https://www.securityweek.com/oracles-october-2021-cpu-includes-419-security-patches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle on Tuesday announced the release of its latest quarterly Critical Patch Update (CPU), which includes a total of 419 security patches for vulnerabilities across the company’s portfolio.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House approves bill to strengthen IT supply chain following SolarWinds hack<a href="https://thehill.com//policy/cybersecurity/577671-house-approves-bill-to-strengthen-it-supply-chain-following-solarwinds"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday approved legislation to strengthen software and information technology supply chains at the Department of Homeland Security (DHS) and to help protect against attacks similar to last year’s SolarWinds hack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Break Intel SGX With New 'SmashEx' CPU Attack Technique<a href="https://thehackernews.com/2021/10/researchers-break-intel-sgx-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed vulnerability affecting Intel processors could be abused by an adversary to gain access to sensitive information stored within enclaves and even run arbitrary code on vulnerable systems.  The vulnerability ( CVE-2021-0186 , CVSS score: 8.2) was discovered by a group of academics from ETH Zurich, the National University of Singapore, and the Chinese National University of Defense Technology in early May 2021, who used it to stage a confidential data disclosure attack called " SmashEx " that can corrupt private data housed in the enclave and break its integrity.   Introduced with Intel's Skylake processors, SGX (short for Software Guard eXtensions) allows developers to run selected application modules in a completely isolated secure compartment of memory, called an enclave or a Trusted Execution Environment (TEE), which is designed to be protected from processes running at higher privilege levels like the operating system. SGX ensures that data is secure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube creators’ accounts hijacked with cookie-stealing malware<a href="https://securityaffairs.co/wordpress/123630/hacking/youtube-creators-accounts-hijacked-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Cookie Theft malware was employed in phishing attacks against YouTube creators, Google's Threat Analysis Group (TAG) warns.
+
+
+
+Financially motivated threat actors are using Cookie Theft malware in phishing attacks against YouTube creators since late...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees Make Best Frontline Phishing Defense<a href="https://threatpost.com/employees-make-best-frontline-phishing-defense/175535/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+October is Cybersecurity Awareness Month. Make empowering workers to detect and thwart inbox attacks a priority with Trend Micro Phish Insight.  
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS attacks against Russian firms have almost tripled in 2021<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-against-russian-firms-have-almost-tripled-in-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report analyzing data from the start of the year concludes that distributed denial-of-service (DDoS) attacks on Russian companies have increased 2.5 times compared to the same period last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Interactsh Tool for Vulnerability Validation<a href="https://cyware.com/news/cybercriminals-use-interactsh-tool-for-vulnerability-validation-68ea5acd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 discovered hackers exploiting an open-source service called Interactsh; the tool generates desired domain names to&nbsp;help users test whether an exploit is successful.  The tool allows anyone to generate specific URLs for testing on HTTP attempts and DNS queries, which help them test whet ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bills to secure telecommunications infrastructure<a href="https://thehill.com//policy/cybersecurity/577657-house-passes-bills-to-secure-telecommunications-infrastructure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday approved multiple bipartisan bills aimed at securing U.S. telecommunications systems against foreign interference, in particular against threats from China. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP's 2021 List Shuffle: A New Battle Plan and Primary Foe<a href="https://thehackernews.com/2021/10/owasps-2021-list-shuffle-new-battle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Code injection attacks, the infamous king of vulnerabilities, have lost the top spot to broken access control as the worst of the worst, and developers need to take notice.  In this increasingly chaotic world, there have always been a few constants that people could reliably count on: The sun will rise in the morning and set again at night, Mario will always be cooler than Sonic the Hedgehog, and code injection attacks will always occupy the top spot on the Open Web Application Security Project (OWASP) list of the  top ten most common  and dangerous vulnerabilities that attackers are actively exploiting.  Well, the sun will rise tomorrow, and Mario still has "one-up" on Sonic, but code injection attacks have fallen out of the number one spot on the infamous OWASP list, refreshed in 2021. One of the oldest forms of attacks,  code injection vulnerabilities  have been around almost as long as computer networking. The blanket vulnerability is responsible for a wide range of attacks, inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleFox botnet variant uses WebSockets for more secure C2 communication<a href="https://securityaffairs.co/wordpress/123623/malware/purplefox-botnet-websockets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new evolution of the PurpleFox botnet, operators included exploits and leverage WebSockets for C2 communication. 
+
+
+
+Researchers from TrendMicro have documented a recent evolution of the PurpleFox botnet, the experts discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Political-themed actor using old MS Office flaw to drop multiple RATs<a href="https://www.bleepingcomputer.com/news/security/political-themed-actor-using-old-ms-office-flaw-to-drop-multiple-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel threat actor with unclear motives has been discovered running a crimeware campaign which delivers multiple Windows and Android RATs (remote access tools) through the exploitation of CVE-2017-11882.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Disappears Once Again<a href="https://cyware.com/news/revil-disappears-once-again-3b845b49"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor payment portal and data leak site of REvil was sent to oblivion after an unknown hacker using the same private keys hijacked the group’s domains. This is the second time that REvil has shut down its operations. Still, organizations should stay protected from such threats by keeping a reliab ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate Republicans raise concerns about TSA cyber directives for rail, aviation<a href="https://thehill.com//policy/cybersecurity/577634-senate-republicans-raise-concerns-about-tsa-cyber-directives-for-rail"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Republican leaders and members of the Senate Commerce Committee on Wednesday raised concerns about the timeline and lack of public input involved in recently announced cybersecurity directives for the rail and aviation sectors. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LightBasin Hackers Breach at Least 13 Telecom Service Providers Since 2019<a href="https://thehackernews.com/2021/10/lightbasin-hackers-breach-at-least-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly sophisticated adversary named LightBasin has been identified as behind a string of attacks targeting the telecom sector with the goal of collecting "highly specific information" from mobile communication infrastructure, such as subscriber information and call metadata.   "The nature of the data targeted by the actor aligns with information likely to be of significant interest to signals intelligence organizations," researchers from cybersecurity firm CrowdStrike  said  in an analysis published Tuesday.  Known to be active as far back as 2016, LightBasin (aka UNC1945) is believed to have compromised 13 telecommunication companies across the world since 2019 by leveraging custom tools and their extensive knowledge of telecommunications protocols for scything through organizations' defenses. The identities of the targeted entities were not disclosed, nor did the findings link the cluster's activity to a specific country.   Indeed, a recent incident in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer suffers a second data breach in a week<a href="https://securityaffairs.co/wordpress/123616/data-breach/acer-suffers-second-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Acer was hacked again in a few days, after the compromise of the servers in India, threat actors also breached some of its systems in Taiwan.
+
+
+
+Tech giant Acer was hacked twice in a week, the same threat actor (Desorden) initially breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: YouTubers’ accounts hijacked with cookie-stealing malware<a href="https://www.bleepingcomputer.com/news/security/google-youtubers-accounts-hijacked-with-cookie-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says YouTube creators have been targeted with password-stealing malware in phishing attacks coordinated by financially motivated threat actors since at least late 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Centre for Computing History apologises for data breach<a href="https://www.theregister.com/2021/10/20/centre_for_computing_data_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Centre for Computing History (CCH) in Cambridge, England, has apologised for an "embarrassing" breach in its online customer datafile, though thankfully no payment card information was exposed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Russian hacking group linked to ransomware attack on Sinclair: report<a href="https://thehill.com//policy/cybersecurity/577599-major-russian-hacking-group-linked-to-ransomware-attack-on-sinclair"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A well-known Russian hacking group previously sanctioned by the United States is behind the crippling ransomware attack on Sinclair Broadcast Group that is continuing to impact news stations across the country, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Security Flaw Affecting Surface Pro 3 Devices<a href="https://thehackernews.com/2021/10/microsoft-warns-of-new-security-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has published a new advisory warning of a security bypass vulnerability affecting Surface Pro 3 convertible laptops that could be exploited by an adversary to introduce malicious devices within enterprise networks and defeat the device attestation mechanism.  Tracked as  CVE-2021-42299  (CVSS score: 5.6), the issue has been codenamed " TPM Carte Blanche " by Google software engineer Chris Fenner, who is credited with discovering and reporting the attack technique. As of writing, other Surface devices, including the Surface Pro 4 and Surface Book, have been deemed unaffected, although other non-Microsoft machines using a similar BIOS may be vulnerable.   "Devices use Platform Configuration Registers ( PCRs ) to record information about device and software configuration to ensure that the boot process is secure," the Windows maker noted in a bulletin. "Windows uses these PCR measurements to determine device health. A vulnerable device can masquerade as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked LightBasin group accessed calling records from telcos worldwide<a href="https://securityaffairs.co/wordpress/123588/apt/lightbasin-cyberspies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked cyberespionage group LightBasin hacked mobile telephone networks around the world and used specialized tools to access calling records.
+
+
+
+A China-linked hacking group, tracked as LightBasin (aka UNC1945), hacked mobile telephone networks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gummy Browsers attack lets hackers spoof tracking profiles<a href="https://www.bleepingcomputer.com/news/security/new-gummy-browsers-attack-lets-hackers-spoof-tracking-profiles/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University researchers in the US have developed a new fingerprint capturing and browser spoofing attack called Gummy Browsers. They warn how easy the attack is to carry out and the severe implications it can have.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyceum Group Updates its Arsenal With New Tricks and Tools<a href="https://cyware.com/news/lyceum-group-updates-its-arsenal-with-new-tricks-and-tools-5b3c247c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lesser-known Lyceum APT seems to be on a mission to gain a foothold with its re-appearance. The gang has been associated with an attack campaign launched against entities in Tunisia.&nbsp; Similarities between Lyceum and the infamous  DNSpionage  campaign, a  cluster of activity  linked to the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce Department cracks down on sale of hacking products to foreign governments<a href="https://thehill.com//policy/cybersecurity/577587-commerce-department-cracks-down-on-sale-of-hacking-products-to-foreign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department on Wednesday took steps to crack down on the sale of certain hacking products used by foreign governments and other groups to surveil and repress individuals.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerodium is looking for zero-day exploits in ExpressVPN, NordVPN, and Surfshark Windows VPN clients<a href="https://securityaffairs.co/wordpress/123581/hacking/zerodium-expressvpn-nordvpn-surfshark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day exploit broker Zerodium announced it is looking for zero-day vulnerabilities in the Windows clients of ExpressVPN, NordVPN, and Surfshark.
+
+
+
+Zerodium is looking to pay for zero-day exploits for vulnerabilities in the Windows clients of three...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 will get enhanced insider risk management tools<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-will-get-enhanced-insider-risk-management-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is updating Microsoft 365 to allow admins to better manage insider security threats in their environments with improvements to risky activity detection and visibility.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are Disguising Malicious JavaScript Code Using Packers to Bypass Signature-based Detection Systems<a href="https://www.zdnet.com/article/hackers-are-disguising-their-malicious-javascript-code-with-hard-to-beat-trick/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Packers work by compressing or encrypting code to make that code unreadable and non-debuggable — resulting in 'obfuscated' code that is difficult for antivirus to detect.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google says Russian-speaking hackers hijacked YouTube channels for cryptocurrency scam<a href="https://thehill.com//policy/cybersecurity/577555-google-says-russian-speaking-hackers-hijacked-youtube-channels-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday reported it has tracked and disrupted an email phishing campaign tied to Russian-speaking hackers that has targeted YouTube users since 2019 as part of a cryptocurrency scam effort. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PurpleFox botnet variant uses WebSockets for C2 communication<a href="https://www.bleepingcomputer.com/news/security/new-purplefox-botnet-variant-uses-websockets-for-c2-communication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PurpleFox botnet has refreshed its arsenal with new vulnerability exploits and dropped payloads, now also leveraging WebSockets for C2 bidirectional communication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang: New Player in the Ransomware Scene<a href="https://cyware.com/news/yanluowang-new-player-in-the-ransomware-scene-be6946b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec uncovered a new strain of ransomware, dubbed Yanluowang, targeting virtual machines in enterprises. The attackers behind the ransomware have used the genuine AdFind command line Active Directory query tool.  Hackers further warned not to approach law enforcement for help.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealth Phishing Campaign Targets Financial Organizations<a href="https://cyware.com/news/new-stealth-phishing-campaign-targets-financial-organizations-249d7cef"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Labs unearthed a new MirrorBlast campaign aimed at financial services across Canada, the U.S., Europe, Hong Kong, and others. The campaign has an uncanny resemblance to the Russia-based TA505 group. Organizations must protect themselves with adequate protection solutions, such as anti-phi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit that Bypass macOS Security is Out and Being Exploited<a href="https://cyware.com/news/poc-exploit-that-bypass-macos-security-is-out-and-being-exploited-1379c82f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found a PoC exploit for a macOS Gatekeeper bypass flaw that was being exploited in the wild. Tracked as CVE-2021-1810, t he vulnerability exploits the way in which Archive Utility handles file paths in MacOS systems. If any malware bypass this, it could be a massive compromise for a targete ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh APT Harvester Reaps Telco, Government Data<a href="https://threatpost.com/apt-harvester-telco-government-data/175585/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is likely nation-state-backed and is mounting an ongoing spy campaign using custom malware and stealthy tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021-- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyceum APT Returns, This Time Targeting Tunisian Firms<a href="https://threatpost.com/lyceum-apt-tunisian-firms/175579/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT, which targets Middle-Eastern energy firms & telecoms, has been relatively quiet since its exposure but not entirely silent. It’s kept up attacks through 2021 and is working on retooling its arsenal yet again. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn BlackMatter Ransomware Gang is Poised to Strike<a href="https://threatpost.com/feds-warn-blackmatter-ransomware-gang-is-poised-to-strike/175567/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advisory by the CISA, FBI and NSA reveals hallmark tactics of and shares defense tips against the cybercriminal group that’s picked up where its predecessor DarkSide left off.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

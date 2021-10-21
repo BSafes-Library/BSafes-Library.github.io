@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube creators’ accounts hijacked with cookie-stealing malware<a href="https://securityaffairs.co/wordpress/123630/hacking/youtube-creators-accounts-hijacked-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Cookie Theft malware was employed in phishing attacks against YouTube creators, Google's Threat Analysis Group (TAG) warns.
+
+
+
+Financially motivated threat actors are using Cookie Theft malware in phishing attacks against YouTube creators since late...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LightBasin Hackers Breach at Least 13 Telecom Service Providers Since 2019<a href="https://thehackernews.com/2021/10/lightbasin-hackers-breach-at-least-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly sophisticated adversary named LightBasin has been identified as behind a string of attacks targeting the telecom sector with the goal of collecting "highly specific information" from mobile communication infrastructure, such as subscriber information and call metadata.&nbsp;  "The nature of the data targeted by the actor aligns with information likely to be of significant interest to signals intelligence organizations," researchers from cybersecurity firm CrowdStrike&nbsp; said &nbsp;in an analysis published Tuesday.  Known to be active as far back as 2016, LightBasin (aka UNC1945) is believed to have compromised 13 telecommunication companies across the world since 2019 by leveraging custom tools and their extensive knowledge of telecommunications protocols for scything through organizations' defenses. The identities of the targeted entities were not disclosed, nor did the findings link the cluster's activity to a specific country.   Indeed, a recent incident in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer suffers a second data breach in a week<a href="https://securityaffairs.co/wordpress/123616/data-breach/acer-suffers-second-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Acer was hacked again in a few days, after the compromise of the servers in India, threat actors also breached some of its systems in Taiwan.
+
+
+
+Tech giant Acer was hacked twice in a week, the same threat actor (Desorden) initially breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Centre for Computing History apologises for data breach<a href="https://www.theregister.com/2021/10/20/centre_for_computing_data_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Centre for Computing History (CCH) in Cambridge, England, has apologised for an "embarrassing" breach in its online customer datafile, though thankfully no payment card information was exposed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

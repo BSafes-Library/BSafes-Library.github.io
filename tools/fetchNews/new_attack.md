@@ -8,6 +8,63 @@ nav_order: 900015
 
 ## Attack
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: YouTubers’ accounts hijacked with cookie-stealing malware<a href="https://www.bleepingcomputer.com/news/security/google-youtubers-accounts-hijacked-with-cookie-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says&nbsp;YouTube creators have been targeted with password-stealing malware in phishing attacks coordinated by financially motivated&nbsp;threat actors since at least late 2019.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gummy Browsers attack lets hackers spoof tracking profiles<a href="https://www.bleepingcomputer.com/news/security/new-gummy-browsers-attack-lets-hackers-spoof-tracking-profiles/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+University researchers in the US have developed a new fingerprint capturing and browser spoofing attack called Gummy Browsers. They warn how easy the attack is to carry out and the severe implications it can have.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google says Russian-speaking hackers hijacked YouTube channels for cryptocurrency scam<a href="https://thehill.com//policy/cybersecurity/577555-google-says-russian-speaking-hackers-hijacked-youtube-channels-for"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday reported it has tracked and disrupted an email phishing campaign tied to Russian-speaking hackers that has targeted YouTube users since 2019 as part of a cryptocurrency scam effort.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealth Phishing Campaign Targets Financial Organizations<a href="https://cyware.com/news/new-stealth-phishing-campaign-targets-financial-organizations-249d7cef"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec Labs unearthed a new MirrorBlast campaign aimed at financial services across Canada, the U.S., Europe, Hong Kong, and others. The campaign has an uncanny resemblance to the Russia-based TA505 group. Organizations must protect themselves with adequate protection solutions, such as anti-phi ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
