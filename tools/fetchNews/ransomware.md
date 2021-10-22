@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang: New Player in the Ransomware Scene<a href="https://cyware.com/news/yanluowang-new-player-in-the-ransomware-scene-be6946b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec uncovered a new strain of ransomware, dubbed Yanluowang, targeting virtual machines in enterprises. The attackers behind the ransomware have used the genuine AdFind command line Active Directory query tool.  Hackers further warned not to approach law enforcement for help.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

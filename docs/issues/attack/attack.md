@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive campaign uses YouTube to push password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/massive-campaign-uses-youtube-to-push-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Widespread malware campaigns are creating YouTube videos to distribute password-stealing trojans to unsuspecting viewers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp demands $40 million in new Macaw ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/evil-corp-demands-40-million-in-new-macaw-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil Corp has launched a new ransomware called Macaw Locker to evade US sanctions that prevent victims from making ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

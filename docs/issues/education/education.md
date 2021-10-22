@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 21, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Before and After a Pen Test: Steps to Get Through It<a href="https://thehackernews.com/2021/10/before-and-after-pen-test-steps-to-get.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An effective cybersecurity strategy can be challenging to implement correctly and often involves many layers of security. Part of a robust security strategy involves performing what is known as a penetration test (pen test). The penetration test helps to discover vulnerabilities and weaknesses in your security defenses before the bad guys discover these. They can also help validate remedial efforts and solutions put in place to overcome previously discovered security vulnerabilities.&nbsp;  Let's look more closely at the pen test. What is included in a penetration test? How are they performed, and by whom? What steps should be taken after a penetration test?  What is a penetration test? 1 — Simulated cyberattack   A penetration test is, for all practical purposes, a simulated cyberattack on your business. However, it is carried out by the "good guys." An outside resource often conducts a penetration test, whether a third-party security consulting company or another security entity. Securit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

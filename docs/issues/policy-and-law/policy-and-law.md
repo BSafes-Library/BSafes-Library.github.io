@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Administrators of bulletproof hosting sentenced to prison in the US<a href="https://securityaffairs.co/wordpress/123645/cyber-crime/bulletproof-hosting-admins-sentenced-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice sentenced two individuals that were providing bulletproof hosting to various malware operations. 
+
+
+
+The United States Department of Justice sentenced to prison two individuals involved in providing bulletproof...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US judge sentences duo for roles in running bulletproof hosting service<a href="https://www.zdnet.com/article/us-judge-sentences-duo-for-roles-in-providing-bulletproof-hosting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The duo were accused of providing online hosting services that are known as bulletproof -- a popular option for cybercriminals who need a host that will turn a blind eye to criminal activity.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine arrested for impersonating bank clerks to steal from the elderly<a href="https://www.bleepingcomputer.com/news/security/nine-arrested-for-impersonating-bank-clerks-to-steal-from-the-elderly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch Police have arrested nine people for targeting and stealing money from the elderly by impersonating bank employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

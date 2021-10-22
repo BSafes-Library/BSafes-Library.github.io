@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Popular WinRAR Software Could Let Attackers Hack Your Computer<a href="https://thehackernews.com/2021/10/bug-in-free-winrar-software-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security weakness has been disclosed in the WinRAR trialware file archiver utility for Windows that could be abused by a remote attacker to execute arbitrary code on targeted systems, underscoring how vulnerabilities in such software could beсome a gateway for a roster of attacks.  Tracked as CVE-2021-35052, the bug impacts the trial version of the software running version 5.70. "This vulnerability allows an attacker to intercept and modify requests sent to the user of the application," Positive Technologies' Igor Sak-Sakovskiy&nbsp; said &nbsp;in a technical write-up. "This can be used to achieve remote code execution (RCE) on a victim's computer."   Sak-Sakovskiy noted that investigation into WinRAR began after observing a JavaScript error rendered by MSHTML (aka Trident), a proprietary browser engine for the now-discontinued Internet Explorer and which is used in Office to render web content inside Word, Excel, and PowerPoint documents, leading to the discov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in WinRAR could lead to remote code execution<a href="https://securityaffairs.co/wordpress/123652/hacking/winrar-trial-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the WinRAR is a trialware file archiver utility for Windows could be exploited by a remote attacker to hack a system.
+
+
+
+Positive Technologies researcher Igor Sak-Sakovskiy discovered a remote code execution vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Historic scientific notation bug foils WAF defenses<a href="https://portswigger.net/daily-swig/historic-scientific-notation-bug-foils-waf-defenses?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered that a historic vulnerability affecting both MySQL and MariaDB databases caused serious flaws for security technologies from Amazon Web Services.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches Android Enterprise bug bounty program<a href="https://www.bleepingcomputer.com/news/security/google-launches-android-enterprise-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the launch of its first vulnerability rewards program for&nbsp;Android Enterprise with bounties of up to&nbsp;$250,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

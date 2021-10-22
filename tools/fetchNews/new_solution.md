@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Overview: Cynet SaaS Security Posture Management (SSPM)<a href="https://thehackernews.com/2021/10/product-overview-cynet-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software-as-a-service (SaaS) applications have gone from novelty to business necessity in a few short years, and its positive impact on organizations is clear. It's safe to say that most industries today run on SaaS applications, which is undoubtedly positive, but it does introduce some critical new challenges to organizations.&nbsp;  As SaaS application use expands, as well as the number of touchpoints they create, the attack surface also becomes significantly larger.  As an answer to this emerging challenge, XDR provider Cynet has added a new SaaS Security Posture Management (SSPM) tool to its existing platform ( you can learn more here ). Regardless of the size of an organization or its security team, managing the security policy and posture of dozens to hundreds of SaaS applications is a complex task, and one that requires the right tools to expedite and optimize. Using SSPM can centralize many of the management and logistics requirements and offer a more unified way to establish secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Break Intel SGX With New 'SmashEx' CPU Attack Technique<a href="https://thehackernews.com/2021/10/researchers-break-intel-sgx-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly disclosed vulnerability affecting Intel processors could be abused by an adversary to gain access to sensitive information stored within enclaves and even run arbitrary code on vulnerable systems.  The vulnerability ( CVE-2021-0186 , CVSS score: 8.2) was discovered by a group of academics from ETH Zurich, the National University of Singapore, and the Chinese National University of Defense Technology in early May 2021, who used it to stage a confidential data disclosure attack called " SmashEx " that can corrupt private data housed in the enclave and break its integrity.   Introduced with Intel's Skylake processors, SGX (short for Software Guard eXtensions) allows developers to run selected application modules in a completely isolated secure compartment of memory, called an enclave or a Trusted Execution Environment (TEE), which is designed to be protected from processes running at higher privilege levels like the operating system. SGX ensures that data is secure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Russian hacking group linked to ransomware attack on Sinclair: report<a href="https://thehill.com//policy/cybersecurity/577599-major-russian-hacking-group-linked-to-ransomware-attack-on-sinclair"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A well-known Russian hacking group previously sanctioned by the United States is behind the crippling ransomware attack on Sinclair Broadcast Group that is continuing to impact news stations across the country, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked LightBasin group accessed calling records from telcos worldwide<a href="https://securityaffairs.co/wordpress/123588/apt/lightbasin-cyberspies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked cyberespionage group LightBasin hacked mobile telephone networks around the world and used specialized tools to access calling records.
+
+
+
+A China-linked hacking group, tracked as LightBasin (aka UNC1945), hacked mobile telephone networks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are Disguising Malicious JavaScript Code Using Packers to Bypass Signature-based Detection Systems<a href="https://www.zdnet.com/article/hackers-are-disguising-their-malicious-javascript-code-with-hard-to-beat-trick/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Packers work by compressing or encrypting code to make that code unreadable and non-debuggable — resulting in 'obfuscated' code that is difficult for antivirus to detect.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

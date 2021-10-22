@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group tied to Colonial Pipeline attack continuing to recruit tech talent<a href="https://thehill.com//policy/cybersecurity/577830-hacking-group-tied-to-colonial-pipeline-attack-continuing-to-recruit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group linked to the ransomware attack on Colonial Pipeline earlier this year is posing as a fake company to recruit individuals to help carry out further attacks, according to a report published Thursday.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stealing Browser Cookies to Hijack High-Profile YouTube Accounts<a href="https://thehackernews.com/2021/10/hackers-stealing-browser-cookies-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since at least late 2019, a network of hackers-for-hire have been hijacking the channels of YouTube creators, luring them with bogus collaboration opportunities to broadcast cryptocurrency scams or sell the accounts to the highest bidder.  That's according to a new report published by Google's Threat Analysis Group (TAG), which said it disrupted financially motivated phishing campaigns targeting the video platform with cookie theft malware. The actors behind the infiltration have been attributed to a group of hackers recruited in a Russian-speaking forum.   "Cookie Theft, also known as 'pass-the-cookie attack,' is a&nbsp;session hijacking&nbsp;technique that enables access to user accounts with session cookies stored in the browser," TAG's Ashley Shen&nbsp; said . "While the technique has been around for decades, its resurgence as a top security risk could be due to a wider adoption of multi-factor authentication (MFA) making it difficult to conduct abuse, and shif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Crushes YouTube Cookie-Stealing Channel Hijackers<a href="https://threatpost.com/google-youtube-channel-hijackers-cryptocurrency-scams/175617/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has caught and brushed off a bunch of cookie-stealing YouTube channel hijackers who were running cryptocurrency scams on, or auctioning off, ripped-off channels.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

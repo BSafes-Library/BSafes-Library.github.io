@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleFox botnet variant uses WebSockets for more secure C2 communication<a href="https://securityaffairs.co/wordpress/123623/malware/purplefox-botnet-websockets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new evolution of the PurpleFox botnet, operators included exploits and leverage WebSockets for C2 communication. 
+
+
+
+Researchers from TrendMicro have documented a recent evolution of the PurpleFox botnet, the experts discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PurpleFox botnet variant uses WebSockets for C2 communication<a href="https://www.bleepingcomputer.com/news/security/new-purplefox-botnet-variant-uses-websockets-for-c2-communication/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PurpleFox botnet has refreshed its arsenal with new vulnerability exploits and dropped payloads, now also leveraging WebSockets for C2 bidirectional communication.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

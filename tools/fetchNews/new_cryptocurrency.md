@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Packages Caught Running Cryptominer On Windows, Linux, macOS Devices<a href="https://thehackernews.com/2021/10/malicious-npm-packages-caught-running.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three JavaScript libraries uploaded to the official NPM package repository have been unmasked as crypto-mining malware, once again demonstrating how open-source software package repositories are becoming a lucrative target for executing an array of attacks on Windows, macOS, and Linux systems.  The malicious packages in question — named&nbsp; okhsa ,&nbsp; klow , and&nbsp; klown &nbsp;— were published by the same developer and falsely claimed to be JavaScript-based user-agent string parsers designed to extract hardware specifics from the " User-Agent " HTTP header. But unbeknownst to the victims who imported them, the author hid cryptocurrency mining malware inside the libraries.   The bad actor's NPM account has since been deactivated, and all the three libraries, each of which were downloaded 112, 4, and 65 times respectively, have been removed from the repository as of October 15, 2021.  Attacks involving the three libraries worked by detecting the current operating system, before procee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining Malware Found Hidden Inside Three Libraries on Official NPM Package Repository<a href="https://therecord.media/crypto-miner-found-hidden-inside-three-npm-libraries/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The names of the three npm packages were klow, klown, and okhsa. The packages were live only for a day, on October 15. The final payloads (cryptominers) could be run on Windows or Linux platforms.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

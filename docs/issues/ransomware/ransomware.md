@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp rebrands their ransomware, this time is the Macaw Locker<a href="https://securityaffairs.co/wordpress/123661/cyber-crime/evil-corp-macaw-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil Corp cybercrime gang is using a new ransomware called Macaw Locker to evade US sanctions that prevent victims from paying the ransom. 
+
+
+
+Evil Corp has launched a new ransomware called Macaw Locker to evade US sanctions that prevent victims from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

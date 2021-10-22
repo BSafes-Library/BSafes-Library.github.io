@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INE Acquires Pentester Academy to Enhance Comprehensive IT Training Solutions<a href="https://www.globenewswire.com/news-release/2021/10/20/2317713/0/en/INE-Acquires-Pentester-Academy-to-Enhance-Comprehensive-IT-Training-Solutions.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INE has acquired Pentester Academy to accelerate the creation of more challenging, scenario-based training tools across Cyber Security, Networking, Data Science, Cloud, and DevOps.
+</details>
+<div style="text-align: right" markdown="1">
+Globe News Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plurilock to Acquire Assets of CloudCodes Software, Award Winning Cloud Security Provider<a href="https://finance.yahoo.com/news/plurilock-acquire-assets-cloudcodes-software-120100333.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plurilock has entered into definitive agreements dated October 21, 2021, to acquire certain assets of CloudCodes Software Private Limited, a cloud access security broker based in India.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

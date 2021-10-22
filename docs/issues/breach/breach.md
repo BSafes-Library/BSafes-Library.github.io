@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Sinks Teeth into Candy-Corn Maker Ahead of Halloween<a href="https://threatpost.com/ransomware-candy-corn-halloween/175630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chicago-based Ferrara acknowledged an Oct. 9 attack that encrypted some systems and disrupted production.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
