@@ -19,6 +19,18 @@ Since July 2021, BlackMatter ransomware has targeted multiple U.S. critical infr
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Using Spoofed Unemployment Benefit Websites to Defraud US Public <a href="https://www.ic3.gov/Media/Y2021/PSA211015"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals have created these spoofed websites to collect personal and financial data from US victims. These spoofed websites imitate the appearance of and can be easily mistaken for legitimate websites offering unemployment benefits.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 14, 2021 - FBI, CISA, EPA, NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

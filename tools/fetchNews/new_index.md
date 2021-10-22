@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive campaign uses YouTube to push password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/massive-campaign-uses-youtube-to-push-password-stealing-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploit the Discord CDN to Deliver 27 Unique Types of Malware<a href="https://www.riskiq.com/blog/external-threat-management/discord-cdn-abuse-malware/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Risk IQ
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, allied nations force REvil ransomware group offline: report<a href="https://thehill.com//policy/cybersecurity/577914-us-and-allied-nations-force-revil-ransomware-group-offline-report"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Education](/docs/issues/education/education/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Before and After a Pen Test: Steps to Get Through It<a href="https://thehackernews.com/2021/10/before-and-after-pen-test-steps-to-get.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp rebrands their ransomware, this time is the Macaw Locker<a href="https://securityaffairs.co/wordpress/123661/cyber-crime/evil-corp-macaw-locker.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Ban on Sales of Cyberattack Tools Is Anemic, Experts Warn<a href="https://threatpost.com/us-ban-cyberattack-tools-zerodium/175654/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil Corp demands $40 million in new Macaw ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/evil-corp-demands-40-million-in-new-macaw-ransomware-attacks/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INE Acquires Pentester Academy to Enhance Comprehensive IT Training Solutions<a href="https://www.globenewswire.com/news-release/2021/10/20/2317713/0/en/INE-Acquires-Pentester-Academy-to-Enhance-Comprehensive-IT-Training-Solutions.html?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Globe News Wire
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Senate bill would take steps to protect AI-collected data<a href="https://thehill.com//policy/cybersecurity/577865-new-senate-bill-would-take-steps-to-protect-ai-collected-data"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bug in Popular WinRAR Software Could Let Attackers Hack Your Computer<a href="https://thehackernews.com/2021/10/bug-in-free-winrar-software-could-let.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in WinRAR could lead to remote code execution<a href="https://securityaffairs.co/wordpress/123652/hacking/winrar-trial-flaw.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Sinks Teeth into Candy-Corn Maker Ahead of Halloween<a href="https://threatpost.com/ransomware-candy-corn-halloween/175630/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft now defends nonprofits against nation-state attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-now-defends-nonprofits-against-nation-state-attacks/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Historic scientific notation bug foils WAF defenses<a href="https://portswigger.net/daily-swig/historic-scientific-notation-bug-foils-waf-defenses?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking group tied to Colonial Pipeline attack continuing to recruit tech talent<a href="https://thehill.com//policy/cybersecurity/577830-hacking-group-tied-to-colonial-pipeline-attack-continuing-to-recruit"> Full Text</a>
@@ -282,7 +282,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Product Overview: Cynet SaaS Security Posture Management (SSPM)<a href="https://thehackernews.com/2021/10/product-overview-cynet-saas-security.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Administrators of bulletproof hosting sentenced to prison in the US<a href="https://securityaffairs.co/wordpress/123645/cyber-crime/bulletproof-hosting-admins-sentenced-prison.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking gang creates fake firm to hire pentesters for ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/hacking-gang-creates-fake-firm-to-hire-pentesters-for-ransomware-attacks/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Plurilock to Acquire Assets of CloudCodes Software, Award Winning Cloud Security Provider<a href="https://finance.yahoo.com/news/plurilock-acquire-assets-cloudcodes-software-120100333.html?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM Packages Caught Running Cryptominer On Windows, Linux, macOS Devices<a href="https://thehackernews.com/2021/10/malicious-npm-packages-caught-running.html"> Full Text</a>
@@ -366,7 +366,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Bureau of Industry and Security bans export of hacking tools to authoritarian regimes<a href="https://securityaffairs.co/wordpress/123641/laws-and-regulations/us-bureau-of-industry-and-security-bans-export-hacking-tools.html"> Full Text</a>
@@ -386,7 +386,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google launches Android Enterprise bug bounty program<a href="https://www.bleepingcomputer.com/news/security/google-launches-android-enterprise-bug-bounty-program/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US judge sentences duo for roles in running bulletproof hosting service<a href="https://www.zdnet.com/article/us-judge-sentences-duo-for-roles-in-providing-bulletproof-hosting/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Bans Sale of Hacking Tools to Authoritarian Regimes<a href="https://thehackernews.com/2021/10/us-government-bans-sale-of-hacking.html"> Full Text</a>
@@ -434,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 5 Attack Vectors to Look Out For in 2022<a href="https://securityaffairs.co/wordpress/123636/security/top-5-attack-vectors-2022.html"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime matures as hackers are forced to work smarter<a href="https://www.bleepingcomputer.com/news/security/cybercrime-matures-as-hackers-are-forced-to-work-smarter/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptomining Malware Found Hidden Inside Three Libraries on Official NPM Package Repository<a href="https://therecord.media/crypto-miner-found-hidden-inside-three-npm-libraries/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Stealing Browser Cookies to Hijack High-Profile YouTube Accounts<a href="https://thehackernews.com/2021/10/hackers-stealing-browser-cookies-to.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RAT malware spreading in Korea through webhards and torrents<a href="https://www.bleepingcomputer.com/news/security/rat-malware-spreading-in-korea-through-webhards-and-torrents/"> Full Text</a>
@@ -518,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siloed security data hamper the ability to achieve collective defense<a href="https://www.helpnetsecurity.com/2021/10/21/siloed-security-data/?&web_view=true"> Full Text</a>
@@ -534,7 +534,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine arrested for impersonating bank clerks to steal from the elderly<a href="https://www.bleepingcomputer.com/news/security/nine-arrested-for-impersonating-bank-clerks-to-steal-from-the-elderly/"> Full Text</a>
@@ -550,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bulletproof hosting admins sentenced for helping cybercrime gangs<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-sentenced-for-helping-cybercrime-gangs/"> Full Text</a>
@@ -566,7 +566,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2021
+October 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Crushes YouTube Cookie-Stealing Channel Hijackers<a href="https://threatpost.com/google-youtube-channel-hijackers-cryptocurrency-scams/175617/"> Full Text</a>
@@ -582,7 +582,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2021
+October 20, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Geriatric Microsoft Bug Exploited by APT Using Commodity RATs<a href="https://threatpost.com/apt-commodity-rats-microsoft-bug/175601/"> Full Text</a>
@@ -598,7 +598,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2021
+October 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Eastern Europeans Sentenced for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/10/two-eastern-europeans-sentenced-for.html"> Full Text</a>
