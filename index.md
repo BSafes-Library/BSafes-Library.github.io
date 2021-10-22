@@ -34,6 +34,586 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive campaign uses YouTube to push password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/massive-campaign-uses-youtube-to-push-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Widespread malware campaigns are creating YouTube videos to distribute password-stealing trojans to unsuspecting viewers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit the Discord CDN to Deliver 27 Unique Types of Malware<a href="https://www.riskiq.com/blog/external-threat-management/discord-cdn-abuse-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discord, a popular VoIP, instant messaging, and digital distribution platform used by 140 million people in 2021, is being abused by cybercriminals to deploy malware files.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, allied nations force REvil ransomware group offline: report<a href="https://thehill.com//policy/cybersecurity/577914-us-and-allied-nations-force-revil-ransomware-group-offline-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and other nations earlier this week in a joint operation hacked and forced offline the REvil cyber criminal group, which has been linked to several major ransomware attacks this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Before and After a Pen Test: Steps to Get Through It<a href="https://thehackernews.com/2021/10/before-and-after-pen-test-steps-to-get.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An effective cybersecurity strategy can be challenging to implement correctly and often involves many layers of security. Part of a robust security strategy involves performing what is known as a penetration test (pen test). The penetration test helps to discover vulnerabilities and weaknesses in your security defenses before the bad guys discover these. They can also help validate remedial efforts and solutions put in place to overcome previously discovered security vulnerabilities.   Let's look more closely at the pen test. What is included in a penetration test? How are they performed, and by whom? What steps should be taken after a penetration test?  What is a penetration test? 1 — Simulated cyberattack   A penetration test is, for all practical purposes, a simulated cyberattack on your business. However, it is carried out by the "good guys." An outside resource often conducts a penetration test, whether a third-party security consulting company or another security entity. Securit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp rebrands their ransomware, this time is the Macaw Locker<a href="https://securityaffairs.co/wordpress/123661/cyber-crime/evil-corp-macaw-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil Corp cybercrime gang is using a new ransomware called Macaw Locker to evade US sanctions that prevent victims from paying the ransom. 
+
+
+
+Evil Corp has launched a new ransomware called Macaw Locker to evade US sanctions that prevent victims from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Ban on Sales of Cyberattack Tools Is Anemic, Experts Warn<a href="https://threatpost.com/us-ban-cyberattack-tools-zerodium/175654/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meanwhile, Zerodium’s quest to buy VPN exploits is problematic, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp demands $40 million in new Macaw ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/evil-corp-demands-40-million-in-new-macaw-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil Corp has launched a new ransomware called Macaw Locker to evade US sanctions that prevent victims from making ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INE Acquires Pentester Academy to Enhance Comprehensive IT Training Solutions<a href="https://www.globenewswire.com/news-release/2021/10/20/2317713/0/en/INE-Acquires-Pentester-Academy-to-Enhance-Comprehensive-IT-Training-Solutions.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INE has acquired Pentester Academy to accelerate the creation of more challenging, scenario-based training tools across Cyber Security, Networking, Data Science, Cloud, and DevOps.
+</details>
+<div style="text-align: right" markdown="1">
+Globe News Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Senate bill would take steps to protect AI-collected data<a href="https://thehill.com//policy/cybersecurity/577865-new-senate-bill-would-take-steps-to-protect-ai-collected-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new bipartisan Senate bill introduced Thursday is aiming to secure data collected by artificial intelligence technologies, such as facial recognition technologies, as these types of technologies continue to grow in use. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Popular WinRAR Software Could Let Attackers Hack Your Computer<a href="https://thehackernews.com/2021/10/bug-in-free-winrar-software-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security weakness has been disclosed in the WinRAR trialware file archiver utility for Windows that could be abused by a remote attacker to execute arbitrary code on targeted systems, underscoring how vulnerabilities in such software could beсome a gateway for a roster of attacks.  Tracked as CVE-2021-35052, the bug impacts the trial version of the software running version 5.70. "This vulnerability allows an attacker to intercept and modify requests sent to the user of the application," Positive Technologies' Igor Sak-Sakovskiy  said  in a technical write-up. "This can be used to achieve remote code execution (RCE) on a victim's computer."   Sak-Sakovskiy noted that investigation into WinRAR began after observing a JavaScript error rendered by MSHTML (aka Trident), a proprietary browser engine for the now-discontinued Internet Explorer and which is used in Office to render web content inside Word, Excel, and PowerPoint documents, leading to the discov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in WinRAR could lead to remote code execution<a href="https://securityaffairs.co/wordpress/123652/hacking/winrar-trial-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the WinRAR is a trialware file archiver utility for Windows could be exploited by a remote attacker to hack a system.
+
+
+
+Positive Technologies researcher Igor Sak-Sakovskiy discovered a remote code execution vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Sinks Teeth into Candy-Corn Maker Ahead of Halloween<a href="https://threatpost.com/ransomware-candy-corn-halloween/175630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chicago-based Ferrara acknowledged an Oct. 9 attack that encrypted some systems and disrupted production.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft now defends nonprofits against nation-state attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-now-defends-nonprofits-against-nation-state-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today a new security program for nonprofits to provide them with protection against nation-state attacks that have increasingly targeting them in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Historic scientific notation bug foils WAF defenses<a href="https://portswigger.net/daily-swig/historic-scientific-notation-bug-foils-waf-defenses?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered that a historic vulnerability affecting both MySQL and MariaDB databases caused serious flaws for security technologies from Amazon Web Services.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group tied to Colonial Pipeline attack continuing to recruit tech talent<a href="https://thehill.com//policy/cybersecurity/577830-hacking-group-tied-to-colonial-pipeline-attack-continuing-to-recruit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group linked to the ransomware attack on Colonial Pipeline earlier this year is posing as a fake company to recruit individuals to help carry out further attacks, according to a report published Thursday.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Overview: Cynet SaaS Security Posture Management (SSPM)<a href="https://thehackernews.com/2021/10/product-overview-cynet-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software-as-a-service (SaaS) applications have gone from novelty to business necessity in a few short years, and its positive impact on organizations is clear. It's safe to say that most industries today run on SaaS applications, which is undoubtedly positive, but it does introduce some critical new challenges to organizations.   As SaaS application use expands, as well as the number of touchpoints they create, the attack surface also becomes significantly larger.  As an answer to this emerging challenge, XDR provider Cynet has added a new SaaS Security Posture Management (SSPM) tool to its existing platform ( you can learn more here ). Regardless of the size of an organization or its security team, managing the security policy and posture of dozens to hundreds of SaaS applications is a complex task, and one that requires the right tools to expedite and optimize. Using SSPM can centralize many of the management and logistics requirements and offer a more unified way to establish secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Administrators of bulletproof hosting sentenced to prison in the US<a href="https://securityaffairs.co/wordpress/123645/cyber-crime/bulletproof-hosting-admins-sentenced-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice sentenced two individuals that were providing bulletproof hosting to various malware operations. 
+
+
+
+The United States Department of Justice sentenced to prison two individuals involved in providing bulletproof...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking gang creates fake firm to hire pentesters for ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/hacking-gang-creates-fake-firm-to-hire-pentesters-for-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FIN7 hacking group is attempting to join the highly profitable ransomware space by creating fake cybersecurity companies that conduct network attacks under the guise of pentesting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Plurilock to Acquire Assets of CloudCodes Software, Award Winning Cloud Security Provider<a href="https://finance.yahoo.com/news/plurilock-acquire-assets-cloudcodes-software-120100333.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plurilock has entered into definitive agreements dated October 21, 2021, to acquire certain assets of CloudCodes Software Private Limited, a cloud access security broker based in India.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Packages Caught Running Cryptominer On Windows, Linux, macOS Devices<a href="https://thehackernews.com/2021/10/malicious-npm-packages-caught-running.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three JavaScript libraries uploaded to the official NPM package repository have been unmasked as crypto-mining malware, once again demonstrating how open-source software package repositories are becoming a lucrative target for executing an array of attacks on Windows, macOS, and Linux systems.  The malicious packages in question — named  okhsa ,  klow , and  klown  — were published by the same developer and falsely claimed to be JavaScript-based user-agent string parsers designed to extract hardware specifics from the " User-Agent " HTTP header. But unbeknownst to the victims who imported them, the author hid cryptocurrency mining malware inside the libraries.   The bad actor's NPM account has since been deactivated, and all the three libraries, each of which were downloaded 112, 4, and 65 times respectively, have been removed from the repository as of October 15, 2021.  Attacks involving the three libraries worked by detecting the current operating system, before procee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Bureau of Industry and Security bans export of hacking tools to authoritarian regimes<a href="https://securityaffairs.co/wordpress/123641/laws-and-regulations/us-bureau-of-industry-and-security-bans-export-hacking-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department's Bureau of Industry and Security (BIS) would ban U.S. firms from selling hacking tools to authoritarian regimes.
+
+
+
+The Commerce Department's Bureau of Industry and Security (BIS) would introduce a new export control rule aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches Android Enterprise bug bounty program<a href="https://www.bleepingcomputer.com/news/security/google-launches-android-enterprise-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the launch of its first vulnerability rewards program for Android Enterprise with bounties of up to $250,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US judge sentences duo for roles in running bulletproof hosting service<a href="https://www.zdnet.com/article/us-judge-sentences-duo-for-roles-in-providing-bulletproof-hosting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The duo were accused of providing online hosting services that are known as bulletproof -- a popular option for cybercriminals who need a host that will turn a blind eye to criminal activity.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Bans Sale of Hacking Tools to Authoritarian Regimes<a href="https://thehackernews.com/2021/10/us-government-bans-sale-of-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Commerce Department on Wednesday announced new rules barring the sales of hacking software and equipment to authoritarian regimes and potentially facilitate human rights abuse for national security (NS) and anti-terrorism (AT) reasons.  The  mandate , which is set to go into effect in 90 days, will forbid the export, reexport and transfer of "cybersecurity items" to countries of "national security or weapons of mass destruction concern" such as China and Russia without a license from the department's Bureau of Industry and Security (BIS).  "The United States Government opposes the misuse of technology to abuse human rights or conduct other malicious cyber activities, and these new rules will help ensure that U.S. companies are not fueling authoritarian practices," BIS  said  in a press release.   The rule does not cover "intrusion software" itself, but rather the following —   Systems, equipment, and components specially designed or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 Attack Vectors to Look Out For in 2022<a href="https://securityaffairs.co/wordpress/123636/security/top-5-attack-vectors-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are continually looking for better ways to target organizations, here are the top five attack vectors to look out for in 2022. 
+
+
+
+Malicious actors are continually looking for better ways to carry out successful cyber attacks. Whether motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime matures as hackers are forced to work smarter<a href="https://www.bleepingcomputer.com/news/security/cybercrime-matures-as-hackers-are-forced-to-work-smarter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of 500 hacking incidents across a wide range of industries has revealed trends that characterize a maturity in the way hacking groups operate today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining Malware Found Hidden Inside Three Libraries on Official NPM Package Repository<a href="https://therecord.media/crypto-miner-found-hidden-inside-three-npm-libraries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The names of the three npm packages were klow, klown, and okhsa. The packages were live only for a day, on October 15. The final payloads (cryptominers) could be run on Windows or Linux platforms.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Stealing Browser Cookies to Hijack High-Profile YouTube Accounts<a href="https://thehackernews.com/2021/10/hackers-stealing-browser-cookies-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since at least late 2019, a network of hackers-for-hire have been hijacking the channels of YouTube creators, luring them with bogus collaboration opportunities to broadcast cryptocurrency scams or sell the accounts to the highest bidder.  That's according to a new report published by Google's Threat Analysis Group (TAG), which said it disrupted financially motivated phishing campaigns targeting the video platform with cookie theft malware. The actors behind the infiltration have been attributed to a group of hackers recruited in a Russian-speaking forum.   "Cookie Theft, also known as 'pass-the-cookie attack,' is a session hijacking technique that enables access to user accounts with session cookies stored in the browser," TAG's Ashley Shen  said . "While the technique has been around for decades, its resurgence as a top security risk could be due to a wider adoption of multi-factor authentication (MFA) making it difficult to conduct abuse, and shif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RAT malware spreading in Korea through webhards and torrents<a href="https://www.bleepingcomputer.com/news/security/rat-malware-spreading-in-korea-through-webhards-and-torrents/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malware distribution campaign targeting South Korea is disguising RATs (remote access trojans) as an adult game shared via webhards and torrents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siloed security data hamper the ability to achieve collective defense<a href="https://www.helpnetsecurity.com/2021/10/21/siloed-security-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new Cyware study, conducted by Forrester, 64% of respondents noted that sharing cyber threat intelligence between their organizations’ SOC, incident response, and threat intel teams is limited.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine arrested for impersonating bank clerks to steal from the elderly<a href="https://www.bleepingcomputer.com/news/security/nine-arrested-for-impersonating-bank-clerks-to-steal-from-the-elderly/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch Police have arrested nine people for targeting and stealing money from the elderly by impersonating bank employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting admins sentenced for helping cybercrime gangs<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-sentenced-for-helping-cybercrime-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Eastern European men were sentenced to prison on Racketeer Influenced Corrupt Organization (RICO) charges for bulletproof hosting services used by multiple cybercrime operations to target US organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Crushes YouTube Cookie-Stealing Channel Hijackers<a href="https://threatpost.com/google-youtube-channel-hijackers-cryptocurrency-scams/175617/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has caught and brushed off a bunch of cookie-stealing YouTube channel hijackers who were running cryptocurrency scams on, or auctioning off, ripped-off channels. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Geriatric Microsoft Bug Exploited by APT Using Commodity RATs<a href="https://threatpost.com/apt-commodity-rats-microsoft-bug/175601/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disguised as an IT firm, the APT is hitting targets in Afghanistan & India, exploiting a 20-year-old+ Microsoft Office bug that’s as potent as it is ancient.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Eastern Europeans Sentenced for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/10/two-eastern-europeans-sentenced-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Eastern European nationals have been sentenced in the U.S. for offering "bulletproof hosting" services to cybercriminals, who used the technical infrastructure to distribute malware and attack financial institutions across the country between 2009 to 2015.  Pavel Stassi, 30, of Estonia, and Aleksandr Shorodumov, 33, of Lithuania, have been each sentenced to 24 months and 48 months in prison, respectively, for their roles in the scheme.   The development comes months after Stassi and Shorodumov, along with Aleksandr Grichishkin and Andrei Skvortsov of Russia,  pleaded guilty  to Racketeer Influenced Corrupt Organization (RICO) charges earlier this May. The U.S. Justice Department (DoJ) said the other two co-defendants, Grichishkin and Skvortsov, are pending sentencing and face a maximum penalty of 20 years in prison.  Court documents showed that both the individuals worked as administrators for an unnamed bulletproof hosting service provider that rented out IP addresses,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
