@@ -34,6 +34,506 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hackers nervous, allege harassment from U.S.<a href="https://www.nbcnews.com/tech/security/ransomware-hackers-nervous-allege-harassment-us-rcna3637?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several ransomware gangs posted lengthy anti-U.S. screeds. They appear prompted by the news that the FBI had successfully hacked and taken down another major ransomware group called REvil.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Reportedly Hacked REvil Ransomware Group and Forced it Offline<a href="https://thehackernews.com/2021/10/feds-reportedly-hacked-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-led REvil ransomware gang was felled by an active multi-country law enforcement operation that resulted in its infrastructure being hacked and  taken offline  for a second time earlier this week, in what's the  latest action  taken by governments to disrupt the lucrative ecosystem.  The takedown was first reported by  Reuters , quoting multiple private-sector cyber experts working with the U.S. government, noting that the  May cyber attack  on Colonial Pipeline relied on encryption software developed by REvil associates, officially corroborating DarkSide's  connections  to the prolific criminal outfit.   Coinciding with the development, blockchain analytics firm Elliptic  disclosed  that $7 million in bitcoin held by the DarkSide ransomware group were moved through a series of new wallets, with a small fraction of the amount being transferred with each transfer to make the laundered money more difficult to track and  convert   the funds  into fiat currency through
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Nation-State Hackers, Cybercriminals Also Add Sliver Pentest Tool to Arsenal<a href="https://www.securityweek.com/after-nation-state-hackers-cybercriminals-also-add-sliver-pentest-tool-arsenal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminal group tracked as TA551 recently showed a significant change in tactics with the addition of the open-source pentest tool Sliver to its arsenal, according to cybersecurity firm Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Packages Disguised as JavaScript Libraries Found<a href="https://www.govinfosecurity.com/malicious-packages-disguised-as-javascript-libraries-found-a-17782?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at open-source software firm Sonatype have uncovered multiple malicious packages that disguise themselves as legitimate JavaScript libraries on npm registries to launch cryptominers on Windows, macOS and Linux machines.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 22nd 2021 - Striking back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-22nd-2021-striking-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between law enforcement operations, REvil's second shut down, and ransomware gangs' response to the hacking of their servers, it has been quite the week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top officials turn over Twitter accounts to 'share the mic' with Black cybersecurity experts<a href="https://thehill.com//policy/cybersecurity/578100-top-officials-turn-over-twitter-accounts-to-share-the-mic-with-black"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top federal officials and cybersecurity experts participated Friday in an online campaign to “share the mic” in cyber, giving control of their Twitter accounts to Black cybersecurity officials and experts in an effort to combat systemic racism. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Hypothetical Command Vision Statement for a Fictional PLA Cyber Command<a href="https://www.lawfareblog.com/hypothetical-command-vision-statement-fictional-pla-cyber-command"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What would be the impact of other cyber powers adopting U.S. Cyber Command’s Command Vision concepts in pursuing their own security interests?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook SSRF Dashboard allows hunting SSRF vulnerabilities<a href="https://securityaffairs.co/wordpress/123693/hacking/facebook-ssrf-dashboard-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook developed a new tool that allows security experts to look for Server-Side Request Forgery (SSRF) vulnerabilities in their software.
+
+
+
+Facebook announced to have designed a new tool, named SSRF Dashboard, that allows security researchers to search...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCUF Gaming store hacked to steal credit card info of 32,000 customers<a href="https://www.bleepingcomputer.com/news/security/scuf-gaming-store-hacked-to-steal-credit-card-info-of-32-000-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SCUF Gaming International, a leading manufacturer of custom PC and console controllers, is notifying customers that its website was hacked in February to plant a malicious script used to steal their credit card information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM Package Hijacked to Publish Crypto-mining Malware<a href="https://thehackernews.com/2021/10/popular-npm-package-hijacked-to-publish.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency on Friday  warned  of crypto-mining malware embedded in " UAParser.js ," a popular JavaScript NPM library with over 6 million weekly downloads, days after the NPM repository moved to get rid of three rogue packages that were found to mimic the same library.   The supply-chain attack targeting the open-source library saw three different versions — 0.7.29, 0.8.0, 1.0.0 — that were published with malicious code on Thursday following a successful takeover of the maintainer's NPM account.  "I believe someone was hijacking my NPM account and published some compromised packages (0.7.29, 0.8.0, 1.0.0) which will probably install malware," UAParser.js's developer Faisal Salman  said . The issue has been patched in versions 0.7.30, 0.8.1, and 1.0.1.   The development comes days after DevSecOps firm Sonatype disclosed details of three packages —  okhsa, klow, and klown  — that masqueraded as the user-agent stri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove ransomware group calls on other ransomware gangs to hit US public sector<a href="https://securityaffairs.co/wordpress/123684/malware/groove-ransomware-gang-call-to-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Groove ransomware operators call on other ransomware groups to stop competing and join the forces to fight against the US. 
+
+
+
+The Groove ransomware gang is calling on other ransomware groups to attack US public sector after a an operation of of law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware rushes to cash out $7 million in Bitcoin<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-rushes-to-cash-out-7-million-in-bitcoin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost $7 million worth of Bitcoin in a wallet controlled by DarkSide ransomware operators has been moved in what looks like a money laundering rollercoaster.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Lone Wolf' Hacker Group Targeting Afghanistan and India with Commodity RATs<a href="https://thehackernews.com/2021/10/lone-wolf-hacker-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign targeting Afghanistan and India is exploiting a now-patched, 20-year-old flaw affecting Microsoft Office to deploy an array of commodity remote access trojans (RATs) that allow the adversary to gain complete control over the compromised endpoints.  Cisco Talos attributed the cyber campaign to a "lone wolf" threat actor operating a Lahore-based fake IT company called Bunse Technologies as a front to carry out the malicious activities, while also having a history of sharing content that's in favor of Pakistan and Taliban dating all the way back to 2016.   The attacks work by taking advantage of political and government-themed lure domains that host the malware payloads, with the infection chains leveraging weaponized RTF documents and PowerShell scripts that distribute malware to victims. Specifically, the laced RTF files were found exploiting  CVE-2017-11882  to execute a PowerShell command that's responsible for deploying additional malware to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware operators move 6.8M worth of Bitcoin after REvil shutdown<a href="https://securityaffairs.co/wordpress/123679/cyber-crime/darkside-ransomware-move-bitcoin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darkside and BlackMatter ransomware operators have moved a large amount of their Bitcoin reserves after the recent shutdown of REvil's infrastructure. 
+
+
+
+The gangs behind the Darkside and BlackMatter ransomware operations have moved 107 BTC ($6.8 million)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove ransomware calls on all extortion gangs to attack US interests<a href="https://www.bleepingcomputer.com/news/security/groove-ransomware-calls-on-all-extortion-gangs-to-attack-us-interests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Groove ransomware gang is calling on other extortion groups to attack US interests after law enforcement took down REvil's infrastructure last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This monster of a phishing campaign is after your passwords<a href="https://www.zdnet.com/article/this-frankensteins-monster-of-a-phishing-campaign-is-after-your-passwords/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has detailed an unusual phishing campaign aimed at stealing passwords that uses the ZooToday phishing kit built using pieces of code copied from other hackers' work.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Set Up Fake Company to Get IT Experts to Launch Ransomware Attacks<a href="https://thehackernews.com/2021/10/hackers-set-up-fake-company-to-get-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated FIN7 cybercrime gang has masqueraded as yet another fictitious cybersecurity company called "Bastion Secure" to recruit unwitting software engineers under the guise of penetration testing in a likely lead-up to a ransomware scheme.  "With FIN7's latest fake company, the criminal group leveraged true, publicly available information from various legitimate cybersecurity companies to create a thin veil of legitimacy around Bastion Secure," Recorded Future's Gemini Advisory unit said  in a report. "FIN7 is adopting disinformation tactics so that if a potential hire or interested party were to fact check Bastion Secure, then a cursory search on Google would return 'true' information for companies with a similar name or industry to FIN7's Bastion Secure."   FIN7 , also known as Carbanak, Carbon Spider, and Anunak, has a track record  of striking restaurant, gambling, and hospitality industries in the U.S. to infect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 cybercrime gang creates fake cybersecurity firm to recruit pentesters for ransomware attacks<a href="https://securityaffairs.co/wordpress/123673/cyber-crime/fin7-fake-cybersecurity-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 hacking group created fake cybersecurity companies to hire experts and involve them in ransomware attacks tricking them of conducting a pentest. 
+
+
+
+The FIN7 hacking group is attempting to enter in the ransomware business and is doing it with an interesting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: WizardUpdate Mac malware adds new evasion tactics<a href="https://www.bleepingcomputer.com/news/security/microsoft-wizardupdate-mac-malware-adds-new-evasion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says it found new variants of macOS malware known as WizardUpdate (also tracked as UpdateAgent or Vigram), updated to use new evasion and persistence tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss exhibitions organizer MCH Group hit by cyberattack<a href="https://portswigger.net/daily-swig/swiss-exhibitions-organizer-mch-group-hit-by-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss events organizer and marketing company MCH Group was hit by a malware attack on Wednesday (October 20). The firm says it is working to get systems up and running again.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Microsoft-Signed FiveSys Rootkit in the Wild<a href="https://thehackernews.com/2021/10/researchers-discover-microsoft-signed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified rootkit has been found with a valid digital signature issued by Microsoft that's used to proxy traffic to internet addresses of interest to the attackers for over a year targeting online gamers in China.  Bucharest-headquartered cybersecurity technology company Bitdefender named the malware " FiveSys ," calling out its possible credential theft and in-game-purchase hijacking motives. The Windows maker has since revoked the signature following responsible disclosure.   "Digital signatures are a way of establishing trust," Bitdefender researchers said in a white paper, adding "a valid digital signature helps the attacker navigate around the operating system's restrictions on loading third-party modules into the kernel. Once loaded, the rootkit allows its creators to gain virtually unlimited privileges."  Rootkits are both evasive and stealthy as they offer threat actors an entrenched foothold onto victims' systems and conceal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FiveSys, a new digitally-signed rootkit spotted by Bitdefender experts<a href="https://securityaffairs.co/wordpress/123664/malware/fivesys-digitally-signed-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers discovered a new Rootkit named FiveSys that abuses Microsoft-Issued Digital Signature signature to evade detection.
+
+
+
+FiveSys  is a new rootkit discovered by researchers from Bitdefender, it is able to evade detection by abusing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian celebs' data exposed in ransomware attack on SIAE<a href="https://www.bleepingcomputer.com/news/security/italian-celebs-data-exposed-in-ransomware-attack-on-siae/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian data protection authority Garante per la Protezione dei Dati Personali (GPDP) has announced an investigation into a data breach of the country's copyright protection agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Ransomware Gang Moves Bitcoin Reserves After REvil Got Hit by Law Enforcement Action<a href="https://therecord.media/darkside-ransomware-gang-moves-some-of-its-bitcoin-after-revil-got-hit-by-law-enforcement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside and BlackMatter ransomware strains have moved a large chunk of their Bitcoin reserves after news broke that REvil was hit by a law enforcement takedown.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the public preview roll-out of end-to-end encryption (E2EE) support for one-to-one Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turkish cybersecurity venture raises $24M to accelerate expansion<a href="https://www.dailysabah.com/business/tech/turkish-cybersecurity-venture-raises-24m-to-accelerate-expansion?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This latest round takes the total funding Picus has received to $33 million. The company plans to use the funds to help accelerate its expansion in EMEA and APAC countries.
+</details>
+<div style="text-align: right" markdown="1">
+Daily Sabah
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the public preview roll-out of end-to-end encryption (E2EE) support for one-to-one Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA551 Shifts Tactics to Install Sliver Red-Teaming Tool<a href="https://threatpost.com/ta551-tactics-sliver-red-teaming/175651/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new email campaign from the threat group uses the attack-simulation framework in a likely leadup to ransomware deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigabyte Allegedly Hit by AvosLocker Ransomware<a href="https://threatpost.com/gigabyte-avoslocker-ransomware-gang/175642/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If AvosLocker stole Gigabyte’s master keys, threat actors could force hardware to download fake drivers or BIOS updates in a supply-chain attack a la SolarWinds. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why is Cybersecurity Failing Against Ransomware?<a href="https://threatpost.com/cybersecurity-failing-ransomware/175637/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hardly a week goes by without another major company falling victim to a ransomware attack. Nate Warfield, CTO at Prevailion, discusses the immense challenges in changing that status quo.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
