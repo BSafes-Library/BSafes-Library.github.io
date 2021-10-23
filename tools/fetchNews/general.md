@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Ban on Sales of Cyberattack Tools Is Anemic, Experts Warn<a href="https://threatpost.com/us-ban-cyberattack-tools-zerodium/175654/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meanwhile, Zerodium’s quest to buy VPN exploits is problematic, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft now defends nonprofits against nation-state attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-now-defends-nonprofits-against-nation-state-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today a new security program for nonprofits to provide them with&nbsp;protection against nation-state attacks that have increasingly targeting them in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 Attack Vectors to Look Out For in 2022<a href="https://securityaffairs.co/wordpress/123636/security/top-5-attack-vectors-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are continually looking for better ways to target organizations, here are the top five attack vectors to look out for in 2022. 
+
+
+
+Malicious actors are continually looking for better ways to carry out successful cyber attacks. Whether motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siloed security data hamper the ability to achieve collective defense<a href="https://www.helpnetsecurity.com/2021/10/21/siloed-security-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new Cyware study, conducted by Forrester, 64% of respondents noted that sharing cyber threat intelligence between their organizations’ SOC, incident response, and threat intel teams is limited.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Senate bill would take steps to protect AI-collected data<a href="https://thehill.com//policy/cybersecurity/577865-new-senate-bill-would-take-steps-to-protect-ai-collected-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new bipartisan Senate bill introduced Thursday is aiming to secure data collected by artificial intelligence technologies, such as facial recognition technologies, as these types of technologies continue to grow in use.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Bureau of Industry and Security bans export of hacking tools to authoritarian regimes<a href="https://securityaffairs.co/wordpress/123641/laws-and-regulations/us-bureau-of-industry-and-security-bans-export-hacking-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department's Bureau of Industry and Security (BIS) would ban U.S. firms from selling hacking tools to authoritarian regimes.
+
+
+
+The Commerce Department's Bureau of Industry and Security (BIS) would introduce a new export control rule aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Bans Sale of Hacking Tools to Authoritarian Regimes<a href="https://thehackernews.com/2021/10/us-government-bans-sale-of-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Commerce Department on Wednesday announced new rules barring the sales of hacking software and equipment to authoritarian regimes and potentially facilitate human rights abuse for national security (NS) and anti-terrorism (AT) reasons.  The&nbsp; mandate , which is set to go into effect in 90 days, will forbid the export, reexport and transfer of "cybersecurity items" to countries of "national security or weapons of mass destruction concern" such as China and Russia without a license from the department's Bureau of Industry and Security (BIS).  "The United States Government opposes the misuse of technology to abuse human rights or conduct other malicious cyber activities, and these new rules will help ensure that U.S. companies are not fueling authoritarian practices," BIS&nbsp; said &nbsp;in a press release.   The rule does not cover "intrusion software" itself, but rather the following —   Systems, equipment, and components specially designed or
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

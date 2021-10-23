@@ -8,6 +8,130 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hackers nervous, allege harassment from U.S.<a href="https://www.nbcnews.com/tech/security/ransomware-hackers-nervous-allege-harassment-us-rcna3637?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several ransomware gangs posted lengthy anti-U.S. screeds. They appear prompted by the news that the FBI had successfully hacked and taken down another major ransomware group called REvil.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Reportedly Hacked REvil Ransomware Group and Forced it Offline<a href="https://thehackernews.com/2021/10/feds-reportedly-hacked-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-led REvil ransomware gang was felled by an active multi-country law enforcement operation that resulted in its infrastructure being hacked and&nbsp; taken offline &nbsp;for a second time earlier this week, in what's the&nbsp; latest action &nbsp;taken by governments to disrupt the lucrative ecosystem.  The takedown was first reported by&nbsp; Reuters , quoting multiple private-sector cyber experts working with the U.S. government, noting that the&nbsp; May cyber attack &nbsp;on Colonial Pipeline relied on encryption software developed by REvil associates, officially corroborating DarkSide's&nbsp; connections &nbsp;to the prolific criminal outfit.   Coinciding with the development, blockchain analytics firm Elliptic&nbsp; disclosed &nbsp;that $7 million in bitcoin held by the DarkSide ransomware group were moved through a series of new wallets, with a small fraction of the amount being transferred with each transfer to make the laundered money more difficult to track and&nbsp; convert &nbsp; the funds &nbsp;into fiat currency through
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Nation-State Hackers, Cybercriminals Also Add Sliver Pentest Tool to Arsenal<a href="https://www.securityweek.com/after-nation-state-hackers-cybercriminals-also-add-sliver-pentest-tool-arsenal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminal group tracked as TA551 recently showed a significant change in tactics with the addition of the open-source pentest tool Sliver to its arsenal, according to cybersecurity firm Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove ransomware group calls on other ransomware gangs to hit US public sector<a href="https://securityaffairs.co/wordpress/123684/malware/groove-ransomware-gang-call-to-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Groove ransomware operators call on other ransomware groups to stop competing and join the forces to fight against the US. 
+
+
+
+The Groove ransomware gang is calling on other ransomware groups to attack US public sector after a an operation of of law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware operators move 6.8M worth of Bitcoin after REvil shutdown<a href="https://securityaffairs.co/wordpress/123679/cyber-crime/darkside-ransomware-move-bitcoin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darkside and BlackMatter ransomware operators have moved a large amount of their Bitcoin reserves after the recent shutdown of REvil's infrastructure. 
+
+
+
+The gangs behind the Darkside and BlackMatter ransomware operations have moved 107 BTC ($6.8 million)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove ransomware calls on all extortion gangs to attack US interests<a href="https://www.bleepingcomputer.com/news/security/groove-ransomware-calls-on-all-extortion-gangs-to-attack-us-interests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Groove ransomware gang is calling on other extortion groups to attack US interests after law enforcement took down REvil's infrastructure last week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 cybercrime gang creates fake cybersecurity firm to recruit pentesters for ransomware attacks<a href="https://securityaffairs.co/wordpress/123673/cyber-crime/fin7-fake-cybersecurity-firm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 hacking group created fake cybersecurity companies to hire experts and involve them in ransomware attacks tricking them of conducting a pentest. 
+
+
+
+The FIN7 hacking group is attempting to enter in the ransomware business and is doing it with an interesting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide Ransomware Gang Moves Bitcoin Reserves After REvil Got Hit by Law Enforcement Action<a href="https://therecord.media/darkside-ransomware-gang-moves-some-of-its-bitcoin-after-revil-got-hit-by-law-enforcement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Darkside and BlackMatter ransomware strains have moved a large chunk of their Bitcoin reserves after news broke that REvil was hit by a law enforcement takedown.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

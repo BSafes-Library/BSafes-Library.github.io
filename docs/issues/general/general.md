@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Hypothetical Command Vision Statement for a Fictional PLA Cyber Command<a href="https://www.lawfareblog.com/hypothetical-command-vision-statement-fictional-pla-cyber-command"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What would be the impact of other cyber powers adopting U.S. Cyber Command’s Command Vision concepts in pursuing their own security interests?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why is Cybersecurity Failing Against Ransomware?<a href="https://threatpost.com/cybersecurity-failing-ransomware/175637/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hardly a week goes by without another major company falling victim to a ransomware attack. Nate Warfield, CTO at Prevailion, discusses the immense challenges in changing that status quo.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

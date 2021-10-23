@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turkish cybersecurity venture raises $24M to accelerate expansion<a href="https://www.dailysabah.com/business/tech/turkish-cybersecurity-venture-raises-24m-to-accelerate-expansion?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This latest round takes the total funding Picus has received to $33 million. The company plans to use the funds to help accelerate its expansion in EMEA and APAC countries.
+</details>
+<div style="text-align: right" markdown="1">
+Daily Sabah
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

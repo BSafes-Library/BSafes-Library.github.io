@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCUF Gaming store hacked to steal credit card info of 32,000 customers<a href="https://www.bleepingcomputer.com/news/security/scuf-gaming-store-hacked-to-steal-credit-card-info-of-32-000-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SCUF Gaming International, a leading manufacturer of custom PC and console controllers, is notifying customers that its website was hacked in February to plant a malicious script used to steal their credit card information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM Package Hijacked to Publish Crypto-mining Malware<a href="https://thehackernews.com/2021/10/popular-npm-package-hijacked-to-publish.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency on Friday&nbsp; warned &nbsp;of crypto-mining malware embedded in " UAParser.js ," a popular JavaScript NPM library with over 6 million weekly downloads, days after the NPM repository moved to get rid of three rogue packages that were found to mimic the same library.   The supply-chain attack targeting the open-source library saw three different versions — 0.7.29, 0.8.0, 1.0.0 — that were published with malicious code on Thursday following a successful takeover of the maintainer's NPM account.  "I believe someone was hijacking my NPM account and published some compromised packages (0.7.29, 0.8.0, 1.0.0) which will probably install malware," UAParser.js's developer Faisal Salman&nbsp; said . The issue has been patched in versions 0.7.30, 0.8.1, and 1.0.1.   The development comes days after DevSecOps firm Sonatype disclosed details of three packages —&nbsp; okhsa, klow, and klown &nbsp;— that masqueraded as the user-agent stri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian celebs' data exposed in ransomware attack on SIAE<a href="https://www.bleepingcomputer.com/news/security/italian-celebs-data-exposed-in-ransomware-attack-on-siae/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian data protection authority Garante per la Protezione dei Dati Personali (GPDP)&nbsp;has announced an investigation into a data breach of&nbsp;the country's copyright protection agency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

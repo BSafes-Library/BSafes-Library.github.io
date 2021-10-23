@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook SSRF Dashboard allows hunting SSRF vulnerabilities<a href="https://securityaffairs.co/wordpress/123693/hacking/facebook-ssrf-dashboard-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook developed a new tool that allows security experts to look for Server-Side Request Forgery (SSRF) vulnerabilities in their software.
+
+
+
+Facebook announced to have designed a new tool, named SSRF Dashboard, that allows security researchers to search...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

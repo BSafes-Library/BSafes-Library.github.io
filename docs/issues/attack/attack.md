@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Lone Wolf' Hacker Group Targeting Afghanistan and India with Commodity RATs<a href="https://thehackernews.com/2021/10/lone-wolf-hacker-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign targeting Afghanistan and India is exploiting a now-patched, 20-year-old flaw affecting Microsoft Office to deploy an array of commodity remote access trojans (RATs) that allow the adversary to gain complete control over the compromised endpoints.  Cisco Talos attributed the cyber campaign to a "lone wolf" threat actor operating a Lahore-based fake IT company called Bunse Technologies as a front to carry out the malicious activities, while also having a history of sharing content that's in favor of Pakistan and Taliban dating all the way back to 2016.   The attacks work by taking advantage of political and government-themed lure domains that host the malware payloads, with the infection chains leveraging weaponized RTF documents and PowerShell scripts that distribute malware to victims. Specifically, the laced RTF files were found exploiting&nbsp; CVE-2017-11882 &nbsp;to execute a PowerShell command that's responsible for deploying additional malware to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss exhibitions organizer MCH Group hit by cyberattack<a href="https://portswigger.net/daily-swig/swiss-exhibitions-organizer-mch-group-hit-by-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss events organizer and marketing company MCH Group was hit by a malware attack on Wednesday (October 20). The firm says it is working to get systems up and running again.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigabyte Allegedly Hit by AvosLocker Ransomware<a href="https://threatpost.com/gigabyte-avoslocker-ransomware-gang/175642/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If AvosLocker stole Gigabyte’s master keys, threat actors could force hardware to download fake drivers or BIOS updates in a supply-chain attack a la SolarWinds. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

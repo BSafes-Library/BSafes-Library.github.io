@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Set Up Fake Company to Get IT Experts to Launch Ransomware Attacks<a href="https://thehackernews.com/2021/10/hackers-set-up-fake-company-to-get-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated FIN7 cybercrime gang has masqueraded as yet another fictitious cybersecurity company called "Bastion Secure" to recruit unwitting software engineers under the guise of penetration testing in a likely lead-up to a ransomware scheme.  "With FIN7's latest fake company, the criminal group leveraged true, publicly available information from various legitimate cybersecurity companies to create a thin veil of legitimacy around Bastion Secure," Recorded Future's Gemini Advisory unit said  in a report. "FIN7 is adopting disinformation tactics so that if a potential hire or interested party were to fact check Bastion Secure, then a cursory search on Google would return 'true' information for companies with a similar name or industry to FIN7's Bastion Secure."   FIN7 , also known as Carbanak, Carbon Spider, and Anunak, has a track record  of striking restaurant, gambling, and hospitality industries in the U.S. to infect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

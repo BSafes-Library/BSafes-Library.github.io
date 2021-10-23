@@ -8,6 +8,90 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit the Discord CDN to Deliver 27 Unique Types of Malware<a href="https://www.riskiq.com/blog/external-threat-management/discord-cdn-abuse-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discord, a popular VoIP, instant messaging, and digital distribution platform used by 140 million people in 2021, is being abused by cybercriminals to deploy malware files.
+</details>
+<div style="text-align: right" markdown="1">
+Risk IQ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, allied nations force REvil ransomware group offline: report<a href="https://thehill.com//policy/cybersecurity/577914-us-and-allied-nations-force-revil-ransomware-group-offline-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and other nations earlier this week in a joint operation hacked and forced offline the REvil cyber criminal group, which&nbsp;has been&nbsp;linked to several major ransomware attacks this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking gang creates fake firm to hire pentesters for ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/hacking-gang-creates-fake-firm-to-hire-pentesters-for-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FIN7 hacking group is attempting to join the highly profitable ransomware space by creating fake cybersecurity companies that conduct network attacks under the guise of pentesting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime matures as hackers are forced to work smarter<a href="https://www.bleepingcomputer.com/news/security/cybercrime-matures-as-hackers-are-forced-to-work-smarter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of 500 hacking incidents across a wide range of industries has revealed trends that characterize a maturity in the way hacking groups operate today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting admins sentenced for helping cybercrime gangs<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-admins-sentenced-for-helping-cybercrime-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Eastern European men were sentenced to prison on Racketeer Influenced Corrupt Organization (RICO) charges for bulletproof hosting services used by multiple cybercrime operations to target US organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Eastern Europeans Sentenced for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/10/two-eastern-europeans-sentenced-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Eastern European nationals have been sentenced in the U.S. for offering "bulletproof hosting" services to cybercriminals, who used the technical infrastructure to distribute malware and attack financial institutions across the country between 2009 to 2015.  Pavel Stassi, 30, of Estonia, and Aleksandr Shorodumov, 33, of Lithuania, have been each sentenced to 24 months and 48 months in prison, respectively, for their roles in the scheme.   The development comes months after Stassi and Shorodumov, along with Aleksandr Grichishkin and Andrei Skvortsov of Russia,&nbsp; pleaded guilty &nbsp;to Racketeer Influenced Corrupt Organization (RICO) charges earlier this May. The U.S. Justice Department (DoJ) said the other two co-defendants, Grichishkin and Skvortsov, are pending sentencing and face a maximum penalty of 20 years in prison.  Court documents showed that both the individuals worked as administrators for an unnamed bulletproof hosting service provider that rented out IP addresses,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

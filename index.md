@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware hackers nervous, allege harassment from U.S.<a href="https://www.nbcnews.com/tech/security/ransomware-hackers-nervous-allege-harassment-us-rcna3637?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Reportedly Hacked REvil Ransomware Group and Forced it Offline<a href="https://thehackernews.com/2021/10/feds-reportedly-hacked-revil-ransomware.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Nation-State Hackers, Cybercriminals Also Add Sliver Pentest Tool to Arsenal<a href="https://www.securityweek.com/after-nation-state-hackers-cybercriminals-also-add-sliver-pentest-tool-arsenal?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Packages Disguised as JavaScript Libraries Found<a href="https://www.govinfosecurity.com/malicious-packages-disguised-as-javascript-libraries-found-a-17782?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 22nd 2021 - Striking back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-22nd-2021-striking-back/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top officials turn over Twitter accounts to 'share the mic' with Black cybersecurity experts<a href="https://thehill.com//policy/cybersecurity/578100-top-officials-turn-over-twitter-accounts-to-share-the-mic-with-black"> Full Text</a>
@@ -130,7 +130,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Hypothetical Command Vision Statement for a Fictional PLA Cyber Command<a href="https://www.lawfareblog.com/hypothetical-command-vision-statement-fictional-pla-cyber-command"> Full Text</a>
@@ -146,7 +146,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook SSRF Dashboard allows hunting SSRF vulnerabilities<a href="https://securityaffairs.co/wordpress/123693/hacking/facebook-ssrf-dashboard-tool.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SCUF Gaming store hacked to steal credit card info of 32,000 customers<a href="https://www.bleepingcomputer.com/news/security/scuf-gaming-store-hacked-to-steal-credit-card-info-of-32-000-customers/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular NPM Package Hijacked to Publish Crypto-mining Malware<a href="https://thehackernews.com/2021/10/popular-npm-package-hijacked-to-publish.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Groove ransomware group calls on other ransomware gangs to hit US public sector<a href="https://securityaffairs.co/wordpress/123684/malware/groove-ransomware-gang-call-to-action.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware rushes to cash out $7 million in Bitcoin<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-rushes-to-cash-out-7-million-in-bitcoin/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Lone Wolf' Hacker Group Targeting Afghanistan and India with Commodity RATs<a href="https://thehackernews.com/2021/10/lone-wolf-hacker-group-targeting.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware operators move 6.8M worth of Bitcoin after REvil shutdown<a href="https://securityaffairs.co/wordpress/123679/cyber-crime/darkside-ransomware-move-bitcoin.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Groove ransomware calls on all extortion gangs to attack US interests<a href="https://www.bleepingcomputer.com/news/security/groove-ransomware-calls-on-all-extortion-gangs-to-attack-us-interests/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This monster of a phishing campaign is after your passwords<a href="https://www.zdnet.com/article/this-frankensteins-monster-of-a-phishing-campaign-is-after-your-passwords/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Set Up Fake Company to Get IT Experts to Launch Ransomware Attacks<a href="https://thehackernews.com/2021/10/hackers-set-up-fake-company-to-get-it.html"> Full Text</a>
@@ -318,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 cybercrime gang creates fake cybersecurity firm to recruit pentesters for ransomware attacks<a href="https://securityaffairs.co/wordpress/123673/cyber-crime/fin7-fake-cybersecurity-firm.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: WizardUpdate Mac malware adds new evasion tactics<a href="https://www.bleepingcomputer.com/news/security/microsoft-wizardupdate-mac-malware-adds-new-evasion-tactics/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss exhibitions organizer MCH Group hit by cyberattack<a href="https://portswigger.net/daily-swig/swiss-exhibitions-organizer-mch-group-hit-by-cyber-attack?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Microsoft-Signed FiveSys Rootkit in the Wild<a href="https://thehackernews.com/2021/10/researchers-discover-microsoft-signed.html"> Full Text</a>
@@ -386,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FiveSys, a new digitally-signed rootkit spotted by Bitdefender experts<a href="https://securityaffairs.co/wordpress/123664/malware/fivesys-digitally-signed-rootkit.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian celebs' data exposed in ransomware attack on SIAE<a href="https://www.bleepingcomputer.com/news/security/italian-celebs-data-exposed-in-ransomware-attack-on-siae/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Ransomware Gang Moves Bitcoin Reserves After REvil Got Hit by Law Enforcement Action<a href="https://therecord.media/darkside-ransomware-gang-moves-some-of-its-bitcoin-after-revil-got-hit-by-law-enforcement/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turkish cybersecurity venture raises $24M to accelerate expansion<a href="https://www.dailysabah.com/business/tech/turkish-cybersecurity-venture-raises-24m-to-accelerate-expansion?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Daily Sabah
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA551 Shifts Tactics to Install Sliver Red-Teaming Tool<a href="https://threatpost.com/ta551-tactics-sliver-red-teaming/175651/"> Full Text</a>
@@ -502,7 +502,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigabyte Allegedly Hit by AvosLocker Ransomware<a href="https://threatpost.com/gigabyte-avoslocker-ransomware-gang/175642/"> Full Text</a>
@@ -518,7 +518,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why is Cybersecurity Failing Against Ransomware?<a href="https://threatpost.com/cybersecurity-failing-ransomware/175637/"> Full Text</a>

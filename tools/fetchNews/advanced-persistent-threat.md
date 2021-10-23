@@ -11,6 +11,20 @@ nav_order: 900010
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Geriatric Microsoft Bug Exploited by APT Using Commodity RATs<a href="https://threatpost.com/apt-commodity-rats-microsoft-bug/175601/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disguised as an IT firm, the APT is hitting targets in Afghanistan &amp; India, exploiting a 20-year-old+ Microsoft Office bug that’s as potent as it is ancient.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lyceum Group Updates its Arsenal With New Tricks and Tools<a href="https://cyware.com/news/lyceum-group-updates-its-arsenal-with-new-tricks-and-tools-5b3c247c"> Full Text</a>
 </p>
 <details>

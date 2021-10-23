@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the public preview roll-out of end-to-end encryption (E2EE) support for one-to-one Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

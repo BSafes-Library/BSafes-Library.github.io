@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 22nd 2021 - Striking back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-22nd-2021-striking-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between law enforcement operations, REvil's second shut down, and ransomware gangs' response to the hacking of their servers, it has been quite the week.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkSide ransomware rushes to cash out $7 million in Bitcoin<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-rushes-to-cash-out-7-million-in-bitcoin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost $7 million worth of Bitcoin in a wallet controlled by DarkSide ransomware operators has been moved in what looks like a money laundering rollercoaster.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA551 Shifts Tactics to Install Sliver Red-Teaming Tool<a href="https://threatpost.com/ta551-tactics-sliver-red-teaming/175651/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new email campaign from the threat group uses the attack-simulation framework in a likely leadup to ransomware deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
