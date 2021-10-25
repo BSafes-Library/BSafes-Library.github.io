@@ -34,23 +34,221 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 24, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Ransomware hackers nervous, allege harassment from U.S.<a href="https://www.nbcnews.com/tech/security/ransomware-hackers-nervous-allege-harassment-us-rcna3637?&web_view=true"> Full Text</a>
+BlackMatter ransomware victims quietly helped using secret decryptor<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-victims-quietly-helped-using-secret-decryptor/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Several ransomware gangs posted lengthy anti-U.S. screeds. They appear prompted by the news that the FBI had successfully hacked and taken down another major ransomware group called REvil.
+Cybersecurity firm Emsisoft has been secretly decrypting BlackMatter ransomware victims since this summer, saving victims millions of dollars.
 </details>
 <div style="text-align: right" markdown="1">
-NBC News
+BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Most Imitated Brand for Phishing Attacks: Report<a href="https://cyware.com/news/microsoft-most-imitated-brand-for-phishing-attacks-report-73f959f3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft topped the list as 29% of all brand phishing attempts were related to the Redmond-based technology giant. Other impersonated brands include Amazon (13%), DHL (9%), and Bestbuy (8%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TodayZoo phishing kit borrows the code from other kits<a href="https://securityaffairs.co/wordpress/123729/cyber-crime/todayzoo-phishing-kit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft uncovered an extensive series of credential phishing campaigns that employed a custom phishing kit tracked as TodayZoo. 
+
+
+
+Microsoft researchers uncovered a custom phishing kit, dubbed TodayZoo, that was used in an extensive series of credential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 will get support for custom ARC configurations<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-will-get-support-for-custom-arc-configurations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding custom Authenticated Received Chain (ARC) configuration support to Microsoft Defender for Office 365.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom Sector Comes Under Attack as New APT Groups Emerge<a href="https://cyware.com/news/telecom-sector-comes-under-attack-as-new-apt-groups-emerge-a2814fb9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new China-linked LightBasin threat actor group emerged as a new threat for telecommunication companies as researchers dug out a string of attacks designed to gather valuable information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 337<a href="https://securityaffairs.co/wordpress/123723/breaking-news/security-affairs-newsletter-round-337.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+NATO...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Earned $590 Million in H1 2021<a href="https://cyware.com/news/ransomware-gangs-earned-590-million-in-h1-2021-1b5964a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost $5.2 billion worth of outgoing Bitcoin transactions have been observed by FinCEN. This amount is possibly linked to the top 10 most reported ransomware strains.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO releases its first strategy for Artificial Intelligence<a href="https://securityaffairs.co/wordpress/123715/security/nato-strategy-artificial-intelligence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, NATO Defence Ministers released the first-ever strategy for Artificial Intelligence (AI) that encourages the use of AI in a responsible manner.
+
+
+
+Artificial Intelligence (AI) is changing the global defence and security environment, for this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmashEx Attack Reaches Most Secure Areas of Intel CPUs to Steal Data<a href="https://cyware.com/news/smashex-attack-reaches-most-secure-areas-of-intel-cpus-to-steal-data-10eb1326"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academics from universities developed a new attack technique, dubbed SmashEx, that runs into Intel SGX and can allow adversaries to steal confidential data from Intel CPUs.  The new vulnerability tracked by Intel as CVE-2021-0186 allows attackers to inject an asynchronous exception during the code  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors offer for sale data for 50 millions of Moscow drivers<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are offering for sale a database containing 50 million records belonging to Moscow drivers on a hacking forum for $800. 
+
+
+
+Bad news for Russian drivers, threat actors are selling a database containing 50 million records belonging to Moscow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeting High-profile YouTubers Unmasked<a href="https://cyware.com/news/phishing-campaign-targeting-high-profile-youtubers-unmasked-5d932f3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile YouTube creators have been targeted with cookie-theft malware in phishing attacks, wherein hackers offered them fake collaboration opportunities.  Google has identified around 15,000 actor accounts specifically created for this campaign.  YouTube users are recommended to be aware of th ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of TodayZoo Phishing Kit Used in Extensive Credential Stealing Attacks<a href="https://thehackernews.com/2021/10/microsoft-warns-of-todayzoo-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed an "extensive series of credential phishing campaigns" that takes advantage of a custom phishing kit that stitched together components from at least five different widely circulated ones with the goal of siphoning user login information.  The tech giant's Microsoft 365 Defender Threat Intelligence Team, which detected the first instances of the tool in the wild in December 2020, dubbed the copy-and-paste attack infrastructure " TodayZoo ."   "The abundance of phishing kits and other tools available for sale or rent makes it easy for a lone wolf attacker to pick and choose the best features from these kits," the researchers said. "They put these functionalities together in a customized kit and try to reap the benefits all to themselves. Such is the case of TodayZoo."  Phishing kits, often sold as one time payments in underground forums, are packaged archive files containing images, scripts, and HTML pages that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Reportedly Hacked REvil Ransomware Group and Forced it Offline<a href="https://thehackernews.com/2021/10/feds-reportedly-hacked-revil-ransomware.html"> Full Text</a>
@@ -66,7 +264,107 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM library hijacked to install password-stealers, miners<a href="https://www.bleepingcomputer.com/news/security/popular-npm-library-hijacked-to-install-password-stealers-miners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hijacked the popular UA-Parser-JS NPM library, with millions of downloads a week, to infect Linux and Windows devices with cryptominers and password-stealing trojans in a supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells the data for millions of Moscow drivers for $800<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-the-data-for-millions-of-moscow-drivers-for-800/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are selling a stolen database containing 50 million records of Moscow driver data on an underground forum for only $800.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: ISPs collect and monetize far more user data than you’d think<a href="https://www.bleepingcomputer.com/news/security/ftc-isps-collect-and-monetize-far-more-user-data-than-you-d-think/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) found that six largest internet service providers (ISPs) in the U.S. collect and share customers' personal data without providing them with info on how it's used or meaningful ways to control this process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco SD-WAN flaw could  lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixes an OS command-injection flaw, tracked as CVE-2021-1529, in Cisco SD-WAN that could allow privilege escalation and lead to arbitrary code execution. 
+
+
+
+Cisco addressed a high-severity OS command-injection vulnerability, tracked as CVE-2021-1529,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware hackers nervous, allege harassment from U.S.<a href="https://www.nbcnews.com/tech/security/ransomware-hackers-nervous-allege-harassment-us-rcna3637?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several ransomware gangs posted lengthy anti-U.S. screeds. They appear prompted by the news that the FBI had successfully hacked and taken down another major ransomware group called REvil.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Reportedly Hacked REvil Ransomware Group and Forced it Offline<a href="https://thehackernews.com/2021/10/feds-reportedly-hacked-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-led REvil ransomware gang was felled by an active multi-country law enforcement operation that resulted in its infrastructure being hacked and  taken offline  for a second time earlier this week, in what's the  latest action  taken by governments to disrupt the lucrative ecosystem.  The takedown was first reported by  Reuters , quoting multiple private-sector cyber experts working with the U.S. government, noting that the  May cyber attack  on Colonial Pipeline relied on encryption software developed by REvil associates, officially corroborating DarkSide's  connections  to the prolific criminal outfit.   Coinciding with the development, blockchain analytics firm Elliptic  disclosed  that $7 million in bitcoin held by the DarkSide ransomware group were moved through a series of new wallets, with a small fraction of the amount being transferred with each transfer to make the laundered money more difficult to track and  convert   the funds  into fiat currency through
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Nation-State Hackers, Cybercriminals Also Add Sliver Pentest Tool to Arsenal<a href="https://www.securityweek.com/after-nation-state-hackers-cybercriminals-also-add-sliver-pentest-tool-arsenal?&web_view=true"> Full Text</a>
@@ -82,7 +380,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2021
+October 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Packages Disguised as JavaScript Libraries Found<a href="https://www.govinfosecurity.com/malicious-packages-disguised-as-javascript-libraries-found-a-17782?&web_view=true"> Full Text</a>
@@ -98,7 +396,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 22nd 2021 - Striking back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-22nd-2021-striking-back/"> Full Text</a>
@@ -114,7 +412,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top officials turn over Twitter accounts to 'share the mic' with Black cybersecurity experts<a href="https://thehill.com//policy/cybersecurity/578100-top-officials-turn-over-twitter-accounts-to-share-the-mic-with-black"> Full Text</a>
@@ -130,7 +428,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Hypothetical Command Vision Statement for a Fictional PLA Cyber Command<a href="https://www.lawfareblog.com/hypothetical-command-vision-statement-fictional-pla-cyber-command"> Full Text</a>
@@ -146,7 +444,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook SSRF Dashboard allows hunting SSRF vulnerabilities<a href="https://securityaffairs.co/wordpress/123693/hacking/facebook-ssrf-dashboard-tool.html"> Full Text</a>
@@ -166,7 +464,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SCUF Gaming store hacked to steal credit card info of 32,000 customers<a href="https://www.bleepingcomputer.com/news/security/scuf-gaming-store-hacked-to-steal-credit-card-info-of-32-000-customers/"> Full Text</a>
@@ -182,7 +480,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular NPM Package Hijacked to Publish Crypto-mining Malware<a href="https://thehackernews.com/2021/10/popular-npm-package-hijacked-to-publish.html"> Full Text</a>
@@ -198,7 +496,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Groove ransomware group calls on other ransomware gangs to hit US public sector<a href="https://securityaffairs.co/wordpress/123684/malware/groove-ransomware-gang-call-to-action.html"> Full Text</a>
@@ -218,7 +516,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware rushes to cash out $7 million in Bitcoin<a href="https://www.bleepingcomputer.com/news/security/darkside-ransomware-rushes-to-cash-out-7-million-in-bitcoin/"> Full Text</a>
@@ -234,7 +532,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Lone Wolf' Hacker Group Targeting Afghanistan and India with Commodity RATs<a href="https://thehackernews.com/2021/10/lone-wolf-hacker-group-targeting.html"> Full Text</a>
@@ -250,7 +548,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide ransomware operators move 6.8M worth of Bitcoin after REvil shutdown<a href="https://securityaffairs.co/wordpress/123679/cyber-crime/darkside-ransomware-move-bitcoin.html"> Full Text</a>
@@ -270,7 +568,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Groove ransomware calls on all extortion gangs to attack US interests<a href="https://www.bleepingcomputer.com/news/security/groove-ransomware-calls-on-all-extortion-gangs-to-attack-us-interests/"> Full Text</a>
@@ -286,7 +584,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This monster of a phishing campaign is after your passwords<a href="https://www.zdnet.com/article/this-frankensteins-monster-of-a-phishing-campaign-is-after-your-passwords/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -302,7 +600,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Set Up Fake Company to Get IT Experts to Launch Ransomware Attacks<a href="https://thehackernews.com/2021/10/hackers-set-up-fake-company-to-get-it.html"> Full Text</a>
@@ -318,7 +616,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 cybercrime gang creates fake cybersecurity firm to recruit pentesters for ransomware attacks<a href="https://securityaffairs.co/wordpress/123673/cyber-crime/fin7-fake-cybersecurity-firm.html"> Full Text</a>
@@ -338,7 +636,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: WizardUpdate Mac malware adds new evasion tactics<a href="https://www.bleepingcomputer.com/news/security/microsoft-wizardupdate-mac-malware-adds-new-evasion-tactics/"> Full Text</a>
@@ -354,7 +652,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss exhibitions organizer MCH Group hit by cyberattack<a href="https://portswigger.net/daily-swig/swiss-exhibitions-organizer-mch-group-hit-by-cyber-attack?&web_view=true"> Full Text</a>
@@ -370,7 +668,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Microsoft-Signed FiveSys Rootkit in the Wild<a href="https://thehackernews.com/2021/10/researchers-discover-microsoft-signed.html"> Full Text</a>
@@ -386,7 +684,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FiveSys, a new digitally-signed rootkit spotted by Bitdefender experts<a href="https://securityaffairs.co/wordpress/123664/malware/fivesys-digitally-signed-rootkit.html"> Full Text</a>
@@ -406,7 +704,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian celebs' data exposed in ransomware attack on SIAE<a href="https://www.bleepingcomputer.com/news/security/italian-celebs-data-exposed-in-ransomware-attack-on-siae/"> Full Text</a>
@@ -422,7 +720,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkSide Ransomware Gang Moves Bitcoin Reserves After REvil Got Hit by Law Enforcement Action<a href="https://therecord.media/darkside-ransomware-gang-moves-some-of-its-bitcoin-after-revil-got-hit-by-law-enforcement/?&web_view=true"> Full Text</a>
@@ -438,7 +736,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
@@ -454,7 +752,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turkish cybersecurity venture raises $24M to accelerate expansion<a href="https://www.dailysabah.com/business/tech/turkish-cybersecurity-venture-raises-24m-to-accelerate-expansion?&web_view=true"> Full Text</a>
@@ -470,7 +768,7 @@ Daily Sabah
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 22, 2021
+October 22, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams adds end-to-end encryption for one-to-one calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-adds-end-to-end-encryption-for-one-to-one-calls/"> Full Text</a>
@@ -486,7 +784,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA551 Shifts Tactics to Install Sliver Red-Teaming Tool<a href="https://threatpost.com/ta551-tactics-sliver-red-teaming/175651/"> Full Text</a>
@@ -502,7 +800,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigabyte Allegedly Hit by AvosLocker Ransomware<a href="https://threatpost.com/gigabyte-avoslocker-ransomware-gang/175642/"> Full Text</a>
@@ -518,7 +816,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2021
+October 21, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why is Cybersecurity Failing Against Ransomware?<a href="https://threatpost.com/cybersecurity-failing-ransomware/175637/"> Full Text</a>
