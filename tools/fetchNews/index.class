@@ -34,6 +34,732 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla blocks malicious add-ons installed by 455K Firefox users<a href="https://www.bleepingcomputer.com/news/security/mozilla-blocks-malicious-add-ons-installed-by-455k-firefox-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla blocked malicious Firefox add-ons installed by roughly 455,000 users after discovering in early June that they were abusing the proxy API to block Firefox updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Says SolarWinds Hackers Compromised 14 Technology Providers to Piggyback on Customer Access<a href="https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This time, Nobelium attacking a different part of the supply chain: resellers and other technology service providers that customize, deploy and manage various technologies for their customers.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking efforts show Russia undeterred by US actions<a href="https://thehill.com//policy/cybersecurity/578367-new-hacking-efforts-show-russia-undeterred-by-us-actions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year after Russian government hackers compromised almost a dozen U.S. federal agencies, renewed efforts by the same group to target the global IT supply chain are painting a picture of a defiant Russia undeterred by U.S. efforts to clamp down on malicious cyber activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Let Attacker Collect and Spoof Browser's Digital Fingerprints<a href="https://thehackernews.com/2021/10/new-attack-let-attacker-collect-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "potentially devastating and hard-to-detect threat" could be abused by attackers to collect users' browser fingerprinting information with the goal of spoofing the victims without their knowledge, thus effectively compromising their privacy.  Academics from Texas A&M University dubbed the attack system " Gummy Browsers ," likening it to a nearly 20-year-old " Gummy Fingers " technique that can impersonate a user's fingerprint biometrics.    "The idea is that the attacker 𝐴 first makes the user 𝑈 connect to his website (or to a well-known site the attacker controls) and transparently collects the information from 𝑈 that is used for fingerprinting purposes (just like any fingerprinting website 𝑊 collects this information)," the researchers outlined. "Then, 𝐴 orchestrates a browser on his own machine to replicate and transmit the same fingerprinting information when connecting to 𝑊, fooling 𝑊 to think that 𝑈 is the one re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown ransomware gang uses SQL injection bug in BillQuick Web Suite to deploy ransomware<a href="https://securityaffairs.co/wordpress/123783/cyber-crime/ransomware-gang-billquick-web-suite-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown ransomware gang leverages a critical SQL injection flaw in the BillQuick Web Suite time and billing solution to deploy ransomware.
+
+
+
+An unknown ransomware gang is exploiting a critical SQL injection flaw, tracked as CVE-2021-42258, in the popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Sites to Patch Critical RCE in Discourse<a href="https://threatpost.com/cisa-critical-rce-discourse/175705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patch, urgently rushed out on Friday, is an emergency fix for the widely deployed platform, whose No. 1 most trafficked site is Amazon’s Seller Central. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Android users targeted in subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/millions-of-android-users-targeted-in-subscription-fraud-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SMS scam campaign relying upon 151 apps has been uncovered, with many of these apps managing to find their way into the Play Store where they amassed 10.5 million downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Intel Warns China Could Dominate Advanced Technologies<a href="https://www.securityweek.com/us-intel-warns-china-could-dominate-advanced-technologies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The warnings include a renewed effort to inform business executives, academics and local and state government officials about the risks of accepting Chinese investment or expertise in key industries.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hardware-grade enterprise authentication without hardware: new SIM security solution for IAM<a href="https://thehackernews.com/2021/10/hardware-grade-enterprise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average cost of a data breach, according to the latest research by IBM, now stands at  USD 4.24 million , the highest reported. The leading cause? Compromised credentials, often caused by human error. Although these findings continue to show an upward trend in the wrong direction, the challenge itself is not new. What is new is the unprecedented and accelerated complexity of securing the workplace. CISOs/CIOs are dealing with legacy systems, cloud hosting, on-prem, remote workers, office based, traditional software, and SaaS.  How businesses adapted was laudable, but now that employees spread across locations, offices and homes – with  more than half  threatening not to return to offices unless hybrid working is implemented – the challenge morphs into securing a nonuniform perimeter.   We know passwords aren't sufficient. Knowledge-based access is usually fortified with other forms of multi-factor authentication (MFA), such as auth apps or FIDO tokens, and in highly sensitive case
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A critical RCE flaw affects Discourse software, patch it now!<a href="https://securityaffairs.co/wordpress/123775/hacking/discourse-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA urges administrators to address a critical remote code execution flaw, tracked as CVE-2021-41163, in Discourse installs. 
+
+
+
+Discourse is a popular open-source Internet forum and mailing list management software application. The US CISA published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP adds live response for Linux and macOS<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-adds-live-response-for-linux-and-macos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the addition of new live macOS and Linux response capabilities to Defender for Endpoint, , the enterprise version of Redmond's Windows 10 Defender antivirus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Earns $2 Million for Critical Vulnerability in Polygon<a href="https://www.securityweek.com/researcher-earns-2-million-critical-vulnerability-polygon/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found a critical vulnerability in Polygon’s Plasma Bridge that could have allowed a malicious user to submit the same withdrawal transaction 224 times, with different exit IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Continued Supply-Chain Attacks by the Nobelium Hacker Group<a href="https://thehackernews.com/2021/10/microsoft-warns-of-continued-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium, the  threat actor  behind the SolarWinds compromise in December 2020, has been behind a new wave of attacks that compromised 14 downstream customers of multiple cloud service providers (CSP), managed service providers (MSP), and other IT services organizations, illustrating the adversary's continuing interest in targeting the supply chain via the "compromise-one-to-compromise-many" approach.  Microsoft, which disclosed details of the campaign on Monday, said it notified more than 140 resellers and technology service providers since May. Between July 1 and October 19, 2021, Nobelium is said to have singled out 609 customers, who were collectively attacked a grand total of 22,868 times.   "This recent activity is another indicator that Russia is trying to gain long-term, systematic access to a variety of points in the technology supply chain and establish a mechanism for surveilling – now or in the future – targets of interest to the Russian government,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research found two rare flaws in Ericsson OSS-RC component<a href="https://securityaffairs.co/wordpress/123764/security/ericsson-oss-rc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Red Team Research (RTR), the bug’s research division from Italian Telecommunication firm TIM, found 2 new vulnerabilities affecting the Ericsson OSS-RC. 
+
+
+
+What is the OSS (Operations Support System)?
+
+
+
+The Operations Support System – Radio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers used billing software zero-day to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/hackers-used-billing-software-zero-day-to-deploy-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown ransomware group is exploiting a critical SQL injection bug found in the BillQuick Web Suite time and billing solution to deploy ransomware on their targets' networks in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco SD-WAN flaw could lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high-severity OS command-injection vulnerability, tracked as CVE-2021-1529, in Cisco SD-WAN that could allow privilege escalation and lead to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited Popular BillQuick Billing Software to Deploy Ransomware<a href="https://thehackernews.com/2021/10/hackers-exploited-popular-billquick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Friday disclosed a now-patched critical vulnerability in multiple versions of a time and billing system called BillQuick  that's being actively exploited by threat actors to deploy ransomware on vulnerable systems.  CVE-2021-42258 , as the flaw is being tracked as, concerns an  SQL-based injection  attack that allows for remote code execution and was successfully leveraged to gain initial access to an unnamed U.S. engineering company and mount a ransomware attack, American cybersecurity firm Huntress Labs said.    While the issue has been addressed by BQE Software, eight other undisclosed security issues that were identified as part of the investigation are yet to be patched. According to its  website , BQE Software's products are used by 400,000 users worldwide.  "Hackers can use this to access customers' BillQuick data and run malicious commands on their on-premises Windows servers," Huntress Labs threat researcher Caleb Stewart  sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Nobelium APT targets orgs in the global IT supply chain<a href="https://securityaffairs.co/wordpress/123754/apt/nobelium-apt-it-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Nobelium APT group has breached at least 14 managed service providers (MSPs) and cloud service providers since May 2021. 
+
+
+
+The SolarWinds security breach was not isolated, Russia-linked Nobelium APT group has targeted140 managed service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges admins to patch critical Discourse code execution bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-admins-to-patch-critical-discourse-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Discourse remote code execution (RCE) vulnerability tracked as CVE-2021-41163 was fixed via an urgent update by the developer on Friday
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Introduces New Tool for Finding SSRF Vulnerabilities<a href="https://www.securityweek.com/facebook-introduces-new-tool-finding-ssrf-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new utility from Facebook features a simple interface that allows researchers to create unique internal endpoint URLs for targeting and then learn whether their URLs have been hit by SSRF attempt.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYT Journalist’s iPhone infected twice with NSO Group’sPegasus spyware<a href="https://securityaffairs.co/wordpress/123747/hacking/nyt-journalist-pegasus-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors infected the iPhone of New York Times journalist Ben Hubbard with NSO Group's Pegasus spyware between June 2018 to June 2021.
+
+
+
+The iPhone of New York Times journalist Ben Hubbard was repeatedly infected with NSO Group's Pegasus spyware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian SVR hacked at least 14 IT supply chain firms since May<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-russian-svr-hacked-at-least-14-it-supply-chain-firms-since-may/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the Russian-backed Nobelium threat group behind last year's SolarWinds hack is still targeting the global IT supply chain, with 140 resellers and technology service providers attacked and at least 14 breached since May 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Sell 50 Million Records of Moscow Drivers on Hacking Forum<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are selling a database containing 50 million records of Moscow drivers on an underground forum for only $800. The data contains records collected between 2006 and 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft created a free decryptor for past victims of the BlackMatter ransomware<a href="https://securityaffairs.co/wordpress/123736/security/blackmatter-decryptor-pat-victims.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from cybersecurity firm Emsisoft announced the availability of a free decryptor for past victims of the BlackMatter ransomware. 
+
+
+
+Cybersecurity firm Emsisoft has released a free decryption tool for past victims of the BlackMatter ransomware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYT Journalist Repeatedly Hacked with Pegasus after Reporting on Saudi Arabia<a href="https://thehackernews.com/2021/10/nyt-journalist-repeatedly-hacked-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The iPhone of New York Times journalist Ben Hubbard was repeatedly hacked with NSO Group's Pegasus spyware tool over a three-year period stretching between June 2018 to June 2021, resulting in infections twice in July 2020 and June 2021.  The University of Toronto's Citizen Lab, which  publicized  the findings on Sunday, said the "targeting took place while he was reporting on Saudi Arabia, and writing a book about Saudi Crown Prince Mohammed bin Salman." The research institute did not attribute the infiltrations to a specific government.  In a  statement  shared with Hubbard, the Israeli company denied its involvement in the hacks and dismissed the findings as "speculation," while noting that the journalist was not "a target of Pegasus by any of NSO's customers."   To date, NSO Group is believed to have leveraged at least three different iOS exploits — namely an iMessage zero-click exploit in December 2019, a  KISMET  exploit targeting iOS 13
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Accident](/docs/issues/accident/accident/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware victims quietly helped using secret decryptor<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-victims-quietly-helped-using-secret-decryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Emsisoft has been secretly decrypting BlackMatter ransomware victims since this summer, saving victims millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Most Imitated Brand for Phishing Attacks: Report<a href="https://cyware.com/news/microsoft-most-imitated-brand-for-phishing-attacks-report-73f959f3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft topped the list as 29% of all brand phishing attempts were related to the Redmond-based technology giant. Other impersonated brands include Amazon (13%), DHL (9%), and Bestbuy (8%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TodayZoo phishing kit borrows the code from other kits<a href="https://securityaffairs.co/wordpress/123729/cyber-crime/todayzoo-phishing-kit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft uncovered an extensive series of credential phishing campaigns that employed a custom phishing kit tracked as TodayZoo. 
+
+
+
+Microsoft researchers uncovered a custom phishing kit, dubbed TodayZoo, that was used in an extensive series of credential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 will get support for custom ARC configurations<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-will-get-support-for-custom-arc-configurations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding custom Authenticated Received Chain (ARC) configuration support to Microsoft Defender for Office 365.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom Sector Comes Under Attack as New APT Groups Emerge<a href="https://cyware.com/news/telecom-sector-comes-under-attack-as-new-apt-groups-emerge-a2814fb9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new China-linked LightBasin threat actor group emerged as a new threat for telecommunication companies as researchers dug out a string of attacks designed to gather valuable information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 337<a href="https://securityaffairs.co/wordpress/123723/breaking-news/security-affairs-newsletter-round-337.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the international press subscribe here.  
+
+
+
+NATO...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Earned $590 Million in H1 2021<a href="https://cyware.com/news/ransomware-gangs-earned-590-million-in-h1-2021-1b5964a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost $5.2 billion worth of outgoing Bitcoin transactions have been observed by FinCEN. This amount is possibly linked to the top 10 most reported ransomware strains.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO releases its first strategy for Artificial Intelligence<a href="https://securityaffairs.co/wordpress/123715/security/nato-strategy-artificial-intelligence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, NATO Defence Ministers released the first-ever strategy for Artificial Intelligence (AI) that encourages the use of AI in a responsible manner.
+
+
+
+Artificial Intelligence (AI) is changing the global defence and security environment, for this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmashEx Attack Reaches Most Secure Areas of Intel CPUs to Steal Data<a href="https://cyware.com/news/smashex-attack-reaches-most-secure-areas-of-intel-cpus-to-steal-data-10eb1326"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academics from universities developed a new attack technique, dubbed SmashEx, that runs into Intel SGX and can allow adversaries to steal confidential data from Intel CPUs.  The new vulnerability tracked by Intel as CVE-2021-0186 allows attackers to inject an asynchronous exception during the code  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors offer for sale data for 50 millions of Moscow drivers<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are offering for sale a database containing 50 million records belonging to Moscow drivers on a hacking forum for $800. 
+
+
+
+Bad news for Russian drivers, threat actors are selling a database containing 50 million records belonging to Moscow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeting High-profile YouTubers Unmasked<a href="https://cyware.com/news/phishing-campaign-targeting-high-profile-youtubers-unmasked-5d932f3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile YouTube creators have been targeted with cookie-theft malware in phishing attacks, wherein hackers offered them fake collaboration opportunities.  Google has identified around 15,000 actor accounts specifically created for this campaign.  YouTube users are recommended to be aware of th ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of TodayZoo Phishing Kit Used in Extensive Credential Stealing Attacks<a href="https://thehackernews.com/2021/10/microsoft-warns-of-todayzoo-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed an "extensive series of credential phishing campaigns" that takes advantage of a custom phishing kit that stitched together components from at least five different widely circulated ones with the goal of siphoning user login information.  The tech giant's Microsoft 365 Defender Threat Intelligence Team, which detected the first instances of the tool in the wild in December 2020, dubbed the copy-and-paste attack infrastructure " TodayZoo ."   "The abundance of phishing kits and other tools available for sale or rent makes it easy for a lone wolf attacker to pick and choose the best features from these kits," the researchers said. "They put these functionalities together in a customized kit and try to reap the benefits all to themselves. Such is the case of TodayZoo."  Phishing kits, often sold as one time payments in underground forums, are packaged archive files containing images, scripts, and HTML pages that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Reportedly Hacked REvil Ransomware Group and Forced it Offline<a href="https://thehackernews.com/2021/10/feds-reportedly-hacked-revil-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-led REvil ransomware gang was felled by an active multi-country law enforcement operation that resulted in its infrastructure being hacked and  taken offline  for a second time earlier this week, in what's the  latest action  taken by governments to disrupt the lucrative ecosystem.  The takedown was first reported by  Reuters , quoting multiple private-sector cyber experts working with the U.S. government, noting that the  May cyber attack  on Colonial Pipeline relied on encryption software developed by REvil associates, officially corroborating DarkSide's  connections  to the prolific criminal outfit.   Coinciding with the development, blockchain analytics firm Elliptic  disclosed  that $7 million in bitcoin held by the DarkSide ransomware group were moved through a series of new wallets, with a small fraction of the amount being transferred with each transfer to make the laundered money more difficult to track and  convert   the funds  into fiat currency through
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM library hijacked to install password-stealers, miners<a href="https://www.bleepingcomputer.com/news/security/popular-npm-library-hijacked-to-install-password-stealers-miners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hijacked the popular UA-Parser-JS NPM library, with millions of downloads a week, to infect Linux and Windows devices with cryptominers and password-stealing trojans in a supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells the data for millions of Moscow drivers for $800<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-the-data-for-millions-of-moscow-drivers-for-800/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are selling a stolen database containing 50 million records of Moscow driver data on an underground forum for only $800.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: ISPs collect and monetize far more user data than you’d think<a href="https://www.bleepingcomputer.com/news/security/ftc-isps-collect-and-monetize-far-more-user-data-than-you-d-think/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) found that six largest internet service providers (ISPs) in the U.S. collect and share customers' personal data without providing them with info on how it's used or meaningful ways to control this process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco SD-WAN flaw could  lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixes an OS command-injection flaw, tracked as CVE-2021-1529, in Cisco SD-WAN that could allow privilege escalation and lead to arbitrary code execution. 
+
+
+
+Cisco addressed a high-severity OS command-injection vulnerability, tracked as CVE-2021-1529,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 23, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

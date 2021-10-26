@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hardware-grade enterprise authentication without hardware: new SIM security solution for IAM<a href="https://thehackernews.com/2021/10/hardware-grade-enterprise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average cost of a data breach, according to the latest research by IBM, now stands at&nbsp; USD 4.24 million , the highest reported. The leading cause? Compromised credentials, often caused by human error. Although these findings continue to show an upward trend in the wrong direction, the challenge itself is not new. What is new is the unprecedented and accelerated complexity of securing the workplace. CISOs/CIOs are dealing with legacy systems, cloud hosting, on-prem, remote workers, office based, traditional software, and SaaS.  How businesses adapted was laudable, but now that employees spread across locations, offices and homes – with&nbsp; more than half &nbsp;threatening not to return to offices unless hybrid working is implemented – the challenge morphs into securing a nonuniform perimeter.&nbsp;  We know passwords aren't sufficient. Knowledge-based access is usually fortified with other forms of multi-factor authentication (MFA), such as auth apps or FIDO tokens, and in highly sensitive case
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Introduces New Tool for Finding SSRF Vulnerabilities<a href="https://www.securityweek.com/facebook-introduces-new-tool-finding-ssrf-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new utility from Facebook features a simple interface that allows researchers to create unique internal endpoint URLs for targeting and then learn whether their URLs have been hit by SSRF attempt.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 will get support for custom ARC configurations<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-365-will-get-support-for-custom-arc-configurations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on adding custom Authenticated Received Chain (ARC) configuration support to Microsoft Defender for Office 365.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

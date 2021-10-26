@@ -8,6 +8,120 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Let Attacker Collect and Spoof Browser's Digital Fingerprints<a href="https://thehackernews.com/2021/10/new-attack-let-attacker-collect-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "potentially devastating and hard-to-detect threat" could be abused by attackers to collect users' browser fingerprinting information with the goal of spoofing the victims without their knowledge, thus effectively compromising their privacy.  Academics from Texas A&amp;M University dubbed the attack system " Gummy Browsers ," likening it to a nearly 20-year-old " Gummy Fingers " technique that can impersonate a user's fingerprint biometrics.&nbsp;   "The idea is that the attacker 𝐴 first makes the user 𝑈 connect to his website (or to a well-known site the attacker controls) and transparently collects the information from 𝑈 that is used for fingerprinting purposes (just like any fingerprinting website 𝑊 collects this information)," the researchers outlined. "Then, 𝐴 orchestrates a browser on his own machine to replicate and transmit the same fingerprinting information when connecting to 𝑊, fooling 𝑊 to think that 𝑈 is the one re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Sites to Patch Critical RCE in Discourse<a href="https://threatpost.com/cisa-critical-rce-discourse/175705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The patch, urgently rushed out on Friday, is an emergency fix for the widely deployed platform, whose No. 1 most trafficked site is Amazon’s Seller Central. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A critical RCE flaw affects Discourse software, patch it now!<a href="https://securityaffairs.co/wordpress/123775/hacking/discourse-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA urges administrators to address a critical remote code execution flaw, tracked as CVE-2021-41163, in Discourse installs. 
+
+
+
+Discourse is a popular&nbsp;open-source Internet forum and mailing list management software application. The US CISA published...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Earns $2 Million for Critical Vulnerability in Polygon<a href="https://www.securityweek.com/researcher-earns-2-million-critical-vulnerability-polygon/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found a critical vulnerability in Polygon’s Plasma Bridge that could have allowed a malicious user to submit the same withdrawal transaction 224 times, with different exit IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red TIM Research found two rare flaws in Ericsson OSS-RC component<a href="https://securityaffairs.co/wordpress/123764/security/ericsson-oss-rc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Red Team Research (RTR), the bug’s research division from Italian Telecommunication firm TIM, found 2 new vulnerabilities affecting the Ericsson OSS-RC. 
+
+
+
+What is the OSS (Operations Support System)?
+
+
+
+The Operations Support System – Radio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco SD-WAN flaw could lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high-severity OS command-injection vulnerability, tracked as CVE-2021-1529, in Cisco SD-WAN that could allow privilege escalation and lead to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco SD-WAN flaw could  lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixes an OS command-injection flaw, tracked as CVE-2021-1529, in Cisco SD-WAN that could allow privilege escalation and lead to arbitrary code execution. 
+
+
+
+Cisco addressed a high-severity OS command-injection vulnerability, tracked as CVE-2021-1529,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

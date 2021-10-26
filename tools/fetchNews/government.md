@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top officials turn over Twitter accounts to 'share the mic' with Black cybersecurity experts<a href="https://thehill.com//policy/cybersecurity/578100-top-officials-turn-over-twitter-accounts-to-share-the-mic-with-black"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top federal officials and cybersecurity experts participated Friday in an online campaign to “share the mic” in cyber, giving control of their Twitter accounts to Black cybersecurity officials and experts in an effort to combat systemic racism.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

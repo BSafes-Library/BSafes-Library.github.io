@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://threatpost.com/cisa-critical-rce-discourse/175705/
  
 Law
 

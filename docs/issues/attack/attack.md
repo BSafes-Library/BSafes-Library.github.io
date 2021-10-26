@@ -8,6 +8,78 @@ nav_order: 900015
 
 ## Attack
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking efforts show Russia undeterred by US actions<a href="https://thehill.com//policy/cybersecurity/578367-new-hacking-efforts-show-russia-undeterred-by-us-actions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year after Russian government hackers compromised almost a dozen U.S. federal agencies, renewed efforts by the same group to target the global IT supply chain are painting a picture of a defiant Russia undeterred by U.S. efforts to clamp down on malicious cyber activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Android users targeted in subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/millions-of-android-users-targeted-in-subscription-fraud-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SMS scam&nbsp;campaign relying upon 151 apps has been uncovered, with many of these apps managing to find their way into the Play Store where they amassed 10.5 million downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYT Journalist Repeatedly Hacked with Pegasus after Reporting on Saudi Arabia<a href="https://thehackernews.com/2021/10/nyt-journalist-repeatedly-hacked-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The iPhone of New York Times journalist Ben Hubbard was repeatedly hacked with NSO Group's Pegasus spyware tool over a three-year period stretching between June 2018 to June 2021, resulting in infections twice in July 2020 and June 2021.  The University of Toronto's Citizen Lab, which&nbsp; publicized &nbsp;the findings on Sunday, said the "targeting took place while he was reporting on Saudi Arabia, and writing a book about Saudi Crown Prince Mohammed bin Salman." The research institute did not attribute the infiltrations to a specific government.  In a&nbsp; statement &nbsp;shared with Hubbard, the Israeli company denied its involvement in the hacks and dismissed the findings as "speculation," while noting that the journalist was not "a target of Pegasus by any of NSO's customers."   To date, NSO Group is believed to have leveraged at least three different iOS exploits — namely an iMessage zero-click exploit in December 2019, a&nbsp; KISMET &nbsp;exploit targeting iOS 13
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmashEx Attack Reaches Most Secure Areas of Intel CPUs to Steal Data<a href="https://cyware.com/news/smashex-attack-reaches-most-secure-areas-of-intel-cpus-to-steal-data-10eb1326"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academics from universities developed a new attack technique, dubbed SmashEx, that runs into Intel SGX and can allow adversaries to steal confidential data from Intel CPUs.  The new vulnerability tracked by Intel as CVE-2021-0186 allows attackers to inject an asynchronous exception during the code  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeting High-profile YouTubers Unmasked<a href="https://cyware.com/news/phishing-campaign-targeting-high-profile-youtubers-unmasked-5d932f3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile YouTube creators have been targeted with cookie-theft malware in phishing attacks, wherein hackers offered them fake collaboration opportunities.  Google has identified around 15,000 actor accounts specifically created for this campaign.  YouTube users are recommended to be aware of th ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

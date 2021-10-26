@@ -8,6 +8,98 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown ransomware gang uses SQL injection bug in BillQuick Web Suite to deploy ransomware<a href="https://securityaffairs.co/wordpress/123783/cyber-crime/ransomware-gang-billquick-web-suite-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown ransomware gang leverages a critical SQL injection flaw in the BillQuick Web Suite time and billing solution to deploy ransomware.
+
+
+
+An unknown ransomware gang is exploiting a critical SQL injection flaw, tracked as CVE-2021-42258, in the&nbsp;popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Russian SVR hacked at least 14 IT supply chain firms since May<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-russian-svr-hacked-at-least-14-it-supply-chain-firms-since-may/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the Russian-backed Nobelium threat&nbsp;group behind last year's SolarWinds hack is still targeting the global IT supply chain, with 140 resellers and technology service providers attacked and at least 14 breached&nbsp;since May 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Sell 50 Million Records of Moscow Drivers on Hacking Forum<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are selling a database containing 50 million records of Moscow drivers on an underground forum for only $800. The data contains records collected between 2006 and 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Earned $590 Million in H1 2021<a href="https://cyware.com/news/ransomware-gangs-earned-590-million-in-h1-2021-1b5964a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost $5.2 billion worth of outgoing Bitcoin transactions have been observed by FinCEN. This amount is possibly linked to the top 10 most reported ransomware strains.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors offer for sale data for 50 millions of Moscow drivers<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are offering for sale a database containing 50 million records belonging to Moscow drivers on a hacking forum for $800. 
+
+
+
+Bad news for Russian drivers, threat actors are selling a database containing 50 million records belonging to Moscow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells the data for millions of Moscow drivers for $800<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-the-data-for-millions-of-moscow-drivers-for-800/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are selling a stolen database containing 50 million records of Moscow driver data on an underground forum for only $800.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Continued Supply-Chain Attacks by the Nobelium Hacker Group<a href="https://thehackernews.com/2021/10/microsoft-warns-of-continued-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium, the&nbsp; threat actor &nbsp;behind the SolarWinds compromise in December 2020, has been behind a new wave of attacks that compromised 14 downstream customers of multiple cloud service providers (CSP), managed service providers (MSP), and other IT services organizations, illustrating the adversary's continuing interest in targeting the supply chain via the "compromise-one-to-compromise-many" approach.  Microsoft, which disclosed details of the campaign on Monday, said it notified more than 140 resellers and technology service providers since May. Between July 1 and October 19, 2021, Nobelium is said to have singled out 609 customers, who were collectively attacked a grand total of 22,868 times.   "This recent activity is another indicator that Russia is trying to gain long-term, systematic access to a variety of points in the technology supply chain and establish a mechanism for surveilling – now or in the future – targets of interest to the Russian government,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers used billing software zero-day to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/hackers-used-billing-software-zero-day-to-deploy-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown ransomware group is exploiting a critical SQL injection bug found in the BillQuick Web Suite time and billing solution to deploy ransomware on their targets' networks in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited Popular BillQuick Billing Software to Deploy Ransomware<a href="https://thehackernews.com/2021/10/hackers-exploited-popular-billquick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Friday disclosed a now-patched critical vulnerability in multiple versions of a time and billing system called BillQuick  that's being actively exploited by threat actors to deploy ransomware on vulnerable systems.  CVE-2021-42258 , as the flaw is being tracked as, concerns an&nbsp; SQL-based injection &nbsp;attack that allows for remote code execution and was successfully leveraged to gain initial access to an unnamed U.S. engineering company and mount a ransomware attack, American cybersecurity firm Huntress Labs said.&nbsp;   While the issue has been addressed by BQE Software, eight other undisclosed security issues that were identified as part of the investigation are yet to be patched. According to its&nbsp; website , BQE Software's products are used by 400,000 users worldwide.  "Hackers can use this to access customers' BillQuick data and run malicious commands on their on-premises Windows servers," Huntress Labs threat researcher Caleb Stewart&nbsp; sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

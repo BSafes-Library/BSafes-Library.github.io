@@ -8,6 +8,20 @@ nav_order: 900005
 
 ## Accident
 ---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware victims quietly helped using secret decryptor<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-victims-quietly-helped-using-secret-decryptor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Emsisoft has been secretly decrypting BlackMatter ransomware victims since this summer, saving victims millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

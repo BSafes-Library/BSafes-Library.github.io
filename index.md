@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla blocks malicious add-ons installed by 455K Firefox users<a href="https://www.bleepingcomputer.com/news/security/mozilla-blocks-malicious-add-ons-installed-by-455k-firefox-users/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Says SolarWinds Hackers Compromised 14 Technology Providers to Piggyback on Customer Access<a href="https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New hacking efforts show Russia undeterred by US actions<a href="https://thehill.com//policy/cybersecurity/578367-new-hacking-efforts-show-russia-undeterred-by-us-actions"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Let Attacker Collect and Spoof Browser's Digital Fingerprints<a href="https://thehackernews.com/2021/10/new-attack-let-attacker-collect-and.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unknown ransomware gang uses SQL injection bug in BillQuick Web Suite to deploy ransomware<a href="https://securityaffairs.co/wordpress/123783/cyber-crime/ransomware-gang-billquick-web-suite-bug.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Urges Sites to Patch Critical RCE in Discourse<a href="https://threatpost.com/cisa-critical-rce-discourse/175705/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Android users targeted in subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/millions-of-android-users-targeted-in-subscription-fraud-campaign/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Intel Warns China Could Dominate Advanced Technologies<a href="https://www.securityweek.com/us-intel-warns-china-could-dominate-advanced-technologies?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hardware-grade enterprise authentication without hardware: new SIM security solution for IAM<a href="https://thehackernews.com/2021/10/hardware-grade-enterprise.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical RCE flaw affects Discourse software, patch it now!<a href="https://securityaffairs.co/wordpress/123775/hacking/discourse-rce.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP adds live response for Linux and macOS<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-adds-live-response-for-linux-and-macos/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Earns $2 Million for Critical Vulnerability in Polygon<a href="https://www.securityweek.com/researcher-earns-2-million-critical-vulnerability-polygon/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Continued Supply-Chain Attacks by the Nobelium Hacker Group<a href="https://thehackernews.com/2021/10/microsoft-warns-of-continued-supply.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Red TIM Research found two rare flaws in Ericsson OSS-RC component<a href="https://securityaffairs.co/wordpress/123764/security/ericsson-oss-rc-flaws.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers used billing software zero-day to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/hackers-used-billing-software-zero-day-to-deploy-ransomware/"> Full Text</a>
@@ -290,7 +290,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco SD-WAN flaw could lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploited Popular BillQuick Billing Software to Deploy Ransomware<a href="https://thehackernews.com/2021/10/hackers-exploited-popular-billquick.html"> Full Text</a>
@@ -322,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Nobelium APT targets orgs in the global IT supply chain<a href="https://securityaffairs.co/wordpress/123754/apt/nobelium-apt-it-supply-chain.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges admins to patch critical Discourse code execution bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-admins-to-patch-critical-discourse-code-execution-bug/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Introduces New Tool for Finding SSRF Vulnerabilities<a href="https://www.securityweek.com/facebook-introduces-new-tool-finding-ssrf-vulnerabilities?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYT Journalist’s iPhone infected twice with NSO Group’sPegasus spyware<a href="https://securityaffairs.co/wordpress/123747/hacking/nyt-journalist-pegasus-spyware.html"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russian SVR hacked at least 14 IT supply chain firms since May<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-russian-svr-hacked-at-least-14-it-supply-chain-firms-since-may/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Sell 50 Million Records of Moscow Drivers on Hacking Forum<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emsisoft created a free decryptor for past victims of the BlackMatter ransomware<a href="https://securityaffairs.co/wordpress/123736/security/blackmatter-decryptor-pat-victims.html"> Full Text</a>
@@ -446,7 +446,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2021
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYT Journalist Repeatedly Hacked with Pegasus after Reporting on Saudi Arabia<a href="https://thehackernews.com/2021/10/nyt-journalist-repeatedly-hacked-with.html"> Full Text</a>
