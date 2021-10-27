@@ -34,7 +34,573 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian gas stations out of service after distribution network hacked<a href="https://www.bleepingcomputer.com/news/security/iranian-gas-stations-out-of-service-after-distribution-network-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gas stations from the National Iranian Oil Products Distribution Company (NIOPDC) have stopped working today due to what appears to be a cyberattack that affected the entire distribution network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gummy Browsers Attack Lets Hackers Spoof Your Digital Identity<a href="https://cyware.com/news/gummy-browsers-attack-lets-hackers-spoof-your-digital-identity-eaf11598"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Texas A&amp;M University and the University of Florida discovered Gummy Browsers, a new fingerprint capturing and browser spoofing attack.  This attack technique can be leveraged to bypass 2FA on auth systems.&nbsp;While security analysts and experts will work toward addressing such  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran blames cyberattack for nationwide gas station closures<a href="https://thehill.com//policy/cybersecurity/578542-iran-blames-cyberattack-for-nationwide-gas-station-closures"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran says that a cyberattack caused nationwide closures of gas stations, according to multiple reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 10 Million Android Users Targeted With Premium SMS Scam Apps<a href="https://thehackernews.com/2021/10/over-10-million-android-users-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global fraud campaign has been found leveraging 151 malicious Android apps with 10.5 million downloads to rope users into premium subscription services without their consent and knowledge.  The  premium SMS scam  campaign — dubbed " UltimaSMS " — is believed to commenced in May 2021 and involved apps that cover a wide range of categories, including keyboards, QR code scanners, video and photo editors, spam call blockers, camera filters, and games, with most of the fraudulent apps downloaded by users in Egypt, Saudi Arabia, Pakistan, the U.A.E., Turkey, Oman, Qatar, Kuwait, the U.S., and Poland.   Although a significant  chunk of the apps  in question has since been removed from the Google Play Store, 82 apps continued to remain available in the online marketplace as of October 19, 2021.   It all starts with the apps prompting users to enter their phone numbers and email addresses to gain access to the advertised features, only to subscribe the victims to premium SMS servic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After a Year of Silence, Are EU Cyber Sanctions Dead?<a href="https://www.lawfareblog.com/after-year-silence-are-eu-cyber-sanctions-dead"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union has stopped issuing cyber sanctions, but it's not for lack of new attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark HunTOR: Police arrested 150 people in dark web drug bust<a href="https://securityaffairs.co/wordpress/123818/cyber-crime/dark-huntor-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark HunTOR: Police corps across the world have arrested 150 individuals suspected of buying or selling illicit goods on the dark web marketplace DarkMarket.
+
+
+
+A joint international operation, tracked as Dark HunTOR, conducted by law enforcement across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Clouds & Shared Responsibility: Lessons from Vulnerability Disclosure<a href="https://threatpost.com/public-clouds-shared-responsibility-vulnerability/175778/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Much is made of shared responsibility for cloud security. But Oliver Tavakoli, CTO at Vectra AI, notes there’s no guarantee that Azure or AWS are delivering services in a hardened and secure manner.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spammers use Squirrelwaffle malware to drop Cobalt Strike<a href="https://www.bleepingcomputer.com/news/security/spammers-use-squirrelwaffle-malware-to-drop-cobalt-strike/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware threat named Squirrelwaffle has emerged in the wild, supporting actors with an initial foothold and a way to drop malware onto compromised systems and networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magnitude EK Exploiting Chromium-based Browser Flaws<a href="https://cyware.com/news/magnitude-ek-exploiting-chromium-based-browser-flaws-93e9aec3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After Internet Explorer, Magnitude Exploit Kit has been observed infecting Chromium-based browsers running on Windows OS in a series of attacks. It abuses two flaws: the first one is a remote code execution issue and the other is a privilege escalation bug. Researchers recommend ensuring timely pat ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers praise upcoming establishment of cyber bureau at State<a href="https://thehill.com//policy/cybersecurity/578508-lawmakers-praise-the-upcoming-establishment-of-cyber-bureau-at-state"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers on both sides of the aisle are praising the upcoming establishment of a new cybersecurity bureau at the State Department, following years of advocacy and escalating global attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Firefox Add-ons Block Browser From Downloading Security Updates<a href="https://thehackernews.com/2021/10/malicious-firefox-add-ons-block-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla on Monday disclosed it blocked two malicious Firefox add-ons installed by 455,000 users that were found misusing the Proxy API to impede downloading updates to the browser.  The two extensions in question, named Bypass and Bypass XM, "interfered with Firefox in a way that prevented users who had installed them from downloading updates, accessing updated blocklists, and updating remotely configured content," Mozilla's Rachel Tublitz and Stuart Colville  said .   Because Proxy API can be  used  to proxy web requests, an abuse of the API could enable a bad actor to control the manner Firefox browser connects to the internet effectively.  In addition to blocking the extensions to prevent installation by other users, Mozilla said it's pausing on approvals for new add-ons that use the proxy API until the fixes are broadly available. What's more, the California-based non-profit said it'd deployed a system add-on named " Proxy Failover " that ships
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert managed to crack 70% of a 5,000 WiFi network sample in Tel Aviv<a href="https://securityaffairs.co/wordpress/123810/hacking/cracking-wifi-at-scale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher from the security firm CyberArk has managed to crack 70% of Tel Aviv’s Wifi Networks starting from a sample of 5,000 gathered WiFi.
+
+
+
+CyberArk security researcher Ido Hoorvitch demonstrated how it is possible to crack WiFi at scale by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the Next-Generation of Application Security Is Needed<a href="https://threatpost.com/next-generation-application-security/175765/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New software and code stand at the core of everything we do, but how well is all of this new code tested? Luckily, autonomous application security is here.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brutal WordPress plugin bug allows subscribers to wipe sites<a href="https://www.bleepingcomputer.com/news/security/brutal-wordpress-plugin-bug-allows-subscribers-to-wipe-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity security flaw found in a WordPress plugin with more than 8,000 active installs can let authenticated attackers reset and wipe vulnerable websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ranzy Locker Ransomware Attacked Over 30 U.S. Organizations in 2021<a href="https://securityaffairs.co/wordpress/123801/cyber-crime/ranzy-locker-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang has been active since at least 2020 and hit organizations from various industries. The attack vector most used by the ransomware operators are brute force attempts on RDP endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ranzy Locker ransomware hit tens of US companies in 2021<a href="https://securityaffairs.co/wordpress/123801/cyber-crime/ranzy-locker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI published a flash alert to warn of the activity of the Ranzy Locker ransomware that had already compromised tens of US companies.
+
+
+
+The FBI published a flash alert to warn of Ranzy Locker ransomware operations that had already compromised at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Android Users Scammed in SMS Fraud Driven by Tik-Tok Ads<a href="https://threatpost.com/android-scammed-sms-fraud-tik-tok/175739/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UltimaSMS leverages at least 151 apps that have been downloaded collectively more than 10 million times, to extort money through a fake premium SMS subscription service.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prepare for 5 cybersecurity certifications with this bundle<a href="https://www.bleepingcomputer.com/news/security/prepare-for-5-cybersecurity-certifications-with-this-bundle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With The Ultimate 2021 Cyber Security Survival Training Bundle, you get full prep for five top certifications. The included content is worth a total of $495, but you can get it today for only $29.99.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SquirrelWaffle Malware Family Leverages Malspam Emails to Deliver Qakbot, Cobalt Strike<a href="https://blog.talosintelligence.com/2021/10/squirrelwaffle-emerges.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It provides threat actors with an initial foothold that can be used to facilitate further compromise or other malware infections depending on how attackers choose to attempt to monetize their access.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UltimaSMS subscription fraud campaign targeted millions of Android users<a href="https://securityaffairs.co/wordpress/123795/malware/ultimasms-massive-fraud-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UltimaSMS, a massive fraud campaign is using Android apps with million of downloads to subscribe victims to premium subscription services.
+
+
+
+Researchers from Avast have uncovered a widespread premium SMS scam on the Google Play Store, tracked as UltimaSMS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean state hackers start targeting the IT supply chain<a href="https://www.bleepingcomputer.com/news/security/north-korean-state-hackers-start-targeting-the-it-supply-chain/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean-sponsored Lazarus hacking group has switched focus on new targets and was observed by Kaspersky security researchers expanding its supply chain attack capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+72% of organizations hit by DNS attacks in the past year<a href="https://www.helpnetsecurity.com/2021/10/26/organizations-dns-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey from the Neustar International Security Council (NISC) conducted in September 2021, 72% of study participants reported experiencing a DNS attack within the last 12 months.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kansas Man pleads guilty to hacking the Post Rock Rural Water District<a href="https://securityaffairs.co/wordpress/123791/cyber-crime/post-rock-rural-water-district-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kansas man Wyatt Travnichek admitted in court to tampering with the computer systems at the Post Rock Rural Water District.
+
+
+
+Kansas man  Wyatt A. Travnichek pleaded guilty to tampering with the computer system at a drinking water treatment facility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher cracked 70% of WiFi networks sampled in Tel Aviv<a href="https://www.bleepingcomputer.com/news/security/researcher-cracked-70-percent-of-wifi-networks-sampled-in-tel-aviv/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has managed to crack 70% of a 5,000 WiFi network sample in his hometown, Tel Aviv, to prove that home networks are severely unsecured and easy to hijack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT trends report released for Q3 2021<a href="https://securelist.com/apt-trends-report-q3-2021/104708/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the TTPs of some threat actors remain consistent over time, relying heavily on social engineering to target organizations or individuals, others refresh their toolsets and extend their scope.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest 150 dark web vendors of illegal drugs and guns<a href="https://www.bleepingcomputer.com/news/security/police-arrest-150-dark-web-vendors-of-illegal-drugs-and-guns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities arrested 150 suspects allegedly involved in selling and buying illicit goods on DarkMarket, the largest illegal marketplace on the dark web when it was taken down in January 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Immigration Authority Leaked Some Vulnerable Afghan Citizens' Details<a href="https://www.cbc.ca/news/politics/afghan-data-breach-ircc-1.6224894?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The names of several hundred vulnerable Afghans seeking refuge from the Taliban were recently leaked in emails sent in error by Immigration, Refugees and Citizenship Canada (IRCC), CBC News reported.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money launderers for Russian hacking groups arrested in Ukraine<a href="https://www.bleepingcomputer.com/news/security/money-launderers-for-russian-hacking-groups-arrested-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cybercrime police force has arrested members of a group of money launderers and hackers at the request of U.S. intelligence services. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonrai Security Announces $50M in Series C Funding Led by ISTARI<a href="https://finance.yahoo.com/news/sonrai-security-announces-50m-series-120000401.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonrai plans to use new funding to accelerate research and development and expand sales and marketing globally for the company’s industry-leading cloud security platform.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ranzy Locker ransomware hit at least 30 US companies this year<a href="https://www.bleepingcomputer.com/news/security/fbi-ranzy-locker-ransomware-hit-at-least-30-us-companies-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI said on Monday that Ranzy Locker ransomware operators had compromised at least 30 US companies this year from various industry sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Cyberattack Temporarily Shuts Down Gas Stations Across Iran<a href="https://therecord.media/suspected-cyberattack-temporarily-disrupts-gas-stations-across-iran/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to reports in local media and posts on social networks, the cyberattack caused NIOPDC gas stations to show the words “cyebrattack 64411” on their screens earlier in the morning.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia drafts Online Privacy Bill to bolster data security<a href="https://www.bleepingcomputer.com/news/security/australia-drafts-online-privacy-bill-to-bolster-data-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's Attorney-General has submitted the first draft of a new Online Privacy Bill that contains striking reforms over existing privacy laws. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending Assets You Don’t Know About, Against Cyberattacks<a href="https://threatpost.com/defending-unknown-assets-cyberattacks/175730/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No security defense is perfect, and shadow IT means no company can inventory every single asset that it has. David “moose” Wolpoff, CTO at Randori, discusses strategies for core asset protection given this reality.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove Calls for Cyberattacks on US as REvil Payback<a href="https://threatpost.com/groove-ransomware-revil-revenge-us-cyberattacks/175726/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bold move signals a looming clash between Russian ransomware groups and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla blocks malicious add-ons installed by 455K Firefox users<a href="https://www.bleepingcomputer.com/news/security/mozilla-blocks-malicious-add-ons-installed-by-455k-firefox-users/"> Full Text</a>
@@ -50,7 +616,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Says SolarWinds Hackers Compromised 14 Technology Providers to Piggyback on Customer Access<a href="https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/?&web_view=true"> Full Text</a>
@@ -66,7 +632,7 @@ Microsoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New hacking efforts show Russia undeterred by US actions<a href="https://thehill.com//policy/cybersecurity/578367-new-hacking-efforts-show-russia-undeterred-by-us-actions"> Full Text</a>
@@ -82,7 +648,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Let Attacker Collect and Spoof Browser's Digital Fingerprints<a href="https://thehackernews.com/2021/10/new-attack-let-attacker-collect-and.html"> Full Text</a>
@@ -98,7 +664,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unknown ransomware gang uses SQL injection bug in BillQuick Web Suite to deploy ransomware<a href="https://securityaffairs.co/wordpress/123783/cyber-crime/ransomware-gang-billquick-web-suite-bug.html"> Full Text</a>
@@ -118,7 +684,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Urges Sites to Patch Critical RCE in Discourse<a href="https://threatpost.com/cisa-critical-rce-discourse/175705/"> Full Text</a>
@@ -134,7 +700,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Android users targeted in subscription fraud campaign<a href="https://www.bleepingcomputer.com/news/security/millions-of-android-users-targeted-in-subscription-fraud-campaign/"> Full Text</a>
@@ -150,7 +716,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Intel Warns China Could Dominate Advanced Technologies<a href="https://www.securityweek.com/us-intel-warns-china-could-dominate-advanced-technologies?&web_view=true"> Full Text</a>
@@ -166,7 +732,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hardware-grade enterprise authentication without hardware: new SIM security solution for IAM<a href="https://thehackernews.com/2021/10/hardware-grade-enterprise.html"> Full Text</a>
@@ -182,7 +748,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical RCE flaw affects Discourse software, patch it now!<a href="https://securityaffairs.co/wordpress/123775/hacking/discourse-rce.html"> Full Text</a>
@@ -202,7 +768,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender ATP adds live response for Linux and macOS<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-adds-live-response-for-linux-and-macos/"> Full Text</a>
@@ -218,7 +784,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Earns $2 Million for Critical Vulnerability in Polygon<a href="https://www.securityweek.com/researcher-earns-2-million-critical-vulnerability-polygon/?&web_view=true"> Full Text</a>
@@ -234,7 +800,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Continued Supply-Chain Attacks by the Nobelium Hacker Group<a href="https://thehackernews.com/2021/10/microsoft-warns-of-continued-supply.html"> Full Text</a>
@@ -250,7 +816,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Red TIM Research found two rare flaws in Ericsson OSS-RC component<a href="https://securityaffairs.co/wordpress/123764/security/ericsson-oss-rc-flaws.html"> Full Text</a>
@@ -274,7 +840,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers used billing software zero-day to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/hackers-used-billing-software-zero-day-to-deploy-ransomware/"> Full Text</a>
@@ -290,7 +856,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco SD-WAN flaw could lead to arbitrary code execution, patch it now!<a href="https://securityaffairs.co/wordpress/123704/security/cisco-sd-wan-flaw.html?&web_view=true"> Full Text</a>
@@ -306,7 +872,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploited Popular BillQuick Billing Software to Deploy Ransomware<a href="https://thehackernews.com/2021/10/hackers-exploited-popular-billquick.html"> Full Text</a>
@@ -322,7 +888,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Nobelium APT targets orgs in the global IT supply chain<a href="https://securityaffairs.co/wordpress/123754/apt/nobelium-apt-it-supply-chain.html"> Full Text</a>
@@ -342,7 +908,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges admins to patch critical Discourse code execution bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-admins-to-patch-critical-discourse-code-execution-bug/"> Full Text</a>
@@ -358,7 +924,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Introduces New Tool for Finding SSRF Vulnerabilities<a href="https://www.securityweek.com/facebook-introduces-new-tool-finding-ssrf-vulnerabilities?&web_view=true"> Full Text</a>
@@ -374,7 +940,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYT Journalist’s iPhone infected twice with NSO Group’sPegasus spyware<a href="https://securityaffairs.co/wordpress/123747/hacking/nyt-journalist-pegasus-spyware.html"> Full Text</a>
@@ -394,7 +960,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russian SVR hacked at least 14 IT supply chain firms since May<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-russian-svr-hacked-at-least-14-it-supply-chain-firms-since-may/"> Full Text</a>
@@ -410,7 +976,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Sell 50 Million Records of Moscow Drivers on Hacking Forum<a href="https://securityaffairs.co/wordpress/123711/data-breach/moscow-drivers-data-leak.html?&web_view=true"> Full Text</a>
@@ -426,7 +992,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2021
+October 25, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emsisoft created a free decryptor for past victims of the BlackMatter ransomware<a href="https://securityaffairs.co/wordpress/123736/security/blackmatter-decryptor-pat-victims.html"> Full Text</a>
@@ -446,7 +1012,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2021
+October 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYT Journalist Repeatedly Hacked with Pegasus after Reporting on Saudi Arabia<a href="https://thehackernews.com/2021/10/nyt-journalist-repeatedly-hacked-with.html"> Full Text</a>
