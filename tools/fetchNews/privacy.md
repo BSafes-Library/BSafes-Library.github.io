@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYT Journalist’s iPhone infected twice with NSO Group’sPegasus spyware<a href="https://securityaffairs.co/wordpress/123747/hacking/nyt-journalist-pegasus-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors infected the iPhone of New York Times journalist Ben Hubbard with NSO Group's Pegasus spyware between June 2018 to June 2021.
+
+
+
+The iPhone of New York Times journalist Ben Hubbard was repeatedly infected with NSO Group's Pegasus spyware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: ISPs collect and monetize far more user data than you’d think<a href="https://www.bleepingcomputer.com/news/security/ftc-isps-collect-and-monetize-far-more-user-data-than-you-d-think/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) found that six largest internet service providers (ISPs) in the U.S. collect and share customers' personal data without providing them with info on how it's used or meaningful ways to control this process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Most Imitated Brand for Phishing Attacks: Report<a href="https://cyware.com/news/microsoft-most-imitated-brand-for-phishing-attacks-report-73f959f3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft topped the list as 29% of all brand phishing attempts were related to the Redmond-based technology giant. Other impersonated brands include Amazon (13%), DHL (9%), and Bestbuy (8%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TodayZoo phishing kit borrows the code from other kits<a href="https://securityaffairs.co/wordpress/123729/cyber-crime/todayzoo-phishing-kit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft uncovered an extensive series of credential phishing campaigns that employed a custom phishing kit tracked as TodayZoo. 
+
+
+
+Microsoft researchers uncovered a custom phishing kit, dubbed TodayZoo, that was used in an extensive series of credential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of TodayZoo Phishing Kit Used in Extensive Credential Stealing Attacks<a href="https://thehackernews.com/2021/10/microsoft-warns-of-todayzoo-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed an "extensive series of credential phishing campaigns" that takes advantage of a custom phishing kit that stitched together components from at least five different widely circulated ones with the goal of siphoning user login information.  The tech giant's Microsoft 365 Defender Threat Intelligence Team, which detected the first instances of the tool in the wild in December 2020, dubbed the copy-and-paste attack infrastructure " TodayZoo ."   "The abundance of phishing kits and other tools available for sale or rent makes it easy for a lone wolf attacker to pick and choose the best features from these kits," the researchers said. "They put these functionalities together in a customized kit and try to reap the benefits all to themselves. Such is the case of TodayZoo."  Phishing kits, often sold as one time payments in underground forums, are packaged archive files containing images, scripts, and HTML pages that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonrai Security Announces $50M in Series C Funding Led by ISTARI<a href="https://finance.yahoo.com/news/sonrai-security-announces-50m-series-120000401.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sonrai plans to use new funding to accelerate research and development and expand sales and marketing globally for the company’s industry-leading cloud security platform.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

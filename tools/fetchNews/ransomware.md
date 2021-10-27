@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emsisoft created a free decryptor for past victims of the BlackMatter ransomware<a href="https://securityaffairs.co/wordpress/123736/security/blackmatter-decryptor-pat-victims.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from cybersecurity firm Emsisoft announced the availability of a free decryptor for past victims of the BlackMatter ransomware. 
+
+
+
+Cybersecurity firm Emsisoft has released a free decryption tool for past victims of the BlackMatter ransomware....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

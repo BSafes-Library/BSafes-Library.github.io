@@ -8,6 +8,52 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender ATP adds live response for Linux and macOS<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-atp-adds-live-response-for-linux-and-macos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced the addition of new live macOS and Linux response capabilities to Defender for Endpoint,&nbsp;, the enterprise version of Redmond's Windows 10 Defender antivirus.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Nobelium APT targets orgs in the global IT supply chain<a href="https://securityaffairs.co/wordpress/123754/apt/nobelium-apt-it-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Nobelium APT&nbsp;group has breached at least 14 managed service providers (MSPs) and cloud service providers since May 2021. 
+
+
+
+The SolarWinds security breach was not isolated, Russia-linked Nobelium APT&nbsp;group has targeted140 managed service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom Sector Comes Under Attack as New APT Groups Emerge<a href="https://cyware.com/news/telecom-sector-comes-under-attack-as-new-apt-groups-emerge-a2814fb9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new China-linked LightBasin threat actor group emerged as a new threat for telecommunication companies as researchers dug out a string of attacks designed to gather valuable information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

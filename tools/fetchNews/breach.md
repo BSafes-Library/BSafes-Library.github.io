@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Says SolarWinds Hackers Compromised 14 Technology Providers to Piggyback on Customer Access<a href="https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This time, Nobelium attacking a different part of the supply chain: resellers and other technology service providers that customize, deploy and manage various technologies for their customers.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular NPM library hijacked to install password-stealers, miners<a href="https://www.bleepingcomputer.com/news/security/popular-npm-library-hijacked-to-install-password-stealers-miners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hijacked the popular UA-Parser-JS NPM library, with millions of downloads a week,&nbsp;to infect Linux and Windows devices with cryptominers and password-stealing trojans in a supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

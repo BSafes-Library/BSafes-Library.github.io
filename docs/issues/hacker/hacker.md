@@ -8,6 +8,67 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gummy Browsers Attack Lets Hackers Spoof Your Digital Identity<a href="https://cyware.com/news/gummy-browsers-attack-lets-hackers-spoof-your-digital-identity-eaf11598"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Texas A&amp;M University and the University of Florida discovered Gummy Browsers, a new fingerprint capturing and browser spoofing attack.  This attack technique can be leveraged to bypass 2FA on auth systems.&nbsp;While security analysts and experts will work toward addressing such  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert managed to crack 70% of a 5,000 WiFi network sample in Tel Aviv<a href="https://securityaffairs.co/wordpress/123810/hacking/cracking-wifi-at-scale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher from the security firm CyberArk has managed to crack 70% of Tel Aviv’s Wifi Networks starting from a sample of 5,000 gathered WiFi.
+
+
+
+CyberArk security researcher Ido Hoorvitch demonstrated how it is possible to crack WiFi at scale by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean state hackers start targeting the IT supply chain<a href="https://www.bleepingcomputer.com/news/security/north-korean-state-hackers-start-targeting-the-it-supply-chain/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean-sponsored Lazarus hacking group has switched focus on new targets and was observed by Kaspersky security researchers expanding its&nbsp;supply chain attack capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher cracked 70% of WiFi networks sampled in Tel Aviv<a href="https://www.bleepingcomputer.com/news/security/researcher-cracked-70-percent-of-wifi-networks-sampled-in-tel-aviv/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has managed to crack 70% of a 5,000 WiFi network sample in his hometown, Tel Aviv, to prove that home networks are severely unsecured and easy to hijack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

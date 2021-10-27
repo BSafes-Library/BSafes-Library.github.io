@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Clouds &amp; Shared Responsibility: Lessons from Vulnerability Disclosure<a href="https://threatpost.com/public-clouds-shared-responsibility-vulnerability/175778/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Much is made of shared responsibility for cloud security. But Oliver Tavakoli, CTO at Vectra AI, notes there’s no guarantee that Azure or AWS are delivering services in a hardened and secure manner.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prepare for 5 cybersecurity certifications with this bundle<a href="https://www.bleepingcomputer.com/news/security/prepare-for-5-cybersecurity-certifications-with-this-bundle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With The Ultimate 2021 Cyber Security Survival Training Bundle, you get full prep for five top certifications. The included content is worth a total of $495, but you can get it today for only $29.99.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defending Assets You Don’t Know About, Against Cyberattacks<a href="https://threatpost.com/defending-unknown-assets-cyberattacks/175730/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No security defense is perfect, and shadow IT means no company can inventory every single asset that it has. David “moose” Wolpoff, CTO at Randori, discusses strategies for core asset protection given this reality.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

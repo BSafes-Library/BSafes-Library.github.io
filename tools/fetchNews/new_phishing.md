@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 10 Million Android Users Targeted With Premium SMS Scam Apps<a href="https://thehackernews.com/2021/10/over-10-million-android-users-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A global fraud campaign has been found leveraging 151 malicious Android apps with 10.5 million downloads to rope users into premium subscription services without their consent and knowledge.  The&nbsp; premium SMS scam &nbsp;campaign — dubbed " UltimaSMS " — is believed to commenced in May 2021 and involved apps that cover a wide range of categories, including keyboards, QR code scanners, video and photo editors, spam call blockers, camera filters, and games, with most of the fraudulent apps downloaded by users in Egypt, Saudi Arabia, Pakistan, the U.A.E., Turkey, Oman, Qatar, Kuwait, the U.S., and Poland.   Although a significant&nbsp; chunk of the apps &nbsp;in question has since been removed from the Google Play Store, 82 apps continued to remain available in the online marketplace as of October 19, 2021.   It all starts with the apps prompting users to enter their phone numbers and email addresses to gain access to the advertised features, only to subscribe the victims to premium SMS servic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

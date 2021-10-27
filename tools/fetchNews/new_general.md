@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the Next-Generation of Application Security Is Needed<a href="https://threatpost.com/next-generation-application-security/175765/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New software and code stand at the core of everything we do, but how well is all of this new code tested? Luckily, autonomous application security is here.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+72% of organizations hit by DNS attacks in the past year<a href="https://www.helpnetsecurity.com/2021/10/26/organizations-dns-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey from the Neustar International Security Council (NISC) conducted in September 2021, 72% of study participants reported experiencing a DNS attack within the last 12 months.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Intel Warns China Could Dominate Advanced Technologies<a href="https://www.securityweek.com/us-intel-warns-china-could-dominate-advanced-technologies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The warnings include a renewed effort to inform business executives, academics and local and state government officials about the risks of accepting Chinese investment or expertise in key industries.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges admins to patch critical Discourse code execution bug<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-admins-to-patch-critical-discourse-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Discourse remote code execution (RCE) vulnerability tracked as CVE-2021-41163 was fixed via an urgent update by the developer on Friday
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO releases its first strategy for Artificial Intelligence<a href="https://securityaffairs.co/wordpress/123715/security/nato-strategy-artificial-intelligence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, NATO Defence Ministers released the first-ever strategy for Artificial Intelligence (AI) that encourages the use of AI in a responsible manner.
+
+
+
+Artificial Intelligence (AI) is changing the global defence and security environment, for this...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

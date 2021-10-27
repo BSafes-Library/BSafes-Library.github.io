@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kansas Man pleads guilty to hacking the Post Rock Rural Water District<a href="https://securityaffairs.co/wordpress/123791/cyber-crime/post-rock-rural-water-district-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kansas man Wyatt Travnichek admitted in court to tampering with the computer systems at the Post Rock Rural Water District.
+
+
+
+Kansas man  Wyatt A. Travnichek pleaded guilty to tampering with the computer system at a drinking water treatment facility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900075
 
 ## Government
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran blames cyberattack for nationwide gas station closures<a href="https://thehill.com//policy/cybersecurity/578542-iran-blames-cyberattack-for-nationwide-gas-station-closures"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran says that a cyberattack caused nationwide closures of gas stations, according to multiple reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After a Year of Silence, Are EU Cyber Sanctions Dead?<a href="https://www.lawfareblog.com/after-year-silence-are-eu-cyber-sanctions-dead"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union has stopped issuing cyber sanctions, but it's not for lack of new attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers praise upcoming establishment of cyber bureau at State<a href="https://thehill.com//policy/cybersecurity/578508-lawmakers-praise-the-upcoming-establishment-of-cyber-bureau-at-state"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers on both sides of the aisle are praising the upcoming establishment of a new cybersecurity bureau at the State Department, following years of advocacy and escalating global attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ranzy Locker ransomware hit at least 30 US companies this year<a href="https://www.bleepingcomputer.com/news/security/fbi-ranzy-locker-ransomware-hit-at-least-30-us-companies-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI said on Monday that Ranzy Locker ransomware operators had compromised at least 30 US companies this year from various industry sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groove Calls for Cyberattacks on US as REvil Payback<a href="https://threatpost.com/groove-ransomware-revil-revenge-us-cyberattacks/175726/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bold move signals a looming clash between Russian ransomware groups and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

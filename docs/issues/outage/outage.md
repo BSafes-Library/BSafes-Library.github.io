@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian gas stations out of service after distribution network hacked<a href="https://www.bleepingcomputer.com/news/security/iranian-gas-stations-out-of-service-after-distribution-network-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gas stations from the National Iranian Oil Products Distribution Company (NIOPDC) have stopped working today due to what appears to be a cyberattack that affected the entire distribution network.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Cyberattack Temporarily Shuts Down Gas Stations Across Iran<a href="https://therecord.media/suspected-cyberattack-temporarily-disrupts-gas-stations-across-iran/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to reports in local media and posts on social networks, the cyberattack caused NIOPDC gas stations to show the words “cyebrattack 64411” on their screens earlier in the morning.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
