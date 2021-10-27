@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with Ranzy Locker Ransomware <a href="https://publications.bsafes.com/docs/fbi/flash-2021-1025-indicatiors-of-compormise-associated-with-ranzy-locker-ransomeware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI first identified Ranzy Locker ransomware in late 2020 when the variant began to target victims in the United States. Unknown cyber criminals using Ranzy Locker ransomware had compromised more than 30 US businesses as of July 2021. The victims include the construction subsector of the critical manufacturing sector, the academia subsector of the government facilities sector, the information technology sector, and the transportation sector.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability in Discourse <a href="https://threatpost.com/cisa-critical-rce-discourse/175705/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since July 2021, BlackMatter ransomware has targeted multiple U.S. critical infrastructure entities, including two U.S. Food and Agriculture Sector organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 18, 2021 - CISA, FBI, NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
