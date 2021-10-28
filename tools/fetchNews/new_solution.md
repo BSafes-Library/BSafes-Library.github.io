@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware decryptor released to recover files for free<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-decryptor-released-to-recover-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech cybersecurity software firm Avast has created and released a decryption tool to help Babuk ransomware victims recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

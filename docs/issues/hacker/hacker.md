@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA551 Using Silver Red-Teaming Tool to Penetrate Networks<a href="https://cyware.com/news/ta551-using-silver-red-teaming-tool-to-penetrate-networks-e5c83e78"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA551 has been found targeting victims by email thread hijacking using a red-teaming toolkit and adversary simulation framework called Sliver.&nbsp; Experts revealed that the attackers have been using  this technique  since October 20.  The use of open-source pentest tools is becoming more popular  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack the block – How a security researcher cracked 70% of urban WiFi networks in one hit<a href="https://portswigger.net/daily-swig/attack-the-block-how-a-security-researcher-cracked-70-of-urban-wifi-networks-in-one-hit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability, discovered by Hashcat’s lead developer Jens “atom” Steube, is at the heart of the attack. This bug can be exploited to retrieve PMKID hashes to crack network passwords.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

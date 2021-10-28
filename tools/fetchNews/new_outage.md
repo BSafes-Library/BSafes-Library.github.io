@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attack in Iran Reportedly Cripples Gas Stations Across the Country<a href="https://thehackernews.com/2021/10/cyber-attack-in-iran-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack &nbsp;in Iran left petrol stations across the country crippled, disrupting fuel sales and defacing electronic billboards to display messages challenging the regime's ability to distribute gasoline.  Posts and&nbsp; videos &nbsp; circulated &nbsp;on social media showed messages that said, "Khamenei! Where is our gas?" — a reference to the country's supreme leader Ayatollah Ali Khamenei. Other signs read, "Free gas in Jamaran gas station," with gas pumps showing the words "cyberattack 64411" when attempting to purchase fuel, semi-official Iranian Students' News Agency (ISNA) news agency&nbsp; reported .   Abolhassan Firouzabadi, the head of Iran's Supreme Cyberspace Council,&nbsp; said &nbsp;the attacks were "probably" state-sponsored but added it was too early to determine which country carried out the intrusions.  Although no country or group has so far claimed responsibility for the incident, the attacks mark the second time digital billboards have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operations at Iranian gas stations were disrupted today. Cyber attack or computer glitch?<a href="https://securityaffairs.co/wordpress/123824/hacking/iranian-gas-stations-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack has disrupted gas stations from the National Iranian Oil Products Distribution Company (NIOPDC) across Iran.
+
+
+
+A cyber attack has disrupted gas stations from the state-owned National Iranian Oil Products Distribution Company (NIOPDC) across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

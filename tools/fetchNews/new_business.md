@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter employees required to use security keys after 2020 hack<a href="https://www.bleepingcomputer.com/news/security/twitter-employees-required-to-use-security-keys-after-2020-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter rolled out security keys to its entire workforce and made&nbsp;two-factor authentication (2FA) mandatory for accessing internal systems&nbsp;following last year's hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

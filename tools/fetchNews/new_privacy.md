@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android spyware apps target Israel in three-year-long campaign<a href="https://www.bleepingcomputer.com/news/security/android-spyware-apps-target-israel-in-three-year-long-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of seemingly innocuous Android apps have been infecting Israeli users with spyware since 2018, and the campaign continues to this day.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

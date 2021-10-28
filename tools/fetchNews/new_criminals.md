@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NRA: No comment on Russian ransomware gang attack claims<a href="https://www.bleepingcomputer.com/news/security/nra-no-comment-on-russian-ransomware-gang-attack-claims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Grief ransomware gang claims to have attacked the National Rifle Association (NRA) and released allegedly stolen data as proof of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grief ransomware gang hit US National Rifle Association (NRA)<a href="https://securityaffairs.co/wordpress/123849/cyber-crime/grief-ransomware-hit-nra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grief ransomware operators claim to have compromised computer systems at US National Rifle Association (NRA) and added it to their leak site.
+
+
+
+Grief ransomware operators announced to have hacked US National Rifle Association (NRA) and threaten to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers arrested for ‘infiltrating’ Ukraine’s health database<a href="https://www.bleepingcomputer.com/news/security/hackers-arrested-for-infiltrating-ukraine-s-health-database/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) has arrested a team of actors who illegally infiltrated the information system of the National Health Service of Ukraine (NHSU) and entered false vaccination entries for other people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

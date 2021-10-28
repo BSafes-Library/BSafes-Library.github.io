@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Are Evolving. Your Security Strategy Should, Too<a href="https://threatpost.com/ransomware-attacks-evolving-security-strategy/175835/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defending against ransomware will take a move to zero-trust, argues Daniel Spicer, CSO, Ivanti.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] The Guide to Centralized Log Management for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-to-centralized-log.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the side effects of today's cyber security landscape is the overwhelming volume of data security teams must aggregate and parse. Lean security teams don't have it any easier, and the problem is compounded if they must do it manually. Data and log management are essential for organizations to gain real-time transparency and visibility into security events.&nbsp;  XDR provider Cynet has offered up a new guide ( read it here ) that helps lean organizations understand the importance of centralized log management (CLM). The truth is that even the most well-stocked and staffed teams would have trouble manually handling their log management needs, which is why organizations are increasingly going the automated route.&nbsp;  On top of the efficiency of automation, CLM gives organizations much greater visibility into their environment and security events that impact them. However, the benefits of deploying CLM tools and reducing the level of human intervention in log management and analysis are m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

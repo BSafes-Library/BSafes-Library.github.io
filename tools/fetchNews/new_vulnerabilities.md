@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+War-Driving Technique Allows Wi-Fi Password-Cracking at Scale<a href="https://threatpost.com/war-driving-wi-fi-password-cracking/175817/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher was able to crack 70 percent of the gathered hashes in an experiment in a residential neighborhood.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Critical iOS Bugs; One Under Attack<a href="https://threatpost.com/apple-patches-ios-bugs/175803/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that one critical flaw in question is exploitable from the browser, allowing watering-hole attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fuji Electric Patches Vulnerabilities in Factory Monitoring Software<a href="https://www.securityweek.com/fuji-electric-patches-vulnerabilities-factory-monitoring-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday published an advisory to inform organizations about these flaws and the availability of fixes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

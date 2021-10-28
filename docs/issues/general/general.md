@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Natural Disasters Can Set the Stage for Cyberattacks<a href="https://www.nextgov.com/cybersecurity/2021/10/natural-disasters-can-set-stage-cyberattacks/186366/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals, who are becoming increasingly sophisticated, could take advantage of natural disasters such as hurricanes, wildfires, and tornadoes to wreak havoc on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly all US execs have experienced a cybersecurity threat, but some say there's still no plan<a href="https://www.zdnet.com/article/nearly-all-us-execs-have-experienced-a-cybersecurity-event-but-some-say-theres-still-no-plan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new survey by Deloitte suggests the majority of US executives have encountered a cybersecurity incident but this has not translated into the creation of incident response plans.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 9th edition of the ENISA Threat Landscape (ETL) report is out!<a href="https://securityaffairs.co/wordpress/123839/security/enisa-threat-landscape-report-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to announce the release of the 9th edition of the ENISA Threat Landscape (ETL) on the state of the cybersecurity threat landscape.
+
+
+
+The Europen Agency for cybersecurity ENISA releases its&nbsp;ENISA Threat Landscape 2021&nbsp;(ETL) report,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

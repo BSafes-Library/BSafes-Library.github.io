@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ranzy Locker Ransomware Attacked Over 30 U.S. Organizations in 2021<a href="https://securityaffairs.co/wordpress/123801/cyber-crime/ranzy-locker-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang has been active since at least 2020 and hit organizations from various industries. The attack vector most used by the ransomware operators are brute force attempts on RDP endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Android Users Scammed in SMS Fraud Driven by Tik-Tok Ads<a href="https://threatpost.com/android-scammed-sms-fraud-tik-tok/175739/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UltimaSMS leverages at least 151 apps that have been downloaded collectively more than 10 million times, to extort money through a fake premium SMS subscription service.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia drafts Online Privacy Bill to bolster data security<a href="https://www.bleepingcomputer.com/news/security/australia-drafts-online-privacy-bill-to-bolster-data-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's Attorney-General has submitted the first draft of a new Online Privacy Bill that contains striking reforms over existing privacy laws.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

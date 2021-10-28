@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ranzy Locker ransomware hit tens of US companies in 2021<a href="https://securityaffairs.co/wordpress/123801/cyber-crime/ranzy-locker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI published a flash alert to warn of the activity of the Ranzy Locker ransomware that had already compromised tens of US companies.
+
+
+
+The FBI published a flash alert to warn of Ranzy Locker ransomware operations that had already compromised at least...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UltimaSMS subscription fraud campaign targeted millions of Android users<a href="https://securityaffairs.co/wordpress/123795/malware/ultimasms-massive-fraud-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UltimaSMS, a massive fraud campaign is using Android apps with million of downloads to subscribe victims to premium subscription services.
+
+
+
+Researchers from Avast have uncovered a widespread premium SMS scam on the Google Play Store, tracked as UltimaSMS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

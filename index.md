@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NRA: No comment on Russian ransomware gang attack claims<a href="https://www.bleepingcomputer.com/news/security/nra-no-comment-on-russian-ransomware-gang-attack-claims/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Natural Disasters Can Set the Stage for Cyberattacks<a href="https://www.nextgov.com/cybersecurity/2021/10/natural-disasters-can-set-stage-cyberattacks/186366/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NRA hit by Russian-linked ransomware attack: reports<a href="https://thehill.com//policy/cybersecurity/578767-nra-hit-by-russian-linked-ransomware-attack-reports"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Squirrelwaffle Loader to Deploy Qakbot and Cobalt Strike<a href="https://thehackernews.com/2021/10/hackers-using-squirrelwaffle-loader-to.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast releases free decrypters for AtomSilo and LockFile ransomware families<a href="https://securityaffairs.co/wordpress/123854/malware/atomsilo-lockfile-ransomware-decryptor.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Are Evolving. Your Security Strategy Should, Too<a href="https://threatpost.com/ransomware-attacks-evolving-security-strategy/175835/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android spyware apps target Israel in three-year-long campaign<a href="https://www.bleepingcomputer.com/news/security/android-spyware-apps-target-israel-in-three-year-long-campaign/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA551 Using Silver Red-Teaming Tool to Penetrate Networks<a href="https://cyware.com/news/ta551-using-silver-red-teaming-tool-to-penetrate-networks-e5c83e78"> Full Text</a>
@@ -167,7 +167,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blinken formally announces new State Department cyber bureau<a href="https://thehill.com//policy/cybersecurity/578728-blinken-formally-announces-new-state-dept-cyber-bureau-as-part-of"> Full Text</a>
@@ -183,7 +183,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] The Guide to Centralized Log Management for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-to-centralized-log.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grief ransomware gang hit US National Rifle Association (NRA)<a href="https://securityaffairs.co/wordpress/123849/cyber-crime/grief-ransomware-hit-nra.html"> Full Text</a>
@@ -219,7 +219,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 War-Driving Technique Allows Wi-Fi Password-Cracking at Scale<a href="https://threatpost.com/war-driving-wi-fi-password-cracking/175817/"> Full Text</a>
@@ -235,7 +235,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free decryptor released for Atom Silo and LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-atom-silo-and-lockfile-ransomware/"> Full Text</a>
@@ -251,7 +251,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abuse of Discord CDN Witnesses Significant Rise<a href="https://cyware.com/news/abuse-of-discord-cdn-witnesses-significant-rise-277d273d"> Full Text</a>
@@ -267,7 +267,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers split on next steps to secure transportation sectors against hackers<a href="https://thehill.com//policy/cybersecurity/578578-lawmakers-split-on-next-steps-to-secure-transportation-sectors-against"> Full Text</a>
@@ -283,7 +283,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attack in Iran Reportedly Cripples Gas Stations Across the Country<a href="https://thehackernews.com/2021/10/cyber-attack-in-iran-reportedly.html"> Full Text</a>
@@ -299,7 +299,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast released a free decryptor for Babuk ransomware<a href="https://securityaffairs.co/wordpress/123844/malware/babuk-ransomware-decryptor.html"> Full Text</a>
@@ -319,7 +319,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches Critical iOS Bugs; One Under Attack<a href="https://threatpost.com/apple-patches-ios-bugs/175803/"> Full Text</a>
@@ -335,7 +335,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter employees required to use security keys after 2020 hack<a href="https://www.bleepingcomputer.com/news/security/twitter-employees-required-to-use-security-keys-after-2020-hack/"> Full Text</a>
@@ -351,7 +351,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly all US execs have experienced a cybersecurity threat, but some say there's still no plan<a href="https://www.zdnet.com/article/nearly-all-us-execs-have-experienced-a-cybersecurity-event-but-some-say-theres-still-no-plan/?&web_view=true"> Full Text</a>
@@ -367,7 +367,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Report Uncovers Supply Chain Attacks by North Korean Hackers<a href="https://thehackernews.com/2021/10/latest-report-uncovers-supply-chain.html"> Full Text</a>
@@ -383,7 +383,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The 9th edition of the ENISA Threat Landscape (ETL) report is out!<a href="https://securityaffairs.co/wordpress/123839/security/enisa-threat-landscape-report-2021.html"> Full Text</a>
@@ -403,7 +403,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers arrested for ‘infiltrating’ Ukraine’s health database<a href="https://www.bleepingcomputer.com/news/security/hackers-arrested-for-infiltrating-ukraine-s-health-database/"> Full Text</a>
@@ -419,7 +419,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fuji Electric Patches Vulnerabilities in Factory Monitoring Software<a href="https://www.securityweek.com/fuji-electric-patches-vulnerabilities-factory-monitoring-software?&web_view=true"> Full Text</a>
@@ -435,7 +435,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT targets the IT supply chain<a href="https://securityaffairs.co/wordpress/123831/apt/north-korea-lazarus-supply-chain.html"> Full Text</a>
@@ -459,7 +459,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Babuk ransomware decryptor released to recover files for free<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-decryptor-released-to-recover-files-for-free/"> Full Text</a>
@@ -475,7 +475,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attack the block – How a security researcher cracked 70% of urban WiFi networks in one hit<a href="https://portswigger.net/daily-swig/attack-the-block-how-a-security-researcher-cracked-70-of-urban-wifi-networks-in-one-hit?&web_view=true"> Full Text</a>
@@ -491,7 +491,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operations at Iranian gas stations were disrupted today. Cyber attack or computer glitch?<a href="https://securityaffairs.co/wordpress/123824/hacking/iranian-gas-stations-incident.html"> Full Text</a>
@@ -511,7 +511,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US bans China Telecom Americas over national security risks<a href="https://www.bleepingcomputer.com/news/security/us-bans-china-telecom-americas-over-national-security-risks/"> Full Text</a>
@@ -527,7 +527,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for the Steam skin "free knife" scam<a href="https://blog.malwarebytes.com/scams/2021/10/watch-out-for-the-steam-skin-free-knife-scam/?&web_view=true"> Full Text</a>
@@ -543,7 +543,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2021
+October 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM libraries install ransomware, password stealer<a href="https://www.bleepingcomputer.com/news/security/malicious-npm-libraries-install-ransomware-password-stealer/"> Full Text</a>
@@ -559,7 +559,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2021
+October 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SquirrelWaffle Loader Malspams, Packing Qakbot, Cobalt Strike<a href="https://threatpost.com/squirrelwaffle-loader-malspams-packing-qakbot-cobalt-strike/175775/"> Full Text</a>

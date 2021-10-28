@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark HunTOR: Police arrested 150 people in dark web drug bust<a href="https://securityaffairs.co/wordpress/123818/cyber-crime/dark-huntor-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark HunTOR: Police corps across the world have arrested 150 individuals suspected of buying or selling illicit goods on the dark web marketplace DarkMarket.
+
+
+
+A joint international operation, tracked as Dark HunTOR, conducted by law enforcement across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest 150 dark web vendors of illegal drugs and guns<a href="https://www.bleepingcomputer.com/news/security/police-arrest-150-dark-web-vendors-of-illegal-drugs-and-guns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities arrested 150 suspects allegedly involved in selling and buying illicit goods on DarkMarket, the largest illegal marketplace on the dark web when it was&nbsp;taken down in January 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money launderers for Russian hacking groups arrested in Ukraine<a href="https://www.bleepingcomputer.com/news/security/money-launderers-for-russian-hacking-groups-arrested-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cybercrime police force has arrested members of a group of money launderers and hackers at the request of U.S. intelligence services.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

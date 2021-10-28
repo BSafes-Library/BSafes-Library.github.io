@@ -8,6 +8,56 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast releases free decrypters for AtomSilo and LockFile ransomware families<a href="https://securityaffairs.co/wordpress/123854/malware/atomsilo-lockfile-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Avast released today decryptors for AtomSilo and LockFile ransomware that allow victims to recover their files for free. 
+
+
+
+Cyber security firm Avast has released today decryption utilities for AtomSilo and LockFile ransomware that allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for Atom Silo and LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-atom-silo-and-lockfile-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast has just released a decryption tool that will help AtomSilo and LockFile&nbsp;ransomware victims recover some of their files for free,&nbsp;without having to pay a&nbsp;ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for Babuk ransomware<a href="https://securityaffairs.co/wordpress/123844/malware/babuk-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm Avast released a decryption tool for Babuk ransomware that allows victims to recover their files for free.
+
+
+
+Cybersecurity firm Avast has released a decryption tool for Babuk ransomware that allows victims to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

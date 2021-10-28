@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Immigration Authority Leaked Some Vulnerable Afghan Citizens' Details<a href="https://www.cbc.ca/news/politics/afghan-data-breach-ircc-1.6224894?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The names of several hundred vulnerable Afghans seeking refuge from the Taliban were recently leaked in emails sent in error by Immigration, Refugees and Citizenship Canada (IRCC), CBC News reported.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
