@@ -34,6 +34,547 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NRA: No comment on Russian ransomware gang attack claims<a href="https://www.bleepingcomputer.com/news/security/nra-no-comment-on-russian-ransomware-gang-attack-claims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Grief ransomware gang claims to have attacked the National Rifle Association (NRA) and released allegedly stolen data as proof of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Natural Disasters Can Set the Stage for Cyberattacks<a href="https://www.nextgov.com/cybersecurity/2021/10/natural-disasters-can-set-stage-cyberattacks/186366/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals, who are becoming increasingly sophisticated, could take advantage of natural disasters such as hurricanes, wildfires, and tornadoes to wreak havoc on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NRA hit by Russian-linked ransomware attack: reports<a href="https://thehill.com//policy/cybersecurity/578767-nra-hit-by-russian-linked-ransomware-attack-reports"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Rifle Association (NRA) has been hit by a ransomware attack, becoming the latest victim of a massive spike in these attacks this year, according to multiple reports Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Squirrelwaffle Loader to Deploy Qakbot and Cobalt Strike<a href="https://thehackernews.com/2021/10/hackers-using-squirrelwaffle-loader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new spam email campaign has emerged as a conduit for a previously undocumented malware loader that enables the attackers to gain an initial foothold into enterprise networks and drop malicious payloads on compromised systems.  "These infections are also used to facilitate the delivery of additional malware such as Qakbot and Cobalt Strike, two of the most common threats regularly observed targeting organizations around the world,"  said  researchers with Cisco Talos in a technical write-up.   The malspam campaign is believed to have commenced in mid-September 2021 via laced Microsoft Office documents that, when opened, triggers an infection chain that leads to the machines getting infected with a malware dubbed SQUIRRELWAFFLE .  Mirroring a technique that's consistent with other phishing attacks of this kind, the latest operation leverages stolen email threads to give it a veil of legitimacy and trick unsuspecting users into opening the attachments.  What's more, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast releases free decrypters for AtomSilo and LockFile ransomware families<a href="https://securityaffairs.co/wordpress/123854/malware/atomsilo-lockfile-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Avast released today decryptors for AtomSilo and LockFile ransomware that allow victims to recover their files for free. 
+
+
+
+Cyber security firm Avast has released today decryption utilities for AtomSilo and LockFile ransomware that allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Are Evolving. Your Security Strategy Should, Too<a href="https://threatpost.com/ransomware-attacks-evolving-security-strategy/175835/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defending against ransomware will take a move to zero-trust, argues Daniel Spicer, CSO, Ivanti.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android spyware apps target Israel in three-year-long campaign<a href="https://www.bleepingcomputer.com/news/security/android-spyware-apps-target-israel-in-three-year-long-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of seemingly innocuous Android apps have been infecting Israeli users with spyware since 2018, and the campaign continues to this day.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA551 Using Silver Red-Teaming Tool to Penetrate Networks<a href="https://cyware.com/news/ta551-using-silver-red-teaming-tool-to-penetrate-networks-e5c83e78"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA551 has been found targeting victims by email thread hijacking using a red-teaming toolkit and adversary simulation framework called Sliver.&nbsp; Experts revealed that the attackers have been using  this technique  since October 20.  The use of open-source pentest tools is becoming more popular  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blinken formally announces new State Department cyber bureau<a href="https://thehill.com//policy/cybersecurity/578728-blinken-formally-announces-new-state-dept-cyber-bureau-as-part-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secretary of State Antony Blinken on Wednesday formally announced the establishment of a new cyber bureau at the State Department to help tackle cyber and emerging technology diplomatic issues.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] The Guide to Centralized Log Management for Lean IT Security Teams<a href="https://thehackernews.com/2021/10/ebook-guide-to-centralized-log.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the side effects of today's cyber security landscape is the overwhelming volume of data security teams must aggregate and parse. Lean security teams don't have it any easier, and the problem is compounded if they must do it manually. Data and log management are essential for organizations to gain real-time transparency and visibility into security events.   XDR provider Cynet has offered up a new guide ( read it here ) that helps lean organizations understand the importance of centralized log management (CLM). The truth is that even the most well-stocked and staffed teams would have trouble manually handling their log management needs, which is why organizations are increasingly going the automated route.   On top of the efficiency of automation, CLM gives organizations much greater visibility into their environment and security events that impact them. However, the benefits of deploying CLM tools and reducing the level of human intervention in log management and analysis are m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grief ransomware gang hit US National Rifle Association (NRA)<a href="https://securityaffairs.co/wordpress/123849/cyber-crime/grief-ransomware-hit-nra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grief ransomware operators claim to have compromised computer systems at US National Rifle Association (NRA) and added it to their leak site.
+
+
+
+Grief ransomware operators announced to have hacked US National Rifle Association (NRA) and threaten to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+War-Driving Technique Allows Wi-Fi Password-Cracking at Scale<a href="https://threatpost.com/war-driving-wi-fi-password-cracking/175817/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher was able to crack 70 percent of the gathered hashes in an experiment in a residential neighborhood.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free decryptor released for Atom Silo and LockFile ransomware<a href="https://www.bleepingcomputer.com/news/security/free-decryptor-released-for-atom-silo-and-lockfile-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast has just released a decryption tool that will help AtomSilo and LockFile ransomware victims recover some of their files for free, without having to pay a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abuse of Discord CDN Witnesses Significant Rise<a href="https://cyware.com/news/abuse-of-discord-cdn-witnesses-significant-rise-277d273d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation conducted by RiskIQ revealed that threat actors abused the Discord channel to deliver a total of 27 unique malware families. This included backdoors, password stealers, spyware, and trojans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers split on next steps to secure transportation sectors against hackers<a href="https://thehill.com//policy/cybersecurity/578578-lawmakers-split-on-next-steps-to-secure-transportation-sectors-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers are split on the next steps that should be taking to secure key transportation avenues like air and rail against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attack in Iran Reportedly Cripples Gas Stations Across the Country<a href="https://thehackernews.com/2021/10/cyber-attack-in-iran-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack  in Iran left petrol stations across the country crippled, disrupting fuel sales and defacing electronic billboards to display messages challenging the regime's ability to distribute gasoline.  Posts and  videos   circulated  on social media showed messages that said, "Khamenei! Where is our gas?" — a reference to the country's supreme leader Ayatollah Ali Khamenei. Other signs read, "Free gas in Jamaran gas station," with gas pumps showing the words "cyberattack 64411" when attempting to purchase fuel, semi-official Iranian Students' News Agency (ISNA) news agency  reported .   Abolhassan Firouzabadi, the head of Iran's Supreme Cyberspace Council,  said  the attacks were "probably" state-sponsored but added it was too early to determine which country carried out the intrusions.  Although no country or group has so far claimed responsibility for the incident, the attacks mark the second time digital billboards have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for Babuk ransomware<a href="https://securityaffairs.co/wordpress/123844/malware/babuk-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm Avast released a decryption tool for Babuk ransomware that allows victims to recover their files for free.
+
+
+
+Cybersecurity firm Avast has released a decryption tool for Babuk ransomware that allows victims to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Critical iOS Bugs; One Under Attack<a href="https://threatpost.com/apple-patches-ios-bugs/175803/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that one critical flaw in question is exploitable from the browser, allowing watering-hole attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter employees required to use security keys after 2020 hack<a href="https://www.bleepingcomputer.com/news/security/twitter-employees-required-to-use-security-keys-after-2020-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter rolled out security keys to its entire workforce and made two-factor authentication (2FA) mandatory for accessing internal systems following last year's hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly all US execs have experienced a cybersecurity threat, but some say there's still no plan<a href="https://www.zdnet.com/article/nearly-all-us-execs-have-experienced-a-cybersecurity-event-but-some-say-theres-still-no-plan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new survey by Deloitte suggests the majority of US executives have encountered a cybersecurity incident but this has not translated into the creation of incident response plans.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Report Uncovers Supply Chain Attacks by North Korean Hackers<a href="https://thehackernews.com/2021/10/latest-report-uncovers-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus Group, the advanced persistent threat (APT) group attributed to the North Korean government, has been observed waging two separate supply chain attack campaigns as a means to gain a foothold into corporate networks and target a wide range of downstream entities.  The latest intelligence-gathering operation involved the use of MATA malware framework as well as backdoors dubbed  BLINDINGCAN  and  COPPERHEDGE  to attack the defense industry, an IT asset monitoring solution vendor based in Latvia, and a think tank located in South Korea, according to a new  Q3 2021 APT Trends report  published by Kaspersky.   In one instance, the supply-chain attack originated from an infection chain that stemmed from legitimate South Korean security software running a malicious payload, leading to the deployment of the BLINDINGCAN and COPPERHEDGE malware on the think tank's network in June 2021. The other attack on the Latvian company in May is an "atypical victim" for Lazarus, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 9th edition of the ENISA Threat Landscape (ETL) report is out!<a href="https://securityaffairs.co/wordpress/123839/security/enisa-threat-landscape-report-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm proud to announce the release of the 9th edition of the ENISA Threat Landscape (ETL) on the state of the cybersecurity threat landscape.
+
+
+
+The Europen Agency for cybersecurity ENISA releases its ENISA Threat Landscape 2021 (ETL) report,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers arrested for ‘infiltrating’ Ukraine’s health database<a href="https://www.bleepingcomputer.com/news/security/hackers-arrested-for-infiltrating-ukraine-s-health-database/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) has arrested a team of actors who illegally infiltrated the information system of the National Health Service of Ukraine (NHSU) and entered false vaccination entries for other people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fuji Electric Patches Vulnerabilities in Factory Monitoring Software<a href="https://www.securityweek.com/fuji-electric-patches-vulnerabilities-factory-monitoring-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday published an advisory to inform organizations about these flaws and the availability of fixes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT targets the IT supply chain<a href="https://securityaffairs.co/wordpress/123831/apt/north-korea-lazarus-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is extending its operations and started targeting the IT supply chain on new targets. 
+
+
+
+North Korea-linked Lazarus APT group is now targeting also IT supply chain, researchers from Kaspersky Lab warns.
+
+
+
+The activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk ransomware decryptor released to recover files for free<a href="https://www.bleepingcomputer.com/news/security/babuk-ransomware-decryptor-released-to-recover-files-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech cybersecurity software firm Avast has created and released a decryption tool to help Babuk ransomware victims recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack the block – How a security researcher cracked 70% of urban WiFi networks in one hit<a href="https://portswigger.net/daily-swig/attack-the-block-how-a-security-researcher-cracked-70-of-urban-wifi-networks-in-one-hit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability, discovered by Hashcat’s lead developer Jens “atom” Steube, is at the heart of the attack. This bug can be exploited to retrieve PMKID hashes to crack network passwords.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operations at Iranian gas stations were disrupted today. Cyber attack or computer glitch?<a href="https://securityaffairs.co/wordpress/123824/hacking/iranian-gas-stations-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack has disrupted gas stations from the National Iranian Oil Products Distribution Company (NIOPDC) across Iran.
+
+
+
+A cyber attack has disrupted gas stations from the state-owned National Iranian Oil Products Distribution Company (NIOPDC) across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US bans China Telecom Americas over national security risks<a href="https://www.bleepingcomputer.com/news/security/us-bans-china-telecom-americas-over-national-security-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) has revoked China Telecom Americas' license to provide telecommunication services within the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for the Steam skin "free knife" scam<a href="https://blog.malwarebytes.com/scams/2021/10/watch-out-for-the-steam-skin-free-knife-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s a tactic designed to scam people in the fastest way imaginable. The scammer makes a minimal effort, they send a message to potential victims on Steam or on services such as Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM libraries install ransomware, password stealer<a href="https://www.bleepingcomputer.com/news/security/malicious-npm-libraries-install-ransomware-password-stealer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious NPM packages pretending to be Roblox libraries are delivering ransomware and password-stealing trojans on unsuspecting users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SquirrelWaffle Loader Malspams, Packing Qakbot, Cobalt Strike<a href="https://threatpost.com/squirrelwaffle-loader-malspams-packing-qakbot-cobalt-strike/175775/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Say hello to what could be the next big spam player: SquirrelWaffle, which is spreading with increasing frequency via spam campaigns and infecting systems with a new malware loader. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 26, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
