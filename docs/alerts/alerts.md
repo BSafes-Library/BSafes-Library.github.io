@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2021 - CISA, NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+POTENTIAL THREAT VECTORS TO 5G INFRASTRUCTURE <a href="https://www.cisa.gov/publication/5g-potential-threat-vectors"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, in coordination with the National Security Agency, and the Office of the Director of National Intelligence, as part of the Enduring Security Framework (ESF)—a cross-sector, public-private working group—released a Potential Threat Vectors to 5G Infrastructure paper. This paper identifies and assesses risks and vulnerabilities introduced by 5G.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 25, 2021 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
