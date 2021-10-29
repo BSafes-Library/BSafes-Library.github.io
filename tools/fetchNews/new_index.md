@@ -34,6 +34,42 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian TrickBot Gang Hacker Extradited to U.S. Charged with Cybercrime<a href="https://thehackernews.com/2021/10/russian-trickbot-gang-hacker-extradited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national, who was arrested in South Korea last month and extradited to the U.S. on October 20, appeared in a federal court in the state of Ohio on Thursday to face charges for his alleged role as a member of the infamous TrickBot group.  Court documents showed that Vladimir Dunaev , 28, along with other members of the transnational, cybercriminal organization, stole money and confidential information from unsuspecting victims, including individuals, financial institutions, school districts, utility companies, government entities, and private businesses.   Starting its roots as a banking trojan in 2016, TrickBot has  evolved  into a modular, multi-stage Windows-based crimeware solution capable of pilfering valuable personal and financial information, and even dropping ransomware and post-exploitation toolkits on compromised devices. The malware is also  notorious  for its  resilience , having survived at least two takedowns spearheaded by Microsoft and the U.S. Cyber Command
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/123906/security/chrome-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 95.0.4638.69 for Windows, Mac, and Linux to address two actively exploited zero-day vulnerabilities.
+
+
+
+Google has released Chrome 95.0.4638.69 for Windows, Mac, and Linux to address two zero-day vulnerabilities, tracked as CVE-2021-38000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
