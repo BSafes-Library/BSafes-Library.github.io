@@ -34,6 +34,560 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Google Chrome update fixes zero-days used in attacks<a href="https://www.bleepingcomputer.com/news/google/emergency-google-chrome-update-fixes-zero-days-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 95.0.4638.69 for Windows, Mac, and Linux to fix two zero-day vulnerabilities that attackers have actively exploited.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UltimaSMS Victimizes Millions in Fraud Campaign<a href="https://cyware.com/news/ultimasms-victimizes-millions-in-fraud-campaign-bda31b17"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fraud campaign, dubbed UltimaSMS, is signing up users to premium SMS subscription services without their consent and knowledge. Promoted mostly via Instagram and TikTok, these Android apps have over 10.5 million downloads and involve at least 151 malicious apps. Stay cautious!
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate approves bill to protect telecommunications infrastructure from foreign threats<a href="https://thehill.com//policy/cybersecurity/579028-senate-approves-bill-to-protect-telecommunications-infrastructure-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday unanimously passed legislation to take steps to further crack down on the use of telecommunications products from companies deemed to be a national security threat, such as those based in China.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Researcher Cracked Over 3500 Wi-Fi Networks in Tel Aviv City<a href="https://thehackernews.com/2021/10/israeli-researcher-cracked-over-3500-wi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 70% of Wi-Fi networks from a sample size of 5,000 were hacked with "relative ease" in the Israeli city of Tel Aviv, highlighting how unsecure Wi-Fi passwords can become a gateway for serious threats to individuals, small businesses, and enterprises alike.  CyberArk security researcher Ido Hoorvitch, who used a Wi-Fi sniffing equipment costing about $50 to collect 5,000 network hashes for the study,  said  "the process of sniffing Wi-Fis and the subsequent cracking procedures was a very accessible undertaking in terms of equipment, costs and execution."   The new Wi-Fi attack builds on  previous findings  by Jens "atom" Steube in 2018 that involves capturing what's called the PMKIDs associated with a client (aka SSID) in order to attempt a brute-force attack using password recovery tools like hashcat.   PMKID is a  unique key identifier  used by the access point (AP) to keep track of the pre-shared key — i.e., pairwise master key aka PMK — being u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found Shrootless bug in macOS that could bypass System Integrity Protection<a href="https://securityaffairs.co/wordpress/123898/hacking/macos-shrootless-cve-2021-30892-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft finds a flaw in macOS, dubbed Shrootless (CVE-2021-30892), that can allow attackers to bypass System Integrity Protection (SIP).
+
+
+
+Microsoft discovered a vulnerability in macOS, dubbed Shrootless (CVE-2021-30892), that can allow attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Windows versions impacted by new LPE zero-day vulnerability<a href="https://www.bleepingcomputer.com/news/security/all-windows-versions-impacted-by-new-lpe-zero-day-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has disclosed technical details for a Windows zero-day privilege elevation vulnerability and a public proof-of-concept (PoC) exploit that gives SYSTEM privileges under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Targeting a Zero-Day Bug in BillQuick Billing System<a href="https://cyware.com/news/attackers-targeting-a-zero-day-bug-in-billquick-billing-system-f23d0a69"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details about a now-patched critical vulnerability in a time and billing system called BillQuick that was being by a new ransomware group. It can be triggered simply by using login requests with invalid characters in the username field.&nbsp;It's recommended to apply the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Russian hacker extradited from South Korea to stand trial in US<a href="https://thehill.com//policy/cybersecurity/579017-alleged-russian-hacker-extradited-from-south-korea-to-stand-trial-in-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Russian hacker appeared in court for the first time Thursday to face allegations that he played a role in a transnational cybercrime organization after being extradited to the United States from South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Guide to Shift Away from Legacy Authentication Protocols in Microsoft 365<a href="https://thehackernews.com/2021/10/a-guide-to-shift-away-from-legacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft 365 (M365), formerly called Office 365 (O365), is Microsoft's cloud strategy flagship product with major changes ahead, such as the deprecation of their legacy authentication protocols.  Often stored on or saved to the device, Basic Authentication protocols rely on sending usernames and passwords with every request, increasing the risk of attackers capturing users' credentials, particularly if not TLS protected. Basic Authentication, while necessary for companies using legacy software, is unable to enforce MFA and is superseded by Modern Authentication.  The legacy settings have been on Microsoft's radar to fix for years. In 2018,  Microsoft announced  it would introduce a series of changes — and ultimately deprecation — to its authentication controls as a means to help organizations mitigate the risk. These changes were set to take place over a number of years, and in September 2021,  they announced  that they will begin to permanently disable Basic Auth in all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1 million WordPress sites affected by OptinMonster plugin flaws<a href="https://securityaffairs.co/wordpress/123886/hacking/wordpress-optinmonster-plugin-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the popular the OptinMonster plugin allows unauthorized API access and sensitive information disclosure. 
+
+
+
+A high-severity vulnerability (CVE-2021-39341) in The OptinMonster plugin can allow unauthorized API access and sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and CISA share guidance on securing 5G cloud infrastructure<a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-guidance-on-securing-5g-cloud-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the NSA shared guidance on securing cloud-native 5G networks from attacks seeking to compromise information or deny access by taking down cloud infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Ranzy Locker Ransomware: FBI Warns<a href="https://cyware.com/news/beware-of-ranzy-locker-ransomware-fbi-warns-74210767"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an FBI alert, Ranzy Locker ransomware operators crippled the networks of at least 30 U.S. organizations, mostly via brute-force attacks. &nbsp;The group runs a double extortion model, threatening victims to leak data if they did not agree with ransom demands. The alert by officials  of ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warner says cyber threats more worrying than 'traditional weaponry'<a href="https://thehill.com//policy/cybersecurity/579014-warner-says-cyber-threats-more-worrying-than-traditional-weaponry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Mark Warner (D-Va.), said Thursday that cyberattacks pose larger risks than conventional warfare, citing the recent SolarWinds and Colonial Pipeline hacks as examples of a “dramatically” different security environment that has taken shape over the past decade.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wslink Malware Loader Runs as a Server and Executes Modules in Memory<a href="https://thehackernews.com/2021/10/new-wslink-malware-loader-runs-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Wednesday took the wraps off a "simple yet remarkable" malware loader for malicious Windows binaries targeting Central Europe, North America and the Middle East.  Codenamed " Wslink " by ESET, this previously undocumented malware stands apart from the rest in that it runs as a server and executes received modules in memory. There are no specifics available on the initial compromise vector and there are no code or operational overlaps that tie this tool to a known threat actor group.   The Slovak cybersecurity firm noted that it has seen only a handful of detections in the past two years, suggesting that it could be used in highly-targeted cyber infiltrations.  Wslink is designed to run as a service and can accept encrypted portal executable (PE) files from a specific IP address, which is then decrypted and loaded into memory prior to the execution. To achieve this, the client (i.e., the victim) and the server perform a handshake that in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wslink, a previously undescribed loader for Windows binaries<a href="https://securityaffairs.co/wordpress/123878/malware/wslink-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers discovered a previously undescribed loader for Windows binaries, tracked as Wslink, that runs as a server and executes modules in memory. 
+
+
+
+ESET researchers discovered Wslink, a previously undescribed loader for Windows binaries that,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Shrootless bug lets hackers install macOS rootkits<a href="https://www.bleepingcomputer.com/news/security/microsoft-shrootless-bug-lets-hackers-install-macos-rootkits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could use a new macOS vulnerability discovered by Microsoft to bypass System Integrity Protection (SIP) and perform arbitrary operations, elevate privileges to root, and install rootkits on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragos Becomes First Industrial Cybersecurity Unicorn After Raising $200 Million<a href="https://www.securityweek.com/dragos-becomes-first-industrial-cybersecurity-unicorn-after-raising-200-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding, which brings the total raised by Dragos to roughly $360 million, was led by Koch Disruptive Technologies and funds and accounts managed by BlackRock. Several other investors also took part in this round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration officials outline steps to tackle urgent cyber threats<a href="https://thehill.com//policy/cybersecurity/578987-biden-administration-officials-outline-steps-to-tackle-urgent-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top Biden administration officials on Thursday outlined steps taken to confront the increase in cyber threats against the nation, including through strengthening key critical infrastructure groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Libraries Caught Installing Password Stealer and Ransomware<a href="https://thehackernews.com/2021/10/malicious-npm-libraries-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors have yet again published two more typosquatted libraries to the official NPM repository that mimic a legitimate package from Roblox, the game company, with the goal of distributing stealing credentials, installing remote access trojans, and infecting the compromised systems with ransomware.  The bogus packages — named " noblox.js-proxy " and " noblox.js-proxies " — were found to impersonate a library called " noblox.js ," a Roblox game API wrapper available on NPM and boasts of nearly 20,000 weekly downloads, with each of the poisoned libraries, downloaded a total of 281 and 106 times respectively.   According to Sonatype researcher Juan Aguirre, who  discovered  the malicious NPM packages, the author of noblox.js-proxy first published a benign version that was later tampered with the obfuscated text, in reality, a Batch (.bat) script, in the post-installation JavaScript file.   This Batch script, in turn, downloads malicious executables
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AbstractEmu, a new Android malware with rooting capabilities<a href="https://securityaffairs.co/wordpress/123873/malware/abstractemu-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AbstractEmu is a new Android malware that can root infected devices to take complete control and evade detection with different tricks. 
+
+
+
+Security researchers at the Lookout Threat Labs have discovered a new Android malware, dubbed AbstractEmu,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android spyware spreading as antivirus software in Japan<a href="https://www.bleepingcomputer.com/news/security/android-spyware-spreading-as-antivirus-software-in-japan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Android info-stealer called FakeCop has been spotted by Japanese security researchers, who warn that the distribution of the malicious APK is picking up pace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investing millions in community colleges to strengthen cyber workforce<a href="https://thehill.com//policy/cybersecurity/578926-microsoft-investing-millions-in-community-colleges-to-strengthen-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday announced a new campaign to invest millions of dollars and resources in community colleges in an effort to address the massive shortage of American workers to fill cybersecurity positions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German investigators identify crypto millionaire behind REvil operations<a href="https://securityaffairs.co/wordpress/123867/cyber-crime/police-idenfied-revil-ransomware-member.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German authorities have identified a Russian man named Nikolay K. who is suspected to be a prominent member of the REvil ransomware gang.
+
+
+
+ REvil ransomware gang is one of the most successful ransomware operations, the group and its affiliated hit hundreds...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress plugin bug impacts 1M sites, allows malicious redirects<a href="https://www.bleepingcomputer.com/news/security/wordpress-plugin-bug-impacts-1m-sites-allows-malicious-redirects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OptinMonster plugin is affected by a high-severity flaw that allows unauthorized API access and sensitive information disclosure on roughly a million WordPress sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks steal $130 million worth of cryptocurrency assets from Cream Finance<a href="https://securityaffairs.co/wordpress/123861/cyber-crime/cream-finance-cyber-heist-130m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen $130 million worth of cryptocurrency assets from the Cream Finance decentralized finance (DeFi) platform.
+
+
+
+C.R.E.A.M. Finance is a decentralized lending protocol for individuals, institutions and protocols to access financial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AbstractEmu malware roots Android devices, evades detection<a href="https://www.bleepingcomputer.com/news/security/new-abstractemu-malware-roots-android-devices-evades-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Android malware can root infected devices to take complete control and silently tweak system settings, as well as evade detection using code abstraction and anti-emulation checks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs use SEO poisoning to infect visitors<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-use-seo-poisoning-to-infect-visitors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted two campaigns linked to either the REvil ransomware gang or the SolarMarker backdoor that use SEO poisoning to serve payloads to targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German investigators identify REvil ransomware gang core member<a href="https://www.bleepingcomputer.com/news/security/german-investigators-identify-revil-ransomware-gang-core-member/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German investigators have reportedly identified a Russian man named Nikolay K. whom they believe to be one of REvil ransomware gang's core members, one of the most notorious and successful ransomware groups in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU investigating leak of private key used to forge Covid passes<a href="https://www.bleepingcomputer.com/news/security/eu-investigating-leak-of-private-key-used-to-forge-covid-passes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private key used to sign EU Digital Covid certificates has been reportedly leaked and is being circulated on messaging apps and forums. The key has also been misused to generate forged certificates, such as those for Adolf Hitler, Mickey Mouse, Sponge Bob—all of which are being recognized as valid by the official government apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive data of 400,000 German students exposed by API flaw<a href="https://www.bleepingcomputer.com/news/security/sensitive-data-of-400-000-german-students-exposed-by-api-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 400,000 users of Scoolio, a student community app widely used in Germany, had sensitive information exposed due to an API flaw in the platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Plugin Bug Lets Subscribers Wipe Sites<a href="https://threatpost.com/wordpress-plugin-bug-wipe-sites/175826/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, found in the Hashthemes Demo Importer plugin, allows any authenticated user to exsanguinate a vulnerable WordPress site, deleting nearly all database content and uploaded media.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen Rakes in $2.74M Worth of Bitcoin in Phishing Scam<a href="https://threatpost.com/teen-rakes-in-2-74m-worth-of-bitcoin-in-phishing-scam/175834/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The kid was busted after abusing Google Ads to lure users to his fake gift card site. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe’s Surprise Security Bulletin Dominated by Critical Patches<a href="https://threatpost.com/critical-patches-adobe-security-bulletin/175825/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of 92 security vulnerabilities, 66 are rated critical in severity, mostly allowing code execution. The most severe can lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
