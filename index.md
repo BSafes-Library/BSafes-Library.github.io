@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 October 28, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Urgent Chrome Update to Patch 2 Actively Exploited 0-Day Bugs<a href="https://thehackernews.com/2021/10/google-releases-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday rolled out an emergency update for its Chrome web browser, including fixes for two zero-day vulnerabilities that it says are being actively exploited in the wild.  Tracked as  CVE-2021-38000  and  CVE-2021-38003 , the weaknesses relate to insufficient validation of untrusted input in a feature called Intents as well as a case of inappropriate implementation in V8 JavaScript and WebAssembly engine. The internet giant's Threat Analysis Group (TAG) has been credited with discovering and reporting the two flaws on September 15, 2021, and October 26, 2021, respectively.  "Google is aware that exploits for CVE-2021-38000 and CVE-2021-38003 exist in the wild," the company  noted  in an advisory without delving into technical specifics about how the two vulnerabilities were used in attacks or the threat actors that may have weaponized them.   Also addressed as part of this stable channel update is a  use-after-free  vulnerability in the Web Transport component
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TrickBot malware dev extradited to U.S. faces 60 years in prison<a href="https://www.bleepingcomputer.com/news/security/trickbot-malware-dev-extradited-to-us-faces-60-years-in-prison/"> Full Text</a>
 </p>
 <details>
