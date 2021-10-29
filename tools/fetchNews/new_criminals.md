@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs use SEO poisoning to infect visitors<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-use-seo-poisoning-to-infect-visitors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted two campaigns linked to either the REvil ransomware gang or the SolarMarker backdoor that use SEO poisoning to serve payloads to targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German investigators identify REvil ransomware gang core member<a href="https://www.bleepingcomputer.com/news/security/german-investigators-identify-revil-ransomware-gang-core-member/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German investigators have reportedly identified a Russian man named Nikolay K. whom they believe to be one of REvil&nbsp;ransomware gang's core members, one of the most notorious and successful ransomware groups in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

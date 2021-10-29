@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NRA hit by Russian-linked ransomware attack: reports<a href="https://thehill.com//policy/cybersecurity/578767-nra-hit-by-russian-linked-ransomware-attack-reports"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Rifle Association (NRA) has been hit by a ransomware attack, becoming the latest victim of a massive spike in these attacks this year, according to multiple reports Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abuse of Discord CDN Witnesses Significant Rise<a href="https://cyware.com/news/abuse-of-discord-cdn-witnesses-significant-rise-277d273d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation conducted by RiskIQ revealed that threat actors abused the Discord channel to deliver a total of 27 unique malware families. This included backdoors, password stealers, spyware, and trojans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Report Uncovers Supply Chain Attacks by North Korean Hackers<a href="https://thehackernews.com/2021/10/latest-report-uncovers-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus Group, the advanced persistent threat (APT) group attributed to the North Korean government, has been observed waging two separate supply chain attack campaigns as a means to gain a foothold into corporate networks and target a wide range of downstream entities.  The latest intelligence-gathering operation involved the use of MATA malware framework as well as backdoors dubbed&nbsp; BLINDINGCAN &nbsp;and&nbsp; COPPERHEDGE &nbsp;to attack the defense industry, an IT asset monitoring solution vendor based in Latvia, and a think tank located in South Korea, according to a new&nbsp; Q3 2021 APT Trends report &nbsp;published by Kaspersky.   In one instance, the supply-chain attack originated from an infection chain that stemmed from legitimate South Korean security software running a malicious payload, leading to the deployment of the BLINDINGCAN and COPPERHEDGE malware on the think tank's network in June 2021. The other attack on the Latvian company in May is an "atypical victim" for Lazarus, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

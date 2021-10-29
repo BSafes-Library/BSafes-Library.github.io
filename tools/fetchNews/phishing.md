@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for the Steam skin "free knife" scam<a href="https://blog.malwarebytes.com/scams/2021/10/watch-out-for-the-steam-skin-free-knife-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s a tactic designed to scam people in the fastest way imaginable. The scammer makes a minimal effort, they send a message to potential victims on Steam or on services such as Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

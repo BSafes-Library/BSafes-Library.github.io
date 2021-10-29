@@ -8,6 +8,141 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emergency Google Chrome update fixes zero-days used in attacks<a href="https://www.bleepingcomputer.com/news/google/emergency-google-chrome-update-fixes-zero-days-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 95.0.4638.69 for Windows, Mac, and Linux to fix two zero-day vulnerabilities that attackers have actively exploited.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found Shrootless bug in macOS that could bypass System Integrity Protection<a href="https://securityaffairs.co/wordpress/123898/hacking/macos-shrootless-cve-2021-30892-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft finds a flaw in macOS, dubbed&nbsp;Shrootless&nbsp;(CVE-2021-30892), that can allow attackers to bypass System Integrity Protection (SIP).
+
+
+
+Microsoft discovered a vulnerability in macOS, dubbed&nbsp;Shrootless&nbsp;(CVE-2021-30892), that can allow attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Windows versions impacted by new LPE zero-day vulnerability<a href="https://www.bleepingcomputer.com/news/security/all-windows-versions-impacted-by-new-lpe-zero-day-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has disclosed technical details for a Windows zero-day privilege elevation&nbsp;vulnerability and a public proof-of-concept (PoC) exploit that gives SYSTEM privileges under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Targeting a Zero-Day Bug in BillQuick Billing System<a href="https://cyware.com/news/attackers-targeting-a-zero-day-bug-in-billquick-billing-system-f23d0a69"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details about a now-patched critical vulnerability in a time and billing system called BillQuick that was being by a new ransomware group. It can be triggered simply by using login requests with invalid characters in the username field.&nbsp;It's recommended to apply the  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1 million WordPress sites affected by OptinMonster plugin flaws<a href="https://securityaffairs.co/wordpress/123886/hacking/wordpress-optinmonster-plugin-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the popular the OptinMonster plugin allows unauthorized API access and sensitive information disclosure. 
+
+
+
+A high-severity vulnerability (CVE-2021-39341) in The OptinMonster plugin can allow unauthorized API access and sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Shrootless bug lets hackers install macOS rootkits<a href="https://www.bleepingcomputer.com/news/security/microsoft-shrootless-bug-lets-hackers-install-macos-rootkits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could use a new macOS vulnerability discovered by Microsoft to bypass System Integrity Protection (SIP) and perform arbitrary operations, elevate privileges to root, and install rootkits on vulnerable devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress plugin bug impacts 1M sites, allows malicious redirects<a href="https://www.bleepingcomputer.com/news/security/wordpress-plugin-bug-impacts-1m-sites-allows-malicious-redirects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OptinMonster plugin is affected by a high-severity flaw that allows unauthorized API access and sensitive information disclosure on roughly a million WordPress sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Plugin Bug Lets Subscribers Wipe Sites<a href="https://threatpost.com/wordpress-plugin-bug-wipe-sites/175826/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, found in the Hashthemes Demo Importer plugin, allows any authenticated user to exsanguinate a vulnerable WordPress site, deleting nearly all database content and uploaded media.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe’s Surprise Security Bulletin Dominated by Critical Patches<a href="https://threatpost.com/critical-patches-adobe-security-bulletin/175825/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of 92 security vulnerabilities, 66 are rated critical in severity, mostly allowing code execution. The most severe can lead to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German investigators identify crypto millionaire behind REvil operations<a href="https://securityaffairs.co/wordpress/123867/cyber-crime/police-idenfied-revil-ransomware-member.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German authorities have identified a Russian man named Nikolay K. who is suspected to be a prominent member of the REvil&nbsp;ransomware gang.
+
+
+
+ REvil&nbsp;ransomware gang is one of the most successful ransomware operations, the group and its affiliated hit hundreds...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

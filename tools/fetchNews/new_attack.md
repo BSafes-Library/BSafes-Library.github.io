@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UltimaSMS Victimizes Millions in Fraud Campaign<a href="https://cyware.com/news/ultimasms-victimizes-millions-in-fraud-campaign-bda31b17"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fraud campaign, dubbed UltimaSMS, is signing up users to premium SMS subscription services without their consent and knowledge. Promoted mostly via Instagram and TikTok, these Android apps have over 10.5 million downloads and involve at least 151 malicious apps. Stay cautious!
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

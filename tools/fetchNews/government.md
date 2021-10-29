@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blinken formally announces new State Department cyber bureau<a href="https://thehill.com//policy/cybersecurity/578728-blinken-formally-announces-new-state-dept-cyber-bureau-as-part-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secretary of State Antony Blinken on Wednesday formally announced the establishment of a new cyber bureau at the State Department to help tackle cyber and emerging technology diplomatic issues.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers split on next steps to secure transportation sectors against hackers<a href="https://thehill.com//policy/cybersecurity/578578-lawmakers-split-on-next-steps-to-secure-transportation-sectors-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers are split on the next steps that should be taking to secure key transportation avenues like air and rail against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US bans China Telecom Americas over national security risks<a href="https://www.bleepingcomputer.com/news/security/us-bans-china-telecom-americas-over-national-security-risks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) has revoked China Telecom Americas' license to provide telecommunication services within the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Guide to Shift Away from Legacy Authentication Protocols in Microsoft 365<a href="https://thehackernews.com/2021/10/a-guide-to-shift-away-from-legacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft 365 (M365), formerly called Office 365 (O365), is Microsoft's cloud strategy flagship product with major changes ahead, such as the deprecation of their legacy authentication protocols.  Often stored on or saved to the device, Basic Authentication protocols rely on sending usernames and passwords with every request, increasing the risk of attackers capturing users' credentials, particularly if not TLS protected. Basic Authentication, while necessary for companies using legacy software, is unable to enforce MFA and is superseded by Modern Authentication.  The legacy settings have been on Microsoft's radar to fix for years. In 2018,&nbsp; Microsoft announced&nbsp; it would introduce a series of changes — and ultimately deprecation — to its authentication controls as a means to help organizations mitigate the risk. These changes were set to take place over a number of years, and in September 2021,&nbsp; they announced &nbsp;that they will begin to permanently disable Basic Auth in all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft investing millions in community colleges to strengthen cyber workforce<a href="https://thehill.com//policy/cybersecurity/578926-microsoft-investing-millions-in-community-colleges-to-strengthen-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday announced a new campaign to invest millions of dollars and resources in community colleges in an effort to address the massive shortage of American workers to fill cybersecurity positions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

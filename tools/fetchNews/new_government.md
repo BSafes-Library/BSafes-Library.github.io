@@ -8,6 +8,91 @@ nav_order: 900075
 
 ## Government
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate approves bill to protect telecommunications infrastructure from foreign threats<a href="https://thehill.com//policy/cybersecurity/579028-senate-approves-bill-to-protect-telecommunications-infrastructure-from"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate on Thursday unanimously passed legislation to take steps to further crack down on the use of telecommunications products from companies deemed to be a national security threat, such as those based in China.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and CISA share guidance on securing 5G cloud infrastructure<a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-guidance-on-securing-5g-cloud-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the NSA shared guidance on securing cloud-native&nbsp;5G&nbsp;networks from attacks seeking to compromise information or deny access by taking down&nbsp;cloud infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Ranzy Locker Ransomware: FBI Warns<a href="https://cyware.com/news/beware-of-ranzy-locker-ransomware-fbi-warns-74210767"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an FBI alert, Ranzy Locker ransomware operators crippled the networks of at least 30 U.S. organizations, mostly via brute-force attacks. &nbsp;The group runs a double extortion model, threatening victims to leak data if they did not agree with ransom demands. The alert by officials  of ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warner says cyber threats more worrying than 'traditional weaponry'<a href="https://thehill.com//policy/cybersecurity/579014-warner-says-cyber-threats-more-worrying-than-traditional-weaponry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sen. Mark Warner (D-Va.), said Thursday that cyberattacks pose larger risks than conventional warfare, citing the recent SolarWinds and Colonial Pipeline hacks as examples of a “dramatically” different security environment that has taken shape over the past decade.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration officials outline steps to tackle urgent cyber threats<a href="https://thehill.com//policy/cybersecurity/578987-biden-administration-officials-outline-steps-to-tackle-urgent-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top Biden administration officials on Thursday outlined&nbsp;steps taken&nbsp;to confront the increase in cyber threats against the nation, including through strengthening key critical infrastructure groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU investigating leak of private key used to forge Covid passes<a href="https://www.bleepingcomputer.com/news/security/eu-investigating-leak-of-private-key-used-to-forge-covid-passes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private key used to sign&nbsp;EU Digital Covid&nbsp;certificates has been reportedly&nbsp;leaked and is being circulated on messaging apps and forums. The&nbsp;key has also been misused&nbsp;to generate forged certificates, such as those&nbsp;for Adolf Hitler, Mickey Mouse, Sponge Bob—all of which are being recognized as valid by the official government apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

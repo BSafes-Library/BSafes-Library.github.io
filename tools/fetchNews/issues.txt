@@ -30,6 +30,8 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-guidance-on-securing-5g-cloud-infrastructure/
+. https://cyware.com/news/beware-of-ranzy-locker-ransomware-fbi-warns-74210767
  
 Law
 
