@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot member extradited to US faces up to 60 years in prison<a href="https://securityaffairs.co/wordpress/123940/cyber-crime/trckbot-russian-member-extradicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged member of the TrickBot gang, the Russian national Vladimir Dunaev (aka FFX), has been extradited to the US.
+
+
+
+Vladimir Dunaev (38), a Russian national suspected to be a member of the infamous TrickBot gang, has been extradited to the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

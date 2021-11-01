@@ -34,7 +34,578 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 31, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of rise in password sprays targeting cloud accounts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-rise-in-password-sprays-targeting-cloud-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Detection and Response Team (DART) says it detected an increase in password spray attacks targeting privileged cloud accounts and high-profile identities such as C-level executives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA575 is Using Squid Game Lures to Drop Dridex<a href="https://cyware.com/news/ta575-is-using-squid-game-lures-to-drop-dridex-18d96c2f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint stumbled across a cybercrime actor, TA575, sending thousands of Squid Game phishing lures aimed at multiple industries primarily in the U.S.  The group sends thousands of emails in every single campaign aimed at hundreds of organizations. Users are advised  not to believe anything on the ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Black Shadow hacking group breached Israeli Internet hosting firm<a href="https://securityaffairs.co/wordpress/124000/hacking/black-shadow-hacked-cyberserve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Irananian hacking group Black Shadow breached the Israeli internet hosting company Cyberserve, taking down several of its sites. 
+
+
+
+Iranian hacking group Black Shadow compromised the server of the Israeli internet hosting company Cyberserve, taking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue QR Codes Steal Microsoft Credentials and Crypto Funds<a href="https://cyware.com/news/rogue-qr-codes-steal-microsoft-credentials-and-crypto-funds-abc9781d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, researchers uncovered an email-based phishing scam containing QR codes in a bid to steal users’ Microsoft credentials and other data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minecraft Japanese gamers hit by Chaos ransomware using alt lists as lure<a href="https://securityaffairs.co/wordpress/123978/breaking-news/minecraft-gamers-chaos-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chaos Ransomware operators target gamers' Windows devices using Minecraft alt lists as a lure and promoting them on gaming forums.
+
+
+
+Minecraft is one of the most popular games in the world, it had more than 140 million monthly active players in August...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Graff multinational jeweller hit by Conti gang. Data of its rich clients are at risk, including Trump and Beckham<a href="https://securityaffairs.co/wordpress/123980/cyber-crime/conti-ransomware-graff-jeweller.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware gang hit high society jeweller Graff and threatens to release private details of world leaders, actors and tycoons 
+
+
+
+The latest attack of the Conti ransomware gang makes the headlines, the threat actors hit high society jeweller Graff...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 338<a href="https://securityaffairs.co/wordpress/123974/breaking-news/security-affairs-newsletter-round-338.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Arrest Suspected Ransomware Hackers Behind 1,800 Attacks Worldwide<a href="https://thehackernews.com/2021/10/police-arrest-suspected-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+12 people have been detained as part of an international law enforcement operation for orchestrating ransomware attacks on critical infrastructure and large organizations that hit over 1,800 victims across 71 countries since 2019, marking the latest action against cybercrime groups.  The arrests were made earlier this week on October 26 in Ukraine and Switzerland, resulting in the seizure of cash worth $52,000, five luxury vehicles, and a number of electronic devices that the agencies said are being examined to uncover new forensic evidence of their malicious activities and pursue new investigative leads.  The suspects have been primarily linked to LockerGoga, MegaCortex, and Dharma ransomware, in addition to being in charge of  laundering the ransom payments  by funneling the ill-gotten Bitcoin proceeds through mixing services and cashing them out.   "The targeted suspects all had different roles in these professional, highly organised criminal organisations," Europol  said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos ransomware targets gamers via fake Minecraft alt lists<a href="https://www.bleepingcomputer.com/news/security/chaos-ransomware-targets-gamers-via-fake-minecraft-alt-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chaos Ransomware gang encrypts gamers' Windows devices through fake Minecraft alt lists promoted on gaming forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil and SolarMarker Employ SEO Poisoning Attacks<a href="https://cyware.com/news/revil-and-solarmarker-employ-seo-poisoning-attacks-4ea4f2ca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers highlight two separate campaigns dropping REvil and SolarMarker backdoors leveraging the SEO poisoning method to spread payloads in the systems of targeted victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+War-Driving - Still an Easy Bet for Household Wi-Fi Attacks<a href="https://cyware.com/news/war-driving-still-an-easy-bet-for-household-wi-fi-attacks-c4cb2413"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher from CyberArk demonstrated how a cheap device can be exploited to break into over 70% of Wi-Fi networks in one Tel Aviv community.  According to  researchers , the sniffing technique used in the experiment only works with routers supporting roaming features. U sers should use complex p ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Group Enters the Supply Chain Attack Game<a href="https://cyware.com/news/lazarus-apt-group-enters-the-supply-chain-attack-game-63e5f173"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky revealed two separate supply chain attacks by Lazarus Group aimed at an IT asset monitoring solution vendor, a South Korean think tank, and the defense industry. H ackers use a Racket downloader (signed with a stolen certificate) in the infection chain. O rganizations must stay alert and  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker accessed medical info at UMass Memorial Health<a href="https://securityaffairs.co/wordpress/123970/data-breach/umass-memorial-health-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit the UMass Memorial Health, threat actors had access to employee email system, potentially exposing patients info. 
+
+
+
+Threat actors hacked into the employee email system of the UMass Memorial Health healthcare system, potentially accessing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 95 Update Patches Exploited Zero-Days, Flaws Disclosed at Tianfu Cup<a href="https://www.securityweek.com/chrome-95-update-patches-exploited-zero-days-flaws-disclosed-tianfu-cup?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chrome 95 update released by Google patches two actively exploited Chrome vulnerabilities, as well as flaws that were disclosed recently at Tianfu Cup, a Chinese hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reading INTERPOL the African Cyberthreat Assessment Report 2021<a href="https://securityaffairs.co/wordpress/123959/cyber-crime/interpol-the-african-cyberthreat-assessment-report-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL published the African Cyberthreat Assessment Report 2021, a report that analyzes evolution of cybercrime in Africa. 
+
+
+
+A new report published by INTERPOL, titled the African Cyberthreat Assessment Report 2021, sheds the light on cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Hits PNG Finance Ministry<a href="https://www.securityweek.com/ransomware-attack-hits-png-finance-ministry?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware infiltrated and compromised a core server at the department of finance last week, hampering the government's access to foreign aid, its ability to pay cheques, and carry out other basic functions in the midst of a spiraling Covid-19 surge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE and CISA publish the 2021 list of most common hardware weaknesses<a href="https://securityaffairs.co/wordpress/123948/security/2021-list-of-most-common-hardware-weaknesses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE and CISA announced the release of the “2021 Common Weakness Enumeration (CWE) Most Important Hardware Weaknesses” list. 
+
+
+
+MITRE and the DHS’s Cybersecurity and Infrastructure Security Agency (CISA) have announced the release of the “2021...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police sting targets suspects behind 1,800 attacks that 'wreaked havoc across the world'<a href="https://www.zdnet.com/article/ransomware-police-sting-targets-suspects-behind-1800-attacks-that-wreaked-havoc-across-the-world/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve people have been targeted by an international law enforcement operation for involvement in over 1,800 ransomware attacks on critical infrastructure and large organizations around the world.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot member extradited to US faces up to 60 years in prison<a href="https://securityaffairs.co/wordpress/123940/cyber-crime/trckbot-russian-member-extradicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged member of the TrickBot gang, the Russian national Vladimir Dunaev (aka FFX), has been extradited to the US.
+
+
+
+Vladimir Dunaev (38), a Russian national suspected to be a member of the infamous TrickBot gang, has been extradited to the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes security feature bypass in macOS<a href="https://www.helpnetsecurity.com/2021/10/29/cve-2021-30892/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has delivered a barrage of updates for most of its devices this week, and among the vulnerabilities fixed are CVE-2021-30892, a System Integrity Protection bypass in macOS, and CVE-2021-30883, an iOS flaw that’s actively exploited by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal push to identify, protect critical groups from hackers gains momentum<a href="https://thehill.com//policy/cybersecurity/579187-federal-efforts-to-identify-critical-groups-to-protect-from-hackers-gain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Efforts in the federal government and Congress to identify and further protect groups critical to national security from cyber threats are gaining ground amid recent destructive ransomware attacks, officials say.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Android Malware Can Gain Root Access to Your Smartphones<a href="https://thehackernews.com/2021/10/this-new-android-malware-can-gain-root.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor has been linked to a new Android malware strain that features the ability to root smartphones and take complete control over infected smartphones while simultaneously taking steps to evade detection.  The malware has been named " AbstractEmu " owing to its use of code abstraction and anti-emulation checks undertaken to thwart analysis right from the moment the apps are opened. Notably, the global mobile campaign is engineered to target and infect as many devices as possible indiscriminately.   Lookout Threat Labs said it found a total of 19 Android applications  that posed as utility apps and system tools like password managers, money managers, app launchers, and data saving apps, seven of which contained the rooting functionality. Only one of the rogue apps, called Lite Launcher, made its way to the official Google Play Store, attracting a total of 10,000 downloads before it was purged.  The apps are said to have been prominently distributed via
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 29th 2021 - Making arrests<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-29th-2021-making-arrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, international law enforcement operations went on the offensive, making arrests in numerous countries for ransomware-related activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Shrootless' Bug Could Let Attackers Install Rootkit on macOS Systems<a href="https://thehackernews.com/2021/10/new-shrootless-bug-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed details of a new vulnerability that could allow an attacker to bypass security restrictions in macOS and take complete control of the device to perform arbitrary operations on the device without getting flagged by traditional security solutions.  Dubbed " Shrootless " and tracked as  CVE-2021-30892 , the "vulnerability lies in how Apple-signed packages with post-install scripts are installed," Microsoft 365 Defender Research Team's Jonathan Bar Or  said  in a technical write-up. "A malicious actor could create a specially crafted file that would hijack the installation process."   System Integrity Protection ( SIP ) aka "rootless" is a  security feature  introduced in OS X El Capitan that's designed to protect the macOS operating system by restricting a  root user  from executing unauthorized code or performing operations that may compromise system integrity.  Specifically, SIP allows modification of prote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snake malware biting hard on 50 apps for only $25<a href="https://www.bleepingcomputer.com/news/security/snake-malware-biting-hard-on-50-apps-for-only-25/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are flooding to use the Snake password-stealing trojan, making it one of the popular malware families used in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter is Coming for CentOS 8<a href="https://thehackernews.com/2021/10/winter-is-coming-for-centos-8.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Winter is Coming for CentOS 8—but here is how you can enjoy your holidays after all.  The server environment is complex and if you're managing thousands of Linux servers, the last thing you want is for an operating system vendor to do something completely unexpected.  That is exactly what Red Hat, the parent company of the CentOS Project, did when it suddenly announced a  curtailment of support for CentOS 8  – sending thousands of organizations scrambling for an alternative.  In this article, we'll review what happened with CentOS 8 and what it means for users who have already upgraded from CentOS release 7 to release 8. We'll also look at your alternatives for replacing CentOS 8.  Finally, we'll do a review of your other option: choosing extended support. Extended lifecycle support (ELS) can reduce the pressure to decide on alternative distribution and it may well be the most practical route for many CentOS 8 users.  Official support is critical  The difficulties arou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware now encrypts Linux and FreeBSD systems<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-now-encrypts-linux-and-freebsd-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang now also encrypts Linux and FreeBSD using new malware variants specifically developed to target these platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Pirated sports streamer hacked accounts, extorted MLB<a href="https://www.bleepingcomputer.com/news/security/doj-pirated-sports-streamer-hacked-accounts-extorted-mlb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Attorney's Office for the Southern District of New York has charged a man for illegally streaming MLB, NBA, NFL, and NHL games via the web and hacking into sports leagues' customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Windows web content filtering now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-web-content-filtering-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that web content filtering has reached general availability and is now available for all Windows enterprise customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chromebooks failing to enroll due to network issue<a href="https://www.bleepingcomputer.com/news/security/google-chromebooks-failing-to-enroll-due-to-network-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since Thursday evening, Google has been investigating reports of customers having issues enrolling their Chromebooks with a network error.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest hackers behind over 1,800 ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/police-arrest-hackers-behind-over-1-800-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Europol has announced the arrest of 12 individuals who are believed to be linked to ransomware attacks against 1,800 victims in 71 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET found a variant of the Hive ransomware that encrypts Linux and FreeBSD<a href="https://securityaffairs.co/wordpress/123931/malware/hive-ransomware-linux-freebsd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware operators have developed a new variant of their malware that can encrypt Linux and FreeBSD.
+
+
+
+ESET researchers discovered a new Hive ransomware variant that was specifically developed to encrypt Linux and FreeBSD. Researchers at the cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Papua New Guinea ‘s finance ministry was hit by a ransomware<a href="https://securityaffairs.co/wordpress/123927/cyber-crime/papua-new-guinea-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit Papua New Guinea 's finance ministry and disrupted government payments and operations.
+
+
+
+Government officials confirmed that Papua New Guinea's finance ministry was hit by a ransomware attack that disrupted government payments...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian TrickBot Gang Hacker Extradited to U.S. Charged with Cybercrime<a href="https://thehackernews.com/2021/10/russian-trickbot-gang-hacker-extradited.html"> Full Text</a>
@@ -50,7 +621,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/123906/security/chrome-zero-day-flaws.html"> Full Text</a>
@@ -70,7 +641,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2021
+October 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Urgent Chrome Update to Patch 2 Actively Exploited 0-Day Bugs<a href="https://thehackernews.com/2021/10/google-releases-urgent-chrome-update-to.html"> Full Text</a>
@@ -86,7 +657,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2021
+October 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot malware dev extradited to U.S. faces 60 years in prison<a href="https://www.bleepingcomputer.com/news/security/trickbot-malware-dev-extradited-to-us-faces-60-years-in-prison/"> Full Text</a>

@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks steal $130 million worth of cryptocurrency assets from Cream Finance<a href="https://securityaffairs.co/wordpress/123861/cyber-crime/cream-finance-cyber-heist-130m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen $130 million worth of cryptocurrency assets from the Cream Finance decentralized finance (DeFi) platform.
+
+
+
+C.R.E.A.M. Finance is a decentralized lending protocol for individuals, institutions and protocols to access financial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive data of 400,000 German students exposed by API flaw<a href="https://www.bleepingcomputer.com/news/security/sensitive-data-of-400-000-german-students-exposed-by-api-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 400,000 users of Scoolio, a student community app widely used in Germany, had sensitive information exposed due to an API flaw in the platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

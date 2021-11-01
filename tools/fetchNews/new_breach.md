@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+October 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Black Shadow hacking group breached Israeli Internet hosting firm<a href="https://securityaffairs.co/wordpress/124000/hacking/black-shadow-hacked-cyberserve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Irananian hacking group Black Shadow breached the Israeli internet hosting company Cyberserve, taking down several of its sites. 
+
+
+
+Iranian hacking group Black Shadow compromised the server of the Israeli internet hosting company Cyberserve, taking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker accessed medical info at UMass Memorial Health<a href="https://securityaffairs.co/wordpress/123970/data-breach/umass-memorial-health-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit the UMass Memorial Health, threat actors had access to employee email system, potentially exposing patients info. 
+
+
+
+Threat actors hacked into the employee email system of the UMass Memorial Health healthcare system, potentially accessing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,20 @@ nav_order: 900160
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Teen Rakes in $2.74M Worth of Bitcoin in Phishing Scam<a href="https://threatpost.com/teen-rakes-in-2-74m-worth-of-bitcoin-in-phishing-scam/175834/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The kid was busted after abusing Google Ads to lure users to his fake gift card site.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Watch out for the Steam skin "free knife" scam<a href="https://blog.malwarebytes.com/scams/2021/10/watch-out-for-the-steam-skin-free-knife-scam/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

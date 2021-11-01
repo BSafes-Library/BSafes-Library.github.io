@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE and CISA publish the 2021 list of most common hardware weaknesses<a href="https://securityaffairs.co/wordpress/123948/security/2021-list-of-most-common-hardware-weaknesses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE and CISA announced the release of the “2021 Common Weakness Enumeration (CWE) Most Important Hardware Weaknesses” list. 
+
+
+
+MITRE and the DHS’s Cybersecurity and Infrastructure Security Agency (CISA) have announced the release of the “2021...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal push to identify, protect critical groups from hackers gains momentum<a href="https://thehill.com//policy/cybersecurity/579187-federal-efforts-to-identify-critical-groups-to-protect-from-hackers-gain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Efforts in the federal government and Congress to identify and further protect groups critical to national security from cyber threats are gaining ground amid recent destructive ransomware attacks, officials say.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

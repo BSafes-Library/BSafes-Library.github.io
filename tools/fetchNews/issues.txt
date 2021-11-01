@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.co/wordpress/123948/security/2021-list-of-most-common-hardware-weaknesses.html
  
 Law
 

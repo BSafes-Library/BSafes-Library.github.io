@@ -8,6 +8,109 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+War-Driving - Still an Easy Bet for Household Wi-Fi Attacks<a href="https://cyware.com/news/war-driving-still-an-easy-bet-for-household-wi-fi-attacks-c4cb2413"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher from CyberArk demonstrated how a cheap device can be exploited to break into over 70% of Wi-Fi networks in one Tel Aviv community.  According to  researchers , the sniffing technique used in the experiment only works with routers supporting roaming features. U sers should use complex p ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 95 Update Patches Exploited Zero-Days, Flaws Disclosed at Tianfu Cup<a href="https://www.securityweek.com/chrome-95-update-patches-exploited-zero-days-flaws-disclosed-tianfu-cup?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chrome 95 update released by Google patches two actively exploited Chrome vulnerabilities, as well as flaws that were disclosed recently at Tianfu Cup, a Chinese hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes security feature bypass in macOS<a href="https://www.helpnetsecurity.com/2021/10/29/cve-2021-30892/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has delivered a barrage of updates for most of its devices this week, and among the vulnerabilities fixed are CVE-2021-30892, a System Integrity Protection bypass in macOS, and CVE-2021-30883, an iOS flaw that’s actively exploited by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Shrootless' Bug Could Let Attackers Install Rootkit on macOS Systems<a href="https://thehackernews.com/2021/10/new-shrootless-bug-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed details of a new vulnerability that could allow an attacker to bypass security restrictions in macOS and take complete control of the device to perform arbitrary operations on the device without getting flagged by traditional security solutions.  Dubbed " Shrootless " and tracked as&nbsp; CVE-2021-30892 , the "vulnerability lies in how Apple-signed packages with post-install scripts are installed," Microsoft 365 Defender Research Team's Jonathan Bar Or&nbsp; said &nbsp;in a technical write-up. "A malicious actor could create a specially crafted file that would hijack the installation process."   System Integrity Protection ( SIP ) aka "rootless" is a&nbsp; security feature &nbsp;introduced in OS X El Capitan that's designed to protect the macOS operating system by restricting a&nbsp; root user &nbsp;from executing unauthorized code or performing operations that may compromise system integrity.  Specifically, SIP allows modification of prote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chromebooks failing to enroll due to network issue<a href="https://www.bleepingcomputer.com/news/security/google-chromebooks-failing-to-enroll-due-to-network-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since Thursday evening, Google has been investigating reports of customers having issues enrolling their Chromebooks with a network error.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/123906/security/chrome-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 95.0.4638.69 for Windows, Mac, and Linux to address two actively exploited zero-day vulnerabilities.
+
+
+
+Google has released Chrome 95.0.4638.69 for Windows, Mac, and Linux to address two zero-day vulnerabilities, tracked as CVE-2021-38000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Urgent Chrome Update to Patch 2 Actively Exploited 0-Day Bugs<a href="https://thehackernews.com/2021/10/google-releases-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday rolled out an emergency update for its Chrome web browser, including fixes for two zero-day vulnerabilities that it says are being actively exploited in the wild.  Tracked as&nbsp; CVE-2021-38000 &nbsp;and&nbsp; CVE-2021-38003 , the weaknesses relate to insufficient validation of untrusted input in a feature called Intents as well as a case of inappropriate implementation in V8 JavaScript and WebAssembly engine. The internet giant's Threat Analysis Group (TAG) has been credited with discovering and reporting the two flaws on September 15, 2021, and October 26, 2021, respectively.  "Google is aware that exploits for CVE-2021-38000 and CVE-2021-38003 exist in the wild," the company&nbsp; noted &nbsp;in an advisory without delving into technical specifics about how the two vulnerabilities were used in attacks or the threat actors that may have weaponized them.   Also addressed as part of this stable channel update is a&nbsp; use-after-free &nbsp;vulnerability in the Web Transport component
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

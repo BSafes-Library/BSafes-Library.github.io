@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of rise in password sprays targeting cloud accounts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-rise-in-password-sprays-targeting-cloud-accounts/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA575 is Using Squid Game Lures to Drop Dridex<a href="https://cyware.com/news/ta575-is-using-squid-game-lures-to-drop-dridex-18d96c2f"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Black Shadow hacking group breached Israeli Internet hosting firm<a href="https://securityaffairs.co/wordpress/124000/hacking/black-shadow-hacked-cyberserve.html"> Full Text</a>
@@ -87,7 +87,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue QR Codes Steal Microsoft Credentials and Crypto Funds<a href="https://cyware.com/news/rogue-qr-codes-steal-microsoft-credentials-and-crypto-funds-abc9781d"> Full Text</a>
@@ -103,7 +103,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minecraft Japanese gamers hit by Chaos ransomware using alt lists as lure<a href="https://securityaffairs.co/wordpress/123978/breaking-news/minecraft-gamers-chaos-ransomware.html"> Full Text</a>
@@ -123,7 +123,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Graff multinational jeweller hit by Conti gang. Data of its rich clients are at risk, including Trump and Beckham<a href="https://securityaffairs.co/wordpress/123980/cyber-crime/conti-ransomware-graff-jeweller.html"> Full Text</a>
@@ -143,7 +143,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2021
+October 31, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 338<a href="https://securityaffairs.co/wordpress/123974/breaking-news/security-affairs-newsletter-round-338.html"> Full Text</a>
@@ -163,7 +163,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Arrest Suspected Ransomware Hackers Behind 1,800 Attacks Worldwide<a href="https://thehackernews.com/2021/10/police-arrest-suspected-ransomware.html"> Full Text</a>
@@ -179,7 +179,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaos ransomware targets gamers via fake Minecraft alt lists<a href="https://www.bleepingcomputer.com/news/security/chaos-ransomware-targets-gamers-via-fake-minecraft-alt-lists/"> Full Text</a>
@@ -195,7 +195,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil and SolarMarker Employ SEO Poisoning Attacks<a href="https://cyware.com/news/revil-and-solarmarker-employ-seo-poisoning-attacks-4ea4f2ca"> Full Text</a>
@@ -211,7 +211,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 War-Driving - Still an Easy Bet for Household Wi-Fi Attacks<a href="https://cyware.com/news/war-driving-still-an-easy-bet-for-household-wi-fi-attacks-c4cb2413"> Full Text</a>
@@ -228,7 +228,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT Group Enters the Supply Chain Attack Game<a href="https://cyware.com/news/lazarus-apt-group-enters-the-supply-chain-attack-game-63e5f173"> Full Text</a>
@@ -245,7 +245,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker accessed medical info at UMass Memorial Health<a href="https://securityaffairs.co/wordpress/123970/data-breach/umass-memorial-health-cyberattack.html"> Full Text</a>
@@ -265,7 +265,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 95 Update Patches Exploited Zero-Days, Flaws Disclosed at Tianfu Cup<a href="https://www.securityweek.com/chrome-95-update-patches-exploited-zero-days-flaws-disclosed-tianfu-cup?&web_view=true"> Full Text</a>
@@ -281,7 +281,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reading INTERPOL the African Cyberthreat Assessment Report 2021<a href="https://securityaffairs.co/wordpress/123959/cyber-crime/interpol-the-african-cyberthreat-assessment-report-2021.html"> Full Text</a>
@@ -301,7 +301,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Hits PNG Finance Ministry<a href="https://www.securityweek.com/ransomware-attack-hits-png-finance-ministry?&web_view=true"> Full Text</a>
@@ -317,7 +317,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE and CISA publish the 2021 list of most common hardware weaknesses<a href="https://securityaffairs.co/wordpress/123948/security/2021-list-of-most-common-hardware-weaknesses.html"> Full Text</a>
@@ -337,7 +337,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police sting targets suspects behind 1,800 attacks that 'wreaked havoc across the world'<a href="https://www.zdnet.com/article/ransomware-police-sting-targets-suspects-behind-1800-attacks-that-wreaked-havoc-across-the-world/?&web_view=true"> Full Text</a>
@@ -353,7 +353,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot member extradited to US faces up to 60 years in prison<a href="https://securityaffairs.co/wordpress/123940/cyber-crime/trckbot-russian-member-extradicted.html"> Full Text</a>
@@ -373,7 +373,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 30, 2021
+October 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes security feature bypass in macOS<a href="https://www.helpnetsecurity.com/2021/10/29/cve-2021-30892/?&web_view=true"> Full Text</a>
@@ -389,7 +389,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal push to identify, protect critical groups from hackers gains momentum<a href="https://thehill.com//policy/cybersecurity/579187-federal-efforts-to-identify-critical-groups-to-protect-from-hackers-gain"> Full Text</a>
@@ -405,7 +405,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Android Malware Can Gain Root Access to Your Smartphones<a href="https://thehackernews.com/2021/10/this-new-android-malware-can-gain-root.html"> Full Text</a>
@@ -421,7 +421,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 29th 2021 - Making arrests<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-29th-2021-making-arrests/"> Full Text</a>
@@ -437,7 +437,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Shrootless' Bug Could Let Attackers Install Rootkit on macOS Systems<a href="https://thehackernews.com/2021/10/new-shrootless-bug-could-let-attackers.html"> Full Text</a>
@@ -453,7 +453,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snake malware biting hard on 50 apps for only $25<a href="https://www.bleepingcomputer.com/news/security/snake-malware-biting-hard-on-50-apps-for-only-25/"> Full Text</a>
@@ -469,7 +469,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winter is Coming for CentOS 8<a href="https://thehackernews.com/2021/10/winter-is-coming-for-centos-8.html"> Full Text</a>
@@ -485,7 +485,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware now encrypts Linux and FreeBSD systems<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-now-encrypts-linux-and-freebsd-systems/"> Full Text</a>
@@ -501,7 +501,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ: Pirated sports streamer hacked accounts, extorted MLB<a href="https://www.bleepingcomputer.com/news/security/doj-pirated-sports-streamer-hacked-accounts-extorted-mlb/"> Full Text</a>
@@ -517,7 +517,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Windows web content filtering now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-web-content-filtering-now-generally-available/"> Full Text</a>
@@ -533,7 +533,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chromebooks failing to enroll due to network issue<a href="https://www.bleepingcomputer.com/news/security/google-chromebooks-failing-to-enroll-due-to-network-issue/"> Full Text</a>
@@ -549,7 +549,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police arrest hackers behind over 1,800 ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/police-arrest-hackers-behind-over-1-800-ransomware-attacks/"> Full Text</a>
@@ -565,7 +565,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESET found a variant of the Hive ransomware that encrypts Linux and FreeBSD<a href="https://securityaffairs.co/wordpress/123931/malware/hive-ransomware-linux-freebsd.html"> Full Text</a>
@@ -585,7 +585,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Papua New Guinea ‘s finance ministry was hit by a ransomware<a href="https://securityaffairs.co/wordpress/123927/cyber-crime/papua-new-guinea-ransomware.html"> Full Text</a>
@@ -605,7 +605,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian TrickBot Gang Hacker Extradited to U.S. Charged with Cybercrime<a href="https://thehackernews.com/2021/10/russian-trickbot-gang-hacker-extradited.html"> Full Text</a>
@@ -621,7 +621,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 29, 2021
+October 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes 2 new actively exploited zero-day flaws in Chrome<a href="https://securityaffairs.co/wordpress/123906/security/chrome-zero-day-flaws.html"> Full Text</a>
@@ -641,7 +641,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2021
+October 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Urgent Chrome Update to Patch 2 Actively Exploited 0-Day Bugs<a href="https://thehackernews.com/2021/10/google-releases-urgent-chrome-update-to.html"> Full Text</a>
@@ -657,7 +657,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2021
+October 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot malware dev extradited to U.S. faces 60 years in prison<a href="https://www.bleepingcomputer.com/news/security/trickbot-malware-dev-extradited-to-us-faces-60-years-in-prison/"> Full Text</a>

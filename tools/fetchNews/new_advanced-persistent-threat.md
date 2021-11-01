@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Group Enters the Supply Chain Attack Game<a href="https://cyware.com/news/lazarus-apt-group-enters-the-supply-chain-attack-game-63e5f173"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky revealed two separate supply chain attacks by Lazarus Group aimed at an IT asset monitoring solution vendor, a South Korean think tank, and the defense industry. H ackers use a Racket downloader (signed with a stolen certificate) in the infection chain. O rganizations must stay alert and  ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

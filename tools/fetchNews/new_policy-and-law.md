@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Arrest Suspected Ransomware Hackers Behind 1,800 Attacks Worldwide<a href="https://thehackernews.com/2021/10/police-arrest-suspected-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+12 people have been detained as part of an international law enforcement operation for orchestrating ransomware attacks on critical infrastructure and large organizations that hit over 1,800 victims across 71 countries since 2019, marking the latest action against cybercrime groups.  The arrests were made earlier this week on October 26 in Ukraine and Switzerland, resulting in the seizure of cash worth $52,000, five luxury vehicles, and a number of electronic devices that the agencies said are being examined to uncover new forensic evidence of their malicious activities and pursue new investigative leads.  The suspects have been primarily linked to LockerGoga, MegaCortex, and Dharma ransomware, in addition to being in charge of&nbsp; laundering the ransom payments &nbsp;by funneling the ill-gotten Bitcoin proceeds through mixing services and cashing them out.   "The targeted suspects all had different roles in these professional, highly organised criminal organisations," Europol&nbsp; said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police sting targets suspects behind 1,800 attacks that 'wreaked havoc across the world'<a href="https://www.zdnet.com/article/ransomware-police-sting-targets-suspects-behind-1800-attacks-that-wreaked-havoc-across-the-world/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve people have been targeted by an international law enforcement operation for involvement in over 1,800 ransomware attacks on critical infrastructure and large organizations around the world.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ: Pirated sports streamer hacked accounts, extorted MLB<a href="https://www.bleepingcomputer.com/news/security/doj-pirated-sports-streamer-hacked-accounts-extorted-mlb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Attorney's Office for the Southern District of New York has charged a man for illegally streaming MLB, NBA, NFL, and NHL games via the web and hacking into sports leagues' customer accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

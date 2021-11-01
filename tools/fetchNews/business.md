@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragos Becomes First Industrial Cybersecurity Unicorn After Raising $200 Million<a href="https://www.securityweek.com/dragos-becomes-first-industrial-cybersecurity-unicorn-after-raising-200-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding, which brings the total raised by Dragos to roughly $360 million, was led by Koch Disruptive Technologies and funds and accounts managed by BlackRock. Several other investors also took part in this round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

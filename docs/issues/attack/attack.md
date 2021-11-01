@@ -8,6 +8,88 @@ nav_order: 900015
 
 ## Attack
 ---
+October 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minecraft Japanese gamers hit by Chaos ransomware using alt lists as lure<a href="https://securityaffairs.co/wordpress/123978/breaking-news/minecraft-gamers-chaos-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chaos Ransomware operators target gamers' Windows devices using Minecraft alt lists as a lure and promoting them on gaming forums.
+
+
+
+Minecraft is one of the most popular games in the world, it had more than 140 million monthly active players in August...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Graff multinational jeweller hit by Conti gang. Data of its rich clients are at risk, including Trump and Beckham<a href="https://securityaffairs.co/wordpress/123980/cyber-crime/conti-ransomware-graff-jeweller.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware gang hit high society jeweller Graff and threatens to release private details of world leaders, actors and tycoons 
+
+
+
+The latest attack of the Conti ransomware gang makes the headlines, the threat actors hit high society jeweller Graff...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil and SolarMarker Employ SEO Poisoning Attacks<a href="https://cyware.com/news/revil-and-solarmarker-employ-seo-poisoning-attacks-4ea4f2ca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers highlight two separate campaigns dropping REvil and SolarMarker backdoors leveraging the SEO poisoning method to spread payloads in the systems of targeted victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Hits PNG Finance Ministry<a href="https://www.securityweek.com/ransomware-attack-hits-png-finance-ministry?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware infiltrated and compromised a core server at the department of finance last week, hampering the government's access to foreign aid, its ability to pay cheques, and carry out other basic functions in the midst of a spiraling Covid-19 surge.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Papua New Guinea ‘s finance ministry was hit by a ransomware<a href="https://securityaffairs.co/wordpress/123927/cyber-crime/papua-new-guinea-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit Papua New Guinea 's finance ministry and disrupted government payments and operations.
+
+
+
+Government officials confirmed that Papua New Guinea's finance ministry was hit by a ransomware attack that disrupted government payments...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

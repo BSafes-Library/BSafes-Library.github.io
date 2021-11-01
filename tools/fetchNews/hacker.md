@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Researcher Cracked Over 3500 Wi-Fi Networks in Tel Aviv City<a href="https://thehackernews.com/2021/10/israeli-researcher-cracked-over-3500-wi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 70% of Wi-Fi networks from a sample size of 5,000 were hacked with "relative ease" in the Israeli city of Tel Aviv, highlighting how unsecure Wi-Fi passwords can become a gateway for serious threats to individuals, small businesses, and enterprises alike.  CyberArk security researcher Ido Hoorvitch, who used a Wi-Fi sniffing equipment costing about $50 to collect 5,000 network hashes for the study,&nbsp; said &nbsp;"the process of sniffing Wi-Fis and the subsequent cracking procedures was a very accessible undertaking in terms of equipment, costs and execution."   The new Wi-Fi attack builds on&nbsp; previous findings &nbsp;by Jens "atom" Steube in 2018 that involves capturing what's called the PMKIDs associated with a client (aka SSID) in order to attempt a brute-force attack using password recovery tools like hashcat.   PMKID is a&nbsp; unique key identifier &nbsp;used by the access point (AP) to keep track of the pre-shared key — i.e., pairwise master key aka PMK — being u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Russian hacker extradited from South Korea to stand trial in US<a href="https://thehill.com//policy/cybersecurity/579017-alleged-russian-hacker-extradited-from-south-korea-to-stand-trial-in-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Russian hacker appeared in court for the first time Thursday to face allegations&nbsp;that he&nbsp;played a role in a transnational cybercrime organization after being extradited to the United States from South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
