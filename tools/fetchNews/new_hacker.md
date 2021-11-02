@@ -8,6 +8,46 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to hack Wincor Cineo ATMs to bypass black-box attack protections and withdraw cash<a href="https://securityaffairs.co/wordpress/124038/hacking/black-box-wincor-cineo-atms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated how crooks could hack Diebold Nixdorf's Wincor Cineo ATMs to bypass black-box attack protections and withdraw cash.  
+
+
+
+ Positive Technologies researchers Vladimir Kononovich and Alexey Stennikov&nbsp;have discovered security flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balikbayan Foxes group spoofs Philippine gov to spread RATs<a href="https://securityaffairs.co/wordpress/124017/apt/balikbayan-foxes-campaings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meet Balikbayan Foxes: a threat group impersonating the Philippine gov't
+
+
+
+Experts uncovered a new threat actor, tracked as Balikbayan Foxes, that is impersonating the Philippine government to spread malware.&nbsp; 
+
+
+
+Researchers from Proofpoint have uncovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

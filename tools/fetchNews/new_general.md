@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Has Disrupted Almost 1,000 Schools in the US This Year<a href="https://www.vice.com/en/article/4awyvp/ransomware-has-disrupted-almost-1000-schools-in-the-us-this-year?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So far this year, almost 1,000 schools across the US have suffered from a ransomware attack, and in some cases had classes disrupted because of it, according to tallies by Emsisoft.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

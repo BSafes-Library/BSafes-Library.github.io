@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing SaaS Apps — CASB vs. SSPM<a href="https://thehackernews.com/2021/11/securing-saas-apps-casb-vs-sspm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is often confusion between Cloud Access Security Brokers (CASB) and SaaS Security Posture Management (SSPM) solutions, as both are designed to address security issues within SaaS applications. CASBs protect sensitive data by implementing multiple security policy enforcements to safeguard critical data. For identifying and classifying sensitive information, like Personally Identifiable Information (PII), Intellectual Property (IP), and business records, CASBs definitely help.&nbsp;  However, as the number of SaaS apps increase, the amount of misconfigurations and possible exposure widens and cannot be mitigated by CASBs. These solutions act as a link between users and cloud service providers and can identify issues across various cloud environments. Where CASBs fall short is that they identify breaches&nbsp; after &nbsp;they happen.  When it comes to getting full visibility and control over the organization's SaaS apps, an SSPM solution would be the better choice, as the security team can e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial services need to prioritize API security to protect their customers<a href="https://www.helpnetsecurity.com/2021/11/01/financial-services-api-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent study, 54 of the 55 mobile apps that were reverse engineered contained hardcoded API keys and tokens including usernames and passwords to third-party services.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

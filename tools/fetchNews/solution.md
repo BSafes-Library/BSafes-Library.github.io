@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Windows web content filtering now generally available<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-web-content-filtering-now-generally-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that web content filtering has reached general availability and is now available for all Windows&nbsp;enterprise customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

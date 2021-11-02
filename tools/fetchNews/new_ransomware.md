@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pros and Cons of Mandating Reporting From Ransomware Victims<a href="https://www.lawfareblog.com/pros-and-cons-mandating-reporting-ransomware-victims"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proposed reporting mandates are an insufficient solution to the right problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

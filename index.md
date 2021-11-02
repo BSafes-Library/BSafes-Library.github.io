@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal now lets you report and block spam messages<a href="https://www.bleepingcomputer.com/news/security/signal-now-lets-you-report-and-block-spam-messages/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE, CISA Announce 2021 List of Most Common Hardware Weaknesses<a href="https://www.securityweek.com/mitre-cisa-announce-2021-list-most-common-hardware-weaknesses?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials on alert for cyber threats ahead of election day<a href="https://thehill.com//policy/cybersecurity/579488-officials-on-alert-for-threats-ahead-of-election-day"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Uncovered in Pentaho Business Analytics Software<a href="https://thehackernews.com/2021/11/critical-flaws-uncovered-in-pentaho.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Pros and Cons of Mandating Reporting From Ransomware Victims<a href="https://www.lawfareblog.com/pros-and-cons-mandating-reporting-ransomware-victims"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HelloKitty ransomware gang also targets victims with DDoS attacks<a href="https://securityaffairs.co/wordpress/124059/malware/hellokitty-ransomware-fbi-alert.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Windows is getting a massive overhaul<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-windows-is-getting-a-massive-overhaul/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Has Disrupted Almost 1,000 Schools in the US This Year<a href="https://www.vice.com/en/article/4awyvp/ransomware-has-disrupted-almost-1000-schools-in-the-us-this-year?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Securing SaaS Apps — CASB vs. SSPM<a href="https://thehackernews.com/2021/11/securing-saas-apps-casb-vs-sspm.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Squid Game Cryptocurrency exit scam! Operators made $2.1 Million<a href="https://securityaffairs.co/wordpress/124047/cyber-crime/squid-game-cryptocurrency-exit-scam.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian province health care system disrupted by cyberattack<a href="https://www.bleepingcomputer.com/news/security/canadian-province-health-care-system-disrupted-by-cyberattack/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Introduces New Open-Source Data Privacy Protocol<a href="https://www.securityweek.com/google-introduces-new-open-source-data-privacy-protocol?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Trojan Source' Technique Lets Hackers Hide Vulnerabilities in Source Code<a href="https://thehackernews.com/2021/11/new-trojan-source-technique-lets.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to hack Wincor Cineo ATMs to bypass black-box attack protections and withdraw cash<a href="https://securityaffairs.co/wordpress/124038/hacking/black-box-wincor-cineo-atms.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky's stolen Amazon SES token used in Office 365 phishing<a href="https://www.bleepingcomputer.com/news/security/kasperskys-stolen-amazon-ses-token-used-in-office-365-phishing/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoCD patches 'Highly Critical' authentication vulnerability<a href="https://www.securezoo.com/2021/10/gocd-patches-highly-critical-authentication-vulnerability/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Secure Zoo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover 'Pink' Botnet Malware That Infected Over 1.6 Million Devices<a href="https://thehackernews.com/2021/11/researchers-uncover-pink-botnet-malware.html"> Full Text</a>
@@ -318,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pink Botnet infected over 1.6 Million Devices, it is one of the largest botnet ever seen<a href="https://securityaffairs.co/wordpress/124027/malware/pink-botnet.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackShadow hackers breach Israeli hosting firm and extort customers<a href="https://www.bleepingcomputer.com/news/security/blackshadow-hackers-breach-israeli-hosting-firm-and-extort-customers/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google, Salesforce, others team up to launch MVSP security baseline project<a href="https://portswigger.net/daily-swig/google-salesforce-others-team-up-to-launch-mvsp-security-baseline-project?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Balikbayan Foxes group spoofs Philippine gov to spread RATs<a href="https://securityaffairs.co/wordpress/124017/apt/balikbayan-foxes-campaings.html"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: HelloKitty ransomware adds DDoS attacks to extortion tactics<a href="https://www.bleepingcomputer.com/news/security/fbi-hellokitty-ransomware-adds-ddos-attacks-to-extortion-tactics/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Flaw in Unicode’s Bidi Algorithm Affecting Most Code Compilers and Software Development Environments<a href="https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/?&web_view=true"> Full Text</a>
@@ -426,7 +426,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of an increase in password spraying attacks<a href="https://securityaffairs.co/wordpress/124006/hacking/microsoft-warns-password-spraying-attacks.html"> Full Text</a>
@@ -446,7 +446,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial services need to prioritize API security to protect their customers<a href="https://www.helpnetsecurity.com/2021/11/01/financial-services-api-security/?&web_view=true"> Full Text</a>
@@ -462,7 +462,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Countries Team Up to Issue Video Teleconference Guidance<a href="https://www.inforisktoday.com/countries-team-up-to-issue-video-teleconference-guidance-a-17823?&web_view=true"> Full Text</a>
@@ -478,7 +478,7 @@ Info Risk Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: None of NSW's lead cluster agencies have implemented all Essential Eight controls<a href="https://www.zdnet.com/article/none-of-nsws-lead-cluster-agencies-have-implemented-all-essential-8-controls-at-level-one/?&web_view=true"> Full Text</a>

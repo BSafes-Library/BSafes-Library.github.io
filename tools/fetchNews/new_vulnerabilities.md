@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Uncovered in Pentaho Business Analytics Software<a href="https://thehackernews.com/2021/11/critical-flaws-uncovered-in-pentaho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities have been disclosed in Hitachi Vantara's Pentaho Business Analytics software that could be abused by malicious actors to upload arbitrary data files and even execute arbitrary code on the underlying host system of the application.  The security weaknesses were&nbsp; reported &nbsp;by researchers Alberto Favero from German cybersecurity firm Hawsec and Altion Malka  from Census Labs earlier this year, prompting the company to&nbsp; issue &nbsp;necessary patches to address the issues.   Pentaho is a Java-based business intelligence platform that offers data integration, analytics, online analytical processing (OLAP), and mining capabilities, and&nbsp; counts &nbsp;major&nbsp; companies and organizations &nbsp;like Bell, CERN, Cipal, Logitech, Nasdaq, Telefonica, Teradata, and the National September 11 Memorial and Museum among its customers.   The list of flaws, which affect Pentaho Business Analytics versions 9.1 and lower, is as follows -   CVE-2021-31599 &nbsp;(CVSS score: 9.9) - Remote Code Executi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoCD patches 'Highly Critical' authentication vulnerability<a href="https://www.securezoo.com/2021/10/gocd-patches-highly-critical-authentication-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoCD is an open-source Continuous Integration and Continuous Delivery system (CI/CD) tool that is used by software developers and organizations for automating software delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Zoo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Flaw in Unicode’s Bidi Algorithm Affecting Most Code Compilers and Software Development Environments<a href="https://krebsonsecurity.com/2021/11/trojan-source-bug-threatens-the-security-of-all-code/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The weakness involves Unicode’s bi-directional or “Bidi” algorithm, which handles displaying text that includes mixed scripts with different display orders, such as Arabic and English.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of an increase in password spraying attacks<a href="https://securityaffairs.co/wordpress/124006/hacking/microsoft-warns-password-spraying-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Detection and Response Team (DART) warns of a rise in password spray attacks targeting valuable cloud accounts.
+
+
+
+The Microsoft Detection and Response Team (DART) observed a worrisome rise in password spray attacks targeting privileged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

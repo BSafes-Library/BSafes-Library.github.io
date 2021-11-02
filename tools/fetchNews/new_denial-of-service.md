@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty ransomware gang also targets victims with DDoS attacks<a href="https://securityaffairs.co/wordpress/124059/malware/hellokitty-ransomware-fbi-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US FBI has published a flash alert warning private organizations of the evolution of the HelloKitty ransomware (aka FiveHands). 
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) has sent out a flash alert warning private industry of a new feature...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: HelloKitty ransomware adds DDoS attacks to extortion tactics<a href="https://www.bleepingcomputer.com/news/security/fbi-hellokitty-ransomware-adds-ddos-attacks-to-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S.&nbsp;Federal Bureau of Investigation (FBI) has sent out a flash alert warning private industry partners that the&nbsp;HelloKitty ransomware gang (aka&nbsp;FiveHands) has added distributed denial-of-service (DDoS) attacks to their arsenal of extortion tactics.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

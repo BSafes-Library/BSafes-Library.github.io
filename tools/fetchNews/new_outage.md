@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian province health care system disrupted by cyberattack<a href="https://www.bleepingcomputer.com/news/security/canadian-province-health-care-system-disrupted-by-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian provinces of Newfoundland and Labrador have suffered a cyberattack that has led to severe disruption to healthcare providers and hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

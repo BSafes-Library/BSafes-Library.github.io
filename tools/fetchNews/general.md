@@ -8,6 +8,84 @@ nav_order: 900072
 
 ## General
 ---
+October 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of rise in password sprays targeting cloud accounts<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-rise-in-password-sprays-targeting-cloud-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Detection and Response Team (DART) says it detected an increase in password spray attacks targeting privileged cloud accounts and high-profile identities such as C-level executives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 338<a href="https://securityaffairs.co/wordpress/123974/breaking-news/security-affairs-newsletter-round-338.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reading INTERPOL the African Cyberthreat Assessment Report 2021<a href="https://securityaffairs.co/wordpress/123959/cyber-crime/interpol-the-african-cyberthreat-assessment-report-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL published the African Cyberthreat Assessment Report 2021, a report that analyzes evolution of cybercrime in Africa. 
+
+
+
+A new report published by INTERPOL, titled the African Cyberthreat Assessment Report 2021, sheds the light on cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 29th 2021 - Making arrests<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-29th-2021-making-arrests/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, international law enforcement operations went on the offensive, making arrests in numerous countries for ransomware-related activities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter is Coming for CentOS 8<a href="https://thehackernews.com/2021/10/winter-is-coming-for-centos-8.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Winter is Coming for CentOS 8—but here is how you can enjoy your holidays after all.  The server environment is complex and if you're managing thousands of Linux servers, the last thing you want is for an operating system vendor to do something completely unexpected.  That is exactly what Red Hat, the parent company of the CentOS Project, did when it suddenly announced a&nbsp; curtailment of support for CentOS 8 &nbsp;– sending thousands of organizations scrambling for an alternative.  In this article, we'll review what happened with CentOS 8 and what it means for users who have already upgraded from CentOS release 7 to release 8. We'll also look at your alternatives for replacing CentOS 8.  Finally, we'll do a review of your other option: choosing extended support. Extended lifecycle support (ELS) can reduce the pressure to decide on alternative distribution and it may well be the most practical route for many CentOS 8 users.  Official support is critical  The difficulties arou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

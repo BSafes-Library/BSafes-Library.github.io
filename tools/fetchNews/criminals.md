@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 31, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA575 is Using Squid Game Lures to Drop Dridex<a href="https://cyware.com/news/ta575-is-using-squid-game-lures-to-drop-dridex-18d96c2f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint stumbled across a cybercrime actor, TA575, sending thousands of Squid Game phishing lures aimed at multiple industries primarily in the U.S.  The group sends thousands of emails in every single campaign aimed at hundreds of organizations. Users are advised  not to believe anything on the ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest hackers behind over 1,800 ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/police-arrest-hackers-behind-over-1-800-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Europol has announced the arrest of 12 individuals who are believed to be linked to ransomware attacks against 1,800 victims in 71 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian TrickBot Gang Hacker Extradited to U.S. Charged with Cybercrime<a href="https://thehackernews.com/2021/10/russian-trickbot-gang-hacker-extradited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national, who was arrested in South Korea last month and extradited to the U.S. on October 20, appeared in a federal court in the state of Ohio on Thursday to face charges for his alleged role as a member of the infamous TrickBot group.  Court documents showed that Vladimir Dunaev , 28, along with other members of the transnational, cybercriminal organization, stole money and confidential information from unsuspecting victims, including individuals, financial institutions, school districts, utility companies, government entities, and private businesses.   Starting its roots as a banking trojan in 2016, TrickBot has&nbsp; evolved &nbsp;into a modular, multi-stage Windows-based crimeware solution capable of pilfering valuable personal and financial information, and even dropping ransomware and post-exploitation toolkits on compromised devices. The malware is also&nbsp; notorious &nbsp;for its&nbsp; resilience , having survived at least two takedowns spearheaded by Microsoft and the U.S. Cyber Command
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

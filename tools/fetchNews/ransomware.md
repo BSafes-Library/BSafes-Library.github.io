@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos ransomware targets gamers via fake Minecraft alt lists<a href="https://www.bleepingcomputer.com/news/security/chaos-ransomware-targets-gamers-via-fake-minecraft-alt-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chaos Ransomware gang encrypts gamers' Windows devices through fake Minecraft alt lists promoted on gaming forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware now encrypts Linux and FreeBSD systems<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-now-encrypts-linux-and-freebsd-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang now also encrypts Linux and FreeBSD using new malware variants specifically developed to target these platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET found a variant of the Hive ransomware that encrypts Linux and FreeBSD<a href="https://securityaffairs.co/wordpress/123931/malware/hive-ransomware-linux-freebsd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware operators have developed a new variant of their malware that can encrypt Linux and FreeBSD.
+
+
+
+ESET researchers discovered a new Hive ransomware variant that was specifically developed to encrypt Linux and FreeBSD. Researchers at the cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

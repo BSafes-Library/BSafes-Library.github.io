@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE, CISA Announce 2021 List of Most Common Hardware Weaknesses<a href="https://www.securityweek.com/mitre-cisa-announce-2021-list-most-common-hardware-weaknesses?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE and the DHS’s Cybersecurity and Infrastructure Security Agency (CISA) have announced the release of the “2021 Common Weakness Enumeration (CWE) Most Important Hardware Weaknesses” list.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials on alert for cyber threats ahead of election day<a href="https://thehill.com//policy/cybersecurity/579488-officials-on-alert-for-threats-ahead-of-election-day"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials are on alert for threats to elections ahead of Election Day in states including Virginia on Tuesday, one year after a contentious 2020 presidential election.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Countries Team Up to Issue Video Teleconference Guidance<a href="https://www.inforisktoday.com/countries-team-up-to-issue-video-teleconference-guidance-a-17823?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The joint signatories who issued the guidance supported calls for industry-standard encryption as a minimum requirement and welcomed the development and implementation of end-to-end encryption.
+</details>
+<div style="text-align: right" markdown="1">
+Info Risk Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: None of NSW's lead cluster agencies have implemented all Essential Eight controls<a href="https://www.zdnet.com/article/none-of-nsws-lead-cluster-agencies-have-implemented-all-essential-8-controls-at-level-one/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity policy for New South Wales government agencies is not sufficiently robust which is a cause for "significant concern", according to the state's auditor-general Margaret Crawford.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
