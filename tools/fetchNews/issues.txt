@@ -30,9 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://securityaffairs.co/wordpress/123948/security/2021-list-of-most-common-hardware-weaknesses.html
-. https://www.securityweek.com/mitre-cisa-announce-2021-list-most-common-hardware-weaknesses?&web_view=true
-. https://www.bleepingcomputer.com/news/security/fbi-hellokitty-ransomware-adds-ddos-attacks-to-extortion-tactics/
  
 Law
 

@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2021 - MITRE, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE and CISA publish the 2021 list of most common hardware weaknesses <a href="https://securityaffairs.co/wordpress/123948/security/2021-list-of-most-common-hardware-weaknesses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2021 CWE™ Most Important Hardware Weaknesses is the first of its kind and the result of collaboration within the Hardware CWE Special Interest Group (SIG), a community forum for individuals representing organizations within hardware design, manufacturing, research, and security domains, as well as academia and government.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2021 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tactics, Techniques, and Indicators of Compromise Associated <a href="https://publications.bsafes.com/docs/fbi/flash-2021-1028-tactics-techniques-and-indicators-of-compromise-associated-with-hello-kitty-fivehands-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI first observed Hello Kitty/FiveHands ransomware in January 2021. Hello Kitty/FiveHands actors aggressively apply pressure to victims typically using the double extortion technique. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 25, 2021 - CISA, NSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
