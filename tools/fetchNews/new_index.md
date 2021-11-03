@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook deletes 1 billion faceprints in Face Recognition shutdown<a href="https://www.bleepingcomputer.com/news/technology/facebook-deletes-1-billion-faceprints-in-face-recognition-shutdown/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware’s New Variants Target Linux and FreeBSD Systems<a href="https://cyware.com/news/hive-ransomwares-new-variants-target-linux-and-freebsd-systems-ca33cb3d"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House passes bills to shore up small business cybersecurity<a href="https://thehill.com//policy/cybersecurity/579715-house-passes-bills-to-shore-up-small-business-cybersecurity"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert! Hackers Exploiting GitLab Unauthenticated RCE Flaw in the Wild<a href="https://thehackernews.com/2021/11/alert-hackers-exploiting-gitlab.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook is going to shut down Face Recognition system and data it collected<a href="https://securityaffairs.co/wordpress/124108/social-networks/facebook-face-recognition-shut-down.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 30,000 GitLab servers still unpatched against critical bug <a href="https://www.bleepingcomputer.com/news/security/over-30-000-gitlab-servers-still-unpatched-against-critical-bug/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA2722 Impersonates Philippine Government to Lure Victims<a href="https://cyware.com/news/ta2722-impersonates-philippine-government-to-lure-victims-20fbfa17"> Full Text</a>
@@ -151,7 +151,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Pay Hackers $31,337 for Exploiting Patched Linux Kernel Flaws<a href="https://thehackernews.com/2021/11/google-to-pay-hackers-31337-for.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs target companies involved in time-sensitive financial events, FBI warns<a href="https://securityaffairs.co/wordpress/124101/breaking-news/fbi-pin-ransomware-gangs-financial-events.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft announces new endpoint security solution for SMBs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-endpoint-security-solution-for-smbs/"> Full Text</a>
@@ -203,7 +203,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ATMs, Internal Network, and Mobile Apps Impacted by Destructive Attack at Pakistan’s State-owned Commercial Bank<a href="https://therecord.media/destructive-cyberattack-hits-national-bank-of-pakistan/?&web_view=true"> Full Text</a>
@@ -219,7 +219,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google triples bounty for new Linux Kernel exploitation techniques<a href="https://securityaffairs.co/wordpress/124094/hacking/google-bug-bounty-linux-kernel-exploits.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE shares list of most dangerous hardware weaknesses<a href="https://www.bleepingcomputer.com/news/security/mitre-shares-list-of-most-dangerous-hardware-weaknesses/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Thanos to Prometheus: When Ransomware Encryption Goes Wrong<a href="https://securityintelligence.com/posts/ransomware-encryption-goes-wrong/?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50% of internet-facing GitLab installations are still affected by a RCE flaw<a href="https://securityaffairs.co/wordpress/124088/hacking/gitlab-rce.html"> Full Text</a>
@@ -291,7 +291,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Ransomware targets companies during mergers and acquisitions<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-targets-companies-during-mergers-and-acquisitions/"> Full Text</a>
@@ -307,7 +307,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojan Source attack method allows hiding flaws in source code<a href="https://securityaffairs.co/wordpress/124081/hacking/trojan-source-attack.html"> Full Text</a>
@@ -327,7 +327,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android November patch fixes actively exploited kernel bug<a href="https://www.bleepingcomputer.com/news/security/android-november-patch-fixes-actively-exploited-kernel-bug/"> Full Text</a>
@@ -343,7 +343,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Toronto Transit Commission (TTC) hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/124066/malware/toronto-transit-commission-ransomware.html"> Full Text</a>
@@ -363,7 +363,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Office 365 Phishing Campaign Abuses Stolen Amazon SES Token<a href="https://threatpost.com/office-365-phishing-campaign-kasperskys-amazon-ses-token/175915/"> Full Text</a>
@@ -379,7 +379,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pirate Sports Streamer Gets Busted, Pivots to MLB Extortion<a href="https://threatpost.com/pirate-sports-streamer-mlb-extortion/175898/"> Full Text</a>
@@ -395,7 +395,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2021
+November 1, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Trojan Source’ Hides Invisible Bugs in Source Code<a href="https://threatpost.com/trojan-source-invisible-bugs-source-code/175891/"> Full Text</a>
@@ -411,7 +411,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2021
+November 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Trojan Source' attack method can hide bugs into open-source code<a href="https://www.bleepingcomputer.com/news/security/trojan-source-attack-method-can-hide-bugs-into-open-source-code/"> Full Text</a>
