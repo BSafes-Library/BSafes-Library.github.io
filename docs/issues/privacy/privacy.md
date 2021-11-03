@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook deletes 1 billion faceprints in Face Recognition shutdown<a href="https://www.bleepingcomputer.com/news/technology/facebook-deletes-1-billion-faceprints-in-face-recognition-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook announced today that they will no longer use the Face Recognition system on their platform and will be deleting over 1 billion people's facial recognition profiles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook is going to shut down Face Recognition system and data it collected<a href="https://securityaffairs.co/wordpress/124108/social-networks/facebook-face-recognition-shut-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook announced to shut down its Face Recognition system and is going to delete over 1 billion people's facial recognition profiles.
+
+
+
+Facebook announced it will stop using the Face Recognition system on its platform and will delete over 1 billion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

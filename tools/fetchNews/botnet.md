@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover 'Pink' Botnet Malware That Infected Over 1.6 Million Devices<a href="https://thehackernews.com/2021/11/researchers-uncover-pink-botnet-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers disclosed details of what they say is the "largest botnet" observed in the wild in the last six years, infecting over 1.6 million devices primarily located in China, with the goal of launching distributed denial-of-service (DDoS) attacks and inserting advertisements into HTTP websites visited by unsuspecting users.  Qihoo 360's Netlab security team dubbed the botnet " Pink " based on a sample obtained on November 21, 2019, owing to a large number of function names starting with "pink."   Mainly targeting MIPS-based fiber routers, the botnet leverages a combination of third-party services such as GitHub, peer-to-peer (P2P) networks, and central command-and-control (C2) servers for its bots to controller communications, not to mention completely encrypting the transmission channels to prevent the victimized devices from being taken over.  "Pink raced with the vendor to retain control over the infected devices, while vendor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pink Botnet infected over 1.6 Million Devices, it is one of the largest botnet ever seen<a href="https://securityaffairs.co/wordpress/124027/malware/pink-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers uncovered a huge botnet, tracked as Pink, that already infected over 1.6 million devices most of them located in China. 
+
+
+
+Qihoo 360's Netlab Cybersecurity researchers discovered a huge botnet, tracked as Pink, that already...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

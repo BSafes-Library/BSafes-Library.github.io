@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware’s New Variants Target Linux and FreeBSD Systems<a href="https://cyware.com/news/hive-ransomwares-new-variants-target-linux-and-freebsd-systems-ca33cb3d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET reported a new variant of the Hive ransomware that is targeting Linux and FreeBSD operating systems.&nbsp;W ritten in Go, the malware appears to be under development. Hive is known  to target processes related to backups and antivirus or anti-spyware and terminates them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Thanos to Prometheus: When Ransomware Encryption Goes Wrong<a href="https://securityintelligence.com/posts/ransomware-encryption-goes-wrong/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While rare, ransomware developers can make mistakes in implementing encryption, causing unintended flaws. Mistakes can occur when developers use patchwork code and lack appropriate expertise.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

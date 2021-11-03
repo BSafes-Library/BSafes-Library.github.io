@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky's stolen Amazon SES token used in Office 365 phishing<a href="https://www.bleepingcomputer.com/news/security/kasperskys-stolen-amazon-ses-token-used-in-office-365-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky said today that a legitimate Amazon Simple Email Service (SES) token issued to a third-party contractor was recently used by threat actors behind a spear-phishing campaign targeting Office 365 users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackShadow hackers breach Israeli hosting firm and extort customers<a href="https://www.bleepingcomputer.com/news/security/blackshadow-hackers-breach-israeli-hosting-firm-and-extort-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackShadow hacking group attacked the Israeli hosting provider Cyberserve to steal client databases and disrupt the company's services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

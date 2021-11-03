@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal now lets you report and block spam messages<a href="https://www.bleepingcomputer.com/news/security/signal-now-lets-you-report-and-block-spam-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal has added an easy way for users to report and block spam straight from message request screens with a single mouse click.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Introduces New Open-Source Data Privacy Protocol<a href="https://www.securityweek.com/google-introduces-new-open-source-data-privacy-protocol?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduced Private Set Membership (PSM), a cryptographic protocol that helps clients check whether a specific identifier is present in a list held by a server, in a privacy-preserving manner.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Office 365 Phishing Campaign Abuses Stolen Amazon SES Token<a href="https://threatpost.com/office-365-phishing-campaign-kasperskys-amazon-ses-token/175915/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stolen access token leveraged in phishing campaign that spoofs brand name email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

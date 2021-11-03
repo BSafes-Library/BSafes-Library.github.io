@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pirate Sports Streamer Gets Busted, Pivots to MLB Extortion<a href="https://threatpost.com/pirate-sports-streamer-mlb-extortion/175898/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged sports content pirate is accused of not only hijacking leagues’ streams but also threatening to tell reporters how he accessed their systems. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

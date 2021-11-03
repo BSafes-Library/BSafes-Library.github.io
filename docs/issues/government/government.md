@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bills to shore up small business cybersecurity<a href="https://thehill.com//policy/cybersecurity/579715-house-passes-bills-to-shore-up-small-business-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Tuesday approved two bills to strengthen the cybersecurity of small businesses, which have faced escalating threats during the COVID-19 pandemic.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware targets companies during mergers and acquisitions<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-targets-companies-during-mergers-and-acquisitions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns that ransomware gangs are targeting companies involved in "time-sensitive financial&nbsp;events" such as&nbsp;corporate mergers and acquisitions to make it easier to extort their victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
