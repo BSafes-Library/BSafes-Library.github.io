@@ -30,8 +30,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://securityaffairs.co/wordpress/124101/breaking-news/fbi-pin-ransomware-gangs-financial-events.html
-. https://www.bleepingcomputer.com/news/security/fbi-ransomware-targets-companies-during-mergers-and-acquisitions/
  
 Law
 
