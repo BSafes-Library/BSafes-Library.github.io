@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA2722 Impersonates Philippine Government to Lure Victims<a href="https://cyware.com/news/ta2722-impersonates-philippine-government-to-lure-victims-20fbfa17"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Balikbayan Foxes, aka TA2722, a new highly sophisticated threat actor, found targeting organizations globally by impersonating the Philippines government and businesses. All the campaigns were found distributing Remcos or NanoCore RATs. Security professionals and organizations are recommended to tr ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay Hackers $31,337 for Exploiting Patched Linux Kernel Flaws<a href="https://thehackernews.com/2021/11/google-to-pay-hackers-31337-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced that it will pay security researchers to find exploits using vulnerabilities, previously remediated or otherwise, over the next three months as part of a new bug bounty program to improve the security of the Linux kernel.  To that end, the company is expected to issue rewards worth $31,337 for exploiting privilege escalation in a lab environment for each patched vulnerability, an amount that can climb up to $50,337 for working exploits that take advantage of zero-day flaws in the kernel and other undocumented attack techniques.   Specifically, the program aims to uncover attacks that could be launched against Kubernetes-based infrastructure to defeat process isolation barriers (via NSJail) and break out of the sandbox to leak secret information.   The program is expected to last until January 31, 2022.  "It is important to note, that the easiest exploitation primitives are not available in our lab environment due to the hardening done on&nbsp; Container-Opti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

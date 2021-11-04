@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blacklisting of NSO Group shakes up spyware debate<a href="https://thehill.com//policy/cybersecurity/579987-blacklisting-of-nso-group-shakes-up-spyware-debate"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook to Shut Down Facial Recognition System and Delete Billions of Records<a href="https://thehackernews.com/2021/11/facebook-to-shut-down-facial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's&nbsp; newly-rebranded &nbsp;parent company Meta on Tuesday announced plans to discontinue its decade-old "Face Recognition" system and delete a massive trove of more than a billion users' facial recognition templates as part of a wider initiative to limit the use of the technology across its products.  The Menlo Park tech giant&nbsp; described &nbsp;the about-face as "one of the largest shifts in facial recognition usage in the technology's history."  The shutdown, which is expected to take place over the coming weeks, will mean users who have previously opted into the setting will no longer be automatically recognized in Memories, photos and videos or see suggested tags with their name in photos and videos they may appear in. Furthermore, the company's Automatic Alt Text (AAT) tool, which creates image descriptions for visually impaired people, will no longer include the names of people identified in photos.   Facebook's discontinuing of the program com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

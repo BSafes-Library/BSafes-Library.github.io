@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blacklisting of NSO Group shakes up spyware debate<a href="https://thehill.com//policy/cybersecurity/579987-blacklisting-of-nso-group-shakes-up-spyware-debate"> Full Text</a>
@@ -50,7 +50,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged Twitter hacker charged with theft of $784K in crypto via SIM swaps<a href="https://www.bleepingcomputer.com/news/security/alleged-twitter-hacker-charged-with-theft-of-784k-in-crypto-via-sim-swaps/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warning: HelloKitty Adds DDoS for Quick Extortion<a href="https://cyware.com/news/fbi-warning-hellokitty-adds-ddos-for-quick-extortion-025a24fe"> Full Text</a>
@@ -83,7 +83,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top cyber official reports 'decrease' in Russian cyberattacks against US groups<a href="https://thehill.com//policy/cybersecurity/579909-top-cyber-official-sees-decrease-in-russian-cyberattacks-against-us"> Full Text</a>
@@ -99,7 +99,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter Ransomware Reportedly Shutting Down; Latest Analysis Released<a href="https://thehackernews.com/2021/11/blackmatter-ransomware-reportedly.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The U.K. Labour Party discloses a data breach<a href="https://securityaffairs.co/wordpress/124162/cyber-crime/labour-party-data-breach.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Predicting the Next OWASP API Security Top 10<a href="https://threatpost.com/owasp-api-security-top-10/175961/"> Full Text</a>
@@ -151,7 +151,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Free Discord Nitro phishing targets Steam gamers<a href="https://www.bleepingcomputer.com/news/security/beware-free-discord-nitro-phishing-targets-steam-gamers/"> Full Text</a>
@@ -167,7 +167,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Exploiting Google Chrome on Windows 10 for UAC Bypass<a href="https://cyware.com/news/attackers-exploiting-google-chrome-on-windows-10-for-uac-bypass-5ee58e6e"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Commerce Department blacklists four groups linked to cyber surveillance operations<a href="https://thehill.com//policy/cybersecurity/579825-commerce-department-blacklists-four-groups-linked-to-cyber-surveillance"> Full Text</a>
@@ -199,7 +199,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Product Overview - Cynet Centralized Log Management<a href="https://thehackernews.com/2021/11/product-overview-cynet-centralized-log.html"> Full Text</a>
@@ -215,7 +215,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Defense Magazine – November 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/124156/breaking-news/cyber-defense-magazine-nov-2021.html"> Full Text</a>
@@ -235,7 +235,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Labour Party discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/uk-labour-party-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -251,7 +251,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chaos Ransomware Targeting Minecraft Gamers in Japan<a href="https://cyware.com/news/chaos-ransomware-targeting-minecraft-gamers-in-japan-6ec628e2"> Full Text</a>
@@ -267,7 +267,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal agencies ordered to patch hundreds of vulnerabilities<a href="https://thehill.com//policy/cybersecurity/579801-federal-agencies-ordered-to-patch-hundreds-of-vulnerabilities"> Full Text</a>
@@ -283,7 +283,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mekotio Banking Trojan Resurfaces with New Attacking and Stealth Techniques<a href="https://thehackernews.com/2021/11/mekotio-banking-trojan-resurfaces-with.html"> Full Text</a>
@@ -299,7 +299,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSO Group, Positive Technologies and other firms sanctioned by the US government<a href="https://securityaffairs.co/wordpress/124148/laws-and-regulations/us-santioned-nso-group-spyware-hacking-tools.html"> Full Text</a>
@@ -319,7 +319,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware moves victims to LockBit after shutdown<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-moves-victims-to-lockbit-after-shutdown/"> Full Text</a>
@@ -335,7 +335,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Ransomware Operations Continue to Evolve<a href="https://www.govinfosecurity.com/7-trends-how-ransomware-operations-continue-to-evolve-a-17841?&web_view=true"> Full Text</a>
@@ -351,7 +351,7 @@ Gov Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook to Shut Down Facial Recognition System and Delete Billions of Records<a href="https://thehackernews.com/2021/11/facebook-to-shut-down-facial.html"> Full Text</a>
@@ -367,7 +367,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime underground flooded with offers for initial access to shipping and logistics orgs<a href="https://securityaffairs.co/wordpress/124141/deep-web/cybercrime-initial-access-shipping-orgs.html"> Full Text</a>
@@ -387,7 +387,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthier version of Mekotio banking trojan spotted in the wild<a href="https://www.bleepingcomputer.com/news/security/stealthier-version-of-mekotio-banking-trojan-spotted-in-the-wild/"> Full Text</a>
@@ -403,7 +403,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Confidential Computing Consortium unveils Gramine 1.0 to protect sensitive datasets at all stages<a href="https://www.helpnetsecurity.com/2021/11/03/confidential-computing-consortium-gramine-1-0/?&web_view=true"> Full Text</a>
@@ -419,7 +419,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware gang is shutting down due to pressure from law enforcement<a href="https://securityaffairs.co/wordpress/124135/cyber-crime/blackmatter-ransomware-shutting-down-operations.html"> Full Text</a>
@@ -443,7 +443,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctions NSO Group and three others for spyware and exploit sales<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-nso-group-and-three-others-for-spyware-and-exploit-sales/"> Full Text</a>
@@ -459,7 +459,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla fixes security vulnerabilities in Firefox 94<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/11/update-now-mozilla-fixes-security-vulnerabilities-in-firefox-94/?&web_view=true"> Full Text</a>
@@ -475,7 +475,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes actively exploited Zero-Day Kernel flaw in Android<a href="https://securityaffairs.co/wordpress/124113/security/android-zero-day-kernel.html"> Full Text</a>
@@ -495,7 +495,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mobile phishing attacks targeting energy sector surge by 161%<a href="https://www.bleepingcomputer.com/news/security/mobile-phishing-attacks-targeting-energy-sector-surge-by-161-percent/"> Full Text</a>
@@ -511,7 +511,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft to release 'Defender for Business' platform<a href="https://www.zdnet.com/article/microsoft-to-release-defender-for-business-platform/?&web_view=true"> Full Text</a>
@@ -527,7 +527,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sonos, HP, and Canon devices hacked at Pwn2Own Austin 2021<a href="https://www.bleepingcomputer.com/news/security/sonos-hp-and-canon-devices-hacked-at-pwn2own-austin-2021/"> Full Text</a>
@@ -543,7 +543,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA promotes election cybersecurity platform debunking misinformation<a href="https://www.zdnet.com/article/cisa-promotes-election-cybersecurity-platform-debunking-misinformation/?&web_view=true"> Full Text</a>
@@ -559,7 +559,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal agencies to fix hundreds of exploited security flaws<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-fix-hundreds-of-exploited-security-flaws/"> Full Text</a>
@@ -575,7 +575,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter ransomware claims to be shutting down due to police pressure<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-claims-to-be-shutting-down-due-to-police-pressure/"> Full Text</a>
@@ -591,7 +591,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gangs Target Corporate Financial Activities<a href="https://threatpost.com/ransomware-corporate-financial/175940/"> Full Text</a>
@@ -607,7 +607,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Patches Actively Exploited Zero-Day Kernel Bug<a href="https://threatpost.com/android-patches-exploited-kernel-bug/175931/"> Full Text</a>
@@ -623,7 +623,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2021
+November 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple macOS Flaw Allows Kernel-Level Compromise<a href="https://threatpost.com/apple-macos-flaw-kernel-compromise/175927/"> Full Text</a>
@@ -639,7 +639,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2021
+November 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Warns of New Android 0-Day Vulnerability Under Active Targeted Attacks<a href="https://thehackernews.com/2021/11/google-warns-of-new-android-0-day.html"> Full Text</a>

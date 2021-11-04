@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Hackers Exploiting GitLab Unauthenticated RCE Flaw in the Wild<a href="https://thehackernews.com/2021/11/alert-hackers-exploiting-gitlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched critical remote code execution (RCE) vulnerability in GitLab's web interface has been detected as actively exploited in the wild, cybersecurity researchers warn, rendering a large number of internet-facing GitLab instances susceptible to attacks.  Tracked as&nbsp; CVE-2021-22205 , the issue relates to an improper validation of user-provided images that results in arbitrary code execution. The vulnerability, which affects all versions starting from 11.9, has since been&nbsp; addressed &nbsp;by GitLab on April 14, 2021 in versions 13.8.8, 13.9.6, and 13.10.3.   In one of the real-world attacks&nbsp; detailed &nbsp;by HN Security last month, two user accounts with admin privileges were registered on a publicly-accessible GitLab server belonging to an unnamed customer by exploiting the aforementioned flaw to upload a malicious payload that leads to remote execution of arbitrary commands, including obtaining elevated permissions.   Although the flaw was initially deemed to be a case of authentica
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30,000 GitLab servers still unpatched against critical bug <a href="https://www.bleepingcomputer.com/news/security/over-30-000-gitlab-servers-still-unpatched-against-critical-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical unauthenticated, remote code execution GitLab flaw fixed on April 14, 2021, remains exploitable, with over 50% of deployments remaining unpatched.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google triples bounty for new Linux Kernel exploitation techniques<a href="https://securityaffairs.co/wordpress/124094/hacking/google-bug-bounty-linux-kernel-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is going to increase the bounty for finding and exploiting privilege escalation vulnerabilities in the Linux kernel.
+
+
+
+Good news for white hat hackers, Google is going to increase the bounty for demonstrating privilege escalation vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of internet-facing GitLab installations are still affected by a RCE flaw<a href="https://securityaffairs.co/wordpress/124088/hacking/gitlab-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a now-fixed critical remote code execution (RCE) vulnerability in GitLab 's web interface actively exploited in the wild.
+
+
+
+Cybersecurity researchers warn of a now-patched critical remote code execution (RCE) vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android November patch fixes actively exploited kernel bug<a href="https://www.bleepingcomputer.com/news/security/android-november-patch-fixes-actively-exploited-kernel-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the Android November 2021 security updates, which address 18 vulnerabilities in the framework and system components, and 18 more flaws in the kernel and vendor components.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Trojan Source' attack method can hide bugs into open-source code<a href="https://www.bleepingcomputer.com/news/security/trojan-source-attack-method-can-hide-bugs-into-open-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers have released details about a new attack method they call "Trojan Source" that allows injecting vulnerabilities into the source code of a software project in a way that human reviewers can't detect.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

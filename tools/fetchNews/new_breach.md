@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.K. Labour Party discloses a data breach<a href="https://securityaffairs.co/wordpress/124162/cyber-crime/labour-party-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. Labour Party discloses a data breach after a ransomware attack hit a service provider that is managing its data. 
+
+
+
+The U.K. Labour Party discloses a data breach after a service provider that manages its data was hit by a ransomware attack....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Labour Party discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/uk-labour-party-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK&nbsp;Labour Party notified&nbsp;members that some of their information was impacted in a data breach after a ransomware attack&nbsp;hit a third-party organization that was managing the party's data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

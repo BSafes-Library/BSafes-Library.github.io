@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE shares list of most dangerous hardware weaknesses<a href="https://www.bleepingcomputer.com/news/security/mitre-shares-list-of-most-dangerous-hardware-weaknesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE&nbsp;shared a list of the topmost&nbsp;dangerous programming, design, and architecture security flaws plaguing hardware this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

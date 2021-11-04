@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Free Discord Nitro phishing targets Steam gamers<a href="https://www.bleepingcomputer.com/news/security/beware-free-discord-nitro-phishing-targets-steam-gamers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A new Steam&nbsp;phishing promoted via Discord messages promises a free Nitro subscription if a user links their Steam account, which the hackers then use to steal game items or promote other scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

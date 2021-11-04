@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ATMs, Internal Network, and Mobile Apps Impacted by Destructive Attack at Pakistan’s State-owned Commercial Bank<a href="https://therecord.media/destructive-cyberattack-hits-national-bank-of-pakistan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident impacted the bank’s backend systems and affected servers used to interlink the bank’s branches, the backend infrastructure controlling the bank’s ATM network, and the bank’s mobile apps.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Toronto Transit Commission (TTC) hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/124066/malware/toronto-transit-commission-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the systems at the Toronto Transit Commission public transportation agency and disrupted its operations.
+
+
+
+The Toronto Transit Commission&nbsp;announced on Friday that its systems have been infected with ransomware, the attack began...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

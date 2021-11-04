@@ -8,6 +8,60 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime underground flooded with offers for initial access to shipping and logistics orgs<a href="https://securityaffairs.co/wordpress/124141/deep-web/cybercrime-initial-access-shipping-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of the availability in the cybercrime underground of offers for initial access to networks of players in global supply chains.
+
+
+
+Researchers from threat intelligence firm Intel 471 published an&nbsp;analysis&nbsp;of current cybercrime underground...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware gang is shutting down due to pressure from law enforcement<a href="https://securityaffairs.co/wordpress/124135/cyber-crime/blackmatter-ransomware-shutting-down-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackMatter ransomware gang announced it is going to shut down its operation due to pressure from law enforcement.
+
+
+
+The BlackMatter ransomware group has announced it is shutting down its operation due to the pressure from local authorities.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Target Corporate Financial Activities<a href="https://threatpost.com/ransomware-corporate-financial/175940/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning about a fresh extortion tactic: threatening to tank share prices for publicly held companies.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,627 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blacklisting of NSO Group shakes up spyware debate<a href="https://thehill.com//policy/cybersecurity/579987-blacklisting-of-nso-group-shakes-up-spyware-debate"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Twitter hacker charged with theft of $784K in crypto via SIM swaps<a href="https://www.bleepingcomputer.com/news/security/alleged-twitter-hacker-charged-with-theft-of-784k-in-crypto-via-sim-swaps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has indicted a suspected Twitter hacker known as 'PlugWalkJoe' for also stealing $784,000 worth of cryptocurrency using SIM swap attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: HelloKitty Adds DDoS for Quick Extortion<a href="https://cyware.com/news/fbi-warning-hellokitty-adds-ddos-for-quick-extortion-025a24fe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a flash alert warning against the HelloKitty ransomware group who recently started threatening victims with DDoS attacks.&nbsp; The group's ransom demands fluctuate for each victim and are based on their ability to pay. O rganizations should apply recommended mitigations at the e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top cyber official reports 'decrease' in Russian cyberattacks against US groups<a href="https://thehill.com//policy/cybersecurity/579909-top-cyber-official-sees-decrease-in-russian-cyberattacks-against-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House National Cyber Director Chris Inglis testified on Capitol Hill Wednesday that there had been a “decrease” in the number of cyberattacks against U.S. companies traced back to Russia, but stressed that the reason was not clear.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware Reportedly Shutting Down; Latest Analysis Released<a href="https://thehackernews.com/2021/11/blackmatter-ransomware-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of new samples of BlackMatter ransomware for Windows and Linux has revealed the extent to which the operators have continually added new features and encryption capabilities in successive iterations over a three-month period.  No fewer than 10 Windows and two Linux versions of the ransomware have been observed in the wild to date, Group-IB threat researcher Andrei Zhdanov said in a report  shared with The Hacker News, pointing out the changes in the implementation of the  ChaCha20 encryption  algorithm used to encrypt the contents of the files.  BlackMatter  emerged  in July 2021 boasting of  incorporating  the "best features of DarkSide, REvil, and LockBit" and is considered the successor to DarkSide, which has since shut down alongside REvil in the wake of law enforcement scrutiny. Operating as a ransomware-as-a-service (RaaS) model, the BlackMatter is believed to have hit more than 50 companies in the U.S., Austria, Italy, France, Brazil, among others.   What&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.K. Labour Party discloses a data breach<a href="https://securityaffairs.co/wordpress/124162/cyber-crime/labour-party-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. Labour Party discloses a data breach after a ransomware attack hit a service provider that is managing its data. 
+
+
+
+The U.K. Labour Party discloses a data breach after a service provider that manages its data was hit by a ransomware attack....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predicting the Next OWASP API Security Top 10<a href="https://threatpost.com/owasp-api-security-top-10/175961/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+API security risk has dramatically evolved in the last two years. Jason Kent, Hacker-in-Residence at Cequence Security, discusses the top API security concerns today and how to address them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Free Discord Nitro phishing targets Steam gamers<a href="https://www.bleepingcomputer.com/news/security/beware-free-discord-nitro-phishing-targets-steam-gamers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A new Steam phishing promoted via Discord messages promises a free Nitro subscription if a user links their Steam account, which the hackers then use to steal game items or promote other scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploiting Google Chrome on Windows 10 for UAC Bypass<a href="https://cyware.com/news/attackers-exploiting-google-chrome-on-windows-10-for-uac-bypass-5ee58e6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 unearthed a malicious campaign &nbsp;targeting Windows 10 running on Chrome browsers. The objective of the campaign is to obtain sensitive data and steal cryptocurrency from the infected systems. Experts recommend avoiding visiting unknown sites and clicking on suspicious links.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce Department blacklists four groups linked to cyber surveillance operations<a href="https://thehill.com//policy/cybersecurity/579825-commerce-department-blacklists-four-groups-linked-to-cyber-surveillance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department on Wednesday added four organizations linked to cyber surveillance operations, including the Israeli company NSO Group, to its “entity list,” effectively blacklisting them. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Overview - Cynet Centralized Log Management<a href="https://thehackernews.com/2021/11/product-overview-cynet-centralized-log.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For most organizations today, the logs produced by their security tools and environments provide a mixed bag. On the one hand, they can be a trove of valuable data on security breaches, vulnerabilities, attack patterns, and general security insights.  On the other, organizations don't have the right means to manage the massive scale of logs and data produced to derive any value from it.   Log management can quickly become a sore point, and either be forgotten or improperly managed if done manually.  In turn, this reduces data transparency and leaves organizations more exposed to vulnerabilities that could have been detected. A new centralized log management module (CLM) introduced by XDR provider Cynet ( learn more here ) could help organizations lighten that load and enhance organizations' visibility into their valuable log data.   Instead of manually handling the collection, storage, and parsing of data, organizations can use CLM to enhance their log analysis, better understand thei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – November 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/124156/breaking-news/cyber-defense-magazine-nov-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine September 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with 155 pages of excellent content.   
+
+
+
+The Cyber Defense eMagazine for November 2021 We've, all of us, been through two trying years with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Labour Party discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/uk-labour-party-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Labour Party notified members that some of their information was impacted in a data breach after a ransomware attack hit a third-party organization that was managing the party's data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Ransomware Targeting Minecraft Gamers in Japan<a href="https://cyware.com/news/chaos-ransomware-targeting-minecraft-gamers-in-japan-6ec628e2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs found a Chaos ransomware variant being circulated on Japanese Minecraft forums. While this variant encrypts certain files, it completely destroys some. Gamers are recommended to stay alert while being offered such commodities on gaming forums.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies ordered to patch hundreds of vulnerabilities<a href="https://thehill.com//policy/cybersecurity/579801-federal-agencies-ordered-to-patch-hundreds-of-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday ordered all federal agencies to immediately begin work on patching hundreds of cyber vulnerabilities, warning that malicious actors are continuing to target U.S. critical infrastructure. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mekotio Banking Trojan Resurfaces with New Attacking and Stealth Techniques<a href="https://thehackernews.com/2021/11/mekotio-banking-trojan-resurfaces-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the Mekotio banking trojan have resurfaced with a shift in its infection flow so as to stay under the radar and evade security software, while staging nearly 100 attacks over the last three months.  "One of the main characteristics […] is the modular attack which gives the attackers the ability to change only a small part of the whole in order to avoid detection," researchers from Check Point Research said in a report shared with The Hacker News. The latest wave of attacks are said to primarily target victims located in Brazil, Chile, Mexico, Peru, and Spain.  The development comes after Spanish law enforcement agencies in July 2021  arrested  16 individuals belonging to a criminal network in connection with operating Mekotio and another banking malware called Grandoreiro as part of a social engineering campaign targeting financial institutions in Europe.   The evolved version of the Mekotio malware strain is designed for compromising Windows systems wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group, Positive Technologies and other firms sanctioned by the US government<a href="https://securityaffairs.co/wordpress/124148/laws-and-regulations/us-santioned-nso-group-spyware-hacking-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. sanctioned four companies for the development of surveillance malware or the sale of hacking tools used by nation-state actors, including NSO Group. 
+
+
+
+The Commerce Department's Bureau of Industry and Security (BIS) has sanctioned four companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware moves victims to LockBit after shutdown<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-moves-victims-to-lockbit-after-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the BlackMatter ransomware operation shutting down, existing affiliates are moving their victims to the competing LockBit ransomware site for continued extortion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Ransomware Operations Continue to Evolve<a href="https://www.govinfosecurity.com/7-trends-how-ransomware-operations-continue-to-evolve-a-17841?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware threats continue to be many criminals' weapon of choice for reliably shaking down victims small, medium, and large, in pursuit of a safe, easy and reliable payday.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook to Shut Down Facial Recognition System and Delete Billions of Records<a href="https://thehackernews.com/2021/11/facebook-to-shut-down-facial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's  newly-rebranded  parent company Meta on Tuesday announced plans to discontinue its decade-old "Face Recognition" system and delete a massive trove of more than a billion users' facial recognition templates as part of a wider initiative to limit the use of the technology across its products.  The Menlo Park tech giant  described  the about-face as "one of the largest shifts in facial recognition usage in the technology's history."  The shutdown, which is expected to take place over the coming weeks, will mean users who have previously opted into the setting will no longer be automatically recognized in Memories, photos and videos or see suggested tags with their name in photos and videos they may appear in. Furthermore, the company's Automatic Alt Text (AAT) tool, which creates image descriptions for visually impaired people, will no longer include the names of people identified in photos.   Facebook's discontinuing of the program com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime underground flooded with offers for initial access to shipping and logistics orgs<a href="https://securityaffairs.co/wordpress/124141/deep-web/cybercrime-initial-access-shipping-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of the availability in the cybercrime underground of offers for initial access to networks of players in global supply chains.
+
+
+
+Researchers from threat intelligence firm Intel 471 published an analysis of current cybercrime underground...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthier version of Mekotio banking trojan spotted in the wild<a href="https://www.bleepingcomputer.com/news/security/stealthier-version-of-mekotio-banking-trojan-spotted-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of a banking trojan known as Mekotio is being deployed in the wild, with malware analysts reporting that it's using a new, stealthier infection flow.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confidential Computing Consortium unveils Gramine 1.0 to protect sensitive datasets at all stages<a href="https://www.helpnetsecurity.com/2021/11/03/confidential-computing-consortium-gramine-1-0/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Confidential Computing Consortium’s new Gramine Project is introducing its production-ready version – Gramine 1.0 – to enable the protection of sensitive workloads with Intel SGX.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware gang is shutting down due to pressure from law enforcement<a href="https://securityaffairs.co/wordpress/124135/cyber-crime/blackmatter-ransomware-shutting-down-operations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackMatter ransomware gang announced it is going to shut down its operation due to pressure from law enforcement.
+
+
+
+The BlackMatter ransomware group has announced it is shutting down its operation due to the pressure from local authorities.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions NSO Group and three others for spyware and exploit sales<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-nso-group-and-three-others-for-spyware-and-exploit-sales/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. has sanctioned four companies located in Israel, Russia, and Singapore for the development of spyware or the sale of hacking tools used by state-sponsored hacking groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes security vulnerabilities in Firefox 94<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/11/update-now-mozilla-fixes-security-vulnerabilities-in-firefox-94/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a security advisory, Mozilla’s announced that several security issues in its Firefox browser have been fixed. Several of these vulnerabilities were listed as having a high impact.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes actively exploited Zero-Day Kernel flaw in Android<a href="https://securityaffairs.co/wordpress/124113/security/android-zero-day-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android November 2021 security updates address a zero-day vulnerability in the Kernel that is actively exploited in the wild. 
+
+
+
+Google’s Android November 2021  security updates addressed 18 vulnerabilities in the framework and system components...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile phishing attacks targeting energy sector surge by 161%<a href="https://www.bleepingcomputer.com/news/security/mobile-phishing-attacks-targeting-energy-sector-surge-by-161-percent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile phishing attacks targeting employees in the energy industry have risen by 161% compared to last year's (H2 2020) data, and the trend is showing no signs of slowing down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to release 'Defender for Business' platform<a href="https://www.zdnet.com/article/microsoft-to-release-defender-for-business-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft 365's Jon Maunder said its "specially built to bring enterprise-grade endpoint security to businesses with up to 300 employees, in a solution that is easy-to-use and cost-effective."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonos, HP, and Canon devices hacked at Pwn2Own Austin 2021<a href="https://www.bleepingcomputer.com/news/security/sonos-hp-and-canon-devices-hacked-at-pwn2own-austin-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first day of Pwn2Own Austin 2021, contestants won $362,500 after exploiting previously unknown security flaws to hack printers, routers, NAS devices, and speakers from Canon, HP, Western Digital, Cisco, Sonos, TP-Link, and NETGEAR.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA promotes election cybersecurity platform debunking misinformation<a href="https://www.zdnet.com/article/cisa-promotes-election-cybersecurity-platform-debunking-misinformation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity body reiterated that there is "no specific, credible threat to election infrastructure" but noted that they are "ready to provide cyber incident response and expertise if needed."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to fix hundreds of exploited security flaws<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-fix-hundreds-of-exploited-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has issued this year's first binding operational directive (BOD) ordering federal civilian agencies to mitigate security vulnerabilities exploited in the wild within an aggressive timeline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware claims to be shutting down due to police pressure<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-claims-to-be-shutting-down-due-to-police-pressure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackMatter ransomware is allegedly shutting down its operation due to pressure from the authorities and recent law enforcement operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Target Corporate Financial Activities<a href="https://threatpost.com/ransomware-corporate-financial/175940/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning about a fresh extortion tactic: threatening to tank share prices for publicly held companies.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Patches Actively Exploited Zero-Day Kernel Bug<a href="https://threatpost.com/android-patches-exploited-kernel-bug/175931/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android November 2021 security updates plug 18 flaws in the framework and system components and 18 more in the kernel and vendor components.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple macOS Flaw Allows Kernel-Level Compromise<a href="https://threatpost.com/apple-macos-flaw-kernel-compromise/175927/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+‘Shrootless’ allows bypass of System Integrity Protection IT security measures to install a malicious rootkit that goes undetected and performs arbitrary device operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns of New Android 0-Day Vulnerability Under Active Targeted Attacks<a href="https://thehackernews.com/2021/11/google-warns-of-new-android-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out its monthly security patches for Android with fixes for 39 flaws, including a zero-day vulnerability that it said is being actively exploited in the wild in limited, targeted attacks.  Tracked as CVE-2021-1048 , the zero-day bug is described as a  use-after-free vulnerability  in the kernel that can be exploited for local privilege escalation. Use-after-free issues are dangerous as it could enable a threat actor to access or referencing memory after it has been freed, leading to a " write-what-where " condition that results in the execution of arbitrary code to gain control over a victim's system.   "There are indications that CVE-2021-1048 may be under limited, targeted exploitation," the company  noted  in its November advisory without revealing technical details of the vulnerability, the nature of the intrusions, and the identities of the attackers that may have abused the flaw.  Also remediated in the security patch are two critical re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 02, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predicting the Next OWASP API Security Top 10<a href="https://threatpost.com/owasp-api-security-top-10/175961/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+API security risk has dramatically evolved in the last two years. Jason Kent, Hacker-in-Residence at Cequence Security, discusses the top API security concerns today and how to address them.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Defense Magazine – November 2021 has arrived. Enjoy it!<a href="https://securityaffairs.co/wordpress/124156/breaking-news/cyber-defense-magazine-nov-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Defense Magazine September 2021 Edition has arrived. We hope you enjoy this month’s edition…packed with 155 pages of excellent content.   
+
+
+
+The Cyber Defense eMagazine for November 2021&nbsp;We've, all of us, been through two trying years&nbsp;with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile phishing attacks targeting energy sector surge by 161%<a href="https://www.bleepingcomputer.com/news/security/mobile-phishing-attacks-targeting-energy-sector-surge-by-161-percent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile phishing attacks targeting employees in the energy industry have risen by 161% compared to last year's (H2 2020) data, and the trend is showing no signs of slowing down.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

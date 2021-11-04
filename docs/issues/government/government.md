@@ -8,6 +8,95 @@ nav_order: 900075
 
 ## Government
 ---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: HelloKitty Adds DDoS for Quick Extortion<a href="https://cyware.com/news/fbi-warning-hellokitty-adds-ddos-for-quick-extortion-025a24fe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a flash alert warning against the HelloKitty ransomware group who recently started threatening victims with DDoS attacks.&nbsp; The group's ransom demands fluctuate for each victim and are based on their ability to pay. O rganizations should apply recommended mitigations at the e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top cyber official reports 'decrease' in Russian cyberattacks against US groups<a href="https://thehill.com//policy/cybersecurity/579909-top-cyber-official-sees-decrease-in-russian-cyberattacks-against-us"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White House National Cyber Director Chris Inglis testified on Capitol Hill&nbsp;Wednesday that there had been a “decrease” in the number of cyberattacks against U.S. companies traced back to Russia, but stressed that the reason was not clear.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group, Positive Technologies and other firms sanctioned by the US government<a href="https://securityaffairs.co/wordpress/124148/laws-and-regulations/us-santioned-nso-group-spyware-hacking-tools.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. sanctioned four companies for the development of surveillance malware or the sale of hacking tools used by nation-state actors, including NSO Group. 
+
+
+
+The Commerce Department's Bureau of Industry and Security (BIS) has sanctioned four companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions NSO Group and three others for spyware and exploit sales<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-nso-group-and-three-others-for-spyware-and-exploit-sales/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. has sanctioned four companies located in Israel, Russia, and Singapore for the development of spyware or the sale of hacking tools used by state-sponsored hacking groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA promotes election cybersecurity platform debunking misinformation<a href="https://www.zdnet.com/article/cisa-promotes-election-cybersecurity-platform-debunking-misinformation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity body reiterated that there is "no specific, credible threat to election infrastructure" but noted that they are "ready to provide cyber incident response and expertise if needed."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to fix hundreds of exploited security flaws<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-fix-hundreds-of-exploited-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA&nbsp;has issued this year's first binding operational directive (BOD) ordering federal civilian agencies to mitigate security vulnerabilities&nbsp;exploited in the wild within an aggressive timeline.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

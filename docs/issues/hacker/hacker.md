@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploiting Google Chrome on Windows 10 for UAC Bypass<a href="https://cyware.com/news/attackers-exploiting-google-chrome-on-windows-10-for-uac-bypass-5ee58e6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 unearthed a malicious campaign &nbsp;targeting Windows 10 running on Chrome browsers. The objective of the campaign is to obtain sensitive data and steal cryptocurrency from the infected systems. Experts recommend avoiding visiting unknown sites and clicking on suspicious links.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce Department blacklists four groups linked to cyber surveillance operations<a href="https://thehill.com//policy/cybersecurity/579825-commerce-department-blacklists-four-groups-linked-to-cyber-surveillance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department on Wednesday added four organizations linked to cyber surveillance operations, including the Israeli company NSO Group, to its “entity list,” effectively blacklisting&nbsp;them.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sonos, HP, and Canon devices hacked at Pwn2Own Austin 2021<a href="https://www.bleepingcomputer.com/news/security/sonos-hp-and-canon-devices-hacked-at-pwn2own-austin-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first day of Pwn2Own Austin 2021, contestants won $362,500 after exploiting previously unknown security flaws to&nbsp;hack printers, routers, NAS devices, and speakers&nbsp;from Canon, HP, Western Digital, Cisco, Sonos, TP-Link, and NETGEAR.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

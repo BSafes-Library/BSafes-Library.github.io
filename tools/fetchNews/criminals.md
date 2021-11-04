@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs target companies involved in time-sensitive financial events, FBI warns<a href="https://securityaffairs.co/wordpress/124101/breaking-news/fbi-pin-ransomware-gangs-financial-events.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of ransomware attacks on businesses involved in "time-sensitive financial events" such as&nbsp;corporate mergers and acquisitions. 
+
+
+
+The Federal Bureau of Investigation (FBI) published a new private industry notification (PIN) to warn organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
