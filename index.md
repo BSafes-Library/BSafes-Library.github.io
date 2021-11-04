@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 November 03, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Blacklisting of NSO Group shakes up spyware debate<a href="https://thehill.com//policy/cybersecurity/579987-blacklisting-of-nso-group-shakes-up-spyware-debate"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Alleged Twitter hacker charged with theft of $784K in crypto via SIM swaps<a href="https://www.bleepingcomputer.com/news/security/alleged-twitter-hacker-charged-with-theft-of-784k-in-crypto-via-sim-swaps/"> Full Text</a>
 </p>
 <details>
