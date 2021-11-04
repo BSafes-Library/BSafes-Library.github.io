@@ -7,6 +7,19 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+
+ELECTION SECURITY RUMOR VS. REALITY <a href="https://www.cisa.gov/rumorcontrol?utm_campaign=wp_the_cybersecurity_202&utm_medium=email&utm_source=newsletter&wpisrc=nl_cybersecurity202"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mis- and disinformation can undermine public confidence in the electoral process, as well as in our democracy.  Elections are administered by state and local officials who implement numerous safeguards to protect the security of your vote pursuant to various state and federal laws and processes.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 1, 2021 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
