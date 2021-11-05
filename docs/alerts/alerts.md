@@ -7,10 +7,33 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KNOWN EXPLOITED VULNERABILITIES CATALOG
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BrakTooth Proof of Concept Tool Demonstrates Bluetooth Vulnerabilities <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/11/04/braktooth-proof-concept-tool-demonstrates-bluetooth"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On November 1, 2021, researchers publicly released a BrakTooth proof-of-concept (PoC) tool to test Bluetooth-enabled devices against potential Bluetooth exploits using the researcher’s software tools.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 2, 2021 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-
 ELECTION SECURITY RUMOR VS. REALITY <a href="https://www.cisa.gov/rumorcontrol?utm_campaign=wp_the_cybersecurity_202&utm_medium=email&utm_source=newsletter&wpisrc=nl_cybersecurity202"> Full Text</a>
 </p>
 <details>
