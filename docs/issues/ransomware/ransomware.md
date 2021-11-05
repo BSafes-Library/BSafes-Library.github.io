@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US targets DarkSide ransomware, rebrands with $10 million reward<a href="https://www.bleepingcomputer.com/news/security/us-targets-darkside-ransomware-rebrands-with-10-million-reward/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is targeting the DarkSide ransomware&nbsp;and its rebrands&nbsp;with up to a $10,000,000 reward for information leading to the identification or arrest of members of the operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exmatter Tool Expedites BlackMatter’s Data Exfiltration<a href="https://cyware.com/news/exmatter-tool-expedites-blackmatters-data-exfiltration-71cf68f5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter ransomware group included a new data exfiltration tool called Exmatter to hasten its information-stealing process from victims' networks. The tool has been developed using the DotNet framework. Organizations are suggested to use robust anti-ransomware solutions to stay protected and sta ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

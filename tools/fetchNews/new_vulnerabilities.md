@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Reported in Linux Kernel's TIPC Module<a href="https://thehackernews.com/2021/11/critical-rce-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a security flaw in the Linux Kernel's Transparent Inter Process Communication ( TIPC ) module that could potentially be leveraged both locally as well as remotely to execute arbitrary code within the kernel and take control of vulnerable machines.  The heap overflow vulnerability "can be exploited locally or remotely within a network to gain kernel privileges, and would allow an attacker to compromise the entire system," cybersecurity firm SentinelOne&nbsp; said &nbsp;in a report published today and shared with The Hacker News.   TIPC is a transport layer&nbsp; protocol &nbsp; designed &nbsp;for nodes running in dynamic cluster environments to reliably communicate with each other in a manner that's more efficient and fault-tolerant than other protocols such as TCP. The vulnerability identified by SentinelOne has to do with a new message type called " MSG_CRYPTO " that was introduced in September 2020 and enables peer nodes in the cluster to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of hard-coded credentials and default SSH key issues in some products<a href="https://securityaffairs.co/wordpress/124198/security/cisco-hard-coded-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed critical flaws that could have allowed unauthenticated attackers to access its devices with hard-coded credentials or default SSH keys.
+
+
+
+Cisco has released security updates to address two critical vulnerabilities that could have allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found a critical remote code execution bug in Linux Kernel<a href="https://securityaffairs.co/wordpress/124191/hacking/linux-kernel-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical heap-overflow vulnerability, tracked as CVE-2021-43267, in Linux Kernel can allow remote attackers to takeover vulnerable installs. 
+
+
+
+A SentinelOne researcher discovered a critical remote code execution vulnerability, tracked as CVE-2021-43267,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes hard-coded credentials and default SSH key issues<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-hard-coded-credentials-and-default-ssh-key-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security updates to address critical security flaws allowing unauthenticated attackers to log in using hard-coded credentials or default SSH keys to take over unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange ProxyShell exploits used to deploy Babuk ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxyshell-exploits-used-to-deploy-babuk-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat actor is hacking Microsoft Exchange servers and breaching corporate networks using the ProxyShell vulnerability&nbsp;to deploy the Babuk Ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy S21 hacked on second day of Pwn2Own Austin<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s21-hacked-on-second-day-of-pwn2own-austin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants&nbsp;hacked the Samsung Galaxy S21 smartphone during the second day of the Pwn2Own Austin 2021 competition, as well as&nbsp;routers, NAS devices, speakers, and&nbsp;printers from Cisco, TP-Link, Western Digital, Sonos, Canon, Lexmark,&nbsp;and HP.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Tortilla’ Wraps Exchange Servers in ProxyShell Attacks<a href="https://threatpost.com/tortilla-exchange-servers-proxyshell/175967/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Exchange ProxyShell vulnerabilities are being exploited yet again for ransomware, this time with Babuk from the new “Tortilla” threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

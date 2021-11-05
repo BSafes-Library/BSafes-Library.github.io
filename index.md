@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Gov offers a reward of up to $10M for info on DarkSide leading members<a href="https://securityaffairs.co/wordpress/124215/cyber-crime/darkside-reward.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US targets DarkSide ransomware, rebrands with $10 million reward<a href="https://www.bleepingcomputer.com/news/security/us-targets-darkside-ransomware-rebrands-with-10-million-reward/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exmatter Tool Expedites BlackMatter’s Data Exfiltration<a href="https://cyware.com/news/exmatter-tool-expedites-blackmatters-data-exfiltration-71cf68f5"> Full Text</a>
@@ -87,7 +87,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Dept. offering $10 million reward to bring Colonial Pipeline hackers to justice<a href="https://thehill.com//policy/cybersecurity/580148-state-dept-offering-10-million-reward-to-bring-colonial-pipeline-hackers"> Full Text</a>
@@ -103,7 +103,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Reported in Linux Kernel's TIPC Module<a href="https://thehackernews.com/2021/11/critical-rce-vulnerability-reported-in.html"> Full Text</a>
@@ -119,7 +119,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Guideposts for Building a Better Incident-Response Plan<a href="https://threatpost.com/3-guideposts-incident-response-plan/176019/"> Full Text</a>
@@ -135,7 +135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA urges vendors to patch BrakTooth bugs after exploits release<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-vendors-to-patch-braktooth-bugs-after-exploits-release/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Labour hit by ‘cyber incident’ affecting members’ data<a href="https://www.theguardian.com/politics/2021/nov/03/labour-hit-by-cyber-incident-affecting-members-data?&web_view=true"> Full Text</a>
@@ -167,7 +167,7 @@ The Guardian
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industry pushes back on federal, congressional cybersecurity mandate efforts<a href="https://thehill.com//policy/cybersecurity/580128-industry-pushes-back-on-federal-congressional-cybersecurity-mandate"> Full Text</a>
@@ -183,7 +183,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Our journey to API security at Raiffeisen Bank International<a href="https://thehackernews.com/2021/11/our-journey-to-api-security-at.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA recommends vendors to fix BrakTooth issues after the release of PoC tool<a href="https://securityaffairs.co/wordpress/124208/hacking/cisa-braktooth-advisory.html"> Full Text</a>
@@ -219,7 +219,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing emails deliver spooky zombie-themed MirCop ransomware<a href="https://www.bleepingcomputer.com/news/security/phishing-emails-deliver-spooky-zombie-themed-mircop-ransomware/"> Full Text</a>
@@ -235,7 +235,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K. man implicated in Twitter hacking charged in NY with cryptocurrency theft<a href="https://www.reuters.com/article/usa-crime-crypto-currency-theft/u-k-man-implicated-in-twitter-hacking-charged-in-ny-with-cryptocurrency-theft-idUSKBN2HO265?&web_view=true"> Full Text</a>
@@ -251,7 +251,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top DOJ official predicting more arrests in crackdown on ransomware, cyber crime<a href="https://thehill.com//policy/cybersecurity/580049-top-doj-official-predicting-more-arrests-in-crackdown-on-ransomware"> Full Text</a>
@@ -267,7 +267,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns of hard-coded credentials and default SSH key issues in some products<a href="https://securityaffairs.co/wordpress/124198/security/cisco-hard-coded-credentials.html"> Full Text</a>
@@ -287,7 +287,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Popular 'coa' NPM library hijacked to steal user passwords<a href="https://www.bleepingcomputer.com/news/security/popular-coa-npm-library-hijacked-to-steal-user-passwords/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found a critical remote code execution bug in Linux Kernel<a href="https://securityaffairs.co/wordpress/124191/hacking/linux-kernel-rce.html"> Full Text</a>
@@ -323,7 +323,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes hard-coded credentials and default SSH key issues<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-hard-coded-credentials-and-default-ssh-key-issues/"> Full Text</a>
@@ -339,7 +339,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker allegedly involved in 2020 Twitter hack charged with theft of $784K in crypto<a href="https://securityaffairs.co/wordpress/124185/cyber-crime/twitter-hacker-crypto-theft.html"> Full Text</a>
@@ -359,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange ProxyShell exploits used to deploy Babuk ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxyshell-exploits-used-to-deploy-babuk-ransomware/"> Full Text</a>
@@ -375,7 +375,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA shares a catalog of 306 actively exploited vulnerabilities<a href="https://securityaffairs.co/wordpress/124181/security/cisa-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -395,7 +395,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Galaxy S21 hacked on second day of Pwn2Own Austin<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s21-hacked-on-second-day-of-pwn2own-austin/"> Full Text</a>
@@ -411,7 +411,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2021
+November 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-FR warns of Lockean ransomware attacks against French companies<a href="https://securityaffairs.co/wordpress/124171/malware/cert-fr-warns-lockean-ransomware.html"> Full Text</a>
@@ -431,7 +431,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine links members of Gamaredon hacker group to Russian FSB<a href="https://www.bleepingcomputer.com/news/security/ukraine-links-members-of-gamaredon-hacker-group-to-russian-fsb/"> Full Text</a>
@@ -447,7 +447,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto investors lose $500,000 to Google Ads pushing fake wallets<a href="https://www.bleepingcomputer.com/news/security/crypto-investors-lose-500-000-to-google-ads-pushing-fake-wallets/"> Full Text</a>
@@ -463,7 +463,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2021
+November 04, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockean multi-ransomware affiliates linked to attacks on French orgs<a href="https://www.bleepingcomputer.com/news/security/lockean-multi-ransomware-affiliates-linked-to-attacks-on-french-orgs/"> Full Text</a>
@@ -479,7 +479,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mekotio Banking Trojan Resurges with Tweaked Code, Stealthy Campaign<a href="https://threatpost.com/mekotio-banking-trojan-campaign/175981/"> Full Text</a>
@@ -495,7 +495,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2021
+November 03, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Pegasus-maker NSO Group and 3 Others For Selling Spyware<a href="https://thehackernews.com/2021/11/us-sanctions-pegasus-maker-nso-group.html"> Full Text</a>
@@ -511,7 +511,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Tortilla’ Wraps Exchange Servers in ProxyShell Attacks<a href="https://threatpost.com/tortilla-exchange-servers-proxyshell/175967/"> Full Text</a>
@@ -527,7 +527,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2021
+November 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: BlackMatter Ransomware Gang Goes Dark, Again<a href="https://threatpost.com/blackmatter-ransomware-dark/175955/"> Full Text</a>

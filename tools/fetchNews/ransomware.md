@@ -8,6 +8,62 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter Ransomware Reportedly Shutting Down; Latest Analysis Released<a href="https://thehackernews.com/2021/11/blackmatter-ransomware-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of new samples of BlackMatter ransomware for Windows and Linux has revealed the extent to which the operators have continually added new features and encryption capabilities in successive iterations over a three-month period.  No fewer than 10 Windows and two Linux versions of the ransomware have been observed in the wild to date, Group-IB threat researcher Andrei Zhdanov said in a report  shared with The Hacker News, pointing out the changes in the implementation of the&nbsp; ChaCha20 encryption &nbsp;algorithm used to encrypt the contents of the files.  BlackMatter&nbsp; emerged &nbsp;in July 2021 boasting of&nbsp; incorporating &nbsp;the "best features of DarkSide, REvil, and LockBit" and is considered the successor to DarkSide, which has since shut down alongside REvil in the wake of law enforcement scrutiny. Operating as a ransomware-as-a-service (RaaS) model, the BlackMatter is believed to have hit more than 50 companies in the U.S., Austria, Italy, France, Brazil, among others.   What&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos Ransomware Targeting Minecraft Gamers in Japan<a href="https://cyware.com/news/chaos-ransomware-targeting-minecraft-gamers-in-japan-6ec628e2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs found a Chaos ransomware variant being circulated on Japanese Minecraft forums. While this variant encrypts certain files, it completely destroys some. Gamers are recommended to stay alert while being offered such commodities on gaming forums.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter ransomware moves victims to LockBit after shutdown<a href="https://www.bleepingcomputer.com/news/security/blackmatter-ransomware-moves-victims-to-lockbit-after-shutdown/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the BlackMatter ransomware operation shutting down, existing affiliates are moving their victims to the competing LockBit ransomware site for continued extortion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Ransomware Operations Continue to Evolve<a href="https://www.govinfosecurity.com/7-trends-how-ransomware-operations-continue-to-evolve-a-17841?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware threats continue to be many criminals' weapon of choice for reliably shaking down victims small, medium, and large, in pursuit of a safe, easy and reliable payday.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

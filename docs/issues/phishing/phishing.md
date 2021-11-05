@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing emails deliver spooky zombie-themed MirCop ransomware<a href="https://www.bleepingcomputer.com/news/security/phishing-emails-deliver-spooky-zombie-themed-mircop-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign pretending to be supply lists infects users with the MirCop ransomware that encrypts a target system in under fifteen minutes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

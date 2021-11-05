@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker allegedly involved in 2020 Twitter hack charged with theft of $784K in crypto<a href="https://securityaffairs.co/wordpress/124185/cyber-crime/twitter-hacker-crypto-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ charged the suspected Twitter hacker 'PlugWalkJoe' with the theft of&nbsp;$784,000 worth of cryptocurrency using SIM swap attacks. 
+
+
+
+The US Department of Justice has indicted Joseph James O'Connor, a suspected Twitter hacker also known as 'PlugWalkJoe,'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine links members of Gamaredon hacker group to Russian FSB<a href="https://www.bleepingcomputer.com/news/security/ukraine-links-members-of-gamaredon-hacker-group-to-russian-fsb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSU and the Ukrainian secret service say they have identified five members of the Gamaredon hacking group, a Russian state-sponsored operation known for targeting Ukraine since 2014.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

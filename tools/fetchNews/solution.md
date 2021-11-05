@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Overview - Cynet Centralized Log Management<a href="https://thehackernews.com/2021/11/product-overview-cynet-centralized-log.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For most organizations today, the logs produced by their security tools and environments provide a mixed bag. On the one hand, they can be a trove of valuable data on security breaches, vulnerabilities, attack patterns, and general security insights.  On the other, organizations don't have the right means to manage the massive scale of logs and data produced to derive any value from it.&nbsp;  Log management can quickly become a sore point, and either be forgotten or improperly managed if done manually.  In turn, this reduces data transparency and leaves organizations more exposed to vulnerabilities that could have been detected. A new centralized log management module (CLM) introduced by XDR provider Cynet ( learn more here ) could help organizations lighten that load and enhance organizations' visibility into their valuable log data.&nbsp;  Instead of manually handling the collection, storage, and parsing of data, organizations can use CLM to enhance their log analysis, better understand thei
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confidential Computing Consortium unveils Gramine 1.0 to protect sensitive datasets at all stages<a href="https://www.helpnetsecurity.com/2021/11/03/confidential-computing-consortium-gramine-1-0/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Confidential Computing Consortium’s new Gramine Project is introducing its production-ready version – Gramine 1.0 – to enable the protection of sensitive workloads with Intel SGX.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to release 'Defender for Business' platform<a href="https://www.zdnet.com/article/microsoft-to-release-defender-for-business-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft 365's Jon Maunder said its "specially built to bring enterprise-grade endpoint security to businesses with up to 300 employees, in a solution that is easy-to-use and cost-effective."
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

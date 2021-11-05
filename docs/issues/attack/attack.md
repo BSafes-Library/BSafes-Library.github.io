@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Labour hit by ‘cyber incident’ affecting members’ data<a href="https://www.theguardian.com/politics/2021/nov/03/labour-hit-by-cyber-incident-affecting-members-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The party said the impact of the incident, affecting an external supplier, was not yet clear and it was urgently investigating whether the data had been hacked. Police, cybersecurity specialists and regulators had been notified, it added.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

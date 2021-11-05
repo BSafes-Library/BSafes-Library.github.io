@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto investors lose $500,000 to Google Ads pushing fake wallets<a href="https://www.bleepingcomputer.com/news/security/crypto-investors-lose-500-000-to-google-ads-pushing-fake-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Threat actors are using advertisements in Google Search to promote fake cryptocurrency wallets and DEX platforms to steal user's cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

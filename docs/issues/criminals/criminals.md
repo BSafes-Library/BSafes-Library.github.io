@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top DOJ official predicting more arrests in crackdown on ransomware, cyber crime<a href="https://thehill.com//policy/cybersecurity/580049-top-doj-official-predicting-more-arrests-in-crackdown-on-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deputy Attorney General Lisa Monaco said the U.S. should expect to see a crackdown on ransomware attacks and cyber crime as the Department of Justice (DOJ) ramps up its efforts in the area.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockean multi-ransomware affiliates linked to attacks on French orgs<a href="https://www.bleepingcomputer.com/news/security/lockean-multi-ransomware-affiliates-linked-to-attacks-on-french-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details about the tools and tactics used by a ransomware affiliate group, now tracked as Lockean, have emerged today in a report from France's Computer Emergency Response Team (CERT).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: BlackMatter Ransomware Gang Goes Dark, Again<a href="https://threatpost.com/blackmatter-ransomware-dark/175955/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The former DarkSide cybercriminal group will shut down due to increased pressure from authorities, who may have nabbed a key team member.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Dept. offering $10 million reward to bring Colonial Pipeline hackers to justice<a href="https://thehill.com//policy/cybersecurity/580148-state-dept-offering-10-million-reward-to-bring-colonial-pipeline-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Department on Thursday announced a $10 million reward for anyone who can provide information on leaders of the cyber criminal group that launched a ransomware attack on Colonial Pipeline in May, which temporarily crippled gas supply for several states.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. man implicated in Twitter hacking charged in NY with cryptocurrency theft<a href="https://www.reuters.com/article/usa-crime-crypto-currency-theft/u-k-man-implicated-in-twitter-hacking-charged-in-ny-with-cryptocurrency-theft-idUSKBN2HO265?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. man previously charged in the United States with involvement in the hacking of politicians’ and celebrities’ Twitter accounts was charged on Wednesday over a separate scheme resulting in the theft of $784,000 of cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Pegasus-maker NSO Group and 3 Others For Selling Spyware<a href="https://thehackernews.com/2021/11/us-sanctions-pegasus-maker-nso-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Commerce Department on Wednesday added four companies, including Israel-based spyware companies NSO Group  and Candiru , to a list of entities engaging in "malicious cyber activities."  The agency said the two companies were added to the list based on evidence that "these entities developed and supplied spyware to foreign governments that used these tools to maliciously target government officials, journalists, businesspeople, activists, academics, and embassy workers."  "These tools have also enabled foreign governments to conduct transnational repression, which is the practice of authoritarian governments targeting dissidents, journalists, and activists outside of their sovereign borders to silence dissent," the Commerce Department&nbsp; said .   Two other firms on the list include Singapore-based Computer Security Initiative Consultancy PTE. LTD . and Russia's Positive Technologies , the latter of which was already&nbsp; sanctioned &nbsp;by the U.S. Depa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

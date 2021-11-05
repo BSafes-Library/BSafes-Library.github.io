@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies ordered to patch hundreds of vulnerabilities<a href="https://thehill.com//policy/cybersecurity/579801-federal-agencies-ordered-to-patch-hundreds-of-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday ordered all federal agencies to immediately begin work on patching hundreds of cyber vulnerabilities, warning that malicious actors are continuing to target U.S. critical infrastructure.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes security vulnerabilities in Firefox 94<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/11/update-now-mozilla-fixes-security-vulnerabilities-in-firefox-94/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a security advisory, Mozilla’s announced that several security issues in its Firefox browser have been fixed. Several of these vulnerabilities were listed as having a high impact.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes actively exploited Zero-Day Kernel flaw in Android<a href="https://securityaffairs.co/wordpress/124113/security/android-zero-day-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android November 2021 security updates address a zero-day vulnerability in the Kernel that is actively exploited in the wild. 
+
+
+
+Google’s Android November 2021  security updates addressed 18 vulnerabilities in the framework and system components...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Patches Actively Exploited Zero-Day Kernel Bug<a href="https://threatpost.com/android-patches-exploited-kernel-bug/175931/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Android November 2021 security updates plug 18 flaws in the framework and system components and 18 more in the kernel and vendor components.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple macOS Flaw Allows Kernel-Level Compromise<a href="https://threatpost.com/apple-macos-flaw-kernel-compromise/175927/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+‘Shrootless’ allows bypass of System Integrity Protection IT security measures to install a malicious rootkit that goes undetected and performs arbitrary device operations.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns of New Android 0-Day Vulnerability Under Active Targeted Attacks<a href="https://thehackernews.com/2021/11/google-warns-of-new-android-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out its monthly security patches for Android with fixes for 39 flaws, including a zero-day vulnerability that it said is being actively exploited in the wild in limited, targeted attacks.  Tracked as CVE-2021-1048 , the zero-day bug is described as a&nbsp; use-after-free vulnerability &nbsp;in the kernel that can be exploited for local privilege escalation. Use-after-free issues are dangerous as it could enable a threat actor to access or referencing memory after it has been freed, leading to a " write-what-where " condition that results in the execution of arbitrary code to gain control over a victim's system.   "There are indications that CVE-2021-1048 may be under limited, targeted exploitation," the company&nbsp; noted &nbsp;in its November advisory without revealing technical details of the vulnerability, the nature of the intrusions, and the identities of the attackers that may have abused the flaw.  Also remediated in the security patch are two critical re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

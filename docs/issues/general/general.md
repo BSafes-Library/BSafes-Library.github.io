@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Our journey to API security at Raiffeisen Bank International<a href="https://thehackernews.com/2021/11/our-journey-to-api-security-at.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This article was written by Peter Gerdenitsch, Group CISO at Raiffeisen Bank International, and is based on a presentation given during Imvision's Executive Education Program, a series of events focused on how enterprises are taking charge of the API security lifecycle.  Launching the "Security in Agile" program  Headquartered in Vienna, Raiffeisen Bank International (RBI) operates across 14 countries in Central and Eastern Europe with around 45,000 employees. Our focus is on providing universal banking solutions to customers, as well as developing digital banking products for the retail and corporate markets. Accordingly, RBI has a substantial R&amp;D division, making for a very large community of IT and engineering professionals all over Europe.  Back in 2019, we began shifting to a product-led agile setup for RBI, introducing various security roles contributing and collaborating to achieve our strategic goals. As part of this journey, we established the security champ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
