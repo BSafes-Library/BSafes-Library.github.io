@@ -31,6 +31,7 @@
 
 Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-ransomware-gangs-hit-several-tribal-owned-casinos-in-the-last-year/
+. https://www.bleepingcomputer.com/news/security/fbi-warns-of-increased-use-of-cryptocurrency-atms-qr-codes-for-fraud/
  
 Law
 
