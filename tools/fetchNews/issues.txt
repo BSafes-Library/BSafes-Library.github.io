@@ -30,6 +30,7 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://www.bleepingcomputer.com/news/security/fbi-ransomware-gangs-hit-several-tribal-owned-casinos-in-the-last-year/
  
 Law
 

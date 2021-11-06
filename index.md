@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2021
+November 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackBerry report highlights initial access broker providing entry to StrongPity APT, MountLocker and Phobos ransomware gangs<a href="https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker-providing-entry-to-strongpity-apt-mountlocker-and-phobos-ransomware-gangs/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2021
+November 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White hat hackers earn over $1 Million at Pwn2Own Austin 2021<a href="https://securityaffairs.co/wordpress/124254/hacking/pwn2own-austin-2021.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2021
+November 6, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds investors allege board knew about cyber risks<a href="https://www.reuters.com/technology/solarwinds-investors-allege-board-knew-about-cyber-risks-2021-11-05/?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2021
+November 6, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A drone was modified to disrupt U.S. Power Grid, says intelligence bulletin<a href="https://securityaffairs.co/wordpress/124245/security/drone-attack-u-s-power-grid.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - November 5th 2021 - Placing bounties<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-5th-2021-placing-bounties/"> Full Text</a>
@@ -126,7 +126,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers call on Biden administration to take further steps against spyware groups<a href="https://thehill.com//policy/cybersecurity/580349-lawmakers-call-on-biden-administration-to-take-further-steps-against"> Full Text</a>
@@ -142,7 +142,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Identifies Russian FSB Officers Hacking As Gamaredon Group<a href="https://thehackernews.com/2021/11/ukraine-identifies-russian-fsb-officers.html"> Full Text</a>
@@ -158,7 +158,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Native Tribal Casinos Taking Millions in Ransomware Losses<a href="https://threatpost.com/native-tribal-casinos-ransomware-losses/176060/"> Full Text</a>
@@ -174,7 +174,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own: Printer plays AC/DC, Samsung Galaxy S21 hacked twice<a href="https://www.bleepingcomputer.com/news/security/pwn2own-printer-plays-ac-dc-samsung-galaxy-s21-hacked-twice/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators move to include 72 hour timeline for cyber incident reporting in defense bill<a href="https://thehill.com//policy/cybersecurity/580330-senators-move-to-include-72-hour-timeline-for-cyber-incident-reporting"> Full Text</a>
@@ -206,7 +206,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Federal Agencies Ordered to Patch Hundreds of Actively Exploited Flaws<a href="https://thehackernews.com/2021/11/us-federal-agencies-ordered-to-patch.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beyond the Basics: Tips for Building Advanced Ransomware Resiliency<a href="https://threatpost.com/tips-building-advanced-ransomware-resiliency/176052/"> Full Text</a>
@@ -238,7 +238,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Ransomware gangs hit several tribal-owned casinos in the last year<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-gangs-hit-several-tribal-owned-casinos-in-the-last-year/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Foundation Fixes 'Dangerous' Code Execution Kernel Bug<a href="https://www.securityweek.com/linux-foundation-fixes-dangerous-code-execution-kernel-bug?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Offers $10 Million Reward for Information on DarkSide Ransomware Group<a href="https://thehackernews.com/2021/11/us-offers-10-million-reward-for.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US defense contractor Electronic Warfare Associates discloses data breach<a href="https://securityaffairs.co/wordpress/124236/data-breach/electronic-warfare-associates-data-breach.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads for Faux Cryptowallets Net Scammers At Least $500K<a href="https://threatpost.com/google-ads-cryptowallets-scammers/176047/"> Full Text</a>
@@ -322,7 +322,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Philips healthcare infomatics solution vulnerable to SQL injection<a href="https://www.bleepingcomputer.com/news/security/philips-healthcare-infomatics-solution-vulnerable-to-sql-injection/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Names Russian FSB Officers Involved in Gamaredon Cyberattacks<a href="https://www.securityweek.com/ukraine-names-russian-fsb-officers-involved-gamaredon-cyberattacks?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine intelligence doxed 5 FSB Officers that are members of Gamaredon APT Group<a href="https://securityaffairs.co/wordpress/124231/apt/fsb-members-gamaredon-doxed.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US defense contractor Electronic Warfare hit by data breach<a href="https://www.bleepingcomputer.com/news/security/us-defense-contractor-electronic-warfare-hit-by-data-breach/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor exploits MS ProxyShell flaws to deploy Babuk ransomware<a href="https://securityaffairs.co/wordpress/124222/malware/hackers-proxyshell-babuk-ransomware.html?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor exploits MS ProxyShell flaws to deploy Babuk ransomware<a href="https://securityaffairs.co/wordpress/124222/malware/hackers-proxyshell-babuk-ransomware.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of increased use of cryptocurrency ATMs, QR codes for fraud<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-increased-use-of-cryptocurrency-atms-qr-codes-for-fraud/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 5, 2021
+November 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 npm libraries coa and rc. have been hijacked to deliver password-stealing malware<a href="https://securityaffairs.co/wordpress/124218/hacking/npm-libraries-coa-rc-hijacked.html"> Full Text</a>
@@ -462,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 05, 2021
+November 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Thunderbird 91.3 released to fix high impact flaws<a href="https://www.bleepingcomputer.com/news/security/mozilla-thunderbird-913-released-to-fix-high-impact-flaws/"> Full Text</a>

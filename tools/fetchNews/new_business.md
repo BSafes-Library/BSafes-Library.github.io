@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+November 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds investors allege board knew about cyber risks<a href="https://www.reuters.com/technology/solarwinds-investors-allege-board-knew-about-cyber-risks-2021-11-05/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds Corp investors have sued the software company's directors, alleging they knew about and failed to monitor cybersecurity risks to the company ahead of a breach that created a vulnerability in thousands of its customers' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Native Tribal Casinos Taking Millions in Ransomware Losses<a href="https://threatpost.com/native-tribal-casinos-ransomware-losses/176060/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An FBI notification is warning of an uptick in attacks against tribal casinos.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

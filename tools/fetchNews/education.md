@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Guideposts for Building a Better Incident-Response Plan<a href="https://threatpost.com/3-guideposts-incident-response-plan/176019/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Invest and practice: Grant Oviatt, director of incident-response engagements at&nbsp;Red Canary, lays out the key building blocks for effective IR.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

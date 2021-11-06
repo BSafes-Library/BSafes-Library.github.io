@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor Electronic Warfare Associates discloses data breach<a href="https://securityaffairs.co/wordpress/124236/data-breach/electronic-warfare-associates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US defense contractor Electronic Warfare Associates (EWA) was hit by a cyber attack, threat actors stole personal information from its email system.
+
+
+
+US defense contractor Electronic Warfare Associates (EWA) has disclosed a data breach after threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor Electronic Warfare hit by data breach<a href="https://www.bleepingcomputer.com/news/security/us-defense-contractor-electronic-warfare-hit-by-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US defense contractor Electronic Warfare Associates (EWA) has disclosed a data breach after threat actors hacked their email system and stole files containing personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Names Russian FSB Officers Involved in Gamaredon Cyberattacks<a href="https://www.securityweek.com/ukraine-names-russian-fsb-officers-involved-gamaredon-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s security service, the SBU, has revealed the identities of five individuals allegedly involved in cyberattacks attributed to a Russia-linked threat group named Gamaredon.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

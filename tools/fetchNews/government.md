@@ -8,6 +8,106 @@ nav_order: 900075
 
 ## Government
 ---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov offers a reward of up to $10M for info on DarkSide leading members<a href="https://securityaffairs.co/wordpress/124215/cyber-crime/darkside-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government offers up to a $10,000,000 reward for information leading to the identification or arrest of DarkSide gang members.
+
+
+
+The US government wants to dismantle the DarkSide ransomware&nbsp;operation and its rebrands and it is offering up to a $10,000,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges vendors to patch BrakTooth bugs after exploits release<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-vendors-to-patch-braktooth-bugs-after-exploits-release/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have released public exploit code and a proof of concept tool to test Bluetooth devices against System-on-a-Chip (SoC) security bugs impacting multiple vendors, including Intel, Qualcomm, Texas Instruments, and Cypress.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry pushes back on federal, congressional cybersecurity mandate efforts<a href="https://thehill.com//policy/cybersecurity/580128-industry-pushes-back-on-federal-congressional-cybersecurity-mandate"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials representing key transportation sectors including rail and aviation on Thursday made clear that proposed cybersecurity reporting mandates and other federal cyber efforts aimed at beefing up security are not what is needed to defend against increasing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA recommends vendors to fix BrakTooth issues after the release of PoC tool<a href="https://securityaffairs.co/wordpress/124208/hacking/cisa-braktooth-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA urges vendors to address BrakTooth flaws after researchers have released public exploit code and a proof of concept tool for them. 
+
+
+
+US CISA is urging vendors to address BrakTooth flaws after security researchers have released public exploit code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA shares a catalog of 306 actively exploited vulnerabilities<a href="https://securityaffairs.co/wordpress/124181/security/cisa-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA shared a list of vulnerabilities known to be exploited in the wild and orders US federal agencies to address them within deadlines. 
+
+
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has published a catalog of 306 actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-FR warns of Lockean ransomware attacks against French companies<a href="https://securityaffairs.co/wordpress/124171/malware/cert-fr-warns-lockean-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-France warns of a new ransomware group named Lockean that is behind a series of attacks against French organizations over the past 2 years.
+
+
+
+France’s Computer Emergency Response Team (CERT-FR) officials identified a new ransomware gang named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

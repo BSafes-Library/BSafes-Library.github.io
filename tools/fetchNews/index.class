@@ -34,6 +34,450 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackBerry report highlights initial access broker providing entry to StrongPity APT, MountLocker and Phobos ransomware gangs<a href="https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker-providing-entry-to-strongpity-apt-mountlocker-and-phobos-ransomware-gangs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from BlackBerry has uncovered an initial access broker called "Zebra2104" that has connections to three malicious cybercriminal groups, some of which are involved in ransomware and phishing.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers earn over $1 Million at Pwn2Own Austin 2021<a href="https://securityaffairs.co/wordpress/124254/hacking/pwn2own-austin-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zero Day Initiative’s Pwn2Own Austin 2021 hacking contest has ended, and participants earned $1,081,250 for 61 zero-day flaws.
+
+
+
+Trend Micro's Zero Day Initiative’s Pwn2Own Austin 2021 hacking contest has ended, the participants earned a total...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds investors allege board knew about cyber risks<a href="https://www.reuters.com/technology/solarwinds-investors-allege-board-knew-about-cyber-risks-2021-11-05/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds Corp investors have sued the software company's directors, alleging they knew about and failed to monitor cybersecurity risks to the company ahead of a breach that created a vulnerability in thousands of its customers' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A drone was modified to disrupt U.S. Power Grid, says intelligence bulletin<a href="https://securityaffairs.co/wordpress/124245/security/drone-attack-u-s-power-grid.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials believe that a drone was employed in an attempted attack on a power substation in Pennsylvania last year. 
+
+
+
+US officials believe threat actors used a drone in an attempted attack on a power substation in Pennsylvania last year.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 5th 2021 - Placing bounties<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-5th-2021-placing-bounties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement continues to keep up the pressure on ransomware operations with infrastructure hacks and million-dollar rewards, leading to the shut down of criminal operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers call on Biden administration to take further steps against spyware groups<a href="https://thehill.com//policy/cybersecurity/580349-lawmakers-call-on-biden-administration-to-take-further-steps-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of House Democrats on Friday applauded the Biden administration for blacklisting key companies involved in cyber espionage efforts, including Israeli company NSO Group, but called on the White House to go further and considering imposing sanctions to limit this activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Identifies Russian FSB Officers Hacking As Gamaredon Group<a href="https://thehackernews.com/2021/11/ukraine-identifies-russian-fsb-officers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's premier law enforcement and counterintelligence agency on Thursday disclosed the real identities of five individuals allegedly involved in cyberattacks attributed to a cyber-espionage group named Gamaredon , linking the members to Russia's Federal Security Service (FSB).  Calling the hacker group "an FSB special project, which specifically targeted Ukraine," the Security Service of Ukraine (SSU)  said  the perpetrators "are officers of the 'Crimean' FSB and traitors who defected to the enemy during the occupation of the peninsula in 2014."   The names of the five individuals the SSU alleges are part of the covert operation are Sklianko Oleksandr Mykolaiovych, Chernykh Mykola Serhiiovych, Starchenko Anton Oleksandrovych, Miroshnychenko Oleksandr Valeriiovych, and Sushchenko Oleh Oleksandrovych.  Since its inception in 2013, the Russia-linked  Gamaredon  group (aka Primitive Bear, Armageddon, Winterflounder, or Iron Tilden) has been responsi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Native Tribal Casinos Taking Millions in Ransomware Losses<a href="https://threatpost.com/native-tribal-casinos-ransomware-losses/176060/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An FBI notification is warning of an uptick in attacks against tribal casinos.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own: Printer plays AC/DC, Samsung Galaxy S21 hacked twice<a href="https://www.bleepingcomputer.com/news/security/pwn2own-printer-plays-ac-dc-samsung-galaxy-s21-hacked-twice/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro's ZDI has awarded $1,081,250 for 61 zero-days exploited at Pwn2Own Austin 2021, with competitors successfully pwning the Samsung Galaxy S21 again and hacking an HP LaserJet printer to play AC/DC's Thunderstruck on the contest's third day.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators move to include 72 hour timeline for cyber incident reporting in defense bill<a href="https://thehill.com//policy/cybersecurity/580330-senators-move-to-include-72-hour-timeline-for-cyber-incident-reporting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators are moving to insert a provision into the upcoming annual National Defense Authorization Act (NDAA) that would give certain critical infrastructure groups 72 hours to report major cyber incidents to the government. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Federal Agencies Ordered to Patch Hundreds of Actively Exploited Flaws<a href="https://thehackernews.com/2021/11/us-federal-agencies-ordered-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  published  a  catalog  of vulnerabilities, including from Apple, Cisco, Microsoft, and Google, that have known exploits and are being actively exploited by malicious cyber actors, in addition to requiring federal agencies to prioritize applying patches for those security flaws within "aggressive" timeframes.   "These vulnerabilities pose significant risk to agencies and the federal enterprise," the agency  said  in a binding operational directive (BOD) issued Wednesday. "It is essential to aggressively remediate known exploited vulnerabilities to protect federal information systems and reduce cyber incidents."  About 176 vulnerabilities identified between 2017 and 2020, and 100 flaws from 2021 have made their way to the initial list, which is expected to be updated with additional actively exploited vulnerabilities as and when they become known provided they have been assigned Common Vu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond the Basics: Tips for Building Advanced Ransomware Resiliency<a href="https://threatpost.com/tips-building-advanced-ransomware-resiliency/176052/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, chief security scientist and advisory CISO at ThycoticCentrify, offers advice on least privilege, automation, application control and more.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware gangs hit several tribal-owned casinos in the last year<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-gangs-hit-several-tribal-owned-casinos-in-the-last-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says that multiple ransomware gangs have hit tribal entities over the last year, taking down their systems and impacting businesses and public services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation Fixes 'Dangerous' Code Execution Kernel Bug<a href="https://www.securityweek.com/linux-foundation-fixes-dangerous-code-execution-kernel-bug?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are calling attention to a newly discovered security defect in a kernel module that ships with all major Linux distributions, warning that remote attackers can exploit the bug to take complete control of a vulnerable system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Reward for Information on DarkSide Ransomware Group<a href="https://thehackernews.com/2021/11/us-offers-10-million-reward-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Thursday announced a $10 million reward for information that may lead to the identification or location of key individuals who hold leadership positions in the DarkSide ransomware group or any of its rebrands.  On top of that, the State Department is offering bounties of up to $5 million for intel and tip-offs that could result in the arrest and/or conviction in any country of individuals who are conspiring or attempting to participate in intrusions affiliated with the transnational organized crime syndicate.   "In offering this reward, the United States demonstrates its commitment to protecting ransomware victims around the world from exploitation by cyber criminals," the State Department  said  in a statement. "The United States looks to nations who harbor ransomware criminals that are willing to bring justice for those victim businesses and organizations affected by ransomware."   The development comes in response to DarkSide's high-pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor Electronic Warfare Associates discloses data breach<a href="https://securityaffairs.co/wordpress/124236/data-breach/electronic-warfare-associates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US defense contractor Electronic Warfare Associates (EWA) was hit by a cyber attack, threat actors stole personal information from its email system.
+
+
+
+US defense contractor Electronic Warfare Associates (EWA) has disclosed a data breach after threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads for Faux Cryptowallets Net Scammers At Least $500K<a href="https://threatpost.com/google-ads-cryptowallets-scammers/176047/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious Phantom, MetaMask cryptowallets are on the prowl to drain victim funds. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips healthcare infomatics solution vulnerable to SQL injection<a href="https://www.bleepingcomputer.com/news/security/philips-healthcare-infomatics-solution-vulnerable-to-sql-injection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Philips Tasy EMR, used by hundreds of hospitals as a medical record solution and healthcare management system, is vulnerable to two critical SQL injection flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Names Russian FSB Officers Involved in Gamaredon Cyberattacks<a href="https://www.securityweek.com/ukraine-names-russian-fsb-officers-involved-gamaredon-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s security service, the SBU, has revealed the identities of five individuals allegedly involved in cyberattacks attributed to a Russia-linked threat group named Gamaredon.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine intelligence doxed 5 FSB Officers that are members of Gamaredon APT Group<a href="https://securityaffairs.co/wordpress/124231/apt/fsb-members-gamaredon-doxed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's premier law enforcement and counterintelligence revealed the real identities of five FSB members behind the Gamaredon cyberespionage group. 
+
+
+
+Ukraine's premier law enforcement and counterintelligence disclosed the real identities of five...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US defense contractor Electronic Warfare hit by data breach<a href="https://www.bleepingcomputer.com/news/security/us-defense-contractor-electronic-warfare-hit-by-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US defense contractor Electronic Warfare Associates (EWA) has disclosed a data breach after threat actors hacked their email system and stole files containing personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor exploits MS ProxyShell flaws to deploy Babuk ransomware<a href="https://securityaffairs.co/wordpress/124222/malware/hackers-proxyshell-babuk-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos researchers warn of a new threat actor that is hacking Microsoft Exchange servers by exploiting ProxyShell flaws to gain access to corporate and deploy the Babuk Ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor exploits MS ProxyShell flaws to deploy Babuk ransomware<a href="https://securityaffairs.co/wordpress/124222/malware/hackers-proxyshell-babuk-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat actor is exploiting ProxyShell flaws in attacks aimed at Microsoft Exchange servers to deploy the Babuk Ransomware in corporate networks. 
+
+
+
+Talos researchers warn of a new threat actor that is hacking Microsoft Exchange servers by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of increased use of cryptocurrency ATMs, QR codes for fraud<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-increased-use-of-cryptocurrency-atms-qr-codes-for-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns that victims of various fraud schemes are increasingly asked by criminals to use cryptocurrency ATMs and Quick Response (QR) codes, making it harder to recover their financial losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+npm libraries coa and rc. have been hijacked to deliver password-stealing malware<a href="https://securityaffairs.co/wordpress/124218/hacking/npm-libraries-coa-rc-hijacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two popular npm libraries, coa and rc., have been hijacked, threat actors replaced them with versions laced with password-stealing malware. 
+
+
+
+The security team of the npm JavaScript package warns that two popular npm libraries, coa and rc., have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Thunderbird 91.3 released to fix high impact flaws<a href="https://www.bleepingcomputer.com/news/security/mozilla-thunderbird-913-released-to-fix-high-impact-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Mozilla released  Thunderbird 91.3 to fix several high-impact vulnerabilities that can cause a denial of service, spoof the origin, bypass security policies, and allow arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

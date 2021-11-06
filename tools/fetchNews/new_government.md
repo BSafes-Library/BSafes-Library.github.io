@@ -8,6 +8,98 @@ nav_order: 900075
 
 ## Government
 ---
+November 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A drone was modified to disrupt U.S. Power Grid, says intelligence bulletin<a href="https://securityaffairs.co/wordpress/124245/security/drone-attack-u-s-power-grid.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials believe that a&nbsp;drone was employed in an attempted attack on a power substation in Pennsylvania last year.&nbsp;
+
+
+
+US officials believe threat actors used a&nbsp;drone in an attempted attack on a power substation in Pennsylvania last year.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers call on Biden administration to take further steps against spyware groups<a href="https://thehill.com//policy/cybersecurity/580349-lawmakers-call-on-biden-administration-to-take-further-steps-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of House Democrats on Friday applauded the Biden administration for blacklisting key companies involved in cyber espionage efforts, including Israeli company NSO Group, but called on&nbsp;the White House&nbsp;to go further and&nbsp;considering imposing sanctions to limit this activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators move to include 72 hour timeline for cyber incident reporting in defense bill<a href="https://thehill.com//policy/cybersecurity/580330-senators-move-to-include-72-hour-timeline-for-cyber-incident-reporting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of senators are moving to insert a provision into the upcoming annual National Defense Authorization Act (NDAA) that would give certain critical infrastructure groups 72 hours to report major cyber incidents to the government.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Federal Agencies Ordered to Patch Hundreds of Actively Exploited Flaws<a href="https://thehackernews.com/2021/11/us-federal-agencies-ordered-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; published &nbsp;a&nbsp; catalog &nbsp;of vulnerabilities, including from Apple, Cisco, Microsoft, and Google, that have known exploits and are being actively exploited by malicious cyber actors, in addition to requiring federal agencies to prioritize applying patches for those security flaws within "aggressive" timeframes.   "These vulnerabilities pose significant risk to agencies and the federal enterprise," the agency&nbsp; said &nbsp;in a binding operational directive (BOD) issued Wednesday. "It is essential to aggressively remediate known exploited vulnerabilities to protect federal information systems and reduce cyber incidents."  About 176 vulnerabilities identified between 2017 and 2020, and 100 flaws from 2021 have made their way to the initial list, which is expected to be updated with additional actively exploited vulnerabilities as and when they become known provided they have been assigned Common Vu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Ransomware gangs hit several tribal-owned casinos in the last year<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomware-gangs-hit-several-tribal-owned-casinos-in-the-last-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) says that multiple ransomware gangs have hit tribal entities over&nbsp;the last year, taking down their systems and impacting businesses and public services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of increased use of cryptocurrency ATMs, QR codes for fraud<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-increased-use-of-cryptocurrency-atms-qr-codes-for-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns that victims of various fraud schemes are increasingly asked by criminals to use cryptocurrency ATMs and Quick Response (QR) codes, making it harder to recover their financial losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

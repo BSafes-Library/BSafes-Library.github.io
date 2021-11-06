@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 5th 2021 - Placing bounties<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-5th-2021-placing-bounties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement continues to keep up the pressure on ransomware operations with infrastructure hacks and million-dollar rewards, leading to the shut down of criminal operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

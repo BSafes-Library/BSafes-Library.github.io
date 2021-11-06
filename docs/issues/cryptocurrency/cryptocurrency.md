@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads for Faux Cryptowallets Net Scammers At Least $500K<a href="https://threatpost.com/google-ads-cryptowallets-scammers/176047/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious Phantom, MetaMask cryptowallets are on the prowl to drain victim funds.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

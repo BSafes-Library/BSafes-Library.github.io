@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackBerry report highlights initial access broker providing entry to StrongPity APT, MountLocker and Phobos ransomware gangs<a href="https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker-providing-entry-to-strongpity-apt-mountlocker-and-phobos-ransomware-gangs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from BlackBerry has uncovered an initial access broker called "Zebra2104" that has connections to three malicious cybercriminal groups, some of which are involved in ransomware and phishing.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine intelligence doxed 5 FSB Officers that are members of Gamaredon APT Group<a href="https://securityaffairs.co/wordpress/124231/apt/fsb-members-gamaredon-doxed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's premier law enforcement and counterintelligence revealed the real identities of five FSB members behind the Gamaredon cyberespionage group. 
+
+
+
+Ukraine's premier law enforcement and counterintelligence disclosed the real identities of five...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Foundation Fixes 'Dangerous' Code Execution Kernel Bug<a href="https://www.securityweek.com/linux-foundation-fixes-dangerous-code-execution-kernel-bug?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are calling attention to a newly discovered security defect in a kernel module that ships with all major Linux distributions, warning that remote attackers can exploit the bug to take complete control of a vulnerable system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips healthcare infomatics solution vulnerable to SQL injection<a href="https://www.bleepingcomputer.com/news/security/philips-healthcare-infomatics-solution-vulnerable-to-sql-injection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Philips Tasy EMR, used by hundreds of hospitals as a medical record solution and healthcare management system, is vulnerable to two critical SQL injection flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor exploits MS ProxyShell flaws to deploy Babuk ransomware<a href="https://securityaffairs.co/wordpress/124222/malware/hackers-proxyshell-babuk-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat actor is exploiting ProxyShell flaws in attacks aimed at Microsoft Exchange servers to deploy the Babuk Ransomware in corporate networks. 
+
+
+
+Talos researchers warn of a new threat actor that is hacking Microsoft Exchange servers by exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Thunderbird 91.3 released to fix high impact flaws<a href="https://www.bleepingcomputer.com/news/security/mozilla-thunderbird-913-released-to-fix-high-impact-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Mozilla released &nbsp;Thunderbird 91.3 to fix several high-impact vulnerabilities that can cause a denial of service, spoof the origin, bypass security policies, and allow arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

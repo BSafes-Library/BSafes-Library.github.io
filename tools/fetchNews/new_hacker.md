@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers earn over $1 Million at Pwn2Own Austin 2021<a href="https://securityaffairs.co/wordpress/124254/hacking/pwn2own-austin-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zero Day Initiative’s Pwn2Own Austin 2021 hacking contest has ended, and participants earned $1,081,250 for 61 zero-day flaws.
+
+
+
+Trend Micro's&nbsp;Zero Day Initiative’s Pwn2Own Austin 2021 hacking contest has ended, the participants earned a total...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Identifies Russian FSB Officers Hacking As Gamaredon Group<a href="https://thehackernews.com/2021/11/ukraine-identifies-russian-fsb-officers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's premier law enforcement and counterintelligence agency on Thursday disclosed the real identities of five individuals allegedly involved in cyberattacks attributed to a cyber-espionage group named Gamaredon , linking the members to Russia's Federal Security Service (FSB).  Calling the hacker group "an FSB special project, which specifically targeted Ukraine," the Security Service of Ukraine (SSU)&nbsp; said &nbsp;the perpetrators "are officers of the 'Crimean' FSB and traitors who defected to the enemy during the occupation of the peninsula in 2014."   The names of the five individuals the SSU alleges are part of the covert operation are Sklianko Oleksandr Mykolaiovych, Chernykh Mykola Serhiiovych, Starchenko Anton Oleksandrovych, Miroshnychenko Oleksandr Valeriiovych, and Sushchenko Oleh Oleksandrovych.  Since its inception in 2013, the Russia-linked&nbsp; Gamaredon &nbsp;group (aka Primitive Bear, Armageddon, Winterflounder, or Iron Tilden) has been responsi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own: Printer plays AC/DC, Samsung Galaxy S21 hacked twice<a href="https://www.bleepingcomputer.com/news/security/pwn2own-printer-plays-ac-dc-samsung-galaxy-s21-hacked-twice/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro's&nbsp;ZDI has awarded $1,081,250 for 61 zero-days exploited at Pwn2Own Austin 2021, with competitors&nbsp;successfully pwning the Samsung Galaxy S21 again and hacking an&nbsp;HP LaserJet printer to play AC/DC's&nbsp;Thunderstruck&nbsp;on the contest's third day.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor exploits MS ProxyShell flaws to deploy Babuk ransomware<a href="https://securityaffairs.co/wordpress/124222/malware/hackers-proxyshell-babuk-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos researchers warn of a new threat actor that is hacking Microsoft Exchange servers by exploiting ProxyShell flaws to gain access to corporate and deploy the Babuk Ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

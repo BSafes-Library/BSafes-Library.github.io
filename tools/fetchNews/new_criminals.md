@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Reward for Information on DarkSide Ransomware Group<a href="https://thehackernews.com/2021/11/us-offers-10-million-reward-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Thursday announced a $10 million reward for information that may lead to the identification or location of key individuals who hold leadership positions in the DarkSide ransomware group or any of its rebrands.  On top of that, the State Department is offering bounties of up to $5 million for intel and tip-offs that could result in the arrest and/or conviction in any country of individuals who are conspiring or attempting to participate in intrusions affiliated with the transnational organized crime syndicate.   "In offering this reward, the United States demonstrates its commitment to protecting ransomware victims around the world from exploitation by cyber criminals," the State Department&nbsp; said &nbsp;in a statement. "The United States looks to nations who harbor ransomware criminals that are willing to bring justice for those victim businesses and organizations affected by ransomware."   The development comes in response to DarkSide's high-pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
