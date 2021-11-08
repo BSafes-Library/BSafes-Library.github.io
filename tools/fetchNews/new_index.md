@@ -34,6 +34,159 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Cyclone deals blow to Clop ransomware operation<a href="https://www.bleepingcomputer.com/news/security/operation-cyclone-deals-blow-to-clop-ransomware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A thirty-month international law enforcement operation codenamed 'Operation Cyclone' targeted the Clop ransomware gang, leading to the previously reported arrests of six members in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a phishing campaign impersonating security firm Proofpoint<a href="https://securityaffairs.co/wordpress/124298/cyber-crime/phishing-campaign-proofpoint.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are impersonating cybersecurity firm Proofpoint to trick victims into providing Microsoft Office 365 and Gmail credentials.
+
+
+
+Cybercriminals are impersonating the cybersecurity firm Proofpoint to trick victims into providing Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Magecart group uses an e-Skimmer that avoids VMs and sandboxes<a href="https://securityaffairs.co/wordpress/124287/hacking/magecart-e-skimmer-avoids-vms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Magecart group leverages a browser script to evade virtualized environments and sandboxes used by researchers. 
+
+
+
+Malwarebytes researchers have spotted a new Magecart group that uses a browser script to evade detection and the execution in virtualized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 339<a href="https://securityaffairs.co/wordpress/124282/breaking-news/security-affairs-newsletter-round-339.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Casinos of tribal communities are losing millions in Ransomware attacks<a href="https://securityaffairs.co/wordpress/124273/cyber-crime/ransomware-casinos-tribal-communities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a private industry notification (PIN) to warn of ransomware attacks that hit several tribal-owned casinos last year.
+
+
+
+A private industry notification issued by the FBI's Cyber Division revealed that ransomware attacks hit several tribal-owned...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Ransomware Now Targeting Time-Critical Events<a href="https://cyware.com/news/fbi-warning-ransomware-now-targeting-time-critical-events-1eeaef07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. officials noted that ransomware groups are directing attacks toward firms involved in time-sensitive financial events, such as corporate mergers and acquisitions.  The operators look for private and non-publicly available sensitive information to use during extortion. It is believed that  this ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $55 million worth of cryptocurrency from bZx DeFi platform<a href="https://securityaffairs.co/wordpress/124266/cyber-crime/bzx-defi-platform-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeFi platforms are a privileged target for crooks, threat actors have stolen $55 million from bZx DeFi platform.
+
+
+
+Threat actors have stolen $55 million worth of cryptocurrency from the bZx decentralized finance (DeFi) platform. The decentralized finance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips Tasy EMR healthcare infomatics solution vulnerable to SQL injection<a href="https://securityaffairs.co/wordpress/124263/hacking/philips-tasy-emr-sql-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Philips Tasy EMR comprehensive healthcare informatics solution is affected by two critical SQL injection vulnerabilities. 
+
+
+
+The Philips Tasy EMR is a comprehensive healthcare informatics solution that is used by thousands of hospitals and healthcare...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 6, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
