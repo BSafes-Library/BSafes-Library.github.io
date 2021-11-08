@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $55 million worth of cryptocurrency from bZx DeFi platform<a href="https://securityaffairs.co/wordpress/124266/cyber-crime/bzx-defi-platform-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeFi platforms are a privileged target for crooks, threat actors have stolen $55 million from bZx DeFi platform.
+
+
+
+Threat actors have stolen $55 million worth of cryptocurrency from the bZx decentralized finance (DeFi) platform. The decentralized finance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

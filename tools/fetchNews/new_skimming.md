@@ -8,6 +8,24 @@ nav_order: 900190
 
 ## Skimming
 ---
+November 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Magecart group uses an e-Skimmer that avoids VMs and sandboxes<a href="https://securityaffairs.co/wordpress/124287/hacking/magecart-e-skimmer-avoids-vms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Magecart group leverages a browser script to evade virtualized environments and sandboxes used by researchers. 
+
+
+
+Malwarebytes researchers have spotted a new Magecart group that uses a browser script to evade detection and the execution in virtualized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

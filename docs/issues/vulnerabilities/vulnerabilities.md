@@ -8,6 +8,24 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips Tasy EMR healthcare infomatics solution vulnerable to SQL injection<a href="https://securityaffairs.co/wordpress/124263/hacking/philips-tasy-emr-sql-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Philips Tasy EMR comprehensive healthcare informatics solution is affected by two critical SQL injection vulnerabilities. 
+
+
+
+The Philips Tasy EMR is a comprehensive healthcare informatics solution that is used by thousands of hospitals and healthcare...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+November 6, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Ransomware Now Targeting Time-Critical Events<a href="https://cyware.com/news/fbi-warning-ransomware-now-targeting-time-critical-events-1eeaef07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. officials noted that ransomware groups are directing attacks toward firms involved in time-sensitive financial events, such as corporate mergers and acquisitions.  The operators look for private and non-publicly available sensitive information to use during extortion. It is believed that  this ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

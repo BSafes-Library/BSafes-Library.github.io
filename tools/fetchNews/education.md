@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond the Basics: Tips for Building Advanced Ransomware Resiliency<a href="https://threatpost.com/tips-building-advanced-ransomware-resiliency/176052/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Joseph Carson, chief security scientist and advisory CISO at ThycoticCentrify, offers advice on least privilege, automation, application control and more.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
