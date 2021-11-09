@@ -8,6 +8,77 @@ nav_order: 900029
 
 ## Breach
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockean Group Cripples Multiple French Companies<a href="https://cyware.com/news/lockean-group-cripples-multiple-french-companies-b16e8ac7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French officials identified Lockean, a group that works as an affiliate with other RaaS infrastructure, behind a series of attacks against French organizations over the past two years.  Lockean’s average cut of paid ransoms stands at 70% while the rest goes to RaaS maintainers. O rganizations are s ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood discloses data breach impacting 7 million customers<a href="https://www.bleepingcomputer.com/news/security/robinhood-discloses-data-breach-impacting-7-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stock trading platform Robinhood has disclosed a data breach after their systems were hacked and a threat actor gained access to the personal information of approximately 7 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Indian Securities Depository CDSL Allegedly Impacted Investors’ Personal Data<a href="https://ciso.economictimes.indiatimes.com/news/data-breach-at-cdsls-kyc-arm-exposed-4-39-cr-investors-data-twice-within-10-days-cyberx9/87577170?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability at a CDSL subsidiary, CDSL Ventures Limited (CVL), has exposed personal and financial data of over 4 crore Indian investors twice in a period of 10 days, according to CyberX9.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State hackers breach defense, energy, healthcare orgs worldwide<a href="https://www.bleepingcomputer.com/news/security/state-hackers-breach-defense-energy-healthcare-orgs-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Palo Alto Networks warned over the weekend of an ongoing hacking campaign that has already resulted in the compromise of at least nine organizations worldwide from critical sectors, including defense, healthcare, energy, technology, and education.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach nine global organizations in ongoing espionage campaign<a href="https://thehill.com//policy/cybersecurity/580488-hackers-breach-nine-global-organizations-in-ongoing-espionage-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group with potential ties to China has breached&nbsp;nine global organizations as part of an ongoing espionage effort mostly targeting the defense sector, findings made public Sunday revealed.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

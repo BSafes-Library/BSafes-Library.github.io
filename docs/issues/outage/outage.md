@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack disrupted store operations in the Netherlands and Germany<a href="https://securityaffairs.co/wordpress/124338/cyber-crime/mediamarkt-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics retail giant&nbsp;MediaMarkt was hit by a ransomware attack that disrupted store operations in the Netherlands and Germany. 
+
+
+
+Electronics retail giant&nbsp;MediaMarkt was a victim of a ransomware attack that forced the company to shut down...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

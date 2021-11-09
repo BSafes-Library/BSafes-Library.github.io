@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee to be Taken Private in $14 Billion Private Equity Deal<a href="https://www.securityweek.com/mcafee-be-taken-private-14-billion-private-equity-deal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm McAfee Corp. has agreed to be acquired by a group of private equity firms led by Advent International, in a deal valued at more than $14 billion, the company announced Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will kill Chrome sync support on Chrome 48 and earlier<a href="https://www.bleepingcomputer.com/news/google/google-will-kill-chrome-sync-support-on-chrome-48-and-earlier/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will end&nbsp;support for the Chrome sync feature for all users still running Google Chrome 48 and earlier after Chrome 96 reaches the stable channel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCYTHE Announces $10 Million Series A Investment to Support Expansion of Enterprise-Level Cybersecurity<a href="https://finance.yahoo.com/news/scythe-announces-10-million-series-110000331.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SCYTHE, a provider of an adversarial emulation platform, today announced the company has received $10 million in Series A funding, led by Gula Tech Ventures and Paladin Capital Group.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

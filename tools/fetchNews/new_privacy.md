@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hungarian official confirms Hungary used NSO Group Pegasus spyware<a href="https://securityaffairs.co/wordpress/124310/intelligence/hungary-used-nso-group-pegasus-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Hungarian government official confirmed that his government has bought and used the controversial NSO Group's Pegasus spyware. 
+
+
+
+Lajos Kosa, chair of the Parliament’s Defense and Law Enforcement Committee, confirmed that Hungary is one of the clients...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

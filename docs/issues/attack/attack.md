@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MediaMarkt hit by Hive ransomware, initial $240 million ransom<a href="https://www.bleepingcomputer.com/news/security/mediamarkt-hit-by-hive-ransomware-initial-240-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics retail giant&nbsp;MediaMarkt has suffered a Hive ransomware with an initial ransom demand of $240 million, causing IT systems to shut down and store operations to be disrupted in Netherlands and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

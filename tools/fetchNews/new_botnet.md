@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Disclose Pink Botnet Amidst Multiple DDoS Alerts<a href="https://cyware.com/news/experts-disclose-pink-botnet-amidst-multiple-ddos-alerts-662ed0c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently reported a massive DDoS campaign involving Pink botnet that had infected millions of devices. It is touted as the largest botnet observed in the last six years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare – Patient or Perpetrator? – The Cybercriminals Within<a href="https://securityaffairs.co/wordpress/124334/hacking/healthcare-cyber-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare industry might be known for the work it does to treat patients. But it is also a prime target for malicious cyber actors. 
+
+
+
+With copious amounts of data collected by healthcare facilities, cybercriminals often target such entities. Moreover,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. offers $10 million reward for leaders of REvil ransomware<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-leaders-of-revil-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockean Group Cripples Multiple French Companies<a href="https://cyware.com/news/lockean-group-cripples-multiple-french-companies-b16e8ac7"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice Department seizes $6 million as part of crackdown on hackers linked to Kaseya attack<a href="https://thehill.com//policy/cybersecurity/580585-justice-department-seizes-million-as-part-of-crackdown-on-hackers-linked"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detail Malicious Code Dropped Using ManageEngine ADSelfService Exploit<a href="https://thehackernews.com/2021/11/experts-detail-malicious-code-dropped.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Initiative Persistence and the Consequence for Cyber Norms<a href="https://www.lawfareblog.com/initiative-persistence-and-consequence-cyber-norms"> Full Text</a>
@@ -115,7 +115,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack disrupted store operations in the Netherlands and Germany<a href="https://securityaffairs.co/wordpress/124338/cyber-crime/mediamarkt-ransomware-attack.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robinhood discloses data breach impacting 7 million customers<a href="https://www.bleepingcomputer.com/news/security/robinhood-discloses-data-breach-impacting-7-million-customers/"> Full Text</a>
@@ -151,7 +151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tortilla Gang Abusing ProxyShell Vulnerabilities to Spread Babuk<a href="https://cyware.com/news/tortilla-gang-abusing-proxyshell-vulnerabilities-to-spread-babuk-87cb0b18"> Full Text</a>
@@ -168,7 +168,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International coalition arrests hackers linked to thousands of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/580545-international-coalition-arrests-hackers-linked-to-thousands-of"> Full Text</a>
@@ -184,7 +184,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackBerry Uncovers Initial Access Broker Linked to 3 Distinct Hacker Groups<a href="https://thehackernews.com/2021/11/blackberry-uncover-initial-access.html"> Full Text</a>
@@ -200,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare – Patient or Perpetrator? – The Cybercriminals Within<a href="https://securityaffairs.co/wordpress/124334/hacking/healthcare-cyber-threat.html"> Full Text</a>
@@ -220,7 +220,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctions Chatex cryptoexchange used by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-chatex-cryptoexchange-used-by-ransomware-gangs/"> Full Text</a>
@@ -236,7 +236,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Disclose Pink Botnet Amidst Multiple DDoS Alerts<a href="https://cyware.com/news/experts-disclose-pink-botnet-amidst-multiple-ddos-alerts-662ed0c4"> Full Text</a>
@@ -252,7 +252,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Types of Penetration Testing<a href="https://thehackernews.com/2021/11/types-of-penetration-testing.html"> Full Text</a>
@@ -268,7 +268,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Cyclone targets Clop Ransomware affiliates<a href="https://securityaffairs.co/wordpress/124328/cyber-crime/interpol-operation-cyclone-clop-ransomware.html"> Full Text</a>
@@ -288,7 +288,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US seizes $6 million from REvil ransomware, arrest Kaseya hacker<a href="https://www.bleepingcomputer.com/news/security/us-seizes-6-million-from-revil-ransomware-arrest-kaseya-hacker/"> Full Text</a>
@@ -304,7 +304,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackMatter is Shutting Down - Is This Really Happening?<a href="https://cyware.com/news/blackmatter-is-shutting-down-is-this-really-happening-e7264c3d"> Full Text</a>
@@ -320,7 +320,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in Philips TASY EMR Could Expose Patient Data<a href="https://thehackernews.com/2021/11/critical-flaws-in-philips-tasy-emr.html"> Full Text</a>
@@ -336,7 +336,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-state actors target critical sectors by exploiting the CVE-2021-40539 flaw<a href="https://securityaffairs.co/wordpress/124315/hacking/nation-state-actors-critical-sectors-cve-2021-40539.html"> Full Text</a>
@@ -356,7 +356,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sitecore XP RCE flaw patched last month now actively exploited<a href="https://www.bleepingcomputer.com/news/security/sitecore-xp-rce-flaw-patched-last-month-now-actively-exploited/"> Full Text</a>
@@ -372,7 +372,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spam and Phishing Trends - Q3 2021 Edition<a href="https://cyware.com/news/spam-and-phishing-trends-q3-2021-edition-732ccd52"> Full Text</a>
@@ -388,7 +388,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hungarian official confirms Hungary used NSO Group Pegasus spyware<a href="https://securityaffairs.co/wordpress/124310/intelligence/hungary-used-nso-group-pegasus-spyware.html"> Full Text</a>
@@ -408,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminal group dismantled after forcing victims to be money mules<a href="https://www.bleepingcomputer.com/news/security/criminal-group-dismantled-after-forcing-victims-to-be-money-mules/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McAfee to be Taken Private in $14 Billion Private Equity Deal<a href="https://www.securityweek.com/mcafee-be-taken-private-14-billion-private-equity-deal?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of fraudulent schemes using cryptocurrency ATMs and QR for payments<a href="https://securityaffairs.co/wordpress/124305/cyber-crime/fbi-cryptocurrency-atms-qr-scams.html"> Full Text</a>
@@ -460,7 +460,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil ransomware affiliates arrested in Romania and Kuwait<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-affiliates-arrested-in-romania-and-kuwait/"> Full Text</a>
@@ -476,7 +476,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Indian Securities Depository CDSL Allegedly Impacted Investors’ Personal Data<a href="https://ciso.economictimes.indiatimes.com/news/data-breach-at-cdsls-kyc-arm-exposed-4-39-cr-investors-data-twice-within-10-days-cyberx9/87577170?&web_view=true"> Full Text</a>
@@ -492,7 +492,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MediaMarkt hit by Hive ransomware, initial $240 million ransom<a href="https://www.bleepingcomputer.com/news/security/mediamarkt-hit-by-hive-ransomware-initial-240-million-ransom/"> Full Text</a>
@@ -508,7 +508,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Government Claims Foreign Cyberattacks Impacted Passenger Records at Multiple Airlines<a href="https://therecord.media/china-says-a-foreign-spy-agency-hacked-its-airlines-stole-passenger-records/?&web_view=true"> Full Text</a>
@@ -524,7 +524,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google will kill Chrome sync support on Chrome 48 and earlier<a href="https://www.bleepingcomputer.com/news/google/google-will-kill-chrome-sync-support-on-chrome-48-and-earlier/"> Full Text</a>
@@ -540,7 +540,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SCYTHE Announces $10 Million Series A Investment to Support Expansion of Enterprise-Level Cybersecurity<a href="https://finance.yahoo.com/news/scythe-announces-10-million-series-110000331.html?&web_view=true"> Full Text</a>
@@ -556,7 +556,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State hackers breach defense, energy, healthcare orgs worldwide<a href="https://www.bleepingcomputer.com/news/security/state-hackers-breach-defense-energy-healthcare-orgs-worldwide/"> Full Text</a>
@@ -572,7 +572,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2021
+November 07, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach nine global organizations in ongoing espionage campaign<a href="https://thehill.com//policy/cybersecurity/580488-hackers-breach-nine-global-organizations-in-ongoing-espionage-campaign"> Full Text</a>
@@ -588,7 +588,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2021
+November 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two NPM Packages With 22 Million Weekly Downloads Found Backdoored<a href="https://thehackernews.com/2021/11/two-npm-packages-with-22-million-weekly.html"> Full Text</a>

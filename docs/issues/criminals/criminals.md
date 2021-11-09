@@ -8,6 +8,94 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. offers $10 million reward for leaders of REvil ransomware<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-leaders-of-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is offering up to $10 million for identifying or locating leaders in the REvil (Sodinokibi) ransomware operation, including $5 million leading to the arrest of affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Cyclone targets Clop Ransomware affiliates<a href="https://securityaffairs.co/wordpress/124328/cyber-crime/interpol-operation-cyclone-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Cyclone - Six alleged affiliates with the Clop ransomware operation were arrested in an international joint law enforcement operation led by Interpol.
+
+
+
+Interpol announced the arrest of six alleged affiliates with the Clop ransomware operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $6 million from REvil ransomware, arrest Kaseya hacker<a href="https://www.bleepingcomputer.com/news/security/us-seizes-6-million-from-revil-ransomware-arrest-kaseya-hacker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice today has announced charges against a REvil ransomware affiliate responsible for the attack against the Kaseya MSP platform on July 2nd and seizing more than $6 million from another REvil partner.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter is Shutting Down - Is This Really Happening?<a href="https://cyware.com/news/blackmatter-is-shutting-down-is-this-really-happening-e7264c3d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter has gained a huge amount of notoriety in a short span of time but its time in the underworld has apparently come to an end, or so its operators say.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminal group dismantled after forcing victims to be money mules<a href="https://www.bleepingcomputer.com/news/security/criminal-group-dismantled-after-forcing-victims-to-be-money-mules/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police have arrested 45 people who are believed to be members of an online fraud group that operated twenty websites to defraud at least 200 people of 1,500,000 Euros ($1.73 million).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware affiliates arrested in Romania and Kuwait<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-affiliates-arrested-in-romania-and-kuwait/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian law enforcement authorities&nbsp;have arrested&nbsp;two suspects believed to be Sodinokibi/REvil ransomware affiliates, allegedly responsible for infecting thousands of victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

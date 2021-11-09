@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions Chatex cryptoexchange used by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-chatex-cryptoexchange-used-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department announced today sanctions against the Chatex cryptocurrency exchange for helping ransomware gangs evade sanctions and facilitating ransom transactions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fraudulent schemes using cryptocurrency ATMs and QR for payments<a href="https://securityaffairs.co/wordpress/124305/cyber-crime/fbi-cryptocurrency-atms-qr-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of an increase of fraudulent schemes leveraging cryptocurrency ATMs and QR Codes to facilitate payment.
+
+
+
+The FBI Internet Crime Complaint Center (IC3) published an alert to warn the public of fraudulent schemes leveraging cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Government Claims Foreign Cyberattacks Impacted Passenger Records at Multiple Airlines<a href="https://therecord.media/china-says-a-foreign-spy-agency-hacked-its-airlines-stole-passenger-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking campaign was discovered after one of China’s airlines reported a security breach to MSS officials in January 2020. A subsequent investigation found several other airlines also impacted.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

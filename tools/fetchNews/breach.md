@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+November 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Casinos of tribal communities are losing millions in Ransomware attacks<a href="https://securityaffairs.co/wordpress/124273/cyber-crime/ransomware-casinos-tribal-communities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a private industry notification (PIN) to warn of ransomware attacks that hit several tribal-owned casinos last year.
+
+
+
+A private industry notification issued by the FBI's Cyber Division revealed that ransomware attacks hit several tribal-owned...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

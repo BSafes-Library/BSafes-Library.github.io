@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Types of Penetration Testing<a href="https://thehackernews.com/2021/11/types-of-penetration-testing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you are thinking about performing a penetration test on your organization, you might be interested in learning about the different types of tests available. With that knowledge, you'll be better equipped to define the scope for your project, hire the right expert and, ultimately, achieve your security objectives.  What is penetration testing?  Penetration testing, commonly referred to as "pen testing," is a technique that simulates real-life attacks on your IT systems to find weaknesses that could be exploited by hackers. Whether to comply with security regulations such as ISO 27001, gain customer and 3rd party trust, or achieve your own peace of mind, penetration testing is an effective method used by modern organizations to strengthen their cyber security posture and prevent data breaches.&nbsp;  Read about the different types of penetration testing to find out which type you can benefit from the most:  Network penetration testing  As the name suggests, a network penetra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

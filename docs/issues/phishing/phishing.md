@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spam and Phishing Trends - Q3 2021 Edition<a href="https://cyware.com/news/spam-and-phishing-trends-q3-2021-edition-732ccd52"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers attempted to cash in on anniversaries of brands, such as IKEA, Tesco, and Amazon, by creating fake sites related to the brands and holding prize draws or surveys.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
