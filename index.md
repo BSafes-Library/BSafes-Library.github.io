@@ -34,6 +34,576 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. offers $10 million reward for leaders of REvil ransomware<a href="https://www.bleepingcomputer.com/news/security/us-offers-10-million-reward-for-leaders-of-revil-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is offering up to $10 million for identifying or locating leaders in the REvil (Sodinokibi) ransomware operation, including $5 million leading to the arrest of affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockean Group Cripples Multiple French Companies<a href="https://cyware.com/news/lockean-group-cripples-multiple-french-companies-b16e8ac7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French officials identified Lockean, a group that works as an affiliate with other RaaS infrastructure, behind a series of attacks against French organizations over the past two years.  Lockean’s average cut of paid ransoms stands at 70% while the rest goes to RaaS maintainers. O rganizations are s ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department seizes $6 million as part of crackdown on hackers linked to Kaseya attack<a href="https://thehill.com//policy/cybersecurity/580585-justice-department-seizes-million-as-part-of-crackdown-on-hackers-linked"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department on Monday announced that it had seized more than $6 million in ransomware victim payments as part of a sweeping effort by the Biden administration to go after and crack down on hackers involved in ransomware attacks against U.S. companies. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Malicious Code Dropped Using ManageEngine ADSelfService Exploit<a href="https://thehackernews.com/2021/11/experts-detail-malicious-code-dropped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least nine entities across the technology, defense, healthcare, energy, and education industries were compromised by leveraging a  recently patched critical vulnerability  in Zoho's ManageEngine ADSelfService Plus self-service password management and single sign-on (SSO) solution.  The spying campaign, which was observed starting September 22, 2021, involved the threat actor taking advantage of the flaw to gain initial access to targeted organizations, before moving laterally through the network to carry out post-exploitation activities by deploying malicious tools designed to harvest credentials and exfiltrate sensitive information via a backdoor.  "The actor heavily relies on the Godzilla web shell, uploading several variations of the open-source web shell to the compromised server over the course of the operation," researchers from Palo Alto Networks' Unit 42 threat intelligence team  said  in a report. "Several other tools have novel characteristics or ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initiative Persistence and the Consequence for Cyber Norms<a href="https://www.lawfareblog.com/initiative-persistence-and-consequence-cyber-norms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents like CYBERCOM's 2018 Command Vision are less provocative in the context of other directives, but who in the U.S. government takes precedence in constructing cyber norms?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack disrupted store operations in the Netherlands and Germany<a href="https://securityaffairs.co/wordpress/124338/cyber-crime/mediamarkt-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics retail giant MediaMarkt was hit by a ransomware attack that disrupted store operations in the Netherlands and Germany. 
+
+
+
+Electronics retail giant MediaMarkt was a victim of a ransomware attack that forced the company to shut down...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood discloses data breach impacting 7 million customers<a href="https://www.bleepingcomputer.com/news/security/robinhood-discloses-data-breach-impacting-7-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stock trading platform Robinhood has disclosed a data breach after their systems were hacked and a threat actor gained access to the personal information of approximately 7 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tortilla Gang Abusing ProxyShell Vulnerabilities to Spread Babuk<a href="https://cyware.com/news/tortilla-gang-abusing-proxyshell-vulnerabilities-to-spread-babuk-87cb0b18"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos red-flagged a new campaign by Tortilla, one of Babuk’s affiliates, for targeting ProxyShell flaws in Exchange Server in an attempt to breach corporate networks.  The gang asks for around $10,000 ransom in Monero to decrypt the encrypted documents. M ore similar attacks are expected in t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International coalition arrests hackers linked to thousands of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/580545-international-coalition-arrests-hackers-linked-to-thousands-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian authorities have arrested two individuals they say are linked to the use of REvil ransomware as part of a prolific hacking group tied to attacks on several major American companies in recent months. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackBerry Uncovers Initial Access Broker Linked to 3 Distinct Hacker Groups<a href="https://thehackernews.com/2021/11/blackberry-uncover-initial-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented initial access broker has been unmasked as providing entry points to three different threat actors for mounting intrusions that range from financially motivated ransomware attacks to phishing campaigns.  BlackBerry's research and intelligence team dubbed the entity " Zebra2104 ," with the group responsible for offering a means of a digital approach to ransomware syndicates such as MountLocker and Phobos, as well as the advanced persistent threat (APT) tracked under the moniker  StrongPity  (aka Promethium).  The threat landscape as we know it has been increasingly dominated by a category of players known as the initial access brokers ( IABs ), who are known to provide other cyber-criminal groups, including ransomware affiliates, with a  foothold to an infinite pool of potential organizations  belonging to diverse geographies and sectors via persistent backdoors into the victim networks, effectively building a pricing model for remote access.   &
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare – Patient or Perpetrator? – The Cybercriminals Within<a href="https://securityaffairs.co/wordpress/124334/hacking/healthcare-cyber-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare industry might be known for the work it does to treat patients. But it is also a prime target for malicious cyber actors. 
+
+
+
+With copious amounts of data collected by healthcare facilities, cybercriminals often target such entities. Moreover,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions Chatex cryptoexchange used by ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-chatex-cryptoexchange-used-by-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department announced today sanctions against the Chatex cryptocurrency exchange for helping ransomware gangs evade sanctions and facilitating ransom transactions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Disclose Pink Botnet Amidst Multiple DDoS Alerts<a href="https://cyware.com/news/experts-disclose-pink-botnet-amidst-multiple-ddos-alerts-662ed0c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers recently reported a massive DDoS campaign involving Pink botnet that had infected millions of devices. It is touted as the largest botnet observed in the last six years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Types of Penetration Testing<a href="https://thehackernews.com/2021/11/types-of-penetration-testing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you are thinking about performing a penetration test on your organization, you might be interested in learning about the different types of tests available. With that knowledge, you'll be better equipped to define the scope for your project, hire the right expert and, ultimately, achieve your security objectives.  What is penetration testing?  Penetration testing, commonly referred to as "pen testing," is a technique that simulates real-life attacks on your IT systems to find weaknesses that could be exploited by hackers. Whether to comply with security regulations such as ISO 27001, gain customer and 3rd party trust, or achieve your own peace of mind, penetration testing is an effective method used by modern organizations to strengthen their cyber security posture and prevent data breaches.   Read about the different types of penetration testing to find out which type you can benefit from the most:  Network penetration testing  As the name suggests, a network penetra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Cyclone targets Clop Ransomware affiliates<a href="https://securityaffairs.co/wordpress/124328/cyber-crime/interpol-operation-cyclone-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Cyclone - Six alleged affiliates with the Clop ransomware operation were arrested in an international joint law enforcement operation led by Interpol.
+
+
+
+Interpol announced the arrest of six alleged affiliates with the Clop ransomware operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes $6 million from REvil ransomware, arrest Kaseya hacker<a href="https://www.bleepingcomputer.com/news/security/us-seizes-6-million-from-revil-ransomware-arrest-kaseya-hacker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States Department of Justice today has announced charges against a REvil ransomware affiliate responsible for the attack against the Kaseya MSP platform on July 2nd and seizing more than $6 million from another REvil partner.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackMatter is Shutting Down - Is This Really Happening?<a href="https://cyware.com/news/blackmatter-is-shutting-down-is-this-really-happening-e7264c3d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMatter has gained a huge amount of notoriety in a short span of time but its time in the underworld has apparently come to an end, or so its operators say.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Philips TASY EMR Could Expose Patient Data<a href="https://thehackernews.com/2021/11/critical-flaws-in-philips-tasy-emr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of critical vulnerabilities affecting Philips Tasy electronic medical records (EMR) system  that could be exploited by remote threat actors to extract sensitive patient data from patient databases.  "Successful exploitation of these vulnerabilities could result in patients' confidential data being exposed or extracted from Tasy's database, give unauthorized access, or create a denial-of-service condition," CISA  said  in a medical bulletin issued on November 4.  Used by over 950 healthcare institutions primarily in Latin America, Philips Tasy EMR is designed as an  integrated healthcare informatics  solution that enables centralized management of clinical, organizational and administrative processes, including incorporating analytics, billing, and inventory and supply management for medical prescriptions.   The  SQL injection  flaws — CVE-2021-39375 and CVE-2021-39376 — affect Tasy EMR HTML5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state actors target critical sectors by exploiting the CVE-2021-40539 flaw<a href="https://securityaffairs.co/wordpress/124315/hacking/nation-state-actors-critical-sectors-cve-2021-40539.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of an ongoing hacking campaign that already compromised at least nine organizations worldwide from critical sectors by exploiting CVE-2021-40539.
+
+
+
+Cybersecurity experts from Palo Alto Networks warn of an ongoing cyberespionage campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sitecore XP RCE flaw patched last month now actively exploited<a href="https://www.bleepingcomputer.com/news/security/sitecore-xp-rce-flaw-patched-last-month-now-actively-exploited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Center (ACSC) is alerting web admins of the active exploitation of CVE-2021-42237, a remote code execution flaw in the Sitecore Experience Platform (Sitecore XP).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spam and Phishing Trends - Q3 2021 Edition<a href="https://cyware.com/news/spam-and-phishing-trends-q3-2021-edition-732ccd52"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers attempted to cash in on anniversaries of brands, such as IKEA, Tesco, and Amazon, by creating fake sites related to the brands and holding prize draws or surveys.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hungarian official confirms Hungary used NSO Group Pegasus spyware<a href="https://securityaffairs.co/wordpress/124310/intelligence/hungary-used-nso-group-pegasus-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Hungarian government official confirmed that his government has bought and used the controversial NSO Group's Pegasus spyware. 
+
+
+
+Lajos Kosa, chair of the Parliament’s Defense and Law Enforcement Committee, confirmed that Hungary is one of the clients...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminal group dismantled after forcing victims to be money mules<a href="https://www.bleepingcomputer.com/news/security/criminal-group-dismantled-after-forcing-victims-to-be-money-mules/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish police have arrested 45 people who are believed to be members of an online fraud group that operated twenty websites to defraud at least 200 people of 1,500,000 Euros ($1.73 million).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McAfee to be Taken Private in $14 Billion Private Equity Deal<a href="https://www.securityweek.com/mcafee-be-taken-private-14-billion-private-equity-deal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm McAfee Corp. has agreed to be acquired by a group of private equity firms led by Advent International, in a deal valued at more than $14 billion, the company announced Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of fraudulent schemes using cryptocurrency ATMs and QR for payments<a href="https://securityaffairs.co/wordpress/124305/cyber-crime/fbi-cryptocurrency-atms-qr-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of an increase of fraudulent schemes leveraging cryptocurrency ATMs and QR Codes to facilitate payment.
+
+
+
+The FBI Internet Crime Complaint Center (IC3) published an alert to warn the public of fraudulent schemes leveraging cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil ransomware affiliates arrested in Romania and Kuwait<a href="https://www.bleepingcomputer.com/news/security/revil-ransomware-affiliates-arrested-in-romania-and-kuwait/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian law enforcement authorities have arrested two suspects believed to be Sodinokibi/REvil ransomware affiliates, allegedly responsible for infecting thousands of victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Indian Securities Depository CDSL Allegedly Impacted Investors’ Personal Data<a href="https://ciso.economictimes.indiatimes.com/news/data-breach-at-cdsls-kyc-arm-exposed-4-39-cr-investors-data-twice-within-10-days-cyberx9/87577170?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability at a CDSL subsidiary, CDSL Ventures Limited (CVL), has exposed personal and financial data of over 4 crore Indian investors twice in a period of 10 days, according to CyberX9.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MediaMarkt hit by Hive ransomware, initial $240 million ransom<a href="https://www.bleepingcomputer.com/news/security/mediamarkt-hit-by-hive-ransomware-initial-240-million-ransom/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics retail giant MediaMarkt has suffered a Hive ransomware with an initial ransom demand of $240 million, causing IT systems to shut down and store operations to be disrupted in Netherlands and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Government Claims Foreign Cyberattacks Impacted Passenger Records at Multiple Airlines<a href="https://therecord.media/china-says-a-foreign-spy-agency-hacked-its-airlines-stole-passenger-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacking campaign was discovered after one of China’s airlines reported a security breach to MSS officials in January 2020. A subsequent investigation found several other airlines also impacted.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will kill Chrome sync support on Chrome 48 and earlier<a href="https://www.bleepingcomputer.com/news/google/google-will-kill-chrome-sync-support-on-chrome-48-and-earlier/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will end support for the Chrome sync feature for all users still running Google Chrome 48 and earlier after Chrome 96 reaches the stable channel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCYTHE Announces $10 Million Series A Investment to Support Expansion of Enterprise-Level Cybersecurity<a href="https://finance.yahoo.com/news/scythe-announces-10-million-series-110000331.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SCYTHE, a provider of an adversarial emulation platform, today announced the company has received $10 million in Series A funding, led by Gula Tech Ventures and Paladin Capital Group.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State hackers breach defense, energy, healthcare orgs worldwide<a href="https://www.bleepingcomputer.com/news/security/state-hackers-breach-defense-energy-healthcare-orgs-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Palo Alto Networks warned over the weekend of an ongoing hacking campaign that has already resulted in the compromise of at least nine organizations worldwide from critical sectors, including defense, healthcare, energy, technology, and education.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach nine global organizations in ongoing espionage campaign<a href="https://thehill.com//policy/cybersecurity/580488-hackers-breach-nine-global-organizations-in-ongoing-espionage-campaign"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group with potential ties to China has breached nine global organizations as part of an ongoing espionage effort mostly targeting the defense sector, findings made public Sunday revealed. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two NPM Packages With 22 Million Weekly Downloads Found Backdoored<a href="https://thehackernews.com/2021/11/two-npm-packages-with-22-million-weekly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's yet another instance of supply chain attack targeting open-source software repositories, two popular NPM packages with cumulative weekly downloads of nearly 22 million were found to be compromised with malicious code by gaining unauthorized access to the respective developer's accounts.  The two libraries in question are " coa ," a parser for command-line options, and " rc ," a configuration loader, both of which were  tampered  by an  unidentified threat actor  to include "identical" password-stealing malware.   All versions of coa starting with 2.0.3 and above — 2.0.3, 2.0.4, 2.1.1, 2.1.3, 3.0.1, and 3.1.3 — are impacted, and users of the affected versions are advised to downgrade to 2.0.2 as soon as possible and check their systems for suspicious activity, according to a GitHub advisory  published  on November 4. In a similar vein, versions 1.2.9, 1.3.9, and 2.3.9 of rc have been found laced with malware, with an  independent alert  u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 07, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
