@@ -8,6 +8,67 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tortilla Gang Abusing ProxyShell Vulnerabilities to Spread Babuk<a href="https://cyware.com/news/tortilla-gang-abusing-proxyshell-vulnerabilities-to-spread-babuk-87cb0b18"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos red-flagged a new campaign by Tortilla, one of Babuk’s affiliates, for targeting ProxyShell flaws in Exchange Server in an attempt to breach corporate networks.  The gang asks for around $10,000 ransom in Monero to decrypt the encrypted documents. M ore similar attacks are expected in t ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International coalition arrests hackers linked to thousands of ransomware attacks<a href="https://thehill.com//policy/cybersecurity/580545-international-coalition-arrests-hackers-linked-to-thousands-of"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian authorities have arrested two individuals they say are linked to the use of REvil ransomware as part of a prolific hacking group tied to attacks on several major American companies in recent months.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackBerry Uncovers Initial Access Broker Linked to 3 Distinct Hacker Groups<a href="https://thehackernews.com/2021/11/blackberry-uncover-initial-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented initial access broker has been unmasked as providing entry points to three different threat actors for mounting intrusions that range from financially motivated ransomware attacks to phishing campaigns.  BlackBerry's research and intelligence team dubbed the entity " Zebra2104 ," with the group responsible for offering a means of a digital approach to ransomware syndicates such as MountLocker and Phobos, as well as the advanced persistent threat (APT) tracked under the moniker&nbsp; StrongPity &nbsp;(aka Promethium).  The threat landscape as we know it has been increasingly dominated by a category of players known as the initial access brokers ( IABs ), who are known to provide other cyber-criminal groups, including ransomware affiliates, with a&nbsp; foothold to an infinite pool of potential organizations &nbsp;belonging to diverse geographies and sectors via persistent backdoors into the victim networks, effectively building a pricing model for remote access.   &amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state actors target critical sectors by exploiting the CVE-2021-40539 flaw<a href="https://securityaffairs.co/wordpress/124315/hacking/nation-state-actors-critical-sectors-cve-2021-40539.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of an ongoing hacking campaign that already compromised at least nine organizations worldwide from critical sectors by exploiting CVE-2021-40539.
+
+
+
+Cybersecurity experts from Palo Alto Networks warn of an ongoing cyberespionage campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

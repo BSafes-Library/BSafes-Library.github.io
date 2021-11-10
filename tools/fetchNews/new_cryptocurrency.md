@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers on a Crypto Stealing Frenzy<a href="https://cyware.com/news/scammers-on-a-crypto-stealing-frenzy-e9372474"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency has recently gained huge popularity among netizens. However, this has also drawn cybercriminals to various crypto platforms and their users for malicious intents and purposes.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Abusing Exposed Docker Rest APIs for Launching Cryptomining Attacks<a href="https://www.trendmicro.com/en_us/research/21/k/compromised-docker-hub-accounts-abused-for-cryptomining-linked-t.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised Docker Hub registry accounts were being used to host malicious images and were an active part of botnets and malware campaigns that abused the Docker REST API.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

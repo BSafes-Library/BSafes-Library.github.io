@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initiative Persistence and the Consequence for Cyber Norms<a href="https://www.lawfareblog.com/initiative-persistence-and-consequence-cyber-norms"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents like CYBERCOM's 2018 Command Vision are less provocative in the context of other directives, but who in the U.S. government takes precedence in constructing cyber norms?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

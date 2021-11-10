@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical software firm urges password resets after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/medical-software-firm-urges-password-resets-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medatixx, a German medical software vendor whose products are used in over 21,000 health institutions, urges customers to change their application passwords following a ransomware attack that has severely impaired its entire operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

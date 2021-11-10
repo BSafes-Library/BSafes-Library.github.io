@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State and local officials celebrate passage of infrastructure bill with $1 billion in cyber funds<a href="https://thehill.com//policy/cybersecurity/580649-state-and-local-officials-celebrate-passage-of-infrastructure-bill-with"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State and local officials are celebrating the expected distribution of $1 billion in cybersecurity funds from the newly approved infrastructure deal, the biggest government investment in state and local cybersecurity to date.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

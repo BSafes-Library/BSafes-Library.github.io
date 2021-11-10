@@ -8,6 +8,63 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT hackers target your poorly configured Docker servers<a href="https://www.bleepingcomputer.com/news/security/teamtnt-hackers-target-your-poorly-configured-docker-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly configured Docker servers and being actively targeted by the TeamTNT hacking group in an ongoing campaign started last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Group Exploits Zoho Flaws in U.S Orgs<a href="https://cyware.com/news/new-threat-group-exploits-zoho-flaws-in-us-orgs-13741069"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks discovered that Emissary Panda, a hacking group with ties to China, is exploiting Zoho software flaws in the networks of at least nine organizations in the defense, energy, technology, healthcare, and education sectors.  The attackers were using malicious tools for credentials ha ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian state hackers use upgraded malware in attacks on ISPs, telcos<a href="https://www.bleepingcomputer.com/news/security/iranian-state-hackers-use-upgraded-malware-in-attacks-on-isps-telcos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-supported APT known as 'Lyceum' (Hexane, Spilrin) targeted ISPs and telecommunication service providers in the Middle East and Africa between July and October 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyceum Threat Group Targeting Telecom Companies, ISPs in Israel, Morocco, Tunisia, and Saudi Arabia<a href="https://www.zdnet.com/article/meet-lyceum-iranian-hackers-targeting-telecoms-isps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report, between July and October this year, Lyceum was spotted in attacks against ISPs and telecoms organizations across Israel, Morocco, Tunisia, and Saudi Arabia.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

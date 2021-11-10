@@ -8,6 +8,84 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International law enforcement arrested REvil ransomware affiliates in Romania and Kuwait<a href="https://securityaffairs.co/wordpress/124372/cyber-crime/revil-ransomware-arrests-romania-and-kuwait.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian police arrested two alleged Sodinokibi/REvil ransomware affiliates accused to have orchestrated attacks against thousands of victims. 
+
+
+
+Romanian law enforcement agencies have arrested two alleged Sodinokibi/REvil ransomware affiliates on November...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoS offers a reward of up to $10M for leaders of REvil ransomware gang<a href="https://securityaffairs.co/wordpress/124366/cyber-crime/us-reward-10m-leaders-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government offers up to $10 million for identifying or locating leaders in the REvil/Sodinokibi ransomware operation
+
+
+
+The Department of State offers up to $10 million for information that can lead to the identification or location of individuals...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop gang exploiting SolarWinds Serv-U flaw in ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/clop-gang-exploiting-solarwinds-serv-u-flaw-in-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware gang, also tracked as TA505 and FIN11, is exploiting a SolarWinds Serv-U vulnerability to breach corporate networks and ultimately encrypt its devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected REvil Ransomware Affiliates Arrested in Global Takedown<a href="https://thehackernews.com/2021/11/suspected-revil-ransomware-affiliates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian law enforcement authorities have&nbsp; announced &nbsp;the arrest of two individuals for their roles as affiliates of the REvil ransomware family, dealing a severe blow to one of the most prolific cybercrime gangs in history.  The suspects are believed to have&nbsp; orchestrated &nbsp;more than 5,000 ransomware attacks and extorted close to $600,000 from victims, according to Europol. The arrests, which happened on November 4, are part of a coordinated operation called GoldDust , which has resulted in the arrest of three other REvil affiliates and two suspects connected to GandCrab in Kuwait and South Korea since February 2021.   This also includes a 22-year-old Ukrainian national, Yaroslav Vasinskyi, who was arrested in early October and has been accused of perpetrating the&nbsp; devastating attack &nbsp;on Florida-based software firm Kaseya in July 2021, affecting up to 1,500 downstream businesses. In all, the seven suspects linked to the two ransomware families are said to have targeted about 7,000 vic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Affiliates Arrested; DOJ Seizes $6.1M in Ransom<a href="https://threatpost.com/revil-affiliates-arrested-doj-europol/176087/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. is seeking the extradition of a Ukrainian man, Yaroslav Vasinskyi, whom they suspect is behind the Kaseya supply-chain attacks and other REvil attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

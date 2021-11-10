@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Shatter Records in Q3, Report Finds &nbsp;<a href="https://threatpost.com/ddos-attacks-records-q3/176082/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Q3 DDoS attacks topped thousands daily, with more growth expected.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

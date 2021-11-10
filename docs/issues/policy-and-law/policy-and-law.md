@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian REvil affiliate charged with Ransomware Attack on Kaseya<a href="https://securityaffairs.co/wordpress/124352/cyber-crime/doj-charges-revil-ransomware-affiliate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ has charged a REvil ransomware affiliate that is suspected to have orchestrated the attack on Kaseya MSP platform in July.  
+
+
+
+The US Department of Justice has charged a REvil ransomware affiliate for orchestrating the&nbsp;ransomware attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges Ukrainian Hacker for Kaseya Attack; Seizes $6 Million from REvil Gang<a href="https://thehackernews.com/2021/11/us-charges-ukrainian-hacker-for-kaseya.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Monday charged a Ukrainian suspect, arrested in Poland last month, with deploying REvil ransomware to target multiple businesses and government entities in the country, including perpetrating the attack against software company Kaseya, marking the latest action to crack down on the cybercrime group and curb further attacks.  According to unsealed court documents, 22-year-old Yaroslav Vasinskyi is&nbsp; alleged &nbsp;to have been part of the ransomware operation at least since March 2019 and deployed about 2,500 attacks against businesses worldwide. Vasinskyi (aka Profcomserv, Rabotnik, Rabotnik_New, Yarik45, Yaraslav2468, and Affiliate 22) was apprehended at the Polish border on October 8 after an international arrest warrant was issued at the behest of U.S. authorities.  In another major development, the Justice Department disclosed the seizure of $6.1 million in alleged ransomware payments received by Russian national Yevgeniy Polyanin, who is currently at large and has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

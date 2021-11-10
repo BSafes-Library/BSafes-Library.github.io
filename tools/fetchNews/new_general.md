@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Frontier of Enterprise Risk: Nth Parties<a href="https://threatpost.com/enterprise-risk-nth-parties/176114/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average number of vulnerabilities discovered in a Cyberpion scan of external Fortune 500 networks (such as cloud systems) was 296, many critical (with the top of the scale weighing in at a staggering 7,500).
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Philips TASY EMR Could Expose Patient Data<a href="https://thehackernews.com/2021/11/critical-flaws-in-philips-tasy-emr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of critical vulnerabilities affecting Philips Tasy electronic medical records (EMR) system  that could be exploited by remote threat actors to extract sensitive patient data from patient databases.  "Successful exploitation of these vulnerabilities could result in patients' confidential data being exposed or extracted from Tasy's database, give unauthorized access, or create a denial-of-service condition," CISA&nbsp; said &nbsp;in a medical bulletin issued on November 4.  Used by over 950 healthcare institutions primarily in Latin America, Philips Tasy EMR is designed as an&nbsp; integrated healthcare informatics &nbsp;solution that enables centralized management of clinical, organizational and administrative processes, including incorporating analytics, billing, and inventory and supply management for medical prescriptions.   The&nbsp; SQL injection &nbsp;flaws — CVE-2021-39375 and CVE-2021-39376 — affect Tasy EMR HTML5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sitecore XP RCE flaw patched last month now actively exploited<a href="https://www.bleepingcomputer.com/news/security/sitecore-xp-rce-flaw-patched-last-month-now-actively-exploited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Center (ACSC) is alerting web admins of the active exploitation of CVE-2021-42237, a remote code execution flaw in the Sitecore Experience Platform (Sitecore XP).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

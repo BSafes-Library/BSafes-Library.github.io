@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department seizes $6 million as part of crackdown on hackers linked to Kaseya attack<a href="https://thehill.com//policy/cybersecurity/580585-justice-department-seizes-million-as-part-of-crackdown-on-hackers-linked"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department on Monday announced that it had seized&nbsp;more than $6 million in ransomware victim payments as part of a sweeping effort by the Biden administration to go after and crack down on hackers involved in ransomware attacks against U.S. companies.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unique Challenges to Cyber-Security in Healthcare and How to Address Them<a href="https://thehackernews.com/2021/11/unique-challenges-to-cyber-security-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No business is out of danger of cyberattacks today. However, specific industries are particularly at risk and a favorite of attackers. For years, the healthcare industry has taken the brunt of ransomware attacks, data breaches, and other cyberattacks.  Why is the healthcare industry particularly at risk for a cyberattack? What are the unique challenges to cybersecurity in healthcare, and how can healthcare organizations address these?  Healthcare at risk  Attackers are targeting various industries across the board. However, attackers seem to have a particular affinity for healthcare organizations. For eleven consecutive years, in the&nbsp; IBM Cost of a Data Breach Report 2021 , healthcare had the highest industry cost of a breach. Additionally, Healthcare data breach costs increased from an average total cost of $7.13 million in 2020 to $9.23 million in 2021, a 29.5% increase.  However, the tremendous cost sustained by healthcare organizations for data breach events is not only due to the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
