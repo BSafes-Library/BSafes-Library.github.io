@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 November 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+NUCLEUS:13 TCP security bugs impact critical healthcare devices<a href="https://www.bleepingcomputer.com/news/security/nucleus-13-tcp-security-bugs-impact-critical-healthcare-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers today published details about a suite of 13 vulnerabilities in the Nucleus real-time operating system (RTOS) from Siemens that powers devices used in the medical, industrial, automotive, and aerospace sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT hackers target your poorly configured Docker servers<a href="https://www.bleepingcomputer.com/news/security/teamtnt-hackers-target-your-poorly-configured-docker-servers/"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenText Acquires Email Security Firm Zix for $860 Million<a href="https://www.securityweek.com/opentext-acquires-email-security-firm-zix-860-million?&web_view=true"> Full Text</a>
@@ -66,7 +82,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robinhood says information on millions of customers stolen in data breach<a href="https://thehill.com//policy/cybersecurity/580706-robinhood-says-information-on-millions-of-customers-stolen-in-data"> Full Text</a>
@@ -82,7 +98,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unique Challenges to Cyber-Security in Healthcare and How to Address Them<a href="https://thehackernews.com/2021/11/unique-challenges-to-cyber-security-in.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robinhood data breach exposes 7 Million users’ information<a href="https://securityaffairs.co/wordpress/124412/data-breach/robinhood-data-breach.html"> Full Text</a>
@@ -118,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Nov. Patch Tuesday Fixes Six Zero-Days, 55 Bugs<a href="https://threatpost.com/microsoft-nov-patch-tuesday-fixes-six-zero-days-55-bugs/176143/"> Full Text</a>
@@ -134,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft urges Exchange admins to patch bug exploited in the wild<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-urges-exchange-admins-to-patch-bug-exploited-in-the-wild/"> Full Text</a>
@@ -150,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Group Exploits Zoho Flaws in U.S Orgs<a href="https://cyware.com/news/new-threat-group-exploits-zoho-flaws-in-us-orgs-13741069"> Full Text</a>
@@ -167,7 +183,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State and local officials celebrate passage of infrastructure bill with $1 billion in cyber funds<a href="https://thehill.com//policy/cybersecurity/580649-state-and-local-officials-celebrate-passage-of-infrastructure-bill-with"> Full Text</a>
@@ -183,7 +199,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robinhood Trading App Suffers Data Breach Exposing 7 Million Users' Information<a href="https://thehackernews.com/2021/11/robinhood-trading-app-suffers-data.html"> Full Text</a>
@@ -199,7 +215,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday security updates for November 2021 fix 2 Zero-Days actively exploited<a href="https://securityaffairs.co/wordpress/124405/security/microsoft-patch-tuesday-november-2021.html"> Full Text</a>
@@ -219,7 +235,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 12 New Flaws Used in Ransomware Attacks in Q3<a href="https://threatpost.com/12-new-flaws-used-in-ransomware-attacks-in-q3/176137/"> Full Text</a>
@@ -235,7 +251,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft November 2021 Patch Tuesday fixes 6 zero-days, 55 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2021-patch-tuesday-fixes-6-zero-days-55-flaws/"> Full Text</a>
@@ -251,7 +267,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers on a Crypto Stealing Frenzy<a href="https://cyware.com/news/scammers-on-a-crypto-stealing-frenzy-e9372474"> Full Text</a>
@@ -267,7 +283,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop gang exploiting CVE-2021-35211 RCE in SolarWinds Serv-U in recent attack<a href="https://securityaffairs.co/wordpress/124389/hacking/clop-gang-exploiting-cve-2021-35211-solarwinds-serv-u.html"> Full Text</a>
@@ -287,7 +303,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The New Frontier of Enterprise Risk: Nth Parties<a href="https://threatpost.com/enterprise-risk-nth-parties/176114/"> Full Text</a>
@@ -303,7 +319,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian state hackers use upgraded malware in attacks on ISPs, telcos<a href="https://www.bleepingcomputer.com/news/security/iranian-state-hackers-use-upgraded-malware-in-attacks-on-isps-telcos/"> Full Text</a>
@@ -319,7 +335,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SafeBreach Closes $53.5 Million Series D in New Funding to Fuel Momentum<a href="https://www.darkreading.com/attacks-breaches/safebreach-closes-53-5-million-series-d-in-new-funding-to-fuel-momentum?&web_view=true"> Full Text</a>
@@ -335,7 +351,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International law enforcement arrested REvil ransomware affiliates in Romania and Kuwait<a href="https://securityaffairs.co/wordpress/124372/cyber-crime/revil-ransomware-arrests-romania-and-kuwait.html"> Full Text</a>
@@ -355,7 +371,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Browser 11 removes V2 Onion URL support, adds new UI<a href="https://www.bleepingcomputer.com/news/software/tor-browser-11-removes-v2-onion-url-support-adds-new-ui/"> Full Text</a>
@@ -371,7 +387,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Critical Vulnerabilities Found on Nucleus TCP/IP Stack<a href="https://www.forescout.com/blog/new-critical-vulnerabilities-found-on-nucleus-tcp-ip-stack/?&web_view=true"> Full Text</a>
@@ -387,7 +403,7 @@ Forescout
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoS offers a reward of up to $10M for leaders of REvil ransomware gang<a href="https://securityaffairs.co/wordpress/124366/cyber-crime/us-reward-10m-leaders-revil.html"> Full Text</a>
@@ -407,7 +423,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop gang exploiting SolarWinds Serv-U flaw in ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/clop-gang-exploiting-solarwinds-serv-u-flaw-in-ransomware-attacks/"> Full Text</a>
@@ -423,7 +439,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Abusing Exposed Docker Rest APIs for Launching Cryptomining Attacks<a href="https://www.trendmicro.com/en_us/research/21/k/compromised-docker-hub-accounts-abused-for-cryptomining-linked-t.html?&web_view=true"> Full Text</a>
@@ -439,7 +455,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian REvil affiliate charged with Ransomware Attack on Kaseya<a href="https://securityaffairs.co/wordpress/124352/cyber-crime/doj-charges-revil-ransomware-affiliate.html"> Full Text</a>
@@ -459,7 +475,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2021
+November 09, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical software firm urges password resets after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/medical-software-firm-urges-password-resets-after-ransomware-attack/"> Full Text</a>
@@ -475,7 +491,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lyceum Threat Group Targeting Telecom Companies, ISPs in Israel, Morocco, Tunisia, and Saudi Arabia<a href="https://www.zdnet.com/article/meet-lyceum-iranian-hackers-targeting-telecoms-isps/?&web_view=true"> Full Text</a>
@@ -491,7 +507,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare – Patient or Perpetrator? – The Cybercriminals Within<a href="https://securityaffairs.co/wordpress/124334/hacking/healthcare-cyber-threat.html?&web_view=true"> Full Text</a>
@@ -507,7 +523,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2021
+November 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's Biggest Fishing Gear Seller's Website Gets Hacked, Redirect Users to Adult Site<a href="https://www.bbc.com/news/technology-59209493?&web_view=true"> Full Text</a>
@@ -523,7 +539,7 @@ BBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges Ukrainian Hacker for Kaseya Attack; Seizes $6 Million from REvil Gang<a href="https://thehackernews.com/2021/11/us-charges-ukrainian-hacker-for-kaseya.html"> Full Text</a>
@@ -539,7 +555,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 08, 2021
+November 08, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected REvil Ransomware Affiliates Arrested in Global Takedown<a href="https://thehackernews.com/2021/11/suspected-revil-ransomware-affiliates.html"> Full Text</a>
@@ -555,7 +571,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Affiliates Arrested; DOJ Seizes $6.1M in Ransom<a href="https://threatpost.com/revil-affiliates-arrested-doj-europol/176087/"> Full Text</a>
@@ -571,7 +587,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 8, 2021
+November 8, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks Shatter Records in Q3, Report Finds  <a href="https://threatpost.com/ddos-attacks-records-q3/176082/"> Full Text</a>
