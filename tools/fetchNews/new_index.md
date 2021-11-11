@@ -34,6 +34,595 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE says hackers breached Aruba Central using stolen access key<a href="https://www.bleepingcomputer.com/news/security/hpe-says-hackers-breached-aruba-central-using-stolen-access-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has disclosed that data repositories for their Aruba Central network monitoring platform were compromised, allowing a threat actor to access collected data about monitored devices and their locations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan Government faces 5 Million hacking attempts daily<a href="https://securityaffairs.co/wordpress/124444/intelligence/taiwan-cyber-attack-from-china.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber security department director Chien Hung-wei told parliament representatives that the Taiwanese government infrastructure faces “five million attacks and scans a day”.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former top officials warn democracy in 'jeopardy' without Congressional action on election security<a href="https://thehill.com//policy/cybersecurity/581032-former-national-security-officials-urge-congress-to-take-steps-to-secure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of almost 100 former national security officials is urging Congress to take steps to secure elections ahead of next year, warning that without action, the nation's democratic institutions are in “severe jeopardy.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover PhoneSpy Malware Spying on South Korean Citizens<a href="https://thehackernews.com/2021/11/researchers-discover-phonespy-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing mobile spyware campaign has been uncovered snooping on South Korean residents using a family of 23 malicious Android apps to siphon sensitive information and gain remote control of the devices.  "With more than a thousand South Korean victims, the malicious group behind this invasive campaign has had access to all the data, communications, and services on their devices," Zimperium researcher Aazim Yaswant said. "The victims were broadcasting their private information to the malicious actors with zero indication that something was amiss."  The Dallas-based mobile security company dubbed the campaign " PhoneSpy ."   Zimperium did not attribute the spyware to a known threat actor. "The evidence surrounding PhoneSpy shows a familiar framework that has been passed around for years, updated by individuals and shared within private communities and back channels until assembled into what we see in this variation today," Richard Melick, the co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware discloses a severe flaw in vCenter Server that has yet to fix<a href="https://securityaffairs.co/wordpress/124465/security/vmware-vcenter-server-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware announced it is working on patches for an important severity privilege escalation vulnerability affecting vCenter Server.
+
+
+
+VMware announced it’s working on security patches to address an important severity privilege escalation vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of Iranian hackers looking to buy US orgs’ stolen data<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-iranian-hackers-looking-to-buy-us-orgs-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned private industry partners of attempts by an Iranian threat actor to buy stolen information regarding US and worldwide organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Threat Group Allegedly Linked to Russia<a href="https://cyware.com/news/gamaredon-threat-group-allegedly-linked-to-russia-b1ede197"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine agencies disclosed the details, including the real names, of the members of the Gamaredon group and linked its activities with Russia's FSB.&nbsp;According to the report, t he group allegedly carried out around 5,000 cyberattacks against Ukraine and attempted to target over 1,500 government ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris, Macron unveil new initiatives on space, cybersecurity after meeting<a href="https://thehill.com//homenews/administration/581037-harris-macron-unveils-new-initiatives-on-space-cybersecurity-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice President Harris on Wednesday announced new initiatives with France on space and cybersecurity following a meeting with French President Emmanuel Macron in Paris.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 New Flaws in Siemens Nucleus TCP/IP Stack Impact Safety-Critical Equipment<a href="https://thehackernews.com/2021/11/13-new-flaws-in-siemens-nucleus-tcpip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 13 security vulnerabilities have been discovered in the Nucleus TCP/IP stack, a software library now maintained by Siemens and used in three billion operational technology and IoT devices that could allow for remote code execution, denial-of-service (DoS), and information leak.  Collectively called " NUCLEUS:13 ," successful attacks abusing the flaws can "result in devices going offline and having their logic hijacked," and "spread[ing] malware to wherever they communicate on the network," researchers from Forescout and Medigate said in a technical report published Tuesday, with one proof-of-concept (PoC) successfully  demonstrating  a scenario that could potentially disrupt medical care and critical processes.  Siemens has since released  security updates  to remediate the weaknesses in Nucleus ReadyStart versions 3 (v2017.02.4 or later) and 4 (v4.1.1 or later).   Primarily deployed in automotive, industrial, and medical applications, Nucleus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in WP Reset PRO WordPress plugin allows wiping the installation DB<a href="https://securityaffairs.co/wordpress/124458/security/wp-reset-pro-wordpress-plugin-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the WP Reset PRO WordPress plugin can allow an authenticated user to wipe the entire database of WordPress sites. 
+
+
+
+Researchers from cybersecurity form Packstack have discovered a critical vulnerability in the WP Reset PRO WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telnyx is the latest VoIP provider hit with DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/telnyx-is-the-latest-voip-provider-hit-with-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telnyx is the latest VoIP telephony provider targeted with distributed denial-of-service (DDoS) attacks, causing worldwide outages since yesterday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Busts REvil<a href="https://cyware.com/news/law-enforcement-busts-revil-7f8d19e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks are relentless, recent crackdowns by law enforcement have forced some big players to close shop, even if temporarily.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency beefing up disinformation, misinformation team<a href="https://thehill.com//policy/cybersecurity/580990-cyber-agency-beefing-up-disinformation-misinformation-team"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is beefing up its disinformation and misinformation team in the wake of a divisive presidential election that saw a proliferation of misleading information online. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 New Security Flaws Found in BusyBox Linux Utility for Embedded Devices<a href="https://thehackernews.com/2021/11/14-new-security-flaws-found-in-busybox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed 14 critical vulnerabilities in the BusyBox Linux utility that could be exploited to result in a denial-of-service (DoS) condition and, in select cases, even lead to information leaks and remote code execution.  The security weaknesses, tracked from CVE-2021-42373 through CVE-2021-42386, affect multiple versions of the tool ranging from 1.16-1.33.1, DevOps company JFrog and industrial cybersecurity company Claroty  said  in a joint report.   Dubbed "the Swiss Army Knife of Embedded Linux,"  BusyBox  is a widely used software suite combining a variety of common Unix utilities or applets (e.g.,  cp ,  ls ,  grep ) into a single executable file that can run on Linux systems such as programmable logic controllers (PLCs), human-machine interfaces (HMIs), and remote terminal units (RTUs).   A quick list of the flaws and the applets they impact is below —   man  - CVE-2021-42373  lzma/unlzma  - CVE-2021-42374  ash  - CVE-2021-42375  hus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix addresses a critical flaw in ADC, Gateway<a href="https://securityaffairs.co/wordpress/124452/security/citrix-dos-adc-gateway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix addressed two vulnerabilities affecting Citrix ADC, Gateway, and SD-WAN, one of them is a critical issue leading to DoS. 
+
+
+
+Citrix has released security updates to address two vulnerabilities in ADC, Gateway, and SD-WAN, including a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers show that Apple’s CSAM scanning can be fooled easily<a href="https://www.bleepingcomputer.com/news/technology/researchers-show-that-apple-s-csam-scanning-can-be-fooled-easily/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Imperial College in London have presented a simple method to evade detection by image content scanning mechanisms, such as Apple's CSAM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stor-a-File hit by ransomware through SolarWinds Serv-U<a href="https://www.theregister.com/2021/11/10/stor_a_file_ransomware_attack_solarwinds_serv_u/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stor-a-File, a U.K-based data capture and storage company, suffered a ransomware attack in August that exploited an unpatched instance of SolarWinds' Serv-U FTP software.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan Government faces 5 Million hacking attempts daily<a href="https://securityaffairs.co/wordpress/124444/intelligence/taiwan-cyber-attack-from-china.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan 's government agencies face around five million cyberattacks and probes every day, most of them from China.
+
+
+
+Around five million cyber attacks hit Taiwan's government agencies every day, and most of the hacking attempts are originated from China.
+
+
+
+Cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers target researchers with trojanized IDA Pro<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-researchers-with-trojanized-ida-pro/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean state-sponsored hacking group known as Lazarus is again trying to hack security researchers, this time with a trojanized pirated version of the popular IDA Pro reverse engineering application.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Hid Behind American Home Networks<a href="https://cyware.com/news/russian-hackers-hid-behind-american-home-networks-9a42c11e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Residential proxies allowed the attackers to pass their internet traffic via a home user. This makes the traffic appear to have originated from a residential broadband customer in the U.S. instead of somewhere else, such as Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 14 new flaws in BusyBox, millions of devices at risk<a href="https://securityaffairs.co/wordpress/124429/hacking/busybox-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a total of 14 new vulnerabilities in BusyBox that expose million of Unix-based devices to cyberattacks.
+
+
+
+Researchers from software development company JFrog and industrial cybersecurity firm Claroty have identified a total...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ironic twist: WP Reset PRO bug lets hackers wipe WordPress sites<a href="https://www.bleepingcomputer.com/news/security/ironic-twist-wp-reset-pro-bug-lets-hackers-wipe-wordpress-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity security flaw in the WP Reset PRO WordPress plugin can let authenticated attackers wipe vulnerable websites, as revealed by Patchstack security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Storm maintainers patch two pre-auth RCE vulnerabilities<a href="https://portswigger.net/daily-swig/apache-storm-maintainers-patch-two-pre-auth-rce-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first vulnerability was found in one of the functions of Nimbus, which runs on top of a Thrift server. The second bug was found in Storm’s supervisor service, which runs on top of a Netty server.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT group targets poorly configured Docker servers exposing REST APIs<a href="https://securityaffairs.co/wordpress/124421/cyber-crime/teamtnt-targets-docker-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT hackers are targeting poorly configured Docker servers as part of an ongoing campaign that started in October.
+
+
+
+Trend Micro researchers reported that TeamTNT hackers are targeting poorly configured Docker servers exposing Docker REST APIs as part...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot teams up with Shatak phishers for Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/trickbot-teams-up-with-shatak-phishers-for-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked as Shatak (TA551) recently partnered with the ITG23 gang (aka TrickBot and Wizard Spider) to deploy Conti ransomware on targeted systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Gang Partners with TA551 Group to Deliver Conti Ransomware<a href="https://securityboulevard.com/2021/11/threat-analysis-report-from-shatak-emails-to-the-conti-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ITG23 group is partnering with TA551 (Shatak) threat group to distribute ITG23’s TrickBot and BazarBackdoor malware, which malicious actors use to deploy Conti ransomware on compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches Excel zero-day used in attacks, asks Mac users to wait<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-excel-zero-day-used-in-attacks-asks-mac-users-to-wait/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During this month's Patch Tuesday, Microsoft has patched an Excel zero-day vulnerability exploited in the wild by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Vulnerability in ABAP Platform Kernel<a href="https://www.securityweek.com/sap-patches-critical-vulnerability-abap-platform-kernel?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP on Tuesday announced the release of five new and two updated security notes as part of its November 2021 Security Patch Day, including one on a critical vulnerability in ABAP Platform Kernel.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PhoneSpy: Android spyware campaign targeting South Korean users<a href="https://www.bleepingcomputer.com/news/security/phonespy-android-spyware-campaign-targeting-south-korean-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing spyware campaign dubbed 'PhoneSpy' targets South Korean users via a range of lifestyle apps that nest in the device and silently exfiltrate data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malware targets Netflix, Instagram, and Twitter users<a href="https://www.bleepingcomputer.com/news/security/new-android-malware-targets-netflix-instagram-and-twitter-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware known as MasterFred uses fake login overlays to steal the credit card information of Netflix, Instagram, and Twitter users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These invisible characters could be hidden backdoors in your JS code<a href="https://www.bleepingcomputer.com/news/security/these-invisible-characters-could-be-hidden-backdoors-in-your-js-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Could malicious backdoors be hiding in your code, that otherwise appears perfectly clean to the human eye and text editors alike? A security researcher has shed light on how invisible characters can be snuck into JavaScript code to introduce security risks, like backdoors, into your software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not Punny: Angling Direct Breach Cripples Retailer for Days  <a href="https://threatpost.com/angling-direct-breach-cripples-retailer/176144/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. fishing retailer’s site has been hijacked and redirected to Pornhub.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Tool Guts: How Much Should Customers See?<a href="https://threatpost.com/security-tool-transparency/176113/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaron Kassner, CTO of Silverfort, delves into the pros and cons of transparency when it comes to  cybersecurity tools’ algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood Trading Platform Data Breach Hits 7M Customers<a href="https://threatpost.com/robinhood-trading-platform-data-breach/176106/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattacker attempted to extort the company after socially engineering a customer service employee to gain access to email addresses and more.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Patches for Actively Exploited Excel, Exchange Server 0-Day Bugs<a href="https://thehackernews.com/2021/11/microsoft-issues-patches-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates as part of its monthly  Patch Tuesday  release cycle to address 55 vulnerabilities across Windows, Azure, Visual Studio, Windows Hyper-V, and Office, including fixes for two actively exploited zero-day flaws in Excel and Exchange Server that could be abused to take control of an affected system.  Of the 55 glitches, six are rated Critical and 49 are rated as Important in severity, with four others listed as publicly known at the time of release.   The most critical of the flaws are  CVE-2021-42321  (CVSS score: 8.8) and  CVE-2021-42292  (CVSS score: 7.8), each concerning a  post-authentication remote code execution flaw  in Microsoft Exchange Server and a security bypass vulnerability impacting Microsoft Excel versions 2013-2021 respectively.  The Exchange Server issue is also one of the bugs that was demonstrated at the  Tianfu Cup  held in China last month. However, the Redmond-based tech giant did not provide any details on how the two aforem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 09, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
