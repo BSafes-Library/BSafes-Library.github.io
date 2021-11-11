@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telnyx is the latest VoIP provider hit with DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/telnyx-is-the-latest-voip-provider-hit-with-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telnyx is the latest VoIP telephony provider targeted with distributed denial-of-service (DDoS) attacks,&nbsp;causing worldwide outages since yesterday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,204 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware discloses a severe flaw in vCenter Server that has yet to fix<a href="https://securityaffairs.co/wordpress/124465/security/vmware-vcenter-server-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware announced it is working on patches for an important severity privilege escalation vulnerability affecting vCenter Server.
+
+
+
+VMware announced it’s working on security patches to address an important severity privilege escalation vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+13 New Flaws in Siemens Nucleus TCP/IP Stack Impact Safety-Critical Equipment<a href="https://thehackernews.com/2021/11/13-new-flaws-in-siemens-nucleus-tcpip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 13 security vulnerabilities have been discovered in the Nucleus TCP/IP stack, a software library now maintained by Siemens and used in three billion operational technology and IoT devices that could allow for remote code execution, denial-of-service (DoS), and information leak.  Collectively called " NUCLEUS:13 ," successful attacks abusing the flaws can "result in devices going offline and having their logic hijacked," and "spread[ing] malware to wherever they communicate on the network," researchers from Forescout and Medigate said in a technical report published Tuesday, with one proof-of-concept (PoC) successfully&nbsp; demonstrating &nbsp;a scenario that could potentially disrupt medical care and critical processes.  Siemens has since released&nbsp; security updates &nbsp;to remediate the weaknesses in Nucleus ReadyStart versions 3 (v2017.02.4 or later) and 4 (v4.1.1 or later).   Primarily deployed in automotive, industrial, and medical applications, Nucleus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in WP Reset PRO WordPress plugin allows wiping the installation DB<a href="https://securityaffairs.co/wordpress/124458/security/wp-reset-pro-wordpress-plugin-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the WP Reset PRO WordPress plugin can allow an authenticated user to wipe the entire database of WordPress sites. 
+
+
+
+Researchers from cybersecurity form Packstack have discovered a critical vulnerability in the WP Reset PRO WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 New Security Flaws Found in BusyBox Linux Utility for Embedded Devices<a href="https://thehackernews.com/2021/11/14-new-security-flaws-found-in-busybox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed 14 critical vulnerabilities in the BusyBox Linux utility that could be exploited to result in a denial-of-service (DoS) condition and, in select cases, even lead to information leaks and remote code execution.  The security weaknesses, tracked from CVE-2021-42373 through CVE-2021-42386, affect multiple versions of the tool ranging from 1.16-1.33.1, DevOps company JFrog and industrial cybersecurity company Claroty&nbsp; said &nbsp;in a joint report.   Dubbed "the Swiss Army Knife of Embedded Linux,"&nbsp; BusyBox &nbsp;is a widely used software suite combining a variety of common Unix utilities or applets (e.g.,&nbsp; cp ,&nbsp; ls ,&nbsp; grep ) into a single executable file that can run on Linux systems such as programmable logic controllers (PLCs), human-machine interfaces (HMIs), and remote terminal units (RTUs).   A quick list of the flaws and the applets they impact is below —   man &nbsp;- CVE-2021-42373  lzma/unlzma &nbsp;- CVE-2021-42374  ash &nbsp;- CVE-2021-42375  hus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix addresses a critical flaw in ADC, Gateway<a href="https://securityaffairs.co/wordpress/124452/security/citrix-dos-adc-gateway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix addressed two vulnerabilities affecting Citrix ADC, Gateway, and SD-WAN, one of them is a critical issue leading to DoS. 
+
+
+
+Citrix has released security updates to address two vulnerabilities in ADC, Gateway, and SD-WAN, including a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers show that Apple’s CSAM scanning can be fooled easily<a href="https://www.bleepingcomputer.com/news/technology/researchers-show-that-apple-s-csam-scanning-can-be-fooled-easily/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Imperial College in London have presented a simple method to evade detection by image content scanning mechanisms, such as Apple's CSAM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 14 new flaws in BusyBox, millions of devices at risk<a href="https://securityaffairs.co/wordpress/124429/hacking/busybox-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a total of 14 new vulnerabilities in BusyBox that expose million of Unix-based devices to cyberattacks.
+
+
+
+Researchers from software development company JFrog and industrial cybersecurity firm Claroty have identified a total...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ironic twist: WP Reset PRO bug lets hackers wipe WordPress sites<a href="https://www.bleepingcomputer.com/news/security/ironic-twist-wp-reset-pro-bug-lets-hackers-wipe-wordpress-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high severity security flaw in the WP Reset PRO WordPress plugin can let authenticated attackers wipe vulnerable websites, as revealed by Patchstack security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Storm maintainers patch two pre-auth RCE vulnerabilities<a href="https://portswigger.net/daily-swig/apache-storm-maintainers-patch-two-pre-auth-rce-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first vulnerability was found in one of the functions of Nimbus, which runs on top of a Thrift server. The second bug was found in Storm’s supervisor service, which runs on top of a Netty server.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches Excel zero-day used in attacks, asks Mac users to wait<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-excel-zero-day-used-in-attacks-asks-mac-users-to-wait/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During this month's Patch Tuesday, Microsoft has patched an Excel zero-day vulnerability exploited in the wild by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Vulnerability in ABAP Platform Kernel<a href="https://www.securityweek.com/sap-patches-critical-vulnerability-abap-platform-kernel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP on Tuesday announced the release of five new and two updated security notes as part of its November 2021 Security Patch Day, including one on a critical vulnerability in ABAP Platform Kernel.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Patches for Actively Exploited Excel, Exchange Server 0-Day Bugs<a href="https://thehackernews.com/2021/11/microsoft-issues-patches-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates as part of its monthly&nbsp; Patch Tuesday &nbsp;release cycle to address 55 vulnerabilities across Windows, Azure, Visual Studio, Windows Hyper-V, and Office, including fixes for two actively exploited zero-day flaws in Excel and Exchange Server that could be abused to take control of an affected system.  Of the 55 glitches, six are rated Critical and 49 are rated as Important in severity, with four others listed as publicly known at the time of release.&nbsp;  The most critical of the flaws are&nbsp; CVE-2021-42321 &nbsp;(CVSS score: 8.8) and&nbsp; CVE-2021-42292 &nbsp;(CVSS score: 7.8), each concerning a&nbsp; post-authentication remote code execution flaw &nbsp;in Microsoft Exchange Server and a security bypass vulnerability impacting Microsoft Excel versions 2013-2021 respectively.  The Exchange Server issue is also one of the bugs that was demonstrated at the&nbsp; Tianfu Cup &nbsp;held in China last month. However, the Redmond-based tech giant did not provide any details on how the two aforem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NUCLEUS:13 TCP security bugs impact critical healthcare devices<a href="https://www.bleepingcomputer.com/news/security/nucleus-13-tcp-security-bugs-impact-critical-healthcare-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers today published details about a suite of 13 vulnerabilities in the Nucleus real-time operating system (RTOS) from Siemens that powers devices used in the medical, industrial, automotive, and aerospace sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

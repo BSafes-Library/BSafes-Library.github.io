@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Busts REvil<a href="https://cyware.com/news/law-enforcement-busts-revil-7f8d19e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware attacks are relentless, recent crackdowns by law enforcement have forced some big players to close shop, even if temporarily.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

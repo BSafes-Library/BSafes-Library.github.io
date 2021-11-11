@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenText Acquires Email Security Firm Zix for $860 Million<a href="https://www.securityweek.com/opentext-acquires-email-security-firm-zix-860-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise information management solutions provider OpenText on Monday announced the acquisition of email security company Zix for $860 million. OpenText will acquire Zix for $8.50 per share in cash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood Trading App Suffers Data Breach Exposing 7 Million Users' Information<a href="https://thehackernews.com/2021/11/robinhood-trading-app-suffers-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robinhood on Monday disclosed a security breach affecting approximately 7 million customers, roughly a&nbsp; third of its user base , that resulted in unauthorized access of personal information by an unidentified threat actor.  The commission-free stock trading and investing platform said the incident happened "late in the evening of November 3," adding it's in the process of notifying affected users.   "Based on our investigation, the attack has been contained and we believe that no Social Security numbers, bank account numbers, or debit card numbers were exposed and that there has been no financial loss to any customers as a result of the incident," the Silicon Valley financial company&nbsp; noted .  The malicious third-party is believed to have socially engineered a customer service representative to gain access to internal support systems, using it to obtain the email addresses of five million users, full names for a different group of about two million people, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeBreach Closes $53.5 Million Series D in New Funding to Fuel Momentum<a href="https://www.darkreading.com/attacks-breaches/safebreach-closes-53-5-million-series-d-in-new-funding-to-fuel-momentum?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SafeBreach announced that it has raised $53.5 million in Series D funding, led by Sonae IM and Israel Growth Partners (IGP), with additional participation from Sands Capital and Leumi Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

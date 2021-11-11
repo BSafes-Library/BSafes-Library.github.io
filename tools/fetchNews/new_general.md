@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan Government faces 5 Million hacking attempts daily<a href="https://securityaffairs.co/wordpress/124444/intelligence/taiwan-cyber-attack-from-china.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan 's government agencies face around five million cyberattacks and probes every day, most of them from China.
+
+
+
+Around five million cyber attacks hit Taiwan's government agencies every day, and most of the hacking attempts are originated from China.
+
+
+
+Cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Tool Guts: How Much Should Customers See?<a href="https://threatpost.com/security-tool-transparency/176113/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaron Kassner, CTO of Silverfort, delves into the pros and cons of transparency when it comes to  cybersecurity tools’ algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

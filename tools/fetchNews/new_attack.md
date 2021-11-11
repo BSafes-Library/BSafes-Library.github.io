@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stor-a-File hit by ransomware through SolarWinds Serv-U<a href="https://www.theregister.com/2021/11/10/stor_a_file_ransomware_attack_solarwinds_serv_u/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stor-a-File, a U.K-based data capture and storage company, suffered a ransomware attack in August that exploited an unpatched instance of SolarWinds' Serv-U FTP software.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PhoneSpy: Android spyware campaign targeting South Korean users<a href="https://www.bleepingcomputer.com/news/security/phonespy-android-spyware-campaign-targeting-south-korean-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing spyware campaign dubbed 'PhoneSpy' targets South Korean users via a range of lifestyle apps that nest in the device and silently exfiltrate data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

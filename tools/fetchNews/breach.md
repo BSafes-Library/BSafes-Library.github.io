@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood says information on millions of customers stolen in data breach<a href="https://thehill.com//policy/cybersecurity/580706-robinhood-says-information-on-millions-of-customers-stolen-in-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trading platform Robinhood disclosed late Monday that an “unauthorized party” had stolen the data of over 7 million customers as part of a major data breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood data breach exposes 7 Million users’ information<a href="https://securityaffairs.co/wordpress/124412/data-breach/robinhood-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robinhood disclosed a security breach, an unidentified threat actor gained unauthorized access to approximately 7 million customer records.
+
+
+
+Robinhood Markets, Inc. is an American commission-free stock trading and investing platform, it had 18 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's Biggest Fishing Gear Seller's Website Gets Hacked, Redirect Users to Adult Site<a href="https://www.bbc.com/news/technology-59209493?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's biggest fishing shop has been hacked, with its website redirecting keen anglers to an adult website. Angling Direct said it was hit by the attack late on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

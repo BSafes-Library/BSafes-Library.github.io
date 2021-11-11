@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Nov. Patch Tuesday Fixes Six Zero-Days, 55 Bugs<a href="https://threatpost.com/microsoft-nov-patch-tuesday-fixes-six-zero-days-55-bugs/176143/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts urged users to prioritize patches for Microsoft Exchange and Excel, those favorite platforms so frequently targeted by cybercriminals and nation-state actors.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges Exchange admins to patch bug exploited in the wild<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-urges-exchange-admins-to-patch-bug-exploited-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned admins today to immediately patch a high severity&nbsp;Exchange Server vulnerability that may allow authenticated attackers to execute code remotely on vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday security updates for November 2021 fix 2 Zero-Days actively exploited<a href="https://securityaffairs.co/wordpress/124405/security/microsoft-patch-tuesday-november-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for November 2021 address 55 vulnerabilities in multiple products and warn of two actively exploited issues.
+
+
+
+Microsoft Patch Tuesday security updates for November 2021 addressed a total of 55 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+12 New Flaws Used in Ransomware Attacks in Q3<a href="https://threatpost.com/12-new-flaws-used-in-ransomware-attacks-in-q3/176137/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Q3 2021 report revealed a 4.5% increase in CVEs associated with ransomware and a 3.4% increase in ransomware families compared with Q2 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft November 2021 Patch Tuesday fixes 6 zero-days, 55 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2021-patch-tuesday-fixes-6-zero-days-55-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's November 2021 Patch Tuesday, and with it comes fixes for six zero-day vulnerabilities&nbsp;and a total of 55 flaws. The actively exploited vulnerabilities are for Microsoft Exchange and Excel, with the Exchange zero-day used as part of the Tianfu hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop gang exploiting CVE-2021-35211 RCE in SolarWinds Serv-U in recent attack<a href="https://securityaffairs.co/wordpress/124389/hacking/clop-gang-exploiting-cve-2021-35211-solarwinds-serv-u.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware gang is exploiting CVE-2021-35211 vulnerability in SolarWinds Serv-U to compromise corporate networks. 
+
+
+
+Threat actors always look for new ways to compromise target networks, Clop ransomware gang (aka TA505, FIN11) is exploiting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical Vulnerabilities Found on Nucleus TCP/IP Stack<a href="https://www.forescout.com/blog/new-critical-vulnerabilities-found-on-nucleus-tcp-ip-stack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forescout Research Labs, with support from Medigate Labs, have discovered a set of 13 new vulnerabilities affecting the Nucleus TCP/IP stack, which are collectively being referred to as NUCLEUS:13.
+</details>
+<div style="text-align: right" markdown="1">
+Forescout
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

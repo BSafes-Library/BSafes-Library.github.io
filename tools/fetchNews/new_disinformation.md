@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber agency beefing up disinformation, misinformation team<a href="https://thehill.com//policy/cybersecurity/580990-cyber-agency-beefing-up-disinformation-misinformation-team"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is beefing up its disinformation and misinformation team in the wake of a divisive presidential election that saw a proliferation of misleading information online.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

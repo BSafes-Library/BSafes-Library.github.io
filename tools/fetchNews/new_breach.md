@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE says hackers breached Aruba Central using stolen access key<a href="https://www.bleepingcomputer.com/news/security/hpe-says-hackers-breached-aruba-central-using-stolen-access-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has disclosed that data repositories for their Aruba Central network monitoring platform were compromised, allowing a threat actor to access collected data about monitored devices and their locations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robinhood Trading Platform Data Breach Hits 7M Customers<a href="https://threatpost.com/robinhood-trading-platform-data-breach/176106/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattacker attempted to extort the company after socially engineering a customer service employee to gain access to email addresses and more.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

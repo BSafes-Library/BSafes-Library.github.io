@@ -8,6 +8,81 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of Iranian hackers looking to buy US orgs’ stolen data<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-iranian-hackers-looking-to-buy-us-orgs-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned private industry partners of attempts by an Iranian threat actor to buy stolen information regarding US and worldwide organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Threat Group Allegedly Linked to Russia<a href="https://cyware.com/news/gamaredon-threat-group-allegedly-linked-to-russia-b1ede197"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine agencies disclosed the details, including the real names, of the members of the Gamaredon group and linked its activities with Russia's FSB.&nbsp;According to the report, t he group allegedly carried out around 5,000 cyberattacks against Ukraine and attempted to target over 1,500 government ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers target researchers with trojanized IDA Pro<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-researchers-with-trojanized-ida-pro/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean state-sponsored hacking group known as Lazarus is again trying to hack security researchers, this time with a trojanized pirated version of the popular IDA Pro reverse engineering application.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Hid Behind American Home Networks<a href="https://cyware.com/news/russian-hackers-hid-behind-american-home-networks-9a42c11e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Residential proxies allowed the attackers to pass their internet traffic via a home user. This makes the traffic appear to have originated from a residential broadband customer in the U.S. instead of somewhere else, such as Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT group targets poorly configured Docker servers exposing REST APIs<a href="https://securityaffairs.co/wordpress/124421/cyber-crime/teamtnt-targets-docker-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamTNT hackers are targeting poorly configured Docker servers as part of an ongoing campaign that started in October.
+
+
+
+Trend Micro researchers reported that TeamTNT hackers are targeting poorly configured Docker servers exposing Docker REST APIs as part...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
