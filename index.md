@@ -34,6 +34,604 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 App Installer abused in BazarLoader malware attacks<a href="https://www.bleepingcomputer.com/news/security/windows-10-app-installer-abused-in-bazarloader-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot gang operators are now abusing the Windows 10 App Installer to deploy their BazarLoader malware on the systems of targets who fall victim to a highly targeted spam campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Threat Groups Found Interconnected to a Common Broker<a href="https://cyware.com/news/three-threat-groups-found-interconnected-to-a-common-broker-7f650f7a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackBerry discovered that actors behind MountLocker, Phobos, and the StrongPity APT are dependent on a common initial access broker, dubbed Zebra2104, for their malware campaigns.  The broker has helped criminals break into the networks of multiple firms in Australia and Turkey.&nbsp; Such collabo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris calls for global action on cyber threats after US joins international effort<a href="https://thehill.com//policy/cybersecurity/581194-harris-calls-for-global-action-to-counter-cyber-threats-as-the-us-joins"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice President Harris on Thursday called on global leaders to work together to counter cybersecurity threats and protect an open internet following a turbulent year of major cyberattacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Hacker-for-Hire Group That's Active Since 2015<a href="https://thehackernews.com/2021/11/researchers-uncover-hacker-for-hire.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber mercenary hacker-for-hire group dubbed " Void Balaur " has been linked to a string of cyberespionage and data theft activities targeting thousands of entities as well as human rights activists, politicians, and government officials around the world at least since 2015 for financial gain while lurking in the shadows.  Named after a  many-headed dragon  from Romanian folklore, the adversary has been unmasked advertising its services in Russian-speaking underground forums dating all the way back to 2017 and selling troves of sensitive information such as cell tower phone logs, passenger flight records, credit reports, banking data, SMS messages, and passport details. The threat actor calls itself "Rockethack."  "This hacker-for-hire group does not operate out of a physical building, nor does it have a shiny prospectus that describes its services," Trend Micro researcher Feike Hacquebord  said  in a newly published profile of the collective.   &qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked a server of a Queensland water supplier and remained undetected for 9 months<a href="https://securityaffairs.co/wordpress/124498/hacking/queensland-water-supplier-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised a server managing customer data for a Queensland water supplier and remained undetected for nine months.
+
+
+
+A served used by the SunWater statutory Queensland (Australia) Government-owned water supplier was compromised and threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Invest in These 3 Key Security Technologies to Fight Ransomware<a href="https://threatpost.com/invest-3-key-security-technologies-ransomware/176246/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware volumes are up 1000%. Aamir Lakhani, cybersecurity researcher and practitioner at FortiGuard Labs , discusses secure email, network segmentation and sandboxing for defense.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BotenaGo botnet targets millions of IoT devices with 33 exploits<a href="https://www.bleepingcomputer.com/news/security/botenago-botnet-targets-millions-of-iot-devices-with-33-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new BotenaGo malware botnet has been discovered using over thirty exploits to attack millions of routers and IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing the Deadly Rise in NPM Package Hijacking<a href="https://cyware.com/news/analyzing-the-deadly-rise-in-npm-package-hijacking-78b24364"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, two popular npm libraries were caught up in a whirlwind of attacks. An unknown threat actor tampered with Coa and rc npm packages to include identical password-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs into law bill to secure telecommunications systems against foreign threats<a href="https://thehill.com//policy/cybersecurity/581184-biden-signs-into-law-bill-to-secure-telecommunications-systems-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Thursday signed into law bipartisan legislation to secure telecommunications systems against potential foreign threats, particularly from those linked to China. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Operators Partner with Shathak Attackers for Conti Ransomware<a href="https://thehackernews.com/2021/11/trickbot-operators-partner-with-shatak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of TrickBot trojan are collaborating with the Shathak threat group to distribute their wares, ultimately leading to the deployment of Conti ransomware on infected machines.  "The implementation of  TrickBot  has evolved over the years, with recent versions of TrickBot implementing malware-loading capabilities," Cybereason security analysts Aleksandar Milenkoski and Eli Salem  said  in a report analysing recent malware distribution campaigns undertaken by the group. "TrickBot has played a major role in many attack campaigns conducted by different threat actors, from common cybercriminals to nation-state actors."   The latest report builds on a report from IBM X-Force last month, which  revealed  TrickBot's partnerships with other cybercrime gangs, including Shathak, to deliver proprietary malware. Also tracked under the moniker TA551, Shathak is a sophisticated cybercrime actor targeting end-users on a global scale, acting as a malware distributor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ sentenced to 10 years Russian ‘King of Fraud’ behind the fraud scheme 3ve<a href="https://securityaffairs.co/wordpress/124491/hacking/king-of-fraud-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ sentenced a Russian man for operating a large-scale digital advertising fraud scheme called Methbot ('3ve').
+
+
+
+The US DoJ sentenced the Russian nation Aleksandr Zhukov, aka the 'King of Fraud,' for operating a large-scale digital advertising...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Designing a Proactive Ransomware Playbook for Today’s Threat Landscape<a href="https://threatpost.com/proactive-ransomware-playbook-threat-landscape/176224/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Asset inventories and risk assessments are critical tools in defending against the increasing scourge of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD fixes dozens of Windows 10 graphics driver security bugs<a href="https://www.bleepingcomputer.com/news/security/amd-fixes-dozens-of-windows-10-graphics-driver-security-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has fixed a long list of security vulnerabilities found in its graphics driver for Windows 10 devices, allowing attackers to execute arbitrary code and elevate privileges on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot: A New Botnet in the Making<a href="https://cyware.com/news/abcbot-a-new-botnet-in-the-making-f79494e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abcbot is slowly moving from infancy to maturity, according to researchers. The creators behind the botnet are testing various technologies with an aim to evolve the botnet with sophisticated features.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating The Threat Landscape 2021 – From Ransomware to Botnets<a href="https://thehackernews.com/2021/11/navigating-threat-landscape-2021-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though we are recovering from the worst pandemic, cyber threats have shown no sign of downshifting, and cybercriminals are still not short of malicious and advanced ways to achieve their goals.   The  Global Threat Landscape Report  indicates a drastic rise in sophisticated cyberattacks targeting digital infrastructures, organizations, and individuals in 2021. Threats can take different forms with the intent to commit fraud and damage businesses and people. Ransomware,  DDoS attacks , phishing, malware, and man-in-the-middle attacks represent the greatest threat to businesses today.  When new threats emerge, attackers take advantage of them – however, most businesses are only aware of the current threats.  Organizations struggle to address these threats due to their resource sophistication and their lack of understanding of evolving threat landscapes. For these reasons, organizations need visibility on the advanced threats especially targeting their infrastructure. This article will o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian threat actors attempt to buy stolen data of US organizations, FBI warns<a href="https://securityaffairs.co/wordpress/124487/cyber-crime/fbi-pin-iran-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned private industry partners of attempts by an Iranian threat actor to buy stolen information belonging to US organizations. 
+
+
+
+The Federal Bureau of Investigation (FBI) issued a private industry notification (PIN) to warn private industry...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operationalizing Threat Intelligence with User-Driven Automation<a href="https://threatpost.com/operationalizing-threat-intelligence-with-user-driven-automation/176208/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To truly achieve operationalized threat intelligence, an investment must be made in an underlying threat intelligence management platform that will enable an organization to harness the power of threat intelligence and translate that threat intelligence into action.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers undetected on Queensland water supplier server for 9 months<a href="https://www.bleepingcomputer.com/news/security/hackers-undetected-on-queensland-water-supplier-server-for-9-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stayed hidden for nine months on a server holding customer information for a Queensland water supplier, illustrating the need of better cyberdefenses for critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Iranian APT Targets Telcos, ISPs with Upgraded Malware<a href="https://cyware.com/news/an-iranian-apt-targets-telcos-isps-with-upgraded-malware-306e7e8b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lyceum is targeting ISPs and telecommunication operators in Israel, Tunisia, Morocco, and Saudi Arabia. It also attacked a ministry of foreign affairs in Africa. Lyceum uses credential stuffing and brute-force techniques as initial attack vectors. Since its launch, the group has tried and stayed ah ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran's Lyceum Hackers Target Telecoms, ISPs in Israel, Saudi Arabia, and Africa<a href="https://thehackernews.com/2021/11/irans-lyceum-hackers-target-telecoms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored threat actor allegedly affiliated with Iran has been linked to a series of targeted attacks aimed at internet service providers (ISPs) and telecommunication operators in Israel, Morocco, Tunisia, and Saudi Arabia, as well as a ministry of foreign affairs (MFA) in Africa, new findings reveal.  The intrusions, staged by a group tracked as Lyceum, are believed to have occurred between July and October 2021, researchers from Accenture Cyber Threat Intelligence (ACTI) group and Prevailion's Adversarial Counterintelligence Team (PACT) said in a technical report. The names of the victims were not disclosed.  The latest revelations throw light on the web-based infrastructure used by Lyceum, over 20 of them, enabling the identification of "additional victims and provide further visibility into Lyceum's targeting methodology," the researchers  noted , adding "at least two of the identified compromises are assessed to be ongoing despite prior public discl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3064: Easily exploitable RCE flaw in Palo Alto Networks in GlobalProtect VPN<a href="https://securityaffairs.co/wordpress/124481/hacking/palo-alto-networks-globalprotect-vpn-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks warns of an easy exploitable Remote Code Execution vulnerability in its GlobalProtect VPN product.
+
+
+
+Palo Alto Networks disclosed a critical remote code execution vulnerability, tracked as CVE-2021-3064, in its GlobalProtect portal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber ransomware gang now exploits Internet Explorer flaws in attacks<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-gang-now-exploits-internet-explorer-flaws-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Magniber ransomware gang is now using two Internet Explorer vulnerabilities and malicious advertisements to infect users and encrypt their devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Uses New Sophisticated Techniques Against Docker Systems<a href="https://cyware.com/news/teamtnt-uses-new-sophisticated-techniques-against-docker-systems-5d295e64"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TeamTNT group has upped its game in recent times. Recently, it was found targeting Docker servers exposing Docker REST APIs for cryptomining purposes, under the campaign that was set off in October. Experts surmise that the threat actor could launch a larger-scale attack in the near future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Android spyware PhoneSpy infected thousands of Korean phones<a href="https://securityaffairs.co/wordpress/124471/malware/phonespy-spyware-south-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean users have been targeted with a new sophisticated Android spyware, tracked as PhoneSpy, as part of an ongoing campaign.
+
+
+
+Researchers from Zimperium zLabs uncovered an ongoing campaign aimed at infecting the mobile phones of South Korean...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian 'King of Fraud' sentenced to 10 years for Methbot scheme<a href="https://www.bleepingcomputer.com/news/legal/russian-king-of-fraud-sentenced-to-10-years-for-methbot-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DOJ) sentenced a Russian man for operating a large-scale digital advertising fraud scheme called 'Methbot' ('3ve') that stole at least $7 million from American companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diamond Comic Distributors Struggling with Delivering Planned Shipments After Ransomware Attack<a href="https://www.zdnet.com/article/comic-book-distributor-struggling-with-shipments-after-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said its planned shipments for Wednesday would be delayed about two to four days throughout the country due to the attack; reorders are expected to resume within the next 72 hours.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New bill sets ransomware attack response rules for US financial orgs<a href="https://www.bleepingcomputer.com/news/security/new-bill-sets-ransomware-attack-response-rules-for-us-financial-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New legislation introduced this week by US lawmakers aims to set ransomware attack response "rules of road" for US financial institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 100 TCP/IP Stack Security Vulnerabilities Uncovered During 18-Month Research Project<a href="https://www.securityweek.com/nearly-100-tcpip-stack-vulnerabilities-found-during-18-month-research-project?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a total of 97 vulnerabilities across 14 TCP/IP stacks, including ones that can be exploited for remote code execution, DoS attacks, or to obtain sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail accounts are used in 91% of all baiting email attacks<a href="https://www.bleepingcomputer.com/news/security/gmail-accounts-are-used-in-91-percent-of-all-baiting-email-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bait attacks are on the rise, and it appears that actors who distribute this special kind of phishing emails prefer to use Gmail accounts to conduct their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Uses Malicious Blogs to Deliver Malware to High-Profile Targets<a href="https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign targets South Korea-based think tanks whose research focuses on political, diplomatic, and military topics pertaining to North Korea, China, Russia, and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Careful: 'Smart TV remote' Android app on Google Play is malware<a href="https://www.bleepingcomputer.com/news/security/careful-smart-tv-remote-android-app-on-google-play-is-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Android apps sitting on the Google Play store have been found to contain malware this week. These apps are called 'Smart TV remote' and 'Halloween Coloring'.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarBackdoor Now Abuses Windows 10 Apps Feature in 'Call Me Back' Attack<a href="https://www.zdnet.com/article/bazarloader-now-abuses-windows-10-apps-feature-in-call-me-back-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Sophos Labs said the attack was noticed after the firm's own employees were targeted with spam emails. These emails were written with at least a basic level of social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Citrix DDoS Bug Shuts Down Network, Cloud App Access<a href="https://threatpost.com/critical-citrix-bug-etwork-cloud-app-access/176183/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The distributed computing vendor patched the flaw, affecting Citrix ADC and Gateway, along with another flaw impacting availability for SD-WAN appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Warns of Zero-Day Bug in Firewalls Using GlobalProtect Portal VPN<a href="https://thehackernews.com/2021/11/palo-alto-warns-of-zero-day-bug-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new zero-day vulnerability has been disclosed in Palo Alto Networks GlobalProtect VPN that could be abused by an unauthenticated network-based attacker to execute arbitrary code on affected devices with root user privileges.  Tracked as CVE-2021-3064 (CVSS score: 9.8), the security weakness impacts PAN-OS 8.1 versions earlier than PAN-OS 8.1.17. Massachusetts-based cybersecurity firm Randori has been credited with discovering and reporting the issue.   "The vulnerability chain consists of a method for bypassing validations made by an external web server (HTTP smuggling) and a stack-based buffer overflow," Randori researchers  said . "Exploitation of the vulnerability chain has been proven and allows for remote code execution on both physical and virtual firewall products."  Technical details related to CVE-2021-3064 have been withheld for 30 days to prevent threat actors from abusing the vulnerability to stage real-world attacks.   The security bug stems from a b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Zero-Day Hole Found in Palo Alto Security Appliances<a href="https://threatpost.com/massive-zero-day-hole-found-in-palo-alto-security-appliances/176170/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UPDATE: Researchers have a working exploit for the vulnerability (now patched), which allows for unauthenticated RCE and affects what Palo Alto clarified is an estimated 10,000 VPN/firewalls. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Balaur hackers-for-hire sell stolen mailboxes and private data<a href="https://www.bleepingcomputer.com/news/security/void-balaur-hackers-for-hire-sell-stolen-mailboxes-and-private-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker-for-hire group called Void Balaur has been stealing emails and highly-sensitive information for more than five years, selling it to customers with both financial and espionage goals
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
