@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat from Organized Cybercrime Syndicates Is Rising<a href="https://threatpost.com/organized-cybercrime-syndicates-europol/176326/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol reports that criminal groups are undermining the EU’s economy and its society, offering everything from murder-for-hire to kidnapping, torture and mutilation. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot and TA551 Are Buddies<a href="https://cyware.com/news/trickbot-and-ta551-are-buddies-fe719eec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A connection was established between the TrickBot gang and the TA551 threat group as a major similarity was found in their tools and TTPs.  They use Bazabackdoor and deploy the Cobalt Strike beacon on the compromised system and add scheduled tasks for persistence.  The recent collaborations prove h ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber ransomware gang now exploits Internet Explorer flaws in attacks<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-gang-now-exploits-internet-explorer-flaws-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Magniber ransomware gang is now using two Internet Explorer vulnerabilities and malicious advertisements to infect users and encrypt their devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

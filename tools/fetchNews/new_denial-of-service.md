@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest DDoS Trends and Attacks - What You Need to Know<a href="https://cyware.com/news/latest-ddos-trends-and-attacks-what-you-need-to-know-6a3f5ed6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks started being used as an intimidation tactic in Q3. The criminals sent company-wide emails stating that their resources were being used in DDoS attacks and they could face legal consequences.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Citrix DDoS Bug Shuts Down Network, Cloud App Access<a href="https://threatpost.com/critical-citrix-bug-etwork-cloud-app-access/176183/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The distributed computing vendor patched the flaw, affecting Citrix ADC and Gateway, along with another flaw impacting availability for SD-WAN appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

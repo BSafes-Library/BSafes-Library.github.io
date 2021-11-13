@@ -8,6 +8,76 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot Spam Campaigns Continue to Explode<a href="https://cyware.com/news/qbot-spam-campaigns-continue-to-explode-dddb6aaa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers from Kaspersky, in the first seven months of 2021, the number of users affected by the QBot, which was first discovered in 2007, jumped to 65% compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot — A New Evolving Wormable Botnet Malware Targeting Linux<a href="https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Qihoo 360's Netlab security team have released details of a new evolving botnet called " Abcbot " that has been observed in the wild with worm-like propagation features to infect Linux systems and launch distributed denial-of-service (DDoS) attacks against targets.  While the earliest version of the botnet dates back to July 2021, new variants observed as recently as October 30 have been equipped with additional updates to strike Linux web servers with weak passwords and are susceptible to N-day vulnerabilities, including a custom implementation of DDoS functionality, indicating that the malware is under continuous development.  Netlab's findings also build on a report from Trend Micro early last month, which&nbsp; publicized &nbsp;attacks targeting Huawei Cloud with cryptocurrency-mining and cryptojacking malware. The intrusions were also notable for the fact that the malicious shell scripts specifically disabled a process designed to monitor and scan the ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BotenaGo botnet targets millions of IoT devices with 33 exploits<a href="https://www.bleepingcomputer.com/news/security/botenago-botnet-targets-millions-of-iot-devices-with-33-exploits/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new&nbsp;BotenaGo malware botnet has been discovered using over thirty exploits to attack millions of routers and IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Operators Partner with Shathak Attackers for Conti Ransomware<a href="https://thehackernews.com/2021/11/trickbot-operators-partner-with-shatak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of TrickBot trojan are collaborating with the Shathak threat group to distribute their wares, ultimately leading to the deployment of Conti ransomware on infected machines.  "The implementation of&nbsp; TrickBot &nbsp;has evolved over the years, with recent versions of TrickBot implementing malware-loading capabilities," Cybereason security analysts Aleksandar Milenkoski and Eli Salem&nbsp; said &nbsp;in a report analysing recent malware distribution campaigns undertaken by the group. "TrickBot has played a major role in many attack campaigns conducted by different threat actors, from common cybercriminals to nation-state actors."   The latest report builds on a report from IBM X-Force last month, which&nbsp; revealed &nbsp;TrickBot's partnerships with other cybercrime gangs, including Shathak, to deliver proprietary malware. Also tracked under the moniker TA551, Shathak is a sophisticated cybercrime actor targeting end-users on a global scale, acting as a malware distributor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot: A New Botnet in the Making<a href="https://cyware.com/news/abcbot-a-new-botnet-in-the-making-f79494e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abcbot is slowly moving from infancy to maturity, according to researchers. The creators behind the botnet are testing various technologies with an aim to evolve the botnet with sophisticated features.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

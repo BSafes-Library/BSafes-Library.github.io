@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of surge in HTML smuggling phishing attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-html-smuggling-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has seen a surge in malware campaigns using HTML smuggling to distribute banking malware and remote access trojans (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Back-to-Back PlayStation 5 Hacks Hit on the Same Day<a href="https://threatpost.com/playstation-5-hacks-same-day/176240/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers stole PS5 root keys and exploited the kernel, revealing rampant insecurity in gaming devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

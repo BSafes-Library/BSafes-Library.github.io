@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Cybersecurity Best Practices to Combat Ransomware<a href="https://threatpost.com/cybersecurity-best-practices-ransomware/176316/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immutable storage and more: Sonya Duffin, data protection expert at Veritas Technologies, offers the Top 10 steps for building a multi-layer resilience profile.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operationalizing Threat Intelligence with User-Driven Automation<a href="https://threatpost.com/operationalizing-threat-intelligence-with-user-driven-automation/176208/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To truly achieve operationalized threat intelligence, an investment must be made in an underlying threat intelligence management platform that will enable an organization to harness the power of threat intelligence and translate that threat intelligence into action.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

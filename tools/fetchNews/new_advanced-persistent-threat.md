@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus is Back at it Again<a href="https://cyware.com/news/lazarus-is-back-at-it-again-6faf10e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous North Korea state-sponsored Lazarus APT was recently found targeting IT supply chains. Now, the group has been discovered attempting to hack security researchers again.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Iranian APT Targets Telcos, ISPs with Upgraded Malware<a href="https://cyware.com/news/an-iranian-apt-targets-telcos-isps-with-upgraded-malware-306e7e8b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lyceum is targeting ISPs and telecommunication operators in Israel, Tunisia, Morocco, and Saudi Arabia. It also attacked a ministry of foreign affairs in Africa. Lyceum uses credential stuffing and brute-force techniques as initial attack vectors. Since its launch, the group has tried and stayed ah ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

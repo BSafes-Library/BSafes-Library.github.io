@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - November 12th 2021 - Targeting REvil<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-12th-2021-targeting-revil/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QAKBOT Loader Returns With New Techniques and Tools<a href="https://www.trendmicro.com/en_us/research/21/k/qakbot-loader-returns-with-new-techniques-and-tools.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senate Democrats urge government to do more to protect K-12 schools against hackers<a href="https://thehill.com//policy/cybersecurity/581362-senate-democrats-urge-government-to-do-more-to-protect-k-12-schools"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Increasingly Using HTML Smuggling in Malware and Phishing Attacks<a href="https://thehackernews.com/2021/11/hackers-increasingly-using-html.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat from Organized Cybercrime Syndicates Is Rising<a href="https://threatpost.com/organized-cybercrime-syndicates-europol/176326/"> Full Text</a>
@@ -114,7 +114,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot returns for a new wave of infections using Squirrelwaffle<a href="https://www.bleepingcomputer.com/news/security/qbot-returns-for-a-new-wave-of-infections-using-squirrelwaffle/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware uses namesilo Parking pages and Google's custom pages to spread<a href="https://blog.netlab.360.com/zhatuniubility-malware-uses-namesilo-parking-pages-and-googles-custom-pages-to-spread/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Netlab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 10 Cybersecurity Best Practices to Combat Ransomware<a href="https://threatpost.com/cybersecurity-best-practices-ransomware/176316/"> Full Text</a>
@@ -162,7 +162,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC shares ransomware defense tips for small US businesses<a href="https://www.bleepingcomputer.com/news/security/ftc-shares-ransomware-defense-tips-for-small-us-businesses/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trickbot and TA551 Are Buddies<a href="https://cyware.com/news/trickbot-and-ta551-are-buddies-fe719eec"> Full Text</a>
@@ -195,7 +195,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These are the top-level domains threat actors like the most<a href="https://www.bleepingcomputer.com/news/security/these-are-the-top-level-domains-threat-actors-like-the-most/"> Full Text</a>
@@ -211,7 +211,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qbot Spam Campaigns Continue to Explode<a href="https://cyware.com/news/qbot-spam-campaigns-continue-to-explode-dddb6aaa"> Full Text</a>
@@ -227,7 +227,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of surge in HTML smuggling phishing attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-html-smuggling-phishing-attacks/"> Full Text</a>
@@ -243,7 +243,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus is Back at it Again<a href="https://cyware.com/news/lazarus-is-back-at-it-again-6faf10e1"> Full Text</a>
@@ -259,7 +259,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Costco discloses data breach after finding credit card skimmer<a href="https://www.bleepingcomputer.com/news/security/costco-discloses-data-breach-after-finding-credit-card-skimmer/"> Full Text</a>
@@ -275,7 +275,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest DDoS Trends and Attacks - What You Need to Know<a href="https://cyware.com/news/latest-ddos-trends-and-attacks-what-you-need-to-know-6a3f5ed6"> Full Text</a>
@@ -291,7 +291,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-day bug in all Windows versions gets free unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/zero-day-bug-in-all-windows-versions-gets-free-unofficial-patch/"> Full Text</a>
@@ -307,7 +307,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom Patches High-Risk Flaws in Meeting Connector, Keybase Client<a href="https://www.securityweek.com/zoom-patches-high-risk-flaws-meeting-connector-keybase-client?&web_view=true"> Full Text</a>
@@ -323,7 +323,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2021
+November 12, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New tool flags up benign-but-exploitable Chrome extensions<a href="https://www.theregister.com/2021/11/11/chrome_extension_analyzer/?&web_view=true"> Full Text</a>
@@ -339,7 +339,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abcbot — A New Evolving Wormable Botnet Malware Targeting Linux<a href="https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html"> Full Text</a>
@@ -355,7 +355,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit macOS Zero-Day to Hack Hong Kong Users with new Implant<a href="https://thehackernews.com/2021/11/hackers-exploit-macos-zero-day-to-hack.html"> Full Text</a>
@@ -371,7 +371,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Back-to-Back PlayStation 5 Hacks Hit on the Same Day<a href="https://threatpost.com/playstation-5-hacks-same-day/176240/"> Full Text</a>
@@ -387,7 +387,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10 App Installer abused in BazarLoader malware attacks<a href="https://www.bleepingcomputer.com/news/security/windows-10-app-installer-abused-in-bazarloader-malware-attacks/"> Full Text</a>
@@ -403,7 +403,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Threat Groups Found Interconnected to a Common Broker<a href="https://cyware.com/news/three-threat-groups-found-interconnected-to-a-common-broker-7f650f7a"> Full Text</a>
@@ -420,7 +420,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Harris calls for global action on cyber threats after US joins international effort<a href="https://thehill.com//policy/cybersecurity/581194-harris-calls-for-global-action-to-counter-cyber-threats-as-the-us-joins"> Full Text</a>
@@ -436,7 +436,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Hacker-for-Hire Group That's Active Since 2015<a href="https://thehackernews.com/2021/11/researchers-uncover-hacker-for-hire.html"> Full Text</a>
@@ -452,7 +452,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors hacked a server of a Queensland water supplier and remained undetected for 9 months<a href="https://securityaffairs.co/wordpress/124498/hacking/queensland-water-supplier-hacked.html"> Full Text</a>
@@ -472,7 +472,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Invest in These 3 Key Security Technologies to Fight Ransomware<a href="https://threatpost.com/invest-3-key-security-technologies-ransomware/176246/"> Full Text</a>
@@ -488,7 +488,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BotenaGo botnet targets millions of IoT devices with 33 exploits<a href="https://www.bleepingcomputer.com/news/security/botenago-botnet-targets-millions-of-iot-devices-with-33-exploits/"> Full Text</a>
@@ -504,7 +504,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analyzing the Deadly Rise in NPM Package Hijacking<a href="https://cyware.com/news/analyzing-the-deadly-rise-in-npm-package-hijacking-78b24364"> Full Text</a>
@@ -520,7 +520,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden signs into law bill to secure telecommunications systems against foreign threats<a href="https://thehill.com//policy/cybersecurity/581184-biden-signs-into-law-bill-to-secure-telecommunications-systems-against"> Full Text</a>
@@ -536,7 +536,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Operators Partner with Shathak Attackers for Conti Ransomware<a href="https://thehackernews.com/2021/11/trickbot-operators-partner-with-shatak.html"> Full Text</a>
@@ -552,7 +552,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ sentenced to 10 years Russian ‘King of Fraud’ behind the fraud scheme 3ve<a href="https://securityaffairs.co/wordpress/124491/hacking/king-of-fraud-arrested.html"> Full Text</a>
@@ -572,7 +572,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Designing a Proactive Ransomware Playbook for Today’s Threat Landscape<a href="https://threatpost.com/proactive-ransomware-playbook-threat-landscape/176224/"> Full Text</a>
@@ -588,7 +588,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMD fixes dozens of Windows 10 graphics driver security bugs<a href="https://www.bleepingcomputer.com/news/security/amd-fixes-dozens-of-windows-10-graphics-driver-security-bugs/"> Full Text</a>
@@ -604,7 +604,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abcbot: A New Botnet in the Making<a href="https://cyware.com/news/abcbot-a-new-botnet-in-the-making-f79494e1"> Full Text</a>
@@ -620,7 +620,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Navigating The Threat Landscape 2021 – From Ransomware to Botnets<a href="https://thehackernews.com/2021/11/navigating-threat-landscape-2021-from.html"> Full Text</a>
@@ -636,7 +636,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian threat actors attempt to buy stolen data of US organizations, FBI warns<a href="https://securityaffairs.co/wordpress/124487/cyber-crime/fbi-pin-iran-attackers.html"> Full Text</a>
@@ -656,7 +656,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operationalizing Threat Intelligence with User-Driven Automation<a href="https://threatpost.com/operationalizing-threat-intelligence-with-user-driven-automation/176208/"> Full Text</a>
@@ -672,7 +672,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers undetected on Queensland water supplier server for 9 months<a href="https://www.bleepingcomputer.com/news/security/hackers-undetected-on-queensland-water-supplier-server-for-9-months/"> Full Text</a>
@@ -688,7 +688,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Iranian APT Targets Telcos, ISPs with Upgraded Malware<a href="https://cyware.com/news/an-iranian-apt-targets-telcos-isps-with-upgraded-malware-306e7e8b"> Full Text</a>
@@ -705,7 +705,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran's Lyceum Hackers Target Telecoms, ISPs in Israel, Saudi Arabia, and Africa<a href="https://thehackernews.com/2021/11/irans-lyceum-hackers-target-telecoms.html"> Full Text</a>
@@ -721,7 +721,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2021-3064: Easily exploitable RCE flaw in Palo Alto Networks in GlobalProtect VPN<a href="https://securityaffairs.co/wordpress/124481/hacking/palo-alto-networks-globalprotect-vpn-rce.html"> Full Text</a>
@@ -741,7 +741,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magniber ransomware gang now exploits Internet Explorer flaws in attacks<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-gang-now-exploits-internet-explorer-flaws-in-attacks/"> Full Text</a>
@@ -757,7 +757,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Uses New Sophisticated Techniques Against Docker Systems<a href="https://cyware.com/news/teamtnt-uses-new-sophisticated-techniques-against-docker-systems-5d295e64"> Full Text</a>
@@ -773,7 +773,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated Android spyware PhoneSpy infected thousands of Korean phones<a href="https://securityaffairs.co/wordpress/124471/malware/phonespy-spyware-south-korea.html"> Full Text</a>
@@ -793,7 +793,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian 'King of Fraud' sentenced to 10 years for Methbot scheme<a href="https://www.bleepingcomputer.com/news/legal/russian-king-of-fraud-sentenced-to-10-years-for-methbot-scheme/"> Full Text</a>
@@ -809,7 +809,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diamond Comic Distributors Struggling with Delivering Planned Shipments After Ransomware Attack<a href="https://www.zdnet.com/article/comic-book-distributor-struggling-with-shipments-after-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -825,7 +825,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New bill sets ransomware attack response rules for US financial orgs<a href="https://www.bleepingcomputer.com/news/security/new-bill-sets-ransomware-attack-response-rules-for-us-financial-orgs/"> Full Text</a>
@@ -841,7 +841,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 100 TCP/IP Stack Security Vulnerabilities Uncovered During 18-Month Research Project<a href="https://www.securityweek.com/nearly-100-tcpip-stack-vulnerabilities-found-during-18-month-research-project?&web_view=true"> Full Text</a>
@@ -857,7 +857,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gmail accounts are used in 91% of all baiting email attacks<a href="https://www.bleepingcomputer.com/news/security/gmail-accounts-are-used-in-91-percent-of-all-baiting-email-attacks/"> Full Text</a>
@@ -873,7 +873,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hacker Group Uses Malicious Blogs to Deliver Malware to High-Profile Targets<a href="https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html?&web_view=true"> Full Text</a>
@@ -889,7 +889,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Careful: 'Smart TV remote' Android app on Google Play is malware<a href="https://www.bleepingcomputer.com/news/security/careful-smart-tv-remote-android-app-on-google-play-is-malware/"> Full Text</a>
@@ -905,7 +905,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2021
+November 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazarBackdoor Now Abuses Windows 10 Apps Feature in 'Call Me Back' Attack<a href="https://www.zdnet.com/article/bazarloader-now-abuses-windows-10-apps-feature-in-call-me-back-attack/?&web_view=true"> Full Text</a>
@@ -921,7 +921,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2021
+November 10, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Citrix DDoS Bug Shuts Down Network, Cloud App Access<a href="https://threatpost.com/critical-citrix-bug-etwork-cloud-app-access/176183/"> Full Text</a>
@@ -937,7 +937,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2021
+November 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Warns of Zero-Day Bug in Firewalls Using GlobalProtect Portal VPN<a href="https://thehackernews.com/2021/11/palo-alto-warns-of-zero-day-bug-in.html"> Full Text</a>
@@ -953,7 +953,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2021
+November 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Zero-Day Hole Found in Palo Alto Security Appliances<a href="https://threatpost.com/massive-zero-day-hole-found-in-palo-alto-security-appliances/176170/"> Full Text</a>
@@ -969,7 +969,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2021
+November 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Void Balaur hackers-for-hire sell stolen mailboxes and private data<a href="https://www.bleepingcomputer.com/news/security/void-balaur-hackers-for-hire-sell-stolen-mailboxes-and-private-data/"> Full Text</a>

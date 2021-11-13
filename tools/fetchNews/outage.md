@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not Punny: Angling Direct Breach Cripples Retailer for Days &nbsp;<a href="https://threatpost.com/angling-direct-breach-cripples-retailer/176144/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. fishing retailer’s site has been hijacked and redirected to Pornhub.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

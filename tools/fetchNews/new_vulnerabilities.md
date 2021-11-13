@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day bug in all Windows versions gets free unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/zero-day-bug-in-all-windows-versions-gets-free-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free and unofficial patch is now available for a zero-day local privilege escalation vulnerability in the Windows User Profile Service that lets attackers gain SYSTEM privileges under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Patches High-Risk Flaws in Meeting Connector, Keybase Client<a href="https://www.securityweek.com/zoom-patches-high-risk-flaws-meeting-connector-keybase-client?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video messaging technology giant Zoom has shipped patches for high-severity vulnerabilities that expose enterprise users to remote code execution and command injection attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 App Installer abused in BazarLoader malware attacks<a href="https://www.bleepingcomputer.com/news/security/windows-10-app-installer-abused-in-bazarloader-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot gang operators are now abusing the Windows 10 App Installer to deploy their BazarLoader malware on the systems of targets who fall victim to a highly targeted spam campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMD fixes dozens of Windows 10 graphics driver security bugs<a href="https://www.bleepingcomputer.com/news/security/amd-fixes-dozens-of-windows-10-graphics-driver-security-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AMD has fixed a long list of security vulnerabilities found in its graphics driver for Windows 10 devices, allowing attackers to execute arbitrary code and elevate privileges on vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2021-3064: Easily exploitable RCE flaw in Palo Alto Networks in GlobalProtect VPN<a href="https://securityaffairs.co/wordpress/124481/hacking/palo-alto-networks-globalprotect-vpn-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks warns of an easy exploitable Remote Code Execution vulnerability in its GlobalProtect VPN product.
+
+
+
+Palo Alto Networks disclosed a critical remote code execution vulnerability, tracked as CVE-2021-3064, in its GlobalProtect portal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 100 TCP/IP Stack Security Vulnerabilities Uncovered During 18-Month Research Project<a href="https://www.securityweek.com/nearly-100-tcpip-stack-vulnerabilities-found-during-18-month-research-project?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a total of 97 vulnerabilities across 14 TCP/IP stacks, including ones that can be exploited for remote code execution, DoS attacks, or to obtain sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Warns of Zero-Day Bug in Firewalls Using GlobalProtect Portal VPN<a href="https://thehackernews.com/2021/11/palo-alto-warns-of-zero-day-bug-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new zero-day vulnerability has been disclosed in Palo Alto Networks GlobalProtect VPN that could be abused by an unauthenticated network-based attacker to execute arbitrary code on affected devices with root user privileges.  Tracked as CVE-2021-3064 (CVSS score: 9.8), the security weakness impacts PAN-OS 8.1 versions earlier than PAN-OS 8.1.17. Massachusetts-based cybersecurity firm Randori has been credited with discovering and reporting the issue.   "The vulnerability chain consists of a method for bypassing validations made by an external web server (HTTP smuggling) and a stack-based buffer overflow," Randori researchers&nbsp; said . "Exploitation of the vulnerability chain has been proven and allows for remote code execution on both physical and virtual firewall products."  Technical details related to CVE-2021-3064 have been withheld for 30 days to prevent threat actors from abusing the vulnerability to stage real-world attacks.   The security bug stems from a b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Zero-Day Hole Found in Palo Alto Security Appliances<a href="https://threatpost.com/massive-zero-day-hole-found-in-palo-alto-security-appliances/176170/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UPDATE: Researchers have a working exploit for the vulnerability (now patched), which allows for unauthenticated RCE and affects what Palo Alto clarified is an estimated 10,000 VPN/firewalls. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

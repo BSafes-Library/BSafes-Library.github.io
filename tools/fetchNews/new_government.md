@@ -8,6 +8,94 @@ nav_order: 900075
 
 ## Government
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate Democrats urge government to do more to protect K-12 schools against hackers<a href="https://thehill.com//policy/cybersecurity/581362-senate-democrats-urge-government-to-do-more-to-protect-k-12-schools"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Senate Democrats on Friday urged the federal government to do more to protect K-12 institutions and students against crippling cyberattacks, which have increasingly wreaked havoc across the nation during the past year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC shares ransomware defense tips for small US businesses<a href="https://www.bleepingcomputer.com/news/security/ftc-shares-ransomware-defense-tips-for-small-us-businesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;US Federal Trade Commission (FTC) has shared guidance for small businesses on how to secure their networks from ransomware attacks by blocking threat actors' attempts to exploit vulnerabilities using social engineering or exploits targeting technology.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris calls for global action on cyber threats after US joins international effort<a href="https://thehill.com//policy/cybersecurity/581194-harris-calls-for-global-action-to-counter-cyber-threats-as-the-us-joins"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice President Harris on Thursday called on global leaders to work together to counter cybersecurity threats and protect an open internet following a turbulent year of major cyberattacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs into law bill to secure telecommunications systems against foreign threats<a href="https://thehill.com//policy/cybersecurity/581184-biden-signs-into-law-bill-to-secure-telecommunications-systems-against"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+President Biden on Thursday signed into law bipartisan legislation to secure telecommunications systems against potential foreign threats, particularly from those linked to China.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian threat actors attempt to buy stolen data of US organizations, FBI warns<a href="https://securityaffairs.co/wordpress/124487/cyber-crime/fbi-pin-iran-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned private industry partners of attempts by an Iranian threat actor to buy stolen information belonging to US organizations. 
+
+
+
+The Federal Bureau of Investigation (FBI) issued a private industry notification (PIN) to warn private industry...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New bill sets ransomware attack response rules for US financial orgs<a href="https://www.bleepingcomputer.com/news/security/new-bill-sets-ransomware-attack-response-rules-for-us-financial-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New legislation introduced this week by US lawmakers aims to set ransomware attack response "rules of road" for US financial institutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

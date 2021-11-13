@@ -8,6 +8,147 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using HTML Smuggling in Malware and Phishing Attacks<a href="https://thehackernews.com/2021/11/hackers-increasingly-using-html.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly banking on the technique of&nbsp; HTML smuggling &nbsp;in phishing campaigns as a means to gain initial access and deploy an array of threats, including banking malware, remote administration trojans (RATs), and ransomware payloads.  Microsoft 365 Defender Threat Intelligence Team, in a new report published Thursday, disclosed that it identified infiltrations distributing the&nbsp; Mekotio &nbsp;banking Trojan, backdoors such as&nbsp; AsyncRAT &nbsp;and&nbsp; NjRAT , and the infamous&nbsp; TrickBot &nbsp;malware. The multi-staged attacks — dubbed&nbsp; ISOMorph &nbsp;— were also publicly documented by Menlo Security in July 2021.   HTML smuggling is an approach that allows an attacker to "smuggle" first-stage droppers, often encoded malicious scripts embedded within specially-crafted HTML attachment or web pages, on a victim machine by taking advantage of basic features in HTML5 and JavaScript rather than exploiting a vulnerability or a design flaw in modern web browsers.  By doing so, it enables t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the top-level domains threat actors like the most<a href="https://www.bleepingcomputer.com/news/security/these-are-the-top-level-domains-threat-actors-like-the-most/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Out of over a thousand top-level domain choices, cyber-criminals and threat actors prefer a small set of 25, which accounts for 90% of all malicious sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit macOS Zero-Day to Hack Hong Kong Users with new Implant<a href="https://thehackernews.com/2021/11/hackers-exploit-macos-zero-day-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers on Thursday disclosed that it found a watering hole attack in late August exploiting a now-parched zero-day in macOS operating system and targeting Hong Kong websites related to a media outlet and a prominent pro-democracy labor and political group to deliver a never-before-seen backdoor on compromised machines.  "Based on our findings, we believe this threat actor to be a well-resourced group, likely state backed, with access to their own software engineering team based on the quality of the payload code," Google Threat Analysis Group (TAG) researcher Erye Hernandez&nbsp; said &nbsp;in a report.   Tracked as&nbsp; CVE-2021-30869 &nbsp;(CVSS score: 7.8), the security shortcoming concerns a type confusion vulnerability affecting the&nbsp; XNU &nbsp;kernel component that could cause a malicious application to execute arbitrary code with the highest privileges. Apple addressed the issue on September 23.   The attacks observed by TAG involved an exploit chain that strung together&nbsp; CVE-2021
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Threat Groups Found Interconnected to a Common Broker<a href="https://cyware.com/news/three-threat-groups-found-interconnected-to-a-common-broker-7f650f7a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackBerry discovered that actors behind MountLocker, Phobos, and the StrongPity APT are dependent on a common initial access broker, dubbed Zebra2104, for their malware campaigns.  The broker has helped criminals break into the networks of multiple firms in Australia and Turkey.&nbsp; Such collabo ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Hacker-for-Hire Group That's Active Since 2015<a href="https://thehackernews.com/2021/11/researchers-uncover-hacker-for-hire.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber mercenary hacker-for-hire group dubbed " Void Balaur " has been linked to a string of cyberespionage and data theft activities targeting thousands of entities as well as human rights activists, politicians, and government officials around the world at least since 2015 for financial gain while lurking in the shadows.  Named after a&nbsp; many-headed dragon &nbsp;from Romanian folklore, the adversary has been unmasked advertising its services in Russian-speaking underground forums dating all the way back to 2017 and selling troves of sensitive information such as cell tower phone logs, passenger flight records, credit reports, banking data, SMS messages, and passport details. The threat actor calls itself "Rockethack."  "This hacker-for-hire group does not operate out of a physical building, nor does it have a shiny prospectus that describes its services," Trend Micro researcher Feike Hacquebord&nbsp; said &nbsp;in a newly published profile of the collective.   &amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers undetected on Queensland water supplier server for 9 months<a href="https://www.bleepingcomputer.com/news/security/hackers-undetected-on-queensland-water-supplier-server-for-9-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stayed hidden for nine months on a server holding customer information for a Queensland water supplier, illustrating the need of better cyberdefenses for critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran's Lyceum Hackers Target Telecoms, ISPs in Israel, Saudi Arabia, and Africa<a href="https://thehackernews.com/2021/11/irans-lyceum-hackers-target-telecoms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored threat actor allegedly affiliated with Iran has been linked to a series of targeted attacks aimed at internet service providers (ISPs) and telecommunication operators in Israel, Morocco, Tunisia, and Saudi Arabia, as well as a ministry of foreign affairs (MFA) in Africa, new findings reveal.  The intrusions, staged by a group tracked as Lyceum, are believed to have occurred between July and October 2021, researchers from Accenture Cyber Threat Intelligence (ACTI) group and Prevailion's Adversarial Counterintelligence Team (PACT) said in a technical report. The names of the victims were not disclosed.  The latest revelations throw light on the web-based infrastructure used by Lyceum, over 20 of them, enabling the identification of "additional victims and provide further visibility into Lyceum's targeting methodology," the researchers&nbsp; noted , adding "at least two of the identified compromises are assessed to be ongoing despite prior public discl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Uses New Sophisticated Techniques Against Docker Systems<a href="https://cyware.com/news/teamtnt-uses-new-sophisticated-techniques-against-docker-systems-5d295e64"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TeamTNT group has upped its game in recent times. Recently, it was found targeting Docker servers exposing Docker REST APIs for cryptomining purposes, under the campaign that was set off in October. Experts surmise that the threat actor could launch a larger-scale attack in the near future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Uses Malicious Blogs to Deliver Malware to High-Profile Targets<a href="https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign targets South Korea-based think tanks whose research focuses on political, diplomatic, and military topics pertaining to North Korea, China, Russia, and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Balaur hackers-for-hire sell stolen mailboxes and private data<a href="https://www.bleepingcomputer.com/news/security/void-balaur-hackers-for-hire-sell-stolen-mailboxes-and-private-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker-for-hire group called Void Balaur has been stealing emails and highly-sensitive information for more than five years, selling it to customers with both financial and espionage goals
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

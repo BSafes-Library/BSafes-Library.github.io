@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing the Deadly Rise in NPM Package Hijacking<a href="https://cyware.com/news/analyzing-the-deadly-rise-in-npm-package-hijacking-78b24364"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, two popular npm libraries were caught up in a whirlwind of attacks. An unknown threat actor tampered with Coa and rc npm packages to include identical password-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating The Threat Landscape 2021 – From Ransomware to Botnets<a href="https://thehackernews.com/2021/11/navigating-threat-landscape-2021-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though we are recovering from the worst pandemic, cyber threats have shown no sign of downshifting, and cybercriminals are still not short of malicious and advanced ways to achieve their goals.&nbsp;  The&nbsp; Global Threat Landscape Report &nbsp;indicates a drastic rise in sophisticated cyberattacks targeting digital infrastructures, organizations, and individuals in 2021. Threats can take different forms with the intent to commit fraud and damage businesses and people. Ransomware,&nbsp; DDoS attacks , phishing, malware, and man-in-the-middle attacks represent the greatest threat to businesses today.  When new threats emerge, attackers take advantage of them – however, most businesses are only aware of the current threats.  Organizations struggle to address these threats due to their resource sophistication and their lack of understanding of evolving threat landscapes. For these reasons, organizations need visibility on the advanced threats especially targeting their infrastructure. This article will o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail accounts are used in 91% of all baiting email attacks<a href="https://www.bleepingcomputer.com/news/security/gmail-accounts-are-used-in-91-percent-of-all-baiting-email-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bait attacks are on the rise, and it appears that actors who distribute this special kind of phishing emails prefer to use Gmail accounts to conduct their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -31,6 +31,7 @@
 
 Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-iranian-hackers-looking-to-buy-us-orgs-stolen-data/-- [General](/docs/issues/general/general/)<br>
+. https://www.bleepingcomputer.com/news/security/ftc-shares-ransomware-defense-tips-for-small-us-businesses/
  
 Law
 

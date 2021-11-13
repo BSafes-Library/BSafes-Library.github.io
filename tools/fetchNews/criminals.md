@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Gang Partners with TA551 Group to Deliver Conti Ransomware<a href="https://securityboulevard.com/2021/11/threat-analysis-report-from-shatak-emails-to-the-conti-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ITG23 group is partnering with TA551 (Shatak) threat group to distribute ITG23’s TrickBot and BazarBackdoor malware, which malicious actors use to deploy Conti ransomware on compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

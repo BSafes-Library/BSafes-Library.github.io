@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Android spyware PhoneSpy infected thousands of Korean phones<a href="https://securityaffairs.co/wordpress/124471/malware/phonespy-spyware-south-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean users have been targeted with a new sophisticated Android spyware, tracked as PhoneSpy, as part of an ongoing campaign.
+
+
+
+Researchers from Zimperium zLabs uncovered an ongoing campaign aimed at infecting the mobile phones of South Korean...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

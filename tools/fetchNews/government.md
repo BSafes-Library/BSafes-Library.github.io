@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan Government faces 5 Million hacking attempts daily<a href="https://securityaffairs.co/wordpress/124444/intelligence/taiwan-cyber-attack-from-china.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber security department director Chien Hung-wei told parliament representatives that the Taiwanese government infrastructure faces “five million attacks and scans a day”.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former top officials warn democracy in 'jeopardy' without Congressional action on election security<a href="https://thehill.com//policy/cybersecurity/581032-former-national-security-officials-urge-congress-to-take-steps-to-secure"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bipartisan group of almost 100 former national security officials&nbsp;is urging Congress to take steps to secure elections ahead of next year, warning that without action, the nation's democratic institutions are in “severe jeopardy.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harris, Macron unveil new initiatives on space, cybersecurity after meeting<a href="https://thehill.com//homenews/administration/581037-harris-macron-unveils-new-initiatives-on-space-cybersecurity-after"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice President Harris on Wednesday announced new initiatives with France on space and cybersecurity following a meeting with French President Emmanuel Macron in Paris.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

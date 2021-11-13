@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 12th 2021 - Targeting REvil<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-12th-2021-targeting-revil/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, law enforcement struck a massive blow against the REvil ransomware operation, with multiple arrests announced and the seizure of cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Invest in These 3 Key Security Technologies to Fight Ransomware<a href="https://threatpost.com/invest-3-key-security-technologies-ransomware/176246/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware volumes are up 1000%. Aamir Lakhani, cybersecurity researcher and practitioner at FortiGuard Labs , discusses secure email, network segmentation and sandboxing for defense.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Designing a Proactive Ransomware Playbook for Today’s Threat Landscape<a href="https://threatpost.com/proactive-ransomware-playbook-threat-landscape/176224/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Asset inventories and risk assessments are critical tools in defending against the increasing scourge of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
