@@ -34,6 +34,359 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 12th 2021 - Targeting REvil<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-12th-2021-targeting-revil/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, law enforcement struck a massive blow against the REvil ransomware operation, with multiple arrests announced and the seizure of cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QAKBOT Loader Returns With New Techniques and Tools<a href="https://www.trendmicro.com/en_us/research/21/k/qakbot-loader-returns-with-new-techniques-and-tools.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QAKBOT is a prevalent information-stealing malware that was first discovered in 2007. In recent years, its detection has become a precursor to many critical and widespread ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senate Democrats urge government to do more to protect K-12 schools against hackers<a href="https://thehill.com//policy/cybersecurity/581362-senate-democrats-urge-government-to-do-more-to-protect-k-12-schools"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Senate Democrats on Friday urged the federal government to do more to protect K-12 institutions and students against crippling cyberattacks, which have increasingly wreaked havoc across the nation during the past year. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using HTML Smuggling in Malware and Phishing Attacks<a href="https://thehackernews.com/2021/11/hackers-increasingly-using-html.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly banking on the technique of  HTML smuggling  in phishing campaigns as a means to gain initial access and deploy an array of threats, including banking malware, remote administration trojans (RATs), and ransomware payloads.  Microsoft 365 Defender Threat Intelligence Team, in a new report published Thursday, disclosed that it identified infiltrations distributing the  Mekotio  banking Trojan, backdoors such as  AsyncRAT  and  NjRAT , and the infamous  TrickBot  malware. The multi-staged attacks — dubbed  ISOMorph  — were also publicly documented by Menlo Security in July 2021.   HTML smuggling is an approach that allows an attacker to "smuggle" first-stage droppers, often encoded malicious scripts embedded within specially-crafted HTML attachment or web pages, on a victim machine by taking advantage of basic features in HTML5 and JavaScript rather than exploiting a vulnerability or a design flaw in modern web browsers.  By doing so, it enables t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat from Organized Cybercrime Syndicates Is Rising<a href="https://threatpost.com/organized-cybercrime-syndicates-europol/176326/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol reports that criminal groups are undermining the EU’s economy and its society, offering everything from murder-for-hire to kidnapping, torture and mutilation. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot returns for a new wave of infections using Squirrelwaffle<a href="https://www.bleepingcomputer.com/news/security/qbot-returns-for-a-new-wave-of-infections-using-squirrelwaffle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activity of the QBot (also known as Quakbot) banking trojan is spiking again, and analysts from multiple security research firms attribute this to the rise of Squirrelwaffle.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware uses namesilo Parking pages and Google's custom pages to spread<a href="https://blog.netlab.360.com/zhatuniubility-malware-uses-namesilo-parking-pages-and-googles-custom-pages-to-spread/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This technique is yet another attempt from the malicious actor to hide control channels to avoid being tracked, monitored, or blocked and it probably has served them well.
+</details>
+<div style="text-align: right" markdown="1">
+Netlab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Cybersecurity Best Practices to Combat Ransomware<a href="https://threatpost.com/cybersecurity-best-practices-ransomware/176316/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immutable storage and more: Sonya Duffin, data protection expert at Veritas Technologies, offers the Top 10 steps for building a multi-layer resilience profile.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC shares ransomware defense tips for small US businesses<a href="https://www.bleepingcomputer.com/news/security/ftc-shares-ransomware-defense-tips-for-small-us-businesses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) has shared guidance for small businesses on how to secure their networks from ransomware attacks by blocking threat actors' attempts to exploit vulnerabilities using social engineering or exploits targeting technology.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trickbot and TA551 Are Buddies<a href="https://cyware.com/news/trickbot-and-ta551-are-buddies-fe719eec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A connection was established between the TrickBot gang and the TA551 threat group as a major similarity was found in their tools and TTPs.  They use Bazabackdoor and deploy the Cobalt Strike beacon on the compromised system and add scheduled tasks for persistence.  The recent collaborations prove h ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the top-level domains threat actors like the most<a href="https://www.bleepingcomputer.com/news/security/these-are-the-top-level-domains-threat-actors-like-the-most/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Out of over a thousand top-level domain choices, cyber-criminals and threat actors prefer a small set of 25, which accounts for 90% of all malicious sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot Spam Campaigns Continue to Explode<a href="https://cyware.com/news/qbot-spam-campaigns-continue-to-explode-dddb6aaa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers from Kaspersky, in the first seven months of 2021, the number of users affected by the QBot, which was first discovered in 2007, jumped to 65% compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of surge in HTML smuggling phishing attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-html-smuggling-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has seen a surge in malware campaigns using HTML smuggling to distribute banking malware and remote access trojans (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus is Back at it Again<a href="https://cyware.com/news/lazarus-is-back-at-it-again-6faf10e1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous North Korea state-sponsored Lazarus APT was recently found targeting IT supply chains. Now, the group has been discovered attempting to hack security researchers again.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costco discloses data breach after finding credit card skimmer<a href="https://www.bleepingcomputer.com/news/security/costco-discloses-data-breach-after-finding-credit-card-skimmer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Costco Wholesale Corporation has warned customers in notification letters sent this month that their payment card information might have been stolen while recently shopping at one of its stores.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest DDoS Trends and Attacks - What You Need to Know<a href="https://cyware.com/news/latest-ddos-trends-and-attacks-what-you-need-to-know-6a3f5ed6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks started being used as an intimidation tactic in Q3. The criminals sent company-wide emails stating that their resources were being used in DDoS attacks and they could face legal consequences.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day bug in all Windows versions gets free unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/zero-day-bug-in-all-windows-versions-gets-free-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free and unofficial patch is now available for a zero-day local privilege escalation vulnerability in the Windows User Profile Service that lets attackers gain SYSTEM privileges under certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Patches High-Risk Flaws in Meeting Connector, Keybase Client<a href="https://www.securityweek.com/zoom-patches-high-risk-flaws-meeting-connector-keybase-client?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video messaging technology giant Zoom has shipped patches for high-severity vulnerabilities that expose enterprise users to remote code execution and command injection attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New tool flags up benign-but-exploitable Chrome extensions<a href="https://www.theregister.com/2021/11/11/chrome_extension_analyzer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Germany's CISPA Helmholtz Center for Information Security have developed a tool to identify Chrome extensions that could be exploited by malicious webpages and other extensions.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abcbot — A New Evolving Wormable Botnet Malware Targeting Linux<a href="https://thehackernews.com/2021/11/abcbot-new-evolving-wormable-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Qihoo 360's Netlab security team have released details of a new evolving botnet called " Abcbot " that has been observed in the wild with worm-like propagation features to infect Linux systems and launch distributed denial-of-service (DDoS) attacks against targets.  While the earliest version of the botnet dates back to July 2021, new variants observed as recently as October 30 have been equipped with additional updates to strike Linux web servers with weak passwords and are susceptible to N-day vulnerabilities, including a custom implementation of DDoS functionality, indicating that the malware is under continuous development.  Netlab's findings also build on a report from Trend Micro early last month, which  publicized  attacks targeting Huawei Cloud with cryptocurrency-mining and cryptojacking malware. The intrusions were also notable for the fact that the malicious shell scripts specifically disabled a process designed to monitor and scan the ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit macOS Zero-Day to Hack Hong Kong Users with new Implant<a href="https://thehackernews.com/2021/11/hackers-exploit-macos-zero-day-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers on Thursday disclosed that it found a watering hole attack in late August exploiting a now-parched zero-day in macOS operating system and targeting Hong Kong websites related to a media outlet and a prominent pro-democracy labor and political group to deliver a never-before-seen backdoor on compromised machines.  "Based on our findings, we believe this threat actor to be a well-resourced group, likely state backed, with access to their own software engineering team based on the quality of the payload code," Google Threat Analysis Group (TAG) researcher Erye Hernandez  said  in a report.   Tracked as  CVE-2021-30869  (CVSS score: 7.8), the security shortcoming concerns a type confusion vulnerability affecting the  XNU  kernel component that could cause a malicious application to execute arbitrary code with the highest privileges. Apple addressed the issue on September 23.   The attacks observed by TAG involved an exploit chain that strung together  CVE-2021
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Back-to-Back PlayStation 5 Hacks Hit on the Same Day<a href="https://threatpost.com/playstation-5-hacks-same-day/176240/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers stole PS5 root keys and exploited the kernel, revealing rampant insecurity in gaming devices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 11, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
