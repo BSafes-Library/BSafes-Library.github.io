@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diamond Comic Distributors Struggling with Delivering Planned Shipments After Ransomware Attack<a href="https://www.zdnet.com/article/comic-book-distributor-struggling-with-shipments-after-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said its planned shipments for Wednesday would be delayed about two to four days throughout the country due to the attack; reorders are expected to resume within the next 72 hours.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

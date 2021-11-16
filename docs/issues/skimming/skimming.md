@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costco Confirms: A Data Skimmer’s Been Ripping Off Customers<a href="https://threatpost.com/costco-data-skimmer-customers-notification/176320/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Big-box behemoth retailer Costco is offering victims 12 months of credit monitoring, a $1 million insurance reimbursement policy and ID theft recovery services.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

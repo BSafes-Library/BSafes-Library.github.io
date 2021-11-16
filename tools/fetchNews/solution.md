@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New tool flags up benign-but-exploitable Chrome extensions<a href="https://www.theregister.com/2021/11/11/chrome_extension_analyzer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Germany's CISPA Helmholtz Center for Information Security have developed a tool to identify Chrome extensions that could be exploited by malicious webpages and other extensions.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

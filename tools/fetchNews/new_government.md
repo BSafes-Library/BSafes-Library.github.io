@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces new program to attract and retain cybersecurity talent<a href="https://thehill.com//policy/cybersecurity/581527-dhs-announces-new-program-to-attract-and-retain-cybersecurity-talent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) on Monday announced a new program to attract and retain cybersecurity professionals, as major cyber incidents have ticked up over the past year and&nbsp;are drawing more government attention.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and Israel announce joint task force on cybersecurity<a href="https://thehill.com//policy/cybersecurity/581506-us-and-israel-announce-joint-task-force-on-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department announced on Sunday that it would work with the Israeli Ministry of Finance to address ransomware and cybersecurity issues.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Education Dept urged to boost K-12 schools' ransomware defenses<a href="https://www.bleepingcomputer.com/news/security/us-education-dept-urged-to-boost-k-12-schools-ransomware-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Education and Department of Homeland Security (DHS) were urged this week to more aggressively strengthen cybersecurity protections at K-12 schools across the nation to keep up with a massive wave of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC shares guidance for small businesses to prevent ransomware attacks<a href="https://securityaffairs.co/wordpress/124592/security/ftc-guidance-small-businesses-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) has shared guidance for small businesses on how to increase resilience to ransomware attacks. 
+
+
+
+The US Federal Trade Commission (FTC) published guidance for small businesses on how to protect their networks from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers access FBI email system, spam 100,000 accounts<a href="https://thehill.com//policy/national-security/fbi/581438-hackers-access-fbi-email-system-spam-100000-people"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers accessed the FBI’s email system and sent spam to 100,000 accounts on Saturday, according to the Spamhaus Project, an email spam watchdog group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

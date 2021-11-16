@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ sentenced to 10 years Russian ‘King of Fraud’ behind the fraud scheme 3ve<a href="https://securityaffairs.co/wordpress/124491/hacking/king-of-fraud-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US DoJ sentenced a Russian man for operating a large-scale digital advertising fraud scheme called Methbot ('3ve').
+
+
+
+The US DoJ sentenced the Russian nation Aleksandr Zhukov, aka the 'King of Fraud,' for operating a large-scale digital advertising...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian 'King of Fraud' sentenced to 10 years for Methbot scheme<a href="https://www.bleepingcomputer.com/news/legal/russian-king-of-fraud-sentenced-to-10-years-for-methbot-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DOJ) sentenced a Russian man for operating a large-scale digital advertising fraud scheme called 'Methbot' ('3ve') that stole at least $7 million from American companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

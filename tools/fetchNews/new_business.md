@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Security Company Netography Raises $45 Million<a href="https://www.securityweek.com/network-security-company-netography-raises-45-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new investment round was led by Bessemer Venture Partners and SYN Ventures. Existing investors Andreessen Horowitz, Harpoon Ventures, Mango Capital, and Wing Venture Capital also contributed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

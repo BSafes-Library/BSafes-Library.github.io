@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Tackle SaaS Security Misconfigurations<a href="https://thehackernews.com/2021/11/how-to-tackle-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether it's Office 365, Salesforce, Slack, GitHub or Zoom, all SaaS apps include a host of security features designed to protect the business and its data. The job of ensuring these apps' security settings are properly configured falls on the security team.  The challenge lies within how burdensome this responsibility is — each app has tens or hundreds of security settings to configure, in addition to the continuous need for general or user updates, compounded by many compliance industry standards and frameworks that organizations need to follow.  Not to mention the fact that often the SaaS app owner sits outside the outside of the security team in the department that most uses the app (think Sales has CRM app, Marketing has automation app), and they are untrained and not focused on the security upkeep of the app. It all amounts to just how unrealistic it is to expect security teams to be able to stay in control of the organization's SaaS stack.&nbsp;  That's why Gartner n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

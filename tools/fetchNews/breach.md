@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costco discloses data breach after finding credit card skimmer<a href="https://www.bleepingcomputer.com/news/security/costco-discloses-data-breach-after-finding-credit-card-skimmer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Costco Wholesale Corporation has warned customers in notification letters sent this month that their payment card information might have been stolen while recently shopping at one of its stores.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked a server of a Queensland water supplier and remained undetected for 9 months<a href="https://securityaffairs.co/wordpress/124498/hacking/queensland-water-supplier-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised a server managing customer data for a Queensland water supplier and remained undetected for nine months.
+
+
+
+A served used by the SunWater statutory&nbsp;Queensland (Australia) Government-owned water supplier was compromised and threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

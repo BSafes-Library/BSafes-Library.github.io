@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Happy 10th Birthday, Security Affairs<a href="https://securityaffairs.co/wordpress/124620/security/happy-birthday-security-affairs-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ten years together! I'm very excited. I launched Security Affairs for passion in 2011 and millions of readers walked with me. Thanks
+
+
+
+Ten years ago I launched Security Affairs, the blog over the past decade obtained important successes in the cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA – The need for Incident Response Capabilities in the health sector<a href="https://securityaffairs.co/wordpress/124608/security/enisa-ir-capabilities-health-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA analyzed the current state of development of sectoral CSIRT capabilities in the health sector since the implementation of the NIS Directive. 
+
+
+
+The European Union Agency for Cybersecurity (ENISA) published an analysis of the current state of development...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated 2 Tbps DDoS attack, the largest attack it has seen to date<a href="https://securityaffairs.co/wordpress/124634/security/cloudflare-mitigated-ddos-2-tbps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare announced to have mitigated a distributed denial-of-service (DDoS) attack that peaked at almost 2 terabytes per second (Tbps). 
+
+
+
+Cloudflare, Inc.&nbsp;is an American web infrastructure and website security company that provides&nbsp;content delivery...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

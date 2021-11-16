@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alibaba ECS instances actively hijacked by cryptomining malware<a href="https://www.bleepingcomputer.com/news/security/alibaba-ecs-instances-actively-hijacked-by-cryptomining-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Threat actors are hijacking Alibaba Elastic Computing Service (ECS) instances to install cryptominer malware and harness the available server resources for their own profit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

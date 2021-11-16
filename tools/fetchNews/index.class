@@ -34,6 +34,670 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rowhammer technique bypasses existing DDR4 memory defenses<a href="https://www.bleepingcomputer.com/news/security/new-rowhammer-technique-bypasses-existing-ddr4-memory-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed a new fuzzing-based technique called 'Blacksmith' that revives Rowhammer vulnerability attacks against modern DRAM devices that bypasses existing mitigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Looking at The Future of Ransomware Threats<a href="https://cyware.com/news/looking-at-the-future-of-ransomware-threats-dbc16106"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple extortion tactics are expected to rise in intensity and range. Sophos cataloged 10 different types of pressure tactics. Cryptomining activity is also expected to continue as cryptocurrency rises in popularity.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan commission urges US take immediate steps to curb online misinformation<a href="https://thehill.com//policy/cybersecurity/581634-report-urges-us-government-to-take-immediate-steps-to-curb-online"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from a bipartisan commission published Monday recommends that U.S. government and social media platform leaders take a series of immediate steps to curb the “crisis of trust and truth” stemming from online disinformation and misinformation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate New Fingerprinting Attack on Tor Encrypted Traffic<a href="https://thehackernews.com/2021/11/researchers-demonstrate-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of website fingerprinting (WF) attacks aimed at the Tor web browser has revealed that it's possible for an adversary to glean a website frequented by a victim, but only in scenarios where the threat actor is interested in a specific subset of the websites visited by users.  "While attacks can exceed 95% accuracy when monitoring a small set of five popular websites, indiscriminate (non-targeted) attacks against sets of 25 and 100 websites fail to exceed an accuracy of 80% and 60%, respectively," researchers Giovanni Cherubin, Rob Jansen, and Carmela Troncoso  said  in a newly published paper.   Tor browser  offers  "unlinkable communication" to its users by routing internet traffic through an overlay network, consisting of more than six thousand relays, with the goal of anonymizing the originating location and usage from third parties conducting network surveillance or traffic analysis. It achieves this by building a circuit that traverses via an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Reacharound – Emotet malware is back<a href="https://securityaffairs.co/wordpress/124642/cyber-crime/operation-reacharound-emotet-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet botnet is still active, ten months after an international operation coordinated by Europol shut down its infrastructure.
+
+
+
+Early this year, law enforcement and judicial authorities worldwide conducted a joint operation, named Operation Ladybird,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet malware is back and rebuilding its botnet via TrickBot<a href="https://www.bleepingcomputer.com/news/security/emotet-malware-is-back-and-rebuilding-its-botnet-via-trickbot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware was considered the most widely spread malware in the past, using spam campaigns and malicious attachments to distribute the malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber is Now Exploiting Internet Explorer Flaws<a href="https://cyware.com/news/magniber-is-now-exploiting-internet-explorer-flaws-48b860e6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mаgniber rаnsomwаre group has updated its attack method and has been exploiting two Internet Explorer (IE) vulnerаbilities. Moreover, the group is employing mаlicious ads to infect users аnd encrypt devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces new program to attract and retain cybersecurity talent<a href="https://thehill.com//policy/cybersecurity/581527-dhs-announces-new-program-to-attract-and-retain-cybersecurity-talent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) on Monday announced a new program to attract and retain cybersecurity professionals, as major cyber incidents have ticked up over the past year and are drawing more government attention.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Cybersecurity Researchers with Trojanized IDA Pro<a href="https://thehackernews.com/2021/11/north-korean-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus, the North Korea-affiliated state-sponsored group, is attempting to once again target security researchers with backdoors and remote access trojans using a trojanized pirated version of the popular IDA Pro reverse engineering software.  The findings were  reported  by ESET security researcher Anton Cherepanov last week in a series of tweets.  IDA Pro is an  Interactive Disassembler  that's designed to translate machine language (aka executables) into assembly language, enabling security researchers to analyze the inner workings of a program (malicious or otherwise) as well as function as a debugger to detect errors.   "Attackers bundled the original IDA Pro 7.5 software developed by [Hex-Rays] with two malicious components," the Slovak cybersecurity firm said, one of which is an internal module called "win_fw.dll" that's executed during installation of the application. This tampered version is then orchestrated to load a second component named "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated 2 Tbps DDoS attack, the largest attack it has seen to date<a href="https://securityaffairs.co/wordpress/124634/security/cloudflare-mitigated-ddos-2-tbps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare announced to have mitigated a distributed denial-of-service (DDoS) attack that peaked at almost 2 terabytes per second (Tbps). 
+
+
+
+Cloudflare, Inc. is an American web infrastructure and website security company that provides content delivery...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alibaba ECS instances actively hijacked by cryptomining malware<a href="https://www.bleepingcomputer.com/news/security/alibaba-ecs-instances-actively-hijacked-by-cryptomining-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Threat actors are hijacking Alibaba Elastic Computing Service (ECS) instances to install cryptominer malware and harness the available server resources for their own profit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are Exploiting Zero-Day Flaw in macOS: Google Warns<a href="https://cyware.com/news/hackers-are-exploiting-zero-day-flaw-in-macos-google-warns-b33d3834"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google observed that hackers were using a watering hole attack. In this attack, the websites targeted are typically selected by the attackers based on the profile of their visitors.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Tackle SaaS Security Misconfigurations<a href="https://thehackernews.com/2021/11/how-to-tackle-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether it's Office 365, Salesforce, Slack, GitHub or Zoom, all SaaS apps include a host of security features designed to protect the business and its data. The job of ensuring these apps' security settings are properly configured falls on the security team.  The challenge lies within how burdensome this responsibility is — each app has tens or hundreds of security settings to configure, in addition to the continuous need for general or user updates, compounded by many compliance industry standards and frameworks that organizations need to follow.  Not to mention the fact that often the SaaS app owner sits outside the outside of the security team in the department that most uses the app (think Sales has CRM app, Marketing has automation app), and they are untrained and not focused on the security upkeep of the app. It all amounts to just how unrealistic it is to expect security teams to be able to stay in control of the organization's SaaS stack.   That's why Gartner n
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus group targets cybersecurity experts with Trojanized IDA Pro<a href="https://securityaffairs.co/wordpress/124630/apt/lazarus-trojanized-ida-pro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT Lazarus targets security researchers using a trojanized pirated version of the popular IDA Pro reverse engineering software. 
+
+
+
+ESET researchers reported that the North Korea-linked Lazarus APT group is targeting cyber security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High severity BIOS flaws affect numerous Intel processors<a href="https://www.bleepingcomputer.com/news/security/high-severity-bios-flaws-affect-numerous-intel-processors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has released an advisory to confirm the existence of two high-severity vulnerabilities that affect a wide range of Intel processor families.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware experts question massive Pysa/Mespinoza victim dump<a href="https://www.zdnet.com/article/ransomware-experts-question-massive-pysamespinoza-victim-dump/?&web_view=true&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pysa ransomware group dumped dozens of victims onto their leak site this week right after US law enforcement officials announced a range of actions taken against ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolled out emergency updates to fix Windows Server auth failures<a href="https://securityaffairs.co/wordpress/124625/security/microsoft-windows-server-auth-failures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released out-of-band security updates to address authentication issues affecting Windows Server. 
+
+
+
+Microsoft has released out-of-band updates to fix authentication failures related to Kerberos delegation scenarios impacting Domain Controllers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 million Robinhood user email addresses for sale on hacker forum<a href="https://www.bleepingcomputer.com/news/security/7-million-robinhood-user-email-addresses-for-sale-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data for approximately 7 million Robinhood customers stolen in a recent data breach are being sold on a popular hacking forum and marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of Millions of Customers of RedDoorz Hotel Booking Site Leaked in Singapore’s Largest Breach<a href="https://www.straitstimes.com/tech/tech-news/59m-customers-of-reddoorz-hotel-booking-site-leaked-in-spores-largest-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal data of nearly 5.9 million Singaporean and Southeast Asian customers of hotel booking site RedDoorz was found to have been leaked, in what has been called Singapore's largest data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Happy 10th Birthday, Security Affairs<a href="https://securityaffairs.co/wordpress/124620/security/happy-birthday-security-affairs-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ten years together! I'm very excited. I launched Security Affairs for passion in 2011 and millions of readers walked with me. Thanks
+
+
+
+Ten years ago I launched Security Affairs, the blog over the past decade obtained important successes in the cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moses Staff hackers wreak havoc on Israeli orgs with ransomless encryptions<a href="https://www.bleepingcomputer.com/news/security/moses-staff-hackers-wreak-havoc-on-israeli-orgs-with-ransomless-encryptions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hacker group named Moses Staff has recently claimed responsibility for numerous attacks against Israeli entities, which appear politically motivated as they do not make any ransom payment demands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diebold Nixdorf ATM Flaws Allowed Attackers to Modify Firmware, Steal Cash<a href="https://www.securityweek.com/diebold-nixdorf-atm-flaws-allowed-attackers-modify-firmware-steal-cash?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Positive Technologies published information on a couple of vulnerabilities in Diebold Nixdorf ATMs that could have allowed for an attacker to replace the firmware on the system and withdraw cash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QAKBOT Trojan returns using Squirrelwaffle as a dropper<a href="https://securityaffairs.co/wordpress/124613/malware/qakbot-trojan-squirrelwaffle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a surge in infections of the QBot (aka Quakbot) banking trojan which seems to be associated with the rise of Squirrelwaffle. 
+
+
+
+Researchers warn of a new wave of QBot (aka Qakbot) banking trojan infections that appears to be associated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft emergency updates fix Windows Server auth issues<a href="https://www.bleepingcomputer.com/news/microsoft/new-microsoft-emergency-updates-fix-windows-server-auth-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released out-of-band updates to address authentication failures related to Kerberos delegation scenarios impacting Domain Controllers (DC) running supported versions of Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Network Security Company Netography Raises $45 Million<a href="https://www.securityweek.com/network-security-company-netography-raises-45-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new investment round was led by Bessemer Venture Partners and SYN Ventures. Existing investors Andreessen Horowitz, Harpoon Ventures, Mango Capital, and Wing Venture Capital also contributed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Sony PS5 exploits disclosed the same day<a href="https://securityaffairs.co/wordpress/124596/hacking/sony-ps5-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole PS5 root keys using kernel exploits demonstrating the need to improve the security of the popular gaming console.
+
+
+
+Threat actors stole Sony PS5 root keys from the popular gaming console using two exploits for kernel vulnerabilities....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA – The need for Incident Response Capabilities in the health sector<a href="https://securityaffairs.co/wordpress/124608/security/enisa-ir-capabilities-health-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA analyzed the current state of development of sectoral CSIRT capabilities in the health sector since the implementation of the NIS Directive. 
+
+
+
+The European Union Agency for Cybersecurity (ENISA) published an analysis of the current state of development...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and Israel announce joint task force on cybersecurity<a href="https://thehill.com//policy/cybersecurity/581506-us-and-israel-announce-joint-task-force-on-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department announced on Sunday that it would work with the Israeli Ministry of Finance to address ransomware and cybersecurity issues.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI's Email System Hacked to Send Out Fake Cyber Security Alert to Thousands<a href="https://thehackernews.com/2021/11/fbis-email-system-hacked-to-send-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Saturday confirmed unidentified threat actors have breached one of its email servers to blast hoax messages about a fake "sophisticated chain attack."  The incident, which was first  publicly disclosed  by threat intelligence non-profit SpamHaus, involved sending rogue warning emails with the subject line "Urgent: Threat actor in systems" originating from a legitimate FBI email address "eims@ic.fbi[.]gov" that framed the attack on Vinny Troia, a security researcher and founder of dark web intelligence firms Night Lion Security and Shadowbyte, while also claiming him to be affiliated with a hacking outfit named TheDarkOverlord.   SpamHaus cited its own telemetry data to point out that the email blasts happened over two "spam" waves, one shortly before 5:00 a.m. UTC and another one shortly after 7:00 a.m. UTC.   However, according to Kryptos Logic researcher Marcus Hutchins, the goal appears to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Education Dept urged to boost K-12 schools' ransomware defenses<a href="https://www.bleepingcomputer.com/news/security/us-education-dept-urged-to-boost-k-12-schools-ransomware-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Education and Department of Homeland Security (DHS) were urged this week to more aggressively strengthen cybersecurity protections at K-12 schools across the nation to keep up with a massive wave of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated: Hundreds of thousands of fake warnings of cyberattacks sent from a hacked FBI email server<a href="https://securityaffairs.co/wordpress/124570/cyber-crime/fbi-hacked-email-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked email servers of the FBI to distribute spam email impersonating FBI warnings of fake cyberattacks.
+
+
+
+The email servers of the FBI were hacked to distribute spam email impersonating the Department of Homeland Security (DHS) warnings...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC shares guidance for small businesses to prevent ransomware attacks<a href="https://securityaffairs.co/wordpress/124592/security/ftc-guidance-small-businesses-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) has shared guidance for small businesses on how to increase resilience to ransomware attacks. 
+
+
+
+The US Federal Trade Commission (FTC) published guidance for small businesses on how to protect their networks from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers access FBI email system, spam 100,000 accounts<a href="https://thehill.com//policy/national-security/fbi/581438-hackers-access-fbi-email-system-spam-100000-people"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers accessed the FBI’s email system and sent spam to 100,000 accounts on Saturday, according to the Spamhaus Project, an email spam watchdog group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI system hacked to email 'urgent' warning about fake cyberattacks<a href="https://www.bleepingcomputer.com/news/security/fbi-system-hacked-to-email-urgent-warning-about-fake-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) email servers were hacked to distribute spam email impersonating FBI warnings that the recipients' network was breached and data was stolen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake end-to-end encrypted chat app distributes Android spyware<a href="https://www.bleepingcomputer.com/news/security/fake-end-to-end-encrypted-chat-app-distributes-android-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GravityRAT remote access trojan is being distributed in the wild again, this time under the guise of an end-to-end encrypted chat application called SoSafe Chat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance firm pays $1 million fine after 'spy van' scandal<a href="https://www.bleepingcomputer.com/news/security/surveillance-firm-pays-1-million-fine-after-spy-van-scandal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of the Commissioner for Personal Data Protection in Cyprus has collected a $1 million fine from intelligence company WiSpear for gathering mobile data from various individuals arriving at the airport in Larnaca.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costco Confirms: A Data Skimmer’s Been Ripping Off Customers<a href="https://threatpost.com/costco-data-skimmer-customers-notification/176320/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Big-box behemoth retailer Costco is offering victims 12 months of credit monitoring, a $1 million insurance reimbursement policy and ID theft recovery services.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Privilege-Escalation Zero-Day Gets an Unofficial Fix<a href="https://threatpost.com/windows-10-privilege-escalation-zero-day-unofficial-fix/176313/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that CVE-2021-34484 can be exploited with a patch bypass for a bug originally addressed in August by Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Zero Day Targets Apple Devices in Hong Kong<a href="https://threatpost.com/mac-zero-day-apple-hong-kong/176300/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers have detailed a widespread watering-hole attack that installed a backdoor on Apple devices that visited Hong Kong-based media and pro-democracy sites. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 12, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber is Now Exploiting Internet Explorer Flaws<a href="https://cyware.com/news/magniber-is-now-exploiting-internet-explorer-flaws-48b860e6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mаgniber rаnsomwаre group has updated its attack method and has been exploiting two Internet Explorer (IE) vulnerаbilities. Moreover, the group is employing mаlicious ads to infect users аnd encrypt devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware experts question massive Pysa/Mespinoza victim dump<a href="https://www.zdnet.com/article/ransomware-experts-question-massive-pysamespinoza-victim-dump/?&amp;web_view=true&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pysa ransomware group dumped dozens of victims onto their leak site this week right after US law enforcement officials announced a range of actions taken against ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

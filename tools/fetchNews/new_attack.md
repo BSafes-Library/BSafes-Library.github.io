@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moses Staff hackers wreak havoc on Israeli orgs with ransomless encryptions<a href="https://www.bleepingcomputer.com/news/security/moses-staff-hackers-wreak-havoc-on-israeli-orgs-with-ransomless-encryptions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new hacker group named Moses Staff has recently claimed responsibility for numerous attacks against Israeli entities, which appear politically motivated as they do not make any ransom payment demands.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated: Hundreds of thousands of fake warnings of cyberattacks sent from a hacked FBI email server<a href="https://securityaffairs.co/wordpress/124570/cyber-crime/fbi-hacked-email-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked email servers of the FBI to distribute spam email impersonating FBI warnings of fake cyberattacks.
+
+
+
+The email servers of the FBI were hacked to distribute spam email impersonating the Department of Homeland Security (DHS) warnings...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
