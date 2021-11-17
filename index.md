@@ -34,6 +34,507 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here are the new Emotet spam campaigns hitting mailboxes worldwide<a href="https://www.bleepingcomputer.com/news/security/here-are-the-new-emotet-spam-campaigns-hitting-mailboxes-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware kicked into action yesterday after a ten-month hiatus with multiple spam campaigns delivering malicious documents to mailboxes worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP header smuggling attack against AWS API Gateway exposes systems to cache poisoning<a href="https://portswigger.net/daily-swig/http-header-smuggling-attack-against-aws-api-gateway-exposes-systems-to-cache-poisoning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The header smuggling method by Daniel Thatcher creates a mutation in a header request designed to be sent through to backend infrastructure without being processed by a trusted frontend service.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook disrupts Pakistani hacking group targeting Afghan users<a href="https://thehill.com//policy/cybersecurity/581837-facebook-disrupts-pakistani-hacking-group-targeting-afghan-users"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Tuesday said it had taken steps to disrupt a group of hackers based in Pakistan that had been using the platform to target former members of the Afghan government and others based in Afghanistan amid the government collapse earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Blacksmith Exploit Bypasses Current Rowhammer Attack Defenses<a href="https://thehackernews.com/2021/11/new-blacksmith-exploit-bypasses-current.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have demonstrated yet another variation of the Rowhammer attack affecting all  DRAM  (dynamic random-access memory) chips that bypasses currently deployed mitigations, thereby effectively compromising the security of the devices.  The new technique — dubbed " Blacksmith " ( CVE-2021-42114 , CVSS score: 9.0) — is designed to trigger bit flips on target refresh rate-enabled DRAM chips with the help of novel "non-uniform and frequency-based" memory access patterns, according to a study jointly published by academics from ETH Zurich, Vrije Universiteit Amsterdam, and Qualcomm Technologies.   Originally disclosed in 2014,  Rowhammer  refers to a fundamental hardware vulnerability that could be abused to alter or corrupt memory contents by taking advantage of DRAM's tightly-packed, matrix-like memory cell architecture to repeatedly access certain rows (aka "aggressors") that induces an electrical disturbance large enough to cause t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Is Down—For Now<a href="https://www.lawfareblog.com/revil-down-now"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What can be learned from the operations that got them to shut down?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub addressed two major vulnerabilities in the NPM package manager<a href="https://securityaffairs.co/wordpress/124671/security/github-npm-package-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maintainers of the npm package manager for the JavaScript programming language disclosed multiple flaws that were recently addressed.
+
+
+
+GitHub disclosed two major vulnerabilities in the npm that have been already addressed.
+
+
+
+The first vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rooting Malware Is Back for Mobile. Here’s What to Look Out For.<a href="https://threatpost.com/rooting-malware-mobile/176376/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hank Schless, senior manager of security solutions at Lookout, discusses AbstractEmu, mobile malware found on Google Play, Amazon Appstore and the Samsung Galaxy Store.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of the evolution of six Iranian hacking groups<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-the-evolution-of-six-iranian-hacking-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has presented an analysis of the evolution of several Iranian threat actors at the CyberWarCon 2021, and their findings show increasingly sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Hunting Firm Team Cymru Acquires Attack Surface Management Firm Amplicy<a href="https://www.securityweek.com/threat-hunting-firm-team-cymru-acquires-attack-surface-management-firm-amplicy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By combining the two services, Team Cymru will be able to inform its customers on both the evolving threats and where they might strike against Amplicy-detected perimeter weaknesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oversight finds 'small lapses' in security led to Colonial Pipeline, JBS hacks<a href="https://thehill.com//policy/cybersecurity/581800-house-oversight-panel-finds-that-small-lapses-in-security-led-to-recent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of “small lapses” in cybersecurity led to several recent successful ransomware attacks, the House Oversight and Reform Committee concluded in a staff memo released Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate New Way to Detect MitM Phishing Kits in the Wild<a href="https://thehackernews.com/2021/11/researchers-demonstrate-new-way-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No fewer than 1,220 Man-in-the-Middle (MitM) phishing websites have been discovered as targeting popular online services like Instagram, Google, PayPal, Apple, Twitter, and LinkedIn with the goal of hijacking users' credentials and carrying out further follow-on attacks.  The findings come from a  new study  undertaken by a group of researchers from Stony Brook University and Palo Alto Networks, who have demonstrated a new fingerprinting technique that makes it possible to identify MitM phishing kits in the wild by leveraging their intrinsic network-level properties, effectively automating the discovery and analysis of phishing websites.  Dubbed " PHOCA " — named after the Latin word for "seals" — the tool not only facilitates the discovery of previously unseen MitM phishing toolkits, but also be used to detect and isolate malicious requests coming from such servers.   Phishing toolkits aim to  automate and streamline  the work required by attackers to conduct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adult cam site StripChat exposes the data of millions of users and cam models<a href="https://securityaffairs.co/wordpress/124665/data-breach/adult-cam-site-stripchat-exposes-the-data-of-millions-of-users-and-cam-models.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular adult cam site StripChat has suffered a security breach, the personal data of millions of users and adult models leaked online.
+
+
+
+The popular adult cam site StripChat has suffered a security breach that resulted in the leak of the personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites are being hacked in fake ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/wordpress-sites-are-being-hacked-in-fake-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of attacks starting late last week has hacked close to 300 WordPress sites to display fake encryption notices, trying to trick the site owners into paying 0.1 bitcoin for restoration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok scammers tried hacking 125 targets that followed famous accounts, researchers find<a href="https://www.cyberscoop.com/tiktok-scam-verification-fyp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 125 people and businesses associated with large TikTok accounts based around the world were targeted as part of a recent phishing campaign, according to research published Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group behind cyberattacks on multiple governments linked to Belarus<a href="https://thehill.com//policy/cybersecurity/581759-group-behind-cyberattacks-on-multiple-governments-linked-to-belarus"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacking and disinformation groups believed to be behind attacks on governmental agencies in countries including Germany in recent months were linked by cybersecurity researchers on Tuesday to the Belarusian government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Emotet Botnet Makes a Comeback with the Help of TrickBot Malware<a href="https://thehackernews.com/2021/11/notorious-emotet-botnet-makes-comeback.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Emotet malware is staging a comeback of sorts  nearly 10 months  after a coordinated law enforcement operation dismantled its command-and-control infrastructure in late January 2021.  According to a  new report  from security researcher Luca Ebach, the infamous  TrickBot  malware is being used as an entry point to distribute what appears to be a new version of Emotet on systems previously infected by the former. The latest  variant  takes the form of a DLL file, with the first occurrence of the deployment being detected on November 14.   Europol  dubbed   Emotet  as the "world's most dangerous malware" for its ability to act as a "door opener" for threat actors to obtain unauthorized access, becoming a precursor to many critical data theft and ransomware attacks. Interestingly, the loader operation enabled other malware families such as Trickbot, QakBot, and Ryuk to enter a machine.   The resurfacing is also significant not least because it follow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel addresses 2 high-severity issues in BIOS firmware of several processors<a href="https://securityaffairs.co/wordpress/124657/security/intel-bios-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel disclosed two high-severity vulnerabilities, tracked as CVE-2021-0157 and CVE-2021-0158, that affect the BIOS firmware in several processor families.
+
+
+
+Intel disclosed two high-severity vulnerabilities that affect the BIOS firmware in several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the cryptomixers hackers use to clean their ransoms<a href="https://www.bleepingcomputer.com/news/security/these-are-the-cryptomixers-hackers-use-to-clean-their-ransoms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptomixers have always been at the epicenter of cybercrime activity, allowing hackers to "clean" cryptocurrency stolen from victims and making it hard for law enforcement to track them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Lantronix PremierWave 2050 could lead to code execution, file deletion<a href="https://blog.talosintelligence.com/2021/11/lantronix-premier-wave-vuln-spotlight.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve of these vulnerabilities could allow a malicious user to manipulate the Web Manager in a way — for example, overflowing a fixed-size buffer — that would allow them to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot, a new Android Trojan targets banks in Europe<a href="https://securityaffairs.co/wordpress/124650/mobile-2/sharkbot-android-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Cleafy discovered a new Android banking trojan, named SharkBot, that is targeting banks in Europe.
+
+
+
+At the end of October, researchers from cyber security firms Cleafy and ThreatFabric have discovered a new Android banking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds AI-driven ransomware protection to Defender<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-ai-driven-ransomware-protection-to-defender/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has introduced an AI-driven ransomware attack detection system for Microsoft Defender for Endpoint customers that complements existing cloud protection by evaluating risks and blocking actors at the perimeter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Launches Portal to Recruit—and Retain—Cybersecurity Talent<a href="https://www.nextgov.com/cybersecurity/2021/11/dhs-launches-portal-recruitand-retaincybersecurity-talent/186826/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current Department of Homeland Security employees are not obligated to join the department’s new Cyber Talent Management System, but they may want to consider it, according to senior DHS officials.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM fixes private package names leak, serious authorization bug<a href="https://www.bleepingcomputer.com/news/security/npm-fixes-private-package-names-leak-serious-authorization-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest software registry of Node.js packages, npm, has disclosed fixing multiple security flaws. The first flaw concerns leak of names of private npm packages on the npmjs.com's "replica" server. Whereas, the second flaw allows attackers to publish new versions of any existing npm package that they do not own or have rights to.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attackers Exploit the Remote Desktop Protocol<a href="https://securityintelligence.com/articles/exploiting-remote-desktop-protocol/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Remote Desktop Protocol (RDP) is one of the most popular communication protocols for remotely controlling systems. It didn’t take long before attackers realized this is a golden egg.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Best Ransomware Response, According to the Data <a href="https://threatpost.com/ransomware-response-data/176360/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of ransomware attack negotiation-data offers best practices.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Intel Processor Bug Exposes Encryption Keys<a href="https://threatpost.com/intel-processor-bug-encryption-keys/176355/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-0146, arising from a debugging functionality with excessive privileges, allows attackers to read encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Moses Staff' Hacker Group Targets Israeli Companies With Destructive Attacks<a href="https://thehackernews.com/2021/11/new-moses-staff-hacker-group-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new politically-motivated hacker group named " Moses Staff " has been linked to a wave of targeted attacks targeting Israeli organizations since September 2021 with the goal of plundering and leaking sensitive information prior to encrypting their networks, with no option to regain access or negotiate a ransom.  "The group openly states that their motivation in attacking Israeli companies is to cause damage by leaking the stolen sensitive data and encrypting the victim's networks, with no ransom demand," Check Point Research  said  in a report published Monday. "In the language of the attackers, their purpose is to 'Fight against the resistance and expose the crimes of the Zionists in the occupied territories.'"  At least 16 victims have had their data leaked to date, according to stats released by the collective.   The threat actor is said to leverage publicly known vulnerabilities as a means to breach enterprise servers and gain initial ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Alibaba Cloud for Cryptomining, Malware<a href="https://threatpost.com/cybercriminals-alibaba-cloud-cryptomining-malware/176348/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious groups disable features in Alibaba Cloud ECS instances for Monero cryptojacking, according to Trend Micro researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot — A New Android Trojan Stealing Banking and Cryptocurrency Accounts<a href="https://thehackernews.com/2021/11/sharkbot-new-android-trojan-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Monday took the wraps off a new Android trojan that takes advantage of accessibility features on the devices to siphon credentials from banking and cryptocurrency services in Italy, the U.K., and the U.S.  Dubbed " SharkBot " by Cleafy, the malware is designed to strike a total of 27 targets — counting 22 unnamed international banks in Italy and the U.K. as well as five cryptocurrency apps in the U.S. — at least since late October 2021 and is believed to be in its early stages of development, with no overlaps found to that of any known families.   "The main goal of SharkBot is to initiate money transfers from the compromised devices via Automatic Transfer Systems (ATS) technique bypassing multi-factor authentication mechanisms (e.g., SCA)," the researchers said in a report.  "Once SharkBot is successfully installed in the victim's device, attackers can obtain sensitive banking information through the abuse of Accessibility Serv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says Its System Was Exploited to Email Fake Cyberattack Alert<a href="https://threatpost.com/fbi-system-exploit-email-fake-cyberattack-alert/176333/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alert was mumbo jumbo, but it was indeed sent from the bureau’s
+ email system, from the agency’s own internet address.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
