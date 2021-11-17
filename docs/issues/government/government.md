@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 16, 2021 
+{: .fs-4 .fw-700 .<br>lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oversight finds 'small lapses' in security led to Colonial Pipeline, JBS hacks<a href="https://thehill.com//policy/cybersecurity/581800-house-oversight-panel-finds-that-small-lapses-in-security-led-to-recent"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of “small lapses” in cybersecurity led to several recent successful ransomware attacks, the House Oversight and Reform Committee concluded in a staff memo released Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Launches Portal to Recruit—and Retain—Cybersecurity Talent<a href="https://www.nextgov.com/cybersecurity/2021/11/dhs-launches-portal-recruitand-retaincybersecurity-talent/186826/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current Department of Homeland Security employees are not obligated to join the department’s new Cyber Talent Management System, but they may want to consider it, according to senior DHS officials.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These are the cryptomixers hackers use to clean their ransoms<a href="https://www.bleepingcomputer.com/news/security/these-are-the-cryptomixers-hackers-use-to-clean-their-ransoms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptomixers have always been at the epicenter of cybercrime activity, allowing hackers to "clean" cryptocurrency stolen from victims and making it hard for law enforcement to track them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Alibaba Cloud for Cryptomining, Malware<a href="https://threatpost.com/cybercriminals-alibaba-cloud-cryptomining-malware/176348/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious groups disable features in Alibaba Cloud ECS instances for Monero cryptojacking, according to Trend Micro researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

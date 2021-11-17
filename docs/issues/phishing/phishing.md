@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate New Way to Detect MitM Phishing Kits in the Wild<a href="https://thehackernews.com/2021/11/researchers-demonstrate-new-way-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No fewer than 1,220 Man-in-the-Middle (MitM) phishing websites have been discovered as targeting popular online services like Instagram, Google, PayPal, Apple, Twitter, and LinkedIn with the goal of hijacking users' credentials and carrying out further follow-on attacks.  The findings come from a&nbsp; new study &nbsp;undertaken by a group of researchers from Stony Brook University and Palo Alto Networks, who have demonstrated a new fingerprinting technique that makes it possible to identify MitM phishing kits in the wild by leveraging their intrinsic network-level properties, effectively automating the discovery and analysis of phishing websites.  Dubbed " PHOCA " — named after the Latin word for "seals" — the tool not only facilitates the discovery of previously unseen MitM phishing toolkits, but also be used to detect and isolate malicious requests coming from such servers.   Phishing toolkits aim to&nbsp; automate and streamline &nbsp;the work required by attackers to conduct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

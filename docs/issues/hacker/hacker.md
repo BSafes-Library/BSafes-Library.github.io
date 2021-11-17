@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook disrupts Pakistani hacking group targeting Afghan users<a href="https://thehill.com//policy/cybersecurity/581837-facebook-disrupts-pakistani-hacking-group-targeting-afghan-users"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Tuesday said it had taken steps to disrupt a group of hackers based in Pakistan that had been using the platform to target former members of the Afghan government and others based in Afghanistan amid the government collapse earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of the evolution of six Iranian hacking groups<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-the-evolution-of-six-iranian-hacking-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft Threat Intelligence Center (MSTIC) has&nbsp;presented an analysis of the evolution of several Iranian threat actors at the CyberWarCon 2021, and their findings show increasingly sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attackers Exploit the Remote Desktop Protocol<a href="https://securityintelligence.com/articles/exploiting-remote-desktop-protocol/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Remote Desktop Protocol (RDP) is one of the most popular communication protocols for remotely controlling systems. It didn’t take long before attackers realized this is a golden egg.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Moses Staff' Hacker Group Targets Israeli Companies With Destructive Attacks<a href="https://thehackernews.com/2021/11/new-moses-staff-hacker-group-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new politically-motivated hacker group named " Moses Staff " has been linked to a wave of targeted attacks targeting Israeli organizations since September 2021 with the goal of plundering and leaking sensitive information prior to encrypting their networks, with no option to regain access or negotiate a ransom.  "The group openly states that their motivation in attacking Israeli companies is to cause damage by leaking the stolen sensitive data and encrypting the victim's networks, with no ransom demand," Check Point Research&nbsp; said &nbsp;in a report published Monday. "In the language of the attackers, their purpose is to 'Fight against the resistance and expose the crimes of the Zionists in the occupied territories.'"  At least 16 victims have had their data leaked to date, according to stats released by the collective.   The threat actor is said to leverage publicly known vulnerabilities as a means to breach enterprise servers and gain initial ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adult cam site StripChat exposes the data of millions of users and cam models<a href="https://securityaffairs.co/wordpress/124665/data-breach/adult-cam-site-stripchat-exposes-the-data-of-millions-of-users-and-cam-models.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular adult cam site StripChat has suffered a security breach, the personal data of millions of users and adult models leaked online.
+
+
+
+The popular adult cam site StripChat has suffered a security breach that resulted in the leak of the personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rowhammer technique bypasses existing DDR4 memory defenses<a href="https://www.bleepingcomputer.com/news/security/new-rowhammer-technique-bypasses-existing-ddr4-memory-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed a new fuzzing-based technique called 'Blacksmith' that revives Rowhammer vulnerability attacks against modern DRAM devices that bypasses existing mitigations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High severity BIOS flaws affect numerous Intel processors<a href="https://www.bleepingcomputer.com/news/security/high-severity-bios-flaws-affect-numerous-intel-processors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has released an advisory to confirm the existence of two high-severity vulnerabilities that affect a wide range of Intel processor families.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolled out emergency updates to fix Windows Server auth failures<a href="https://securityaffairs.co/wordpress/124625/security/microsoft-windows-server-auth-failures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released out-of-band security updates to address authentication issues affecting Windows Server. 
+
+
+
+Microsoft has released out-of-band updates to fix authentication failures&nbsp;related&nbsp;to Kerberos delegation scenarios impacting Domain Controllers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diebold Nixdorf ATM Flaws Allowed Attackers to Modify Firmware, Steal Cash<a href="https://www.securityweek.com/diebold-nixdorf-atm-flaws-allowed-attackers-modify-firmware-steal-cash?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Positive Technologies published information on a couple of vulnerabilities in Diebold Nixdorf ATMs that could have allowed for an attacker to replace the firmware on the system and withdraw cash.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft emergency updates fix Windows Server auth issues<a href="https://www.bleepingcomputer.com/news/microsoft/new-microsoft-emergency-updates-fix-windows-server-auth-issues/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released out-of-band updates to address authentication failures&nbsp;related&nbsp;to Kerberos delegation scenarios impacting Domain Controllers (DC) running supported versions of Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Sony PS5 exploits disclosed the same day<a href="https://securityaffairs.co/wordpress/124596/hacking/sony-ps5-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole PS5 root keys using kernel exploits demonstrating the need to improve the security of the popular gaming console.
+
+
+
+Threat actors stole Sony PS5 root keys from the popular gaming console using two exploits for kernel vulnerabilities....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Privilege-Escalation Zero-Day Gets an Unofficial Fix<a href="https://threatpost.com/windows-10-privilege-escalation-zero-day-unofficial-fix/176313/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that CVE-2021-34484 can be exploited with a patch bypass for a bug originally addressed in August by Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Zero Day Targets Apple Devices in Hong Kong<a href="https://threatpost.com/mac-zero-day-apple-hong-kong/176300/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researchers have detailed a widespread watering-hole attack that installed a backdoor on Apple devices that visited Hong Kong-based media and pro-democracy sites. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

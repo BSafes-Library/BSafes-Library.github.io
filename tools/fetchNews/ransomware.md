@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Looking at The Future of Ransomware Threats<a href="https://cyware.com/news/looking-at-the-future-of-ransomware-threats-dbc16106"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple extortion tactics are expected to rise in intensity and range. Sophos cataloged 10 different types of pressure tactics. Cryptomining activity is also expected to continue as cryptocurrency rises in popularity.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

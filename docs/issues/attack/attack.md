@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites are being hacked in fake ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/wordpress-sites-are-being-hacked-in-fake-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of attacks starting late last week has hacked close to 300 WordPress sites to display fake encryption notices, trying to trick the site owners into paying 0.1 bitcoin for restoration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok scammers tried hacking 125 targets that followed famous accounts, researchers find<a href="https://www.cyberscoop.com/tiktok-scam-verification-fyp/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 125 people and businesses associated with large TikTok accounts based around the world were targeted as part of a recent phishing campaign, according to research published Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says Its System Was Exploited to Email Fake Cyberattack Alert<a href="https://threatpost.com/fbi-system-exploit-email-fake-cyberattack-alert/176333/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alert was mumbo jumbo, but it was indeed sent from the bureau’s
+ email system, from the agency’s own internet address.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

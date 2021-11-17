@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 million Robinhood user email addresses for sale on hacker forum<a href="https://www.bleepingcomputer.com/news/security/7-million-robinhood-user-email-addresses-for-sale-on-hacker-forum/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data for approximately 7 million Robinhood customers stolen in a recent data breach are being sold on a popular hacking forum and marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of Millions of Customers of RedDoorz Hotel Booking Site Leaked in Singapore’s Largest Breach<a href="https://www.straitstimes.com/tech/tech-news/59m-customers-of-reddoorz-hotel-booking-site-leaked-in-spores-largest-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal data of nearly 5.9 million Singaporean and Southeast Asian customers of hotel booking site RedDoorz was found to have been leaked, in what has been called Singapore's largest data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI's Email System Hacked to Send Out Fake Cyber Security Alert to Thousands<a href="https://thehackernews.com/2021/11/fbis-email-system-hacked-to-send-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Saturday confirmed unidentified threat actors have breached one of its email servers to blast hoax messages about a fake "sophisticated chain attack."  The incident, which was first&nbsp; publicly disclosed &nbsp;by threat intelligence non-profit SpamHaus, involved sending rogue warning emails with the subject line "Urgent: Threat actor in systems" originating from a legitimate FBI email address "eims@ic.fbi[.]gov" that framed the attack on Vinny Troia, a security researcher and founder of dark web intelligence firms Night Lion Security and Shadowbyte, while also claiming him to be affiliated with a hacking outfit named TheDarkOverlord.   SpamHaus cited its own telemetry data to point out that the email blasts happened over two "spam" waves, one shortly before 5:00 a.m. UTC and another one shortly after 7:00 a.m. UTC.&nbsp;  However, according to Kryptos Logic researcher Marcus Hutchins, the goal appears to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI system hacked to email 'urgent' warning about fake cyberattacks<a href="https://www.bleepingcomputer.com/news/security/fbi-system-hacked-to-email-urgent-warning-about-fake-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) email servers were hacked to distribute spam email impersonating FBI warnings that the recipients' network was breached and data was stolen.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

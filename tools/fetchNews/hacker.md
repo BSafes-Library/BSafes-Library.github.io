@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Demonstrate New Fingerprinting Attack on Tor Encrypted Traffic<a href="https://thehackernews.com/2021/11/researchers-demonstrate-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of website fingerprinting (WF) attacks aimed at the Tor web browser has revealed that it's possible for an adversary to glean a website frequented by a victim, but only in scenarios where the threat actor is interested in a specific subset of the websites visited by users.  "While attacks can exceed 95% accuracy when monitoring a small set of five popular websites, indiscriminate (non-targeted) attacks against sets of 25 and 100 websites fail to exceed an accuracy of 80% and 60%, respectively," researchers Giovanni Cherubin, Rob Jansen, and Carmela Troncoso&nbsp; said &nbsp;in a newly published paper.   Tor browser&nbsp; offers &nbsp;"unlinkable communication" to its users by routing internet traffic through an overlay network, consisting of more than six thousand relays, with the goal of anonymizing the originating location and usage from third parties conducting network surveillance or traffic analysis. It achieves this by building a circuit that traverses via an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Cybersecurity Researchers with Trojanized IDA Pro<a href="https://thehackernews.com/2021/11/north-korean-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus, the North Korea-affiliated state-sponsored group, is attempting to once again target security researchers with backdoors and remote access trojans using a trojanized pirated version of the popular IDA Pro reverse engineering software.  The findings were&nbsp; reported &nbsp;by ESET security researcher Anton Cherepanov last week in a series of tweets.  IDA Pro is an&nbsp; Interactive Disassembler &nbsp;that's designed to translate machine language (aka executables) into assembly language, enabling security researchers to analyze the inner workings of a program (malicious or otherwise) as well as function as a debugger to detect errors.   "Attackers bundled the original IDA Pro 7.5 software developed by [Hex-Rays] with two malicious components," the Slovak cybersecurity firm said, one of which is an internal module called "win_fw.dll" that's executed during installation of the application. This tampered version is then orchestrated to load a second component named "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are Exploiting Zero-Day Flaw in macOS: Google Warns<a href="https://cyware.com/news/hackers-are-exploiting-zero-day-flaw-in-macos-google-warns-b33d3834"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google observed that hackers were using a watering hole attack. In this attack, the websites targeted are typically selected by the attackers based on the profile of their visitors.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus group targets cybersecurity experts with Trojanized IDA Pro<a href="https://securityaffairs.co/wordpress/124630/apt/lazarus-trojanized-ida-pro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT Lazarus targets security researchers using a trojanized pirated version of the popular IDA Pro reverse engineering software. 
+
+
+
+ESET researchers reported that the North Korea-linked Lazarus APT group is targeting cyber security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

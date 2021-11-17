@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance firm pays $1 million fine after 'spy van' scandal<a href="https://www.bleepingcomputer.com/news/security/surveillance-firm-pays-1-million-fine-after-spy-van-scandal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of the Commissioner for Personal Data Protection in Cyprus has collected a $1 million fine from intelligence company WiSpear for gathering mobile data from various individuals arriving at the airport in Larnaca.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

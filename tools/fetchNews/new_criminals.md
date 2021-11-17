@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Is Down—For Now<a href="https://www.lawfareblog.com/revil-down-now"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What can be learned from the operations that got them to shut down?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group behind cyberattacks on multiple governments linked to Belarus<a href="https://thehill.com//policy/cybersecurity/581759-group-behind-cyberattacks-on-multiple-governments-linked-to-belarus"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacking and disinformation groups believed to be behind attacks on governmental agencies in countries including Germany in recent months were linked by cybersecurity researchers on Tuesday to the Belarusian government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

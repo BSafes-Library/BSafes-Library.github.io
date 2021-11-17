@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Hunting Firm Team Cymru Acquires Attack Surface Management Firm Amplicy<a href="https://www.securityweek.com/threat-hunting-firm-team-cymru-acquires-attack-surface-management-firm-amplicy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By combining the two services, Team Cymru will be able to inform its customers on both the evolving threats and where they might strike against Amplicy-detected perimeter weaknesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

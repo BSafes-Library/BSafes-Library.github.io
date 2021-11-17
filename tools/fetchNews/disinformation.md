@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bipartisan commission urges US take immediate steps to curb online misinformation<a href="https://thehill.com//policy/cybersecurity/581634-report-urges-us-government-to-take-immediate-steps-to-curb-online"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from a bipartisan commission published Monday recommends that U.S. government and social media platform leaders take a series of immediate steps to curb the “crisis of trust and truth” stemming from online disinformation and misinformation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
