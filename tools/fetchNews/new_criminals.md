@@ -8,6 +8,84 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most SS7 exploit service providers on dark web are scammers<a href="https://www.bleepingcomputer.com/news/security/most-ss7-exploit-service-providers-on-dark-web-are-scammers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The existence of Signaling System 7 (SS7) mobile telephony protocol vulnerabilities is something security researchers warned about in 2016, and it only took a year before the first attacks exploiting them were observed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ransomware gangs start collaborating with Chinese hackers<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-start-collaborating-with-chinese-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​There's some unusual activity brewing on Russian-speaking cybercrime forums, where hackers appear to be reaching out to Chinese counterparts for collaboration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The rise of millionaire zero-day exploit markets<a href="https://securityaffairs.co/wordpress/124690/cyber-crime/zero-day-exploit-markets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed the multi-millionaire market of zero-day exploits, a parallel economy that is fueling the threat landscape.
+
+
+
+Zero-day exploits are essential weapons in the arsenal of nation-state actors and cybercrime groups. The increased demand...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant links Ghostwriter operations to Belarus<a href="https://securityaffairs.co/wordpress/124675/apt/ghostwriter-operations-belarus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at the Mandiant Threat Intelligence team believe that Ghostwriter APT group is linked to the government of Belarus.
+
+
+
+Mandiant Threat Intelligence researchers believe that the Ghostwriter disinformation campaign (aka UNC1151) was linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Email Hoaxer ID’ed by the Guy He Allegedly Loves to Torment<a href="https://threatpost.com/fbi-email-hoaxer-ided-vinny-troia/176377/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vinny Troia, the cybersecurity researcher mentioned in a fake alert gushed out of the FBI’s email system, says it’s just one of a string of jabs from a childish but cybercriminally talented tormentor. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

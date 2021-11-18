@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP header smuggling attack against AWS API Gateway exposes systems to cache poisoning<a href="https://portswigger.net/daily-swig/http-header-smuggling-attack-against-aws-api-gateway-exposes-systems-to-cache-poisoning?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The header smuggling method by Daniel Thatcher creates a mutation in a header request designed to be sent through to backend infrastructure without being processed by a trusted frontend service.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub addressed two major vulnerabilities in the NPM package manager<a href="https://securityaffairs.co/wordpress/124671/security/github-npm-package-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maintainers of the npm package manager&nbsp;for the&nbsp;JavaScript&nbsp;programming language disclosed multiple flaws that were recently addressed.
+
+
+
+GitHub disclosed two major vulnerabilities in the npm that have been already addressed.
+
+
+
+The first vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel addresses 2 high-severity issues in BIOS firmware of several processors<a href="https://securityaffairs.co/wordpress/124657/security/intel-bios-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel disclosed two high-severity vulnerabilities, tracked as CVE-2021-0157 and CVE-2021-0158, that affect the BIOS firmware in several processor families.
+
+
+
+Intel disclosed two high-severity vulnerabilities that affect the BIOS firmware in several...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Lantronix PremierWave 2050 could lead to code execution, file deletion<a href="https://blog.talosintelligence.com/2021/11/lantronix-premier-wave-vuln-spotlight.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve of these vulnerabilities could allow a malicious user to manipulate the Web Manager in a way — for example, overflowing a fixed-size buffer — that would allow them to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM fixes private package names leak, serious authorization bug<a href="https://www.bleepingcomputer.com/news/security/npm-fixes-private-package-names-leak-serious-authorization-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest software registry of Node.js packages, npm,&nbsp;has disclosed fixing multiple security flaws. The first flaw concerns&nbsp;leak of names&nbsp;of private npm packages on the npmjs.com's "replica"&nbsp;server. Whereas, the second flaw allows attackers to publish new versions of any existing npm package that they do not own or have rights to.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Intel Processor Bug Exposes Encryption Keys<a href="https://threatpost.com/intel-processor-bug-encryption-keys/176355/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2021-0146, arising from a debugging functionality with excessive privileges, allows attackers to read encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

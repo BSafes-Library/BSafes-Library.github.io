@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Root RCE Bug Affects Multiple Netgear SOHO Router Models<a href="https://thehackernews.com/2021/11/critical-root-rce-bug-affects-multiple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment company Netgear has&nbsp; released &nbsp;yet&nbsp; another round &nbsp;of&nbsp; patches &nbsp;to remediate a high-severity remote code execution vulnerability affecting multiple routers that could be exploited by remote attackers to take control of an affected system.  Tracked as&nbsp; CVE-2021-34991 &nbsp;(CVSS score: 8.8), the pre-authentication buffer overflow flaw in small office and home office (SOHO) routers can lead to code execution with the highest privileges by taking advantage of an issue residing in the Universal Plug and Play ( UPnP ) feature that allows devices to discover each other's presence on the same local network and open ports needed to connect to the public Internet.   Because of its ubiquitous nature, UPnP is used by a wide variety of devices, including personal computers, networking equipment, video game consoles and internet of things (IoT) devices.  Specifically, the vulnerability stems from the fact that the UPnP daemon accepts unauthenticated HTTP SUBSCRIBE and UNSUBSCRI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes code execution flaw in many SOHO devices<a href="https://securityaffairs.co/wordpress/124716/security/netgear-cve-2021-34991-soho-devices.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear addressed a pre-authentication buffer overflow issue in its SOHO devices that can be exploited by an attacker on the local area network to execute code remotely with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes code execution flaw in many SOHO devices<a href="https://securityaffairs.co/wordpress/124716/security/netgear-cve-2021-34991-soho-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear addressed a code execution vulnerability, tracked as CVE-2021-34991, in its small office/home office (SOHO) devices.
+
+
+
+Netgear addressed a pre-authentication buffer overflow issue in its small office/home office (SOHO) devices that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds AI-driven ransomware protection to Defender<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-ai-driven-ransomware-protection-to-defender/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has introduced an AI-driven ransomware attack detection system for Microsoft Defender for Endpoint customers that complements existing cloud protection by evaluating risks and blocking actors at the perimeter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

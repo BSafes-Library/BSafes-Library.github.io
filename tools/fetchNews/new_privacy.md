@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel's Candiru Spyware Found Linked to Watering Hole Attacks in U.K and Middle East<a href="https://thehackernews.com/2021/11/israels-candiru-spyware-found-linked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli spyware vendor Candiru, which was&nbsp; added &nbsp;to an economic blocklist by the U.S. government this month, is said to have reportedly waged "watering hole" attacks against high-profile entities in the U.K. and the Middle East, new findings reveal.  "The victimized websites belong to media outlets in the U.K., Yemen, and Saudi Arabia, as well as to Hezbollah; to government institutions in Iran (Ministry of Foreign Affairs), Syria (including the Ministry of Electricity), and Yemen (including the Ministries of Interior and Finance); to internet service providers in Yemen and Syria; and to aerospace/military technology companies in Italy and South Africa," ESET&nbsp; said &nbsp;in a new report. "The attackers also created a website mimicking a medical trade fair in Germany."  The strategic web compromises are believed to have occurred in two waves, the first commencing as early as March 2020 before ending in August 2020, and the second string of attacks beginning in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

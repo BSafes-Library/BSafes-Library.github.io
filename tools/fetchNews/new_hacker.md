@@ -8,6 +8,90 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Threat Group Targets Foreign Policy Experts, Journalists, and NGOs<a href="https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From January through June 2021, Proofpoint observed almost weekly campaigns by TA406 targeting foreign policy experts, journalists, and nongovernmental organizations (NGOs).
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedCurl corporate espionage hackers resume attacks with updated tools<a href="https://www.bleepingcomputer.com/news/security/redcurl-corporate-espionage-hackers-resume-attacks-with-updated-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crew of highly-skilled hackers specialized in corporate espionage has resumed activity, one of their victims this year being a large wholesale company in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns about 6 Iranian Hacking Groups Turning to Ransomware<a href="https://thehackernews.com/2021/11/microsoft-warns-about-6-iranian-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state operators with nexus to Iran are increasingly turning to ransomware as a means of generating revenue and intentionally sabotaging their targets, while also engaging in patient and persistent social engineering campaigns and aggressive brute force attacks.  No less than six threat actors affiliated with the West Asian country have been discovered deploying ransomware to achieve their strategic objectives, researchers from Microsoft Threat Intelligence Center (MSTIC)&nbsp; revealed , adding "these ransomware deployments were launched in waves every six to eight weeks on average."   Of note is a threat actor tracked as&nbsp; Phosphorus &nbsp;(aka Charming Kitten or APT35), which has been found scanning IP addresses on the internet for unpatched Fortinet FortiOS SSL VPN and on-premises Exchange Servers to gain initial access and persistence on vulnerable networks, before moving to deploy additional payloads that enable the actors to pivot to other machines and deploy ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S., U.K. and Australia Warn of Iranian Hackers Exploiting Microsoft, Fortinet Flaws<a href="https://thehackernews.com/2021/11/us-uk-and-australia-warn-of-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Australia, the U.K., and the U.S. on Wednesday&nbsp; released &nbsp;a joint advisory warning of active exploitation of Fortinet and Microsoft Exchange ProxyShell vulnerabilities by Iranian state-sponsored actors to gain initial access to vulnerable systems for follow-on activities, including data exfiltration and ransomware.  The threat actor is believed to have leveraged multiple Fortinet FortiOS vulnerabilities dating back to March 2021 as well as a remote code execution flaw affecting Microsoft Exchange Servers since at least October 2021, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the Australian Cyber Security Centre (ACSC), and the U.K.'s National Cyber Security Centre (NCSC). The agencies did not attribute the activities to a specific advanced persistent threat (APT) actor.   Targeted victims include Australian organizations and a wide range of entities across multiple U.S. criti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Myanmar Use Domain Fronting to Hide Malicious Activities<a href="https://thehackernews.com/2021/11/hackers-targeting-myanmar-use-domain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign has been found leveraging a technique called domain fronting to hide command-and-control traffic by leveraging a legitimate domain owned by the Myanmar government to route communications to an attacker-controlled server with the goal of evading detection.  The threat, which was observed in September 2021, deployed Cobalt Strike payloads as a stepping stone for launching further attacks, with the adversary using a domain associated with the Myanmar Digital News network, a state-owned digital newspaper, as a front for their Beacons.  "When the Beacon is launched, it will submit a DNS request for a legitimate high-reputation domain hosted behind Cloudflare infrastructure and modify the subsequent HTTPs requests header to instruct the CDN to direct the traffic to an attacker-controlled host," Cisco Talos researchers Chetan Raghuprasad, Vanja Svajcer, and Asheer Malhotra&nbsp; said &nbsp;in a technical analysis published Tuesday.   Originally released in 2012 to addres
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors offer millions for zero-days, developers talk of exploit-as-a-service<a href="https://www.bleepingcomputer.com/news/security/threat-actors-offer-millions-for-zero-days-developers-talk-of-exploit-as-a-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While mostly hidden in private conversations, details sometimes emerge about the parallel economy of vulnerability exploits on underground forums, revealing just how fat of a wallet some threat actors have.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

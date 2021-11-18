@@ -30,8 +30,11 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
- 
+. https://www.bleepingcomputer.com/news/security/fbi-warns-of-apt-group-exploiting-fatpipe-vpn-zero-day-since-may/
+. https://securityaffairs.co/wordpress/124705/security/cisa-incident-response-playbook.html
+. https://www.bleepingcomputer.com/news/security/us-uk-warn-of-iranian-hackers-exploiting-microsoft-exchange-fortinet/ 
 Law
+. https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/
 
 APT
 . APT27
@@ -40,7 +43,7 @@ APT
 . Lebanese Cedar APT
 . Russian Turla APT group
 . Winnti APT
-
+. https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/
 Researchers
 . Armis
 . Bank Security

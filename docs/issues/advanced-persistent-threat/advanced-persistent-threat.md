@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK and Australia warn of Iran-linked APTs exploiting Fortinet, Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/124723/apt/iran-linked-apts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S., U.K. and Australia warn that Iran-linked APT groups exploiting Fortinet and Microsoft Exchange flaws to target critical infrastructure.
+
+
+
+A joint advisory released by government agencies (the FBI, the Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT groups continue to evolve<a href="https://securityaffairs.co/wordpress/124683/apt/iran-linked-apt-groups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at Microsoft Threat Intelligence Center (MSTIC) are warning of increasingly sophisticated operations carried out by Iranian threat actors.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) shared the results of their analysis on the evolution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets Tiktok influencer accounts<a href="https://securityaffairs.co/wordpress/124728/hacking/tiktok-influencer-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have launched a phishing campaign targeting more than 125 TikTok ‘Influencer’ accounts in an attempt to hijack them.
+
+
+
+Researchers from Abnormal Security uncovered a phishing scam aimed at hijacking at least 125 TikTok ‘Influencer’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Scam Aims to Hijack TikTok ‘Influencer’ Accounts<a href="https://threatpost.com/phishing-scam-tiktok-influencer/176391/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used malicious emails to target more than 125 people with high-profile TikTok accounts in an attempt to steal info and lock them out. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok phishing threatens to delete influencers’ accounts<a href="https://www.bleepingcomputer.com/news/security/tiktok-phishing-threatens-to-delete-influencers-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a new phishing campaign primarily&nbsp;targeting&nbsp;high-profile TikTok accounts belonging to influencers, brand consultants, production studios, and influencers' managers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Choose the Right DDoS Protection Solution<a href="https://threatpost.com/how-to-choose-the-right-ddos-protection-solution/176409/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pankaj Gupta, Senior Director at Citrix, outlines how distributed denial of service attacks have become increasingly sophisticated, bigger and economically motivated.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

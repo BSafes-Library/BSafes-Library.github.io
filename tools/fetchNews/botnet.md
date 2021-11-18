@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Emotet Botnet Makes a Comeback with the Help of TrickBot Malware<a href="https://thehackernews.com/2021/11/notorious-emotet-botnet-makes-comeback.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Emotet malware is staging a comeback of sorts&nbsp; nearly 10 months &nbsp;after a coordinated law enforcement operation dismantled its command-and-control infrastructure in late January 2021.  According to a&nbsp; new report &nbsp;from security researcher Luca Ebach, the infamous&nbsp; TrickBot &nbsp;malware is being used as an entry point to distribute what appears to be a new version of Emotet on systems previously infected by the former. The latest&nbsp; variant &nbsp;takes the form of a DLL file, with the first occurrence of the deployment being detected on November 14.   Europol&nbsp; dubbed &nbsp; Emotet &nbsp;as the "world's most dangerous malware" for its ability to act as a "door opener" for threat actors to obtain unauthorized access, becoming a precursor to many critical data theft and ransomware attacks. Interestingly, the loader operation enabled other malware families such as Trickbot, QakBot, and Ryuk to enter a machine.   The resurfacing is also significant not least because it follow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

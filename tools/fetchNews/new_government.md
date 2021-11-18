@@ -8,6 +8,108 @@ nav_order: 900075
 
 ## Government
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of APT group exploiting FatPipe VPN zero-day since May<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-apt-group-exploiting-fatpipe-vpn-zero-day-since-may/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned&nbsp;of an advanced persistent threat (APT) compromising FatPipe router clustering and load balancer products to breach targets' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators look to defense bill to move cybersecurity measures<a href="https://thehill.com//policy/cybersecurity/582077-senators-look-to-defense-bill-to-move-cybersecurity-measures"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate is eyeing the annual defense bill as a vehicle to attach critical provisions to improve the nation’s cybersecurity following a devastating year in which major attacks left the government flat-footed. &nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK, and Australian Cyber Authorities Pin Iranian Hackers for Exploiting Fortinet and Exchange Security Flaws<a href="https://www.zdnet.com/article/us-uk-and-australia-pin-iran-for-exploiting-fortinet-and-exchange-holes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber authorities have called for administrators to immediately patch a quartet of vulnerabilities after attributing some attacks that used them to attackers backed by Iran.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials warn that hackers linked to Iranian government are targeting critical sectors<a href="https://thehill.com//policy/cybersecurity/581994-officials-warn-that-hackers-linked-to-iranian-government-are-targeting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies in the United States, United Kingdom and Australia on Wednesday warned that hackers linked to the Iranian government are behind an ongoing campaign targeting critical infrastructure, including hospitals.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases incident response plans for federal agencies<a href="https://securityaffairs.co/wordpress/124705/security/cisa-incident-response-playbook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released the&nbsp;Federal Government Cybersecurity Incident Response Playbooks for the federal civilian executive branch agencies.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has released new cybersecurity response plans for federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK warn of Iranian hackers exploiting Microsoft Exchange, Fortinet<a href="https://www.bleepingcomputer.com/news/security/us-uk-warn-of-iranian-hackers-exploiting-microsoft-exchange-fortinet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US, UK, and Australian cybersecurity agencies warned today of ongoing exploitation of Microsoft Exchange ProxyShell&nbsp;and Fortinet&nbsp;vulnerabilities linked to an Iranian-backed hacking&nbsp;group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases cybersecurity response plans for federal agencies<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released new cybersecurity response plans (known as playbooks) for federal civilian executive branch (FCEB) agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 
 {: .fs-4 .fw-700 .<br>lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

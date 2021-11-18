@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build a Security Awareness Training Program that Yields Measurable Results<a href="https://thehackernews.com/2021/11/how-to-build-security-awareness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations have been worrying about cyber security since the advent of the technological age. Today, digital transformation coupled with the rise of remote work has made the need for security awareness all the more critical.  Cyber security professionals are continuously thinking about how to prevent cyber security breaches from happening, with employees and contractors often proving to be the most significant risk factor for causing cyber security incidents. Proactive cyber security professionals will find that an effective security awareness training program can significantly reduce their risk of getting exposed to a cyber incident.  For a security awareness training program to be successful, it must be measurable and yield positive, actionable results over time.&nbsp;  The following looks at what good security awareness looks like and how vital&nbsp; phishing simulations and awareness training &nbsp;is in devising effective&nbsp; cyber security programs.&nbsp;  The essentials of a cyber security awarene
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing the Cybersecurity Vulnerabilities of Artificial Intelligence<a href="https://www.lawfareblog.com/managing-cybersecurity-vulnerabilities-artificial-intelligence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On-Demand Webinar: Into the Cryptoverse<a href="https://thehackernews.com/2021/11/on-demand-webinar-into-cryptoverse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the span of a few years, cryptocurrencies have gone from laughingstock and novelty to a serious financial instrument, and a major sector in high-tech. The price of Bitcoin and Ethereum has gone from single dollars to thousands, and they're increasingly in the mainstream.&nbsp;  This is undoubtedly a positive development, as it opens new avenues for finance, transactions, tech developments, and more. Unfortunately, no innovation is without its dark side, and the crypto industry is no exception. A new webinar from XDR provider Cynet ( you can see it here ) dives deeper into this dark corner to explore the intersection of cybersecurity and cryptocurrency.&nbsp;  The first question is how, exactly, cryptocurrency creates security vulnerabilities for organizations. There's no single answer, and in many cases, the results are more indirect. This bears closer inspection, and the webinar, led by Cynet&nbsp; CyOps Analyst&nbsp; Ronen Ahdut, studies the different ways cryptocurrencies are used by attackers.&nbsp;  I
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
