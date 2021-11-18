@@ -34,6 +34,610 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of APT group exploiting FatPipe VPN zero-day since May<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-apt-group-exploiting-fatpipe-vpn-zero-day-since-may/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned of an advanced persistent threat (APT) compromising FatPipe router clustering and load balancer products to breach targets' networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Threat Group Targets Foreign Policy Experts, Journalists, and NGOs<a href="https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From January through June 2021, Proofpoint observed almost weekly campaigns by TA406 targeting foreign policy experts, journalists, and nongovernmental organizations (NGOs).
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators look to defense bill to move cybersecurity measures<a href="https://thehill.com//policy/cybersecurity/582077-senators-look-to-defense-bill-to-move-cybersecurity-measures"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate is eyeing the annual defense bill as a vehicle to attach critical provisions to improve the nation’s cybersecurity following a devastating year in which major attacks left the government flat-footed.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Root RCE Bug Affects Multiple Netgear SOHO Router Models<a href="https://thehackernews.com/2021/11/critical-root-rce-bug-affects-multiple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment company Netgear has  released  yet  another round  of  patches  to remediate a high-severity remote code execution vulnerability affecting multiple routers that could be exploited by remote attackers to take control of an affected system.  Tracked as  CVE-2021-34991  (CVSS score: 8.8), the pre-authentication buffer overflow flaw in small office and home office (SOHO) routers can lead to code execution with the highest privileges by taking advantage of an issue residing in the Universal Plug and Play ( UPnP ) feature that allows devices to discover each other's presence on the same local network and open ports needed to connect to the public Internet.   Because of its ubiquitous nature, UPnP is used by a wide variety of devices, including personal computers, networking equipment, video game consoles and internet of things (IoT) devices.  Specifically, the vulnerability stems from the fact that the UPnP daemon accepts unauthenticated HTTP SUBSCRIBE and UNSUBSCRI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets Tiktok influencer accounts<a href="https://securityaffairs.co/wordpress/124728/hacking/tiktok-influencer-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have launched a phishing campaign targeting more than 125 TikTok ‘Influencer’ accounts in an attempt to hijack them.
+
+
+
+Researchers from Abnormal Security uncovered a phishing scam aimed at hijacking at least 125 TikTok ‘Influencer’...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Choose the Right DDoS Protection Solution<a href="https://threatpost.com/how-to-choose-the-right-ddos-protection-solution/176409/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pankaj Gupta, Senior Director at Citrix, outlines how distributed denial of service attacks have become increasingly sophisticated, bigger and economically motivated.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedCurl corporate espionage hackers resume attacks with updated tools<a href="https://www.bleepingcomputer.com/news/security/redcurl-corporate-espionage-hackers-resume-attacks-with-updated-tools/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crew of highly-skilled hackers specialized in corporate espionage has resumed activity, one of their victims this year being a large wholesale company in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Firm Lacework Raises Record-Breaking $1.3 Billion<a href="https://www.securityweek.com/cloud-security-firm-lacework-raises-record-breaking-13-billion?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lacework raised a record-breaking second Series D funding round led by existing investors Sutter Hill Ventures, Altimeter Capital, D1 Capital Partners, and Tiger Global Management.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build a Security Awareness Training Program that Yields Measurable Results<a href="https://thehackernews.com/2021/11/how-to-build-security-awareness.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations have been worrying about cyber security since the advent of the technological age. Today, digital transformation coupled with the rise of remote work has made the need for security awareness all the more critical.  Cyber security professionals are continuously thinking about how to prevent cyber security breaches from happening, with employees and contractors often proving to be the most significant risk factor for causing cyber security incidents. Proactive cyber security professionals will find that an effective security awareness training program can significantly reduce their risk of getting exposed to a cyber incident.  For a security awareness training program to be successful, it must be measurable and yield positive, actionable results over time.   The following looks at what good security awareness looks like and how vital  phishing simulations and awareness training  is in devising effective  cyber security programs.   The essentials of a cyber security awarene
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK and Australia warn of Iran-linked APTs exploiting Fortinet, Microsoft Exchange flaws<a href="https://securityaffairs.co/wordpress/124723/apt/iran-linked-apts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S., U.K. and Australia warn that Iran-linked APT groups exploiting Fortinet and Microsoft Exchange flaws to target critical infrastructure.
+
+
+
+A joint advisory released by government agencies (the FBI, the Cybersecurity and Infrastructure Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedCurl Breached at Least Four Companies in New Attacks This Year<a href="https://therecord.media/redcurl-hacking-group-returns-with-new-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Besides discovering new attacks, Group-IB’s latest report also notes that RedCurl operators have done little to change their tactics besides a few updates to the tools they used during intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ontic Raises $40M in Series B Funding<a href="https://www.finsmes.com/2021/11/ontic-raises-40m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, which brought total funding raised to date to nearly $58m, was led by JMI Equity, with participation from Felicis Ventures, Silverton Partners, and Ridge Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK, and Australian Cyber Authorities Pin Iranian Hackers for Exploiting Fortinet and Exchange Security Flaws<a href="https://www.zdnet.com/article/us-uk-and-australia-pin-iran-for-exploiting-fortinet-and-exchange-holes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber authorities have called for administrators to immediately patch a quartet of vulnerabilities after attributing some attacks that used them to attackers backed by Iran.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Data Protection Startup Laminar Closes $32M Funding Round<a href="https://www.securityweek.com/cloud-data-protection-startup-laminar-closes-32m-funding-round?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new round was led by Insight Partners. Meron Capital, SentinelOne, and TLV Partners also participated. The funding will help Laminar expand its engineering, data security and go-to-market teams.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes code execution flaw in many SOHO devices<a href="https://securityaffairs.co/wordpress/124716/security/netgear-cve-2021-34991-soho-devices.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear addressed a pre-authentication buffer overflow issue in its SOHO devices that can be exploited by an attacker on the local area network to execute code remotely with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing the Cybersecurity Vulnerabilities of Artificial Intelligence<a href="https://www.lawfareblog.com/managing-cybersecurity-vulnerabilities-artificial-intelligence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Systems based on artificial intelligence are susceptible to adversarial attack. Vulnerability disclosure and management practices can help address the risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials warn that hackers linked to Iranian government are targeting critical sectors<a href="https://thehill.com//policy/cybersecurity/581994-officials-warn-that-hackers-linked-to-iranian-government-are-targeting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies in the United States, United Kingdom and Australia on Wednesday warned that hackers linked to the Iranian government are behind an ongoing campaign targeting critical infrastructure, including hospitals. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Scam Aims to Hijack TikTok ‘Influencer’ Accounts<a href="https://threatpost.com/phishing-scam-tiktok-influencer/176391/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used malicious emails to target more than 125 people with high-profile TikTok accounts in an attempt to steal info and lock them out. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most SS7 exploit service providers on dark web are scammers<a href="https://www.bleepingcomputer.com/news/security/most-ss7-exploit-service-providers-on-dark-web-are-scammers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The existence of Signaling System 7 (SS7) mobile telephony protocol vulnerabilities is something security researchers warned about in 2016, and it only took a year before the first attacks exploiting them were observed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns about 6 Iranian Hacking Groups Turning to Ransomware<a href="https://thehackernews.com/2021/11/microsoft-warns-about-6-iranian-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state operators with nexus to Iran are increasingly turning to ransomware as a means of generating revenue and intentionally sabotaging their targets, while also engaging in patient and persistent social engineering campaigns and aggressive brute force attacks.  No less than six threat actors affiliated with the West Asian country have been discovered deploying ransomware to achieve their strategic objectives, researchers from Microsoft Threat Intelligence Center (MSTIC)  revealed , adding "these ransomware deployments were launched in waves every six to eight weeks on average."   Of note is a threat actor tracked as  Phosphorus  (aka Charming Kitten or APT35), which has been found scanning IP addresses on the internet for unpatched Fortinet FortiOS SSL VPN and on-premises Exchange Servers to gain initial access and persistence on vulnerable networks, before moving to deploy additional payloads that enable the actors to pivot to other machines and deploy ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear fixes code execution flaw in many SOHO devices<a href="https://securityaffairs.co/wordpress/124716/security/netgear-cve-2021-34991-soho-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear addressed a code execution vulnerability, tracked as CVE-2021-34991, in its small office/home office (SOHO) devices.
+
+
+
+Netgear addressed a pre-authentication buffer overflow issue in its small office/home office (SOHO) devices that can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ransomware gangs start collaborating with Chinese hackers<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-start-collaborating-with-chinese-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​There's some unusual activity brewing on Russian-speaking cybercrime forums, where hackers appear to be reaching out to Chinese counterparts for collaboration.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S., U.K. and Australia Warn of Iranian Hackers Exploiting Microsoft, Fortinet Flaws<a href="https://thehackernews.com/2021/11/us-uk-and-australia-warn-of-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Australia, the U.K., and the U.S. on Wednesday  released  a joint advisory warning of active exploitation of Fortinet and Microsoft Exchange ProxyShell vulnerabilities by Iranian state-sponsored actors to gain initial access to vulnerable systems for follow-on activities, including data exfiltration and ransomware.  The threat actor is believed to have leveraged multiple Fortinet FortiOS vulnerabilities dating back to March 2021 as well as a remote code execution flaw affecting Microsoft Exchange Servers since at least October 2021, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the Australian Cyber Security Centre (ACSC), and the U.K.'s National Cyber Security Centre (NCSC). The agencies did not attribute the activities to a specific advanced persistent threat (APT) actor.   Targeted victims include Australian organizations and a wide range of entities across multiple U.S. criti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases incident response plans for federal agencies<a href="https://securityaffairs.co/wordpress/124705/security/cisa-incident-response-playbook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released the Federal Government Cybersecurity Incident Response Playbooks for the federal civilian executive branch agencies.
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has released new cybersecurity response plans for federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok phishing threatens to delete influencers’ accounts<a href="https://www.bleepingcomputer.com/news/security/tiktok-phishing-threatens-to-delete-influencers-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a new phishing campaign primarily targeting high-profile TikTok accounts belonging to influencers, brand consultants, production studios, and influencers' managers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Myanmar Use Domain Fronting to Hide Malicious Activities<a href="https://thehackernews.com/2021/11/hackers-targeting-myanmar-use-domain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign has been found leveraging a technique called domain fronting to hide command-and-control traffic by leveraging a legitimate domain owned by the Myanmar government to route communications to an attacker-controlled server with the goal of evading detection.  The threat, which was observed in September 2021, deployed Cobalt Strike payloads as a stepping stone for launching further attacks, with the adversary using a domain associated with the Myanmar Digital News network, a state-owned digital newspaper, as a front for their Beacons.  "When the Beacon is launched, it will submit a DNS request for a legitimate high-reputation domain hosted behind Cloudflare infrastructure and modify the subsequent HTTPs requests header to instruct the CDN to direct the traffic to an attacker-controlled host," Cisco Talos researchers Chetan Raghuprasad, Vanja Svajcer, and Asheer Malhotra  said  in a technical analysis published Tuesday.   Originally released in 2012 to addres
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The rise of millionaire zero-day exploit markets<a href="https://securityaffairs.co/wordpress/124690/cyber-crime/zero-day-exploit-markets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed the multi-millionaire market of zero-day exploits, a parallel economy that is fueling the threat landscape.
+
+
+
+Zero-day exploits are essential weapons in the arsenal of nation-state actors and cybercrime groups. The increased demand...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, UK warn of Iranian hackers exploiting Microsoft Exchange, Fortinet<a href="https://www.bleepingcomputer.com/news/security/us-uk-warn-of-iranian-hackers-exploiting-microsoft-exchange-fortinet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US, UK, and Australian cybersecurity agencies warned today of ongoing exploitation of Microsoft Exchange ProxyShell and Fortinet vulnerabilities linked to an Iranian-backed hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel's Candiru Spyware Found Linked to Watering Hole Attacks in U.K and Middle East<a href="https://thehackernews.com/2021/11/israels-candiru-spyware-found-linked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli spyware vendor Candiru, which was  added  to an economic blocklist by the U.S. government this month, is said to have reportedly waged "watering hole" attacks against high-profile entities in the U.K. and the Middle East, new findings reveal.  "The victimized websites belong to media outlets in the U.K., Yemen, and Saudi Arabia, as well as to Hezbollah; to government institutions in Iran (Ministry of Foreign Affairs), Syria (including the Ministry of Electricity), and Yemen (including the Ministries of Interior and Finance); to internet service providers in Yemen and Syria; and to aerospace/military technology companies in Italy and South Africa," ESET  said  in a new report. "The attackers also created a website mimicking a medical trade fair in Germany."  The strategic web compromises are believed to have occurred in two waves, the first commencing as early as March 2020 before ending in August 2020, and the second string of attacks beginning in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT groups continue to evolve<a href="https://securityaffairs.co/wordpress/124683/apt/iran-linked-apt-groups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at Microsoft Threat Intelligence Center (MSTIC) are warning of increasingly sophisticated operations carried out by Iranian threat actors.
+
+
+
+The Microsoft Threat Intelligence Center (MSTIC) shared the results of their analysis on the evolution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases cybersecurity response plans for federal agencies<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has released new cybersecurity response plans (known as playbooks) for federal civilian executive branch (FCEB) agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+On-Demand Webinar: Into the Cryptoverse<a href="https://thehackernews.com/2021/11/on-demand-webinar-into-cryptoverse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the span of a few years, cryptocurrencies have gone from laughingstock and novelty to a serious financial instrument, and a major sector in high-tech. The price of Bitcoin and Ethereum has gone from single dollars to thousands, and they're increasingly in the mainstream.   This is undoubtedly a positive development, as it opens new avenues for finance, transactions, tech developments, and more. Unfortunately, no innovation is without its dark side, and the crypto industry is no exception. A new webinar from XDR provider Cynet ( you can see it here ) dives deeper into this dark corner to explore the intersection of cybersecurity and cryptocurrency.   The first question is how, exactly, cryptocurrency creates security vulnerabilities for organizations. There's no single answer, and in many cases, the results are more indirect. This bears closer inspection, and the webinar, led by Cynet  CyOps Analyst  Ronen Ahdut, studies the different ways cryptocurrencies are used by attackers.   I
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant links Ghostwriter operations to Belarus<a href="https://securityaffairs.co/wordpress/124675/apt/ghostwriter-operations-belarus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at the Mandiant Threat Intelligence team believe that Ghostwriter APT group is linked to the government of Belarus.
+
+
+
+Mandiant Threat Intelligence researchers believe that the Ghostwriter disinformation campaign (aka UNC1151) was linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors offer millions for zero-days, developers talk of exploit-as-a-service<a href="https://www.bleepingcomputer.com/news/security/threat-actors-offer-millions-for-zero-days-developers-talk-of-exploit-as-a-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While mostly hidden in private conversations, details sometimes emerge about the parallel economy of vulnerability exploits on underground forums, revealing just how fat of a wallet some threat actors have.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Email Hoaxer ID’ed by the Guy He Allegedly Loves to Torment<a href="https://threatpost.com/fbi-email-hoaxer-ided-vinny-troia/176377/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vinny Troia, the cybersecurity researcher mentioned in a fake alert gushed out of the FBI’s email system, says it’s just one of a string of jabs from a childish but cybercriminally talented tormentor. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200M Adult Cam Model, User Records Exposed in Stripchat Breach<a href="https://threatpost.com/adult-cam-model-user-records-exposed-stripchat-breach/176372/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak included model information, chat messages and payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
