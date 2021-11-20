@@ -8,6 +8,70 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals discuss new business model for zero-day exploits<a href="https://www.techtarget.com/searchsecurity/news/252509820/Cybercriminals-discuss-new-business-model-for-zero-day-exploits?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potential new service is a product of the highly profitable zero-day market, where researchers have seen multimillion-dollar price tags for vulnerabilities and exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian teenager stole $36 Million in cryptocurrency via SIM Swapping<a href="https://securityaffairs.co/wordpress/124792/cyber-crime/teenage-arrested-cryptocurrency-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Canadian teen has been arrested for his alleged role in the theft of roughly $36.5 million worth of cryptocurrency.
+
+
+
+A Canadian teenager has been arrested for his alleged role in the theft of roughly $36.5 million worth of cryptocurrency from an American...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware operations made at least $25.5 million since July 2021<a href="https://securityaffairs.co/wordpress/124768/malware/conti-ransomware-25m-since-july-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that Conti ransomware operators earned at least $25.5 million from ransom payments since July 2021.
+
+
+
+A study conducted by Swiss security firm Prodaft with the support of blockchain analysis firm Elliptic revealed that the operators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Expose Secrets of Conti Ransomware Group That Made 25 Million from Victims<a href="https://thehackernews.com/2021/11/experts-expose-secrets-of-conti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The clearnet and dark web payment portals operated by the&nbsp; Conti &nbsp;ransomware group have gone down in what appears to be an attempt to shift to new infrastructure after details about the gang's inner workings and its members were made public.  According to&nbsp; MalwareHunterTeam , "while both the clearweb and Tor domains of the leak site of the Conti ransomware gang is online and working, both their clearweb and Tor domains for the payment site (which is obviously more important than the leak) is down."  It's not clear what prompted the shutdown, but the development comes as Swiss cybersecurity firm PRODAFT&nbsp; offered &nbsp;an unprecedented look into the group's ransomware-as-a-service (RaaS) model, wherein the developers sell or lease their ransomware technology to affiliates hired from darknet forums, who then carry out attacks on their behalf while also netting about 70% of each ransom payment extorted from the victims.   The result? Three members of the Conti team have b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

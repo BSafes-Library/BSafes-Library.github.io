@@ -8,6 +8,24 @@ nav_order: 900190
 
 ## Skimming
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers deploy Linux backdoor on e-stores compromised with software skimmer<a href="https://securityaffairs.co/wordpress/124748/malware/linux-backdoor-e-stores-skimmer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered threat actors installing a Linux backdoor on compromised e-commerce servers after deploying a credit card skimmer into e-stores.
+
+
+
+Security researchers from Sansec Threat Research Team discovered a Linux backdoor during an investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

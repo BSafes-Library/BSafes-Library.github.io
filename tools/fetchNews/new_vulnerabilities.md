@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sky customers vulnerable to hackers after security flaw on six million routers<a href="https://www.itv.com/news/2021-11-19/sky-customers-vulnerable-to-hackers-after-security-flaw-on-six-million-routers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security issue meant internet users with Sky routers were vulnerable to hacks and online attacks for well over a year, according to internet security company Pen Test Partners.
+</details>
+<div style="text-align: right" markdown="1">
+ITV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six million Sky routers exposed to takeover attacks for 17 months<a href="https://www.bleepingcomputer.com/news/security/six-million-sky-routers-exposed-to-takeover-attacks-for-17-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around six million Sky Broadband customer routers in the UK were affected by a critical vulnerability that took over 17 months to roll out a fix to customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher finds SSRF bug in internal Google Cloud project, nabs $10,000 bug bounty<a href="https://portswigger.net/daily-swig/researcher-finds-ssrf-bug-in-internal-google-cloud-project-nabs-10-000-bug-bounty?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now fixed, the bug, which researcher avid Schütz has documented in a comprehensive video and blog post, could have allowed an attacker to access sensitive resources and possibly run malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CKEditor vulnerabilities pose XSS threat to Drupal and other downstream applications<a href="https://portswigger.net/daily-swig/ckeditor-vulnerabilities-pose-xss-threat-to-drupal-and-other-downstream-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of cross-site scripting (XSS) bugs, which are deemed ‘moderately critical’ by Drupal, could have a far-reaching impact since CKEditor is incorporated into numerous online applications.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft addresses a high-severity vulnerability in Azure AD<a href="https://securityaffairs.co/wordpress/124755/security/microsoft-azure-ad-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft recently addressed an information disclosure vulnerability, tracked as CVE-2021-42306, affecting Azure AD.
+
+
+
+Microsoft has recently addressed an information disclosure vulnerability, tracked as CVE-2021-42306, affecting Azure AD. 
+
+
+
+"An information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day flaw in FatPipe products actively exploited, FBI warns<a href="https://securityaffairs.co/wordpress/124742/security/zero-day-fatpipe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning of a zero-day vulnerability in FatPipe products that has been under active exploitation since at least May 2021.
+
+
+
+FatPipe Software-Defined Wide Area Networking (SD-WAN) products provide solutions for an easy migration to&nbsp;Hybrid...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

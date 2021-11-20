@@ -8,6 +8,90 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake TSA PreCheck sites scam US travelers with fake renewals<a href="https://www.bleepingcomputer.com/news/security/fake-tsa-precheck-sites-scam-us-travelers-with-fake-renewals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a surge in reports of people getting scammed after visiting TSA PreCheck, Global Entry, and NEXUS application service sites, being charged $140 only to get nothing in return.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Leverage Fake SS7 Exploits to Boost Their Revenue<a href="https://cyware.com/news/scammers-leverage-fake-ss7-exploits-to-boost-their-revenue-b9591042"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts at SOS Intelligence found several underground forums offering fake exploits for SS7 vulnerabilities. During the investigation, the researchers uncovered 84 unique onion domains claiming to offer the fake exploit tool.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Phishing Emails Sneak Through SEGs<a href="https://threatpost.com/ransomware-phishing-emails-segs/176470/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MICROP ransomware spreads via Google Drive and locally stored passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Top Tools for Defending Against Phishing Attacks<a href="https://threatpost.com/tools-defending-phishing-attacks/176463/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails are now skating past traditional defenses. Justin Jett, director of audit and compliance at Plixer, discusses what to do about it.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spear-Phishing Campaign Exploits Glitch Platform to Steal Credentials<a href="https://threatpost.com/spear-phishing-exploits-glitch-steal-credentials/176449/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Middle-East-based employees of major corporations in a scam that uses a specific ‘ephemeral’ aspect of the project-management tool to link to SharePoint phishing pages.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glitch service abused to host short-lived phishing sites<a href="https://www.bleepingcomputer.com/news/security/glitch-service-abused-to-host-short-lived-phishing-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors are now actively abusing the Glitch platform to host short-lived credential-stealing URLs for free while evading detection and takedowns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

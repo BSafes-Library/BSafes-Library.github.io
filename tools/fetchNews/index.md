@@ -34,6 +34,766 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sky customers vulnerable to hackers after security flaw on six million routers<a href="https://www.itv.com/news/2021-11-19/sky-customers-vulnerable-to-hackers-after-security-flaw-on-six-million-routers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security issue meant internet users with Sky routers were vulnerable to hacks and online attacks for well over a year, according to internet security company Pen Test Partners.
+</details>
+<div style="text-align: right" markdown="1">
+ITV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Project calls to bring more than 200 obfs4 bridges online by December<a href="https://securityaffairs.co/wordpress/124799/security/tor-project-bridges-decrease.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project offers rewards to users who will set up a Tor server after observing a significant drop in the number of Tor relays and Tor bridges.
+
+
+
+Bridges are private Tor relays that allow users to circumvent censorship, their role is essential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals discuss new business model for zero-day exploits<a href="https://www.techtarget.com/searchsecurity/news/252509820/Cybercriminals-discuss-new-business-model-for-zero-day-exploits?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The potential new service is a product of the highly profitable zero-day market, where researchers have seen multimillion-dollar price tags for vulnerabilities and exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US banks must soon report significant cybersecurity incidents within 36 hours<a href="https://techcrunch.com/2021/11/19/us-banks-report-cybersecurity-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. financial regulators have approved a new rule that requires banking organizations to report any “significant” cybersecurity incident within 36 hours of discovery.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Glitch Platform Is Being Used By Hackers to Host Malicious URLs<a href="https://heimdalsecurity.com/blog/glitch-platform-abused-by-phishing-threat-actors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Glitch platform has become a target for phishing hackers. It seems that the service is being actively abused by cybercriminals with the goal to host on this platform for free phishing sites that perform credentials theft.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Intensifies Espionage Campaigns<a href="https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-campaigns?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary, which security researchers also refer to as Kimsuky, Thallium, and Konni, has been targeting organizations in sectors such as education, government, media, and research, as well as other industries.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 19th 2021 - Targeting Conti<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-19th-2021-targeting-conti/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While last week was full of arrests and law enforcement actions, this week has been much quieter, with mostly new research released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than $500M for cybersecurity included in sweeping House-passed package<a href="https://thehill.com//policy/cybersecurity/582414-over-500-million-for-cybersecurity-included-in-house-passed-build-back"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House approved more than $500 million in cybersecurity funding on Friday as part of its version of President Biden’s roughly $2 trillion Build Back Better package.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+11 Malicious PyPI Python Libraries Caught Stealing Discord Tokens and Installing Shells<a href="https://thehackernews.com/2021/11/11-malicious-pypi-python-libraries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered as many as 11 malicious Python packages that have been cumulatively downloaded more than 41,000 times from the Python Package Index (PyPI) repository, and could be exploited to steal Discord access tokens, passwords, and even stage dependency confusion attacks.  The Python packages have since been removed from the repository following responsible disclosure by DevOps firm JFrog —   importantpackage / important-package  pptest  ipboards  owlmoon  DiscordSafety  trrfab  10Cent10 / 10Cent11  yandex-yt  yiffparty   Two of the packages ("importantpackage," "10Cent10," and their variants) were found obtaining a reverse shell on the compromised machine, giving the attacker full control over an infected machine. Two other packages "ipboards" and "trrfab" masqueraded as legitimate dependencies designed to be automatically imported by taking advantage of a technique called  dependency confusion  or namespace confus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet comeback orchestrated by Conti ransomware gang<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-comeback-orchestrated-by-conti-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet botnet is back by popular demand, resurrected by its former operator, who was convinced by members of the Conti ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers increasingly anxious about US efforts against Russian hackers<a href="https://thehill.com//policy/cybersecurity/582280-lawmakers-increasingly-anxious-about-us-efforts-against-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five months after President Biden met with Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley — Presented by Ericsson — House passes Biden plan with 0M for cyber Ukrainian defense minister says he's asked Pentagon for military assistance Belarus and Russia must resolve the migrant crisis on their own MORE and urged him to take a stand against ransomware attacks emanating from his country, lawmakers are beginning to chafe at what they view as a lack of results from the administration's efforts to confront Russia.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charged 2 Iranian Hackers for Threatening Voters During 2020 Presidential Election<a href="https://thehackernews.com/2021/11/us-charged-2-iranians-hackers-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Thursday  unsealed  an indictment that accused two Iranian nationals of their involvement in cyber-enabled disinformation and threat campaign orchestrated to interfere in the 2020 presidential elections by gaining access to confidential voter information from at least one state election website.  The two defendants in question — Seyyed Mohammad Hosein Musa Kazemi , 24, and Sajjad Kazemi , 27 — have been  charged  with conspiracy to commit computer fraud and abuse, intimidate voters, and transmit interstate threats, voter intimidation, transmission of interstate threats, with Kazemi additionally charged with unauthorized computer intrusion. Both the individuals are  currently at large .   The influence campaign's goal was to erode confidence in the integrity of the U.S. electoral system and to sow discord among Americans, the Department of Justice (DoJ) said in a statement, characterizing the two individuals as "experienced Iran-based computer hackers&qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian teenager stole $36 Million in cryptocurrency via SIM Swapping<a href="https://securityaffairs.co/wordpress/124792/cyber-crime/teenage-arrested-cryptocurrency-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Canadian teen has been arrested for his alleged role in the theft of roughly $36.5 million worth of cryptocurrency.
+
+
+
+A Canadian teenager has been arrested for his alleged role in the theft of roughly $36.5 million worth of cryptocurrency from an American...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake TSA PreCheck sites scam US travelers with fake renewals<a href="https://www.bleepingcomputer.com/news/security/fake-tsa-precheck-sites-scam-us-travelers-with-fake-renewals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There has been a surge in reports of people getting scammed after visiting TSA PreCheck, Global Entry, and NEXUS application service sites, being charged $140 only to get nothing in return.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Flash Alert on Actively Exploited FatPipe VPN Zero-Day Bug<a href="https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) has disclosed that an unidentified threat actor has been exploiting a previously unknown weakness in the FatPipe MPVPN networking devices at least since May 2021 to obtain an initial foothold and maintain persistent access into vulnerable networks, making it the latest company to join the likes of Cisco, Fortinet, Citrix, Pulse Secure that have had their systems exploited in the wild.  "The vulnerability allowed APT actors to gain access to an unrestricted file upload function to drop a web shell for exploitation activity with root access, leading to elevated privileges and potential follow-on activity," the agency  said  in an alert published this week. "Exploitation of this vulnerability then served as a jumping off point into other infrastructure for the APT actors."   In other words, the zero-day vulnerability enables a remote attacker to upload a file to any location on the filesystem on an affected device. The se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Pizza Kitchen discloses a data breach<a href="https://securityaffairs.co/wordpress/124785/data-breach/california-pizza-kitchen-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American pizza chain California Pizza Kitchen (CPK) suffered a data breach that might have exposed personal information of its employees.
+
+
+
+American pizza chain California Pizza Kitchen (CPK) suffered a data breach, the company has already notified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Authenticator gets new enterprise security features<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-gets-new-enterprise-security-features/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added new security features for Microsoft Authenticator users that further secure the app and make it easier to roll out in enterprise environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Simple 5-Step Framework to Minimize the Risk of a Data Breach<a href="https://thehackernews.com/2021/11/a-simple-5-step-framework-to-minimize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's businesses run on data. They collect it from customers at every interaction, and they use it to improve efficiency, increase their agility, and provide higher levels of service. But it's becoming painfully obvious that all of that data businesses collect has also made them an enticing target for cybercriminals.  With each passing day, the evidence of that grows. In the last few months, we've witnessed massive data breaches that targeted  Neiman Marcus ,  Facebook , and the  Robinhood  stock trading app. And they're hardly alone. In recent years, the number of data breaches worldwide has averaged  close to three per day .  That statistic suggests that the average business has a target on its back and is running out of time to mount a defense of its data. And doing so doesn't have to be difficult. To help, here's a simple 5-step framework businesses of all sizes can use to protect their customer data.  Step One: Review and Adapt Data Collection Standards
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked TA406 cyberespionage group activity in 2021<a href="https://securityaffairs.co/wordpress/124775/apt/north-korea-linked-ta406-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked TA406 APT group has intensified its attacks in 2021, particularly credential harvesting campaigns.
+
+
+
+A report published by Proofpoint revealed that the North Korea-linked TA406 APT group (Kimsuky, Thallium, and Konni, Black Banshee, Velvet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah medical center hit by data breach affecting 582k patients<a href="https://www.bleepingcomputer.com/news/security/utah-medical-center-hit-by-data-breach-affecting-582k-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Utah Imaging Associates (UIA), a Utah-based radiology center, has announced a data breach affecting 582,170 people after their personal information was exposed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware operations made at least $25.5 million since July 2021<a href="https://securityaffairs.co/wordpress/124768/malware/conti-ransomware-25m-since-july-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that Conti ransomware operators earned at least $25.5 million from ransom payments since July 2021.
+
+
+
+A study conducted by Swiss security firm Prodaft with the support of blockchain analysis firm Elliptic revealed that the operators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six million Sky routers exposed to takeover attacks for 17 months<a href="https://www.bleepingcomputer.com/news/security/six-million-sky-routers-exposed-to-takeover-attacks-for-17-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around six million Sky Broadband customer routers in the UK were affected by a critical vulnerability that took over 17 months to roll out a fix to customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Leverage Fake SS7 Exploits to Boost Their Revenue<a href="https://cyware.com/news/scammers-leverage-fake-ss7-exploits-to-boost-their-revenue-b9591042"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts at SOS Intelligence found several underground forums offering fake exploits for SS7 vulnerabilities. During the investigation, the researchers uncovered 84 unique onion domains claiming to offer the fake exploit tool.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android banking Trojan BrazKing is back with significant evasion improvements<a href="https://securityaffairs.co/wordpress/124760/malware/brazking-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BrazKing Android banking trojan is back with significant improvements and dynamic banking overlays to avoid detection.
+
+
+
+Researchers from IBM spotted a new version of the BrazKing Android banking trojan that pull fake overlay screens from the command...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US regulators order banks to report cyberattacks within 36 hours<a href="https://www.bleepingcomputer.com/news/security/us-regulators-order-banks-to-report-cyberattacks-within-36-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US federal bank regulatory agencies have approved a new rule requiring banks to notify their primary federal regulators of significant computer-security incidents within 36 hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher finds SSRF bug in internal Google Cloud project, nabs $10,000 bug bounty<a href="https://portswigger.net/daily-swig/researcher-finds-ssrf-bug-in-internal-google-cloud-project-nabs-10-000-bug-bounty?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now fixed, the bug, which researcher avid Schütz has documented in a comprehensive video and blog post, could have allowed an attacker to access sensitive resources and possibly run malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CKEditor vulnerabilities pose XSS threat to Drupal and other downstream applications<a href="https://portswigger.net/daily-swig/ckeditor-vulnerabilities-pose-xss-threat-to-drupal-and-other-downstream-applications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of cross-site scripting (XSS) bugs, which are deemed ‘moderately critical’ by Drupal, could have a far-reaching impact since CKEditor is incorporated into numerous online applications.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware is now a giant black hole that is sucking in all other forms of cybercrime<a href="https://www.zdnet.com/article/ransomware-is-now-a-giant-black-hole-that-is-sucking-in-all-other-forms-of-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is considered by many experts to be most pressing security risk facing businesses – and its extremely lucrative for the gangs involved, with ransom payouts increasing significantly.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Phishing Emails Sneak Through SEGs<a href="https://threatpost.com/ransomware-phishing-emails-segs/176470/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MICROP ransomware spreads via Google Drive and locally stored passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Top Tools for Defending Against Phishing Attacks<a href="https://threatpost.com/tools-defending-phishing-attacks/176463/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails are now skating past traditional defenses. Justin Jett, director of audit and compliance at Plixer, discusses what to do about it.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds participate in electric grid cyberattack simulation amid increasing threats<a href="https://thehill.com//policy/cybersecurity/582246-hundreds-participate-in-electric-grid-cyberattack-simulation-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 700 individuals associated with the bulk power grid and other related critical infrastructure participated in a simulation this week designed to test resilience against a major physical and cyberattack. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spear-Phishing Campaign Exploits Glitch Platform to Steal Credentials<a href="https://threatpost.com/spear-phishing-exploits-glitch-steal-credentials/176449/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Middle-East-based employees of major corporations in a scam that uses a specific ‘ephemeral’ aspect of the project-management tool to link to SharePoint phishing pages.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ charges two Iranians with interference in 2020 election<a href="https://thehill.com//policy/cybersecurity/582189-justice-department-indicts-two-iranian-individuals-for-interfering-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) on Thursday indicted two Iranian nationals for interfering in the 2020 U.S. presidential election, alleging they used wide-ranging cyber and disinformation efforts in an attempt to sow doubt in the election process.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Expose Secrets of Conti Ransomware Group That Made 25 Million from Victims<a href="https://thehackernews.com/2021/11/experts-expose-secrets-of-conti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The clearnet and dark web payment portals operated by the  Conti  ransomware group have gone down in what appears to be an attempt to shift to new infrastructure after details about the gang's inner workings and its members were made public.  According to  MalwareHunterTeam , "while both the clearweb and Tor domains of the leak site of the Conti ransomware gang is online and working, both their clearweb and Tor domains for the payment site (which is obviously more important than the leak) is down."  It's not clear what prompted the shutdown, but the development comes as Swiss cybersecurity firm PRODAFT  offered  an unprecedented look into the group's ransomware-as-a-service (RaaS) model, wherein the developers sell or lease their ransomware technology to affiliates hired from darknet forums, who then carry out attacks on their behalf while also netting about 70% of each ransom payment extorted from the victims.   The result? Three members of the Conti team have b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Side Channel Attacks Re-Enable Serious DNS Cache Poisoning Attacks<a href="https://thehackernews.com/2021/11/new-side-channel-attacks-re-enable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have demonstrated yet another variant of the SAD DNS cache poisoning attack that leaves about 38% of the domain name resolvers vulnerable, enabling attackers to redirect traffic originally destined to legitimate websites to a server under their control.  "The  attack  allows an off-path attacker to inject a malicious DNS record into a DNS cache," University of California researchers Keyu Man, Xin'an Zhou, and Zhiyun Qian  said . "SAD DNS attack allows an attacker to redirect any traffic (originally destined to a specific domain) to his own server and then become a man-in-the-middle (MITM) attacker, allowing eavesdropping and tampering of the communication."  The latest flaw affects Linux kernels as well as popular DNS software, including BIND, Unbound, and dnsmasq running on top of Linux, but not when run on other operating systems FreeBSD or Windows.  From Kaminsky Attack to SAD DNS  DNS cache poisoning, also called DNS spoofing, is a  technique  i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft addresses a high-severity vulnerability in Azure AD<a href="https://securityaffairs.co/wordpress/124755/security/microsoft-azure-ad-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft recently addressed an information disclosure vulnerability, tracked as CVE-2021-42306, affecting Azure AD.
+
+
+
+Microsoft has recently addressed an information disclosure vulnerability, tracked as CVE-2021-42306, affecting Azure AD. 
+
+
+
+"An information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware BrazKing returns as a stealthier banking trojan<a href="https://www.bleepingcomputer.com/news/security/android-malware-brazking-returns-as-a-stealthier-banking-trojan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​The BrazKing Android banking trojan has returned with dynamic banking overlays and a new implementation trick that enables it to operate without requesting risky permissions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers deploy Linux backdoor on e-stores compromised with software skimmer<a href="https://securityaffairs.co/wordpress/124748/malware/linux-backdoor-e-stores-skimmer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered threat actors installing a Linux backdoor on compromised e-commerce servers after deploying a credit card skimmer into e-stores.
+
+
+
+Security researchers from Sansec Threat Research Team discovered a Linux backdoor during an investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts Iranian hackers for Proud Boys voter intimidation emails<a href="https://www.bleepingcomputer.com/news/security/us-indicts-iranian-hackers-for-proud-boys-voter-intimidation-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of State is offering a $10 million reward for information about the activities of two Iranian nationals charged for cyber activity intended to "intimidate and influence" American voters during the 2020 U.S. presidential campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day flaw in FatPipe products actively exploited, FBI warns<a href="https://securityaffairs.co/wordpress/124742/security/zero-day-fatpipe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning of a zero-day vulnerability in FatPipe products that has been under active exploitation since at least May 2021.
+
+
+
+FatPipe Software-Defined Wide Area Networking (SD-WAN) products provide solutions for an easy migration to Hybrid...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers deploy Linux malware, web skimmer on e-commerce servers<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-linux-malware-web-skimmer-on-e-commerce-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered that attackers are also deploying a Linux backdoor on compromised e-commerce servers after injecting a credit card skimmer into online shops' websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian state hackers increasingly target IT sector<a href="https://www.bleepingcomputer.com/news/security/microsoft-iranian-state-hackers-increasingly-target-it-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says Iranian-backed hacking groups have increasingly attempted to compromise IT services companies this year to steal credentials they could use to breach the systems of downstream clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Memento ransomware switches to WinRar after failing at encryption<a href="https://www.bleepingcomputer.com/news/security/new-memento-ransomware-switches-to-winrar-after-failing-at-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware group called Memento takes the unusual approach of locking files inside password-protected archives after their encryption method kept being detected by security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glitch service abused to host short-lived phishing sites<a href="https://www.bleepingcomputer.com/news/security/glitch-service-abused-to-host-short-lived-phishing-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors are now actively abusing the Glitch platform to host short-lived credential-stealing URLs for free while evading detection and takedowns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean cyberspies target govt officials with custom malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-cyberspies-target-govt-officials-with-custom-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored North Korean threat actor tracked as TA406 was recently observed deploying custom info-stealing malware in espionage campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

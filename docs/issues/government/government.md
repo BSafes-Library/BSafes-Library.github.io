@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than $500M for cybersecurity included in sweeping House-passed package<a href="https://thehill.com//policy/cybersecurity/582414-over-500-million-for-cybersecurity-included-in-house-passed-build-back"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House approved&nbsp;more than $500 million in cybersecurity funding on Friday as part of its version of President Biden’s&nbsp;roughly $2 trillion Build Back Better package.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Issues Flash Alert on Actively Exploited FatPipe VPN Zero-Day Bug<a href="https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) has disclosed that an unidentified threat actor has been exploiting a previously unknown weakness in the FatPipe MPVPN networking devices at least since May 2021 to obtain an initial foothold and maintain persistent access into vulnerable networks, making it the latest company to join the likes of Cisco, Fortinet, Citrix, Pulse Secure that have had their systems exploited in the wild.  "The vulnerability allowed APT actors to gain access to an unrestricted file upload function to drop a web shell for exploitation activity with root access, leading to elevated privileges and potential follow-on activity," the agency&nbsp; said &nbsp;in an alert published this week. "Exploitation of this vulnerability then served as a jumping off point into other infrastructure for the APT actors."   In other words, the zero-day vulnerability enables a remote attacker to upload a file to any location on the filesystem on an affected device. The se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US regulators order banks to report cyberattacks within 36 hours<a href="https://www.bleepingcomputer.com/news/security/us-regulators-order-banks-to-report-cyberattacks-within-36-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US federal bank regulatory agencies have approved a new rule requiring banks to notify their primary federal regulators of&nbsp;significant computer-security incidents within 36 hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean cyberspies target govt officials with custom malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-cyberspies-target-govt-officials-with-custom-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored North Korean threat actor tracked as TA406 was recently observed deploying custom info-stealing malware in espionage campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

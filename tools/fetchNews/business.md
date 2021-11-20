@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Firm Lacework Raises Record-Breaking $1.3 Billion<a href="https://www.securityweek.com/cloud-security-firm-lacework-raises-record-breaking-13-billion?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lacework raised a record-breaking second Series D funding round led by existing investors Sutter Hill Ventures, Altimeter Capital, D1 Capital Partners, and Tiger Global Management.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ontic Raises $40M in Series B Funding<a href="https://www.finsmes.com/2021/11/ontic-raises-40m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, which brought total funding raised to date to nearly $58m, was led by JMI Equity, with participation from Felicis Ventures, Silverton Partners, and Ridge Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Data Protection Startup Laminar Closes $32M Funding Round<a href="https://www.securityweek.com/cloud-data-protection-startup-laminar-closes-32m-funding-round?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new round was led by Insight Partners. Meron Capital, SentinelOne, and TLV Partners also participated. The funding will help Laminar expand its engineering, data security and go-to-market teams.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

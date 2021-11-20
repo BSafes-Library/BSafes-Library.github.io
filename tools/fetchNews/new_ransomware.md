@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 19th 2021 - Targeting Conti<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-19th-2021-targeting-conti/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While last week was full of arrests and law enforcement actions, this week has been much quieter, with mostly new research released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware is now a giant black hole that is sucking in all other forms of cybercrime<a href="https://www.zdnet.com/article/ransomware-is-now-a-giant-black-hole-that-is-sucking-in-all-other-forms-of-cybercrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is considered by many experts to be most pressing security risk facing businesses – and its extremely lucrative for the gangs involved, with ransom payouts increasing significantly.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Memento ransomware switches to WinRar after failing at encryption<a href="https://www.bleepingcomputer.com/news/security/new-memento-ransomware-switches-to-winrar-after-failing-at-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware group called Memento takes the unusual approach of locking files inside password-protected archives after their encryption method kept being detected by security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

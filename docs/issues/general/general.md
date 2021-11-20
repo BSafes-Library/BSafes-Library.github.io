@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US banks must soon report significant cybersecurity incidents within 36 hours<a href="https://techcrunch.com/2021/11/19/us-banks-report-cybersecurity-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. financial regulators have approved a new rule that requires banking organizations to report any “significant” cybersecurity incident within 36 hours of discovery.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

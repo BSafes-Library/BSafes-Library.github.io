@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Pizza Kitchen discloses a data breach<a href="https://securityaffairs.co/wordpress/124785/data-breach/california-pizza-kitchen-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American pizza chain California Pizza Kitchen (CPK) suffered a data breach that might have exposed personal information of its employees.
+
+
+
+American pizza chain California Pizza Kitchen (CPK) suffered a data breach, the company has already notified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah medical center hit by data breach affecting 582k patients<a href="https://www.bleepingcomputer.com/news/security/utah-medical-center-hit-by-data-breach-affecting-582k-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Utah Imaging Associates (UIA), a Utah-based radiology center, has announced a data breach affecting 582,170 people after their personal information was exposed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

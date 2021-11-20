@@ -35,6 +35,7 @@ Alerts:
 . https://www.bleepingcomputer.com/news/security/us-uk-warn-of-iranian-hackers-exploiting-microsoft-exchange-fortinet/ 
 Law
 . https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/
+. https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html
 
 APT
 . APT27

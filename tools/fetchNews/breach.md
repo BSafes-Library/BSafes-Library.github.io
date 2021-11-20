@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedCurl Breached at Least Four Companies in New Attacks This Year<a href="https://therecord.media/redcurl-hacking-group-returns-with-new-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Besides discovering new attacks, Group-IB’s latest report also notes that RedCurl operators have done little to change their tactics besides a few updates to the tools they used during intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200M Adult Cam Model, User Records Exposed in Stripchat Breach<a href="https://threatpost.com/adult-cam-model-user-records-exposed-stripchat-breach/176372/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak included model information, chat messages and payment details.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

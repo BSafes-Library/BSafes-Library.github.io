@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Side Channel Attacks Re-Enable Serious DNS Cache Poisoning Attacks<a href="https://thehackernews.com/2021/11/new-side-channel-attacks-re-enable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have demonstrated yet another variant of the SAD DNS cache poisoning attack that leaves about 38% of the domain name resolvers vulnerable, enabling attackers to redirect traffic originally destined to legitimate websites to a server under their control.  "The&nbsp; attack &nbsp;allows an off-path attacker to inject a malicious DNS record into a DNS cache," University of California researchers Keyu Man, Xin'an Zhou, and Zhiyun Qian&nbsp; said . "SAD DNS attack allows an attacker to redirect any traffic (originally destined to a specific domain) to his own server and then become a man-in-the-middle (MITM) attacker, allowing eavesdropping and tampering of the communication."  The latest flaw affects Linux kernels as well as popular DNS software, including BIND, Unbound, and dnsmasq running on top of Linux, but not when run on other operating systems FreeBSD or Windows.  From Kaminsky Attack to SAD DNS  DNS cache poisoning, also called DNS spoofing, is a&nbsp; technique &nbsp;i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
