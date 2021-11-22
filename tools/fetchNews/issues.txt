@@ -32,12 +32,9 @@
 Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-apt-group-exploiting-fatpipe-vpn-zero-day-since-may/
 . https://securityaffairs.co/wordpress/124705/security/cisa-incident-response-playbook.html
-. https://www.bleepingcomputer.com/news/security/us-uk-warn-of-iranian-hackers-exploiting-microsoft-exchange-fortinet/ 
+
+
 Law
-. https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/
-. https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html
-. https://www.bleepingcomputer.com/news/security/us-sec-warns-investors-of-ongoing-govt-impersonation-attacks/
-. https://cyware.com/news/fbi-warning-cybercriminals-abusing-zero-day-in-fatpipe-vpn-4bcff0d2
 
 APT
 . APT27

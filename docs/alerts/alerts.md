@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2021 - SEC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Communications Falsely Appearing to Come from the SEC – Investor Alert <a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/beware-0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We are aware that several individuals recently received phone calls or voicemail messages that appeared to be from an SEC phone number.  The calls and messages raised purported concerns about unauthorized transactions or other suspicious activity in the recipients’ checking or cryptocurrency accounts. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021 - FBI, CISA, ACSC, and NCSC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and Fortinet Vulnerabilities in Furtherance of Malicious Activities <a href="https://us-cert.cisa.gov/ncas/alerts/aa21-321a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This joint cybersecurity advisory is the result of an analytic effort among the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Australian Cyber Security Centre (ACSC), and the United Kingdom’s National Cyber Security Centre (NCSC) to highlight ongoing malicious cyber activity by an advanced persistent threat (APT) group that FBI, CISA, ACSC, and NCSC assess is associated with the government of Iran.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 11, 2021 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
