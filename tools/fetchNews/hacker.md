@@ -8,6 +8,80 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Glitch Platform Is Being Used By Hackers to Host Malicious URLs<a href="https://heimdalsecurity.com/blog/glitch-platform-abused-by-phishing-threat-actors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Glitch platform has become a target for phishing hackers. It seems that the service is being actively abused by cybercriminals with the goal to host on this platform for free phishing sites that perform credentials theft.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Intensifies Espionage Campaigns<a href="https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-campaigns?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary, which security researchers also refer to as Kimsuky, Thallium, and Konni, has been targeting organizations in sectors such as education, government, media, and research, as well as other industries.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked TA406 cyberespionage group activity in 2021<a href="https://securityaffairs.co/wordpress/124775/apt/north-korea-linked-ta406-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked TA406 APT group has intensified its attacks in 2021, particularly credential harvesting campaigns.
+
+
+
+A report published by Proofpoint revealed that the North Korea-linked TA406 APT group (Kimsuky,&nbsp;Thallium, and Konni, Black Banshee,&nbsp;Velvet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds participate in electric grid cyberattack simulation amid increasing threats<a href="https://thehill.com//policy/cybersecurity/582246-hundreds-participate-in-electric-grid-cyberattack-simulation-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 700 individuals associated with the bulk power grid and other related critical infrastructure participated in a simulation this week designed to test resilience against a major physical and cyberattack.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian state hackers increasingly target IT sector<a href="https://www.bleepingcomputer.com/news/security/microsoft-iranian-state-hackers-increasingly-target-it-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says Iranian-backed hacking groups have increasingly attempted to compromise IT services companies this year to steal credentials they could use to breach the systems of downstream clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

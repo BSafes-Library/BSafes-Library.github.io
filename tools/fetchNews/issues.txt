@@ -36,6 +36,8 @@ Alerts:
 Law
 . https://www.bleepingcomputer.com/news/security/cisa-releases-cybersecurity-response-plans-for-federal-agencies/
 . https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html
+. https://www.bleepingcomputer.com/news/security/us-sec-warns-investors-of-ongoing-govt-impersonation-attacks/
+. https://cyware.com/news/fbi-warning-cybercriminals-abusing-zero-day-in-fatpipe-vpn-4bcff0d2
 
 APT
 . APT27

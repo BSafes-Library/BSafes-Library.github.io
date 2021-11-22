@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vestas hit by cyber security incident, shuts some IT systems<a href="https://www.reuters.com/markets/europe/vestas-hit-by-cyber-security-incident-shuts-some-it-systems-2021-11-20/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vestas has been hit by a cyber security incident and has shut down its IT systems across multiple business units and locations to contain the issue, the world's largest maker of wind turbines said on Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

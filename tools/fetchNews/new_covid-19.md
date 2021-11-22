@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 and Cybercrime - Europol Threat Assessment<a href="https://cyware.com/news/covid-19-and-cybercrime-europol-threat-assessment-30f11cd2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The conditions brought forth by the global pandemic have set a rapid pace of transformation in the cyberworld. With accelerated digitalization, came the threat of heightened cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

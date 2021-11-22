@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC warns investors of ongoing govt impersonation attacks<a href="https://www.bleepingcomputer.com/news/security/us-sec-warns-investors-of-ongoing-govt-impersonation-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Commission (SEC) has warned US investors of scammers impersonating SEC officials in government impersonator schemes via phone calls, voicemails, emails, and letters.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. banking regulators order banks to notify cybersecurity incidents in 36 hours<a href="https://securityaffairs.co/wordpress/124826/laws-and-regulations/u-s-banking-regulators-rule.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. banking regulators&nbsp;have approved a new rule that orders banks to notify federal regulators of significant cybersecurity incidents within 36 hours.
+
+
+
+U.S. banking regulators this week approved a rule that obliges banks to report any major cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Cybercriminals Abusing Zero-Day in FatPipe VPN<a href="https://cyware.com/news/fbi-warning-cybercriminals-abusing-zero-day-in-fatpipe-vpn-4bcff0d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flash alert has been issued by the FBI regarding an APT group abusing a zero-day flaw in FatPipe devices and software products. FatPipe, the networking hardware firm, has Fortune 1000 companies as its customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

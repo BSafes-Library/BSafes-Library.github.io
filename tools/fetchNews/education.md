@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Simple 5-Step Framework to Minimize the Risk of a Data Breach<a href="https://thehackernews.com/2021/11/a-simple-5-step-framework-to-minimize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's businesses run on data. They collect it from customers at every interaction, and they use it to improve efficiency, increase their agility, and provide higher levels of service. But it's becoming painfully obvious that all of that data businesses collect has also made them an enticing target for cybercriminals.  With each passing day, the evidence of that grows. In the last few months, we've witnessed massive data breaches that targeted &nbsp;Neiman Marcus , &nbsp;Facebook , and the &nbsp;Robinhood &nbsp;stock trading app. And they're hardly alone. In recent years, the number of data breaches worldwide has averaged &nbsp;close to three per day .  That statistic suggests that the average business has a target on its back and is running out of time to mount a defense of its data. And doing so doesn't have to be difficult. To help, here's a simple 5-step framework businesses of all sizes can use to protect their customer data.  Step One: Review and Adapt Data Collection Standards
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

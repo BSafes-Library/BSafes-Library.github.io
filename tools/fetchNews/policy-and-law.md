@@ -8,6 +8,62 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers increasingly anxious about US efforts against Russian hackers<a href="https://thehill.com//policy/cybersecurity/582280-lawmakers-increasingly-anxious-about-us-efforts-against-russian-hackers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five months after President Biden met with Russian President Vladimir PutinVladimir Vladimirovich PutinHillicon Valley — Presented by Ericsson — House passes Biden plan with 0M for cyber Ukrainian defense minister says he's asked Pentagon for military assistance Belarus and Russia must resolve the migrant crisis on their own MORE and urged him to take a stand against ransomware attacks emanating from his country, lawmakers are beginning to chafe at what they view as a lack of results from the administration's efforts to confront Russia.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charged 2 Iranian Hackers for Threatening Voters During 2020 Presidential Election<a href="https://thehackernews.com/2021/11/us-charged-2-iranians-hackers-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Thursday&nbsp; unsealed &nbsp;an indictment that accused two Iranian nationals of their involvement in cyber-enabled disinformation and threat campaign orchestrated to interfere in the 2020 presidential elections by gaining access to confidential voter information from at least one state election website.  The two defendants in question — Seyyed Mohammad Hosein Musa Kazemi , 24, and Sajjad Kazemi , 27 — have been&nbsp; charged &nbsp;with conspiracy to commit computer fraud and abuse, intimidate voters, and transmit interstate threats, voter intimidation, transmission of interstate threats, with Kazemi additionally charged with unauthorized computer intrusion. Both the individuals are&nbsp; currently at large .   The influence campaign's goal was to erode confidence in the integrity of the U.S. electoral system and to sow discord among Americans, the Department of Justice (DoJ) said in a statement, characterizing the two individuals as "experienced Iran-based computer hackers&amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ charges two Iranians with interference in 2020 election<a href="https://thehill.com//policy/cybersecurity/582189-justice-department-indicts-two-iranian-individuals-for-interfering-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice (DOJ) on Thursday indicted two Iranian&nbsp;nationals&nbsp;for interfering in the 2020 U.S. presidential election, alleging they used&nbsp;wide-ranging cyber and disinformation efforts in an attempt to sow doubt in the election process.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US indicts Iranian hackers for Proud Boys voter intimidation emails<a href="https://www.bleepingcomputer.com/news/security/us-indicts-iranian-hackers-for-proud-boys-voter-intimidation-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of State is offering a $10 million reward for information about the activities of two Iranian nationals charged for cyber activity intended to "intimidate and influence" American voters during the 2020 U.S. presidential campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

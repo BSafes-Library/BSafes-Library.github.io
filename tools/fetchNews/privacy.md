@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Project calls to bring more than&nbsp;200 obfs4 bridges online&nbsp;by December<a href="https://securityaffairs.co/wordpress/124799/security/tor-project-bridges-decrease.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project offers rewards to users who will set up a Tor server after observing a significant drop in the number of Tor relays and Tor bridges.
+
+
+
+Bridges&nbsp;are private Tor relays that allow users to circumvent censorship, their role is essential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

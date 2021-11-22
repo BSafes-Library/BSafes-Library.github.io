@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US SEC warns investors of ongoing govt impersonation attacks<a href="https://www.bleepingcomputer.com/news/security/us-sec-warns-investors-of-ongoing-govt-impersonation-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blacksmith Attack Bypasses Existing DDR4 Memory Defenses<a href="https://cyware.com/news/blacksmith-attack-bypasses-existing-ddr4-memory-defenses-0e4e4ccb"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found 11 malicious Python packages in the PyPI repository<a href="https://securityaffairs.co/wordpress/124861/hacking/malicious-pypi-python-packages.html"> Full Text</a>
@@ -87,7 +87,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ETW Attacks May Blind Security Products<a href="https://cyware.com/news/new-etw-attacks-may-blind-security-products-bc148e09"> Full Text</a>
@@ -103,7 +103,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers were able to access the payment portal of the Conti gang<a href="https://securityaffairs.co/wordpress/124837/cyber-crime/payment-portal-conti-gang-compromised.html"> Full Text</a>
@@ -123,7 +123,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 and Cybercrime - Europol Threat Assessment<a href="https://cyware.com/news/covid-19-and-cybercrime-europol-threat-assessment-30f11cd2"> Full Text</a>
@@ -139,7 +139,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers compromise Microsoft Exchange servers to hijack internal email chains<a href="https://securityaffairs.co/wordpress/124838/hacking/microsoft-exchange-servers-hack.html"> Full Text</a>
@@ -159,7 +159,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Research Links Ghostwriter Disinformation Campaign to Belarus<a href="https://cyware.com/news/latest-research-links-ghostwriter-disinformation-campaign-to-belarus-1c5732a5"> Full Text</a>
@@ -175,7 +175,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vestas hit by cyber security incident, shuts some IT systems<a href="https://www.reuters.com/markets/europe/vestas-hit-by-cyber-security-incident-shuts-some-it-systems-2021-11-20/?&web_view=true"> Full Text</a>
@@ -191,7 +191,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedCurl Corporate Espionage Hackers Return With Updated Hacking Tools<a href="https://thehackernews.com/2021/11/redcurl-corporate-espionage-hackers.html"> Full Text</a>
@@ -207,7 +207,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers hacked in internal reply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-in-internal-reply-chain-attacks/"> Full Text</a>
@@ -223,7 +223,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Found Behind a Range of Credential Theft Campaigns<a href="https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html"> Full Text</a>
@@ -239,7 +239,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Office 365 will boost default protection for all users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-office-365-will-boost-default-protection-for-all-users/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 341<a href="https://securityaffairs.co/wordpress/124833/breaking-news/security-affairs-newsletter-round-341.html"> Full Text</a>
@@ -275,7 +275,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. banking regulators order banks to notify cybersecurity incidents in 36 hours<a href="https://securityaffairs.co/wordpress/124826/laws-and-regulations/u-s-banking-regulators-rule.html"> Full Text</a>
@@ -295,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warning: Cybercriminals Abusing Zero-Day in FatPipe VPN<a href="https://cyware.com/news/fbi-warning-cybercriminals-abusing-zero-day-in-fatpipe-vpn-4bcff0d2"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Study reveals top 200 most common passwords<a href="https://securityaffairs.co/wordpress/124815/security/top-used-passwords.html"> Full Text</a>
@@ -331,7 +331,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Reports Evolution of Iranian Hacking Groups<a href="https://cyware.com/news/microsoft-reports-evolution-of-iranian-hacking-groups-a74e57b5"> Full Text</a>
@@ -347,7 +347,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The newer cybercrime triad: TrickBot-Emotet-Conti<a href="https://securityaffairs.co/wordpress/124807/cyber-crime/trickbot-emotet-conti-triad.html"> Full Text</a>
@@ -367,7 +367,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-day Flaws and Exploit-as-a-Service Trending Among Ransomware Groups<a href="https://cyware.com/news/zero-day-flaws-and-exploit-as-a-service-trending-among-ransomware-groups-27991876"> Full Text</a>

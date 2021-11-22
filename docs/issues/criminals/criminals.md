@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers were able to access the payment portal of the Conti gang<a href="https://securityaffairs.co/wordpress/124837/cyber-crime/payment-portal-conti-gang-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware group has suffered a data breach that exposed its attack infrastructure and allowed researcher to access it.
+
+
+
+Researchers at security firm Prodaft were able to identify the real IP address of one of the servers used by the Conti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The newer cybercrime triad: TrickBot-Emotet-Conti<a href="https://securityaffairs.co/wordpress/124807/cyber-crime/trickbot-emotet-conti-triad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced Intelligence researchers argue that the restarting of the  Emotet botnet was driven by Conti ransomware gang. 
+
+
+
+Early this year, law enforcement and judicial authorities worldwide&nbsp;conducted a joint operation, named&nbsp;Operation Ladybird, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
