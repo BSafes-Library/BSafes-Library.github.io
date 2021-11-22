@@ -34,7 +34,356 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC warns investors of ongoing govt impersonation attacks<a href="https://www.bleepingcomputer.com/news/security/us-sec-warns-investors-of-ongoing-govt-impersonation-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Commission (SEC) has warned US investors of scammers impersonating SEC officials in government impersonator schemes via phone calls, voicemails, emails, and letters.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blacksmith Attack Bypasses Existing DDR4 Memory Defenses<a href="https://cyware.com/news/blacksmith-attack-bypasses-existing-ddr4-memory-defenses-0e4e4ccb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from ComSec group have demonstrated that it is possible to trigger the Rowhammer exploit and target the associated DRAMs used in commercially available devices.  Blacksmith (tracked as   CVE-2021-42114  ) is a fuzzing-based technique, and unlike previous DRAM exploits, it works well for ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found 11 malicious Python packages in the PyPI repository<a href="https://securityaffairs.co/wordpress/124861/hacking/malicious-pypi-python-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered 11 malicious Python packages in the PyPI repository that can steal Discord access tokens, passwords, and conduct attacks. 
+
+
+
+JFrog researchers have discovered 11 malicious Python packages in the Python Package Index (PyPI) repository...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ETW Attacks May Blind Security Products<a href="https://cyware.com/news/new-etw-attacks-may-blind-security-products-bc148e09"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Binarly have disclosed two Event Tracing for Windows (ETW) bypass techniques and demonstrated their effectiveness against Windows Defender and Process Monitor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers were able to access the payment portal of the Conti gang<a href="https://securityaffairs.co/wordpress/124837/cyber-crime/payment-portal-conti-gang-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware group has suffered a data breach that exposed its attack infrastructure and allowed researcher to access it.
+
+
+
+Researchers at security firm Prodaft were able to identify the real IP address of one of the servers used by the Conti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 and Cybercrime - Europol Threat Assessment<a href="https://cyware.com/news/covid-19-and-cybercrime-europol-threat-assessment-30f11cd2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The conditions brought forth by the global pandemic have set a rapid pace of transformation in the cyberworld. With accelerated digitalization, came the threat of heightened cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers compromise Microsoft Exchange servers to hijack internal email chains<a href="https://securityaffairs.co/wordpress/124838/hacking/microsoft-exchange-servers-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign aimed at Microsoft Exchange servers exploits ProxyShell and ProxyLogon issues and uses stolen internal reply-chain emails. 
+
+
+
+A malware campaign aimed at Microsoft Exchange servers exploits ProxyShell and ProxyLogon issues and uses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Research Links Ghostwriter Disinformation Campaign to Belarus<a href="https://cyware.com/news/latest-research-links-ghostwriter-disinformation-campaign-to-belarus-1c5732a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Mandiant Threat Intelligence have claimed with high confidence that the Ghostwriter (UNC1151) disinformation campaign is associated with the government of Belarus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vestas hit by cyber security incident, shuts some IT systems<a href="https://www.reuters.com/markets/europe/vestas-hit-by-cyber-security-incident-shuts-some-it-systems-2021-11-20/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vestas has been hit by a cyber security incident and has shut down its IT systems across multiple business units and locations to contain the issue, the world's largest maker of wind turbines said on Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedCurl Corporate Espionage Hackers Return With Updated Hacking Tools<a href="https://thehackernews.com/2021/11/redcurl-corporate-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A corporate cyber-espionage hacker group has resurfaced after a seven-month hiatus with new intrusions targeting four companies this year, including one of the largest wholesale stores in Russia, while simultaneously making tactical improvements to its toolset in an attempt to thwart analysis.  "In every attack, the threat actor demonstrates extensive red teaming skills and the ability to bypass traditional antivirus detection using their own custom malware," Group-IB's Ivan Pisarev  said .   Active since at least November 2018, the Russian-speaking  RedCurl hacking group  has been linked to 30 attacks to date with the goal of corporate cyber espionage and document theft aimed at 14 organizations spanning construction, finance, consulting, retail, insurance, and legal sectors and located in the U.K., Germany, Canada, Norway, Russia, and Ukraine.   The threat actor uses an array of established hacking tools to infiltrate its targets and steal internal corporate documentat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked in internal reply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-in-internal-reply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are hacking Microsoft Exchange servers using ProxyShell and ProxyLogon exploits to distribute malware and bypass detection using stolen internal reply-chain emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Found Behind a Range of Credential Theft Campaigns<a href="https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with ties to North Korea has been linked to a prolific wave of credential theft campaigns targeting research, education, government, media and other organizations, with two of the attacks also attempting to distribute malware that could be used for intelligence gathering.  Enterprise security firm Proofpoint  attributed  the infiltrations to a group it tracks as  TA406 , and by the wider threat intelligence community under the monikers  Kimsuky  ( Kaspersky ), Velvet Chollima ( CrowdStrike ), Thallium ( Microsoft ), Black Banshee ( PwC ), ITG16 ( IBM ), and the Konni Group ( Cisco Talos ).  Policy experts, journalists and nongovernmental organizations (NGOs) were targeted as part of weekly campaigns observed between from January through June 2021, Proofpoint researchers Darien Huss and Selena Larson disclosed in a technical report detailing the actor's tactics, techniques, and procedures (TTPs), with the attacks spread across North America, Russia, China, and South
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Office 365 will boost default protection for all users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-office-365-will-boost-default-protection-for-all-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is rolling out Built-In Protection to Defender for Office 365, a new feature that would automatically enable recommended settings and policies to make sure all new and existing users get at least a basic level of protection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 341<a href="https://securityaffairs.co/wordpress/124833/breaking-news/security-affairs-newsletter-round-341.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. banking regulators order banks to notify cybersecurity incidents in 36 hours<a href="https://securityaffairs.co/wordpress/124826/laws-and-regulations/u-s-banking-regulators-rule.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. banking regulators have approved a new rule that orders banks to notify federal regulators of significant cybersecurity incidents within 36 hours.
+
+
+
+U.S. banking regulators this week approved a rule that obliges banks to report any major cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Cybercriminals Abusing Zero-Day in FatPipe VPN<a href="https://cyware.com/news/fbi-warning-cybercriminals-abusing-zero-day-in-fatpipe-vpn-4bcff0d2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flash alert has been issued by the FBI regarding an APT group abusing a zero-day flaw in FatPipe devices and software products. FatPipe, the networking hardware firm, has Fortune 1000 companies as its customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study reveals top 200 most common passwords<a href="https://securityaffairs.co/wordpress/124815/security/top-used-passwords.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The annual study on top-used passwords published by Nordpass revealed that we are still using weak credentials that expose us to serious risks.
+
+
+
+Nordpass has published its annual report, titled "Top 200 most common passwords," on the use of passwords....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Reports Evolution of Iranian Hacking Groups<a href="https://cyware.com/news/microsoft-reports-evolution-of-iranian-hacking-groups-a74e57b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From September 2020, the tech giant has been tracking six Iranian hacking groups (DEV-0146, DEV-0227, DEV-0198, DEV-0500, Rubidium, and Phosphorus) spreading ransomware and stealing data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The newer cybercrime triad: TrickBot-Emotet-Conti<a href="https://securityaffairs.co/wordpress/124807/cyber-crime/trickbot-emotet-conti-triad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced Intelligence researchers argue that the restarting of the  Emotet botnet was driven by Conti ransomware gang. 
+
+
+
+Early this year, law enforcement and judicial authorities worldwide conducted a joint operation, named Operation Ladybird, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Flaws and Exploit-as-a-Service Trending Among Ransomware Groups<a href="https://cyware.com/news/zero-day-flaws-and-exploit-as-a-service-trending-among-ransomware-groups-27991876"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent analysis made by researchers from Digital Shadows indicates that an increasing amount of chatter has been observed on dark web message boards regarding the criminal market for zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sky customers vulnerable to hackers after security flaw on six million routers<a href="https://www.itv.com/news/2021-11-19/sky-customers-vulnerable-to-hackers-after-security-flaw-on-six-million-routers?&web_view=true"> Full Text</a>
@@ -50,7 +399,7 @@ ITV News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Project calls to bring more than 200 obfs4 bridges online by December<a href="https://securityaffairs.co/wordpress/124799/security/tor-project-bridges-decrease.html"> Full Text</a>
@@ -70,7 +419,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals discuss new business model for zero-day exploits<a href="https://www.techtarget.com/searchsecurity/news/252509820/Cybercriminals-discuss-new-business-model-for-zero-day-exploits?&web_view=true"> Full Text</a>
@@ -86,7 +435,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US banks must soon report significant cybersecurity incidents within 36 hours<a href="https://techcrunch.com/2021/11/19/us-banks-report-cybersecurity-incidents/?&web_view=true"> Full Text</a>
@@ -102,7 +451,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Glitch Platform Is Being Used By Hackers to Host Malicious URLs<a href="https://heimdalsecurity.com/blog/glitch-platform-abused-by-phishing-threat-actors/?&web_view=true"> Full Text</a>
@@ -118,7 +467,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2021
+November 20, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hacker Group Intensifies Espionage Campaigns<a href="https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-campaigns?&web_view=true"> Full Text</a>
@@ -134,7 +483,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - November 19th 2021 - Targeting Conti<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-19th-2021-targeting-conti/"> Full Text</a>
@@ -150,7 +499,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than $500M for cybersecurity included in sweeping House-passed package<a href="https://thehill.com//policy/cybersecurity/582414-over-500-million-for-cybersecurity-included-in-house-passed-build-back"> Full Text</a>
@@ -166,7 +515,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 11 Malicious PyPI Python Libraries Caught Stealing Discord Tokens and Installing Shells<a href="https://thehackernews.com/2021/11/11-malicious-pypi-python-libraries.html"> Full Text</a>
@@ -182,7 +531,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet botnet comeback orchestrated by Conti ransomware gang<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-comeback-orchestrated-by-conti-ransomware-gang/"> Full Text</a>
@@ -198,7 +547,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers increasingly anxious about US efforts against Russian hackers<a href="https://thehill.com//policy/cybersecurity/582280-lawmakers-increasingly-anxious-about-us-efforts-against-russian-hackers"> Full Text</a>
@@ -214,7 +563,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charged 2 Iranian Hackers for Threatening Voters During 2020 Presidential Election<a href="https://thehackernews.com/2021/11/us-charged-2-iranians-hackers-for.html"> Full Text</a>
@@ -230,7 +579,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian teenager stole $36 Million in cryptocurrency via SIM Swapping<a href="https://securityaffairs.co/wordpress/124792/cyber-crime/teenage-arrested-cryptocurrency-theft.html"> Full Text</a>
@@ -250,7 +599,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake TSA PreCheck sites scam US travelers with fake renewals<a href="https://www.bleepingcomputer.com/news/security/fake-tsa-precheck-sites-scam-us-travelers-with-fake-renewals/"> Full Text</a>
@@ -266,7 +615,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Issues Flash Alert on Actively Exploited FatPipe VPN Zero-Day Bug<a href="https://thehackernews.com/2021/11/fbi-issues-flash-alert-on-actively.html"> Full Text</a>
@@ -282,7 +631,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California Pizza Kitchen discloses a data breach<a href="https://securityaffairs.co/wordpress/124785/data-breach/california-pizza-kitchen-data-breach.html"> Full Text</a>
@@ -302,7 +651,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Authenticator gets new enterprise security features<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-authenticator-gets-new-enterprise-security-features/"> Full Text</a>
@@ -318,7 +667,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Simple 5-Step Framework to Minimize the Risk of a Data Breach<a href="https://thehackernews.com/2021/11/a-simple-5-step-framework-to-minimize.html"> Full Text</a>
@@ -334,7 +683,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked TA406 cyberespionage group activity in 2021<a href="https://securityaffairs.co/wordpress/124775/apt/north-korea-linked-ta406-2021.html"> Full Text</a>
@@ -354,7 +703,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Utah medical center hit by data breach affecting 582k patients<a href="https://www.bleepingcomputer.com/news/security/utah-medical-center-hit-by-data-breach-affecting-582k-patients/"> Full Text</a>
@@ -370,7 +719,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti ransomware operations made at least $25.5 million since July 2021<a href="https://securityaffairs.co/wordpress/124768/malware/conti-ransomware-25m-since-july-2021.html"> Full Text</a>
@@ -390,7 +739,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six million Sky routers exposed to takeover attacks for 17 months<a href="https://www.bleepingcomputer.com/news/security/six-million-sky-routers-exposed-to-takeover-attacks-for-17-months/"> Full Text</a>
@@ -406,7 +755,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Leverage Fake SS7 Exploits to Boost Their Revenue<a href="https://cyware.com/news/scammers-leverage-fake-ss7-exploits-to-boost-their-revenue-b9591042"> Full Text</a>
@@ -422,7 +771,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android banking Trojan BrazKing is back with significant evasion improvements<a href="https://securityaffairs.co/wordpress/124760/malware/brazking-android-banking-trojan.html"> Full Text</a>
@@ -442,7 +791,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US regulators order banks to report cyberattacks within 36 hours<a href="https://www.bleepingcomputer.com/news/security/us-regulators-order-banks-to-report-cyberattacks-within-36-hours/"> Full Text</a>
@@ -458,7 +807,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher finds SSRF bug in internal Google Cloud project, nabs $10,000 bug bounty<a href="https://portswigger.net/daily-swig/researcher-finds-ssrf-bug-in-internal-google-cloud-project-nabs-10-000-bug-bounty?&web_view=true"> Full Text</a>
@@ -474,7 +823,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CKEditor vulnerabilities pose XSS threat to Drupal and other downstream applications<a href="https://portswigger.net/daily-swig/ckeditor-vulnerabilities-pose-xss-threat-to-drupal-and-other-downstream-applications?&web_view=true"> Full Text</a>
@@ -490,7 +839,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2021
+November 19, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware is now a giant black hole that is sucking in all other forms of cybercrime<a href="https://www.zdnet.com/article/ransomware-is-now-a-giant-black-hole-that-is-sucking-in-all-other-forms-of-cybercrime/?&web_view=true"> Full Text</a>
@@ -506,7 +855,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Phishing Emails Sneak Through SEGs<a href="https://threatpost.com/ransomware-phishing-emails-segs/176470/"> Full Text</a>
@@ -522,7 +871,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Top Tools for Defending Against Phishing Attacks<a href="https://threatpost.com/tools-defending-phishing-attacks/176463/"> Full Text</a>
@@ -538,7 +887,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds participate in electric grid cyberattack simulation amid increasing threats<a href="https://thehill.com//policy/cybersecurity/582246-hundreds-participate-in-electric-grid-cyberattack-simulation-amid"> Full Text</a>
@@ -554,7 +903,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spear-Phishing Campaign Exploits Glitch Platform to Steal Credentials<a href="https://threatpost.com/spear-phishing-exploits-glitch-steal-credentials/176449/"> Full Text</a>
@@ -570,7 +919,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ charges two Iranians with interference in 2020 election<a href="https://thehill.com//policy/cybersecurity/582189-justice-department-indicts-two-iranian-individuals-for-interfering-in"> Full Text</a>
@@ -586,7 +935,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Expose Secrets of Conti Ransomware Group That Made 25 Million from Victims<a href="https://thehackernews.com/2021/11/experts-expose-secrets-of-conti.html"> Full Text</a>
@@ -602,7 +951,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Side Channel Attacks Re-Enable Serious DNS Cache Poisoning Attacks<a href="https://thehackernews.com/2021/11/new-side-channel-attacks-re-enable.html"> Full Text</a>
@@ -618,7 +967,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft addresses a high-severity vulnerability in Azure AD<a href="https://securityaffairs.co/wordpress/124755/security/microsoft-azure-ad-flaw.html"> Full Text</a>
@@ -642,7 +991,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware BrazKing returns as a stealthier banking trojan<a href="https://www.bleepingcomputer.com/news/security/android-malware-brazking-returns-as-a-stealthier-banking-trojan/"> Full Text</a>
@@ -658,7 +1007,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers deploy Linux backdoor on e-stores compromised with software skimmer<a href="https://securityaffairs.co/wordpress/124748/malware/linux-backdoor-e-stores-skimmer.html"> Full Text</a>
@@ -678,7 +1027,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US indicts Iranian hackers for Proud Boys voter intimidation emails<a href="https://www.bleepingcomputer.com/news/security/us-indicts-iranian-hackers-for-proud-boys-voter-intimidation-emails/"> Full Text</a>
@@ -694,7 +1043,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day flaw in FatPipe products actively exploited, FBI warns<a href="https://securityaffairs.co/wordpress/124742/security/zero-day-fatpipe.html"> Full Text</a>
@@ -714,7 +1063,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers deploy Linux malware, web skimmer on e-commerce servers<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-linux-malware-web-skimmer-on-e-commerce-servers/"> Full Text</a>
@@ -730,7 +1079,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iranian state hackers increasingly target IT sector<a href="https://www.bleepingcomputer.com/news/security/microsoft-iranian-state-hackers-increasingly-target-it-sector/"> Full Text</a>
@@ -746,7 +1095,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Memento ransomware switches to WinRar after failing at encryption<a href="https://www.bleepingcomputer.com/news/security/new-memento-ransomware-switches-to-winrar-after-failing-at-encryption/"> Full Text</a>
@@ -762,7 +1111,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Glitch service abused to host short-lived phishing sites<a href="https://www.bleepingcomputer.com/news/security/glitch-service-abused-to-host-short-lived-phishing-sites/"> Full Text</a>
@@ -778,7 +1127,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2021
+November 18, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean cyberspies target govt officials with custom malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-cyberspies-target-govt-officials-with-custom-malware/"> Full Text</a>
