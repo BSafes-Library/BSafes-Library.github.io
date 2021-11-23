@@ -34,6 +34,490 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows zero-day with public exploit lets you become an admin<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has publicly disclosed an exploit for a new Windows zero-day local privilege elevation vulnerability that gives admin privileges in Windows 10, Windows 11, and Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Holiday Scams are Upon Us<a href="https://cyware.com/news/online-holiday-scams-are-upon-us-a0d3568a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are setting up fake online shops that impersonate legitimate ones. The perpetrators ensure that these stores are easy to find while looking for the original ones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy says information on 1.2 million customers exposed in data breach<a href="https://thehill.com//policy/cybersecurity/582676-godaddy-says-information-on-12-million-customer-exposed-in-data-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet domain host GoDaddy on Monday disclosed a recent data breach that the company said impacted the customer data of around 1.2 million individuals.  
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based Linux Malware Targeting eCommerce Websites<a href="https://thehackernews.com/2021/11/new-golang-based-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weaknesses in e-commerce portals are being exploited to deploy a Linux backdoor as well as a credit card skimmer that's capable of stealing payment information from compromised websites.  "The attacker started with automated e-commerce attack probes, testing for dozens of weaknesses in common online store platforms," researchers from Sansec Threat Research  said  in an analysis. "After a day and a half, the attacker found a file upload vulnerability in one of the store's plugins." The name of the affected vendor was not revealed.   The initial foothold was then leveraged to upload a malicious web shell and alter the server code to siphon customer data. Additionally, the attacker delivered a Golang-based malware called " linux_avp " that serves as a backdoor to execute commands remotely sent from a command-and-control server hosted in Beijing.   Upon execution, the program is designed to remove itself from the disk and camouflage as a " ps -ef
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Doubles Down on Countering Foreign Interference Ahead of Key Elections<a href="https://www.lawfareblog.com/france-doubles-down-countering-foreign-interference-ahead-key-elections-0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following an increase in foreign interference and hostile information operations—both at home and abroad—the French government is preparing to fight back.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoDaddy data breach impacted 1.2 million customers<a href="https://securityaffairs.co/wordpress/124894/data-breach/godaddy-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy suffered a data breach that impacted up to 1.2 million of its managed WordPress customer accounts.    
+
+
+
+GoDaddy discloses a data breach that impacted up to 1.2 million of its customers, threat actors breached the company's Managed WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for Microsoft Exchange RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-microsoft-exchange-rce-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been released online over the weekend for an actively exploited high severity vulnerability impacting Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Customer Complaint Email Scam<a href="https://cyware.com/news/beware-of-customer-complaint-email-scam-d933cb5c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos found that fake corporate complaints are surging and using targeted attacks to deploy malware. The emails come in the form of complaints from your boss or colleagues and use fear-inducing verbiage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities warn organizations to be on guard against hackers during Thanksgiving holiday<a href="https://thehill.com//policy/cybersecurity/582656-authorities-warn-organizations-to-be-on-guard-against-hackers-during"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the Cybersecurity and Infrastructure Security Agency (CISA) on Monday warned organizations to be on guard against cyberthreats, particularly ransomware attacks, over the Thanksgiving holiday. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting ProxyLogon and ProxyShell Flaws in Spam Campaigns<a href="https://thehackernews.com/2021/11/hackers-exploiting-proxylogon-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting ProxyLogon and ProxyShell exploits in unpatched Microsoft Exchange Servers as part of an ongoing spam campaign that leverages stolen email chains to bypass security software and deploy malware on vulnerable systems.  The findings come from Trend Micro following an investigation into a number of intrusions in the Middle East that culminated in the distribution of a never-before-seen loader dubbed SQUIRRELWAFFLE. First publicly  documented  by Cisco Talos, the attacks are believed to have commenced in mid-September 2021 via laced Microsoft Office documents.  "It is known for sending its malicious emails as replies to pre-existing email chains, a tactic that lowers a victim's guard against malicious activities," researchers Mohamed Fahmy, Sherif Magdy, Abdelrhman Sharshar  said  in a report published last week. "To be able to pull this off, we believe it involved the use of a chain of both ProxyLogon and ProxyShell exploits."   ProxyLo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah Imaging Associates data breach impacts 583,643 patients<a href="https://securityaffairs.co/wordpress/124886/data-breach/utah-imaging-associates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Utah-based radiology medical center Utah Imaging Associates discloses a data breach that impacted 583,643 former and current patients.
+
+
+
+Utah Imaging Associates (UIA) discloses a security breach, on September 4, 2021 the company claims to have detected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt warns thousands of SMBs their online stores were hacked<a href="https://www.bleepingcomputer.com/news/security/uk-govt-warns-thousands-of-smbs-their-online-stores-were-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) says it warned the owners of more than 4,000 online stores that their sites were compromised in Magecart attacks to steal the payment info of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers used this software flaw to steal credit card details from thousands of online retailers<a href="https://www.zdnet.com/article/hackers-targeted-thousands-of-online-retailers-to-steal-credit-card-details/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 4,000 online retailers have been warned that their websites had been hacked by cybercriminals trying to steal payment information and other personal information from customers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biomanufacturing companies getting hit by hackers potentially linked to Russia<a href="https://thehill.com//policy/cybersecurity/582648-biomanufacturing-companies-getting-hit-by-hackers-potentially-linked-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large biomanufacturing companies, including those that produce medications and vaccines tied to the COVID-19 pandemic, are being targeted by hackers potentially tied to Russia, researchers disclosed Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s Mahan Air claims it has failed a cyber attack, hackers say the opposite<a href="https://securityaffairs.co/wordpress/124880/hacking/mahan-air-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian airline Mahan Air was hit by a cyberattack on Sunday morning, the “Hooshyarane Vatan” hacker group claimed responsibility for the attack.
+
+
+
+Iranian private airline Mahan Air has foiled a cyber attack over the weekend, Iranian state media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns of increased ransomware risks during holidays<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-increased-ransomware-risks-during-holidays/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the FBI warned critical infrastructure partners and public/private sector organizations not to let down their defenses against ransomware attacks during the holiday season.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s Biggest Private Airline Faces Cyberattack Targeting its Internal Systems<a href="https://www.securityweek.com/irans-mahan-air-says-hit-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mahan Air is Iran's main private airline and the second biggest after the national carrier Iran Air. It has been on the blacklist of Iranian companies targeted by US sanctions since 2011.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Memento ransomware uses password-protected WinRAR archives to block access to the files<a href="https://securityaffairs.co/wordpress/124873/cyber-crime/memento-ransomware-winrar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Memento ransomware group locks files inside WinRAR password-protected archives after having observed that its encryption process is blocked by security firms.
+
+
+
+In October, Sophos researchers have spotted the Memento ransomware that adopts a curious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit Iran's Mahan airline, claim confidential data theft<a href="https://www.bleepingcomputer.com/news/security/hackers-hit-irans-mahan-airline-claim-confidential-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of Iran's largest privately-owned airlines, Mahan Air, has announced a cybersecurity incident that has resulted in its website going offline and potentially data loss.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah Imaging Associates Discloses Data Breach Impacting Over 580,000 Patients<a href="https://www.securityweek.com/utah-medical-group-discloses-data-breach-affecting-over-580000-patients?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Farmington, Utah-based radiology medical center Utah Imaging Associates has started informing former and current patients that their information might have been compromised in a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC warns investors of ongoing fraudulent communications claiming from the SEC<a href="https://securityaffairs.co/wordpress/124868/cyber-crime/sec-fraudulent-impersonator-schemes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Commission (SEC) warns investors of attacks impersonating its officials in government impersonator schemes. 
+
+
+
+The Securities and Exchange Commission (SEC) is warning investors of scammers impersonating SEC officials in fraudulent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biometric auth bypassed using fingerprint photo, printer, and glue<a href="https://www.bleepingcomputer.com/news/security/biometric-auth-bypassed-using-fingerprint-photo-printer-and-glue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated that fingerprints could be cloned for biometric authentication for as little as $5 without using any sophisticated or uncommon tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tel Aviv-based cybersecurity firm Shield IoT raises $7.4M funding in Series A<a href="https://www.uktech.news/news/shield-iot-raises-5-5m-20211122?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by NextLeap Ventures and Bloc Ventures, with the participation from Atlas Ventures, Akamai Technologies, Springtide Ventures, DIVEdigital, and Janvest Capital Partners.
+</details>
+<div style="text-align: right" markdown="1">
+UKTN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy hack causes data breach affecting 1.2 million customers<a href="https://www.bleepingcomputer.com/news/security/godaddy-hack-causes-data-breach-affecting-12-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy said in a data breach notification published today that the data of up to 1.2 million of its customers was exposed after hackers gained access to the company's Managed WordPress hosting environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of API visibility undermines basic principle of security<a href="https://www.helpnetsecurity.com/2021/11/19/lack-of-api-visibility/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new visibility challenge, with many core business processes dependent on APIs, requires that companies need to know what APIs they expose externally and internally and how they should behave.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wind turbine giant Vestas' data compromised in cyberattack<a href="https://www.bleepingcomputer.com/news/security/wind-turbine-giant-vestas-data-compromised-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vestas Wind Systems, a leader in wind turbine manufacturing, has shut down its IT systems after suffering a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web trust dies in darkness: Hidden Certificate Authorities undermine public crypto infrastructure<a href="https://www.theregister.com/2021/11/19/web_trust_certificates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have checked the web's public key infrastructure and have measured a long-known but little-analyzed security threat: hidden root Certificate Authorities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethical hackers and the economics of security research<a href="https://www.helpnetsecurity.com/2021/11/22/ethical-hackers-security-research/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings from a Bugcrowd report indicate a startling shift in the threat landscape with 8 out of 10 ethical hackers recently having identified a vulnerability they had never seen before.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Postpones Plans for E2E Encryption in Messenger, Instagram Until 2023<a href="https://thehackernews.com/2021/11/facebook-postpones-plans-for-e2e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta, the parent company of Facebook, Instagram, and WhatsApp, disclosed that it doesn't intend to roll out default end-to-end encryption (E2EE) across all its messaging services until 2023, pushing its original plans by at least a year.  "We're taking our time to get this right and we don't plan to finish the global rollout of end-to-end encryption by default across all our messaging services until sometime in 2023," Meta's head of safety, Antigone Davis,  said  in a post published in The Telegraph over the weekend.  The new scheme, described as a "three-pronged approach," aims to employ a mix of non-encrypted data across its apps as well as account information and reports from users to improve safety and combat abuse, noting that the goal is to deter illegal behavior from happening in the first place, giving users more control, and actively encouraging users to flag harmful messages. Meta had previously  outlined  plans to be "fully end-to-en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 21, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
