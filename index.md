@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows zero-day with public exploit lets you become an admin<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Holiday Scams are Upon Us<a href="https://cyware.com/news/online-holiday-scams-are-upon-us-a0d3568a"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy says information on 1.2 million customers exposed in data breach<a href="https://thehill.com//policy/cybersecurity/582676-godaddy-says-information-on-12-million-customer-exposed-in-data-breach"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang-based Linux Malware Targeting eCommerce Websites<a href="https://thehackernews.com/2021/11/new-golang-based-linux-malware.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France Doubles Down on Countering Foreign Interference Ahead of Key Elections<a href="https://www.lawfareblog.com/france-doubles-down-countering-foreign-interference-ahead-key-elections-0"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GoDaddy data breach impacted 1.2 million customers<a href="https://securityaffairs.co/wordpress/124894/data-breach/godaddy-data-breach.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for Microsoft Exchange RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-microsoft-exchange-rce-bug-patch-now/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Customer Complaint Email Scam<a href="https://cyware.com/news/beware-of-customer-complaint-email-scam-d933cb5c"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities warn organizations to be on guard against hackers during Thanksgiving holiday<a href="https://thehill.com//policy/cybersecurity/582656-authorities-warn-organizations-to-be-on-guard-against-hackers-during"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting ProxyLogon and ProxyShell Flaws in Spam Campaigns<a href="https://thehackernews.com/2021/11/hackers-exploiting-proxylogon-and.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Utah Imaging Associates data breach impacts 583,643 patients<a href="https://securityaffairs.co/wordpress/124886/data-breach/utah-imaging-associates-data-breach.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt warns thousands of SMBs their online stores were hacked<a href="https://www.bleepingcomputer.com/news/security/uk-govt-warns-thousands-of-smbs-their-online-stores-were-hacked/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers used this software flaw to steal credit card details from thousands of online retailers<a href="https://www.zdnet.com/article/hackers-targeted-thousands-of-online-retailers-to-steal-credit-card-details/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biomanufacturing companies getting hit by hackers potentially linked to Russia<a href="https://thehill.com//policy/cybersecurity/582648-biomanufacturing-companies-getting-hit-by-hackers-potentially-linked-to"> Full Text</a>
@@ -266,7 +266,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran’s Mahan Air claims it has failed a cyber attack, hackers say the opposite<a href="https://securityaffairs.co/wordpress/124880/hacking/mahan-air-cyberattack.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns of increased ransomware risks during holidays<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-increased-ransomware-risks-during-holidays/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran’s Biggest Private Airline Faces Cyberattack Targeting its Internal Systems<a href="https://www.securityweek.com/irans-mahan-air-says-hit-cyberattack?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Memento ransomware uses password-protected WinRAR archives to block access to the files<a href="https://securityaffairs.co/wordpress/124873/cyber-crime/memento-ransomware-winrar.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit Iran's Mahan airline, claim confidential data theft<a href="https://www.bleepingcomputer.com/news/security/hackers-hit-irans-mahan-airline-claim-confidential-data-theft/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Utah Imaging Associates Discloses Data Breach Impacting Over 580,000 Patients<a href="https://www.securityweek.com/utah-medical-group-discloses-data-breach-affecting-over-580000-patients?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US SEC warns investors of ongoing fraudulent communications claiming from the SEC<a href="https://securityaffairs.co/wordpress/124868/cyber-crime/sec-fraudulent-impersonator-schemes.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biometric auth bypassed using fingerprint photo, printer, and glue<a href="https://www.bleepingcomputer.com/news/security/biometric-auth-bypassed-using-fingerprint-photo-printer-and-glue/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tel Aviv-based cybersecurity firm Shield IoT raises $7.4M funding in Series A<a href="https://www.uktech.news/news/shield-iot-raises-5-5m-20211122?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ UKTN
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy hack causes data breach affecting 1.2 million customers<a href="https://www.bleepingcomputer.com/news/security/godaddy-hack-causes-data-breach-affecting-12-million-customers/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lack of API visibility undermines basic principle of security<a href="https://www.helpnetsecurity.com/2021/11/19/lack-of-api-visibility/?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wind turbine giant Vestas' data compromised in cyberattack<a href="https://www.bleepingcomputer.com/news/security/wind-turbine-giant-vestas-data-compromised-in-cyberattack/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web trust dies in darkness: Hidden Certificate Authorities undermine public crypto infrastructure<a href="https://www.theregister.com/2021/11/19/web_trust_certificates/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2021
+November 22, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ethical hackers and the economics of security research<a href="https://www.helpnetsecurity.com/2021/11/22/ethical-hackers-security-research/?&web_view=true"> Full Text</a>
@@ -502,7 +502,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2021
+November 21, 2021 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Postpones Plans for E2E Encryption in Messenger, Instagram Until 2023<a href="https://thehackernews.com/2021/11/facebook-postpones-plans-for-e2e.html"> Full Text</a>

@@ -11,6 +11,48 @@ nav_order: 900080
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+RedCurl Corporate Espionage Hackers Return With Updated Hacking Tools<a href="https://thehackernews.com/2021/11/redcurl-corporate-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A corporate cyber-espionage hacker group has resurfaced after a seven-month hiatus with new intrusions targeting four companies this year, including one of the largest wholesale stores in Russia, while simultaneously making tactical improvements to its toolset in an attempt to thwart analysis.  "In every attack, the threat actor demonstrates extensive red teaming skills and the ability to bypass traditional antivirus detection using their own custom malware," Group-IB's Ivan Pisarev&nbsp; said .   Active since at least November 2018, the Russian-speaking&nbsp; RedCurl hacking group &nbsp;has been linked to 30 attacks to date with the goal of corporate cyber espionage and document theft aimed at 14 organizations spanning construction, finance, consulting, retail, insurance, and legal sectors and located in the U.K., Germany, Canada, Norway, Russia, and Ukraine.   The threat actor uses an array of established hacking tools to infiltrate its targets and steal internal corporate documentat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Found Behind a Range of Credential Theft Campaigns<a href="https://thehackernews.com/2021/11/north-korean-hackers-found-behind-range.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with ties to North Korea has been linked to a prolific wave of credential theft campaigns targeting research, education, government, media and other organizations, with two of the attacks also attempting to distribute malware that could be used for intelligence gathering.  Enterprise security firm Proofpoint&nbsp; attributed &nbsp;the infiltrations to a group it tracks as&nbsp; TA406 , and by the wider threat intelligence community under the monikers&nbsp; Kimsuky &nbsp;( Kaspersky ), Velvet Chollima ( CrowdStrike ), Thallium ( Microsoft ), Black Banshee ( PwC ), ITG16 ( IBM ), and the Konni Group ( Cisco Talos ).  Policy experts, journalists and nongovernmental organizations (NGOs) were targeted as part of weekly campaigns observed between from January through June 2021, Proofpoint researchers Darien Huss and Selena Larson disclosed in a technical report detailing the actor's tactics, techniques, and procedures (TTPs), with the attacks spread across North America, Russia, China, and South
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Reports Evolution of Iranian Hacking Groups<a href="https://cyware.com/news/microsoft-reports-evolution-of-iranian-hacking-groups-a74e57b5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From September 2020, the tech giant has been tracking six Iranian hacking groups (DEV-0146, DEV-0227, DEV-0198, DEV-0500, Rubidium, and Phosphorus) spreading ransomware and stealing data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Glitch Platform Is Being Used By Hackers to Host Malicious URLs<a href="https://heimdalsecurity.com/blog/glitch-platform-abused-by-phishing-threat-actors/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

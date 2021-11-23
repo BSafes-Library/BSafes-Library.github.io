@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Holiday Scams are Upon Us<a href="https://cyware.com/news/online-holiday-scams-are-upon-us-a0d3568a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are setting up fake online shops that impersonate legitimate ones. The perpetrators ensure that these stores are easy to find while looking for the original ones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Customer Complaint Email Scam<a href="https://cyware.com/news/beware-of-customer-complaint-email-scam-d933cb5c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos found that fake corporate complaints are surging and using targeted attacks to deploy malware. The emails come in the form of complaints from your boss or colleagues and use fear-inducing verbiage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

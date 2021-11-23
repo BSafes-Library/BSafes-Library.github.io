@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting ProxyLogon and ProxyShell Flaws in Spam Campaigns<a href="https://thehackernews.com/2021/11/hackers-exploiting-proxylogon-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting ProxyLogon and ProxyShell exploits in unpatched Microsoft Exchange Servers as part of an ongoing spam campaign that leverages stolen email chains to bypass security software and deploy malware on vulnerable systems.  The findings come from Trend Micro following an investigation into a number of intrusions in the Middle East that culminated in the distribution of a never-before-seen loader dubbed SQUIRRELWAFFLE. First publicly&nbsp; documented &nbsp;by Cisco Talos, the attacks are believed to have commenced in mid-September 2021 via laced Microsoft Office documents.  "It is known for sending its malicious emails as replies to pre-existing email chains, a tactic that lowers a victim's guard against malicious activities," researchers Mohamed Fahmy, Sherif Magdy, Abdelrhman Sharshar&nbsp; said &nbsp;in a report published last week. "To be able to pull this off, we believe it involved the use of a chain of both ProxyLogon and ProxyShell exploits."   ProxyLo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethical hackers and the economics of security research<a href="https://www.helpnetsecurity.com/2021/11/22/ethical-hackers-security-research/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings from a Bugcrowd report indicate a startling shift in the threat landscape with 8 out of 10 ethical hackers recently having identified a vulnerability they had never seen before.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

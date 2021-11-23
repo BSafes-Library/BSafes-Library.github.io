@@ -8,6 +8,98 @@ nav_order: 900029
 
 ## Breach
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy says information on 1.2 million customers exposed in data breach<a href="https://thehill.com//policy/cybersecurity/582676-godaddy-says-information-on-12-million-customer-exposed-in-data-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet domain host GoDaddy on Monday disclosed a recent data breach that the company said impacted the customer data of around 1.2 million individuals.&nbsp;&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoDaddy data breach impacted 1.2 million customers<a href="https://securityaffairs.co/wordpress/124894/data-breach/godaddy-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy suffered a data breach that impacted up to 1.2 million of its managed WordPress customer accounts.    
+
+
+
+GoDaddy discloses a data breach that impacted up to 1.2 million of its customers, threat actors breached the company's Managed WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah Imaging Associates data breach impacts 583,643 patients<a href="https://securityaffairs.co/wordpress/124886/data-breach/utah-imaging-associates-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Utah-based radiology medical center Utah Imaging Associates discloses a data breach that impacted 583,643 former and current patients.
+
+
+
+Utah Imaging Associates (UIA) discloses a security breach, on September 4, 2021 the company claims to have detected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Utah Imaging Associates Discloses Data Breach Impacting Over 580,000 Patients<a href="https://www.securityweek.com/utah-medical-group-discloses-data-breach-affecting-over-580000-patients?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Farmington, Utah-based radiology medical center Utah Imaging Associates has started informing former and current patients that their information might have been compromised in a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy hack causes data breach affecting 1.2 million customers<a href="https://www.bleepingcomputer.com/news/security/godaddy-hack-causes-data-breach-affecting-12-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy&nbsp;said in a&nbsp;data breach notification published today that the data of up to 1.2 million of its customers was exposed after hackers gained access to the company's&nbsp;Managed WordPress hosting environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wind turbine giant Vestas' data compromised in cyberattack<a href="https://www.bleepingcomputer.com/news/security/wind-turbine-giant-vestas-data-compromised-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vestas Wind Systems, a leader in wind turbine manufacturing, has shut down its IT systems after suffering a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

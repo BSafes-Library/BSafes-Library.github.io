@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Research Links Ghostwriter Disinformation Campaign to Belarus<a href="https://cyware.com/news/latest-research-links-ghostwriter-disinformation-campaign-to-belarus-1c5732a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Mandiant Threat Intelligence have claimed with high confidence that the Ghostwriter (UNC1151) disinformation campaign is associated with the government of Belarus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

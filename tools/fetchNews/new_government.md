@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Doubles Down on Countering Foreign Interference Ahead of Key Elections<a href="https://www.lawfareblog.com/france-doubles-down-countering-foreign-interference-ahead-key-elections-0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following an increase in foreign interference and hostile information operations—both at home and abroad—the French government is preparing to fight back.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities warn organizations to be on guard against hackers during Thanksgiving holiday<a href="https://thehill.com//policy/cybersecurity/582656-authorities-warn-organizations-to-be-on-guard-against-hackers-during"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the Cybersecurity and Infrastructure Security Agency (CISA) on Monday warned organizations to be on guard against cyberthreats, particularly ransomware attacks, over the Thanksgiving holiday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt warns thousands of SMBs their online stores were hacked<a href="https://www.bleepingcomputer.com/news/security/uk-govt-warns-thousands-of-smbs-their-online-stores-were-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Cyber Security Centre (NCSC) says it warned the owners of more than 4,000 online stores that their sites were compromised in Magecart attacks to steal the payment info of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns of increased ransomware risks during holidays<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-increased-ransomware-risks-during-holidays/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the FBI warned&nbsp;critical infrastructure partners and public/private sector organizations not to let down their defenses against ransomware attacks during the holiday season.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC warns investors of ongoing fraudulent communications claiming from the SEC<a href="https://securityaffairs.co/wordpress/124868/cyber-crime/sec-fraudulent-impersonator-schemes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Commission (SEC) warns investors of attacks impersonating its officials in government impersonator schemes. 
+
+
+
+The Securities and Exchange Commission (SEC) is warning investors of scammers impersonating SEC officials in fraudulent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

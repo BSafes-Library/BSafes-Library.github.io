@@ -11,6 +11,42 @@ nav_order: 900072
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 341<a href="https://securityaffairs.co/wordpress/124833/breaking-news/security-affairs-newsletter-round-341.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study reveals top 200 most common passwords<a href="https://securityaffairs.co/wordpress/124815/security/top-used-passwords.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The annual study on top-used passwords published by Nordpass revealed that we are still using weak credentials that expose us to serious risks.
+
+
+
+Nordpass has published its annual report, titled "Top 200 most common passwords," on the use of passwords....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US banks must soon report significant cybersecurity incidents within 36 hours<a href="https://techcrunch.com/2021/11/19/us-banks-report-cybersecurity-incidents/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

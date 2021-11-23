@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web trust dies in darkness: Hidden Certificate Authorities undermine public crypto infrastructure<a href="https://www.theregister.com/2021/11/19/web_trust_certificates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have checked the web's public key infrastructure and have measured a long-known but little-analyzed security threat: hidden root Certificate Authorities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

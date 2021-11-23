@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blacksmith Attack Bypasses Existing DDR4 Memory Defenses<a href="https://cyware.com/news/blacksmith-attack-bypasses-existing-ddr4-memory-defenses-0e4e4ccb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from ComSec group have demonstrated that it is possible to trigger the Rowhammer exploit and target the associated DRAMs used in commercially available devices.  Blacksmith (tracked as   CVE-2021-42114  ) is a fuzzing-based technique, and unlike previous DRAM exploits, it works well for ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ETW Attacks May Blind Security Products<a href="https://cyware.com/news/new-etw-attacks-may-blind-security-products-bc148e09"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Binarly have disclosed two Event Tracing for Windows (ETW) bypass techniques and demonstrated their effectiveness against Windows Defender and Process Monitor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day Flaws and Exploit-as-a-Service Trending Among Ransomware Groups<a href="https://cyware.com/news/zero-day-flaws-and-exploit-as-a-service-trending-among-ransomware-groups-27991876"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent analysis made by researchers from Digital Shadows indicates that an increasing amount of chatter has been observed on dark web message boards regarding the criminal market for zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

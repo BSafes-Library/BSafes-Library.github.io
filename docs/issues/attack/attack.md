@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biomanufacturing companies getting hit by hackers potentially linked to Russia<a href="https://thehill.com//policy/cybersecurity/582648-biomanufacturing-companies-getting-hit-by-hackers-potentially-linked-to"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large biomanufacturing companies, including those that produce medications and vaccines tied to the COVID-19 pandemic, are being targeted by hackers potentially tied to Russia, researchers disclosed Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s Mahan Air claims it has failed a cyber attack, hackers say the opposite<a href="https://securityaffairs.co/wordpress/124880/hacking/mahan-air-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian airline Mahan Air was hit by a cyberattack on Sunday morning, the “Hooshyarane Vatan” hacker group claimed responsibility for the attack.
+
+
+
+Iranian private airline Mahan Air has foiled a cyber attack over the weekend, Iranian state media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s Biggest Private Airline Faces Cyberattack Targeting its Internal Systems<a href="https://www.securityweek.com/irans-mahan-air-says-hit-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mahan Air is Iran's main private airline and the second biggest after the national carrier Iran Air. It has been on the blacklist of Iranian companies targeted by US sanctions since 2011.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit Iran's Mahan airline, claim confidential data theft<a href="https://www.bleepingcomputer.com/news/security/hackers-hit-irans-mahan-airline-claim-confidential-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of Iran's largest privately-owned airlines, Mahan Air, has announced a cybersecurity incident that has resulted in its website going offline and potentially data loss.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

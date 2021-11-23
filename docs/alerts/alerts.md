@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021 - CISA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reminder for Critical Infrastructure to Stay Vigilant Against Threats During Holidays and Weekends <a href="https://us-cert.cisa.gov/ncas/current-activity/2021/11/22/reminder-critical-infrastructure-stay-vigilant-against-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Americans prepare to hit the highways and airports this Thanksgiving holiday, CISA and the Federal Bureau of Investigation (FBI) are reminding critical infrastructure partners that malicious cyber actors aren’t making the same holiday plans as you. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 19, 2021 - SEC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
