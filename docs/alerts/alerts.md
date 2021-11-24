@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Likely Developing and Selling Scamming Tools to Harvest Credentials of Brand-Name Consumers <a href="https://www.ic3.gov/Media/Y2021/PSA211123"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) is releasing this PSA to inform the public of recent spear phishing email campaigns targeting consumers of brand-name companies, also known as brand-phishing, through their online User IDs and associated email accounts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 22, 2021 - CISA, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

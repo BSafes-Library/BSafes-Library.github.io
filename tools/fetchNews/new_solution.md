@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge adds Super Duper Secure Mode to Stable channel<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-adds-super-duper-secure-mode-to-stable-channel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has quietly&nbsp;added a&nbsp;'Super Duper Secure Mode' to the Microsoft Edge web browser,&nbsp;a new feature&nbsp;that brings security improvements without significant performance losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

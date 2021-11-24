@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+November 21, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Postpones Plans for E2E Encryption in Messenger, Instagram Until 2023<a href="https://thehackernews.com/2021/11/facebook-postpones-plans-for-e2e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta, the parent company of Facebook, Instagram, and WhatsApp, disclosed that it doesn't intend to roll out default end-to-end encryption (E2EE) across all its messaging services until 2023, pushing its original plans by at least a year.  "We're taking our time to get this right and we don't plan to finish the global rollout of end-to-end encryption by default across all our messaging services until sometime in 2023," Meta's head of safety, Antigone Davis,&nbsp; said &nbsp;in a post published in The Telegraph over the weekend.  The new scheme, described as a "three-pronged approach," aims to employ a mix of non-encrypted data across its apps as well as account information and reports from users to improve safety and combat abuse, noting that the goal is to deter illegal behavior from happening in the first place, giving users more control, and actively encouraging users to flag harmful messages. Meta had previously&nbsp; outlined &nbsp;plans to be "fully end-to-en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

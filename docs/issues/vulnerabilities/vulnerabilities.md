@@ -8,6 +8,145 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Privilege Escalation Bugs Reported in Oracle VirtualBox<a href="https://thehackernews.com/2021/11/researchers-detail-privilege-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched vulnerability affecting Oracle VM VirtualBox could be potentially exploited by an adversary to compromise the hypervisor and cause a denial-of-service (DoS) condition.  "Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox," the advisory&nbsp; reads . "Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DoS) of Oracle VM VirtualBox"  Tracked as&nbsp; CVE-2021-2442 &nbsp;(CVSS score: 6.0), the flaw affects all versions of the product prior to 6.1.24. SentinelLabs  researcher Max Van Amerongen has been credited with discovering and reporting the issue, following which&nbsp; fixes have been rolled out &nbsp;by Oracle as part of its Critical Patch Update for July 2021.   Oracle VM&nbsp; VirtualBox &nbsp;is an open-source and cross-platform hypervisor and desktop virtualization software that enabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Common Cloud Misconfigurations Exploited in Minutes, Report<a href="https://threatpost.com/cloud-misconfigurations-exploited-in-minutes/176539/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opportunistic attackers instantly exploited insecurely exposed services deployed in honeypots by Unit 42 researchers, demonstrating the immediate danger of these typical mistakes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of RCE flaw in Imunify360 security platform<a href="https://securityaffairs.co/wordpress/124922/security/imunify360-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in CloudLinux’s Imunify360 security product could have been exploited by an attacker for remote code execution. 
+
+
+
+Cisco’s Talos researchers discovered a remote code execution vulnerability, tracked as CVE-2021-21956, in CloudLinux’s Imunify360...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Server Flaws Once Again Under Heavy Targeting<a href="https://cyware.com/news/exchange-server-flaws-once-again-under-heavy-targeting-088c8012"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are targeting unpatched Exchange servers for vulnerabilities such as ProxyLogon and ProxyShell to breach corporate email servers and drop multiple malware.  In one of the attacks, the researchers have seen the distribution of SquirrelWaffle loader, which then installs Qbot.&nbsp;O rganiza ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit code for Microsoft Exchange CVE-2021-42321 RCE bug<a href="https://securityaffairs.co/wordpress/124917/hacking/microsoft-exchange-cve-2021-42321-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has released a proof-of-concept exploit code for an actively exploited vulnerability affecting Microsoft Exchange servers. 
+
+
+
+The researcher&nbsp;Janggggg has published on Sunday a proof-of-concept exploit code for an actively exploited vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert disclosed an exploit for a new Windows zero-day local privilege elevation issue<a href="https://securityaffairs.co/wordpress/124909/hacking/windows-zero-day-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher publicly disclosed an exploit for a new Windows zero-day local privilege elevation that can allow gaining admin privileges.
+
+
+
+A security researcher has publicly disclosed an exploit for a new Windows zero-day local privilege elevation vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of severe risks from ‘Printjack’ printer attacks<a href="https://www.bleepingcomputer.com/news/security/researchers-warn-of-severe-risks-from-printjack-printer-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of Italian researchers has compiled a set of three attacks called 'Printjack,' warning users of the significant consequences of over-trusting their printer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Code Execution Vulnerabilities Affect OpenVPN-Based Applications<a href="https://www.securityweek.com/severe-code-execution-vulnerabilities-affect-openvpn-based-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Claroty have raised the alarm for a series of severe code execution vulnerabilities affecting virtual private network (VPN) solutions relying on OpenVPN.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips Working on Patches for Vulnerabilities Found in Medical Products<a href="https://www.securityweek.com/philips-working-patches-vulnerabilities-found-medical-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified by researchers at industrial cybersecurity firm Nozomi Networks in Philips IntelliBridge, Patient Information Center iX (PIC iX), and Efficia CM series products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

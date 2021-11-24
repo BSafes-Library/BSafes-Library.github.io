@@ -8,6 +8,76 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows zero-day with public exploit lets you become an admin<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has publicly disclosed an exploit for a new Windows zero-day local privilege elevation vulnerability that gives admin privileges in Windows 10, Windows 11, and Windows Server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for Microsoft Exchange RCE bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-microsoft-exchange-rce-bug-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been released online over the weekend for an actively exploited high severity vulnerability impacting Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers used this software flaw to steal credit card details from thousands of online retailers<a href="https://www.zdnet.com/article/hackers-targeted-thousands-of-online-retailers-to-steal-credit-card-details/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 4,000 online retailers have been warned that their websites had been hacked by cybercriminals trying to steal payment information and other personal information from customers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biometric auth bypassed using fingerprint photo, printer, and glue<a href="https://www.bleepingcomputer.com/news/security/biometric-auth-bypassed-using-fingerprint-photo-printer-and-glue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated that fingerprints could be cloned for biometric authentication for as little as $5 without using any sophisticated or uncommon tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of API visibility undermines basic principle of security<a href="https://www.helpnetsecurity.com/2021/11/19/lack-of-api-visibility/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new visibility challenge, with many core business processes dependent on APIs, requires that companies need to know what APIs they expose externally and internally and how they should behave.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

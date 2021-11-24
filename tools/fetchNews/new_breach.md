@@ -11,6 +11,20 @@ nav_order: 900029
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy Data Breach Exposes Over 1 Million WordPress Customers' Data<a href="https://thehackernews.com/2021/11/godaddy-data-breach-exposes-over-1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web hosting giant GoDaddy on Monday disclosed a data breach that resulted in the unauthorized access of data belonging to a total of 1.2 million active and inactive customers, making it the&nbsp; third &nbsp; security incident &nbsp;to come to light since 2018.  In a filing with the U.S. Securities and Exchange Commission (SEC), the world's largest domain registrar&nbsp; said &nbsp;that a malicious third-party managed to gain access to its&nbsp; Managed WordPress &nbsp;hosting environment on September 6 with the help of a compromised password, using it to obtain sensitive information pertaining to its customers. It's not immediately clear if the compromised password was secured with two-factor authentication.   The Arizona-based company&nbsp; claims &nbsp;over 20 million customers, with more than 82 million domain names registered using its services.   GoDaddy revealed it discovered the break-in on November 17. An investigation into the incident is ongoing and the company said it's "contacting all impacted custo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy says information on 1.2 million customers exposed in data breach<a href="https://thehill.com//policy/cybersecurity/582676-godaddy-says-information-on-12-million-customer-exposed-in-data-breach"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Avengers Movies Can Teach Us About Cybersecurity<a href="https://thehackernews.com/2021/11/what-avengers-movies-can-teach-us-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marvel has been entertaining us for the last 20 years. We have seen gods, super-soldiers, magicians, and other irradiated heroes fight baddies at galactic scales. The eternal fight of good versus evil. A little bit like in cybersecurity, goods guys fighting cybercriminals. If we choose to go with this fun analogy, is there anything useful we can learn from those movies?  World-ending baddies always come with an army  When we watch the different Avenger movies, the first thing we realize is that big baddies never fight alone. Think Ultron and his bot army, Thanos or Loki with the Chitauri. They all come with large, generic clone proxy armies that heroes must fight before getting to the final boss.  In the same way, serious cyberattacks are planned and delivered by organized and structured groups of cybercriminals such as APT groups with sometimes hundreds of members. In real-life scenarios, attacks are coming from IPs (one or many) that have been stolen, hacked, or bought by the crimin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

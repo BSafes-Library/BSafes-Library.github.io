@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Best Black Friday 2021 Security, IT, VPN, &amp; Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-best-black-friday-2021-security-it-vpn-and-antivirus-deals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Friday is almost here and there are already great deals available for computer security, software, online courses, system admin services, antivirus, and VPN software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

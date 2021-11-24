@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Will Flock to Crypto Wallets, Linux in 2022:  Podcast<a href="https://threatpost.com/attackers-will-flock-to-crypto-wallets-linux-in-2022-podcast/176546/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That’s just the start of what cyberattackers will zero in on as they pick up APT techniques to hurl more destructive ransomware &amp; supply-chain attacks, says Fortinet’s Derek Manky. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babadeda Crypter Targets Cryptocurrency, NFT, and DeFi Communities Through Discord<a href="https://blog.morphisec.com/the-babadeda-crypter-targeting-crypto-nft-defi-communities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The crypter that this campaign uses, dubbed Babadeda (a Russian language placeholder used by the crypter which translates to “Grandma-Grandpa”), is able to bypass signature-based antivirus solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

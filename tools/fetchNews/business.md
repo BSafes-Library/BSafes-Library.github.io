@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 22, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tel Aviv-based cybersecurity firm Shield IoT raises $7.4M funding in Series A<a href="https://www.uktech.news/news/shield-iot-raises-5-5m-20211122?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by NextLeap Ventures and Bloc Ventures, with the participation from Atlas Ventures, Akamai Technologies, Springtide Ventures, DIVEdigital, and Janvest Capital Partners.
+</details>
+<div style="text-align: right" markdown="1">
+UKTN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
