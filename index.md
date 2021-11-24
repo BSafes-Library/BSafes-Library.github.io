@@ -34,6 +34,561 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors find and compromise exposed services in 24 hours<a href="https://www.bleepingcomputer.com/news/security/threat-actors-find-and-compromise-exposed-services-in-24-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers set up 320 honeypots to see how quickly threat actors would target exposed cloud services and report that 80% of them were compromised in under 24 hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarLoader Adds Compromised Installers, ISO Files to Arrival and Delivery Vectors<a href="https://www.trendmicro.com/en_us/research/21/k/bazarloader-adds-compromised-installers-iso-to-arrival-delivery-vectors.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from compromised installers, the attackers use an ISO file with a Windows link (LNK) and dynamic link library (DLL) payload. The Americas were found to be the most targeted region.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Avengers Movies Can Teach Us About Cybersecurity<a href="https://thehackernews.com/2021/11/what-avengers-movies-can-teach-us-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marvel has been entertaining us for the last 20 years. We have seen gods, super-soldiers, magicians, and other irradiated heroes fight baddies at galactic scales. The eternal fight of good versus evil. A little bit like in cybersecurity, goods guys fighting cybercriminals. If we choose to go with this fun analogy, is there anything useful we can learn from those movies?  World-ending baddies always come with an army  When we watch the different Avenger movies, the first thing we realize is that big baddies never fight alone. Think Ultron and his bot army, Thanos or Loki with the Chitauri. They all come with large, generic clone proxy armies that heroes must fight before getting to the final boss.  In the same way, serious cyberattacks are planned and delivered by organized and structured groups of cybercriminals such as APT groups with sometimes hundreds of members. In real-life scenarios, attacks are coming from IPs (one or many) that have been stolen, hacked, or bought by the crimin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.K. as a Responsible Cyber Power: Brilliant Branding or Empty Bluster?<a href="https://www.lawfareblog.com/uk-responsible-cyber-power-brilliant-branding-or-empty-bluster"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March, the U.K. government published its Integrated Review of Security, Defence, Development and Foreign Policy, setting out the U.K.’s position as a “responsible democratic cyber power.” This is unique and useful for a few key reasons.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware are already attempting to exploit new Windows Installer zero-day<a href="https://securityaffairs.co/wordpress/124940/malware/windows-installer-zero-day-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vxers are already attempting to use the proof-of-concept exploit code targeting a new Microsoft Windows Installer zero-day publicly disclosed on Sunday. 
+
+
+
+Malware authors are already attempting to use the proof-of-concept exploit code targeting a new Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Will Flock to Crypto Wallets, Linux in 2022:  Podcast<a href="https://threatpost.com/attackers-will-flock-to-crypto-wallets-linux-in-2022-podcast/176546/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+That’s just the start of what cyberattackers will zero in on as they pick up APT techniques to hurl more destructive ransomware & supply-chain attacks, says Fortinet’s Derek Manky. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware now trying to exploit new Windows Installer zero-day<a href="https://www.bleepingcomputer.com/news/security/malware-now-trying-to-exploit-new-windows-installer-zero-day/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware creators have already started testing a proof-of-concept exploit targeting a new Microsoft Windows Installer zero-day publicly disclosed by security researcher Abdelhamid Naceri over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python Packages Stealing Discord Tokens and More<a href="https://cyware.com/news/python-packages-stealing-discord-tokens-and-more-9e83ba4c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Package managers are now becoming a common target for cybercriminals to exploit to their advantage.  Researchers have discovered 11 malicious Python packages in the PyPI repository sealing Discord access tokens, passwords, and even carry out dependency confusion attacks. Altogether, they were down ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Privilege Escalation Bugs Reported in Oracle VirtualBox<a href="https://thehackernews.com/2021/11/researchers-detail-privilege-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched vulnerability affecting Oracle VM VirtualBox could be potentially exploited by an adversary to compromise the hypervisor and cause a denial-of-service (DoS) condition.  "Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox," the advisory  reads . "Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DoS) of Oracle VM VirtualBox"  Tracked as  CVE-2021-2442  (CVSS score: 6.0), the flaw affects all versions of the product prior to 6.1.24. SentinelLabs  researcher Max Van Amerongen has been credited with discovering and reporting the issue, following which  fixes have been rolled out  by Oracle as part of its Critical Patch Update for July 2021.   Oracle VM  VirtualBox  is an open-source and cross-platform hypervisor and desktop virtualization software that enabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android.Cynos.7.origin trojan infected +9 million Android devices<a href="https://securityaffairs.co/wordpress/124927/malware/android-cynos-7-origin-trojan-infections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted dozens of games on Huawei's AppGallery catalog containing the Android.Cynos.7.origin trojan.
+
+
+
+Researchers from Dr. Web AV discovered 190 games on Huawei's AppGallery catalog (i.e. simulators, platformers, arcades, strategies,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Common Cloud Misconfigurations Exploited in Minutes, Report<a href="https://threatpost.com/cloud-misconfigurations-exploited-in-minutes/176539/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opportunistic attackers instantly exploited insecurely exposed services deployed in honeypots by Unit 42 researchers, demonstrating the immediate danger of these typical mistakes.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Best Black Friday 2021 Security, IT, VPN, & Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-best-black-friday-2021-security-it-vpn-and-antivirus-deals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Friday is almost here and there are already great deals available for computer security, software, online courses, system admin services, antivirus, and VPN software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA406 Accelerates Attacks; Launch Several Campaigns<a href="https://cyware.com/news/ta406-accelerates-attacks-launch-several-campaigns-6bf55f7f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers issued an in-depth report on malicious activities of TA406, an alleged North Korean group. Its attack volume has been rising since the beginning of this year. As the year commenced, its activities were ramped up as journalists, foreign policy experts, and non-governmental orga ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Stealthier Version of BrazKing Android Malware Spotted in the Wild<a href="https://thehackernews.com/2021/11/more-stealthier-version-of-brazking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banking apps from Brazil are being targeted by a more elusive and stealthier version of an Android remote access trojan (RAT) that's capable of carrying out financial fraud attacks by stealing two-factor authentication (2FA) codes and initiating rogue transactions from infected devices to transfer money from victims' accounts to an account operated by the threat actor.  IBM X-Force dubbed the revamped banking malware BrazKing , a previous version of which was referred to as  PixStealer  by Check Point Research. The mobile RAT was first seen around November 2018,  according  to ThreatFabric.  "It turns out that its developers have been working on making the malware more agile than before, moving its core overlay mechanism to pull fake overlay screens from the command-and-control (C2) server in real-time," IBM X-Force researcher Shahar Tavor  noted  in a technical deep dive published last week. "The malware […] allows the attacker to log keystrokes, extract the pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of RCE flaw in Imunify360 security platform<a href="https://securityaffairs.co/wordpress/124922/security/imunify360-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in CloudLinux’s Imunify360 security product could have been exploited by an attacker for remote code execution. 
+
+
+
+Cisco’s Talos researchers discovered a remote code execution vulnerability, tracked as CVE-2021-21956, in CloudLinux’s Imunify360...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of phishing targeting high-profile brands' customers<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-targeting-high-profile-brands-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today of recently detected spear-phishing email campaigns targeting customers of "brand-name companies" in attacks known as brand phishing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Server Flaws Once Again Under Heavy Targeting<a href="https://cyware.com/news/exchange-server-flaws-once-again-under-heavy-targeting-088c8012"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are targeting unpatched Exchange servers for vulnerabilities such as ProxyLogon and ProxyShell to breach corporate email servers and drop multiple malware.  In one of the attacks, the researchers have seen the distribution of SquirrelWaffle loader, which then installs Qbot.&nbsp;O rganiza ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of IT Security in Your Merger Acquisition<a href="https://thehackernews.com/2021/11/the-importance-of-it-security-in-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the business world, mergers and acquisitions are commonplace as businesses combine, acquire, and enter various partnerships. Mergers and Acquisitions (M&A) are filled with often very complicated and complex processes to merge business processes, management, and a whole slew of other aspects of combining two businesses into a single logical entity.  In the modern business world before and after the acquisition, a new concern with M&A activities is cybersecurity. What role does cybersecurity play in today's mergers and acquisitions of businesses? Why is it becoming a tremendous concern?  Cybersecurity threats are growing in leaps and bounds  There is no question that cybersecurity risks and threats are growing exponentially. A  report from Cybersecurity Ventures  estimated a ransomware attack on businesses would happen every 11 seconds in 2021. Global ransomware costs in 2021 would exceed $20 billion.  It seems there are constantly new reports of major ransomware attacks, cos
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit code for Microsoft Exchange CVE-2021-42321 RCE bug<a href="https://securityaffairs.co/wordpress/124917/hacking/microsoft-exchange-cve-2021-42321-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has released a proof-of-concept exploit code for an actively exploited vulnerability affecting Microsoft Exchange servers. 
+
+
+
+The researcher Janggggg has published on Sunday a proof-of-concept exploit code for an actively exploited vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple sues spyware-maker NSO Group, notifies iOS exploit targets<a href="https://www.bleepingcomputer.com/news/apple/apple-sues-spyware-maker-nso-group-notifies-ios-exploit-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has filed a lawsuit against Pegasus spyware-maker NSO Group and its parent company for the targeting and spying of Apple users with surveillance tech.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Observing Attacks Against Hundreds of Exposed Services in Public Clouds<a href="https://unit42.paloaltonetworks.com/exposed-services-public-clouds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that 80% of the 320 honeypots were compromised within 24 hours and all of the honeypots were compromised within a week, with some of them facing hundreds of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert disclosed an exploit for a new Windows zero-day local privilege elevation issue<a href="https://securityaffairs.co/wordpress/124909/hacking/windows-zero-day-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher publicly disclosed an exploit for a new Windows zero-day local privilege elevation that can allow gaining admin privileges.
+
+
+
+A security researcher has publicly disclosed an exploit for a new Windows zero-day local privilege elevation vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers warn of severe risks from ‘Printjack’ printer attacks<a href="https://www.bleepingcomputer.com/news/security/researchers-warn-of-severe-risks-from-printjack-printer-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of Italian researchers has compiled a set of three attacks called 'Printjack,' warning users of the significant consequences of over-trusting their printer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RATDispenser: Stealthy JavaScript Loader Dispensing RATs into the Wild<a href="https://threatresearch.ext.hp.com/javascript-malware-dispensing-rats-into-the-wild/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RATDispenser is predominantly being used as a dropper (in 94% of samples analyzed by HP), meaning the malware doesn’t communicate over the network to deliver a malicious payload.
+</details>
+<div style="text-align: right" markdown="1">
+HP Wolf Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns critical infrastructure of ransomware attacks during holidays<a href="https://securityaffairs.co/wordpress/124903/cyber-crime/cisa-fbi-ransomware-attacks-holidays.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA and the FBI issued a joint alert to warn critical infrastructure partners and public/private organizations of ransomware attacks during holidays. 
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and the FBI warn critical infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge adds Super Duper Secure Mode to Stable channel<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-adds-super-duper-secure-mode-to-stable-channel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has quietly added a 'Super Duper Secure Mode' to the Microsoft Edge web browser, a new feature that brings security improvements without significant performance losses.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Code Execution Vulnerabilities Affect OpenVPN-Based Applications<a href="https://www.securityweek.com/severe-code-execution-vulnerabilities-affect-openvpn-based-applications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Claroty have raised the alarm for a series of severe code execution vulnerabilities affecting virtual private network (VPN) solutions relying on OpenVPN.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over nine million Android devices infected by info-stealing trojan<a href="https://www.bleepingcomputer.com/news/security/over-nine-million-android-devices-infected-by-info-stealing-trojan/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale malware campaign on Huawei's AppGallery has led to approximately 9,300,000 installs of Android trojans masquerading as over 190 different apps
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philips Working on Patches for Vulnerabilities Found in Medical Products<a href="https://www.securityweek.com/philips-working-patches-vulnerabilities-found-medical-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified by researchers at industrial cybersecurity firm Nozomi Networks in Philips IntelliBridge, Patient Information Center iX (PIC iX), and Efficia CM series products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target biomanufacturing with stealthy Tardigrade malware<a href="https://www.bleepingcomputer.com/news/security/hackers-target-biomanufacturing-with-stealthy-tardigrade-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​An advanced hacking group is actively targeting biomanufacturing facilities with a new custom malware called 'Tardigrade.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babadeda Crypter Targets Cryptocurrency, NFT, and DeFi Communities Through Discord<a href="https://blog.morphisec.com/the-babadeda-crypter-targeting-crypto-nft-defi-communities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The crypter that this campaign uses, dubbed Babadeda (a Russian language placeholder used by the crypter which translates to “Grandma-Grandpa”), is able to bypass signature-based antivirus solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Morphisec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Agencies Warn of Cyber Threats Against Critical Infrastructure During Holidays and Weekends<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/11/22/reminder-critical-infrastructure-stay-vigilant-against-threats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Americans prepare to celebrate the Thanksgiving holiday, CISA and the FBI are reminding critical infrastructure partners that malicious cyber actors aren’t making the same holiday plans as you.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy Data Breach Exposes Over 1 Million WordPress Customers' Data<a href="https://thehackernews.com/2021/11/godaddy-data-breach-exposes-over-1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web hosting giant GoDaddy on Monday disclosed a data breach that resulted in the unauthorized access of data belonging to a total of 1.2 million active and inactive customers, making it the  third   security incident  to come to light since 2018.  In a filing with the U.S. Securities and Exchange Commission (SEC), the world's largest domain registrar  said  that a malicious third-party managed to gain access to its  Managed WordPress  hosting environment on September 6 with the help of a compromised password, using it to obtain sensitive information pertaining to its customers. It's not immediately clear if the compromised password was secured with two-factor authentication.   The Arizona-based company  claims  over 20 million customers, with more than 82 million domain names registered using its services.   GoDaddy revealed it discovered the break-in on November 17. An investigation into the incident is ongoing and the company said it's "contacting all impacted custo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 22, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
