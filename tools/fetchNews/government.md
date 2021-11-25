@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.K. as a Responsible Cyber Power: Brilliant Branding or Empty Bluster?<a href="https://www.lawfareblog.com/uk-responsible-cyber-power-brilliant-branding-or-empty-bluster"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March, the U.K. government published its Integrated Review of Security, Defence, Development and Foreign Policy, setting out the U.K.’s position as a “responsible democratic cyber power.” This is unique and useful for a few key reasons.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of phishing targeting high-profile brands' customers<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-targeting-high-profile-brands-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today of recently detected spear-phishing email campaigns targeting customers of "brand-name companies" in attacks known as brand phishing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns critical infrastructure of ransomware attacks during holidays<a href="https://securityaffairs.co/wordpress/124903/cyber-crime/cisa-fbi-ransomware-attacks-holidays.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA and the FBI issued a joint alert to warn critical infrastructure partners and public/private organizations of ransomware attacks during holidays. 
+
+
+
+The Cybersecurity and Infrastructure Security Agency (CISA) and the FBI warn critical infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Agencies Warn of Cyber Threats Against Critical Infrastructure During Holidays and Weekends<a href="https://us-cert.cisa.gov/ncas/current-activity/2021/11/22/reminder-critical-infrastructure-stay-vigilant-against-threats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Americans prepare to celebrate the Thanksgiving holiday, CISA and the FBI are reminding critical infrastructure partners that malicious cyber actors aren’t making the same holiday plans as you.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

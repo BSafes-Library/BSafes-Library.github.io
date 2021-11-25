@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recovering ransom payments could become routine for law enforcement<a href="https://www.cybersecuritydive.com/news/FBI-CISA-ransomware-recovering-cryptocurrency/610422/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the U.S. government is working to make the crypto space more transparent, the Secret Service has the same technical capabilities to pursue and seize cryptocurrencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Sues Israel's NSO Group for Spying on iPhone Users With Pegasus Spyware<a href="https://thehackernews.com/2021/11/apple-sues-israels-nso-group-for-spying.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has sued NSO Group and its parent company Q Cyber Technologies in a U.S. federal court holding it accountable for illegally targeting users with its Pegasus surveillance tool, marking yet another setback for the Israeli spyware vendor.  The Cupertino-based tech giant painted NSO Group as "notorious hackers — amoral 21st century mercenaries who have created highly sophisticated cyber-surveillance machinery that invites routine and flagrant abuse."  In addition, the lawsuit seeks to permanently prevent the infamous hacker-for-hire company from breaking into any Apple software, services or devices. The iPhone maker, separately, also revealed its plans to&nbsp; notify targets &nbsp;of state-sponsored spyware attacks and has committed $10 million, as well as any monetary damages won as part of the lawsuit, to cybersurveillance research groups and advocates.  To that end, the company intends to display a "Threat Notification" after the targeted users sign into appleid.apple[
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

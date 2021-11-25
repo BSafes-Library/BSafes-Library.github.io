@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA406 Accelerates Attacks; Launch Several Campaigns<a href="https://cyware.com/news/ta406-accelerates-attacks-launch-several-campaigns-6bf55f7f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers issued an in-depth report on malicious activities of TA406, an alleged North Korean group. Its attack volume has been rising since the beginning of this year. As the year commenced, its activities were ramped up as journalists, foreign policy experts, and non-governmental orga ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Observing Attacks Against Hundreds of Exposed Services in Public Clouds<a href="https://unit42.paloaltonetworks.com/exposed-services-public-clouds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that 80% of the 320 honeypots were compromised within 24 hours and all of the honeypots were compromised within a week, with some of them facing hundreds of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

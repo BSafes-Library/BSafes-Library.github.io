@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Do Governments Reveal Cyber Intrusions?<a href="https://www.lawfareblog.com/why-do-governments-reveal-cyber-intrusions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany’s decision to publicly name the Ghostwriter hacking group as the perpetrator targeting its political institutions should not be taken lightly.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Online shoppers risk losing over $53M to holiday scams<a href="https://www.bleepingcomputer.com/news/security/fbi-online-shoppers-risk-losing-over-53m-to-holiday-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today that&nbsp;online shoppers risk losing more than $53 million during this year's holiday season to scams promising bargains and hard-to-find&nbsp;gifts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

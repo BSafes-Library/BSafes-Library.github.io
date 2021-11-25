@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of IT Security in Your Merger Acquisition<a href="https://thehackernews.com/2021/11/the-importance-of-it-security-in-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the business world, mergers and acquisitions are commonplace as businesses combine, acquire, and enter various partnerships. Mergers and Acquisitions (M&amp;A) are filled with often very complicated and complex processes to merge business processes, management, and a whole slew of other aspects of combining two businesses into a single logical entity.  In the modern business world before and after the acquisition, a new concern with M&amp;A activities is cybersecurity. What role does cybersecurity play in today's mergers and acquisitions of businesses? Why is it becoming a tremendous concern?  Cybersecurity threats are growing in leaps and bounds  There is no question that cybersecurity risks and threats are growing exponentially. A&nbsp; report from Cybersecurity Ventures &nbsp;estimated a ransomware attack on businesses would happen every 11 seconds in 2021. Global ransomware costs in 2021 would exceed $20 billion.  It seems there are constantly new reports of major ransomware attacks, cos
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

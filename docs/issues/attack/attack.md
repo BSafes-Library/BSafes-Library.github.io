@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Microsoft MSHTML bug to steal Google, Instagram creds<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-microsoft-mshtml-bug-to-steal-google-instagram-creds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Iranian threat actor is stealing Google and Instagram credentials belonging to Farsi-speaking targets worldwide using a new PowerShell-based stealer dubbed PowerShortShell by security researchers at SafeBreach Labs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests ‘Phoenix’ hackers behind Apple phishing attacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-phoenix-hackers-behind-apple-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) has arrested five members of the international 'Phoenix' hacking group who specialize in the remote hacking of mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

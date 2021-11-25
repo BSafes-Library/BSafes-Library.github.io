@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple sues spyware-maker NSO Group, notifies iOS exploit targets<a href="https://www.bleepingcomputer.com/news/apple/apple-sues-spyware-maker-nso-group-notifies-ios-exploit-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has filed a lawsuit against Pegasus spyware-maker NSO Group and its parent company for the targeting and spying of Apple users with surveillance tech.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

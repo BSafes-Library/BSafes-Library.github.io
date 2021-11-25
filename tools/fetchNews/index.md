@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit Microsoft MSHTML bug to steal Google, Instagram creds<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-microsoft-mshtml-bug-to-steal-google-instagram-creds/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital Marketing Agency Cronin Exposed Financial, Employee, and Client Data<a href="https://www.websiteplanet.com/blog/cronin-leak-report/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Website Planet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eavesdropping Bugs in MediaTek Chips Affect 37% of All Smartphones and IoT Globally<a href="https://thehackernews.com/2021/11/eavesdropping-bugs-in-mediatek-chips.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Do Governments Reveal Cyber Intrusions?<a href="https://www.lawfareblog.com/why-do-governments-reveal-cyber-intrusions"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addresses File Read and SSRF flaws in vCenter Server<a href="https://securityaffairs.co/wordpress/124973/security/vmware-ssrf-vcenter-server.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 9.3M+ Androids Running ‘Malicious’ Games from Huawei AppGallery<a href="https://threatpost.com/9m-androids-malware-games-huawei-appgallery/176581/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Online shoppers risk losing over $53M to holiday scams<a href="https://www.bleepingcomputer.com/news/security/fbi-online-shoppers-risk-losing-over-53m-to-holiday-scams/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Record by Recorded Future<a href="https://therecord.media/suspected-iranian-hacker-looks-to-steal-gmail-instagram-credentials/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT C-23 Hackers Using New Android Spyware Variant to Target Middle East Users<a href="https://thehackernews.com/2021/11/apt-c-23-hackers-using-new-android.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A vulnerable honeypot exposed online can be compromised in 24 hours<a href="https://securityaffairs.co/wordpress/124959/hacking/vulnerable-honeypot-exposure-analysis.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy new JavaScript malware infects Windows PCs with RATs<a href="https://www.bleepingcomputer.com/news/security/stealthy-new-javascript-malware-infects-windows-pcs-with-rats/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks surge, but victims are recovering quickly<a href="https://www.helpnetsecurity.com/2021/11/24/ransomware-attacks-victims/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple sues NSO Group for abusing state-sponsored Pegasus spyware<a href="https://securityaffairs.co/wordpress/124954/laws-and-regulations/apple-sues-nso-group.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy data breach hits WordPress hosting services resellers<a href="https://www.bleepingcomputer.com/news/security/godaddy-data-breach-hits-wordpress-hosting-services-resellers/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addresses SSRF, arbitrary file read flaws in vCenter Server<a href="https://portswigger.net/daily-swig/vmware-addresses-ssrf-arbitrary-file-read-flaws-in-vcenter-server?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert discloses details of flaws in Oracle VirtualBox<a href="https://securityaffairs.co/wordpress/124944/security/oracle-virtualbox-flaws.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine arrests ‘Phoenix’ hackers behind Apple phishing attacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-phoenix-hackers-behind-apple-phishing-attacks/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Securing open-source code supply chains may help prevent the next big cyberattack<a href="https://www.helpnetsecurity.com/2021/11/24/securing-open-source-code-supply-chains/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mediatek eavesdropping bug impacts 30% of all Android smartphones<a href="https://www.bleepingcomputer.com/news/security/mediatek-eavesdropping-bug-impacts-30-percent-of-all-android-smartphones/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recovering ransom payments could become routine for law enforcement<a href="https://www.cybersecuritydive.com/news/FBI-CISA-ransomware-recovering-cryptocurrency/610422/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Cybersecurity Dive
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Friday 2021 deal: 20% off Zero2Automated malware analysis courses<a href="https://www.bleepingcomputer.com/news/security/black-friday-2021-deal-20-percent-off-zero2automated-malware-analysis-courses/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspect arrested in 'ransom your employer' criminal scheme<a href="https://www.zdnet.com/article/suspect-arrested-in-ransom-your-employer-criminal-scheme/?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WiFi Software Management Firm Exposed Millions of Users’ Data<a href="https://www.hackread.com/wifi-software-firm-exposed-users-data/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2021
+November 23, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Defend Against Mobile App Impersonation<a href="https://threatpost.com/defend-app-impersonation/176519/"> Full Text</a>
@@ -434,7 +434,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2021
+November 23, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar and eBook: The Dark Side of EDR. Are You Prepared?<a href="https://thehackernews.com/2021/02/webinar-and-ebook-dark-side-of-edr-are.html"> Full Text</a>
@@ -450,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2021
+November 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 9 Million Android Phones Running Malware Apps from Huawei's AppGallery<a href="https://thehackernews.com/2021/11/over-9-million-android-phones-running.html"> Full Text</a>
@@ -466,7 +466,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2021
+November 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Sues Israel's NSO Group for Spying on iPhone Users With Pegasus Spyware<a href="https://thehackernews.com/2021/11/apple-sues-israels-nso-group-for-spying.html"> Full Text</a>

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Marketing Agency Cronin Exposed Financial, Employee, and Client Data<a href="https://www.websiteplanet.com/blog/cronin-leak-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed server was named “Cronin-Main” and many of the records contained references to Cronin. These records included internal data such as employee and client information.
+</details>
+<div style="text-align: right" markdown="1">
+Website Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy data breach hits WordPress hosting services resellers<a href="https://www.bleepingcomputer.com/news/security/godaddy-data-breach-hits-wordpress-hosting-services-resellers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy says the recently disclosed data breach affecting roughly 1.2 million customers has also hit multiple Managed WordPress services resellers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFi Software Management Firm Exposed Millions of Users’ Data<a href="https://www.hackread.com/wifi-software-firm-exposed-users-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security research firm SafetyDetectives discovered the leak and found that WSpot had a misconfigured Amazon Web Services S3 bucket. Around 226,000 files got exposed in this data leak.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

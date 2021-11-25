@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HOLIDAY SCAMMERS TAKE ADVANTAGE OF ONLINE SHOPPERS <a href="https://www.ic3.gov/Media/Y2021/PSA211124"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of cyber criminals targeting shoppers hoping to take advantage of online bargains and hard to find gift items for the holidays.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 23, 2021 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

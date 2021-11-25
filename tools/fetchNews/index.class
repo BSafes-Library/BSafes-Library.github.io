@@ -34,6 +34,454 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Microsoft MSHTML bug to steal Google, Instagram creds<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-microsoft-mshtml-bug-to-steal-google-instagram-creds/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered Iranian threat actor is stealing Google and Instagram credentials belonging to Farsi-speaking targets worldwide using a new PowerShell-based stealer dubbed PowerShortShell by security researchers at SafeBreach Labs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Marketing Agency Cronin Exposed Financial, Employee, and Client Data<a href="https://www.websiteplanet.com/blog/cronin-leak-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed server was named “Cronin-Main” and many of the records contained references to Cronin. These records included internal data such as employee and client information.
+</details>
+<div style="text-align: right" markdown="1">
+Website Planet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eavesdropping Bugs in MediaTek Chips Affect 37% of All Smartphones and IoT Globally<a href="https://thehackernews.com/2021/11/eavesdropping-bugs-in-mediatek-chips.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security weaknesses have been disclosed in MediaTek system-on-chips (SoCs) that could have enabled a threat actor to elevate privileges and execute arbitrary code in the firmware of the audio processor, effectively allowing the attackers to carry out a "massive eavesdrop campaign" without the users' knowledge.  The discovery of the flaws is the result of reverse-engineering the Taiwanese company's audio digital signal processor ( DSP ) unit by Israeli cybersecurity firm Check Point Research, ultimately finding that by stringing them together with other flaws present in a smartphone manufacturer's libraries, the issues uncovered in the chip could lead to local privilege escalation from an Android application.    "A malformed inter-processor message could potentially be used by an attacker to execute and hide malicious code inside the DSP firmware," Check Point security researcher Slava Makkaveev  said  in a report. "Since the DSP firmware h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Do Governments Reveal Cyber Intrusions?<a href="https://www.lawfareblog.com/why-do-governments-reveal-cyber-intrusions"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany’s decision to publicly name the Ghostwriter hacking group as the perpetrator targeting its political institutions should not be taken lightly.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses File Read and SSRF flaws in vCenter Server<a href="https://securityaffairs.co/wordpress/124973/security/vmware-ssrf-vcenter-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed arbitrary file read and server-side request forgery (SSRF) vulnerabilities in its vCenter Server product. 
+
+
+
+VMware this week addressed arbitrary file read and server-side request forgery (SSRF) vulnerabilities affecting its vCenter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9.3M+ Androids Running ‘Malicious’ Games from Huawei AppGallery<a href="https://threatpost.com/9m-androids-malware-games-huawei-appgallery/176581/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new trojan called Android.Cynos.7.origin, designed to collect Android users’ device data and phone numbers, was found in 190 games installed on over 9M Android devices. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Online shoppers risk losing over $53M to holiday scams<a href="https://www.bleepingcomputer.com/news/security/fbi-online-shoppers-risk-losing-over-53m-to-holiday-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today that online shoppers risk losing more than $53 million during this year's holiday season to scams promising bargains and hard-to-find gifts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/suspected-iranian-hacker-looks-to-steal-gmail-instagram-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat actor discovered earlier this year is responsible for raids against U.S. targets designed to hoover up Gmail and Instagram credentials, according to research by SafeBreach.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT C-23 Hackers Using New Android Spyware Variant to Target Middle East Users<a href="https://thehackernews.com/2021/11/apt-c-23-hackers-using-new-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known for striking targets in the Middle East has evolved its Android spyware yet again with enhanced capabilities that allow it to be stealthier and more persistent while passing off as seemingly innocuous app updates to stay under the radar.  The new variants have "incorporated new features into their malicious apps that make them more resilient to actions by users, who might try to remove them manually, and to security and web hosting companies that attempt to block access to, or shut down, their command-and-control server domains," Sophos threat researcher Pankaj Kohli  said  in a report published Tuesday.   Also known by the monikers  VAMP ,  FrozenCell ,  GnatSpy , and  Desert Scorpion , the mobile spyware has been a preferred tool of choice for the APT-C-23 threat group since at least 2017, with  successive iterations  featuring extended surveillance functionality to vacuum files, images, contacts and call logs, read notifications from messaging apps, r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A vulnerable honeypot exposed online can be compromised in 24 hours<a href="https://securityaffairs.co/wordpress/124959/hacking/vulnerable-honeypot-exposure-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers deployed multiple instances of vulnerable systems and found that 80% of the 320 honeypots were compromised within 24 hours.
+
+
+
+Researchers from Palo Alto Networks deployed a honeypot infrastructure of 320 nodes to analyze how three actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy new JavaScript malware infects Windows PCs with RATs<a href="https://www.bleepingcomputer.com/news/security/stealthy-new-javascript-malware-infects-windows-pcs-with-rats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new stealthy JavaScript malware loader named RATDispenser is being used to infect devices with a variety of remote access trojans (RATs) in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks surge, but victims are recovering quickly<a href="https://www.helpnetsecurity.com/2021/11/24/ransomware-attacks-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cymulate announced results of a survey, revealing that despite the increase in the number of ransomware attacks this past year, overall victims suffered limited damage in both severity and duration.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple sues NSO Group for abusing state-sponsored Pegasus spyware<a href="https://securityaffairs.co/wordpress/124954/laws-and-regulations/apple-sues-nso-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has filed suit to ban the Israeli surveillance firm NSO Group and parent company Q Cyber Technologies from using its product and services.
+
+
+
+Apple has sued NSO Group and its parent company Q Cyber Technologies in a U.S. federal court for illegally...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy data breach hits WordPress hosting services resellers<a href="https://www.bleepingcomputer.com/news/security/godaddy-data-breach-hits-wordpress-hosting-services-resellers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy says the recently disclosed data breach affecting roughly 1.2 million customers has also hit multiple Managed WordPress services resellers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses SSRF, arbitrary file read flaws in vCenter Server<a href="https://portswigger.net/daily-swig/vmware-addresses-ssrf-arbitrary-file-read-flaws-in-vcenter-server?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a CVSS rating of 7.5, the most severe is the arbitrary file read bug (CVE-2021-21980), abuse of which could potentially enable a malicious actor to gain access to sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discloses details of flaws in Oracle VirtualBox<a href="https://securityaffairs.co/wordpress/124944/security/oracle-virtualbox-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Oracle VM VirtualBox could be potentially exploited to compromise the hypervisor and trigger a denial-of-service (DoS) condition.
+
+
+
+A vulnerability in Oracle VM VirtualBox, tracked as CVE-2021-2442, could be potentially exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests ‘Phoenix’ hackers behind Apple phishing attacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-phoenix-hackers-behind-apple-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Security Service of Ukraine (SSU) has arrested five members of the international 'Phoenix' hacking group who specialize in the remote hacking of mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing open-source code supply chains may help prevent the next big cyberattack<a href="https://www.helpnetsecurity.com/2021/11/24/securing-open-source-code-supply-chains/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source components have become an essential part of development for obvious reasons. Open-source components exist in all types of software today – even proprietary software.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mediatek eavesdropping bug impacts 30% of all Android smartphones<a href="https://www.bleepingcomputer.com/news/security/mediatek-eavesdropping-bug-impacts-30-percent-of-all-android-smartphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MediaTek fixed security vulnerabilities that could have allowed attackers to eavesdrop on Android phone calls, execute commands, or elevate their privileges to a higher level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recovering ransom payments could become routine for law enforcement<a href="https://www.cybersecuritydive.com/news/FBI-CISA-ransomware-recovering-cryptocurrency/610422/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the U.S. government is working to make the crypto space more transparent, the Secret Service has the same technical capabilities to pursue and seize cryptocurrencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday 2021 deal: 20% off Zero2Automated malware analysis courses<a href="https://www.bleepingcomputer.com/news/security/black-friday-2021-deal-20-percent-off-zero2automated-malware-analysis-courses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Zero2Automated malware analysis and reverse-engineering course is having another Black Friday and Cyber Monday promotion this year, where you can get 20% off all courses on their site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspect arrested in 'ransom your employer' criminal scheme<a href="https://www.zdnet.com/article/suspect-arrested-in-ransom-your-employer-criminal-scheme/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emails offered a 40% cut of an anticipated $2.5 million ransomware payment in Bitcoin (BTC), made after the recipients installed the DemonWare ransomware on their employer's systems.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFi Software Management Firm Exposed Millions of Users’ Data<a href="https://www.hackread.com/wifi-software-firm-exposed-users-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security research firm SafetyDetectives discovered the leak and found that WSpot had a misconfigured Amazon Web Services S3 bucket. Around 226,000 files got exposed in this data leak.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Defend Against Mobile App Impersonation<a href="https://threatpost.com/defend-app-impersonation/176519/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite tight security measures by Google/Apple, cybercriminals still find ways to bypass fake app checks to plant malware on mobile devices. Dave Stewart, CEO of Approov, discusses technical approaches to defense against this.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar and eBook: The Dark Side of EDR. Are You Prepared?<a href="https://thehackernews.com/2021/02/webinar-and-ebook-dark-side-of-edr-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Endpoint Detection and Response (EDR) platforms have received incredible attention as the platform for security teams.  Whether you're evaluating an EDR for the first time or looking to replace your EDR, as an information security professional, you need to be aware of the gaps prior already to implementation so you can best prepare how to close the gaps.  It's important to understand that each company is unique, and an EDR that a large company uses might not necessarily be the technology that works best when you are leading a small security team, even if you're within the same industry vertical.  Understanding your threat detection technology requirements based on your unique company characteristics will help you choose the right one.   The eBook and webinar "The Dark Side of EDR. Are You Prepared?" helps you in that requirement definition process. It points out the dark side(s) of EDR and provides guidance as to how to overcome them according to your company'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 9 Million Android Phones Running Malware Apps from Huawei's AppGallery<a href="https://thehackernews.com/2021/11/over-9-million-android-phones-running.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 9.3 million Android devices have been infected by a new class of malware that disguises itself as dozens of arcade, shooter, and strategy games on Huawei's AppGallery marketplace to steal device information and victims' mobile phone numbers.  The mobile campaign was disclosed by researchers from Doctor Web, who classified the trojan as " Android.Cynos.7.origin ," owing to the fact that the malware is a modified version of the Cynos malware. Of the total 190 rogue games  identified, some were designed to target Russian-speaking users, while others were aimed at Chinese or international audiences.   Once installed, the apps prompted the victims for permission to make and manage phone calls, using the access to harvest their phone numbers along with other device information such as geolocation, mobile network parameters, and system metadata.    "At first glance, a mobile phone number leak may seem like an insignificant problem. Yet in reality, it can serio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Sues Israel's NSO Group for Spying on iPhone Users With Pegasus Spyware<a href="https://thehackernews.com/2021/11/apple-sues-israels-nso-group-for-spying.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has sued NSO Group and its parent company Q Cyber Technologies in a U.S. federal court holding it accountable for illegally targeting users with its Pegasus surveillance tool, marking yet another setback for the Israeli spyware vendor.  The Cupertino-based tech giant painted NSO Group as "notorious hackers — amoral 21st century mercenaries who have created highly sophisticated cyber-surveillance machinery that invites routine and flagrant abuse."  In addition, the lawsuit seeks to permanently prevent the infamous hacker-for-hire company from breaking into any Apple software, services or devices. The iPhone maker, separately, also revealed its plans to  notify targets  of state-sponsored spyware attacks and has committed $10 million, as well as any monetary damages won as part of the lawsuit, to cybersurveillance research groups and advocates.  To that end, the company intends to display a "Threat Notification" after the targeted users sign into appleid.apple[
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 23, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

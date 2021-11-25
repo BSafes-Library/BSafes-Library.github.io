@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple sues NSO Group for abusing state-sponsored Pegasus spyware<a href="https://securityaffairs.co/wordpress/124954/laws-and-regulations/apple-sues-nso-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has filed suit to ban the Israeli surveillance firm NSO Group and parent company Q Cyber Technologies from using its product and services.
+
+
+
+Apple has sued NSO Group and its parent company Q Cyber Technologies in a U.S. federal court for illegally...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
