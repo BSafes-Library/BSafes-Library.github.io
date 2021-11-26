@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eavesdropping Bugs in MediaTek Chips Affect 37% of All Smartphones and IoT Globally<a href="https://thehackernews.com/2021/11/eavesdropping-bugs-in-mediatek-chips.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security weaknesses have been disclosed in MediaTek system-on-chips (SoCs) that could have enabled a threat actor to elevate privileges and execute arbitrary code in the firmware of the audio processor, effectively allowing the attackers to carry out a "massive eavesdrop campaign" without the users' knowledge.  The discovery of the flaws is the result of reverse-engineering the Taiwanese company's audio digital signal processor ( DSP ) unit by Israeli cybersecurity firm Check Point Research, ultimately finding that by stringing them together with other flaws present in a smartphone manufacturer's libraries, the issues uncovered in the chip could lead to local privilege escalation from an Android application.&nbsp;   "A malformed inter-processor message could potentially be used by an attacker to execute and hide malicious code inside the DSP firmware," Check Point security researcher Slava Makkaveev&nbsp; said &nbsp;in a report. "Since the DSP firmware h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses File Read and SSRF flaws in vCenter Server<a href="https://securityaffairs.co/wordpress/124973/security/vmware-ssrf-vcenter-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed arbitrary file read and server-side request forgery (SSRF) vulnerabilities in its vCenter Server product. 
+
+
+
+VMware this week addressed arbitrary file read and server-side request forgery (SSRF) vulnerabilities affecting its vCenter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A vulnerable honeypot exposed online can be compromised in 24 hours<a href="https://securityaffairs.co/wordpress/124959/hacking/vulnerable-honeypot-exposure-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers deployed multiple instances of vulnerable systems and&nbsp;found that 80% of the 320 honeypots were compromised within 24 hours.
+
+
+
+Researchers from Palo Alto Networks deployed a honeypot infrastructure of 320 nodes to analyze how three actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addresses SSRF, arbitrary file read flaws in vCenter Server<a href="https://portswigger.net/daily-swig/vmware-addresses-ssrf-arbitrary-file-read-flaws-in-vcenter-server?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a CVSS rating of 7.5, the most severe is the arbitrary file read bug (CVE-2021-21980), abuse of which could potentially enable a malicious actor to gain access to sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert discloses details of flaws in Oracle VirtualBox<a href="https://securityaffairs.co/wordpress/124944/security/oracle-virtualbox-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Oracle VM VirtualBox could be potentially exploited to compromise the hypervisor and trigger a denial-of-service (DoS) condition.
+
+
+
+A vulnerability in Oracle VM VirtualBox, tracked as&nbsp;CVE-2021-2442, could be potentially exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mediatek eavesdropping bug impacts 30% of all Android smartphones<a href="https://www.bleepingcomputer.com/news/security/mediatek-eavesdropping-bug-impacts-30-percent-of-all-android-smartphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MediaTek fixed security vulnerabilities that could have allowed attackers to eavesdrop on Android phone calls, execute commands, or elevate their privileges to a higher level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

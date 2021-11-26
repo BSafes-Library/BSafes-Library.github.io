@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cybercriminals adjusted their scams for Black Friday 2021<a href="https://www.bleepingcomputer.com/news/security/how-cybercriminals-adjusted-their-scams-for-black-friday-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Friday is approaching, and while shoppers prepare to open their wallets, cybercriminals&nbsp;hone their malware droppers, phishing lures, and fake sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

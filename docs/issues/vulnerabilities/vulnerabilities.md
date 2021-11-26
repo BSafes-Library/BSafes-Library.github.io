@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Common Cloud Misconfigurations can be Exploited in Minutes: Report<a href="https://cyware.com/news/common-cloud-misconfigurations-can-be-exploited-in-minutes-report-7396541a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an experiment by Palo Alto Network's Unit 42, a round 80% of the honeypots were compromised within 24 hours and the rest were compromised within a week, with&nbsp;SSH being the prime target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint fails to start on Windows Server<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-fails-to-start-on-windows-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed a new&nbsp;issue impacting Windows Server&nbsp;devices preventing the&nbsp;Microsoft Defender for Endpoint&nbsp;security solution from launching on some systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress security plugin Hide My WP addresses SQL injection, deactivation flaws<a href="https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hide My WP, a popular WordPress security plugin, contained a serious SQL injection (SQLi) vulnerability and a security flaw that enabled unauthenticated attackers to deactivate the software.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of Newly Discovered Vulnerabilities in vSphere Web Client<a href="https://thehackernews.com/2021/11/vmware-warns-of-newly-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has shipped updates to address two security vulnerabilities in vCenter Server and Cloud Foundation that could be abused by a remote attacker to gain access to sensitive information.  The more severe of the issues concerns an arbitrary file read vulnerability in the vSphere Web Client. Tracked as CVE-2021-21980, the bug has been rated 7.5 out of a maximum of 10 on the CVSS scoring system, and impacts vCenter Server versions 6.5 and 6.7.  "A malicious actor with network access to port 443 on vCenter Server may exploit this issue to gain access to sensitive information," the company&nbsp; noted &nbsp;in an advisory published on November 23, crediting ch0wn of Orz lab for reporting the flaw.   The second shortcoming remediated by VMware relates to an&nbsp; SSRF &nbsp;(Server-Side Request Forgery) vulnerability in the Virtual storage area network (vSAN) Web Client plug-in that could allow a malicious actor with network access to port 443 on vCenter Server to exploit the flaw by accessing an i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

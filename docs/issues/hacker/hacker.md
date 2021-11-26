@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Microsoft MSHTML Flaw to Spy on Targeted PCs with Malware<a href="https://thehackernews.com/2021/11/hackers-using-microsoft-mshtml-flaw-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Iranian threat actor has been discovered exploiting a now-addressed critical flaw in the Microsoft Windows MSHTML platform to target Farsi-speaking victims with a new PowerShell-based information stealer designed to harvest extensive details from infected machines.  "[T]he stealer is a PowerShell script, short with powerful collection capabilities — in only ~150 lines, it provides the adversary a lot of critical information including screen captures, Telegram files, document collection, and extensive data about the victim's environment," SafeBreach Labs researcher Tomer Bar&nbsp; said &nbsp;in a report published Wednesday.   Nearly half of the targets are from the U.S., with the cybersecurity firm noting that the attacks are likely aimed at "Iranians who live abroad and might be seen as a threat to Iran's Islamic regime."  The phishing campaign, which began in July 2021, involved the exploitation of CVE-2021-40444, a remote code execution flaw that could be exp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian threat actors exploit MS MSHTML bug to steal Google and Instagram credentials<a href="https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat actor is stealing Google and Instagram credentials of Farsi-speaking targets by exploiting a Microsoft MSHTML bug. 
+
+
+
+Researchers from SafeBreach Labs spotted a new Iranian threat actor that is using an exploit for a&nbsp;Microsoft MSHTML...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning — Hackers Exploiting New Windows Installer Zero-Day Exploit in the Wild<a href="https://thehackernews.com/2021/11/warning-hackers-exploiting-new-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are actively making efforts to exploit a new variant of a recently disclosed privilege escalation vulnerability to potentially execute arbitrary code on fully-patched systems, once again demonstrating how adversaries move quickly to weaponize a publicly available exploit.  Cisco Talos&nbsp; disclosed &nbsp;that it "detected malware samples in the wild that are attempting to take advantage of this vulnerability."  Tracked as&nbsp; CVE-2021-41379 &nbsp;and discovered by security researcher Abdelhamid Naceri, the elevation of privilege flaw affecting the Windows Installer software component was originally resolved as part of Microsoft's&nbsp; Patch Tuesday updates &nbsp;for November 2021.   However, in what's a case of an insufficient patch, Naceri found that it was not only possible to bypass the fix implemented by Microsoft but also&nbsp; achieve &nbsp;local privilege escalation via a newly discovered zero-day bug.   The proof-of-concept (PoC) exploit, dubbed " InstallerFileTakeOver ," w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

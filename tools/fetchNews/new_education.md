@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+If You're Not Using Antivirus Software, You're Not Paying Attention<a href="https://thehackernews.com/2021/11/if-youre-not-using-antivirus-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stop tempting fate and take a look at our picks for the best antivirus programs on the market today.  Every year there are billions of malware attacks worldwide. And these threats are constantly evolving. So if you are not currently using antivirus software, or you still rely on some free software you downloaded back in 2017, you are putting your cybersecurity in serious jeopardy.&nbsp;  Need help picking out antivirus software? Well, we've got you covered. Below you can find our picks for the best antivirus products of 2021. But before we get to that, let's set a few things straight so we're all on the same page.&nbsp;  When we talk about antivirus products, we're really talking about anti- malware &nbsp;products. Malware is a catchall term that refers to any malicious program created to damage, disrupt, or take charge of a computer. Types of malware include not only viruses but spyware, trojan horses, ransomware, adware, and scareware.  Any good antivirus product in 2021 must be ab
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT C-23 Hackers Using New Android Spyware Variant to Target Middle East Users<a href="https://thehackernews.com/2021/11/apt-c-23-hackers-using-new-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known for striking targets in the Middle East has evolved its Android spyware yet again with enhanced capabilities that allow it to be stealthier and more persistent while passing off as seemingly innocuous app updates to stay under the radar.  The new variants have "incorporated new features into their malicious apps that make them more resilient to actions by users, who might try to remove them manually, and to security and web hosting companies that attempt to block access to, or shut down, their command-and-control server domains," Sophos threat researcher Pankaj Kohli&nbsp; said &nbsp;in a report published Tuesday.   Also known by the monikers&nbsp; VAMP ,&nbsp; FrozenCell ,&nbsp; GnatSpy , and&nbsp; Desert Scorpion , the mobile spyware has been a preferred tool of choice for the APT-C-23 threat group since at least 2017, with&nbsp; successive iterations &nbsp;featuring extended surveillance functionality to vacuum files, images, contacts and call logs, read notifications from messaging apps, r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

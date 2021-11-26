@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks surge, but victims are recovering quickly<a href="https://www.helpnetsecurity.com/2021/11/24/ransomware-attacks-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cymulate announced results of a survey, revealing that despite the increase in the number of ransomware attacks this past year, overall victims suffered limited damage in both severity and duration.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

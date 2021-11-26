@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK government transport website caught showing porn<a href="https://www.bleepingcomputer.com/news/security/uk-government-transport-website-caught-showing-porn/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Philippines: Personal data of 22,000 S&R members compromised in cyberattack<a href="https://mb.com.ph/2021/11/24/npc-personal-data-of-22k-sr-members-compromised-in-cyber-attack/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Manila Bulletin News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Product Releases Should Not Be Scary<a href="https://thehackernews.com/2021/11/product-releases-should-not-be-scary.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux CronRAT hides in cron jobs to evade detection in Magecart attacks<a href="https://securityaffairs.co/wordpress/125000/cyber-crime/linux-cronrat-magecart-attacks.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Twists on Gift-Card Scams Flourish on Black Friday<a href="https://threatpost.com/new-twists-on-gift-card-scams-flourish-on-black-friday/176593/"> Full Text</a>
@@ -118,7 +118,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How cybercriminals adjusted their scams for Black Friday 2021<a href="https://www.bleepingcomputer.com/news/security/how-cybercriminals-adjusted-their-scams-for-black-friday-2021/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Common Cloud Misconfigurations can be Exploited in Minutes: Report<a href="https://cyware.com/news/common-cloud-misconfigurations-can-be-exploited-in-minutes-report-7396541a"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This New Stealthy JavaScript Loader Infecting Computers with Malware<a href="https://thehackernews.com/2021/11/this-new-stealthy-javascript-loader.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several GoDaddy brands impacted in recent data breach<a href="https://securityaffairs.co/wordpress/124994/data-breach/godaddy-breach-impacted-brands.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux malware hides in cron jobs with invalid dates<a href="https://www.bleepingcomputer.com/news/security/new-linux-malware-hides-in-cron-jobs-with-invalid-dates/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet's Infrastructure Witnesses Huge Growth<a href="https://cyware.com/news/emotets-infrastructure-witnesses-huge-growth-6abad7ec"> Full Text</a>
@@ -218,7 +218,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Microsoft MSHTML Flaw to Spy on Targeted PCs with Malware<a href="https://thehackernews.com/2021/11/hackers-using-microsoft-mshtml-flaw-to.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian threat actors exploit MS MSHTML bug to steal Google and Instagram credentials<a href="https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploit.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord malware campaign targets crypto and NFT communities<a href="https://www.bleepingcomputer.com/news/security/discord-malware-campaign-targets-crypto-and-nft-communities/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huntington Hospital Issues Notice of Unauthorized Access to Personal Information of 13,000 Patients<a href="https://ca.finance.yahoo.com/news/huntington-hospital-notice-unauthorized-access-190000552.html?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 If You're Not Using Antivirus Software, You're Not Paying Attention<a href="https://thehackernews.com/2021/11/if-youre-not-using-antivirus-software.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of crooks targeting online shoppers during the holiday season<a href="https://securityaffairs.co/wordpress/124972/cyber-crime/fbi-warns-online-shoppers-holiday-season.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Endpoint fails to start on Windows Server<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-fails-to-start-on-windows-server/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress security plugin Hide My WP addresses SQL injection, deactivation flaws<a href="https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning — Hackers Exploiting New Windows Installer Zero-Day Exploit in the Wild<a href="https://thehackernews.com/2021/11/warning-hackers-exploiting-new-windows.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at New Mexico Healthcare Business Impacts 62,000 State Residents<a href="https://portswigger.net/daily-swig/data-breach-at-new-mexico-healthcare-business-impacts-62-000-state-residents?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Printjack Attacks Can Turn Printers Into Zombies<a href="https://cyware.com/news/printjack-attacks-can-turn-printers-into-zombies-3c21988b"> Full Text</a>
@@ -402,7 +402,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2021
+November 24, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Warns of Newly Discovered Vulnerabilities in vSphere Web Client<a href="https://thehackernews.com/2021/11/vmware-warns-of-newly-discovered.html"> Full Text</a>

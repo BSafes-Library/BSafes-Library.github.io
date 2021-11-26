@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing open-source code supply chains may help prevent the next big cyberattack<a href="https://www.helpnetsecurity.com/2021/11/24/securing-open-source-code-supply-chains/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source components have become an essential part of development for obvious reasons. Open-source components exist in all types of software today – even proprietary software.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday 2021 deal: 20% off Zero2Automated malware analysis courses<a href="https://www.bleepingcomputer.com/news/security/black-friday-2021-deal-20-percent-off-zero2automated-malware-analysis-courses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular Zero2Automated malware analysis and reverse-engineering course is having another Black Friday and Cyber Monday promotion this year, where you can get 20% off all courses on their site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Defend Against Mobile App Impersonation<a href="https://threatpost.com/defend-app-impersonation/176519/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite tight security measures by Google/Apple, cybercriminals still find ways to bypass fake app checks to plant malware on mobile devices. Dave Stewart, CEO of Approov, discusses technical approaches to defense against this.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

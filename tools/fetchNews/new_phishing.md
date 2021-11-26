@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Twists on Gift-Card Scams Flourish on Black Friday<a href="https://threatpost.com/new-twists-on-gift-card-scams-flourish-on-black-friday/176593/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake merchandise and crypto jacking are among the new ways cybercriminals will try to defraud people flocking online for Black Friday and Cyber Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
