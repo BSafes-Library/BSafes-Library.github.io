@@ -34,6 +34,390 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government transport website caught showing porn<a href="https://www.bleepingcomputer.com/news/security/uk-government-transport-website-caught-showing-porn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK Department for Transport (DfT) website was caught serving porn earlier today. The particular DfT subdomain behind the mishap, on most days, provides vital DfT statistics for the public and the department's business plan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philippines: Personal data of 22,000 S&R members compromised in cyberattack<a href="https://mb.com.ph/2021/11/24/npc-personal-data-of-22k-sr-members-compromised-in-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement, NPC confirmed the receipt of a breach notification report on November 15 from S&R Membership Shopping concerning a cyberattack “that may have compromised its members’ personal data.”
+</details>
+<div style="text-align: right" markdown="1">
+Manila Bulletin News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Releases Should Not Be Scary<a href="https://thehackernews.com/2021/11/product-releases-should-not-be-scary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every Product Manager and Software Developer should know that pushing feature updates to production via traditional channels is as archaic as painting on cave walls. The smart are always quick to adapt to new, innovative technologies, and this mindset is exactly what makes normal companies great.  The landscape is changing fast, especially in IT . Change isn't just necessary, but more often than not, it's the single-most-important variable that determines a company's chances of survival.  The fact of the matter is that NOT using Feature Flags leads to a more cumbersome, expensive, and slower type of rollout.  Simply put, it makes your project less competitive with those that have their deployments better organized, and that's  an edge that you can't afford to lose .   Feature Flags are changing how things work  Many companies are using Feature Flags these days, and for good measure.  It's safer and allows for more granular control over what you're building.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux CronRAT hides in cron jobs to evade detection in Magecart attacks<a href="https://securityaffairs.co/wordpress/125000/cyber-crime/linux-cronrat-magecart-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered a new Linux RAT, tracked as CronRAT, that hides in scheduled cron jobs to avoid detection. 
+
+
+
+Security researchers from Sansec have discovered a new Linux remote access trojan (RAT), tracked as CronRAT, that hides in the Linux...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Twists on Gift-Card Scams Flourish on Black Friday<a href="https://threatpost.com/new-twists-on-gift-card-scams-flourish-on-black-friday/176593/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake merchandise and crypto jacking are among the new ways cybercriminals will try to defraud people flocking online for Black Friday and Cyber Monday. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How cybercriminals adjusted their scams for Black Friday 2021<a href="https://www.bleepingcomputer.com/news/security/how-cybercriminals-adjusted-their-scams-for-black-friday-2021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Friday is approaching, and while shoppers prepare to open their wallets, cybercriminals hone their malware droppers, phishing lures, and fake sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Common Cloud Misconfigurations can be Exploited in Minutes: Report<a href="https://cyware.com/news/common-cloud-misconfigurations-can-be-exploited-in-minutes-report-7396541a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an experiment by Palo Alto Network's Unit 42, a round 80% of the honeypots were compromised within 24 hours and the rest were compromised within a week, with&nbsp;SSH being the prime target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This New Stealthy JavaScript Loader Infecting Computers with Malware<a href="https://thehackernews.com/2021/11/this-new-stealthy-javascript-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been found using a previously undocumented JavaScript malware strain that functions as a loader to distribute an array of remote access Trojans (RATs) and information stealers.  HP Threat Research dubbed the new, evasive loader "RATDispenser," with the malware responsible for deploying at least eight different malware families in 2021. Around 155 samples of this new malware have been discovered, spread across three different variants, hinting that it's under active development.   "RATDispenser is used to gain an initial foothold on a system before launching secondary malware that establishes control over the compromised device," security researcher Patrick Schläpfer  said . "All the payloads were RATs, designed to steal information and give attackers control over victim devices."  As with other attacks of this kind, the starting point of the infection is a phishing email containing a malicious attachment, which masquerades as a text
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several GoDaddy brands impacted in recent data breach<a href="https://securityaffairs.co/wordpress/124994/data-breach/godaddy-breach-impacted-brands.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently disclosed data breach impacted several of its brands, including Domain Factory, Heart Internet, Host Europe, Media Temple, tsoHost and 123Reg. 
+
+
+
+Recently GoDaddy has disclosed a data breach that impacted up to 1.2 million of its customers,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux malware hides in cron jobs with invalid dates<a href="https://www.bleepingcomputer.com/news/security/new-linux-malware-hides-in-cron-jobs-with-invalid-dates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new remote access trojan (RAT) for Linux that keeps an almost invisible profile by hiding in tasks scheduled for execution on a non-existent day, February 31st.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet's Infrastructure Witnesses Huge Growth<a href="https://cyware.com/news/emotets-infrastructure-witnesses-huge-growth-6abad7ec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upon analyzing Emotet’s code, several researchers confirmed that the malware has been upgraded, along with expansion of its infrastructure, for an improved, secure, and robust operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Microsoft MSHTML Flaw to Spy on Targeted PCs with Malware<a href="https://thehackernews.com/2021/11/hackers-using-microsoft-mshtml-flaw-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Iranian threat actor has been discovered exploiting a now-addressed critical flaw in the Microsoft Windows MSHTML platform to target Farsi-speaking victims with a new PowerShell-based information stealer designed to harvest extensive details from infected machines.  "[T]he stealer is a PowerShell script, short with powerful collection capabilities — in only ~150 lines, it provides the adversary a lot of critical information including screen captures, Telegram files, document collection, and extensive data about the victim's environment," SafeBreach Labs researcher Tomer Bar  said  in a report published Wednesday.   Nearly half of the targets are from the U.S., with the cybersecurity firm noting that the attacks are likely aimed at "Iranians who live abroad and might be seen as a threat to Iran's Islamic regime."  The phishing campaign, which began in July 2021, involved the exploitation of CVE-2021-40444, a remote code execution flaw that could be exp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian threat actors exploit MS MSHTML bug to steal Google and Instagram credentials<a href="https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian threat actor is stealing Google and Instagram credentials of Farsi-speaking targets by exploiting a Microsoft MSHTML bug. 
+
+
+
+Researchers from SafeBreach Labs spotted a new Iranian threat actor that is using an exploit for a Microsoft MSHTML...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord malware campaign targets crypto and NFT communities<a href="https://www.bleepingcomputer.com/news/security/discord-malware-campaign-targets-crypto-and-nft-communities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign on Discord uses the Babadeda crypter to hide malware that targets the crypto, NFT, and DeFi communities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntington Hospital Issues Notice of Unauthorized Access to Personal Information of 13,000 Patients<a href="https://ca.finance.yahoo.com/news/huntington-hospital-notice-unauthorized-access-190000552.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital learned that a night shift employee improperly accessed electronic medical patient records in violation of its policies, leading to unauthorized access to 13,000 patients' data.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+If You're Not Using Antivirus Software, You're Not Paying Attention<a href="https://thehackernews.com/2021/11/if-youre-not-using-antivirus-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stop tempting fate and take a look at our picks for the best antivirus programs on the market today.  Every year there are billions of malware attacks worldwide. And these threats are constantly evolving. So if you are not currently using antivirus software, or you still rely on some free software you downloaded back in 2017, you are putting your cybersecurity in serious jeopardy.   Need help picking out antivirus software? Well, we've got you covered. Below you can find our picks for the best antivirus products of 2021. But before we get to that, let's set a few things straight so we're all on the same page.   When we talk about antivirus products, we're really talking about anti- malware  products. Malware is a catchall term that refers to any malicious program created to damage, disrupt, or take charge of a computer. Types of malware include not only viruses but spyware, trojan horses, ransomware, adware, and scareware.  Any good antivirus product in 2021 must be ab
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of crooks targeting online shoppers during the holiday season<a href="https://securityaffairs.co/wordpress/124972/cyber-crime/fbi-warns-online-shoppers-holiday-season.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of cybercriminals targeting online shoppers during the holiday season.
+
+
+
+The FBI warns of cyber criminals targeting online shoppers during the holiday season. In this period netizens hope to take advantage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint fails to start on Windows Server<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-fails-to-start-on-windows-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed a new issue impacting Windows Server devices preventing the Microsoft Defender for Endpoint security solution from launching on some systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress security plugin Hide My WP addresses SQL injection, deactivation flaws<a href="https://portswigger.net/daily-swig/wordpress-security-plugin-hide-my-wp-addresses-sql-injection-deactivation-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hide My WP, a popular WordPress security plugin, contained a serious SQL injection (SQLi) vulnerability and a security flaw that enabled unauthenticated attackers to deactivate the software.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning — Hackers Exploiting New Windows Installer Zero-Day Exploit in the Wild<a href="https://thehackernews.com/2021/11/warning-hackers-exploiting-new-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are actively making efforts to exploit a new variant of a recently disclosed privilege escalation vulnerability to potentially execute arbitrary code on fully-patched systems, once again demonstrating how adversaries move quickly to weaponize a publicly available exploit.  Cisco Talos  disclosed  that it "detected malware samples in the wild that are attempting to take advantage of this vulnerability."  Tracked as  CVE-2021-41379  and discovered by security researcher Abdelhamid Naceri, the elevation of privilege flaw affecting the Windows Installer software component was originally resolved as part of Microsoft's  Patch Tuesday updates  for November 2021.   However, in what's a case of an insufficient patch, Naceri found that it was not only possible to bypass the fix implemented by Microsoft but also  achieve  local privilege escalation via a newly discovered zero-day bug.   The proof-of-concept (PoC) exploit, dubbed " InstallerFileTakeOver ," w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at New Mexico Healthcare Business Impacts 62,000 State Residents<a href="https://portswigger.net/daily-swig/data-breach-at-new-mexico-healthcare-business-impacts-62-000-state-residents?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personally identifiable information of more than 62,000 U.S. citizens may have been compromised following a cyber-attack against a New Mexico-based healthcare insurer.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Printjack Attacks Can Turn Printers Into Zombies<a href="https://cyware.com/news/printjack-attacks-can-turn-printers-into-zombies-3c21988b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a team of Italian researchers, a large number of printers are publicly exposed on the internet, making it easy for attackers to send malicious data remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of Newly Discovered Vulnerabilities in vSphere Web Client<a href="https://thehackernews.com/2021/11/vmware-warns-of-newly-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has shipped updates to address two security vulnerabilities in vCenter Server and Cloud Foundation that could be abused by a remote attacker to gain access to sensitive information.  The more severe of the issues concerns an arbitrary file read vulnerability in the vSphere Web Client. Tracked as CVE-2021-21980, the bug has been rated 7.5 out of a maximum of 10 on the CVSS scoring system, and impacts vCenter Server versions 6.5 and 6.7.  "A malicious actor with network access to port 443 on vCenter Server may exploit this issue to gain access to sensitive information," the company  noted  in an advisory published on November 23, crediting ch0wn of Orz lab for reporting the flaw.   The second shortcoming remediated by VMware relates to an  SSRF  (Server-Side Request Forgery) vulnerability in the Virtual storage area network (vSAN) Web Client plug-in that could allow a malicious actor with network access to port 443 on vCenter Server to exploit the flaw by accessing an i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 24, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
