@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Printjack Attacks Can Turn Printers Into Zombies<a href="https://cyware.com/news/printjack-attacks-can-turn-printers-into-zombies-3c21988b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a team of Italian researchers, a large number of printers are publicly exposed on the internet, making it easy for attackers to send malicious data remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

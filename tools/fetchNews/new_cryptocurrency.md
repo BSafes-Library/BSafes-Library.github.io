@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target crypto and NFT communities with Babadeda crypter<a href="https://securityaffairs.co/wordpress/125025/malware/babadeda-crypter-cryptocurrency-nft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec researchers spread cryptocurrency malware dubbed Babadeda in attacks aimed at crypto and NFT communities.
+
+
+
+Morphisec researchers spotted a new crypto-malware strain, tracked as  Babadeda, targeting cryptocurrency, non-fungible token (NFT),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

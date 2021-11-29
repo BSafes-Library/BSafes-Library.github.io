@@ -11,6 +11,20 @@ nav_order: 900075
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Israel Bans Sales of Hacking and Surveillance Tools to 65 Countries<a href="https://thehackernews.com/2021/11/israel-bans-sales-of-hacking-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel's Ministry of Defense has dramatically restricted the number of countries to which cybersecurity firms in the country are allowed to sell offensive hacking and surveillance tools to, cutting off 65 nations from the export list.  The revised list, details of which were first reported by the Israeli business newspaper&nbsp; Calcalist , now only includes 37 countries, down from the previous 102: Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Iceland, India, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Norway, Portugal, Romania, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, the Netherlands, the U.K., and the U.S.   Notably missing from the list are countries such as Morocco, Bahrain, Saudi Arabia, and the U.A.E, which have been previously identified as customers of Israeli spyware vendor NSO Group. In curtailing the exports, the move effecti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of crooks targeting online shoppers during the holiday season<a href="https://securityaffairs.co/wordpress/124972/cyber-crime/fbi-warns-online-shoppers-holiday-season.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New differential fuzzing tool reveals novel HTTP request smuggling techniques<a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have released a new fuzzing tool used for finding novel HTTP request smuggling techniques. The tool, dubbed ‘T-Reqs’, was built by a team from Northeastern University, Boston, and Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

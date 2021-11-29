@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise in Banking Scams: Zelle Fraud and Other Threats<a href="https://cyware.com/news/the-rise-in-banking-scams-zelle-fraud-and-other-threats-a9a36977"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notorious group of hackers has been found targeting customers of banks with phony fraud alerts and stealing thousands of dollars from their bank accounts. The scam first came to light in August.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot phishing checks screen resolution to evade researchers<a href="https://www.bleepingcomputer.com/news/security/trickbot-phishing-checks-screen-resolution-to-evade-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot malware operators have been using a new method to check the screen resolution of a victim system to evade detection&nbsp;of security software and analysis by researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

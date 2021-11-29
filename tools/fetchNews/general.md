@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Releases Should Not Be Scary<a href="https://thehackernews.com/2021/11/product-releases-should-not-be-scary.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every Product Manager and Software Developer&nbsp;should know that pushing feature updates to production via traditional channels is as archaic as painting on cave walls. The smart are always quick to adapt to new, innovative technologies, and this mindset is exactly what makes normal companies great.  The landscape is changing fast, especially in IT . Change isn't just necessary, but more often than not, it's the single-most-important variable that determines a company's chances of survival.&nbsp; The fact of the matter is that NOT using Feature Flags leads to a more cumbersome, expensive, and slower type of rollout.  Simply put, it makes your project less competitive with those that have their deployments better organized, and that's&nbsp; an edge that you can't afford to lose .   Feature Flags are changing how things work  Many companies are using Feature Flags these days, and for good measure. &nbsp;It's safer and allows for more granular control over what you're building.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

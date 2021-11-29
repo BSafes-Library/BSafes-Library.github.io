@@ -8,6 +8,80 @@ nav_order: 900029
 
 ## Breach
 ---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK government transport website caught showing porn<a href="https://www.bleepingcomputer.com/news/security/uk-government-transport-website-caught-showing-porn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A UK Department for Transport (DfT) website was caught serving&nbsp;porn earlier today. The particular&nbsp;DfT subdomain&nbsp;behind the mishap, on most days,&nbsp;provides vital DfT statistics for the public and the department's business plan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Philippines: Personal data of 22,000 S&amp;R members compromised in cyberattack<a href="https://mb.com.ph/2021/11/24/npc-personal-data-of-22k-sr-members-compromised-in-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement, NPC confirmed the receipt of a breach notification report on November 15 from S&amp;R Membership Shopping concerning a cyberattack “that may have compromised its members’ personal data.”
+</details>
+<div style="text-align: right" markdown="1">
+Manila Bulletin News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several GoDaddy brands impacted in recent data breach<a href="https://securityaffairs.co/wordpress/124994/data-breach/godaddy-breach-impacted-brands.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently disclosed data breach impacted several of its brands, including Domain Factory, Heart Internet, Host Europe, Media Temple, tsoHost and 123Reg. 
+
+
+
+Recently GoDaddy has disclosed a data breach that impacted up to 1.2 million of its customers,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntington Hospital Issues Notice of Unauthorized Access to Personal Information of 13,000 Patients<a href="https://ca.finance.yahoo.com/news/huntington-hospital-notice-unauthorized-access-190000552.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital learned that a night shift employee improperly accessed electronic medical patient records in violation of its policies, leading to unauthorized access to 13,000 patients' data.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at New Mexico Healthcare Business Impacts 62,000 State Residents<a href="https://portswigger.net/daily-swig/data-breach-at-new-mexico-healthcare-business-impacts-62-000-state-residents?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personally identifiable information of more than 62,000 U.S. citizens may have been compromised following a cyber-attack against a New Mexico-based healthcare insurer.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT C-23 Targeting Android Users in Middle East with Spyware<a href="https://cyware.com/news/apt-c-23-targeting-android-users-in-middle-east-with-spyware-a1ae7657"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos is warning against an evolved version of an Android spyware, allegedly used by an APT group called C-23, targeting individuals in the Middle East.  It spreads via a download link in a text message sent to the target’s phone. Users are requested to a lways update Android OS and applications v ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

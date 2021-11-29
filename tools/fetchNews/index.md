@@ -34,6 +34,517 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks on Healthcare System Goes Way Beyond Just Data<a href="https://cyware.com/news/ransomware-attacks-on-healthcare-system-goes-way-beyond-just-data-fc016d07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks on the healthcare sector directly impact the patients.&nbsp;A Ponemon study revealed that a successful attack can lead to a longer stay for patients at a round 70% of healthcare delivery organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French court indicted Nexa Technologies for complicity in acts of torture<a href="https://securityaffairs.co/wordpress/125083/intelligence/nexa-technologies-indicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nexa Technologies was indicted for complicity in acts of torture, the French firm is accused of having sold surveillance equipment to the Egypt.
+
+
+
+Nexa Technologies offers a range of solutions for homeland security, including surveillance solutions....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise in Banking Scams: Zelle Fraud and Other Threats<a href="https://cyware.com/news/the-rise-in-banking-scams-zelle-fraud-and-other-threats-a9a36977"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notorious group of hackers has been found targeting customers of banks with phony fraud alerts and stealing thousands of dollars from their bank accounts. The scam first came to light in August.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RATDispenser, a new stealthy JavaScript loader used to distribute RATs<a href="https://securityaffairs.co/wordpress/125078/malware/ratdispenser-spreads-rats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RATDispenser is a new stealthy JavaScript loader that is being used to spread multiple remote access trojans (RATs) into the wild.
+
+
+
+Researchers from the HP Threat Research team have discovered a new stealthy JavaScript loader dubbed RATDispenser that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Zinc group posed as Samsung recruiters to target security firms<a href="https://securityaffairs.co/wordpress/125071/apt/north-korea-zinc-targets-security-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actors posed as Samsung recruiters in a spear-phishing campaign aimed at employees at South Korean security firms. 
+
+
+
+North Korea-linked APT group posed as Samsung recruiters is a spear-phishing campaign that targeted South...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0patch releases unofficial patches for CVE-2021-24084 Windows 10 zero-day<a href="https://securityaffairs.co/wordpress/125061/security/unofficial-patches-cve-2021-24084-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+0patch released free unofficial patches for Windows local privilege escalation zero-day (CVE-2021-24084) in Windows 10, version 1809 and later. 
+
+
+
+0patch released free unofficial patches for Windows local privilege escalation zero-day (CVE-2021-24084)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 342<a href="https://securityaffairs.co/wordpress/125068/breaking-news/security-affairs-newsletter-round-342.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows 10 zero-day gives admin rights, gets unofficial patch<a href="https://www.bleepingcomputer.com/news/security/new-windows-10-zero-day-gives-admin-rights-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free unofficial patches have been released to protect Windows users from a local privilege escalation (LPE) zero-day vulnerability in the Mobile Device Management Service impacting all Windows 10 versions from v1809 to v21H1.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CronRAT Abuses Linux Task Scheduler to Stay Under the Radar<a href="https://cyware.com/news/cronrat-abuses-linux-task-scheduler-to-stay-under-the-radar-ebac80c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a Linux-based remote access trojan (RAT) that uses an unusual stealth technique to steal data. It hides in the Linux calendar sub-system as a task that has a nonexistent date viz. February 31. Organizations are suggested to invest more in data protection solutio ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Abusing Known Bug in Microsoft's MSHTML<a href="https://cyware.com/news/iranian-hackers-abusing-known-bug-in-microsofts-mshtml-b3c4dbcc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Iranian actor was spotted abusing an RCE flaw in Microsoft MSHTML to target Farsi-speaking people globally and stealing their Google and Instagram credentials. The attacks started in July via spear-phishing emails that targeted Windows users with Winword attachments. Exports recommend organiz ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holiday Scams May Cost $53 Million This Year, Warns FBI<a href="https://cyware.com/news/holiday-scams-may-cost-53-million-this-year-warns-fbi-12a79666"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has warned that online shoppers are at risk of losing more than $53 million this year to holiday scams that promise fake bargains and hard-to-find gifts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy’s Antitrust Agency fines Apple and Google for aggressive practices of data acquisition<a href="https://securityaffairs.co/wordpress/125056/laws-and-regulations/italys-antitrust-fined-google-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's antitrust regulator, Autorità Garante della Concorrenza e del Mercato (AGCM), has fined Apple and Google €10 million each their "aggressive" data practices.
+
+
+
+Italy's antitrust regulator,  Autorità Garante della Concorrenza e del Mercato...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HAEICHI-II: Interpol arrested +1,000 suspects linked to various cybercrimes<a href="https://securityaffairs.co/wordpress/125044/cyber-crime/interpol-arrested-1003-individuals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HAEICHI-II: Interpol arrested 1,003 individuals charged for several cybercrimes, including romance scams, investment frauds, and online money laundering. 
+
+
+
+Interpol has coordinated an international operation, code-named  Operation HAEICHI-II, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA hit by a cyber attack that uses stolen internal reply-chain emails<a href="https://securityaffairs.co/wordpress/125040/cyber-crime/ikea-attack-reply-chain-emails.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting IKEA employees in an internal phishing campaign leveraging stolen reply-chain emails.
+
+
+
+According to BleepingComputer, threat actors are targeting IKEA employees in phishing attacks using stolen reply-chain emails.
+
+
+
+Once...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy's Antitrust Regulator Fines Google and Apple for "Aggressive" Data Practices<a href="https://thehackernews.com/2021/11/italys-antitrust-regulator-fines-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's antitrust regulator has fined both Apple and Google €10 million each for what it calls are "aggressive" data practices and for not providing consumers with clear information on commercial uses of their personal data during the account creation phase.  The Autorità Garante della Concorrenza e del Mercato (AGCM)  said  "Google and Apple did not provide clear and immediate information on the acquisition and use of user data for commercial purposes," adding the tech companies chose to emphasize the data collection as only necessary to improve their own services and personalize user experience without offering any indication that the data could be transferred and used for other reasons.  The concerns have to do with how the companies omit relevant information when creating an account and using their services, details which the authority said are critical to making an informed decision as to whether or not to give permission for utilizing their data for comme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA email systems hit by ongoing cyberattack<a href="https://www.bleepingcomputer.com/news/security/ikea-email-systems-hit-by-ongoing-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IKEA is battling an ongoing cyberattack where threat actors are targeting employees in internal phishing attacks using stolen reply-chain emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Biomanufacturing Facilities With Tardigrade Malware<a href="https://thehackernews.com/2021/11/hackers-targeting-biomanufacturing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) has been linked to cyberattacks on two biomanufacturing companies that occurred this year with the help of a custom malware loader called " Tardigrade ."  That's according to an advisory published by Bioeconomy Information Sharing and Analysis Center (BIO-ISAC) this week, which noted that the malware is actively spreading across the sector with the likely goal of perpetrating intellectual property theft, maintaining persistence for extended periods of time, and infecting the systems with ransomware.   BIO-ISAC, which commenced an investigation following a ransomware attack targeting an unnamed biomanufacturing facility earlier this spring, characterized Tardigrade as a sophisticated piece of malware with "a high degree of autonomy as well as metamorphic capabilities." The same malware was then used to strike a second entity in October 2021.  The "actively spreading" intrusions have not been attributed to a specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot phishing checks screen resolution to evade researchers<a href="https://www.bleepingcomputer.com/news/security/trickbot-phishing-checks-screen-resolution-to-evade-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TrickBot malware operators have been using a new method to check the screen resolution of a victim system to evade detection of security software and analysis by researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hackers Using Babadeda Crypter to Make Their Malware Undetectable<a href="https://thehackernews.com/2021/11/crypto-hackers-using-babadeda-crypter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been discovered targeting cryptocurrency, non-fungible token ( NFT ), and  DeFi  aficionados through Discord channels to deploy a crypter named "Babadeda" that's capable of bypassing antivirus solutions and stage a variety of attacks.  "[T]his malware installer has been used in a variety of recent campaigns to deliver information stealers, RATs, and even LockBit ransomware," Morphisec researchers  said  in a report published this week. The malware distribution attacks are said to have commenced in May 2021.   Crypters are a type of software used by cybercriminals that can encrypt, obfuscate, and manipulate malicious code so as to appear seemingly innocuous and make it harder to detect by security programs — a holy grail for malware authors.  The infiltrations observed by Morphisec involved the threat actor sending decoy messages to prospective users on Discord channels related to blockchain-based games such as  Mines of Dalarnia , urg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marine services provider Swire Pacific Offshore hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/marine-services-provider-swire-pacific-offshore-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swire Pacific Offshore (SPO) has discovered an unauthorized network infiltration onto its IT systems, resulting in the compromise of some employee data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CronRAT: A New Linux Malware That's Scheduled to Run on February 31st<a href="https://thehackernews.com/2021/11/cronrat-new-linux-malware-thats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have unearthed a new remote access trojan (RAT) for Linux that employs a never-before-seen stealth technique that involves masking its malicious actions by scheduling them for execution on February 31st, a non-existent calendar day.  Dubbed CronRAT, the sneaky malware "enables  server-side Magecart data theft  which bypasses browser-based security solutions," Sansec Threat Research said. The Dutch cybersecurity firm said it found samples of the RAT on several online stores, including an unnamed country's largest outlet.   CronRAT's standout feature is its ability to leverage the  cron  job-scheduler utility for Unix to hide malicious payloads using task names programmed to execute on February 31st. Not only does this allow the malware to evade detection from security software, but it also enables it to launch an array of attack commands that could put Linux eCommerce servers at risk.  "The CronRAT adds a number of tasks to crontab with a curious date
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrests over 1,000 suspects linked to cyber crime<a href="https://www.bleepingcomputer.com/news/legal/interpol-arrests-over-1-000-suspects-linked-to-cyber-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has coordinated the arrest of 1,003 individuals linked to various cyber-crimes such as romance scams, investment frauds, online money laundering, and illegal online gambling.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT C-23 Targeting Android Users in Middle East with Spyware<a href="https://cyware.com/news/apt-c-23-targeting-android-users-in-middle-east-with-spyware-a1ae7657"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos is warning against an evolved version of an Android spyware, allegedly used by an APT group called C-23, targeting individuals in the Middle East.  It spreads via a download link in a text message sent to the target’s phone. Users are requested to a lways update Android OS and applications v ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many users are sharing passwords with someone outside their household<a href="https://www.helpnetsecurity.com/2021/11/26/maintain-access-streaming-account/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey by The Harris Poll, 68% of Americans admitted to using the same password on multiple accounts and 64% only change their passwords if they have to, leaving them vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/north-korean-hackers-posed-as-samsung-recruiters-to-target-security-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state-sponsored hackers posed as Samsung recruiters and sent fake job offers to employees at South Korean security companies that sell anti-malware software, Google said this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New differential fuzzing tool reveals novel HTTP request smuggling techniques<a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have released a new fuzzing tool used for finding novel HTTP request smuggling techniques. The tool, dubbed ‘T-Reqs’, was built by a team from Northeastern University, Boston, and Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marine services provider Swire Pacific Offshore (SPO) hit by Clop ransomware<a href="https://securityaffairs.co/wordpress/125034/cyber-crime/swire-pacific-offshore-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marine services provider Swire Pacific Offshore (SPO) has suffered a Clop ransomware attack that resulted in the theft of company data.
+
+
+
+Clop ransomware hit Marine services provider Swire Pacific Offshore (SPO) and stole company data, but did not affected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target crypto and NFT communities with Babadeda crypter<a href="https://securityaffairs.co/wordpress/125025/malware/babadeda-crypter-cryptocurrency-nft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec researchers spread cryptocurrency malware dubbed Babadeda in attacks aimed at crypto and NFT communities.
+
+
+
+Morphisec researchers spotted a new crypto-malware strain, tracked as  Babadeda, targeting cryptocurrency, non-fungible token (NFT),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel Bans Sales of Hacking and Surveillance Tools to 65 Countries<a href="https://thehackernews.com/2021/11/israel-bans-sales-of-hacking-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel's Ministry of Defense has dramatically restricted the number of countries to which cybersecurity firms in the country are allowed to sell offensive hacking and surveillance tools to, cutting off 65 nations from the export list.  The revised list, details of which were first reported by the Israeli business newspaper  Calcalist , now only includes 37 countries, down from the previous 102: Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Iceland, India, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Norway, Portugal, Romania, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, the Netherlands, the U.K., and the U.S.   Notably missing from the list are countries such as Morocco, Bahrain, Saudi Arabia, and the U.A.E, which have been previously identified as customers of Israeli spyware vendor NSO Group. In curtailing the exports, the move effecti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 25, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

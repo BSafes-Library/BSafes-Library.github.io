@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks on Healthcare System Goes Way Beyond Just Data<a href="https://cyware.com/news/ransomware-attacks-on-healthcare-system-goes-way-beyond-just-data-fc016d07"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French court indicted Nexa Technologies for complicity in acts of torture<a href="https://securityaffairs.co/wordpress/125083/intelligence/nexa-technologies-indicted.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise in Banking Scams: Zelle Fraud and Other Threats<a href="https://cyware.com/news/the-rise-in-banking-scams-zelle-fraud-and-other-threats-a9a36977"> Full Text</a>
@@ -86,7 +86,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RATDispenser, a new stealthy JavaScript loader used to distribute RATs<a href="https://securityaffairs.co/wordpress/125078/malware/ratdispenser-spreads-rats.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Zinc group posed as Samsung recruiters to target security firms<a href="https://securityaffairs.co/wordpress/125071/apt/north-korea-zinc-targets-security-firms.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 0patch releases unofficial patches for CVE-2021-24084 Windows 10 zero-day<a href="https://securityaffairs.co/wordpress/125061/security/unofficial-patches-cve-2021-24084-zeroday.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 342<a href="https://securityaffairs.co/wordpress/125068/breaking-news/security-affairs-newsletter-round-342.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows 10 zero-day gives admin rights, gets unofficial patch<a href="https://www.bleepingcomputer.com/news/security/new-windows-10-zero-day-gives-admin-rights-gets-unofficial-patch/"> Full Text</a>
@@ -182,7 +182,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CronRAT Abuses Linux Task Scheduler to Stay Under the Radar<a href="https://cyware.com/news/cronrat-abuses-linux-task-scheduler-to-stay-under-the-radar-ebac80c4"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Abusing Known Bug in Microsoft's MSHTML<a href="https://cyware.com/news/iranian-hackers-abusing-known-bug-in-microsofts-mshtml-b3c4dbcc"> Full Text</a>
@@ -216,7 +216,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Holiday Scams May Cost $53 Million This Year, Warns FBI<a href="https://cyware.com/news/holiday-scams-may-cost-53-million-this-year-warns-fbi-12a79666"> Full Text</a>
@@ -232,7 +232,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy’s Antitrust Agency fines Apple and Google for aggressive practices of data acquisition<a href="https://securityaffairs.co/wordpress/125056/laws-and-regulations/italys-antitrust-fined-google-apple.html"> Full Text</a>
@@ -252,7 +252,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HAEICHI-II: Interpol arrested +1,000 suspects linked to various cybercrimes<a href="https://securityaffairs.co/wordpress/125044/cyber-crime/interpol-arrested-1003-individuals.html"> Full Text</a>
@@ -272,7 +272,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2021
+November 27, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA hit by a cyber attack that uses stolen internal reply-chain emails<a href="https://securityaffairs.co/wordpress/125040/cyber-crime/ikea-attack-reply-chain-emails.html"> Full Text</a>
@@ -296,7 +296,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy's Antitrust Regulator Fines Google and Apple for "Aggressive" Data Practices<a href="https://thehackernews.com/2021/11/italys-antitrust-regulator-fines-google.html"> Full Text</a>
@@ -312,7 +312,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA email systems hit by ongoing cyberattack<a href="https://www.bleepingcomputer.com/news/security/ikea-email-systems-hit-by-ongoing-cyberattack/"> Full Text</a>
@@ -328,7 +328,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting Biomanufacturing Facilities With Tardigrade Malware<a href="https://thehackernews.com/2021/11/hackers-targeting-biomanufacturing.html"> Full Text</a>
@@ -344,7 +344,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot phishing checks screen resolution to evade researchers<a href="https://www.bleepingcomputer.com/news/security/trickbot-phishing-checks-screen-resolution-to-evade-researchers/"> Full Text</a>
@@ -360,7 +360,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Hackers Using Babadeda Crypter to Make Their Malware Undetectable<a href="https://thehackernews.com/2021/11/crypto-hackers-using-babadeda-crypter.html"> Full Text</a>
@@ -376,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marine services provider Swire Pacific Offshore hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/marine-services-provider-swire-pacific-offshore-hit-by-ransomware/"> Full Text</a>
@@ -392,7 +392,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CronRAT: A New Linux Malware That's Scheduled to Run on February 31st<a href="https://thehackernews.com/2021/11/cronrat-new-linux-malware-thats.html"> Full Text</a>
@@ -408,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol arrests over 1,000 suspects linked to cyber crime<a href="https://www.bleepingcomputer.com/news/legal/interpol-arrests-over-1-000-suspects-linked-to-cyber-crime/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT C-23 Targeting Android Users in Middle East with Spyware<a href="https://cyware.com/news/apt-c-23-targeting-android-users-in-middle-east-with-spyware-a1ae7657"> Full Text</a>
@@ -441,7 +441,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Many users are sharing passwords with someone outside their household<a href="https://www.helpnetsecurity.com/2021/11/26/maintain-access-streaming-account/?&web_view=true"> Full Text</a>
@@ -457,7 +457,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Record by Recorded Future<a href="https://therecord.media/north-korean-hackers-posed-as-samsung-recruiters-to-target-security-researchers/?&web_view=true"> Full Text</a>
@@ -473,7 +473,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New differential fuzzing tool reveals novel HTTP request smuggling techniques<a href="https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques?&web_view=true"> Full Text</a>
@@ -489,7 +489,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Marine services provider Swire Pacific Offshore (SPO) hit by Clop ransomware<a href="https://securityaffairs.co/wordpress/125034/cyber-crime/swire-pacific-offshore-clop-ransomware.html"> Full Text</a>
@@ -509,7 +509,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2021
+November 26, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target crypto and NFT communities with Babadeda crypter<a href="https://securityaffairs.co/wordpress/125025/malware/babadeda-crypter-cryptocurrency-nft.html"> Full Text</a>
@@ -529,7 +529,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2021
+November 25, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel Bans Sales of Hacking and Surveillance Tools to 65 Countries<a href="https://thehackernews.com/2021/11/israel-bans-sales-of-hacking-and.html"> Full Text</a>

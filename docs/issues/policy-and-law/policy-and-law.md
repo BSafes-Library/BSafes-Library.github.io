@@ -8,6 +8,56 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French court indicted Nexa Technologies for complicity in acts of torture<a href="https://securityaffairs.co/wordpress/125083/intelligence/nexa-technologies-indicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nexa Technologies was indicted for complicity in acts of torture, the French firm is accused of having sold surveillance equipment to the Egypt.
+
+
+
+Nexa Technologies offers a range of solutions for homeland security, including surveillance solutions....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy’s Antitrust Agency fines Apple and Google for aggressive practices of data acquisition<a href="https://securityaffairs.co/wordpress/125056/laws-and-regulations/italys-antitrust-fined-google-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's antitrust regulator, Autorità Garante della Concorrenza e del Mercato (AGCM), has fined Apple and Google €10 million each their "aggressive" data practices.
+
+
+
+Italy's antitrust regulator,  Autorità Garante della Concorrenza e del Mercato...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy's Antitrust Regulator Fines Google and Apple for "Aggressive" Data Practices<a href="https://thehackernews.com/2021/11/italys-antitrust-regulator-fines-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's antitrust regulator has fined both Apple and Google €10 million each for what it calls are "aggressive" data practices and for not providing consumers with clear information on commercial uses of their personal data during the account creation phase.  The Autorità Garante della Concorrenza e del Mercato (AGCM)&nbsp; said &nbsp;"Google and Apple did not provide clear and immediate information on the acquisition and use of user data for commercial purposes," adding the tech companies chose to emphasize the data collection as only necessary to improve their own services and personalize user experience without offering any indication that the data could be transferred and used for other reasons.  The concerns have to do with how the companies omit relevant information when creating an account and using their services, details which the authority said are critical to making an informed decision as to whether or not to give permission for utilizing their data for comme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
