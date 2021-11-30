@@ -6,6 +6,7 @@ nav_order: 500
 ---
 
 ## Publications
+* November, 2021, CISA - Cybersecurity Incident & Vulnerability Response Playbooks [HTML](https://archive-c.bsafes.com/docs/C/Cybersecurity-Incident-Vulnerability-Response-Playbooks/)
 * November, 2021, FTC - DATA BREACH RESPONSE, A Guide for Business [HTML](https://archive-d.bsafes.com/docs/D/DATA-BREACH-RESPONSE-A-Guide-for-Business/)
 * August 30, 2021, CISA - BAD PRACTICES [HTML](https://www.cisa.gov/BadPractices)
 * August 18, 2021, CISA - Protecting Sensitive and Personal Information from Ransomware-Caused Data Breaches [HTML](https://publications.bsafes.com/docs/cisa/protecting-sensitive-and-personal-information-from-ransomware-caused-data-breaches/)
