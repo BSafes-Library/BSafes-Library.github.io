@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers take aim at 'Grinches' using bots to target consumers during holidays<a href="https://thehill.com//policy/cybersecurity/583451-lawmakers-take-aim-at-grinches-using-bots-to-target-consumers-during"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of congressional Democrats rolled out legislation Monday to stop "Grinches" from stealing Christmas by using bots to corner the market on popular toys and other products during the holiday season.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

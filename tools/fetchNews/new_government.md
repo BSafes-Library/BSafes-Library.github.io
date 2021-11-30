@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel cut cyber export list, excluding totalitarian regimes<a href="https://securityaffairs.co/wordpress/125090/laws-and-regulations/israel-cut-export-list-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel's Ministry of Defense bans the sale of surveillance software and offensive hacking tools to tens of countries.
+
+
+
+Israel's Ministry of Defense has cut the list of countries to which Israeli surveillance and cybersecurity firms could sell their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

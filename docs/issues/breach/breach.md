@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised Cloud Accounts Lead to Cryptomining<a href="https://cyware.com/news/compromised-cloud-accounts-lead-to-cryptomining-4260fb6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Threat Horizons report claims that hackers were compromising cloud accounts used for storing files and data. Hackers also leverage cloud instances to perform other malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic discloses data breach after network hack<a href="https://www.bleepingcomputer.com/news/security/panasonic-discloses-data-breach-after-network-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese multinational conglomerate Panasonic disclosed a security breach after unknown threat actors gained access to servers on its network this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

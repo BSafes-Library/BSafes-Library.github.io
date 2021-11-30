@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy WIRTE hackers target governments in the Middle East<a href="https://www.bleepingcomputer.com/news/security/stealthy-wirte-hackers-target-governments-in-the-middle-east/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy hacking group named WIRTE has been linked to a government-targeting campaign conducting attacks since at least 2019 using malicious Excel 4.0 macros.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Compromised Google Cloud Accounts to Mine Cryptocurrency<a href="https://thehackernews.com/2021/11/hackers-using-compromised-google-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting improperly-secured Google Cloud Platform (GCP) instances to download cryptocurrency mining software to the compromised systems as well as abusing its infrastructure to install ransomware, stage phishing campaigns, and even generate traffic to YouTube videos for view count manipulation.  "While cloud customers continue to face a variety of threats across applications and infrastructure, many successful attacks are due to poor hygiene and a lack of basic control implementation," Google's Cybersecurity Action Team (CAT)&nbsp; outlined &nbsp;as part of its recent Threat Horizons report published last week.   Of the 50 recently compromised GCP instances, 86% of them were used to conduct cryptocurrency mining, in some cases within 22 seconds of successful breach, while 10% of the instances were exploited to perform scans of other publicly accessible hosts on the Internet to identify vulnerable systems, and 8% of the instances were used to strike other entiti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0patch releases unofficial patches for CVE-2021-24084 Windows 10 zero-day<a href="https://securityaffairs.co/wordpress/125061/security/unofficial-patches-cve-2021-24084-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+0patch released free unofficial patches for Windows local privilege escalation zero-day (CVE-2021-24084) in Windows 10, version 1809 and later. 
+
+
+
+0patch released free unofficial patches for Windows local privilege escalation zero-day (CVE-2021-24084)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows 10 zero-day gives admin rights, gets unofficial patch<a href="https://www.bleepingcomputer.com/news/security/new-windows-10-zero-day-gives-admin-rights-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Free unofficial patches have been released to protect Windows users from a local privilege escalation (LPE) zero-day vulnerability in the&nbsp;Mobile Device Management Service impacting&nbsp;all Windows 10 versions from v1809 to v21H1.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web market Cannazon shuts down after massive DDoS attack<a href="https://www.bleepingcomputer.com/news/security/dark-web-market-cannazon-shuts-down-after-massive-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cannazon, one of the largest dark web marketplaces for buying marijuana products, shut down last week after suffering a debilitating distributed denial of service attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

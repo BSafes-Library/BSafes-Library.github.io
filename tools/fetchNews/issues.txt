@@ -31,7 +31,6 @@
 
 Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-apt-group-exploiting-fatpipe-vpn-zero-day-since-may/
-. https://securityaffairs.co/wordpress/124705/security/cisa-incident-response-playbook.html
 
 Law
 

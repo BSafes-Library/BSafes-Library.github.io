@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT37 targets journalists with Chinotto multi-platform malware<a href="https://www.bleepingcomputer.com/news/security/apt37-targets-journalists-with-chinotto-multi-platform-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state hacking group APT37 targets South Korean journalists, defectors, and human rights activists in watering hole, spear-phishing emails, and smishing attacks delivering malware dubbed Chinotto capable of infecting Windows and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

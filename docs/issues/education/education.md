@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Addressing the cybersecurity skills gap with higher education<a href="https://www.helpnetsecurity.com/2021/11/29/cybersecurity-skills-higher-education/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by the ENISA takes a look into data gathered by the Cybersecurity Higher Education Database, CyberHEAD, in order to make a prediction on the future trends.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

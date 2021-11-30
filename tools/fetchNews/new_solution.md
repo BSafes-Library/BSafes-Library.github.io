@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CleanMyMac X: Performance and Security Software for Macbook<a href="https://thehackernews.com/2021/11/cleanmymac-x-performance-and-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We use Internet-enabled devices in every aspect of our lives today—to find information, shop, bank, do homework, play games, and keep in touch with friends and family. As a result, our devices contain much personal information about us.  Also, any great device will get a little clunky and slow over time and the Mac is no exception, and the whole "Macs don't get viruses" claim is a myth. Malware for Macs has increased over the years, and today's Macs are being plagued by adware, scareware, and other potentially unwanted programs as well.  If you are worried about your Macbook's performance and security, including unwanted software, ransomware,&nbsp; CleanMyMac X software  has you covered.  CleanMyMac is all-in-all software to optimize your Mac's performance and security. It clears out clutter and removes megatons of junk so your computer can run faster, just like it did on day one.  The tool is designed to replace several optimization apps for Mac and can be anythi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

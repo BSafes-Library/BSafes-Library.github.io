@@ -34,6 +34,474 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web market Cannazon shuts down after massive DDoS attack<a href="https://www.bleepingcomputer.com/news/security/dark-web-market-cannazon-shuts-down-after-massive-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cannazon, one of the largest dark web marketplaces for buying marijuana products, shut down last week after suffering a debilitating distributed denial of service attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Reach 260,000 in Q3 2021 - APWG Report<a href="https://cyware.com/news/phishing-attacks-reach-260000-in-q3-2021-apwg-report-7f720891"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The month of July witnessed 260,642 phishing attacks, the highest in APWG’s reporting history since 2004. Phishing victimized software-as-a-service and webmail industries the most in Q3 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers take aim at 'Grinches' using bots to target consumers during holidays<a href="https://thehill.com//policy/cybersecurity/583451-lawmakers-take-aim-at-grinches-using-bots-to-target-consumers-during"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of congressional Democrats rolled out legislation Monday to stop "Grinches" from stealing Christmas by using bots to corner the market on popular toys and other products during the holiday season. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Android Banking Trojan Campaigns Targeted Over 300,000 Devices in 2021<a href="https://thehackernews.com/2021/11/4-android-banking-trojan-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four different Android banking trojans were spread via the official Google Play Store between August and November 2021, resulting in more than 300,000 infections through various dropper apps that posed as seemingly harmless utility apps to take full control of the infected devices.  Designed to deliver Anatsa (aka TeaBot), Alien, ERMAC, and Hydra, cybersecurity firm ThreatFabric  said  the malware campaigns are not only more refined, but also engineered to have a small malicious footprint, effectively ensuring that the payloads are installed only on smartphones devices from specific regions and preventing the malware from being downloaded during the publishing process.   The list of malicious dropper apps is below -   Two Factor Authenticator (com.flowdivison)  Protection Guard (com.protectionguard.app)  QR CreatorScanner (com.ready.qrscanner.mix)  Master Scanner Live (com.multifuction.combine.qr)  QR Scanner 2021 (com.qr.code.generate)  QR Scanner (com.qr.barqr.scangen)  PDF Document
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Additions to Entity List Part of Broader U.S. Effort Targeting Spyware<a href="https://www.lawfareblog.com/recent-additions-entity-list-part-broader-us-effort-targeting-spyware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department’s addition of four entities to the export control Entity List highlights accelerated efforts to target companies providing cyber services to certain foreign governments—especially when human rights are at stake.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google experts found 2 flaws in video conferencing software Zoom<a href="https://securityaffairs.co/wordpress/125122/security/video-conferencing-software-zoom-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero researchers have discovered two vulnerabilities in the video conferencing software Zoom that expose users to attacks.
+
+
+
+Security researchers from Google Project Zero discovered two vulnerabilities in the video conferencing software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA Hit by Email Reply-Chain Cyberattack<a href="https://threatpost.com/ikea-email-reply-chain-attack/176625/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IKEA, king of furniture-in-a-flat-box, warned employees on Friday that an ongoing cyberattack was using internal emails to malspam malicious links in active email threads. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy WIRTE hackers target governments in the Middle East<a href="https://www.bleepingcomputer.com/news/security/stealthy-wirte-hackers-target-governments-in-the-middle-east/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy hacking group named WIRTE has been linked to a government-targeting campaign conducting attacks since at least 2019 using malicious Excel 4.0 macros.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised Cloud Accounts Lead to Cryptomining<a href="https://cyware.com/news/compromised-cloud-accounts-lead-to-cryptomining-4260fb6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Threat Horizons report claims that hackers were compromising cloud accounts used for storing files and data. Hackers also leverage cloud instances to perform other malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinotto Spyware Targets North Korean Defectors, Human Rights Activists<a href="https://thehackernews.com/2021/11/new-chinotto-spyware-targets-north.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean defectors, journalists who cover North Korea-related news, and entities in South Korea are being zeroed in on by a nation-state-sponsored advanced persistent threat (APT) as part of a new wave of highly-targeted surveillance attacks.  Russian cybersecurity firm Kaspersky attributed the infiltrations to a North Korean hacker group tracked as  ScarCruft , also known as  APT37 , Reaper Group, InkySquid, and Ricochet Chollima.  "The actor utilized three types of malware with similar functionalities: versions implemented in PowerShell, Windows executables and Android applications," the company's Global Research and Analysis Team (GReAT)  said  in a new report published today. "Although intended for different platforms, they share a similar command and control scheme based on HTTP communication. Therefore, the malware operators can control the whole malware family through one set of command and control scripts."   Likely active since at least 2012, ScarC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technology Diplomacy Changes Are the Right Start<a href="https://www.lawfareblog.com/technology-diplomacy-changes-are-right-start"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Department must retain the focus of top leadership and continue to work with Congress to ensure the long-term success of its new technology-focused bureau and special envoy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic confirmed that its network was illegally accessed by attackers<a href="https://securityaffairs.co/wordpress/125114/data-breach/panasonic-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panasonic disclosed a security breach after threat actors gained access to its servers storing potentially sensitive information. 
+
+
+
+Japanese electronics giant Panasonic disclosed a security breach after threat actors gained access to some servers of the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Flag 300K Banking Trojan Infections from Google Play in 4 Months<a href="https://threatpost.com/banking-trojan-infections-google-play/176630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are honing Google Play dropper campaigns, overcoming app store restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom finally adds automatic updates to Windows, macOS clients<a href="https://www.bleepingcomputer.com/news/security/zoom-finally-adds-automatic-updates-to-windows-macos-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom has announced today the launch of an automatic update feature designed to streamline the update process for desktop clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Addressing the cybersecurity skills gap with higher education<a href="https://www.helpnetsecurity.com/2021/11/29/cybersecurity-skills-higher-education/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by the ENISA takes a look into data gathered by the Cybersecurity Higher Education Database, CyberHEAD, in order to make a prediction on the future trends.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Compromised Google Cloud Accounts to Mine Cryptocurrency<a href="https://thehackernews.com/2021/11/hackers-using-compromised-google-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting improperly-secured Google Cloud Platform (GCP) instances to download cryptocurrency mining software to the compromised systems as well as abusing its infrastructure to install ransomware, stage phishing campaigns, and even generate traffic to YouTube videos for view count manipulation.  "While cloud customers continue to face a variety of threats across applications and infrastructure, many successful attacks are due to poor hygiene and a lack of basic control implementation," Google's Cybersecurity Action Team (CAT)  outlined  as part of its recent Threat Horizons report published last week.   Of the 50 recently compromised GCP instances, 86% of them were used to conduct cryptocurrency mining, in some cases within 22 seconds of successful breach, while 10% of the instances were exploited to perform scans of other publicly accessible hosts on the Internet to identify vulnerable systems, and 8% of the instances were used to strike other entiti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting CVE-2021-40438 flaw in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/125107/hacking/cve-2021-40438-apache-http-server-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the recently patched CVE-2021-40438 flaw in Apache HTTP servers, warns German Cybersecurity Agency and Cisco.
+
+
+
+Threat actors are exploiting a recently addressed server-side request forgery (SSRF) vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic discloses data breach after network hack<a href="https://www.bleepingcomputer.com/news/security/panasonic-discloses-data-breach-after-network-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese multinational conglomerate Panasonic disclosed a security breach after unknown threat actors gained access to servers on its network this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently Patched Apache HTTP Server Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/recently-patched-apache-http-server-vulnerability-exploited-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are being advised to ensure that their Apache HTTP servers are up to date, after it came to light that a recently patched vulnerability has been exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CleanMyMac X: Performance and Security Software for Macbook<a href="https://thehackernews.com/2021/11/cleanmymac-x-performance-and-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We use Internet-enabled devices in every aspect of our lives today—to find information, shop, bank, do homework, play games, and keep in touch with friends and family. As a result, our devices contain much personal information about us.  Also, any great device will get a little clunky and slow over time and the Mac is no exception, and the whole "Macs don't get viruses" claim is a myth. Malware for Macs has increased over the years, and today's Macs are being plagued by adware, scareware, and other potentially unwanted programs as well.  If you are worried about your Macbook's performance and security, including unwanted software, ransomware,  CleanMyMac X software  has you covered.  CleanMyMac is all-in-all software to optimize your Mac's performance and security. It clears out clutter and removes megatons of junk so your computer can run faster, just like it did on day one.  The tool is designed to replace several optimization apps for Mac and can be anythi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biopharmaceutical firm Supernus Pharmaceuticals hit by Hive ransomware during an ongoing acquisition<a href="https://securityaffairs.co/wordpress/125099/cyber-crime/supernus-pharmaceuticals-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biopharmaceutical company Supernus Pharmaceuticals discloses a ransomware attack, the Hive ransomware claims to have stolen company data. 
+
+
+
+Biopharmaceutical company Supernus Pharmaceuticals confirmed it was the victim of a data breach after a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT37 targets journalists with Chinotto multi-platform malware<a href="https://www.bleepingcomputer.com/news/security/apt37-targets-journalists-with-chinotto-multi-platform-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state hacking group APT37 targets South Korean journalists, defectors, and human rights activists in watering hole, spear-phishing emails, and smishing attacks delivering malware dubbed Chinotto capable of infecting Windows and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Operators Threaten to Leak 1.5TB of Supernus Pharmaceuticals Data<a href="https://www.securityweek.com/ransomware-operators-threaten-leak-15tb-supernus-pharmaceuticals-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biopharmaceutical company Supernus Pharmaceuticals last week confirmed it fell victim to a ransomware attack that resulted in a large amount of data being exfiltrated from its network.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel cut cyber export list, excluding totalitarian regimes<a href="https://securityaffairs.co/wordpress/125090/laws-and-regulations/israel-cut-export-list-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel's Ministry of Defense bans the sale of surveillance software and offensive hacking tools to tens of countries.
+
+
+
+Israel's Ministry of Defense has cut the list of countries to which Israeli surveillance and cybersecurity firms could sell their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks top 260,000 in Q3 2021<a href="https://www.helpnetsecurity.com/2021/11/29/phishing-attacks-q3-2021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of targets being attacked by phishers – the banks, app providers, universities, and other entities that phishers imitate in order to fool victims – has continued to rise through 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA hit by a cyber attack that uses stolen internal reply-chain emails<a href="https://securityaffairs.co/wordpress/125040/cyber-crime/ikea-attack-reply-chain-emails.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sending the messages from the organization's servers allows the attackers to bypass detection. Threat actors also exploit the access to internal emails to target business partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0patch releases unofficial patches for CVE-2021-24084 Windows 10 zero-day<a href="https://securityaffairs.co/wordpress/125061/security/unofficial-patches-cve-2021-24084-zeroday.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, discovered by the security researcher Abdelhamid Naceri, can be exploited to bypass a patch released by Microsoft in February to address another information disclosure flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Arrests Over 1,000 Cyber Criminals From 20 Countries; Seizes $27 Million<a href="https://thehackernews.com/2021/11/interpol-arrests-over-1000-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint four-month operation coordinated by Interpol, the international criminal police organization, has culminated in the arrests of more than 1,000 cybercriminals and the recovery of $27 million in illicit proceeds.  Codenamed " HAECHI-II ," the crackdown enabled law enforcement units from across 20 countries, as well as Hong Kong and Macao, close 1,660 cases alongside blocking 2,350 bank accounts linked to the fraudulent illicit funds amassed from a range of online financial crimes, such as romance scams, investment fraud, and money laundering associated with illegal online gambling.  "The results of Operation HAECHI-II show that the surge in online financial crime generated by the COVID-19 pandemic shows no signs of waning,"  said  Interpol Secretary General Jürgen Stock in a press statement issued on November 26.   The coordinated law enforcement probe took place over a period of four months, starting from June 2021 until September 2021, with ten new criminal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 28, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

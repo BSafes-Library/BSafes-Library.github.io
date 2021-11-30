@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HAEICHI-II: Interpol arrested +1,000 suspects linked to various cybercrimes<a href="https://securityaffairs.co/wordpress/125044/cyber-crime/interpol-arrested-1003-individuals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HAEICHI-II: Interpol arrested 1,003 individuals charged for several cybercrimes, including romance scams, investment frauds, and online money laundering. 
+
+
+
+Interpol has coordinated an international operation, code-named  Operation HAEICHI-II, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrests over 1,000 suspects linked to cyber crime<a href="https://www.bleepingcomputer.com/news/legal/interpol-arrests-over-1-000-suspects-linked-to-cyber-crime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has coordinated the arrest of 1,003 individuals linked to various cyber-crimes such as romance scams, investment frauds, online money laundering, and illegal online gambling.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

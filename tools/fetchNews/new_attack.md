@@ -8,6 +8,56 @@ nav_order: 900015
 
 ## Attack
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA Hit by Email Reply-Chain Cyberattack<a href="https://threatpost.com/ikea-email-reply-chain-attack/176625/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IKEA, king of furniture-in-a-flat-box, warned employees on Friday that an ongoing cyberattack was using internal emails to malspam malicious links in active email threads. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic confirmed that its network was illegally accessed by attackers<a href="https://securityaffairs.co/wordpress/125114/data-breach/panasonic-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panasonic disclosed a security breach after threat actors gained access to its servers storing potentially sensitive information. 
+
+
+
+Japanese electronics giant Panasonic disclosed a security breach after threat actors gained access to some servers of the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biopharmaceutical firm Supernus Pharmaceuticals hit by Hive ransomware during an ongoing acquisition<a href="https://securityaffairs.co/wordpress/125099/cyber-crime/supernus-pharmaceuticals-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biopharmaceutical company Supernus Pharmaceuticals discloses a ransomware attack, the Hive ransomware claims to have stolen company data. 
+
+
+
+Biopharmaceutical company Supernus Pharmaceuticals confirmed it was the victim of a data breach after a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

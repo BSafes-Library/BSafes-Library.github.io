@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technology Diplomacy Changes Are the Right Start<a href="https://www.lawfareblog.com/technology-diplomacy-changes-are-right-start"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Department must retain the focus of top leadership and continue to work with Congress to ensure the long-term success of its new technology-focused bureau and special envoy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Flag 300K Banking Trojan Infections from Google Play in 4 Months<a href="https://threatpost.com/banking-trojan-infections-google-play/176630/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are honing Google Play dropper campaigns, overcoming app store restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks top 260,000 in Q3 2021<a href="https://www.helpnetsecurity.com/2021/11/29/phishing-attacks-q3-2021/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of targets being attacked by phishers – the banks, app providers, universities, and other entities that phishers imitate in order to fool victims – has continued to rise through 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

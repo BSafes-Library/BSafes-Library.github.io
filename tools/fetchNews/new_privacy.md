@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent Additions to Entity List Part of Broader U.S. Effort Targeting Spyware<a href="https://www.lawfareblog.com/recent-additions-entity-list-part-broader-us-effort-targeting-spyware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Commerce Department’s addition of four entities to the export control Entity List highlights accelerated efforts to target companies providing cyber services to certain foreign governments—especially when human rights are at stake.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinotto Spyware Targets North Korean Defectors, Human Rights Activists<a href="https://thehackernews.com/2021/11/new-chinotto-spyware-targets-north.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean defectors, journalists who cover North Korea-related news, and entities in South Korea are being zeroed in on by a nation-state-sponsored advanced persistent threat (APT) as part of a new wave of highly-targeted surveillance attacks.  Russian cybersecurity firm Kaspersky attributed the infiltrations to a North Korean hacker group tracked as&nbsp; ScarCruft , also known as&nbsp; APT37 , Reaper Group, InkySquid, and Ricochet Chollima.  "The actor utilized three types of malware with similar functionalities: versions implemented in PowerShell, Windows executables and Android applications," the company's Global Research and Analysis Team (GReAT)&nbsp; said &nbsp;in a new report published today. "Although intended for different platforms, they share a similar command and control scheme based on HTTP communication. Therefore, the malware operators can control the whole malware family through one set of command and control scripts."   Likely active since at least 2012, ScarC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

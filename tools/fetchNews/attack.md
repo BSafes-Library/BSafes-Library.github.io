@@ -8,6 +8,60 @@ nav_order: 900015
 
 ## Attack
 ---
+November 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA hit by a cyber attack that uses stolen internal reply-chain emails<a href="https://securityaffairs.co/wordpress/125040/cyber-crime/ikea-attack-reply-chain-emails.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting IKEA employees in an internal phishing campaign leveraging stolen reply-chain emails.
+
+
+
+According to BleepingComputer, threat actors are targeting IKEA employees in phishing attacks using stolen reply-chain emails.
+
+
+
+Once...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA email systems hit by ongoing cyberattack<a href="https://www.bleepingcomputer.com/news/security/ikea-email-systems-hit-by-ongoing-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IKEA is battling an ongoing cyberattack where threat actors are targeting employees in internal phishing attacks using stolen reply-chain emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marine services provider Swire Pacific Offshore (SPO) hit by Clop ransomware<a href="https://securityaffairs.co/wordpress/125034/cyber-crime/swire-pacific-offshore-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marine services provider Swire Pacific Offshore (SPO) has suffered a Clop ransomware attack that resulted in the theft of company data.
+
+
+
+Clop ransomware hit Marine services provider Swire Pacific Offshore (SPO) and stole company data, but did not affected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Reach 260,000 in Q3 2021 - APWG Report<a href="https://cyware.com/news/phishing-attacks-reach-260000-in-q3-2021-apwg-report-7f720891"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The month of July witnessed 260,642 phishing attacks, the highest in APWG’s reporting history since 2004. Phishing victimized software-as-a-service and webmail industries the most in Q3 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

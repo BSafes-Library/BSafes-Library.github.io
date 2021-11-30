@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+November 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks on Healthcare System Goes Way Beyond Just Data<a href="https://cyware.com/news/ransomware-attacks-on-healthcare-system-goes-way-beyond-just-data-fc016d07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks on the healthcare sector directly impact the patients.&nbsp;A Ponemon study revealed that a successful attack can lead to a longer stay for patients at a round 70% of healthcare delivery organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 342<a href="https://securityaffairs.co/wordpress/125068/breaking-news/security-affairs-newsletter-round-342.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holiday Scams May Cost $53 Million This Year, Warns FBI<a href="https://cyware.com/news/holiday-scams-may-cost-53-million-this-year-warns-fbi-12a79666"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has warned that online shoppers are at risk of losing more than $53 million this year to holiday scams that promise fake bargains and hard-to-find gifts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many users are sharing passwords with someone outside their household<a href="https://www.helpnetsecurity.com/2021/11/26/maintain-access-streaming-account/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey by The Harris Poll, 68% of Americans admitted to using the same password on multiple accounts and 64% only change their passwords if they have to, leaving them vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Record by Recorded Future<a href="https://therecord.media/north-korean-hackers-posed-as-samsung-recruiters-to-target-security-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean state-sponsored hackers posed as Samsung recruiters and sent fake job offers to employees at South Korean security companies that sell anti-malware software, Google said this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

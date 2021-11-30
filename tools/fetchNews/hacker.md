@@ -8,6 +8,67 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 28, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Zinc group posed as Samsung recruiters to target security firms<a href="https://securityaffairs.co/wordpress/125071/apt/north-korea-zinc-targets-security-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actors posed as Samsung recruiters in a spear-phishing campaign aimed at employees at South Korean security firms. 
+
+
+
+North Korea-linked APT group posed as Samsung recruiters is a spear-phishing campaign that targeted South...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Abusing Known Bug in Microsoft's MSHTML<a href="https://cyware.com/news/iranian-hackers-abusing-known-bug-in-microsofts-mshtml-b3c4dbcc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Iranian actor was spotted abusing an RCE flaw in Microsoft MSHTML to target Farsi-speaking people globally and stealing their Google and Instagram credentials. The attacks started in July via spear-phishing emails that targeted Windows users with Winword attachments. Exports recommend organiz ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Biomanufacturing Facilities With Tardigrade Malware<a href="https://thehackernews.com/2021/11/hackers-targeting-biomanufacturing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) has been linked to cyberattacks on two biomanufacturing companies that occurred this year with the help of a custom malware loader called " Tardigrade ."  That's according to an advisory published by Bioeconomy Information Sharing and Analysis Center (BIO-ISAC) this week, which noted that the malware is actively spreading across the sector with the likely goal of perpetrating intellectual property theft, maintaining persistence for extended periods of time, and infecting the systems with ransomware.   BIO-ISAC, which commenced an investigation following a ransomware attack targeting an unnamed biomanufacturing facility earlier this spring, characterized Tardigrade as a sophisticated piece of malware with "a high degree of autonomy as well as metamorphic capabilities." The same malware was then used to strike a second entity in October 2021.  The "actively spreading" intrusions have not been attributed to a specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hackers Using Babadeda Crypter to Make Their Malware Undetectable<a href="https://thehackernews.com/2021/11/crypto-hackers-using-babadeda-crypter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been discovered targeting cryptocurrency, non-fungible token ( NFT ), and&nbsp; DeFi &nbsp;aficionados through Discord channels to deploy a crypter named "Babadeda" that's capable of bypassing antivirus solutions and stage a variety of attacks.  "[T]his malware installer has been used in a variety of recent campaigns to deliver information stealers, RATs, and even LockBit ransomware," Morphisec researchers&nbsp; said &nbsp;in a report published this week. The malware distribution attacks are said to have commenced in May 2021.   Crypters are a type of software used by cybercriminals that can encrypt, obfuscate, and manipulate malicious code so as to appear seemingly innocuous and make it harder to detect by security programs — a holy grail for malware authors.  The infiltrations observed by Morphisec involved the threat actor sending decoy messages to prospective users on Discord channels related to blockchain-based games such as&nbsp; Mines of Dalarnia , urg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

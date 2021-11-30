@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web market Cannazon shuts down after massive DDoS attack<a href="https://www.bleepingcomputer.com/news/security/dark-web-market-cannazon-shuts-down-after-massive-ddos-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attacks Reach 260,000 in Q3 2021 - APWG Report<a href="https://cyware.com/news/phishing-attacks-reach-260000-in-q3-2021-apwg-report-7f720891"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers take aim at 'Grinches' using bots to target consumers during holidays<a href="https://thehill.com//policy/cybersecurity/583451-lawmakers-take-aim-at-grinches-using-bots-to-target-consumers-during"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Android Banking Trojan Campaigns Targeted Over 300,000 Devices in 2021<a href="https://thehackernews.com/2021/11/4-android-banking-trojan-campaigns.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recent Additions to Entity List Part of Broader U.S. Effort Targeting Spyware<a href="https://www.lawfareblog.com/recent-additions-entity-list-part-broader-us-effort-targeting-spyware"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google experts found 2 flaws in video conferencing software Zoom<a href="https://securityaffairs.co/wordpress/125122/security/video-conferencing-software-zoom-flaws.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA Hit by Email Reply-Chain Cyberattack<a href="https://threatpost.com/ikea-email-reply-chain-attack/176625/"> Full Text</a>
@@ -150,7 +150,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy WIRTE hackers target governments in the Middle East<a href="https://www.bleepingcomputer.com/news/security/stealthy-wirte-hackers-target-governments-in-the-middle-east/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Compromised Cloud Accounts Lead to Cryptomining<a href="https://cyware.com/news/compromised-cloud-accounts-lead-to-cryptomining-4260fb6d"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chinotto Spyware Targets North Korean Defectors, Human Rights Activists<a href="https://thehackernews.com/2021/11/new-chinotto-spyware-targets-north.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Technology Diplomacy Changes Are the Right Start<a href="https://www.lawfareblog.com/technology-diplomacy-changes-are-right-start"> Full Text</a>
@@ -214,7 +214,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panasonic confirmed that its network was illegally accessed by attackers<a href="https://securityaffairs.co/wordpress/125114/data-breach/panasonic-data-breach.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Flag 300K Banking Trojan Infections from Google Play in 4 Months<a href="https://threatpost.com/banking-trojan-infections-google-play/176630/"> Full Text</a>
@@ -250,7 +250,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom finally adds automatic updates to Windows, macOS clients<a href="https://www.bleepingcomputer.com/news/security/zoom-finally-adds-automatic-updates-to-windows-macos-clients/"> Full Text</a>
@@ -266,7 +266,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Addressing the cybersecurity skills gap with higher education<a href="https://www.helpnetsecurity.com/2021/11/29/cybersecurity-skills-higher-education/?&web_view=true"> Full Text</a>
@@ -282,7 +282,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Compromised Google Cloud Accounts to Mine Cryptocurrency<a href="https://thehackernews.com/2021/11/hackers-using-compromised-google-cloud.html"> Full Text</a>
@@ -298,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of attacks exploiting CVE-2021-40438 flaw in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/125107/hacking/cve-2021-40438-apache-http-server-attacks.html"> Full Text</a>
@@ -318,7 +318,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panasonic discloses data breach after network hack<a href="https://www.bleepingcomputer.com/news/security/panasonic-discloses-data-breach-after-network-hack/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recently Patched Apache HTTP Server Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/recently-patched-apache-http-server-vulnerability-exploited-attacks?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CleanMyMac X: Performance and Security Software for Macbook<a href="https://thehackernews.com/2021/11/cleanmymac-x-performance-and-security.html"> Full Text</a>
@@ -366,7 +366,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biopharmaceutical firm Supernus Pharmaceuticals hit by Hive ransomware during an ongoing acquisition<a href="https://securityaffairs.co/wordpress/125099/cyber-crime/supernus-pharmaceuticals-hive-ransomware.html"> Full Text</a>
@@ -386,7 +386,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT37 targets journalists with Chinotto multi-platform malware<a href="https://www.bleepingcomputer.com/news/security/apt37-targets-journalists-with-chinotto-multi-platform-malware/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Operators Threaten to Leak 1.5TB of Supernus Pharmaceuticals Data<a href="https://www.securityweek.com/ransomware-operators-threaten-leak-15tb-supernus-pharmaceuticals-data?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel cut cyber export list, excluding totalitarian regimes<a href="https://securityaffairs.co/wordpress/125090/laws-and-regulations/israel-cut-export-list-surveillance.html"> Full Text</a>
@@ -438,7 +438,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks top 260,000 in Q3 2021<a href="https://www.helpnetsecurity.com/2021/11/29/phishing-attacks-q3-2021/?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA hit by a cyber attack that uses stolen internal reply-chain emails<a href="https://securityaffairs.co/wordpress/125040/cyber-crime/ikea-attack-reply-chain-emails.html?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 0patch releases unofficial patches for CVE-2021-24084 Windows 10 zero-day<a href="https://securityaffairs.co/wordpress/125061/security/unofficial-patches-cve-2021-24084-zeroday.html?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2021
+November 28, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Arrests Over 1,000 Cyber Criminals From 20 Countries; Seizes $27 Million<a href="https://thehackernews.com/2021/11/interpol-arrests-over-1000-cyber.html"> Full Text</a>
