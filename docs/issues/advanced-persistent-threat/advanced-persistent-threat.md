@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WIRTE APT group targets the Middle East since at least 2019<a href="https://securityaffairs.co/wordpress/125133/apt/wirte-apt-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor named WIRTE targets government, diplomatic entities, military organizations, law firms, and financial institutions in Middle East.
+
+
+
+Cybersecurity researchers from Kaspersky have detailed the activity of a threat actor named WIRTE that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScarCruft APT Mounts Desktop/Mobile Double-Pronged Spy Attacks<a href="https://threatpost.com/scarcruft-apt-desktop-mobile-attacks/176620/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked group is deploying the Chinotto spyware backdoor against dissidents, journalists and other politically relevant individuals in South Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

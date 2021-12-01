@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Members of hacking group sentenced for stealing millions in cryptocurrency<a href="https://thehill.com//policy/cybersecurity/583647-members-of-hacking-group-sentenced-for-stealing-millions-in"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department on Tuesday announced the sentencing of the last member of an international hacking group indicted for allegedly stealing millions in cryptocurrency as part of a “SIM hijacking” effort.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

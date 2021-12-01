@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang ransomware operation matures with experienced affiliates<a href="https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-operation-matures-with-experienced-affiliates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An affiliate of the recently discovered&nbsp;Yanluowang ransomware&nbsp;operation is focusing its attacks on U.S. organizations in the financial sector using BazarLoader malware in the reconnaissance stage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

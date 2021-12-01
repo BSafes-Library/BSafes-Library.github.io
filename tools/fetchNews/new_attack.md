@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EwDoor Botnet Is Attacking AT&amp;T Customers<a href="https://blog.netlab.360.com/warning-ewdoor-botnet-is-attacking-att-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to 360 Netlab, so far, EwDoor has undergone three versions of updates, and its main functions can be summarized into two main categories of DDoS attacks and backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Netlab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Campaign Abuses Legitimate Remote Administrator Tools and Spreads via Fake Cryptocurrency Websites<a href="https://www.trendmicro.com/en_us/research/21/k/campaign-abusing-rats-uses-fake-websites.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers discovered a new cryptocurrency-related campaign that abuses a legitimate Russian RAT known as Safib Assistant via a newer version of the malware called SpyAgent.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

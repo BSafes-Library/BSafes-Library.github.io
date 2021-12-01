@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google experts found 2 flaws in video conferencing software Zoom<a href="https://securityaffairs.co/wordpress/125122/security/video-conferencing-software-zoom-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero researchers have discovered two vulnerabilities in the video conferencing software Zoom that expose users to attacks.
+
+
+
+Security researchers from Google Project Zero discovered two vulnerabilities in the video conferencing software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom finally adds automatic updates to Windows, macOS clients<a href="https://www.bleepingcomputer.com/news/security/zoom-finally-adds-automatic-updates-to-windows-macos-clients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom has announced today the launch of&nbsp;an automatic update feature designed to streamline the update process for desktop clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting CVE-2021-40438 flaw in Apache HTTP Server<a href="https://securityaffairs.co/wordpress/125107/hacking/cve-2021-40438-apache-http-server-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the recently patched CVE-2021-40438 flaw in Apache HTTP servers, warns German Cybersecurity Agency and Cisco.
+
+
+
+Threat actors are exploiting a recently addressed server-side request forgery (SSRF) vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently Patched Apache HTTP Server Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/recently-patched-apache-http-server-vulnerability-exploited-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are being advised to ensure that their Apache HTTP servers are up to date, after it came to light that a recently patched vulnerability has been exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

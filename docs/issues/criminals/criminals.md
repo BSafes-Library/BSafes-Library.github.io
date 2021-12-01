@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized $2.2M from affiliate of REvil, Gandcrab ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-22m-from-affiliate-of-revil-gandcrab-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI seized $2.2 million in August from a well-known REvil and GandCrab ransomware affiliate, according to court documents seen by BleepingComputer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Pose as Samsung Recruiters to Target South Korea<a href="https://cyware.com/news/cybercriminals-pose-as-samsung-recruiters-to-target-south-korea-e7b98d44"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Google revealed that Lazarus APT, the North Korean-linked cyberespionage group, impersonated Samsung recruiters to target South Korean security firms selling anti-malware solutions. The sent emails contain a malicious PDF that talks about recruiting. Hackers are innovating and putting m ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

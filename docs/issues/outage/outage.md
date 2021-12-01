@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack shuts down Lewis &amp; Clark Community College<a href="https://www.kmov.com/news/ransomware-attack-shuts-down-lewis-clark-community-college/article_322258be-516e-11ec-ba26-df0bdc26f6fb.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The college closed all its campuses this week and canceled all extra-curricular activities, including sports. The hack comes just weeks before the end of the fall semester.
+</details>
+<div style="text-align: right" markdown="1">
+kmov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

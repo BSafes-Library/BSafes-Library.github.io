@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender scares admins with Emotet false positives<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-scares-admins-with-emotet-false-positives/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack shuts down Lewis & Clark Community College<a href="https://www.kmov.com/news/ransomware-attack-shuts-down-lewis-clark-community-college/article_322258be-516e-11ec-ba26-df0bdc26f6fb.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ kmov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Democrat pushes for pipeline reliability standards<a href="https://thehill.com//policy/energy-environment/583657-democrat-pushes-for-pipeline-reliability-standards"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hub for Lean IT Security Teams<a href="https://thehackernews.com/2021/11/new-hub-for-lean-it-security-teams.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play the Opera Please – Opera patches a flaw in their turbo servers<a href="https://securityaffairs.co/wordpress/125155/hacking/opera-turbo-servers-flaw.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Decryption of Network Traffic Can Improve Security<a href="https://threatpost.com/decryption-improve-security/176613/"> Full Text</a>
@@ -138,7 +138,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI seized $2.2M from affiliate of REvil, Gandcrab ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-22m-from-affiliate-of-revil-gandcrab-ransomware-gangs/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High Volume German Phishing Campaign Aims to Steal Banking Credentials<a href="https://www.proofpoint.com/us/blog/threat-insight/high-volume-german-phishing-campaign-aims-steal-banking-credentials?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Members of hacking group sentenced for stealing millions in cryptocurrency<a href="https://thehill.com//policy/cybersecurity/583647-members-of-hacking-group-sentenced-for-stealing-millions-in"> Full Text</a>
@@ -186,7 +186,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Wormable Security Flaw Found in Several HP Printer Models<a href="https://thehackernews.com/2021/11/critical-wormable-security-flaw-found.html"> Full Text</a>
@@ -202,7 +202,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New EwDoor Botnet is targeting AT&T customers<a href="https://securityaffairs.co/wordpress/125143/cyber-crime/ewdoor-botnet.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finland warns of Flubot malware heavily targeting Android users<a href="https://www.bleepingcomputer.com/news/security/finland-warns-of-flubot-malware-heavily-targeting-android-users/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2.1 Million People Affected by Breach at DNA Diagnostics Center<a href="https://www.securityweek.com/21-million-people-affected-breach-dna-testing-company?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panasonic Suffers Data Breach After Hackers Hack Into Its Network<a href="https://thehackernews.com/2021/11/panasonic-suffers-data-breach-after.html"> Full Text</a>
@@ -270,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Printing Shellz flaws impact 150 HP multifunction printer models<a href="https://securityaffairs.co/wordpress/125140/hacking/printing-shellz-flaws-hp-printer-models.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smartwatches for children are a privacy and security nightmare<a href="https://www.bleepingcomputer.com/news/security/smartwatches-for-children-are-a-privacy-and-security-nightmare/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EwDoor Botnet Is Attacking AT&T Customers<a href="https://blog.netlab.360.com/warning-ewdoor-botnet-is-attacking-att-customers/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Netlab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Unauthorized File Read Vulnerability Affects Microsoft Windows OS<a href="https://thehackernews.com/2021/11/unpatched-unauthorized-file-read.html"> Full Text</a>
@@ -338,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WIRTE APT group targets the Middle East since at least 2019<a href="https://securityaffairs.co/wordpress/125133/apt/wirte-apt-group.html"> Full Text</a>
@@ -358,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EwDoor botnet targets AT&T network edge devices at US firms<a href="https://www.bleepingcomputer.com/news/security/ewdoor-botnet-targets-atandt-network-edge-devices-at-us-firms/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Project Zero Flags High-Risk Zoom Security Flaw<a href="https://www.securityweek.com/project-zero-flags-high-risk-zoom-security-flaw?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WIRTE Hacker Group Targets Government, Law, Financial Entities in Middle East<a href="https://thehackernews.com/2021/11/wirte-hacker-group-targets-government.html"> Full Text</a>
@@ -406,7 +406,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Android banking trojans were spread via Google Play infecting 300.000+ devices<a href="https://securityaffairs.co/wordpress/125127/malware/4-banking-trojans-google-play.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android banking malware infects 300,000 Google Play users<a href="https://www.bleepingcomputer.com/news/security/android-banking-malware-infects-300-000-google-play-users/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Campaign Abuses Legitimate Remote Administrator Tools and Spreads via Fake Cryptocurrency Websites<a href="https://www.trendmicro.com/en_us/research/21/k/campaign-abusing-rats-uses-fake-websites.html?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DNA testing firm discloses data breach affecting 2.1 million people<a href="https://www.bleepingcomputer.com/news/security/dna-testing-firm-discloses-data-breach-affecting-21-million-people/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Pose as Samsung Recruiters to Target South Korea<a href="https://cyware.com/news/cybercriminals-pose-as-samsung-recruiters-to-target-south-korea-e7b98d44"> Full Text</a>
@@ -491,7 +491,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8-year-old HP printer vulnerability affects 150 printer models<a href="https://www.bleepingcomputer.com/news/security/8-year-old-hp-printer-vulnerability-affects-150-printer-models/"> Full Text</a>
@@ -507,7 +507,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Slowing Down the Pace of Financial Services Sector<a href="https://cyware.com/news/cyberattackers-slowing-down-the-pace-of-financial-services-sector-25bc424f"> Full Text</a>
@@ -524,7 +524,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yanluowang ransomware operation matures with experienced affiliates<a href="https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-operation-matures-with-experienced-affiliates/"> Full Text</a>
@@ -540,7 +540,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScarCruft APT Mounts Desktop/Mobile Double-Pronged Spy Attacks<a href="https://threatpost.com/scarcruft-apt-desktop-mobile-attacks/176620/"> Full Text</a>
@@ -556,7 +556,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2021
+November 29, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Windows Zero-Day Allows Privileged File Access<a href="https://threatpost.com/unpatched-windows-zero-day-privileged-file-access/176609/"> Full Text</a>

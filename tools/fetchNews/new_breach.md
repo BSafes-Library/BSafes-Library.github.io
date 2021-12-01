@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2.1 Million People Affected by Breach at DNA Diagnostics Center<a href="https://www.securityweek.com/21-million-people-affected-breach-dna-testing-company?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers accessed an archived database containing personal information collected between 2004 and 2012 for a national genetic testing organization system that was acquired by the firm in 2012.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic Suffers Data Breach After Hackers Hack Into Its Network<a href="https://thehackernews.com/2021/11/panasonic-suffers-data-breach-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese consumer electronics giant Panasonic has disclosed a security breach wherein an unauthorized third-party broke into its network and potentially accessed data from one of its file servers.  "As the result of an internal investigation, it was determined that some data on a file server had been accessed during the intrusion," the company&nbsp; said &nbsp;in a short statement published on November 26. Panasonic didn't reveal the exact nature of the data that was accessed, but TechCrunch&nbsp; reported &nbsp;that the breach began on June 22 and ended on November 3.   The Osaka-based company said that immediately upon discovering the intrusion on November 11, it took steps to report the incident to the relevant authorities and that it implemented security countermeasures, including preventing external access to the network.   Panasonic also noted it's currently working with an independent "specialist" organization to probe the extent of the leak and determine if the access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNA testing firm discloses data breach affecting 2.1 million people<a href="https://www.bleepingcomputer.com/news/security/dna-testing-firm-discloses-data-breach-affecting-21-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DNA Diagnostics Center (DDC), an Ohio-based DNA testing company, has disclosed a hacking incident that affects 2,102,436 persons.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

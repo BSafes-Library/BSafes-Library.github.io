@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hub for Lean IT Security Teams<a href="https://thehackernews.com/2021/11/new-hub-for-lean-it-security-teams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the harsh realities of cybersecurity today is that malicious actors and attackers don't distinguish between organizations that have seemingly endless resources and those operating with lean IT security teams. For these lean teams, meeting the challenges in the current security landscape requires constant attention, and sometimes a little support.  XDR provider Cynet has built a new minisite ( find it here ) with the goal of giving these lean IT Security teams a space to find answers, share their wins and strategies, gain new insights, and have some fun in the process. The company refers to these lean teams and the people that make them up as Lean IT Security Heroes.  These groups often work with fewer resources, but are always able to defend against massive threats through creativity, ingenuity, and hard work. This new Lean IT Security Heroes minisite offers a variety of activities and tools that are ideal for lean teams looking to enhance their defenses.  Additionally, the sit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
