@@ -34,6 +34,567 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet now spreads via fake Adobe Windows App Installer packages<a href="https://www.bleepingcomputer.com/news/security/emotet-now-spreads-via-fake-adobe-windows-app-installer-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Emotet malware is now distributed through malicious Windows App Installer packages that pretend to be Adobe PDF software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Again (But With a Twist) Checks Screen Resolution to Avoid Detection<a href="https://cyware.com/news/trickbot-again-but-with-a-twist-checks-screen-resolution-to-avoid-detection-7370c3b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot gang is once again doing a screen resolution check to identify virtual machines before deploying payloads, and hence trying to stay under the radar with its improved techniques. Experts say it is for the first time that a gang is using a script in an HTML attachment to check for screen ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data on thousands of Planned Parenthood Los Angeles patients breached<a href="https://thehill.com//policy/cybersecurity/583909-data-on-thousands-of-planned-parenthood-los-angeles-patients-breached"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Planned Parenthood Los Angeles (PPLA) announced Wednesday that it had been the target of a “cybersecurity incident” that compromised patient information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EwDoor Botnet Targeting Unpatched AT&T Network Edge Devices<a href="https://thehackernews.com/2021/12/new-ewdoor-botnet-targeting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered botnet capable of staging distributed denial-of-service (DDoS) attacks targeted unpatched Ribbon Communications (formerly Edgewater Networks) EdgeMarc appliances belonging to telecom service provider AT&T by exploiting a four-year-old flaw in the network appliances.  Chinese tech giant Qihoo 360's Netlab network security division, which detected the botnet first on October 27, 2021, called it  EwDoor , noting it observed 5,700 compromised IP addresses located in the U.S. during a brief three-hour window.   "So far, the EwDoor in our view has undergone three versions of updates, and its main functions can be summarized into two main categories of DDoS attacks and backdoor," the researchers  noted . "Based on the attacked devices are telephone communication related, we presume that its main purpose is DDoS attacks, and gathering of sensitive information, such as call logs."   Propagating through a flaw in EdgeMarc devices, EwDoor supports a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Collections allows enhancing the sharing of Indicators of Compromise (IoCs)<a href="https://securityaffairs.co/wordpress/125199/security/virustotal-collections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal announced VirusTotal Collections, a new service that allows security researchers to share sets of Indicators of Compromise (IoCs). 
+
+
+
+VirusTotal announced VirusTotal Collections, a new service that allows threat researchers to share Indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Ubiquiti dev charged for trying to extort his employer<a href="https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-charged-for-trying-to-extort-his-employer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nickolas Sharp, a former employee of networking device maker Ubiquiti, was arrested and charged today with data theft and attempting to extort his employer while posing as a whistleblower and an anonymous hacker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Introduces 'Collections' to Simplify IoC Sharing<a href="https://www.securityweek.com/virustotal-introduces-collections-simplify-ioc-sharing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chronicle-owned VirusTotal this week announced VirusTotal Collections, a new resource aimed at making it easier for security researchers to share Indicators of Compromise (IoCs).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bipartisan bills to strengthen networks security, cyber literacy<a href="https://thehill.com//policy/cybersecurity/583905-house-passes-bipartisan-bills-to-strengthen-networks-security-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday passed three bipartisan bills intended to shore up network security and increase cyber literacy across the nation, following a difficult year fraught with several significant cybersecurity attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using RTF Template Injection Technique in Phishing Attacks<a href="https://thehackernews.com/2021/12/hackers-increasingly-using-rtf-template.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three different state-sponsored threat actors aligned with China, India, and Russia have been observed adopting a new method called  RTF  (aka Rich Text Format) template injection as part of their phishing campaigns to deliver malware to targeted systems.  "RTF template injection is a novel technique that is ideal for malicious phishing attachments because it is simple and allows threat actors to retrieve malicious content from a remote URL using an RTF file," Proofpoint researchers said in a new report  shared with The Hacker News.   At the heart of the attack is an RTF file containing decoy content that can be  manipulated  to enable the retrieval of content, including malicious payloads, hosted at an external URL upon opening an RTF file. Specifically, it leverages the RTF  template functionality  to alter a document's formatting properties using a  hex editor  by specifying a URL resource instead of an accessible file resource destination from which a remote payload
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RTF Template Inject technique used by APT groups in recent attacks<a href="https://securityaffairs.co/wordpress/125189/hacking/rtf-template-injection-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state actors from China, India, and Russia, were spotted using a novel RTF template injection technique in recent attacks. 
+
+
+
+APT groups from China, India, and Russia have used a new RTF (rich text format) template injection technique in recent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting founder imprisoned for helping cybercrime gangs<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-founder-imprisoned-for-helping-cybercrime-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+34-year-old Russian Aleksandr Grichishkin, the founder of a bulletproof hosting service, was sentenced to 60 months in prison for allowing cybercrime gangs to use the platform in attacks targeting US financial institutions between 2008 to 2015.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Over-permissive’ authentication checks left 190 Australian organizations vulnerable to business email compromise attacks<a href="https://portswigger.net/daily-swig/over-permissive-authentication-checks-left-190-australian-organizations-vulnerable-to-business-email-compromise-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email authentication checks could be hoodwinked by phishing emails impersonating nearly 200 Australian organizations due to a vulnerability discovered more than two years after its conception.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook, Instagram remove accounts linked to Chinese COVID-19 disinformation efforts<a href="https://thehill.com//policy/cybersecurity/583861-facebook-instagram-remove-accounts-linked-to-chinese-covid-19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta on Wednesday announced that it had removed hundreds of accounts, pages and groups linked to a Chinese effort to spread disinformation around the United States pressuring the World Health Organization (WHO) to blame the COVID-19 pandemic on China.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Jailed for Stealing Millions of Dollars in Cryptocurrencies by SIM Hijacking<a href="https://thehackernews.com/2021/12/hacker-jailed-for-stealing-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sixth member associated with an international hacking group known as  The Community  has been sentenced in connection with a multimillion-dollar SIM swapping conspiracy, the U.S. Department of Justice (DoJ) said.  Garrett Endicott, 22, from the U.S. state of Missouri, who pleaded guilty to charges of wire fraud and aggravated identity theft following an indictment in 2019, was  sentenced  to 10 months in prison and ordered to pay an amount totaling $121,549.37 in restitution.   SIM swapping , also called SIM hijacking, refers to an identity theft scheme wherein malicious parties persuade phone carriers into porting their victims' cell services to SIM cards under their control, often facilitated by bribing an employee of a mobile phone provider or by contacting the service provider's customer support by posing as the victim and requesting that the phone number be swapped to a SIM card operated by the group.  The goal is to leverage the phone numbers as a gateway to hijack dif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI training document shows lawful access to multiple encrypted messaging apps<a href="https://securityaffairs.co/wordpress/125176/security/encrypted-messaging-apps-data-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most secure encrypted messaging apps? An FBI document shows what data can be obtained from them.
+
+
+
+The Record shared an FBI training document that reveals the surveillance capabilities of the US law enforcement detailing which data can be extracted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Android app steals Malaysian bank credentials, MFA codes<a href="https://www.bleepingcomputer.com/news/security/malicious-android-app-steals-malaysian-bank-credentials-mfa-codes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake Android app is masquerading as a housekeeping service to steal online banking credentials from the customers of eight Malaysian banks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Money Mule Action leads to 1,803 arrests<a href="https://www.europol.europa.eu/newsroom/news/european-money-mule-action-leads-to-1-803-arrests?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This was the seventh iteration of the European Money Mule Action, or ‘EMMA’, which was established in 2016 on the initiative of Europol, Eurojust, and the European Banking Federation.
+</details>
+<div style="text-align: right" markdown="1">
+Europol
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA announces members of team providing advice on cybersecurity threats<a href="https://thehill.com//policy/cybersecurity/583843-cisa-announces-members-of-team-providing-advice-on-cybersecurity-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday announced the establishment of its Cybersecurity Advisory Committee and the nearly two dozen members who will provide input on efforts to enhance cybersecurity defense priorities. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sabbath Ransomware target critical infrastructure in the US and Canada<a href="https://securityaffairs.co/wordpress/125154/cyber-crime/sabbath-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sabbath ransomware is a new threat that has been targeting critical infrastructure in the United States and Canada since June 2021.
+
+
+
+A new ransomware group called Sabbath (aka UNC2190) has been targeting critical infrastructure in the United States...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes critical bug in cross-platform cryptography library<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-critical-bug-in-cross-platform-cryptography-library/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has addressed a critical memory corruption vulnerability affecting its cross-platform Network Security Services (NSS) set of cryptography libraries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use-after-free condition in Google Chrome could lead to code execution<a href="https://blog.talosintelligence.com/2021/12/vuln-spotlight-chrome-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use-after-free vulnerability in Chrome is triggered by opening a specially crafted webpage which could trigger the reuse of previously freed memory, which can lead to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers targeting and stealing billions from Iranian citizens in texting scheme<a href="https://thehill.com//policy/cybersecurity/583697-hackers-targeting-and-stealing-billions-from-iranian-citizens-in-texting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated hackers likely based in Iran are successfully targeting and stealing billions in currency from Iranian civilians through a texting campaign, new research released Wednesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked to deploy BlackByte ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-blackbyte-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackByte ransomware actors were observed exploiting the ProxyShell set of vulnerabilities (CVE-2021-34473, CVE-2021-34523, CVE-2021-31207) to compromise Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the Adversary: How Ransomware Attacks Happen<a href="https://securityintelligence.com/posts/how-ransomware-attacks-happen/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common access vectors for ransomware attacks continue to be phishing, vulnerability exploitation including Exploitation of a Public-Facing Application, and External Remote Services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Collections feature helps keep neat IoC lists<a href="https://www.bleepingcomputer.com/news/security/virustotal-collections-feature-helps-keep-neat-ioc-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scanning service VirusTotal announced today a new feature called Collections that lets researchers create and share reports with indicators of compromise observed in security incidents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ottawa's French public school board paid hackers a ransom following cyberattack<a href="https://ottawa.ctvnews.ca/ottawa-s-french-public-school-board-paid-hackers-a-ransom-following-cyberattack-1.5687578?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers had stolen approximately 75 GB worth of data about employees and some students and parents dating back to 2000 that was stored on a server at the board's main office.
+</details>
+<div style="text-align: right" markdown="1">
+CTV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-backed hackers increasingly use RTF injection for phishing<a href="https://www.bleepingcomputer.com/news/security/state-backed-hackers-increasingly-use-rtf-injection-for-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three APT hacking groups from India, Russia, and China, were observed using a novel RTF (rich text format) template injection technique in their recent phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Seeks Protective Email Service that Tracks Agencies’ Security Compliance<a href="https://www.nextgov.com/cybersecurity/2021/11/cisa-seeks-protective-email-service-tracks-agencies-security-compliance/187165/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA is in the market for a service that can help to protect both recipients of government emails as well as agencies themselves by ensuring email platforms are securely configured.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lloyd’s Carves Out Cyber-Insurance Exclusions for State-Sponsored Attacks<a href="https://threatpost.com/lloyds-cyber-insurance-exclusions/176669/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insurer won’t pay for ‘acts of cyber-war’ or nation-state retaliation attacks.   
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland Faces Blizzard of Flubot-Spreading Text Messages<a href="https://threatpost.com/finland-flubot-text-messages/176649/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of texts leading to the Flubot spyware/banking trojan are targeting everyone who uses Androids in the country, in an “exceptional” attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic’s Data Breach Leaves Open Questions<a href="https://threatpost.com/panasonic-data-breach-questions/176660/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers had unfettered access to the technology giant’s file server for four months.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Bans Users From Posting 'Private Media' Without a Person's Consent<a href="https://thehackernews.com/2021/11/twitter-bans-users-from-posting-private.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Tuesday announced an expansion to its private information policy to include private media, effectively prohibiting the sharing of photos and videos without express permission from the individuals depicted in them with an aim to curb doxxing and harassment.  "Beginning today, we will not allow the sharing of private media, such as images or videos of private individuals without their consent. Publishing people's private info is also prohibited under the policy, as is threatening or incentivizing others to do so," the company's Safety team  said  in a tweet.   To that end, the policy also  discourages  users from sharing information such as sign-in credentials that would enable malicious actors to gain access to a person's sensitive information without their authorization. It also forbids users from seeking financial compensation in exchange for posting (or not posting) another individual's private information as part of blackmail schemes.  As part o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang Ransomware Tied to Thieflock Threat Actor<a href="https://threatpost.com/yanluowang-ransomware-thieflock-threat-actor/176640/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Links between the tactics and tools demonstrated in attacks suggest a former affiliate has switched loyalties, according to new research.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized $2.3M from affiliate of REvil, Gandcrab ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-23m-from-affiliate-of-revil-gandcrab-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI seized $2.2 million in August from a well-known REvil and GandCrab ransomware affiliate, according to court documents seen by BleepingComputer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 30, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
