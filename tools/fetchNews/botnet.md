@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EwDoor Botnet is targeting AT&amp;T customers<a href="https://securityaffairs.co/wordpress/125143/cyber-crime/ewdoor-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+360 Netlab experts spotted a new botnet dubbed&nbsp;EwDoor that infects unpatched AT&amp;T enterprise network edge devices.
+
+
+
+Experts from Qihoo 360's Network Security Research Lab discovered a new botnet, dubbed&nbsp;EwDoor, that targets AT&amp;T customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EwDoor botnet targets AT&amp;T network edge devices at US firms<a href="https://www.bleepingcomputer.com/news/security/ewdoor-botnet-targets-atandt-network-edge-devices-at-us-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered botnet is attacking unpatched AT&amp;T enterprise network edge devices using exploits for a four-year-old critical severity Blind Command Injection security flaw.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

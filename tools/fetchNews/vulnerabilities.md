@@ -8,6 +8,130 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender scares admins with Emotet false positives<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-scares-admins-with-emotet-false-positives/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender for Endpoint is currently blocking Office documents from being opened and some executables from launching due to a false positive tagging the files as potentially bundling an Emotet malware payload.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play the Opera Please – Opera patches a flaw in their turbo servers<a href="https://securityaffairs.co/wordpress/125155/hacking/opera-turbo-servers-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opera released a mini patch for a vulnerability in their turbo servers that dates back to 2018.
+
+
+
+Prior approval are taken from Opera security team before disclosing this issue!
+
+
+
+Before we get started there are few things which we need to understand...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Wormable Security Flaw Found in Several HP Printer Models<a href="https://thehackernews.com/2021/11/critical-wormable-security-flaw-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers on Tuesday disclosed multiple security flaws affecting 150 different multifunction printers (MFPs) from HP Inc that could be potentially abused by an adversary to take control of vulnerable devices, pilfer sensitive information, and infiltrate enterprise networks to mount other attacks.  The two weaknesses — collectively called&nbsp; Printing Shellz &nbsp;— were discovered and reported to HP by F-Secure Labs researchers Timo Hirvonen and Alexander Bolshev on April 29, 2021, prompting the PC maker to&nbsp; issue &nbsp; patches &nbsp;earlier this month —    CVE-2021-39237 &nbsp;(CVSS score: 7.1) - An information disclosure vulnerability impacting certain HP LaserJet, HP LaserJet Managed, HP PageWide, and HP PageWide Managed printers.  CVE-2021-39238 &nbsp;(CVSS score: 9.3) - A buffer overflow vulnerability impacting certain HP Enterprise LaserJet, HP LaserJet Managed, HP Enterprise PageWide, and HP PageWide Managed products.   "The flaws are in the unit's communications board and font p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Printing Shellz flaws impact 150 HP multifunction printer models<a href="https://securityaffairs.co/wordpress/125140/hacking/printing-shellz-flaws-hp-printer-models.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a critical wormable buffer overflow vulnerability that affects 150 different HP multifunction printer models (MFPs).
+
+
+
+Cybersecurity researchers from F-Secure have discovered two critical vulnerabilities, collectively tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Unauthorized File Read Vulnerability Affects Microsoft Windows OS<a href="https://thehackernews.com/2021/11/unpatched-unauthorized-file-read.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unofficial patches have been issued to remediate an improperly patched Windows security vulnerability that could allow information disclosure and local privilege escalation (LPE) on vulnerable systems.  Tracked as&nbsp; CVE-2021-24084 &nbsp;(CVSS score: 5.5), the flaw concerns an information disclosure vulnerability in the Windows Mobile Device Management component that could enable an attacker to gain unauthorized file system access and read arbitrary files.  Security researcher Abdelhamid Naceri was credited with discovering and reporting the bug in October 2020, prompting Microsoft to address the issue as part of its February 2021 Patch Tuesday updates.   But as&nbsp; observed &nbsp;by Naceri in June 2021, not only could the patch be bypassed to achieve the same objective, the researcher this month found that the incompletely patched vulnerability could also be&nbsp; exploited &nbsp;to gain administrator privileges and run malicious code on Windows 10 machines running the&nbsp; latest security updates .   "Name
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Project Zero Flags High-Risk Zoom Security Flaw<a href="https://www.securityweek.com/project-zero-flags-high-risk-zoom-security-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video conferencing software giant Zoom has shipped patches for a pair of security defects that expose Windows, macOS, Linux, iOS, and Android users to malicious hacker attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8-year-old HP printer vulnerability affects 150 printer models<a href="https://www.bleepingcomputer.com/news/security/8-year-old-hp-printer-vulnerability-affects-150-printer-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered several vulnerabilities affecting at least 150 multi-function (print, scan, fax) printers made by Hewlett Packard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Windows Zero-Day Allows Privileged File Access<a href="https://threatpost.com/unpatched-windows-zero-day-privileged-file-access/176609/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A temporary fix has been issued for CVE-2021-24084, which can be exploited using the LPE exploitation approach for the HiveNightmare/SeriousSAM bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

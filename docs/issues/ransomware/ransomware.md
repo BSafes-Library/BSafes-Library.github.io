@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sabbath Ransomware target critical infrastructure in the US and Canada<a href="https://securityaffairs.co/wordpress/125154/cyber-crime/sabbath-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sabbath ransomware is a new threat that has been targeting critical infrastructure in the United States and Canada since June 2021.
+
+
+
+A new ransomware group called Sabbath (aka UNC2190) has been targeting critical infrastructure in the United States...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked to deploy BlackByte ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-blackbyte-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackByte ransomware actors were observed exploiting the ProxyShell set of vulnerabilities (CVE-2021-34473, CVE-2021-34523, CVE-2021-31207) to compromise Microsoft Exchange servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang Ransomware Tied to Thieflock Threat Actor<a href="https://threatpost.com/yanluowang-ransomware-thieflock-threat-actor/176640/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Links between the tactics and tools demonstrated in attacks suggest a former affiliate has switched loyalties, according to new research.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

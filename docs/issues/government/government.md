@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+House passes bipartisan bills to strengthen networks security, cyber literacy<a href="https://thehill.com//policy/cybersecurity/583905-house-passes-bipartisan-bills-to-strengthen-networks-security-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House on Wednesday passed three bipartisan bills intended to shore up network security and increase cyber literacy across the nation, following a difficult year fraught with several significant cybersecurity attacks.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA announces members of team providing advice on cybersecurity threats<a href="https://thehill.com//policy/cybersecurity/583843-cisa-announces-members-of-team-providing-advice-on-cybersecurity-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday announced the establishment of its Cybersecurity Advisory Committee and&nbsp;the nearly two dozen members who will provide input on efforts to enhance cybersecurity defense priorities.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Seeks Protective Email Service that Tracks Agencies’ Security Compliance<a href="https://www.nextgov.com/cybersecurity/2021/11/cisa-seeks-protective-email-service-tracks-agencies-security-compliance/187165/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA is in the market for a service that can help to protect both recipients of government emails as well as agencies themselves by ensuring email platforms are securely configured.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

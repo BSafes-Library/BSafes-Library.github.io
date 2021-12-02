@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet now spreads via fake Adobe Windows App Installer packages<a href="https://www.bleepingcomputer.com/news/security/emotet-now-spreads-via-fake-adobe-windows-app-installer-packages/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickBot Again (But With a Twist) Checks Screen Resolution to Avoid Detection<a href="https://cyware.com/news/trickbot-again-but-with-a-twist-checks-screen-resolution-to-avoid-detection-7370c3b8"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data on thousands of Planned Parenthood Los Angeles patients breached<a href="https://thehill.com//policy/cybersecurity/583909-data-on-thousands-of-planned-parenthood-los-angeles-patients-breached"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New EwDoor Botnet Targeting Unpatched AT&T Network Edge Devices<a href="https://thehackernews.com/2021/12/new-ewdoor-botnet-targeting-unpatched.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal Collections allows enhancing the sharing of Indicators of Compromise (IoCs)<a href="https://securityaffairs.co/wordpress/125199/security/virustotal-collections.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Ubiquiti dev charged for trying to extort his employer<a href="https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-charged-for-trying-to-extort-his-employer/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal Introduces 'Collections' to Simplify IoC Sharing<a href="https://www.securityweek.com/virustotal-introduces-collections-simplify-ioc-sharing?&web_view=true"> Full Text</a>
@@ -151,7 +151,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 House passes bipartisan bills to strengthen networks security, cyber literacy<a href="https://thehill.com//policy/cybersecurity/583905-house-passes-bipartisan-bills-to-strengthen-networks-security-cyber"> Full Text</a>
@@ -167,7 +167,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Increasingly Using RTF Template Injection Technique in Phishing Attacks<a href="https://thehackernews.com/2021/12/hackers-increasingly-using-rtf-template.html"> Full Text</a>
@@ -183,7 +183,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RTF Template Inject technique used by APT groups in recent attacks<a href="https://securityaffairs.co/wordpress/125189/hacking/rtf-template-injection-technique.html"> Full Text</a>
@@ -203,7 +203,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bulletproof hosting founder imprisoned for helping cybercrime gangs<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-founder-imprisoned-for-helping-cybercrime-gangs/"> Full Text</a>
@@ -219,7 +219,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Over-permissive’ authentication checks left 190 Australian organizations vulnerable to business email compromise attacks<a href="https://portswigger.net/daily-swig/over-permissive-authentication-checks-left-190-australian-organizations-vulnerable-to-business-email-compromise-attacks?&web_view=true"> Full Text</a>
@@ -235,7 +235,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook, Instagram remove accounts linked to Chinese COVID-19 disinformation efforts<a href="https://thehill.com//policy/cybersecurity/583861-facebook-instagram-remove-accounts-linked-to-chinese-covid-19"> Full Text</a>
@@ -251,7 +251,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Jailed for Stealing Millions of Dollars in Cryptocurrencies by SIM Hijacking<a href="https://thehackernews.com/2021/12/hacker-jailed-for-stealing-millions-of.html"> Full Text</a>
@@ -267,7 +267,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI training document shows lawful access to multiple encrypted messaging apps<a href="https://securityaffairs.co/wordpress/125176/security/encrypted-messaging-apps-data-access.html"> Full Text</a>
@@ -287,7 +287,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Android app steals Malaysian bank credentials, MFA codes<a href="https://www.bleepingcomputer.com/news/security/malicious-android-app-steals-malaysian-bank-credentials-mfa-codes/"> Full Text</a>
@@ -303,7 +303,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Money Mule Action leads to 1,803 arrests<a href="https://www.europol.europa.eu/newsroom/news/european-money-mule-action-leads-to-1-803-arrests?&web_view=true"> Full Text</a>
@@ -319,7 +319,7 @@ Europol
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA announces members of team providing advice on cybersecurity threats<a href="https://thehill.com//policy/cybersecurity/583843-cisa-announces-members-of-team-providing-advice-on-cybersecurity-threats"> Full Text</a>
@@ -335,7 +335,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sabbath Ransomware target critical infrastructure in the US and Canada<a href="https://securityaffairs.co/wordpress/125154/cyber-crime/sabbath-ransomware.html"> Full Text</a>
@@ -355,7 +355,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla fixes critical bug in cross-platform cryptography library<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-critical-bug-in-cross-platform-cryptography-library/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Use-after-free condition in Google Chrome could lead to code execution<a href="https://blog.talosintelligence.com/2021/12/vuln-spotlight-chrome-.html?&web_view=true"> Full Text</a>
@@ -387,7 +387,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers targeting and stealing billions from Iranian citizens in texting scheme<a href="https://thehill.com//policy/cybersecurity/583697-hackers-targeting-and-stealing-billions-from-iranian-citizens-in-texting"> Full Text</a>
@@ -403,7 +403,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers hacked to deploy BlackByte ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-blackbyte-ransomware/"> Full Text</a>
@@ -419,7 +419,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Understanding the Adversary: How Ransomware Attacks Happen<a href="https://securityintelligence.com/posts/how-ransomware-attacks-happen/?&web_view=true"> Full Text</a>
@@ -435,7 +435,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Solution](/docs/issues/solution/solution/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal Collections feature helps keep neat IoC lists<a href="https://www.bleepingcomputer.com/news/security/virustotal-collections-feature-helps-keep-neat-ioc-lists/"> Full Text</a>
@@ -451,7 +451,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ottawa's French public school board paid hackers a ransom following cyberattack<a href="https://ottawa.ctvnews.ca/ottawa-s-french-public-school-board-paid-hackers-a-ransom-following-cyberattack-1.5687578?&web_view=true"> Full Text</a>
@@ -467,7 +467,7 @@ CTV News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-backed hackers increasingly use RTF injection for phishing<a href="https://www.bleepingcomputer.com/news/security/state-backed-hackers-increasingly-use-rtf-injection-for-phishing/"> Full Text</a>
@@ -483,7 +483,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Seeks Protective Email Service that Tracks Agencies’ Security Compliance<a href="https://www.nextgov.com/cybersecurity/2021/11/cisa-seeks-protective-email-service-tracks-agencies-security-compliance/187165/?&web_view=true"> Full Text</a>
@@ -499,7 +499,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lloyd’s Carves Out Cyber-Insurance Exclusions for State-Sponsored Attacks<a href="https://threatpost.com/lloyds-cyber-insurance-exclusions/176669/"> Full Text</a>
@@ -515,7 +515,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finland Faces Blizzard of Flubot-Spreading Text Messages<a href="https://threatpost.com/finland-flubot-text-messages/176649/"> Full Text</a>
@@ -531,7 +531,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Panasonic’s Data Breach Leaves Open Questions<a href="https://threatpost.com/panasonic-data-breach-questions/176660/"> Full Text</a>
@@ -547,7 +547,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter Bans Users From Posting 'Private Media' Without a Person's Consent<a href="https://thehackernews.com/2021/11/twitter-bans-users-from-posting-private.html"> Full Text</a>
@@ -563,7 +563,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yanluowang Ransomware Tied to Thieflock Threat Actor<a href="https://threatpost.com/yanluowang-ransomware-thieflock-threat-actor/176640/"> Full Text</a>
@@ -579,7 +579,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2021
+November 30, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI seized $2.3M from affiliate of REvil, Gandcrab ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-23m-from-affiliate-of-revil-gandcrab-ransomware-gangs/"> Full Text</a>

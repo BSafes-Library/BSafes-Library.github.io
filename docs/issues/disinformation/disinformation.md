@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook, Instagram remove accounts linked to Chinese COVID-19 disinformation efforts<a href="https://thehill.com//policy/cybersecurity/583861-facebook-instagram-remove-accounts-linked-to-chinese-covid-19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta&nbsp;on Wednesday announced that it had removed hundreds of accounts, pages and groups linked to a Chinese effort to spread disinformation around the United States pressuring the World Health Organization (WHO) to blame the COVID-19 pandemic on China.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

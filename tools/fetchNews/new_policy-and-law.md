@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Ubiquiti dev charged for trying to extort his employer<a href="https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-charged-for-trying-to-extort-his-employer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nickolas Sharp, a former employee of networking device maker Ubiquiti, was arrested and charged today with data theft and attempting to extort his employer while posing as a whistleblower and an anonymous hacker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

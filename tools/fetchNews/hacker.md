@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WIRTE Hacker Group Targets Government, Law, Financial Entities in Middle East<a href="https://thehackernews.com/2021/11/wirte-hacker-group-targets-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government, diplomatic entities, military organizations, law firms, and financial institutions primarily located in the Middle East have been targeted as part of a stealthy malware campaign as early as 2019 by making use of malicious Microsoft Excel and Word documents.  Russian cybersecurity company Kaspersky attributed the attacks with high confidence to a threat actor named WIRTE, adding the intrusions involved "MS Excel droppers that use hidden spreadsheets and VBA macros to drop their first stage implant," which is a Visual Basic Script (VBS) with functionality to amass system information and execute arbitrary code sent by the attackers on the infected machine.  An analysis of the campaign as well as the toolset and methods employed by the adversary has also led the researchers to conclude with low confidence that the&nbsp; WIRTE group &nbsp;has connections to another politically motivated collective called the&nbsp; Gaza Cybergang . The affected entities are spread across Armenia, Cyp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Slowing Down the Pace of Financial Services Sector<a href="https://cyware.com/news/cyberattackers-slowing-down-the-pace-of-financial-services-sector-25bc424f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers are launching a number of attacks aimed at the financial sector with the most targeted regions being North and South America, Western Europe, and Southern Asia. One of the most common and frequent attack vectors was phishing, followed by social engineering. Such cyberattacks on the f ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Over-permissive’ authentication checks left 190 Australian organizations vulnerable to business email compromise attacks<a href="https://portswigger.net/daily-swig/over-permissive-authentication-checks-left-190-australian-organizations-vulnerable-to-business-email-compromise-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email authentication checks could be hoodwinked by phishing emails impersonating nearly 200 Australian organizations due to a vulnerability discovered more than two years after its conception.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes critical bug in cross-platform cryptography library<a href="https://www.bleepingcomputer.com/news/security/mozilla-fixes-critical-bug-in-cross-platform-cryptography-library/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has addressed a critical memory corruption vulnerability affecting its cross-platform Network Security Services (NSS) set of cryptography libraries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Use-after-free condition in Google Chrome could lead to code execution<a href="https://blog.talosintelligence.com/2021/12/vuln-spotlight-chrome-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use-after-free vulnerability in Chrome is triggered by opening a specially crafted webpage which could trigger the reuse of previously freed memory, which can lead to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

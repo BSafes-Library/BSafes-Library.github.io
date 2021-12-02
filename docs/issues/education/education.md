@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the Adversary: How Ransomware Attacks Happen<a href="https://securityintelligence.com/posts/how-ransomware-attacks-happen/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common access vectors for ransomware attacks continue to be phishing, vulnerability exploitation including Exploitation of a Public-Facing Application, and External Remote Services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

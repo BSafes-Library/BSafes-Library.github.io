@@ -8,6 +8,49 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickBot Again (But With a Twist) Checks Screen Resolution to Avoid Detection<a href="https://cyware.com/news/trickbot-again-but-with-a-twist-checks-screen-resolution-to-avoid-detection-7370c3b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Trickbot gang is once again doing a screen resolution check to identify virtual machines before deploying payloads, and hence trying to stay under the radar with its improved techniques. Experts say it is for the first time that a gang is using a script in an HTML attachment to check for screen ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EwDoor Botnet Targeting Unpatched AT&amp;T Network Edge Devices<a href="https://thehackernews.com/2021/12/new-ewdoor-botnet-targeting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered botnet capable of staging distributed denial-of-service (DDoS) attacks targeted unpatched Ribbon Communications (formerly Edgewater Networks) EdgeMarc appliances belonging to telecom service provider AT&amp;T by exploiting a four-year-old flaw in the network appliances.  Chinese tech giant Qihoo 360's Netlab network security division, which detected the botnet first on October 27, 2021, called it&nbsp; EwDoor , noting it observed 5,700 compromised IP addresses located in the U.S. during a brief three-hour window.   "So far, the EwDoor in our view has undergone three versions of updates, and its main functions can be summarized into two main categories of DDoS attacks and backdoor," the researchers&nbsp; noted . "Based on the attacked devices are telephone communication related, we presume that its main purpose is DDoS attacks, and gathering of sensitive information, such as call logs."   Propagating through a flaw in EdgeMarc devices, EwDoor supports a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland Faces Blizzard of Flubot-Spreading Text Messages<a href="https://threatpost.com/finland-flubot-text-messages/176649/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of texts leading to the Flubot spyware/banking trojan are targeting everyone who uses Androids in the country, in an “exceptional” attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

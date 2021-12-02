@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Increasingly Using RTF Template Injection Technique in Phishing Attacks<a href="https://thehackernews.com/2021/12/hackers-increasingly-using-rtf-template.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three different state-sponsored threat actors aligned with China, India, and Russia have been observed adopting a new method called&nbsp; RTF &nbsp;(aka Rich Text Format) template injection as part of their phishing campaigns to deliver malware to targeted systems.  "RTF template injection is a novel technique that is ideal for malicious phishing attachments because it is simple and allows threat actors to retrieve malicious content from a remote URL using an RTF file," Proofpoint researchers said in a new report  shared with The Hacker News.   At the heart of the attack is an RTF file containing decoy content that can be&nbsp; manipulated &nbsp;to enable the retrieval of content, including malicious payloads, hosted at an external URL upon opening an RTF file. Specifically, it leverages the RTF&nbsp; template functionality &nbsp;to alter a document's formatting properties using a&nbsp; hex editor &nbsp;by specifying a URL resource instead of an accessible file resource destination from which a remote payload
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers targeting and stealing billions from Iranian citizens in texting scheme<a href="https://thehill.com//policy/cybersecurity/583697-hackers-targeting-and-stealing-billions-from-iranian-citizens-in-texting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated hackers likely based in Iran are successfully targeting and stealing billions in currency from Iranian civilians through a texting campaign, new research released Wednesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

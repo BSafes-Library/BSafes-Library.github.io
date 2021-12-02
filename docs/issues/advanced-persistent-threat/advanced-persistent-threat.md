@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RTF Template Inject technique used by APT groups in recent attacks<a href="https://securityaffairs.co/wordpress/125189/hacking/rtf-template-injection-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state actors from China, India, and Russia, were spotted using a novel RTF template injection technique in recent attacks. 
+
+
+
+APT groups from China, India, and Russia have used a new RTF (rich text format) template injection technique in recent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

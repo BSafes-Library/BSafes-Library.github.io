@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI training document shows lawful access to multiple encrypted messaging apps<a href="https://securityaffairs.co/wordpress/125176/security/encrypted-messaging-apps-data-access.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Which are the most secure encrypted messaging apps? An FBI document shows what data can be obtained from them.
+
+
+
+The Record shared an FBI training document that reveals the surveillance capabilities of the US law enforcement detailing which data can be extracted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Bans Users From Posting 'Private Media' Without a Person's Consent<a href="https://thehackernews.com/2021/11/twitter-bans-users-from-posting-private.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Tuesday announced an expansion to its private information policy to include private media, effectively prohibiting the sharing of photos and videos without express permission from the individuals depicted in them with an aim to curb doxxing and harassment.  "Beginning today, we will not allow the sharing of private media, such as images or videos of private individuals without their consent. Publishing people's private info is also prohibited under the policy, as is threatening or incentivizing others to do so," the company's Safety team&nbsp; said &nbsp;in a tweet.   To that end, the policy also&nbsp; discourages &nbsp;users from sharing information such as sign-in credentials that would enable malicious actors to gain access to a person's sensitive information without their authorization. It also forbids users from seeking financial compensation in exchange for posting (or not posting) another individual's private information as part of blackmail schemes.  As part o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

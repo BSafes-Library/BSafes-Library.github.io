@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulletproof hosting founder imprisoned for helping cybercrime gangs<a href="https://www.bleepingcomputer.com/news/security/bulletproof-hosting-founder-imprisoned-for-helping-cybercrime-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+34-year-old Russian Aleksandr Grichishkin, the founder of&nbsp;a bulletproof hosting service, was sentenced to 60 months in prison for allowing cybercrime gangs to use the platform&nbsp;in attacks&nbsp;targeting US financial institutions&nbsp;between 2008 to 2015.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Money Mule Action leads to 1,803 arrests<a href="https://www.europol.europa.eu/newsroom/news/european-money-mule-action-leads-to-1-803-arrests?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This was the seventh iteration of the European Money Mule Action, or ‘EMMA’, which was established in 2016 on the initiative of Europol, Eurojust, and the European Banking Federation.
+</details>
+<div style="text-align: right" markdown="1">
+Europol
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ottawa's French public school board paid hackers a ransom following cyberattack<a href="https://ottawa.ctvnews.ca/ottawa-s-french-public-school-board-paid-hackers-a-ransom-following-cyberattack-1.5687578?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers had stolen approximately 75 GB worth of data about employees and some students and parents dating back to 2000 that was stored on a server at the board's main office.
+</details>
+<div style="text-align: right" markdown="1">
+CTV News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized $2.3M from affiliate of REvil, Gandcrab ransomware gangs<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-23m-from-affiliate-of-revil-gandcrab-ransomware-gangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI seized $2.2 million in August from a well-known REvil and GandCrab ransomware affiliate, according to court documents seen by BleepingComputer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
