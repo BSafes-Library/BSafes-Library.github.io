@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing actors start exploiting the Omicron COVID-19 variant<a href="https://www.bleepingcomputer.com/news/security/phishing-actors-start-exploiting-the-omicron-covid-19-variant/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bogus Android App Steals Banking Credentials from Malaysian Individuals<a href="https://heimdalsecurity.com/blog/bogus-android-app-steals-banking-credentials-from-malaysian-individuals/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal watchdog warns security of US infrastructure 'in jeopardy' without action<a href="https://thehill.com//policy/cybersecurity/584125-federal-watchdog-warns-security-of-us-infrastructure-in-jeopardy-without"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Expands Facebook Protect Program to Activists, Journalists, Government Officials<a href="https://thehackernews.com/2021/12/meta-expands-facebook-protect-program.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Zoho, Apache, Qualcomm, Mikrotik flaws to the list of actively exploited issues<a href="https://securityaffairs.co/wordpress/125228/hacking/cisa-known-exploited-vulnerabilities.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter removes 3,400 accounts used in govt propaganda campaigns<a href="https://www.bleepingcomputer.com/news/security/twitter-removes-3-400-accounts-used-in-govt-propaganda-campaigns/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NginRAT – A stealth malware targets e-store hiding on Nginx servers<a href="https://securityaffairs.co/wordpress/125216/malware/nginrat-magecart-attack.html?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA issues directives to rail sector to strengthen cybersecurity<a href="https://thehill.com//policy/cybersecurity/584041-tsa-issues-directives-to-rail-sector-to-strengthen-cybersecurity"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researches Detail 17 Malicious Frameworks Used to Attack Air-Gapped Networks<a href="https://thehackernews.com/2021/12/researches-detail-17-malicious.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian internet watchdog Roskomnadzor  bans six more VPN services<a href="https://securityaffairs.co/wordpress/125224/laws-and-regulations/russia-roskomnadzor-bans-six-vpn-services.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use in-house Zoho ServiceDesk exploit to drop webshells<a href="https://www.bleepingcomputer.com/news/security/hackers-use-in-house-zoho-servicedesk-exploit-to-drop-webshells/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet trojan returned after the takedown: detected in Japan<a href="https://www.2-spyware.com/emotet-trojan-returned-after-the-takedown-detected-in-japan?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Emotet trojan is an infection that spreads using phishing email campaigns with m
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook taking steps to secure accounts of activists, journalists, officials<a href="https://thehill.com//policy/technology/583972-facebook-taking-steps-to-secure-accounts-of-activists-journalists-officials"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let there be light: Ensuring visibility across the entire API lifecycle<a href="https://thehackernews.com/2021/12/let-there-be-light-ensuring-visibility.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NginRAT – A stealth malware targets e-store hiding on Nginx servers<a href="https://securityaffairs.co/wordpress/125216/malware/nginrat-magecart-attack.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine WiFi routers used by millions were vulnerable to 226 flaws<a href="https://www.bleepingcomputer.com/news/security/nine-wifi-routers-used-by-millions-were-vulnerable-to-226-flaws/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magnat campaigns use malvertising to deliver information stealer, backdoor and malicious Chrome extension<a href="https://blog.talosintelligence.com/2021/12/magnat-campaigns-use-malvertising-to.html?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol arrested 1800 money mules as part of an anti-money-laundering operation<a href="https://securityaffairs.co/wordpress/125211/cyber-crime/europol-money-mules-emma-7-op.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware hides as legit nginx process on e-commerce servers<a href="https://www.bleepingcomputer.com/news/security/new-malware-hides-as-legit-nginx-process-on-e-commerce-servers/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospital Ransomware Attacks Go Beyond Health Care Data<a href="https://securityintelligence.com/articles/hospital-ransomware-health-care-data/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla fixes critical flaw in Network Security Services (NSS) cryptography library<a href="https://securityaffairs.co/wordpress/125205/security/network-security-services-flaw.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpeQtral raises $8.3M to develop quantum-secure communication systems<a href="https://www.helpnetsecurity.com/2021/12/01/speqtral-financing/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How phishing kits are enabling a new legion of pro phishers<a href="https://www.helpnetsecurity.com/2021/12/02/phishing-kits-pro/?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 80K Retail WooCommerce Sites Exposed by Plugin XSS Bug<a href="https://threatpost.com/retail-woocommerce-sites-plugin-xss-bug/176704/"> Full Text</a>
@@ -438,7 +438,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy ‘WIRTE’ Gang Targets Middle Eastern Governments<a href="https://threatpost.com/wirte-middle-eastern-governments/176688/"> Full Text</a>
@@ -454,7 +454,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Widespread ‘Smishing’ Campaign Defrauds Iranian Android Users<a href="https://threatpost.com/smishing-campaign-iranian-android-users/176679/"> Full Text</a>
@@ -470,7 +470,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn Iranian Users of Widespread SMS Phishing Campaigns<a href="https://thehackernews.com/2021/12/researchers-warn-iranian-users-of.html"> Full Text</a>
@@ -486,7 +486,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Man Gets 60 Months Jail for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/12/russian-man-gets-60-months-jail-for.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Planned Parenthood LA discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/planned-parenthood-la-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -518,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bug in Mozilla's NSS Crypto Library Potentially Affects Several Other Software<a href="https://thehackernews.com/2021/12/critical-bug-in-mozillas-nss-crypto.html"> Full Text</a>

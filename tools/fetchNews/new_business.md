@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpeQtral raises $8.3M to develop quantum-secure communication systems<a href="https://www.helpnetsecurity.com/2021/12/01/speqtral-financing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funds will be used to expand SpeQtral’s regional and international presence, establish strategic business partnerships, hire top talent, support the commercial rollout of terrestrial systems, and further develop its satellite-based systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

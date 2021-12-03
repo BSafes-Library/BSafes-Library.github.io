@@ -8,6 +8,52 @@ nav_order: 900195
 
 ## Solution
 ---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Collections allows enhancing the sharing of Indicators of Compromise (IoCs)<a href="https://securityaffairs.co/wordpress/125199/security/virustotal-collections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal announced VirusTotal Collections, a new service that allows security researchers to share sets of Indicators of Compromise (IoCs). 
+
+
+
+VirusTotal announced VirusTotal Collections, a new service that allows threat researchers to share Indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Introduces 'Collections' to Simplify IoC Sharing<a href="https://www.securityweek.com/virustotal-introduces-collections-simplify-ioc-sharing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chronicle-owned VirusTotal this week announced VirusTotal Collections, a new resource aimed at making it easier for security researchers to share Indicators of Compromise (IoCs).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Collections feature helps keep neat IoC lists<a href="https://www.bleepingcomputer.com/news/security/virustotal-collections-feature-helps-keep-neat-ioc-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scanning service VirusTotal announced today a new feature called Collections that lets researchers create and share reports with indicators of compromise observed in security incidents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

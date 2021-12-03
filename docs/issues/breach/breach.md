@@ -11,6 +11,20 @@ nav_order: 900029
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Planned Parenthood LA discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/planned-parenthood-la-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Planned Parenthood Los Angeles has disclosed a data breach after suffering a ransomware attack in October that exposed the personal information of approximately 400,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data on thousands of Planned Parenthood Los Angeles patients breached<a href="https://thehill.com//policy/cybersecurity/583909-data-on-thousands-of-planned-parenthood-los-angeles-patients-breached"> Full Text</a>
 </p>
 <details>

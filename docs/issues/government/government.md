@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal watchdog warns security of US infrastructure 'in jeopardy' without action<a href="https://thehill.com//policy/cybersecurity/584125-federal-watchdog-warns-security-of-us-infrastructure-in-jeopardy-without"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A federal watchdog agency on Thursday released findings highlighting serious concerns around cybersecurity vulnerabilities in U.S. critical infrastructure, warning that these systems are “in jeopardy” if the government fails to take action.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zoho, Apache, Qualcomm, Mikrotik flaws to the list of actively exploited issues<a href="https://securityaffairs.co/wordpress/125228/hacking/cisa-known-exploited-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA urges to address vulnerabilities Qualcomm, Mikrotik, Zoho and the Apache Software Foundation software. 
+
+
+
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its catalog of actively exploited vulnerabilities&nbsp;recommending...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter removes 3,400 accounts used in govt propaganda campaigns<a href="https://www.bleepingcomputer.com/news/security/twitter-removes-3-400-accounts-used-in-govt-propaganda-campaigns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter today announced the permanent removal of more than 3,400 accounts linked to governments of six countries running manipulation or spam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA issues directives to rail sector to strengthen cybersecurity<a href="https://thehill.com//policy/cybersecurity/584041-tsa-issues-directives-to-rail-sector-to-strengthen-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) on Thursday issued two security directives requiring rail and rail transit groups to implement steps to strengthen cybersecurity of the sector, including a requirement to report cyber incidents to the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

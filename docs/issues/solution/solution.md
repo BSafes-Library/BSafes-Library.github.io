@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Expands Facebook Protect Program to Activists, Journalists, Government Officials<a href="https://thehackernews.com/2021/12/meta-expands-facebook-protect-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta, the company formerly known as Facebook, on Thursday announced  an expansion of its Facebook Protect security program to include human rights defenders, activists, journalists, and government officials who are more likely to be targeted by bad actors across its social media platforms.  "These people are at the center of critical communities for public debate," said Nathaniel Gleicher, head of security policy at Meta. "They enable democratic elections, hold governments and organizations accountable, and defend human rights around the world. Unfortunately this also means that they are highly targeted by bad actors."   Facebook Protect , currently being launched globally in phases, enables users who enroll for the initiative to adopt stronger account security protections, like two-factor authentication (2FA), and watch out for potential hacking threats. Meta said more than 1.5 million accounts have enabled Facebook Protect to date, of which nearly 950,000 account
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

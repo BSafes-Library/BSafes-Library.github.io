@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine WiFi routers used by millions were vulnerable to 226 flaws<a href="https://www.bleepingcomputer.com/news/security/nine-wifi-routers-used-by-millions-were-vulnerable-to-226-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers analyzed nine popular WiFi routers and found a total of 226 potential vulnerabilities in them, even when running the latest firmware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes critical flaw in Network Security Services (NSS) cryptography library<a href="https://securityaffairs.co/wordpress/125205/security/network-security-services-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla fixed a critical memory corruption issue affecting its cross-platform Network Security Services (NSS) set of cryptography libraries. 
+
+
+
+Mozilla has addressed a heap-based buffer overflow vulnerability (CVE-2021-43527) in its cross-platform Network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+80K Retail WooCommerce Sites Exposed by Plugin XSS Bug<a href="https://threatpost.com/retail-woocommerce-sites-plugin-xss-bug/176704/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Variation Swatches plugin security flaw lets attackers with low-level permissions tweak important settings on e-commerce sites to inject malicious scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Mozilla's NSS Crypto Library Potentially Affects Several Other Software<a href="https://thehackernews.com/2021/12/critical-bug-in-mozillas-nss-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has rolled out fixes to address a critical security weakness in its cross-platform Network Security Services ( NSS ) cryptographic library that could be potentially exploited by an adversary to crash a vulnerable application and even execute arbitrary code.  Tracked as CVE-2021-43527, the flaw affects NSS versions prior to 3.73 or 3.68.1 ESR, and concerns a&nbsp; heap overflow &nbsp;vulnerability when verifying digital signatures such as&nbsp; DSA &nbsp;and&nbsp; RSA-PSS &nbsp;algorithms that are encoded using the&nbsp; DER &nbsp;binary format. Credited with reporting the issue is Tavis Ormandy of Google Project Zero, who codenamed it " BigSig ."   "NSS (Network Security Services) versions prior to 3.73 or 3.68.1 ESR are vulnerable to a heap overflow when handling DER-encoded DSA or RSA-PSS signatures," Mozilla&nbsp; said &nbsp;in an advisory published Wednesday. "Applications using NSS for handling signatures encoded within CMS, S/MIME, PKCS #7, or PKCS #12 are likely to be impacted."  NSS is a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-backed hackers increasingly use RTF injection for phishing<a href="https://www.bleepingcomputer.com/news/security/state-backed-hackers-increasingly-use-rtf-injection-for-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three APT hacking groups from India, Russia, and China, were observed using a novel RTF (rich text format) template injection technique in their recent phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

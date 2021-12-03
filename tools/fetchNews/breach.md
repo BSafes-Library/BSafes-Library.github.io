@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data on thousands of Planned Parenthood Los Angeles patients breached<a href="https://thehill.com//policy/cybersecurity/583909-data-on-thousands-of-planned-parenthood-los-angeles-patients-breached"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Planned Parenthood Los Angeles (PPLA) announced Wednesday that it had been the target of a “cybersecurity incident” that compromised patient information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panasonic’s Data Breach Leaves Open Questions<a href="https://threatpost.com/panasonic-data-breach-questions/176660/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers had unfettered access to the technology giant’s file server for four months.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

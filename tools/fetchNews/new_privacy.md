@@ -8,6 +8,38 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian internet watchdog Roskomnadzor  bans six more VPN services<a href="https://securityaffairs.co/wordpress/125224/laws-and-regulations/russia-roskomnadzor-bans-six-vpn-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s internet watchdog, ‘Roskomnadzor’, has announced the ban of other VPN products, 15 VPN services are now illegal in Russia
+
+
+
+Russian communications watchdog Roskomnadzor tightens the control over the Internet and blocked access to six more...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook taking steps to secure accounts of activists, journalists, officials<a href="https://thehill.com//policy/technology/583972-facebook-taking-steps-to-secure-accounts-of-activists-journalists-officials"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday rolled out a new set of measures designed to further protect accounts more often targeted by hackers, including those of human rights activists, journalists and government officials, among others.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing actors start exploiting the Omicron COVID-19 variant<a href="https://www.bleepingcomputer.com/news/security/phishing-actors-start-exploiting-the-omicron-covid-19-variant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors have quickly started to exploit the emergence of the Omicron COVID-19 variant and now use it as a lure in their malicious email campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How phishing kits are enabling a new legion of pro phishers<a href="https://www.helpnetsecurity.com/2021/12/02/phishing-kits-pro/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious emails can be used to reach many targets with relative ease, and criminals can purchase ready-made phishing kits that bundle together everything they need for a lucrative campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn Iranian Users of Widespread SMS Phishing Campaigns<a href="https://thehackernews.com/2021/12/researchers-warn-iranian-users-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Socially engineered SMS messages are being used to install malware on Android devices as part of a widespread phishing campaign that impersonates the Iranian government and social security services to make away with credit card details and steal funds from victims' bank accounts.  Unlike other variants of&nbsp; banking malware &nbsp;that bank of overlay attacks to capture sensitive data without the knowledge of the victim, the financially motivated operation uncovered by Check Point Research is designed to trick the targets into handing over their credit card information by sending them a legitimate-looking SMS message that contains a link, which, when clicked, downloads a malware-laced app onto their devices.  "The malicious application not only collects the victim's credit card numbers, but also gains access to their 2FA authentication SMS, and turn[s] the victim's device into a bot capable of spreading similar phishing SMS to other potential victims," Check Point resear
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

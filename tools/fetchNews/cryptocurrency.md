@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Jailed for Stealing Millions of Dollars in Cryptocurrencies by SIM Hijacking<a href="https://thehackernews.com/2021/12/hacker-jailed-for-stealing-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sixth member associated with an international hacking group known as&nbsp; The Community &nbsp;has been sentenced in connection with a multimillion-dollar SIM swapping conspiracy, the U.S. Department of Justice (DoJ) said.  Garrett Endicott, 22, from the U.S. state of Missouri, who pleaded guilty to charges of wire fraud and aggravated identity theft following an indictment in 2019, was&nbsp; sentenced &nbsp;to 10 months in prison and ordered to pay an amount totaling $121,549.37 in restitution.   SIM swapping , also called SIM hijacking, refers to an identity theft scheme wherein malicious parties persuade phone carriers into porting their victims' cell services to SIM cards under their control, often facilitated by bribing an employee of a mobile phone provider or by contacting the service provider's customer support by posing as the victim and requesting that the phone number be swapped to a SIM card operated by the group.  The goal is to leverage the phone numbers as a gateway to hijack dif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
