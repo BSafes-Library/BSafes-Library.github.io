@@ -34,6 +34,506 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing actors start exploiting the Omicron COVID-19 variant<a href="https://www.bleepingcomputer.com/news/security/phishing-actors-start-exploiting-the-omicron-covid-19-variant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors have quickly started to exploit the emergence of the Omicron COVID-19 variant and now use it as a lure in their malicious email campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bogus Android App Steals Banking Credentials from Malaysian Individuals<a href="https://heimdalsecurity.com/blog/bogus-android-app-steals-banking-credentials-from-malaysian-individuals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initially noticed by MalwareHunterTeam and later analyzed by security experts at Cyblis, this application is promoted via numerous bogus or copied websites and social media accounts in order to advertise the malicious APK ‘Cleaning Service Malaysia.’
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal watchdog warns security of US infrastructure 'in jeopardy' without action<a href="https://thehill.com//policy/cybersecurity/584125-federal-watchdog-warns-security-of-us-infrastructure-in-jeopardy-without"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A federal watchdog agency on Thursday released findings highlighting serious concerns around cybersecurity vulnerabilities in U.S. critical infrastructure, warning that these systems are “in jeopardy” if the government fails to take action.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Expands Facebook Protect Program to Activists, Journalists, Government Officials<a href="https://thehackernews.com/2021/12/meta-expands-facebook-protect-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta, the company formerly known as Facebook, on Thursday announced  an expansion of its Facebook Protect security program to include human rights defenders, activists, journalists, and government officials who are more likely to be targeted by bad actors across its social media platforms.  "These people are at the center of critical communities for public debate," said Nathaniel Gleicher, head of security policy at Meta. "They enable democratic elections, hold governments and organizations accountable, and defend human rights around the world. Unfortunately this also means that they are highly targeted by bad actors."   Facebook Protect , currently being launched globally in phases, enables users who enroll for the initiative to adopt stronger account security protections, like two-factor authentication (2FA), and watch out for potential hacking threats. Meta said more than 1.5 million accounts have enabled Facebook Protect to date, of which nearly 950,000 account
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zoho, Apache, Qualcomm, Mikrotik flaws to the list of actively exploited issues<a href="https://securityaffairs.co/wordpress/125228/hacking/cisa-known-exploited-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA urges to address vulnerabilities Qualcomm, Mikrotik, Zoho and the Apache Software Foundation software. 
+
+
+
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its catalog of actively exploited vulnerabilities recommending...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter removes 3,400 accounts used in govt propaganda campaigns<a href="https://www.bleepingcomputer.com/news/security/twitter-removes-3-400-accounts-used-in-govt-propaganda-campaigns/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter today announced the permanent removal of more than 3,400 accounts linked to governments of six countries running manipulation or spam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NginRAT – A stealth malware targets e-store hiding on Nginx servers<a href="https://securityaffairs.co/wordpress/125216/malware/nginrat-magecart-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from security firm Sansec recently discovered a new Linux remote access trojan (RAT), tracked as CronRAT, that hides in the Linux task scheduling system (cron) on February 31st.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA issues directives to rail sector to strengthen cybersecurity<a href="https://thehill.com//policy/cybersecurity/584041-tsa-issues-directives-to-rail-sector-to-strengthen-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transportation Security Administration (TSA) on Thursday issued two security directives requiring rail and rail transit groups to implement steps to strengthen cybersecurity of the sector, including a requirement to report cyber incidents to the federal government.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researches Detail 17 Malicious Frameworks Used to Attack Air-Gapped Networks<a href="https://thehackernews.com/2021/12/researches-detail-17-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four different malicious frameworks designed to attack air-gapped networks were detected in the first half of 2020 alone, bringing the total number of such toolkits to 17 and offering adversaries a pathway to cyber espionage and exfiltrate classified information.  "All frameworks are designed to perform some form of espionage, [and] all the frameworks used USB drives as the physical transmission medium to transfer data in and out of the targeted air-gapped networks," ESET researchers Alexis Dorais-Joncas and Facundo Muñoz  said  in a comprehensive study of the frameworks.  Air-gapping is a network security measure designed to prevent unauthorized access to systems by physically isolating them from other unsecured networks, including local area networks and the public internet. This also implies that the only way to transfer data is by connecting a physical device to it, such as USB drives or external hard disks.   Given that the mechanism is one of the most common ways  SCAD
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian internet watchdog Roskomnadzor  bans six more VPN services<a href="https://securityaffairs.co/wordpress/125224/laws-and-regulations/russia-roskomnadzor-bans-six-vpn-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s internet watchdog, ‘Roskomnadzor’, has announced the ban of other VPN products, 15 VPN services are now illegal in Russia
+
+
+
+Russian communications watchdog Roskomnadzor tightens the control over the Internet and blocked access to six more...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use in-house Zoho ServiceDesk exploit to drop webshells<a href="https://www.bleepingcomputer.com/news/security/hackers-use-in-house-zoho-servicedesk-exploit-to-drop-webshells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group that had been exploiting a flaw in the Zoho ManageEngine ADSelfService Plus software has pivoted to leveraging a different vulnerability in another Zoho product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet trojan returned after the takedown: detected in Japan<a href="https://www.2-spyware.com/emotet-trojan-returned-after-the-takedown-detected-in-japan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emotet trojan is an infection that spreads using phishing email campaigns with malicious attachments. Once the file gets dropped on the machine, malware can steal emails, credentials, run malware tile TrickBot or Qbot delivered previously.
+</details>
+<div style="text-align: right" markdown="1">
+2-Spyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook taking steps to secure accounts of activists, journalists, officials<a href="https://thehill.com//policy/technology/583972-facebook-taking-steps-to-secure-accounts-of-activists-journalists-officials"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook on Thursday rolled out a new set of measures designed to further protect accounts more often targeted by hackers, including those of human rights activists, journalists and government officials, among others.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let there be light: Ensuring visibility across the entire API lifecycle<a href="https://thehackernews.com/2021/12/let-there-be-light-ensuring-visibility.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The following article is based on a  webinar series on enterprise API security by Imvision , featuring expert speakers from IBM, Deloitte, Maersk, and Imvision discussing the importance of centralizing an organization's visibility of its APIs as a way to accelerate remediation efforts and improve the overall security posture.  Centralizing security is challenging in today's open ecosystem  When approaching API visibility, the first thing we have to recognize is that today's enterprises actively avoid managing all their APIs through one system. According to IBM's Tony Curcio, Director of Integration Engineering, many of his enterprise customers already work with hybrid architectures that leverage classic on-premise infrastructure while adopting SaaS and IaaS across various cloud vendors.   These architectures aim to increase resilience and flexibility, but are well aware that it complicates centralization efforts' to: 'These architectures aim to increase resilie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NginRAT – A stealth malware targets e-store hiding on Nginx servers<a href="https://securityaffairs.co/wordpress/125216/malware/nginrat-magecart-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting e-stores with remote access malware, dubbed  NginRAT, that hides on Nginx servers bypassing security solutions.
+
+
+
+Researchers from security firm Sansec recently discovered a new Linux remote access trojan (RAT), tracked as CronRAT,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine WiFi routers used by millions were vulnerable to 226 flaws<a href="https://www.bleepingcomputer.com/news/security/nine-wifi-routers-used-by-millions-were-vulnerable-to-226-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers analyzed nine popular WiFi routers and found a total of 226 potential vulnerabilities in them, even when running the latest firmware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magnat campaigns use malvertising to deliver information stealer, backdoor and malicious Chrome extension<a href="https://blog.talosintelligence.com/2021/12/magnat-campaigns-use-malvertising-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign includes a set of malware distribution campaigns that started in late 2018 and have targeted mainly Canada, along with the U.S., Australia and some EU countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol arrested 1800 money mules as part of an anti-money-laundering operation<a href="https://securityaffairs.co/wordpress/125211/cyber-crime/europol-money-mules-emma-7-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol identified 18,351 money mules and arrested 1,803 of them as part of an international anti-money-laundering operation codenamed EMMA 7. 
+
+
+
+Europol has identified 18,351 money mules and arrested 1,803 of them as part of an international anti-money-laundering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New malware hides as legit nginx process on e-commerce servers<a href="https://www.bleepingcomputer.com/news/security/new-malware-hides-as-legit-nginx-process-on-e-commerce-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+eCommerce servers are being targeted with remote access malware that hides on Nginx servers in a way that makes it virtually invisible to security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital Ransomware Attacks Go Beyond Health Care Data<a href="https://securityintelligence.com/articles/hospital-ransomware-health-care-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a 2021 survey conducted of 597 health delivery organizations (HDOs), 42% had faced two ransomware attacks in the past couple of years. Over a third (36%) attributed those ransomware incidents to a third party.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixes critical flaw in Network Security Services (NSS) cryptography library<a href="https://securityaffairs.co/wordpress/125205/security/network-security-services-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla fixed a critical memory corruption issue affecting its cross-platform Network Security Services (NSS) set of cryptography libraries. 
+
+
+
+Mozilla has addressed a heap-based buffer overflow vulnerability (CVE-2021-43527) in its cross-platform Network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpeQtral raises $8.3M to develop quantum-secure communication systems<a href="https://www.helpnetsecurity.com/2021/12/01/speqtral-financing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funds will be used to expand SpeQtral’s regional and international presence, establish strategic business partnerships, hire top talent, support the commercial rollout of terrestrial systems, and further develop its satellite-based systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How phishing kits are enabling a new legion of pro phishers<a href="https://www.helpnetsecurity.com/2021/12/02/phishing-kits-pro/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious emails can be used to reach many targets with relative ease, and criminals can purchase ready-made phishing kits that bundle together everything they need for a lucrative campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+80K Retail WooCommerce Sites Exposed by Plugin XSS Bug<a href="https://threatpost.com/retail-woocommerce-sites-plugin-xss-bug/176704/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Variation Swatches plugin security flaw lets attackers with low-level permissions tweak important settings on e-commerce sites to inject malicious scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy ‘WIRTE’ Gang Targets Middle Eastern Governments<a href="https://threatpost.com/wirte-middle-eastern-governments/176688/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers suspect that the cyberattackers may be a subgroup of the politically motivated, Palestine-focused Gaza Cybergang.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Widespread ‘Smishing’ Campaign Defrauds Iranian Android Users<a href="https://threatpost.com/smishing-campaign-iranian-android-users/176679/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers use socially engineered SMS messages and malware to compromise tens of thousands of devices and drain user bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn Iranian Users of Widespread SMS Phishing Campaigns<a href="https://thehackernews.com/2021/12/researchers-warn-iranian-users-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Socially engineered SMS messages are being used to install malware on Android devices as part of a widespread phishing campaign that impersonates the Iranian government and social security services to make away with credit card details and steal funds from victims' bank accounts.  Unlike other variants of  banking malware  that bank of overlay attacks to capture sensitive data without the knowledge of the victim, the financially motivated operation uncovered by Check Point Research is designed to trick the targets into handing over their credit card information by sending them a legitimate-looking SMS message that contains a link, which, when clicked, downloads a malware-laced app onto their devices.  "The malicious application not only collects the victim's credit card numbers, but also gains access to their 2FA authentication SMS, and turn[s] the victim's device into a bot capable of spreading similar phishing SMS to other potential victims," Check Point resear
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Man Gets 60 Months Jail for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/12/russian-man-gets-60-months-jail-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national charged with providing bulletproof hosting services for cybercriminals, who used the platform to spread malware and attack U.S. organizations and financial institutions between 2009 to 2015, has received a 60-month prison sentence.  34-year-old Aleksandr Grichishkin, along with Andrei Skvortsov, founded the bulletproof hosting service and rented its infrastructure to other criminal clientele for distributing a wide range of malware and attempted to cause millions of dollars in losses to U.S. victims.   Skvortsov is pending sentencing and faces a maximum penalty of 20 years in prison.   Bulletproof hosting operations are similar to regular web hosting, but are a lot more lenient about what can be hosted on their servers. They are known for providing secure hosting for malicious content and activity and assuring anonymity to threat actors.  Grichishkin, in May,  pleaded guilty  to conspiracy to engage in a racketeer-influenced corrupt organization (RICO). Acting as th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Planned Parenthood LA discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/planned-parenthood-la-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Planned Parenthood Los Angeles has disclosed a data breach after suffering a ransomware attack in October that exposed the personal information of approximately 400,000 patients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Mozilla's NSS Crypto Library Potentially Affects Several Other Software<a href="https://thehackernews.com/2021/12/critical-bug-in-mozillas-nss-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has rolled out fixes to address a critical security weakness in its cross-platform Network Security Services ( NSS ) cryptographic library that could be potentially exploited by an adversary to crash a vulnerable application and even execute arbitrary code.  Tracked as CVE-2021-43527, the flaw affects NSS versions prior to 3.73 or 3.68.1 ESR, and concerns a  heap overflow  vulnerability when verifying digital signatures such as  DSA  and  RSA-PSS  algorithms that are encoded using the  DER  binary format. Credited with reporting the issue is Tavis Ormandy of Google Project Zero, who codenamed it " BigSig ."   "NSS (Network Security Services) versions prior to 3.73 or 3.68.1 ESR are vulnerable to a heap overflow when handling DER-encoded DSA or RSA-PSS signatures," Mozilla  said  in an advisory published Wednesday. "Applications using NSS for handling signatures encoded within CMS, S/MIME, PKCS #7, or PKCS #12 are likely to be impacted."  NSS is a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 01, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
