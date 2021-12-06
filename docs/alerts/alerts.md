@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indicators of Compromise Associated with Cuba Ransomware <a href="https://publications.bsafes.com/docs/fbi/flash-2021-1202-indicators-of-compromise-associated-with-cuba-ransomeware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has identified, as of early November 2021 that Cuba ransomware actors have compromised at least 49 entities in five critical infrastructure sectors, including but not limited to the financial, government, healthcare, manufacturing, and information technology sectors.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 2, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -91,6 +103,18 @@ Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and 
 <details>
   <summary>Abstract</summary>
 This joint cybersecurity advisory is the result of an analytic effort among the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Australian Cyber Security Centre (ACSC), and the United Kingdom’s National Cyber Security Centre (NCSC) to highlight ongoing malicious cyber activity by an advanced persistent threat (APT) group that FBI, CISA, ACSC, and NCSC assess is associated with the government of Iran.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2021 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An APT Group Exploiting a 0-day in FatPipe WARP, MPVPN, and IPVPN Software <a href="https://publications.bsafes.com/docs/fbi/flash-2021-1116-an-apt-group-exploiting-a-0-day-in-fatpipe-warp-mpvpn-and-ipvpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of November 2021, FBI forensic analysis indicated exploitation of a 0-day vulnerability in the FatPipe MPVPN® device software going back to at least May 2021. 
 </details>
 </div>
 
