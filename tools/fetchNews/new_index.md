@@ -34,7 +34,688 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Excel XLL add-ins push RedLine password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/malicious-excel-xll-add-ins-push-redline-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are spamming website contact forms and discussion forums to distribute Excel XLL files that download and install the RedLine password and information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor2mine Cryptominer Evolves to Pose a Bigger Threat<a href="https://cyware.com/news/tor2mine-cryptominer-evolves-to-pose-a-bigger-threat-31446d09"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tor2Mine, a cryptominer which has been under active development since 2019, uses a PowerShell script to disable anti-malware solutions, deploy the payload, and steal Windows credentials.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 343<a href="https://securityaffairs.co/wordpress/125293/breaking-news/security-affairs-newsletter-round-343.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Convincing Microsoft phishing uses fake Office 365 spam alerts<a href="https://www.bleepingcomputer.com/news/security/convincing-microsoft-phishing-uses-fake-office-365-spam-alerts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persuasive and ongoing series of phishing attacks are using fake Office 365 notifications asking the recipients to review blocked spam messages, with the end goal of stealing their Microsoft credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of vulnerabilities in common Wi-Fi routers affect millions of users<a href="https://securityaffairs.co/wordpress/125286/hacking/vulnerabilities-common-wi-fi-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a total of 226 potential security vulnerabilities in nine Wi-Fi popular routers from known manufacturers. 
+
+
+
+Security researchers and editors with the German IT magazine CHIP have discovered 226 potential security defects in nine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Twitter phishing campaign targets verified accounts<a href="https://www.bleepingcomputer.com/news/security/new-twitter-phishing-campaign-targets-verified-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has been targeting verified Twitter accounts, as seen by BleepingComputer. The phishing campaign follows Twitter's recent removal of the checkmark from a number of verified accounts, citing that these were ineligible for the legendary status, and verified in error.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German BSI agency warns of ransomware attacks over Christmas holidays<a href="https://securityaffairs.co/wordpress/125280/breaking-news/bsi-ransomware-attacks-christmas-holidays.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German BSI warns of ransomware attacks over the Christmas and end-of-year holidays, fearing Emotet return and attacks on Microsoft Exchange servers.
+
+
+
+The German cybersecurity authority BSI warns of ransomware attacks over the Christmas holidays, fearing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Reportedly Hacked iPhones of U.S. State Department and Diplomats<a href="https://thehackernews.com/2021/12/pegasus-spyware-reportedly-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple reportedly notified several U.S. Embassy and State Department employees that their iPhones may have been targeted by an unknown assailant using state-sponsored spyware created by the controversial Israeli company NSO Group, according to multiple reports from  Reuters  and  The Washington Post .  At least 11 U.S. Embassy officials stationed in Uganda or focusing on issues pertaining to the country are said to have  singled out  using iPhones registered to their overseas phone numbers, although the identity of the threat actors behind the intrusions, or the nature of the information sought, remains unknown as yet.   The attacks, which were carried out in the last several months, mark the first known time the sophisticated surveillance software has been put to use against U.S. government employees.  NSO Group is the maker of Pegasus , military-grade spyware that allows its government clients to stealthily plunder files and photos, eavesdrop on conversations, and track the whereabou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thieflock and Yanluowang Ransomware Share Same Genes<a href="https://cyware.com/news/thieflock-and-yanluowang-ransomware-share-same-genes-8de3bf41"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec has reported a link between Thieflock and Yanluowang ransomware operations. The latter recently picked up its pace to target financial companies in the U.S.  Researchers believe that the attackers are highly attack-oriented because the ransomware behavior hasn’t altered since its discovery ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cuba ransomware group hit 49 critical infrastructure organizations<a href="https://www.zdnet.com/article/fbi-cuba-ransomware-hit-49-critical-infrastructure-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has released a new notice about the Cuba ransomware, explaining that the group has attacked "49 entities in five critical infrastructure sectors" and made at least $43.9 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious KMSPico installers steal your cryptocurrency wallets<a href="https://www.bleepingcomputer.com/news/security/malicious-kmspico-installers-steal-your-cryptocurrency-wallets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are distributing altered KMSpico installers to infect Windows devices with malware that steals cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Determined APT is exploiting ManageEngine ServiceDesk Plus vulnerability<a href="https://www.helpnetsecurity.com/2021/12/03/cve-2021-44077/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group is leveraging a critical vulnerability (CVE-2021-44077) in Zoho ManageEngine ServiceDesk Plus to compromise organizations in a variety of sectors, including defense and tech.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware gang hacked 49 US critical infrastructure organizations<a href="https://securityaffairs.co/wordpress/125274/cyber-crime/cuba-ransomware-fbi-flash-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has revealed that the Cuba ransomware gang breached the networks of at least 49 US critical infrastructure organizations.
+
+
+
+A flash alert published by the FBI has reported that the Cuba ransomware gang breached the networks of at least 49 US critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $120m from Badger Defi and $30m from MonoX<a href="https://www.hackread.com/hackers-steal-badger-defi-monox/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two DeFi projects BadgerDAO and MonoX are the latest victims of security breaches in which hundreds of millions of dollars worth of cryptocurrency has been stolen by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of vulnerabilities in Hitachi Energy products<a href="https://securityaffairs.co/wordpress/125269/security/cisa-warns-hitachi-energy-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released six advisories to warn organizations about security vulnerabilities affecting Hitachi Energy products 
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published six advisories to inform organizations about the availability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Department employee phones hacked through NSO Group spyware: report<a href="https://thehill.com//policy/cybersecurity/584244-state-department-employee-phones-hacked-through-nso-group-spyware-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phones of at least nine State Department employees were recently hacked through the use of spyware from Israeli company NSO Group, a report published Friday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity for Idiots<a href="https://www.lawfareblog.com/cybersecurity-idiots"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of cybersecurity’s major challenges is cyberstupidity, and regulators struggle to keep pace with rapidly changing technologies. Adopting a cybersecurity approach conceptually modeled on tort’s negligence per se doctrine, regulators can reduce widespread failures.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Yet Another Zoho ManageEngine Product Found Under Active Attacks<a href="https://thehackernews.com/2021/12/warning-yet-another-zoho-manageengine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise software provider Zoho on Friday warned that a newly patched critical flaw in its Desktop Central and Desktop Central MSP is being actively exploited by malicious actors, marking the third security vulnerability in its products to be abused in the wild in a span of four months.   The issue, assigned the identifier  CVE-2021-44515 , is an authentication bypass vulnerability that could permit an adversary to circumvent authentication protections and execute arbitrary code in the Desktop Central MSP server.  "If exploited, the attackers can gain unauthorized access to the product by sending a specially crafted request leading to remote code execution," Zoho  cautioned  in an  advisory . "As we are noticing indications of exploitation of this vulnerability, we strongly advise customers to update their installations to the latest build as soon as possible."   The company has also made available an  Exploit Detection Tool  that will help customers identify sig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail How Pakistani Hackers Targeting Indian and Afghan Governments<a href="https://thehackernews.com/2021/12/researchers-detail-how-pakistani.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistani threat actor successfully socially engineered a number of ministries in Afghanistan and a shared government computer in India to steal sensitive Google, Twitter, and Facebook credentials from its targets and stealthily obtain access to government portals.  Malwarebytes' latest findings go into detail about the new tactics and tools adopted by the APT group known as  SideCopy , which is so-called because of its attempts to mimic the infection chains associated with another group tracked as  SideWinder  and mislead attribution.  "The lures used by SideCopy APT are usually archive files that have embedded one of these files: LNK, Microsoft Publisher or Trojanized Applications," Malwarebytes researcher Hossein Jazi  said , adding the embedded files are tailored to target government and military officials based in Afghanistan and India.   The revelation comes close on the heels of  disclosures  that Meta took steps to block malicious activities carried out by the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malvertising Campaigns Spreading Backdoors, Malicious Chrome Extensions<a href="https://thehackernews.com/2021/12/new-malvertising-campaigns-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of malicious campaigns have been leveraging fake installers of popular apps and games such as Viber, WeChat, NoxPlayer, and Battlefield as a lure to trick users into downloading a new backdoor and an undocumented malicious Google Chrome extension with the goal of stealing credentials and data stored in the compromised systems as well as maintaining persistent remote access.  Cisco Talos attributed the malware payloads to an unknown actor that goes by the alias " magnat ," noting that "these two families have been subject to constant development and improvement by their authors."  The attacks are believed to have commenced in late 2018, with intermittent activity observed towards the end of 2019 and through early 2020, followed by fresh spikes since April 2021, while mainly singling out users in Canada, followed by the U.S., Australia, Italy, Spain, and Norway.   A noteworthy aspect of the intrusions is the use of malvertising as a means to strike individua
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 3rd 2021 - Seizing Bitcoin<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-3rd-2021-seizing-bitcoin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For this week's 'Week in Ransomware' article we have included the latest ransomware news over the past two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Everyone Needs to Take the Latest CISA Directive Seriously<a href="https://thehackernews.com/2021/12/why-everyone-needs-to-take-latest-cisa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government agencies publish notices and directives all the time. Usually, these are only relevant to government departments, which means that nobody else really pays attention. It's easy to see why you would assume that a directive from CISA just doesn't relate to your organization.  But, in the instance of the latest CISA directive, that would be making a mistake. In this article, we explain why, even if you're in the private or non-government sector, you should nonetheless take a close look at CISA Binding Operational Directive 22-01.  We outline why CISA was forced to issue this directive, and why that firm action has implications for all organizations – inside and outside of government. Acting on cybersecurity issues isn't as simple as flicking a switch, of course, so keep reading to find out how you can address the core issue behind the CISA directive.  Okay, so what exactly is a CISA directive?  Let's take a step back to gain some context. Just like any organ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US State Dept employees’ phones hacked using NSO spyware<a href="https://www.bleepingcomputer.com/news/security/us-state-dept-employees-phones-hacked-using-nso-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has warned US Department of State employees that their iPhones have been hacked by unknown attackers using an iOS exploit dubbed ForcedEntry to deploy Pegasus spyware developed by Israeli surveillance firm NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $120 Million from Badger DeFi Platform<a href="https://therecord.media/hackers-steal-120-million-from-badger-defi-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have stolen an estimated $120 million worth of Bitcoin and Ether assets from Badger, a decentralized finance (DeFi) platform that allows users to borrow, loan, and speculate on cryptocurrency price variations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Payment Data Stealing Malware Hides in Nginx Process on Linux Servers<a href="https://thehackernews.com/2021/12/new-payment-data-sealing-malware-hides.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce platforms in the U.S., Germany, and France have come under attack from a new form of malware that targets Nginx servers in an attempt to masquerade its presence and slip past detection by security solutions.  "This novel code injects itself into a host Nginx application and is nearly invisible," Sansec Threat Research team  said  in a new report. "The parasite is used to steal data from eCommerce servers, also known as 'server-side Magecart.'"   A free and open-source software, Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache. NginRAT, as the advanced malware is called, works by hijacking a host Nginx application to embed itself into the webserver process.   The remote access trojan itself is delivered via  CronRAT , another piece of malware the Dutch cybersecurity firm disclosed last week as hiding its malicious payloads in cron jobs scheduled to execute on February 31st, a non-existent ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group spyware used to compromise iPhones of 9 US State Dept officials<a href="https://securityaffairs.co/wordpress/125260/hacking/nso-group-spyware-us-officials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple warns that the mobile devices of at least nine US Department of State employees were compromised with NSO Group 's Pegasus spyware. 
+
+
+
+The iPhones of at least nine US state department officials were compromised with the NSO Group's spyware Pegasus.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake support agents call victims to install Android banking malware<a href="https://www.bleepingcomputer.com/news/security/fake-support-agents-call-victims-to-install-android-banking-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BRATA Android remote access trojan (RAT) has been spotted in Italy, with threat actors calling victims of SMS attacks to steal their online banking credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now Anyone can Phish with Phishing Kits<a href="https://cyware.com/news/now-anyone-can-phish-with-phishing-kits-613018fb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing kits enable non-technical criminals to readily leverage new techniques. These kits contain a set of tools that allow wannabe criminals to build and launch their own phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KAX17 threat actor is attempting to deanonymize Tor users running thousands of rogue relays<a href="https://securityaffairs.co/wordpress/125248/hacking/kax17-threat-actor-tor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2017, an unknown threat actor has run thousands of malicious Tor relay servers in the attempt to unmask Tor users. 
+
+
+
+A mysterious threat actor, tracked as KAX17, has run thousands of malicious Tor relay servers since 2017 in an attempt to deanonymize...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cuba ransomware breached 49 US critical infrastructure orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-breached-49-us-critical-infrastructure-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has revealed that the Cuba ransomware gang has compromised the networks of at least 49 organizations from US critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in NSS Cryptographic Library Affects Several Popular Applications<a href="https://www.securityweek.com/critical-flaw-nss-cryptographic-library-affects-several-popular-applications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security defect may also impact applications that employ NSS for validating certificates, or for additional CRL, OCSP, TLS, or X.509 functionality, depending on how NSS is configured.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $120 M in crypto from BadgerDAO DeFi platform<a href="https://securityaffairs.co/wordpress/125242/cyber-crime/badgerdao-defi-platform-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole $120 million in cryptocurrencies from multiple wallets connected to the decentralized finance platform BadgerDAO.
+
+
+
+Threat actors this week have hacked the decentralized finance platform BadgerDAO and have stolen $120.3 million in crypto...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers discover 14 new data-stealing web browser attacks<a href="https://www.bleepingcomputer.com/news/security/researchers-discover-14-new-data-stealing-web-browser-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT security researchers from Ruhr-Universität Bochum (RUB) and the Niederrhein University of Applied Sciences have discovered 14 new types of 'XS-Leak' cross-site leak attacks against modern web browsers, including Google Chrome, Microsoft Edge, Safari, and Mozilla Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Analytics Startup Panther Labs Scores $120M Investment<a href="https://www.securityweek.com/security-analytics-startup-panther-labs-scores-120m-investment?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panther Labs, an early-stage startup that specializes in detection and response analytics, has raised $120 million in a new Series B round of funding led by Coatue Management.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for Omicron COVID-19-themed phishing messages!<a href="https://securityaffairs.co/wordpress/125235/cyber-crime/omicron-covid-19-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started to exploit the interest in the Omicron COVID-19 variant and are using it as a lure in phishing campaigns. 
+
+
+
+Crooks have already started exploiting the interest in the Omicron COVID-19 variant and are using it as a lure in phishing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 03, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho: Patch new ManageEngine bug exploited in attacks ASAP<a href="https://www.bleepingcomputer.com/news/security/zoho-patch-new-manageengine-bug-exploited-in-attacks-asap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business software provider Zoho urged customers today to update their Desktop Central and Desktop Central MSP installations to the latest available version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Double-Extortion’ Ransomware Damage Skyrockets 935%<a href="https://threatpost.com/double-extortion-ransomware-data-leaks/176723/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Startling triple-digit growth is fueled by easy criminal access to corporate networks and RaaS tools, an analysis found.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Planned Parenthood Breach Opens Patients to Follow-On Attacks<a href="https://threatpost.com/planned-parenthood-breach-attacks/176718/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers made off with addresses, insurance information, dates of birth, and most worryingly, clinical information, such as diagnosis, procedures, and/or prescription information.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T Takes Steps to Mitigate Botnet Found Inside Its Network <a href="https://threatpost.com/att-botnet-network/176711/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T is battling a modular malware called EwDoor on 5,700 VoIP servers, but it could have a larger wildcard certificate problem.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 02, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Critical Zoho ManageEngine ServiceDesk Vulnerability<a href="https://thehackernews.com/2021/12/cisa-warns-of-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are warning of active exploitation of a newly patched flaw in Zoho's ManageEngine ServiceDesk Plus product to deploy web shells and carry out an array of malicious activities.  Tracked as  CVE-2021-44077  (CVSS score: 9.8), the issue relates to an unauthenticated, remote code execution vulnerability affecting ServiceDesk Plus versions up to and including 11305 that, if left unfixed, "allows an attacker to upload executable files and place web shells that enable post-exploitation activities, such as compromising administrator credentials, conducting lateral movement, and exfiltrating registry hives and Active Directory files," CISA  said .   "A security misconfiguration in ServiceDesk Plus led to the vulnerability," Zoho  noted  in an independent advisory published on November 22. "This vulnerability can allow an adversary to execute arbitrary code
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing actors start exploiting the Omicron COVID-19 variant<a href="https://www.bleepingcomputer.com/news/security/phishing-actors-start-exploiting-the-omicron-covid-19-variant/"> Full Text</a>
@@ -50,7 +731,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bogus Android App Steals Banking Credentials from Malaysian Individuals<a href="https://heimdalsecurity.com/blog/bogus-android-app-steals-banking-credentials-from-malaysian-individuals/?&web_view=true"> Full Text</a>
@@ -66,7 +747,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal watchdog warns security of US infrastructure 'in jeopardy' without action<a href="https://thehill.com//policy/cybersecurity/584125-federal-watchdog-warns-security-of-us-infrastructure-in-jeopardy-without"> Full Text</a>
@@ -82,7 +763,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Expands Facebook Protect Program to Activists, Journalists, Government Officials<a href="https://thehackernews.com/2021/12/meta-expands-facebook-protect-program.html"> Full Text</a>
@@ -98,7 +779,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Zoho, Apache, Qualcomm, Mikrotik flaws to the list of actively exploited issues<a href="https://securityaffairs.co/wordpress/125228/hacking/cisa-known-exploited-vulnerabilities.html"> Full Text</a>
@@ -118,7 +799,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter removes 3,400 accounts used in govt propaganda campaigns<a href="https://www.bleepingcomputer.com/news/security/twitter-removes-3-400-accounts-used-in-govt-propaganda-campaigns/"> Full Text</a>
@@ -134,7 +815,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NginRAT – A stealth malware targets e-store hiding on Nginx servers<a href="https://securityaffairs.co/wordpress/125216/malware/nginrat-magecart-attack.html?&web_view=true"> Full Text</a>
@@ -150,7 +831,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TSA issues directives to rail sector to strengthen cybersecurity<a href="https://thehill.com//policy/cybersecurity/584041-tsa-issues-directives-to-rail-sector-to-strengthen-cybersecurity"> Full Text</a>
@@ -166,7 +847,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researches Detail 17 Malicious Frameworks Used to Attack Air-Gapped Networks<a href="https://thehackernews.com/2021/12/researches-detail-17-malicious.html"> Full Text</a>
@@ -182,7 +863,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian internet watchdog Roskomnadzor  bans six more VPN services<a href="https://securityaffairs.co/wordpress/125224/laws-and-regulations/russia-roskomnadzor-bans-six-vpn-services.html"> Full Text</a>
@@ -202,7 +883,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use in-house Zoho ServiceDesk exploit to drop webshells<a href="https://www.bleepingcomputer.com/news/security/hackers-use-in-house-zoho-servicedesk-exploit-to-drop-webshells/"> Full Text</a>
@@ -218,7 +899,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet trojan returned after the takedown: detected in Japan<a href="https://www.2-spyware.com/emotet-trojan-returned-after-the-takedown-detected-in-japan?&web_view=true"> Full Text</a>
@@ -234,7 +915,7 @@ Emotet trojan is an infection that spreads using phishing email campaigns with m
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook taking steps to secure accounts of activists, journalists, officials<a href="https://thehill.com//policy/technology/583972-facebook-taking-steps-to-secure-accounts-of-activists-journalists-officials"> Full Text</a>
@@ -250,7 +931,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let there be light: Ensuring visibility across the entire API lifecycle<a href="https://thehackernews.com/2021/12/let-there-be-light-ensuring-visibility.html"> Full Text</a>
@@ -266,7 +947,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NginRAT – A stealth malware targets e-store hiding on Nginx servers<a href="https://securityaffairs.co/wordpress/125216/malware/nginrat-magecart-attack.html"> Full Text</a>
@@ -286,7 +967,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine WiFi routers used by millions were vulnerable to 226 flaws<a href="https://www.bleepingcomputer.com/news/security/nine-wifi-routers-used-by-millions-were-vulnerable-to-226-flaws/"> Full Text</a>
@@ -302,7 +983,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magnat campaigns use malvertising to deliver information stealer, backdoor and malicious Chrome extension<a href="https://blog.talosintelligence.com/2021/12/magnat-campaigns-use-malvertising-to.html?&web_view=true"> Full Text</a>
@@ -318,7 +999,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol arrested 1800 money mules as part of an anti-money-laundering operation<a href="https://securityaffairs.co/wordpress/125211/cyber-crime/europol-money-mules-emma-7-op.html"> Full Text</a>
@@ -338,7 +1019,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware hides as legit nginx process on e-commerce servers<a href="https://www.bleepingcomputer.com/news/security/new-malware-hides-as-legit-nginx-process-on-e-commerce-servers/"> Full Text</a>
@@ -354,7 +1035,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospital Ransomware Attacks Go Beyond Health Care Data<a href="https://securityintelligence.com/articles/hospital-ransomware-health-care-data/?&web_view=true"> Full Text</a>
@@ -370,7 +1051,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla fixes critical flaw in Network Security Services (NSS) cryptography library<a href="https://securityaffairs.co/wordpress/125205/security/network-security-services-flaw.html"> Full Text</a>
@@ -390,7 +1071,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpeQtral raises $8.3M to develop quantum-secure communication systems<a href="https://www.helpnetsecurity.com/2021/12/01/speqtral-financing/?&web_view=true"> Full Text</a>
@@ -406,7 +1087,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How phishing kits are enabling a new legion of pro phishers<a href="https://www.helpnetsecurity.com/2021/12/02/phishing-kits-pro/?&web_view=true"> Full Text</a>
@@ -422,7 +1103,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 80K Retail WooCommerce Sites Exposed by Plugin XSS Bug<a href="https://threatpost.com/retail-woocommerce-sites-plugin-xss-bug/176704/"> Full Text</a>
@@ -438,7 +1119,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy ‘WIRTE’ Gang Targets Middle Eastern Governments<a href="https://threatpost.com/wirte-middle-eastern-governments/176688/"> Full Text</a>
@@ -454,7 +1135,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2021
+December 1, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Widespread ‘Smishing’ Campaign Defrauds Iranian Android Users<a href="https://threatpost.com/smishing-campaign-iranian-android-users/176679/"> Full Text</a>
@@ -470,7 +1151,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn Iranian Users of Widespread SMS Phishing Campaigns<a href="https://thehackernews.com/2021/12/researchers-warn-iranian-users-of.html"> Full Text</a>
@@ -486,7 +1167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Man Gets 60 Months Jail for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/12/russian-man-gets-60-months-jail-for.html"> Full Text</a>
@@ -502,7 +1183,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Planned Parenthood LA discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/planned-parenthood-la-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
@@ -518,7 +1199,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2021
+December 01, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bug in Mozilla's NSS Crypto Library Potentially Affects Several Other Software<a href="https://thehackernews.com/2021/12/critical-bug-in-mozillas-nss-crypto.html"> Full Text</a>
