@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity for Idiots<a href="https://www.lawfareblog.com/cybersecurity-idiots"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of cybersecurity’s major challenges is cyberstupidity, and regulators struggle to keep pace with rapidly changing technologies. Adopting a cybersecurity approach conceptually modeled on tort’s negligence per se doctrine, regulators can reduce widespread failures.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

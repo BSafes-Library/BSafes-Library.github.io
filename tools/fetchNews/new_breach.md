@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Department employee phones hacked through NSO Group spyware: report<a href="https://thehill.com//policy/cybersecurity/584244-state-department-employee-phones-hacked-through-nso-group-spyware-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phones of at least nine State Department employees were recently hacked through the use of spyware from Israeli company NSO Group, a report published Friday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US State Dept employees’ phones hacked using NSO spyware<a href="https://www.bleepingcomputer.com/news/security/us-state-dept-employees-phones-hacked-using-nso-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has warned US&nbsp;Department of State employees that their&nbsp;iPhones have&nbsp;been hacked&nbsp;by unknown attackers&nbsp;using an iOS exploit dubbed ForcedEntry to deploy Pegasus spyware developed by Israeli surveillance firm NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Planned Parenthood Breach Opens Patients to Follow-On Attacks<a href="https://threatpost.com/planned-parenthood-breach-attacks/176718/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers made off with addresses, insurance information, dates of birth, and most worryingly, clinical information, such as diagnosis, procedures, and/or prescription information.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Analytics Startup Panther Labs Scores $120M Investment<a href="https://www.securityweek.com/security-analytics-startup-panther-labs-scores-120m-investment?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Panther Labs, an early-stage startup that specializes in detection and response analytics, has raised $120 million in a new Series B round of funding led by Coatue Management.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

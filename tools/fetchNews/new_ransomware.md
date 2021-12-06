@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thieflock and Yanluowang Ransomware Share Same Genes<a href="https://cyware.com/news/thieflock-and-yanluowang-ransomware-share-same-genes-8de3bf41"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec has reported a link between Thieflock and Yanluowang ransomware operations. The latter recently picked up its pace to target financial companies in the U.S.  Researchers believe that the attackers are highly attack-oriented because the ransomware behavior hasn’t altered since its discovery ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 3rd 2021 - Seizing Bitcoin<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-3rd-2021-seizing-bitcoin/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For this week's 'Week in Ransomware' article we have included the latest ransomware news over the past two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,42 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 04, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Reportedly Hacked iPhones of U.S. State Department and Diplomats<a href="https://thehackernews.com/2021/12/pegasus-spyware-reportedly-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple reportedly notified several U.S. Embassy and State Department employees that their iPhones may have been targeted by an unknown assailant using state-sponsored spyware created by the controversial Israeli company NSO Group, according to multiple reports from&nbsp; Reuters &nbsp;and&nbsp; The Washington Post .  At least 11 U.S. Embassy officials stationed in Uganda or focusing on issues pertaining to the country are said to have&nbsp; singled out &nbsp;using iPhones registered to their overseas phone numbers, although the identity of the threat actors behind the intrusions, or the nature of the information sought, remains unknown as yet.   The attacks, which were carried out in the last several months, mark the first known time the sophisticated surveillance software has been put to use against U.S. government employees.  NSO Group is the maker of Pegasus , military-grade spyware that allows its government clients to stealthily plunder files and photos, eavesdrop on conversations, and track the whereabou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group spyware used to compromise iPhones of 9 US State Dept officials<a href="https://securityaffairs.co/wordpress/125260/hacking/nso-group-spyware-us-officials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple warns that the mobile devices of at least nine US&nbsp;Department of State employees were compromised with NSO Group 's Pegasus spyware. 
+
+
+
+The iPhones of at least nine US state department officials were compromised with the NSO Group's spyware Pegasus.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

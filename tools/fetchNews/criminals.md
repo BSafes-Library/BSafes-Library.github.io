@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol arrested 1800 money mules as part of an anti-money-laundering operation<a href="https://securityaffairs.co/wordpress/125211/cyber-crime/europol-money-mules-emma-7-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol identified 18,351 money mules and arrested 1,803 of them as part of an international anti-money-laundering operation codenamed EMMA 7. 
+
+
+
+Europol has identified 18,351 money mules and arrested 1,803 of them as part of an international anti-money-laundering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy ‘WIRTE’ Gang Targets Middle Eastern Governments<a href="https://threatpost.com/wirte-middle-eastern-governments/176688/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers suspect that the cyberattackers may be a subgroup of the politically motivated, Palestine-focused Gaza Cybergang.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

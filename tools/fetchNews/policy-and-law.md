@@ -11,6 +11,20 @@ nav_order: 900163
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Russian Man Gets 60 Months Jail for Providing Bulletproof Hosting to Cyber Criminals<a href="https://thehackernews.com/2021/12/russian-man-gets-60-months-jail-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national charged with providing bulletproof hosting services for cybercriminals, who used the platform to spread malware and attack U.S. organizations and financial institutions between 2009 to 2015, has received a 60-month prison sentence.  34-year-old Aleksandr Grichishkin, along with Andrei Skvortsov, founded the bulletproof hosting service and rented its infrastructure to other criminal clientele for distributing a wide range of malware and attempted to cause millions of dollars in losses to U.S. victims.&nbsp;  Skvortsov is pending sentencing and faces a maximum penalty of 20 years in prison.   Bulletproof hosting operations are similar to regular web hosting, but are a lot more lenient about what can be hosted on their servers. They are known for providing secure hosting for malicious content and activity and assuring anonymity to threat actors.  Grichishkin, in May,&nbsp; pleaded guilty &nbsp;to conspiracy to engage in a racketeer-influenced corrupt organization (RICO). Acting as th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Former Ubiquiti dev charged for trying to extort his employer<a href="https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-charged-for-trying-to-extort-his-employer/"> Full Text</a>
 </p>
 <details>

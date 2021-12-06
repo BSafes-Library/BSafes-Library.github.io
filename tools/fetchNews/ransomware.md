@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital Ransomware Attacks Go Beyond Health Care Data<a href="https://securityintelligence.com/articles/hospital-ransomware-health-care-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a 2021 survey conducted of 597 health delivery organizations (HDOs), 42% had faced two ransomware attacks in the past couple of years. Over a third (36%) attributed those ransomware incidents to a third party.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

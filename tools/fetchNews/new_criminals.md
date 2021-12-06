@@ -8,6 +8,56 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware gang hacked 49 US critical infrastructure organizations<a href="https://securityaffairs.co/wordpress/125274/cyber-crime/cuba-ransomware-fbi-flash-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has revealed that the Cuba ransomware gang breached the networks of at least 49 US critical infrastructure organizations.
+
+
+
+A flash alert published by the FBI has reported that the Cuba ransomware gang breached the networks of at least 49 US critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $120 Million from Badger DeFi Platform<a href="https://therecord.media/hackers-steal-120-million-from-badger-defi-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have stolen an estimated $120 million worth of Bitcoin and Ether assets from Badger, a decentralized finance (DeFi) platform that allows users to borrow, loan, and speculate on cryptocurrency price variations.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole $120 M in crypto from BadgerDAO DeFi platform<a href="https://securityaffairs.co/wordpress/125242/cyber-crime/badgerdao-defi-platform-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole $120 million in cryptocurrencies from multiple wallets connected to the decentralized finance platform BadgerDAO.
+
+
+
+Threat actors this week have hacked the decentralized finance platform BadgerDAO and have stolen $120.3 million in crypto...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,22 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hitachi Energy RTU500 series BCI <a href="https://us-cert.cisa.gov/ics/advisories/icsa-21-336-04"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+. CVSS v3 7.5  
+. ATTENTION: Exploitable remotely/low attack complexity  
+. Vendor: Hitachi Energy  
+. Equipment: RTU500 series Bidirectional Communication Interface (BCI)  
+. Vulnerability: Improper Input Validation  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 1, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

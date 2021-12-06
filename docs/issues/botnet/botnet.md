@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T Takes Steps to Mitigate Botnet Found Inside Its Network&nbsp;<a href="https://threatpost.com/att-botnet-network/176711/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T is battling a modular malware called EwDoor on 5,700 VoIP servers, but it could have a larger wildcard certificate problem.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use in-house Zoho ServiceDesk exploit to drop webshells<a href="https://www.bleepingcomputer.com/news/security/hackers-use-in-house-zoho-servicedesk-exploit-to-drop-webshells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group that had been&nbsp;exploiting a flaw&nbsp;in the Zoho ManageEngine ADSelfService Plus software has pivoted to leveraging a different vulnerability in another Zoho product.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

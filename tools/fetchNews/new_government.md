@@ -8,6 +8,98 @@ nav_order: 900075
 
 ## Government
 ---
+December 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German BSI agency warns of ransomware attacks over Christmas holidays<a href="https://securityaffairs.co/wordpress/125280/breaking-news/bsi-ransomware-attacks-christmas-holidays.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German BSI warns of ransomware attacks over the Christmas and end-of-year holidays, fearing Emotet return and attacks on Microsoft Exchange servers.
+
+
+
+The German cybersecurity authority BSI warns of ransomware attacks over the Christmas holidays, fearing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cuba ransomware group hit 49 critical infrastructure organizations<a href="https://www.zdnet.com/article/fbi-cuba-ransomware-hit-49-critical-infrastructure-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has released a new notice about the Cuba ransomware, explaining that the group has attacked "49 entities in five critical infrastructure sectors" and made at least $43.9 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of vulnerabilities in Hitachi Energy products<a href="https://securityaffairs.co/wordpress/125269/security/cisa-warns-hitachi-energy-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has released six advisories to warn organizations about security vulnerabilities affecting Hitachi Energy products 
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published six advisories to inform organizations about the availability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Everyone Needs to Take the Latest CISA Directive Seriously<a href="https://thehackernews.com/2021/12/why-everyone-needs-to-take-latest-cisa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government agencies publish notices and directives all the time. Usually, these are only relevant to government departments, which means that nobody else really pays attention. It's easy to see why you would assume that a directive from CISA just doesn't relate to your organization.  But, in the instance of the latest CISA directive, that would be making a mistake. In this article, we explain why, even if you're in the private or non-government sector, you should nonetheless take a close look at CISA Binding Operational Directive 22-01.  We outline why CISA was forced to issue this directive, and why that firm action has implications for all organizations – inside and outside of government. Acting on cybersecurity issues isn't as simple as flicking a switch, of course, so keep reading to find out how you can address the core issue behind the CISA directive.  Okay, so what exactly is a CISA directive?  Let's take a step back to gain some context. Just like any organ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cuba ransomware breached 49 US critical infrastructure orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-breached-49-us-critical-infrastructure-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has revealed that the Cuba ransomware gang has compromised the networks of at least 49 organizations from US critical&nbsp;infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Critical Zoho ManageEngine ServiceDesk Vulnerability<a href="https://thehackernews.com/2021/12/cisa-warns-of-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are warning of active exploitation of a newly patched flaw in Zoho's ManageEngine ServiceDesk Plus product to deploy web shells and carry out an array of malicious activities.  Tracked as&nbsp; CVE-2021-44077 &nbsp;(CVSS score: 9.8), the issue relates to an unauthenticated, remote code execution vulnerability affecting ServiceDesk Plus versions up to and including 11305 that, if left unfixed, "allows an attacker to upload executable files and place web shells that enable post-exploitation activities, such as compromising administrator credentials, conducting lateral movement, and exfiltrating registry hives and Active Directory files," CISA&nbsp; said .   "A security misconfiguration in ServiceDesk Plus led to the vulnerability," Zoho&nbsp; noted &nbsp;in an independent advisory published on November 22. "This vulnerability can allow an adversary to execute arbitrary code
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

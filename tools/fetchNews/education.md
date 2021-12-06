@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 02, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let there be light: Ensuring visibility across the entire API lifecycle<a href="https://thehackernews.com/2021/12/let-there-be-light-ensuring-visibility.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The following article is based on a&nbsp; webinar series on enterprise API security by Imvision , featuring expert speakers from IBM, Deloitte, Maersk, and Imvision discussing the importance of centralizing an organization's visibility of its APIs as a way to accelerate remediation efforts and improve the overall security posture.  Centralizing security is challenging in today's open ecosystem  When approaching API visibility, the first thing we have to recognize is that today's enterprises actively avoid managing all their APIs through one system. According to IBM's Tony Curcio, Director of Integration Engineering, many of his enterprise customers already work with hybrid architectures that leverage classic on-premise infrastructure while adopting SaaS and IaaS across various cloud vendors.&nbsp;  These architectures aim to increase resilience and flexibility, but are well aware that it complicates centralization efforts' to: 'These architectures aim to increase resilie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

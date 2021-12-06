@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+December 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 343<a href="https://securityaffairs.co/wordpress/125293/breaking-news/security-affairs-newsletter-round-343.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe&nbsp;here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Double-Extortion’ Ransomware Damage Skyrockets 935%<a href="https://threatpost.com/double-extortion-ransomware-data-leaks/176723/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Startling triple-digit growth is fueled by easy criminal access to corporate networks and RaaS tools, an analysis found.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

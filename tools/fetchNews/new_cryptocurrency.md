@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor2mine Cryptominer Evolves to Pose a Bigger Threat<a href="https://cyware.com/news/tor2mine-cryptominer-evolves-to-pose-a-bigger-threat-31446d09"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tor2Mine, a cryptominer which has been under active development since 2019, uses a PowerShell script to disable anti-malware solutions, deploy the payload, and steal Windows credentials.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

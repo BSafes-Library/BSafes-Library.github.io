@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2021
+December 05, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Excel XLL add-ins push RedLine password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/malicious-excel-xll-add-ins-push-redline-password-stealing-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2021
+December 5, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor2mine Cryptominer Evolves to Pose a Bigger Threat<a href="https://cyware.com/news/tor2mine-cryptominer-evolves-to-pose-a-bigger-threat-31446d09"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2021
+December 5, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 343<a href="https://securityaffairs.co/wordpress/125293/breaking-news/security-affairs-newsletter-round-343.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2021
+December 05, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Convincing Microsoft phishing uses fake Office 365 spam alerts<a href="https://www.bleepingcomputer.com/news/security/convincing-microsoft-phishing-uses-fake-office-365-spam-alerts/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2021
+December 5, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of vulnerabilities in common Wi-Fi routers affect millions of users<a href="https://securityaffairs.co/wordpress/125286/hacking/vulnerabilities-common-wi-fi-routers.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2021
+December 05, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Twitter phishing campaign targets verified accounts<a href="https://www.bleepingcomputer.com/news/security/new-twitter-phishing-campaign-targets-verified-accounts/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2021
+December 5, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German BSI agency warns of ransomware attacks over Christmas holidays<a href="https://securityaffairs.co/wordpress/125280/breaking-news/bsi-ransomware-attacks-christmas-holidays.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2021
+December 04, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Spyware Reportedly Hacked iPhones of U.S. State Department and Diplomats<a href="https://thehackernews.com/2021/12/pegasus-spyware-reportedly-hacked.html"> Full Text</a>
@@ -174,7 +174,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2021
+December 4, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thieflock and Yanluowang Ransomware Share Same Genes<a href="https://cyware.com/news/thieflock-and-yanluowang-ransomware-share-same-genes-8de3bf41"> Full Text</a>
@@ -191,7 +191,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2021
+December 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Cuba ransomware group hit 49 critical infrastructure organizations<a href="https://www.zdnet.com/article/fbi-cuba-ransomware-hit-49-critical-infrastructure-organizations/?&web_view=true"> Full Text</a>
@@ -207,7 +207,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2021
+December 04, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious KMSPico installers steal your cryptocurrency wallets<a href="https://www.bleepingcomputer.com/news/security/malicious-kmspico-installers-steal-your-cryptocurrency-wallets/"> Full Text</a>
@@ -223,7 +223,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2021
+December 4, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Determined APT is exploiting ManageEngine ServiceDesk Plus vulnerability<a href="https://www.helpnetsecurity.com/2021/12/03/cve-2021-44077/?&web_view=true"> Full Text</a>
@@ -239,7 +239,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2021
+December 4, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba ransomware gang hacked 49 US critical infrastructure organizations<a href="https://securityaffairs.co/wordpress/125274/cyber-crime/cuba-ransomware-fbi-flash-alert.html"> Full Text</a>
@@ -259,7 +259,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2021
+December 4, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal $120m from Badger Defi and $30m from MonoX<a href="https://www.hackread.com/hackers-steal-badger-defi-monox/?&web_view=true"> Full Text</a>
@@ -275,7 +275,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2021
+December 4, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of vulnerabilities in Hitachi Energy products<a href="https://securityaffairs.co/wordpress/125269/security/cisa-warns-hitachi-energy-flaws.html"> Full Text</a>
@@ -295,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Department employee phones hacked through NSO Group spyware: report<a href="https://thehill.com//policy/cybersecurity/584244-state-department-employee-phones-hacked-through-nso-group-spyware-report"> Full Text</a>
@@ -311,7 +311,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity for Idiots<a href="https://www.lawfareblog.com/cybersecurity-idiots"> Full Text</a>
@@ -327,7 +327,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Yet Another Zoho ManageEngine Product Found Under Active Attacks<a href="https://thehackernews.com/2021/12/warning-yet-another-zoho-manageengine.html"> Full Text</a>
@@ -343,7 +343,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail How Pakistani Hackers Targeting Indian and Afghan Governments<a href="https://thehackernews.com/2021/12/researchers-detail-how-pakistani.html"> Full Text</a>
@@ -359,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malvertising Campaigns Spreading Backdoors, Malicious Chrome Extensions<a href="https://thehackernews.com/2021/12/new-malvertising-campaigns-spreading.html"> Full Text</a>
@@ -375,7 +375,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - December 3rd 2021 - Seizing Bitcoin<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-3rd-2021-seizing-bitcoin/"> Full Text</a>
@@ -391,7 +391,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Everyone Needs to Take the Latest CISA Directive Seriously<a href="https://thehackernews.com/2021/12/why-everyone-needs-to-take-latest-cisa.html"> Full Text</a>
@@ -407,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US State Dept employees’ phones hacked using NSO spyware<a href="https://www.bleepingcomputer.com/news/security/us-state-dept-employees-phones-hacked-using-nso-spyware/"> Full Text</a>
@@ -423,7 +423,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal $120 Million from Badger DeFi Platform<a href="https://therecord.media/hackers-steal-120-million-from-badger-defi-platform/?&web_view=true"> Full Text</a>
@@ -439,7 +439,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Payment Data Stealing Malware Hides in Nginx Process on Linux Servers<a href="https://thehackernews.com/2021/12/new-payment-data-sealing-malware-hides.html"> Full Text</a>
@@ -455,7 +455,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSO Group spyware used to compromise iPhones of 9 US State Dept officials<a href="https://securityaffairs.co/wordpress/125260/hacking/nso-group-spyware-us-officials.html"> Full Text</a>
@@ -479,7 +479,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake support agents call victims to install Android banking malware<a href="https://www.bleepingcomputer.com/news/security/fake-support-agents-call-victims-to-install-android-banking-malware/"> Full Text</a>
@@ -495,7 +495,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Now Anyone can Phish with Phishing Kits<a href="https://cyware.com/news/now-anyone-can-phish-with-phishing-kits-613018fb"> Full Text</a>
@@ -511,7 +511,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KAX17 threat actor is attempting to deanonymize Tor users running thousands of rogue relays<a href="https://securityaffairs.co/wordpress/125248/hacking/kax17-threat-actor-tor.html"> Full Text</a>
@@ -531,7 +531,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Cuba ransomware breached 49 US critical infrastructure orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-breached-49-us-critical-infrastructure-orgs/"> Full Text</a>
@@ -547,7 +547,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in NSS Cryptographic Library Affects Several Popular Applications<a href="https://www.securityweek.com/critical-flaw-nss-cryptographic-library-affects-several-popular-applications?&web_view=true"> Full Text</a>
@@ -563,7 +563,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors stole $120 M in crypto from BadgerDAO DeFi platform<a href="https://securityaffairs.co/wordpress/125242/cyber-crime/badgerdao-defi-platform-hack.html"> Full Text</a>
@@ -583,7 +583,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers discover 14 new data-stealing web browser attacks<a href="https://www.bleepingcomputer.com/news/security/researchers-discover-14-new-data-stealing-web-browser-attacks/"> Full Text</a>
@@ -599,7 +599,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Analytics Startup Panther Labs Scores $120M Investment<a href="https://www.securityweek.com/security-analytics-startup-panther-labs-scores-120m-investment?&web_view=true"> Full Text</a>
@@ -615,7 +615,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2021
+December 3, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch out for Omicron COVID-19-themed phishing messages!<a href="https://securityaffairs.co/wordpress/125235/cyber-crime/omicron-covid-19-scam.html"> Full Text</a>
@@ -635,7 +635,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2021
+December 03, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho: Patch new ManageEngine bug exploited in attacks ASAP<a href="https://www.bleepingcomputer.com/news/security/zoho-patch-new-manageengine-bug-exploited-in-attacks-asap/"> Full Text</a>
@@ -651,7 +651,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Double-Extortion’ Ransomware Damage Skyrockets 935%<a href="https://threatpost.com/double-extortion-ransomware-data-leaks/176723/"> Full Text</a>
@@ -667,7 +667,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Planned Parenthood Breach Opens Patients to Follow-On Attacks<a href="https://threatpost.com/planned-parenthood-breach-attacks/176718/"> Full Text</a>
@@ -683,7 +683,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2021
+December 2, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AT&T Takes Steps to Mitigate Botnet Found Inside Its Network <a href="https://threatpost.com/att-botnet-network/176711/"> Full Text</a>
@@ -699,7 +699,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2021
+December 02, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Actively Exploited Critical Zoho ManageEngine ServiceDesk Vulnerability<a href="https://thehackernews.com/2021/12/cisa-warns-of-actively-exploited.html"> Full Text</a>

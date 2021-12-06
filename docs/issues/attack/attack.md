@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Yet Another Zoho ManageEngine Product Found Under Active Attacks<a href="https://thehackernews.com/2021/12/warning-yet-another-zoho-manageengine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise software provider Zoho on Friday warned that a newly patched critical flaw in its Desktop Central and Desktop Central MSP is being actively exploited by malicious actors, marking the third security vulnerability in its products to be abused in the wild in a span of four months.   The issue, assigned the identifier&nbsp; CVE-2021-44515 , is an authentication bypass vulnerability that could permit an adversary to circumvent authentication protections and execute arbitrary code in the Desktop Central MSP server.  "If exploited, the attackers can gain unauthorized access to the product by sending a specially crafted request leading to remote code execution," Zoho&nbsp; cautioned &nbsp;in an&nbsp; advisory . "As we are noticing indications of exploitation of this vulnerability, we strongly advise customers to update their installations to the latest build as soon as possible."   The company has also made available an&nbsp; Exploit Detection Tool &nbsp;that will help customers identify sig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers discover 14 new data-stealing web browser attacks<a href="https://www.bleepingcomputer.com/news/security/researchers-discover-14-new-data-stealing-web-browser-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT security researchers from Ruhr-Universität Bochum (RUB) and the Niederrhein University of Applied Sciences have discovered 14 new types of 'XS-Leak' cross-site leak attacks against modern web browsers, including Google Chrome, Microsoft Edge, Safari, and Mozilla Firefox.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

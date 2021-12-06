@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Determined APT is exploiting ManageEngine ServiceDesk Plus vulnerability<a href="https://www.helpnetsecurity.com/2021/12/03/cve-2021-44077/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group is leveraging a critical vulnerability (CVE-2021-44077) in Zoho ManageEngine ServiceDesk Plus to compromise organizations in a variety of sectors, including defense and tech.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

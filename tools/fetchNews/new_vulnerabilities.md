@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 5, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of vulnerabilities in common Wi-Fi routers affect millions of users<a href="https://securityaffairs.co/wordpress/125286/hacking/vulnerabilities-common-wi-fi-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a total of 226 potential security vulnerabilities in nine Wi-Fi popular routers from known manufacturers. 
+
+
+
+Security researchers and editors with the German IT magazine CHIP have discovered 226 potential security defects in nine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in NSS Cryptographic Library Affects Several Popular Applications<a href="https://www.securityweek.com/critical-flaw-nss-cryptographic-library-affects-several-popular-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security defect may also impact applications that employ NSS for validating certificates, or for additional CRL, OCSP, TLS, or X.509 functionality, depending on how NSS is configured.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho: Patch new ManageEngine bug exploited in attacks ASAP<a href="https://www.bleepingcomputer.com/news/security/zoho-patch-new-manageengine-bug-exploited-in-attacks-asap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business software provider Zoho urged customers today to update their Desktop Central and Desktop Central MSP installations to the latest available version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

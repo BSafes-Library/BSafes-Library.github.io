@@ -31,6 +31,7 @@
 
 Alerts:
 . https://www.bleepingcomputer.com/news/security/fbi-warns-of-apt-group-exploiting-fatpipe-vpn-zero-day-since-may/
+. https://www.zdnet.com/article/fbi-cuba-ransomware-hit-49-critical-infrastructure-organizations/?&web_view=true
 
 Law
 
