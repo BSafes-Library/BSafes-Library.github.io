@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France warns of Nobelium cyberspies attacking French orgs<a href="https://www.bleepingcomputer.com/news/security/france-warns-of-nobelium-cyberspies-attacking-french-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French national cyber-security agency ANSSI said today that the Russian-backed Nobelium hacking group behind last year's SolarWinds hack has been targeting French organizations since February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American diplomats' iPhones reportedly compromised by NSO Group intrusion software<a href="https://www.theregister.com/2021/12/04/american_diplomats_nso/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apple iPhones of at least nine US State Department officials were compromised by an unidentified entity using NSO Group's Pegasus spyware, according to a report published Friday by Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 04, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

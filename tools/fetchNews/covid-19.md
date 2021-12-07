@@ -8,6 +8,24 @@ nav_order: 900030
 
 ## Covid-19
 ---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out for Omicron COVID-19-themed phishing messages!<a href="https://securityaffairs.co/wordpress/125235/cyber-crime/omicron-covid-19-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have started to exploit the interest in the Omicron COVID-19 variant and are using it as a lure in phishing campaigns. 
+
+
+
+Crooks have already started exploiting the interest in the Omicron COVID-19 variant and are using it as a lure in phishing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

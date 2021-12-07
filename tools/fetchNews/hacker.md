@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 4, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $120m from Badger Defi and $30m from MonoX<a href="https://www.hackread.com/hackers-steal-badger-defi-monox/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two DeFi projects BadgerDAO and MonoX are the latest victims of security breaches in which hundreds of millions of dollars worth of cryptocurrency has been stolen by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 03, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail How Pakistani Hackers Targeting Indian and Afghan Governments<a href="https://thehackernews.com/2021/12/researchers-detail-how-pakistani.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pakistani threat actor successfully socially engineered a number of ministries in Afghanistan and a shared government computer in India to steal sensitive Google, Twitter, and Facebook credentials from its targets and stealthily obtain access to government portals.  Malwarebytes' latest findings go into detail about the new tactics and tools adopted by the APT group known as&nbsp; SideCopy , which is so-called because of its attempts to mimic the infection chains associated with another group tracked as&nbsp; SideWinder &nbsp;and mislead attribution.  "The lures used by SideCopy APT are usually archive files that have embedded one of these files: LNK, Microsoft Publisher or Trojanized Applications," Malwarebytes researcher Hossein Jazi&nbsp; said , adding the embedded files are tailored to target government and military officials based in Afghanistan and India.   The revelation comes close on the heels of&nbsp; disclosures &nbsp;that Meta took steps to block malicious activities carried out by the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KAX17 threat actor is attempting to deanonymize Tor users running thousands of rogue relays<a href="https://securityaffairs.co/wordpress/125248/hacking/kax17-threat-actor-tor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2017, an unknown threat actor has run thousands of malicious Tor relay servers in the attempt to unmask Tor users. 
+
+
+
+A mysterious threat actor, tracked as KAX17, has run thousands of malicious Tor relay servers since 2017 in an attempt to deanonymize...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

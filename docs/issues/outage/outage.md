@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of SPAR stores shut down, switch to cash after cyberattack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-spar-stores-shut-down-switch-to-cash-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 330 SPAR shops in northern England face severe operational problems following a weekend cyberattack, forcing many stores to close or switch to cash-only payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

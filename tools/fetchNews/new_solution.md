@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp adds default disappearing messages for new chats<a href="https://www.bleepingcomputer.com/news/security/whatsapp-adds-default-disappearing-messages-for-new-chats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp announced today that it had expanded the privacy control features with the addition of default disappearing messages for all newly initiated chats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

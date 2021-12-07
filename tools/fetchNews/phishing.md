@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Convincing Microsoft phishing uses fake Office 365 spam alerts<a href="https://www.bleepingcomputer.com/news/security/convincing-microsoft-phishing-uses-fake-office-365-spam-alerts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persuasive and ongoing series of phishing attacks are using fake Office 365 notifications asking the recipients to review blocked spam messages,&nbsp;with the end goal of stealing their Microsoft credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 05, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Twitter phishing campaign targets verified accounts<a href="https://www.bleepingcomputer.com/news/security/new-twitter-phishing-campaign-targets-verified-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has been targeting verified Twitter accounts, as seen by BleepingComputer. The phishing campaign follows Twitter's recent removal of the checkmark&nbsp;from a number of verified accounts, citing that these&nbsp;were ineligible for the legendary status,&nbsp;and&nbsp;verified in error.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now Anyone can Phish with Phishing Kits<a href="https://cyware.com/news/now-anyone-can-phish-with-phishing-kits-613018fb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing kits enable non-technical criminals to readily leverage new techniques. These kits contain a set of tools that allow wannabe criminals to build and launch their own phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

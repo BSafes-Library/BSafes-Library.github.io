@@ -8,6 +8,46 @@ nav_order: 900015
 
 ## Attack
 ---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+330 SPAR stores close or switch to cash-only payments after a cyberattack<a href="https://securityaffairs.co/wordpress/125334/uncategorized/spar-stores-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit the international supermarket franchise SPAR forcing 330 shops in North East England to shut down.
+
+
+
+A cyberattack hit the international supermarket franchise SPAR impacting the operations at 330 shops in North East England. Many...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DMEA Colorado electric utility hit by a disruptive cyberattack<a href="https://securityaffairs.co/wordpress/125326/hacking/dmea-colorado-electric-utility-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit an electric utility in Colorado causing a significant disruption and damage. 
+
+
+
+The Delta-Montrose Electric Association (DMEA) is a local electric cooperative located in Colorado, it is part of Touchstone Energy Cooperatives.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 03, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

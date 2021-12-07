@@ -8,6 +8,48 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious KMSPico Windows Activator Stealing Users' Cryptocurrency Wallets<a href="https://thehackernews.com/2021/12/malicious-kmspico-windows-activator.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users looking to activate Windows without using a digital license or a product key are being targeted by tainted installers to deploy malware designed to plunder credentials and other information in cryptocurrency wallets.  The malware, dubbed " CryptBot ," is an information stealer capable of obtaining credentials for browsers, cryptocurrency wallets, browser cookies, credit cards, and capturing screenshots from the infected systems. Deployed via cracked software, the latest attack involves the malware masquerading as KMSPico.   KMSPico is an unofficial tool that's used to illicitly&nbsp; activate &nbsp;the full features of pirated copies of software such as Microsoft Windows and Office suite without actually owning a license key.   "The user becomes infected by clicking one of the malicious links and downloading either KMSPico, Cryptbot, or another malware without KMSPico," Red Canary researcher Tony Lambert&nbsp; said &nbsp;in a report published last week. "The adversaries
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-Exchange BitMart to Pay Users for $200M Theft<a href="https://threatpost.com/crypto-exchange-bitmart-theft/176805/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BitMart confirmed it had been drained of ~$150 million in cryptocurrency assets, but a blockchain security firm said it’s closer to $200 million.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Version of KMSPico Windows Activator Used to Steal Users' Cryptocurrency Wallets<a href="https://www.neowin.net/news/beware-fake-kmspico-windows-activator-carries-crypto-wallet-info-stealing-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Red Canary noted that it’s not just individuals who use KMSPico to fraudulently activate Windows as it has also noticed various IT departments using the tool which makes it a big threat in such cases.
+</details>
+<div style="text-align: right" markdown="1">
+Neowin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

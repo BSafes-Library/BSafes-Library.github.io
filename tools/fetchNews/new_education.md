@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Crowd-Forecasting Might Decrease the Cybersecurity Knowledge Deficit<a href="https://www.lawfareblog.com/how-crowd-forecasting-might-decrease-cybersecurity-knowledge-deficit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Can we apply the techniques of crowd-forecasting for better cybersecurity?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Scanning Frequency Best Practices<a href="https://thehackernews.com/2021/12/vulnerability-scanning-frequency-best.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So you've decided to set up a vulnerability scanning programme, great. That's one of the best ways to avoid data breaches. How often you should run your scans, though, isn't such a simple question. The answers aren't the same for every type of organization or every type of system you're scanning.  This guide will help you understand the questions you should be asking and help you come up with the answers that are right for you.  How often should vulnerability scans be run  A lot of the advice below depends on what exactly you're scanning. If you're not sure about that yet - check out this comprehensive&nbsp; vulnerability scanning guide .  Once you've decided which systems should be in scope, and what type of scanner you need, you're ready to start scanning. So how often should you ideally be running vulnerability scans?  Here are five strategies to consider, and we'll discuss in which scenarios they work best:   Change-based  Hygiene-based  Complian
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the President Can Shape the Role and Oversight of the National Cyber Director<a href="https://www.lawfareblog.com/how-president-can-shape-role-and-oversight-national-cyber-director"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The national cyber director’s lack of independent legal authority, combined with Senate confirmation, gives the president broad latitude to shape this role and authority within the executive branch.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel tightening cyber exports after scandals<a href="https://thehill.com//policy/cybersecurity/584531-israel-tightening-cyber-exports-after-scandals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel is tightening its&nbsp;guidelines&nbsp;for cyber exports following a number of incidents linked to the Israeli spyware company NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command Publicly Joins Fight Against Ransomware Groups &nbsp;<a href="https://threatpost.com/cyber-command-ransomware-groups/176801/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. military acknowledges targeting cybercriminals who launch attacks on U.S. companies.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

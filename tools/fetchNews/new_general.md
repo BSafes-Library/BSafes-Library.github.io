@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are You Guilty of These 8 Network-Security Bad Practices?<a href="https://threatpost.com/bad-practices-network-security/176798/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tony Lauro, director of Security Technology &amp; Strategy at Akamai, discusses VPNs, RDP, flat networks, BYOD and other network-security bugbears.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASIC says financial market cyber resiliency remained steady but fell short of target<a href="https://www.zdnet.com/article/asic-says-financial-market-cyber-resiliency-remained-steady-but-fell-short-of-target/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firms in Australia's financial market have continued to be resilient against cyber threats, with improvement rates in cyber resiliency remaining steady, the ASIC reported on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
