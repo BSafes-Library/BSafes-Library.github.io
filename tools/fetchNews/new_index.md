@@ -34,6 +34,564 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seizes sites used by APT15 Chinese state hackers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-seizes-sites-used-by-apt15-chinese-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft seized today dozens of malicious sites used by the Nickel China-based hacking group to target organizations in the US and 28 other countries worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kafdrop flaw allows data from Kafka clusters to be exposed Internet-wide<a href="https://www.helpnetsecurity.com/2021/12/06/kafdrop-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Spectral discovered a security flaw in Kafdrop, a popular open-source UI and management interface for Apache Kafka clusters, that has been downloaded more than 20 million times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian group behind SolarWinds incident ramping up hacking efforts, analysis says<a href="https://thehill.com//policy/cybersecurity/584577-russian-hackers-behind-solarwinds-incident-continuing-hacking-efforts"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government-linked hacking group behind one of the biggest cyber espionage incidents in U.S. history has only intensified its hacking efforts in the year since, research released Monday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious KMSPico Windows Activator Stealing Users' Cryptocurrency Wallets<a href="https://thehackernews.com/2021/12/malicious-kmspico-windows-activator.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users looking to activate Windows without using a digital license or a product key are being targeted by tainted installers to deploy malware designed to plunder credentials and other information in cryptocurrency wallets.  The malware, dubbed " CryptBot ," is an information stealer capable of obtaining credentials for browsers, cryptocurrency wallets, browser cookies, credit cards, and capturing screenshots from the infected systems. Deployed via cracked software, the latest attack involves the malware masquerading as KMSPico.   KMSPico is an unofficial tool that's used to illicitly  activate  the full features of pirated copies of software such as Microsoft Windows and Office suite without actually owning a license key.   "The user becomes infected by clicking one of the malicious links and downloading either KMSPico, Cryptbot, or another malware without KMSPico," Red Canary researcher Tony Lambert  said  in a report published last week. "The adversaries
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Crowd-Forecasting Might Decrease the Cybersecurity Knowledge Deficit<a href="https://www.lawfareblog.com/how-crowd-forecasting-might-decrease-cybersecurity-knowledge-deficit"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Can we apply the techniques of crowd-forecasting for better cybersecurity?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium APT targets French orgs, French ANSSI agency warns<a href="https://securityaffairs.co/wordpress/125342/apt/nobelium-targets-french-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French cyber-security agency ANSSI said that the Russia-linked Nobelium APT group has been targeting French organizations since February 2021. 
+
+
+
+The French national cybersecurity agency ANSSI (Agence Nationale de la Sécurité des Systèmes d'Information)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-Exchange BitMart to Pay Users for $200M Theft<a href="https://threatpost.com/crypto-exchange-bitmart-theft/176805/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BitMart confirmed it had been drained of ~$150 million in cryptocurrency assets, but a blockchain security firm said it’s closer to $200 million.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France warns of Nobelium cyberspies attacking French orgs<a href="https://www.bleepingcomputer.com/news/security/france-warns-of-nobelium-cyberspies-attacking-french-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French national cyber-security agency ANSSI said today that the Russian-backed Nobelium hacking group behind last year's SolarWinds hack has been targeting French organizations since February 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical vulnerabilities in open source forum software NodeBB could lead to RCE<a href="https://portswigger.net/daily-swig/critical-vulnerabilities-in-open-source-forum-software-nodebb-could-lead-to-rce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerabilities in the JavaScript-based open source forum platform NodeBB could allow attackers to steal private information and access admin accounts, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts Chinese hacking group targeting organizations in dozens of countries<a href="https://thehill.com//policy/technology/584520-microsoft-disrupts-chinese-hacking-group-targeting-organizations-in-dozens"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday announced that a federal court had granted a request to allow the company to seize websites being used by a Chinese based hacking group that were targeting organizations in the United States and 28 other nations. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Scanning Frequency Best Practices<a href="https://thehackernews.com/2021/12/vulnerability-scanning-frequency-best.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So you've decided to set up a vulnerability scanning programme, great. That's one of the best ways to avoid data breaches. How often you should run your scans, though, isn't such a simple question. The answers aren't the same for every type of organization or every type of system you're scanning.  This guide will help you understand the questions you should be asking and help you come up with the answers that are right for you.  How often should vulnerability scans be run  A lot of the advice below depends on what exactly you're scanning. If you're not sure about that yet - check out this comprehensive  vulnerability scanning guide .  Once you've decided which systems should be in scope, and what type of scanner you need, you're ready to start scanning. So how often should you ideally be running vulnerability scans?  Here are five strategies to consider, and we'll discuss in which scenarios they work best:   Change-based  Hygiene-based  Complian
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the President Can Shape the Role and Oversight of the National Cyber Director<a href="https://www.lawfareblog.com/how-president-can-shape-role-and-oversight-national-cyber-director"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The national cyber director’s lack of independent legal authority, combined with Senate confirmation, gives the president broad latitude to shape this role and authority within the executive branch.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+330 SPAR stores close or switch to cash-only payments after a cyberattack<a href="https://securityaffairs.co/wordpress/125334/uncategorized/spar-stores-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit the international supermarket franchise SPAR forcing 330 shops in North East England to shut down.
+
+
+
+A cyberattack hit the international supermarket franchise SPAR impacting the operations at 330 shops in North East England. Many...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are You Guilty of These 8 Network-Security Bad Practices?<a href="https://threatpost.com/bad-practices-network-security/176798/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tony Lauro, director of Security Technology & Strategy at Akamai, discusses VPNs, RDP, flat networks, BYOD and other network-security bugbears.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of SPAR stores shut down, switch to cash after cyberattack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-spar-stores-shut-down-switch-to-cash-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 330 SPAR shops in northern England face severe operational problems following a weekend cyberattack, forcing many stores to close or switch to cash-only payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Version of KMSPico Windows Activator Used to Steal Users' Cryptocurrency Wallets<a href="https://www.neowin.net/news/beware-fake-kmspico-windows-activator-carries-crypto-wallet-info-stealing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Red Canary noted that it’s not just individuals who use KMSPico to fraudulently activate Windows as it has also noticed various IT departments using the tool which makes it a big threat in such cases.
+</details>
+<div style="text-align: right" markdown="1">
+Neowin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel tightening cyber exports after scandals<a href="https://thehill.com//policy/cybersecurity/584531-israel-tightening-cyber-exports-after-scandals"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel is tightening its guidelines for cyber exports following a number of incidents linked to the Israeli spyware company NSO Group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $200 Million Worth of Cryptocurrency Tokens from BitMart Exchange<a href="https://thehackernews.com/2021/12/hackers-steal-200-million-worth-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency trading platform BitMart has disclosed a "large-scale security breach" that it blamed on a stolen private key, resulting in the theft of more than $150 million in various cryptocurrencies.  The breach is said to have impacted two of its hot wallets on the Ethereum (ETH) blockchain and the Binance smart chain (BSC). The company  noted  that the wallets carried only a "small percentage" of the assets." Hot wallets, as opposed to their cold counterparts, are connected to the internet and allow cryptocurrency owners to receive and send tokens.   Blockchain security and data analytics company PeckShield  estimated  the total loss to be around $200 million, calling the whole chain of events as "Pretty straightforward: transfer-out, swap, and wash."  "This security breach was mainly caused by a stolen private key that had two of our hot wallets compromised," BitMart's chief executive Sheldon Xia  said  in a series of tweets sent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DMEA Colorado electric utility hit by a disruptive cyberattack<a href="https://securityaffairs.co/wordpress/125326/hacking/dmea-colorado-electric-utility-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit an electric utility in Colorado causing a significant disruption and damage. 
+
+
+
+The Delta-Montrose Electric Association (DMEA) is a local electric cooperative located in Colorado, it is part of Touchstone Energy Cooperatives.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command Publicly Joins Fight Against Ransomware Groups  <a href="https://threatpost.com/cyber-command-ransomware-groups/176801/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. military acknowledges targeting cybercriminals who launch attacks on U.S. companies.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp adds default disappearing messages for new chats<a href="https://www.bleepingcomputer.com/news/security/whatsapp-adds-default-disappearing-messages-for-new-chats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp announced today that it had expanded the privacy control features with the addition of default disappearing messages for all newly initiated chats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTF Template Injection Technique Becomes Popular Among APT Groups<a href="https://cyware.com/news/rtf-template-injection-technique-becomes-popular-among-apt-groups-03a3c907"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint identified three state-sponsored threat actors from India, Russia, and China adopting RTF template injection methods in their phishing campaigns. The adoption of this technique has made attacks from the group much harder to detect and prevent. Therefore, o rganizations are suggested to d ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over $150 million stolen by hackers from cryptocurrency exchange BitMart<a href="https://thehill.com//policy/cybersecurity/584495-over-150-million-stolen-by-hackers-from-cryptocurrency-exchange-bitmart"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole at least $150 million from cryptocurrency exchange BitMart as part of what the company described Monday as a “large-scale security breach.”
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 New XS-Leaks (Cross-Site Leaks) Attacks Affect All Modern Web Browsers<a href="https://thehackernews.com/2021/12/14-new-xs-leaks-cross-site-leaks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered 14 new types of cross-site data leakage attacks against a number of modern web browsers, including Tor Browser, Mozilla Firefox, Google Chrome, Microsoft Edge, Apple Safari, and Opera, among others.  Collectively known as "XS-Leaks," the browser bugs enable a malicious website to harvest personal data from its visitors as they interact with other websites in the background without the targets' knowledge. The  findings  are the result of a comprehensive study of cross-site attacks undertaken by a group of academics from Ruhr-Universität Bochum (RUB) and Niederrhein University.  "XS-Leaks bypass the so-called  same-origin policy , one of a browser's main defences against various types of attacks," the researchers  said  in a statement. "The purpose of the same-origin policy is to prevent information from being stolen from a trusted website. In the case of XS-Leaks, attackers can nevertheless recognize individual, small details
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole more than $150 million worth of cryptocurrency tokens from BitMart platform<a href="https://securityaffairs.co/wordpress/125321/cyber-crime/bitmart-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole more than $150 million in various cryptocurrencies from the cryptocurrency trading platform BitMart.
+
+
+
+Cryptocurrency trading platform BitMart has disclosed a security breach, threat actors stole than $150 million in various cryptocurrencies....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacking group uses new stealthy Ceeloader malware<a href="https://www.bleepingcomputer.com/news/security/russian-hacking-group-uses-new-stealthy-ceeloader-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nobelium hacking group continues to breach government and enterprise networks worldwide by targeting their cloud and managed service providers and using a new custom "Ceeloader" malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American diplomats' iPhones reportedly compromised by NSO Group intrusion software<a href="https://www.theregister.com/2021/12/04/american_diplomats_nso/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apple iPhones of at least nine US State Department officials were compromised by an unidentified entity using NSO Group's Pegasus spyware, according to a report published Friday by Reuters.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are sending receipts with anti-work messages to businesses’ printers<a href="https://securityaffairs.co/wordpress/125309/hacktivism/anti-work-messages-businesses-printers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting printers of businesses around the world to print ‘anti-work’ slogans pushing workers to demand better pay. 
+
+
+
+Multiple employees are sharing on Twitter and Reddit the images of anti-work messages sent to the printers of their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASIC says financial market cyber resiliency remained steady but fell short of target<a href="https://www.zdnet.com/article/asic-says-financial-market-cyber-resiliency-remained-steady-but-fell-short-of-target/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firms in Australia's financial market have continued to be resilient against cyber threats, with improvement rates in cyber resiliency remaining steady, the ASIC reported on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magnat malvertising campaigns spreads malicious Chrome extensions, backdoors and info stealers<a href="https://securityaffairs.co/wordpress/125297/cyber-crime/magnat-malvertising-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a series of malvertising campaigns using fake installers of popular apps and games to deliver a backdoor and a malicious Chrome extension.
+
+
+
+Talos researchers spotted a series of malvertising campaigns using fake installers of popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Users Impacted by Discovery of Hundreds of Vulnerabilities in Common Wi-Fi Routers<a href="https://securityaffairs.co/wordpress/125286/hacking/vulnerabilities-common-wi-fi-routers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The router affected by most of the flaws is the TP-Link Archer AX6000 (32 vulnerabilities), followed by Synology RT-2600ac with 30 issues and by Netgear Nighthawk AX12 with 29 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Spreads Again with Fake App Installers<a href="https://cyware.com/news/emotet-spreads-again-with-fake-app-installers-78542833"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind Emotet are penetrating inside networks through malicious Windows App Installer packages by imitating Adobe PDF software. The campaign uses stolen reply-chain emails that seem to be a reply to an existing conversation.  Once the install button is clicked, the installer downloads ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Twitter removes blue badges for many, phishing targets verified accounts<a href="https://www.bleepingcomputer.com/news/security/as-twitter-removes-blue-badges-for-many-phishing-targets-verified-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has been targeting verified Twitter accounts, as seen by BleepingComputer. The phishing campaign follows Twitter's recent removal of the checkmark from a number of verified accounts, citing that these were ineligible for the legendary status, and verified in error.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 05, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
