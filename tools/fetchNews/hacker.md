@@ -8,6 +8,84 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian group behind SolarWinds incident ramping up hacking efforts, analysis says<a href="https://thehill.com//policy/cybersecurity/584577-russian-hackers-behind-solarwinds-incident-continuing-hacking-efforts"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government-linked hacking group behind one of the biggest cyber espionage incidents in U.S. history has only intensified its hacking efforts in the year since, research released Monday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft disrupts Chinese hacking group targeting organizations in dozens of countries<a href="https://thehill.com//policy/technology/584520-microsoft-disrupts-chinese-hacking-group-targeting-organizations-in-dozens"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday announced that a federal court had granted a request to allow the company to seize websites being used by a Chinese based hacking group that were targeting organizations in the United States and 28 other nations.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole more than $150 million worth of cryptocurrency tokens from BitMart platform<a href="https://securityaffairs.co/wordpress/125321/cyber-crime/bitmart-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors stole more than $150 million in various cryptocurrencies from the cryptocurrency trading platform BitMart.
+
+
+
+Cryptocurrency trading platform BitMart has disclosed a security breach, threat actors stole than $150 million in various cryptocurrencies....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacking group uses new stealthy Ceeloader malware<a href="https://www.bleepingcomputer.com/news/security/russian-hacking-group-uses-new-stealthy-ceeloader-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nobelium hacking group continues to breach&nbsp;government and enterprise networks worldwide by targeting their cloud and managed service providers and using a new custom "Ceeloader" malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are sending receipts with anti-work messages to businesses’ printers<a href="https://securityaffairs.co/wordpress/125309/hacktivism/anti-work-messages-businesses-printers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting printers of businesses around the world to print ‘anti-work’ slogans pushing workers to demand better pay. 
+
+
+
+Multiple employees are sharing on Twitter and Reddit the images of anti-work messages sent to the printers of their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

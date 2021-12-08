@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google disrupts massive Glupteba botnet, sues Russian operators<a href="https://www.bleepingcomputer.com/news/security/google-disrupts-massive-glupteba-botnet-sues-russian-operators/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that it has taken action to disrupt the Glupteba botnet that now controls more than 1 million Windows PCs around the world, growing by thousands of new infected devices each day.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

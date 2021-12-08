@@ -8,6 +8,53 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seizes sites used by APT15 Chinese state hackers<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-seizes-sites-used-by-apt15-chinese-state-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft seized today&nbsp;dozens of malicious sites used by the Nickel&nbsp;China-based hacking group to target&nbsp;organizations in the US and 28 other countries worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium APT targets French orgs, French ANSSI agency warns<a href="https://securityaffairs.co/wordpress/125342/apt/nobelium-targets-french-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French cyber-security agency ANSSI said that the Russia-linked Nobelium APT group has been targeting French organizations since February 2021. 
+
+
+
+The French national cybersecurity agency ANSSI (Agence Nationale de la Sécurité des Systèmes d'Information)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTF Template Injection Technique Becomes Popular Among APT Groups<a href="https://cyware.com/news/rtf-template-injection-technique-becomes-popular-among-apt-groups-03a3c907"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint identified three state-sponsored threat actors from India, Russia, and China adopting RTF template injection methods in their phishing campaigns. The adoption of this technique has made attacks from the group much harder to detect and prevent. Therefore, o rganizations are suggested to d ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

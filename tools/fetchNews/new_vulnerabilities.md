@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eltima SDK Contain Multiple Vulnerabilities Affecting Several Cloud Service Provides<a href="https://thehackernews.com/2021/12/eltima-sdk-contain-multiple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed multiple vulnerabilities in a third-party driver software developed by Eltima that have been "unwittingly inherited" by cloud desktop solutions like Amazon Workspaces, Accops, and NoMachine and could provide attackers a path to perform an array of malicious activities.  "These vulnerabilities allow attackers to escalate privileges enabling them to disable security products, overwrite system components, corrupt the operating system, or perform malicious operations unimpeded," SentinelOne researchers&nbsp; said &nbsp;in a report shared with The Hacker News.  The flaws have since been addressed in Amazon Nimble Studio AMI, Amazon NICE DCV, Amazon WorkSpaces, Amazon AppStream, NoMachine, Accops HyWorks, Accops HyWorks DVM Tools, Eltima USB Network Gate, Amzetta zPortal Windows zClient, Amzetta zPortal DVM Tools, FlexiHub, and Donglify.   At its core, the issues reside in a product developed by Eltima that offers "USB over Ethernet&amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grafana fixes zero-day vulnerability after exploits spread over Twitter<a href="https://www.bleepingcomputer.com/news/security/grafana-fixes-zero-day-vulnerability-after-exploits-spread-over-twitter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source analytics and interactive visualization solution Grafana received an emergency update today to fix a high-severity, zero-day vulnerability that enabled remote access to local files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+27 flaws in USB-over-network SDK affect millions of cloud users<a href="https://www.bleepingcomputer.com/news/security/27-flaws-in-usb-over-network-sdk-affect-millions-of-cloud-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered 27 vulnerabilities in Eltima SDK, a library used by numerous cloud providers to remotely mount a local USB device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns users of bitcoin miner targeting their NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-users-of-bitcoin-miner-targeting-their-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warned customers today of ongoing attacks targeting their NAS (network-attached storage) devices with cryptomining malware, urging them to take measures to protect them immediately.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

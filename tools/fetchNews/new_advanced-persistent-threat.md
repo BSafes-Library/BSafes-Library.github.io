@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft seized 42 domains used by the China-linked APT15 cyberespionage group<a href="https://securityaffairs.co/wordpress/125365/apt/microsoft-seized-apt15-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft seized dozens of malicious domains used by the China-linked APT15 group to target&nbsp;organizations worldwide. 
+
+
+
+Microsoft announced to have obtained a court warrant that allowed it to seize 42 domains used by a China-linked APT15 group (aka&nbsp;Nickel,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium continues to target organizations worldwide with custom malware<a href="https://securityaffairs.co/wordpress/125352/apt/nobelium-custom-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Nobelium APT group is using a new custom malware dubbed Ceeloader in attacks against organizations worldwide.
+
+
+
+Mandiant researchers have identified two distinct clusters of activity, tracked UNC3004 and UNC2652, that were associated with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

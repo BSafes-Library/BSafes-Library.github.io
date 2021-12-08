@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LINE Pay Exposed Japanese, Taiwanese, and Thai Users’ Payment Data on GitHub<a href="https://www.theregister.com/2021/12/07/line_pay_leaks_around_133000/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Smartphone payment provider LINE Pay announced yesterday that around 133,000 users' payment details were mistakenly published on GitHub between September and November of this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

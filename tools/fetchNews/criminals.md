@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $200 Million Worth of Cryptocurrency Tokens from BitMart Exchange<a href="https://thehackernews.com/2021/12/hackers-steal-200-million-worth-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency trading platform BitMart has disclosed a "large-scale security breach" that it blamed on a stolen private key, resulting in the theft of more than $150 million in various cryptocurrencies.  The breach is said to have impacted two of its hot wallets on the Ethereum (ETH) blockchain and the Binance smart chain (BSC). The company&nbsp; noted &nbsp;that the wallets carried only a "small percentage" of the assets." Hot wallets, as opposed to their cold counterparts, are connected to the internet and allow cryptocurrency owners to receive and send tokens.   Blockchain security and data analytics company PeckShield&nbsp; estimated &nbsp;the total loss to be around $200 million, calling the whole chain of events as "Pretty straightforward: transfer-out, swap, and wash."  "This security breach was mainly caused by a stolen private key that had two of our hot wallets compromised," BitMart's chief executive Sheldon Xia&nbsp; said &nbsp;in a series of tweets sent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

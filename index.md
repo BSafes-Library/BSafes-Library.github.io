@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet now drops Cobalt Strike, fast forwards ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/emotet-now-drops-cobalt-strike-fast-forwards-ransomware-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Persuasive Phishing Attacks Use Fake Office365 Spam Alerts<a href="https://cyware.com/news/persuasive-phishing-attacks-use-fake-office365-spam-alerts-c563387b"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Language requiring companies to report cyberattacks left out of defense bill<a href="https://thehill.com//policy/cybersecurity/584774-language-requiring-companies-to-report-cyberattacks-left-out-of-defense"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eltima SDK Contain Multiple Vulnerabilities Affecting Several Cloud Service Provides<a href="https://thehackernews.com/2021/12/eltima-sdk-contain-multiple.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google disrupts the Glupteba botnet<a href="https://securityaffairs.co/wordpress/125377/malware/glupteba-botnet-take-down.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grafana fixes zero-day vulnerability after exploits spread over Twitter<a href="https://www.bleepingcomputer.com/news/security/grafana-fixes-zero-day-vulnerability-after-exploits-spread-over-twitter/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitGuardian Raises $44 Million to Create Code Security Platform<a href="https://www.securityweek.com/gitguardian-raises-44-million-create-code-security-platform?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google files lawsuit against Russian hackers as part of disrupting botnet<a href="https://thehill.com//policy/technology/584704-google-files-lawsuit-against-russian-hackers-as-part-of-disrupting"> Full Text</a>
@@ -166,7 +166,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Hackers Targeting Government and Business Entities Worldwide<a href="https://thehackernews.com/2021/12/solarwinds-hackers-targeting-government.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin Miner [oom_reaper] targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/125370/hacking/qnap-bitcoin-miner.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged ransomware affiliate arrested for healthcare attacks<a href="https://www.bleepingcomputer.com/news/security/alleged-ransomware-affiliate-arrested-for-healthcare-attacks/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How DopplePaymer Hunts & Kills Windows Processes<a href="https://www.crowdstrike.com/blog/how-doppelpaymer-hunts-and-kills-windows-processes/?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Crowdstrike
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Covid-19](/docs/issues/covid-19/covid-19/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers using omicron, COVID-19 phishing emails to target universities<a href="https://thehill.com//policy/cybersecurity/584592-hackers-using-omicron-covid-19-phishing-emails-to-target-universities"> Full Text</a>
@@ -250,7 +250,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Seizes 42 Malicious Web Domains Used By Chinese Hackers<a href="https://thehackernews.com/2021/12/microsoft-seizes-42-malicious-web.html"> Full Text</a>
@@ -266,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft seized 42 domains used by the China-linked APT15 cyberespionage group<a href="https://securityaffairs.co/wordpress/125365/apt/microsoft-seized-apt15-domains.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US universities targeted by Office 365 phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-universities-targeted-by-office-365-phishing-attacks/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Funding Cybersecurity Workforce Training Programs<a href="https://www.govtech.com/education/higher-ed/nsa-funding-cybersecurity-workforce-training-programs?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nobelium continues to target organizations worldwide with custom malware<a href="https://securityaffairs.co/wordpress/125352/apt/nobelium-custom-malware.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cerber ransomware targets Confluence and GitLab servers<a href="https://www.bleepingcomputer.com/news/security/new-cerber-ransomware-targets-confluence-and-gitlab-servers/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns of new crypto-miner targeting its NAS devices<a href="https://therecord.media/qnap-warns-of-new-crypto-miner-targeting-its-nas-devices/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google disrupts massive Glupteba botnet, sues Russian operators<a href="https://www.bleepingcomputer.com/news/security/google-disrupts-massive-glupteba-botnet-sues-russian-operators/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LINE Pay Exposed Japanese, Taiwanese, and Thai Users’ Payment Data on GitHub<a href="https://www.theregister.com/2021/12/07/line_pay_leaks_around_133000/?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 27 flaws in USB-over-network SDK affect millions of cloud users<a href="https://www.bleepingcomputer.com/news/security/27-flaws-in-usb-over-network-sdk-affect-millions-of-cloud-users/"> Full Text</a>
@@ -418,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Organizations Under Attack from Russia-linked Nobelium APT Group<a href="https://securityaffairs.co/wordpress/125342/apt/nobelium-targets-french-orgs.html?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 STOP Ransomware vaccine released to block encryption<a href="https://www.bleepingcomputer.com/news/security/stop-ransomware-vaccine-released-to-block-encryption/"> Full Text</a>
@@ -450,7 +450,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns users of bitcoin miner targeting their NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-users-of-bitcoin-miner-targeting-their-nas-devices/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter bots pose as support staff to steal your cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/twitter-bots-pose-as-support-staff-to-steal-your-cryptocurrency/"> Full Text</a>
@@ -482,7 +482,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nordic Choice Hotels hit by Conti ransomware, no ransom demand yet<a href="https://www.bleepingcomputer.com/news/security/nordic-choice-hotels-hit-by-conti-ransomware-no-ransom-demand-yet/"> Full Text</a>
@@ -498,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2021
+December 6, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware Gang Hauls in $44M in Payouts<a href="https://threatpost.com/cuba-ransomware-gang-44m-payouts/176790/"> Full Text</a>
@@ -514,7 +514,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2021
+December 6, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Spyware Infects U.S. State Department iPhones<a href="https://threatpost.com/pegasus-spyware-state-department-iphones/176779/"> Full Text</a>
@@ -530,7 +530,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2021
+December 06, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Firefox 95 Includes RLBox Sandboxing to Protect Browser from Malicious Code<a href="https://thehackernews.com/2021/12/latest-firefox-95-includes-rlbox.html"> Full Text</a>

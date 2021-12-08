@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Hackers Targeting Government and Business Entities Worldwide<a href="https://thehackernews.com/2021/12/solarwinds-hackers-targeting-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nobelium, the threat actor attributed to the massive SolarWinds supply chain compromise, has been once again linked to a series of attacks targeting multiple cloud solution providers, services, and reseller companies, as the hacking group continues to refine and retool its tactics at an alarming pace in response to public disclosures.  The intrusions, which are being tracked by Mandiant under two different activity clusters UNC3004 and UNC2652, are both associated with UNC2452, an&nbsp; uncategorized threat group &nbsp;that has since been tied to the Russian intelligence service. UNC2652, in particular, has been observed targeting diplomatic entities with phishing emails containing HTML attachments with malicious JavaScript, ultimately dropping a Cobalt Strike Beacon onto the infected devices.  "In most instances, post compromise activity included theft of data relevant to Russian interests," Mandiant researchers Luke Jenkins, Sarah Hawley, Parnian Najafi, and Doug Bienstock&nbsp; said &nbsp;in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Seizes 42 Malicious Web Domains Used By Chinese Hackers<a href="https://thehackernews.com/2021/12/microsoft-seizes-42-malicious-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday announced the seizure of 42 domains used by a China-based cyber espionage group that set its sights on organizations in the U.S. and 28 other countries pursuant to a legal warrant issued by a federal court in the U.S. state of Virginia.  The Redmond company attributed the malicious activities to a group it pursues as Nickel , and by the wider cybersecurity industry under the monikers APT15, Bronze Palace, Ke3Chang, Mirage, Playful Dragon, and Vixen Panda. The advanced persistent threat (APT) actor is believed to have been active since at least 2012.  "Nickel has targeted organizations in both the private and public sectors, including diplomatic organizations and ministries of foreign affairs in North America, Central America, South America, the Caribbean, Europe and Africa," Microsoft's Corporate Vice President for Customer Security and Trust, Tom Burt, said . "There is often a correlation between Nickel's targets and China's geopolitical int
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

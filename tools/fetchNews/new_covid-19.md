@@ -8,6 +8,20 @@ nav_order: 900030
 
 ## Covid-19
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers using omicron, COVID-19 phishing emails to target universities<a href="https://thehill.com//policy/cybersecurity/584592-hackers-using-omicron-covid-19-phishing-emails-to-target-universities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly using phishing emails related to the COVID-19 pandemic and the new omicron variant to target universities and steal login credentials, new research published Tuesday found.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

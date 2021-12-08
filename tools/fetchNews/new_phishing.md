@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Persuasive Phishing Attacks Use Fake Office365 Spam Alerts<a href="https://cyware.com/news/persuasive-phishing-attacks-use-fake-office365-spam-alerts-c563387b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has always been the target of phishing attacks. A new wave of phishing attacks is using fake Office 365 notifications with an aim to steal victims’ Microsoft credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

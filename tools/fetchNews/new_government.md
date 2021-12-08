@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Language requiring companies to report cyberattacks left out of defense bill<a href="https://thehill.com//policy/cybersecurity/584774-language-requiring-companies-to-report-cyberattacks-left-out-of-defense"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Legislation&nbsp;mandating cyber incident reporting for certain critical organizations was left out of the compromise version of the annual National Defense Authorization Act (NDAA) that the House is set to vote on Tuesday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Funding Cybersecurity Workforce Training Programs<a href="https://www.govtech.com/education/higher-ed/nsa-funding-cybersecurity-workforce-training-programs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iowa State University and the University of Illinois at Urbana-Champaign will lead a coalition of industry and government partners to train professionals to grow the Midwest's cybersecurity workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

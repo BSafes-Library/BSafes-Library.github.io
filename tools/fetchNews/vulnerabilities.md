@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kafdrop flaw allows data from Kafka clusters to be exposed Internet-wide<a href="https://www.helpnetsecurity.com/2021/12/06/kafdrop-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Spectral discovered a security flaw in Kafdrop, a popular open-source UI and management interface for Apache Kafka clusters, that has been downloaded more than 20 million times.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical vulnerabilities in open source forum software NodeBB could lead to RCE<a href="https://portswigger.net/daily-swig/critical-vulnerabilities-in-open-source-forum-software-nodebb-could-lead-to-rce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical vulnerabilities in the JavaScript-based open source forum platform NodeBB could allow attackers to steal private information and access admin accounts, researchers have warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 New XS-Leaks (Cross-Site Leaks) Attacks Affect All Modern Web Browsers<a href="https://thehackernews.com/2021/12/14-new-xs-leaks-cross-site-leaks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered 14 new types of cross-site data leakage attacks against a number of modern web browsers, including Tor Browser, Mozilla Firefox, Google Chrome, Microsoft Edge, Apple Safari, and Opera, among others.  Collectively known as "XS-Leaks," the browser bugs enable a malicious website to harvest personal data from its visitors as they interact with other websites in the background without the targets' knowledge. The&nbsp; findings &nbsp;are the result of a comprehensive study of cross-site attacks undertaken by a group of academics from Ruhr-Universität Bochum (RUB) and Niederrhein University.  "XS-Leaks bypass the so-called&nbsp; same-origin policy , one of a browser's main defences against various types of attacks," the researchers&nbsp; said &nbsp;in a statement. "The purpose of the same-origin policy is to prevent information from being stolen from a trusted website. In the case of XS-Leaks, attackers can nevertheless recognize individual, small details
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

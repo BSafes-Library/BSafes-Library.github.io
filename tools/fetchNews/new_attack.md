@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US universities targeted by Office 365 phishing attacks<a href="https://www.bleepingcomputer.com/news/security/us-universities-targeted-by-office-365-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US universities are being targeted in multiple phishing attacks designed to impersonate college login portals to steal valuable Office 365 credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nordic Choice Hotels hit by Conti ransomware, no ransom demand yet<a href="https://www.bleepingcomputer.com/news/security/nordic-choice-hotels-hit-by-conti-ransomware-no-ransom-demand-yet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nordic Choice Hotels has now confirmed a cyber attack on its systems from the Conti ransomware group. Although there is no indication of card or payment information being affected, information pertaining to guest bookings was potentially leaked.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged ransomware affiliate arrested for healthcare attacks<a href="https://www.bleepingcomputer.com/news/security/alleged-ransomware-affiliate-arrested-for-healthcare-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 31-year old Canadian national has been charged in connection to ransomware attacks against organizations in the United States and Canada, a federal indictment unsealed today shows.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Gang Hauls in $44M in Payouts<a href="https://threatpost.com/cuba-ransomware-gang-44m-payouts/176790/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang is using a variety of tools and malware to carry out attacks in volume on critical sectors, the FBI warned.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

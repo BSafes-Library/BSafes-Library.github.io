@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STOP Ransomware vaccine released to block encryption<a href="https://www.bleepingcomputer.com/news/security/stop-ransomware-vaccine-released-to-block-encryption/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German security software company&nbsp;G DATA has released a vaccine that will block STOP Ransomware from encrypting victims' files after infection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Firefox 95 Includes RLBox Sandboxing to Protect Browser from Malicious Code<a href="https://thehackernews.com/2021/12/latest-firefox-95-includes-rlbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla is beginning to roll out Firefox 95 with a new sandboxing technology called RLBox that prevents untrusted code and other security vulnerabilities from causing "accidental defects as well as supply-chain attacks."  Dubbed " RLBox " and implemented in collaboration with researchers at the University of California San Diego and the University of Texas, the improved protection mechanism is designed to harden the web browser against potential weaknesses in off-the-shelf libraries used to render audio, video, fonts, images, and other content.   To that end, Mozilla is incorporating "fine-grained sandboxing" into five modules, including its&nbsp; Graphite &nbsp;font rendering engine,&nbsp; Hunspell &nbsp;spell checker,&nbsp; Ogg &nbsp;multimedia container format,&nbsp; Expat &nbsp;XML parser, and&nbsp; Woff2 &nbsp;web font compression format.  The framework uses&nbsp; WebAssembly , an open standard that defines a portable binary-code format for executable programs that can be run on modern web browsers, to i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
