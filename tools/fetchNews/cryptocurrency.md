@@ -8,6 +8,52 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin Miner [oom_reaper] targets QNAP NAS devices<a href="https://securityaffairs.co/wordpress/125370/hacking/qnap-bitcoin-miner.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warns customers of ongoing attacks targeting their NAS devices with cryptocurrency miners.
+
+
+
+Taiwanese vendor QNAP warns customers of threat actors targeting their NAS devices with cryptocurrency miners. Upon compromising the devices,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns of new crypto-miner targeting its NAS devices<a href="https://therecord.media/qnap-warns-of-new-crypto-miner-targeting-its-nas-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese hardware vendor QNAP has released a new security advisory today warning users that a new strain of crypto-mining malware is targeting its network-attached storage (NAS) devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter bots pose as support staff to steal your cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/twitter-bots-pose-as-support-staff-to-steal-your-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers monitor every tweet containing requests for support on MetaMask, TrustWallet, and other popular crypto wallets, and respond to them with scam links in just seconds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

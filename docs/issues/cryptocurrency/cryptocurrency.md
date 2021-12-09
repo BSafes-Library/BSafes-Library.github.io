@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Yet Another Bitcoin Mining Malware Targeting QNAP NAS Devices<a href="https://thehackernews.com/2021/12/warning-yet-another-bitcoin-mining.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP on Tuesday released a new advisory warning of a cryptocurrency mining malware targeting its devices, urging customers to take preventive steps with immediate effect.  "A bitcoin miner has been reported to target QNAP NAS. Once a NAS is infected, CPU usage becomes unusually high where a process named '[oom_reaper]' could occupy around 50% of the total CPU usage," the Taiwanese company&nbsp; said &nbsp;in an alert. "This process mimics a kernel process but its [process identifier] is usually greater than 1000."   QNAP said it's currently investigating the infections, but did not share more information on the initial access vector that's being used to compromise the NAS devices. Affected users can remove the malware by restarting the appliances.  In the interim, the company is recommending that users update their QTS (and QuTS Hero) operating systems to the latest version, enforce strong passwords for administr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

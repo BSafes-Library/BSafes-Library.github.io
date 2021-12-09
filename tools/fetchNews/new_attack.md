@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CS Energy foiled a ransomware attack<a href="https://securityaffairs.co/wordpress/125393/cyber-crime/cs-energy-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack hit CS Energy in Australia on Saturday, November 27, experts believe the attack was orchestrated by Chinese hackers.
+
+
+
+A ransomware cyberattack hit a major energy network operated by CS Energy, that attack could have had dramatic consequences...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

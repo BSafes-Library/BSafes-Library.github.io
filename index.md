@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Vancouver leaking website credentials via overlooked DS_STORE file<a href="https://securityaffairs.co/wordpress/125420/data-breach/microsoft-vancouver-data-leak.html"> Full Text</a>
@@ -58,7 +58,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Secured-core servers help prevent ransomware attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-secured-core-servers-help-prevent-ransomware-attacks/"> Full Text</a>
@@ -74,7 +74,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Private Equity Firm Permira to Acquire Mimecast in $5.8 Billion Deal<a href="https://www.securityweek.com/private-equity-firm-permira-acquire-mimecast-58-billion-deal?&web_view=true"> Full Text</a>
@@ -90,7 +90,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Disrupts Blockchain-based Glupteba Botnet; Sues Russian Hackers<a href="https://thehackernews.com/2021/12/google-disrupts-blockchain-based.html"> Full Text</a>
@@ -106,7 +106,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not with a Bang but a Whisper: The Shift to Stealthy C2<a href="https://threatpost.com/tactics-attackers-stealthy-c2/176853/"> Full Text</a>
@@ -122,7 +122,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers infect random WordPress plugins to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/hackers-infect-random-wordpress-plugins-to-steal-credit-cards/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Needs No Intermediate Trojan, Drops Cobalt Strike Beacons Directly<a href="https://cyware.com/news/emotet-needs-no-intermediate-trojan-drops-cobalt-strike-beacons-directly-7d55fb47"> Full Text</a>
@@ -154,7 +154,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 140,000 Reasons Why Emotet is Piggybacking on TrickBot in its Return from the Dead<a href="https://thehackernews.com/2021/12/140000-reasons-why-emotet-is.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall strongly urges customers to apply patches to SMA 100 devices<a href="https://securityaffairs.co/wordpress/125400/security/sonicwall-sma-100-devices-flaws.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet’s Behavior & Spread Are Omens of Ransomware Attacks<a href="https://threatpost.com/emotets-behavior-spread-are-omens-of-ransomware-attacks/176845/"> Full Text</a>
@@ -206,7 +206,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XE Group exposed for eight years of hacking, credit card theft<a href="https://www.bleepingcomputer.com/news/security/xe-group-exposed-for-eight-years-of-hacking-credit-card-theft/"> Full Text</a>
@@ -222,7 +222,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Claroty raises $400 million to fund Medigate acquisition<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3924487,00.html?&web_view=true"> Full Text</a>
@@ -238,7 +238,7 @@ Calcalis Tech
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 [eBook] Guide to Achieving 24x7 Threat Monitoring and Response for Lean IT Security Teams<a href="https://thehackernews.com/2021/12/ebook-guide-to-achieving-24x7-threat.html"> Full Text</a>
@@ -254,7 +254,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CS Energy foiled a ransomware attack<a href="https://securityaffairs.co/wordpress/125393/cyber-crime/cs-energy-ransomware-attack.html"> Full Text</a>
@@ -274,7 +274,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor’s main site blocked in Russia as censorship widens<a href="https://www.bleepingcomputer.com/news/security/tor-s-main-site-blocked-in-russia-as-censorship-widens/"> Full Text</a>
@@ -290,7 +290,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Salt Security Report Surfaces GraphQL API Vulnerabilities<a href="https://securityboulevard.com/2021/12/salt-security-report-surfaces-graphql-api-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet directly drops Cobalt Strike beacons without intermediate Trojans<a href="https://securityaffairs.co/wordpress/125384/cyber-crime/emotet-cobalt-strike.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall ‘strongly urges’ customers to patch critical SMA 100 bugs<a href="https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-customers-to-patch-critical-sma-100-bugs/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identity Verification Company Incode Raises $220 Million at $1.25 Billion Valuation<a href="https://www.securityweek.com/identity-verification-company-incode-raises-220-million-125-billion-valuation?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2021
+December 08, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet spreading via Hikvision camera vulnerability<a href="https://www.bleepingcomputer.com/news/security/moobot-botnet-spreading-via-hikvision-camera-vulnerability/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Security Updates Patch 46 Vulnerabilities<a href="https://www.securityweek.com/android-security-updates-patch-46-vulnerabilities?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2021
+December 8, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian indicted for launching ransomware attacks on orgs in US, Canada<a href="https://www.zdnet.com/article/canadian-indicted-for-launching-ransomware-attacks-in-us/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 10 Drive-By RCE Triggered by Default URI Handler<a href="https://threatpost.com/windows-10-rce-uri-handler/176830/"> Full Text</a>
@@ -422,7 +422,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2021
+December 07, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Yet Another Bitcoin Mining Malware Targeting QNAP NAS Devices<a href="https://thehackernews.com/2021/12/warning-yet-another-bitcoin-mining.html"> Full Text</a>
@@ -438,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Scammers Get Scammed, They Take It to Cybercrime Court<a href="https://threatpost.com/scammers-cybercrime-court/176834/"> Full Text</a>
@@ -454,7 +454,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2021
+December 7, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Takes Down Glupteba Botnet; Files Lawsuit Against Operators<a href="https://threatpost.com/google-glupteba-botnet-lawsuit/176826/"> Full Text</a>

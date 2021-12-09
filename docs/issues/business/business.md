@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private Equity Firm Permira to Acquire Mimecast in $5.8 Billion Deal<a href="https://www.securityweek.com/private-equity-firm-permira-acquire-mimecast-58-billion-deal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mimecast on Tuesday announced that private equity firm Permira wants to acquire it in an all-cash transaction that values the email security company at roughly $5.8 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claroty raises $400 million to fund Medigate acquisition<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3924487,00.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli security firm Claroty is raising $400 million in a Series E round led by SoftBank. The fresh funding will be used to acquire Medigate, which specializes in protecting medical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Takes Down Glupteba Botnet; Files Lawsuit Against Operators<a href="https://threatpost.com/google-glupteba-botnet-lawsuit/176826/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware’s unique blockchain-enabled backup C2 scheme makes it difficult to eliminate completely.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

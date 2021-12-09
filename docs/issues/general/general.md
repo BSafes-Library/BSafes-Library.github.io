@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not with a Bang but a Whisper: The Shift to Stealthy C2<a href="https://threatpost.com/tactics-attackers-stealthy-c2/176853/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoH! Nate Warfield, CTO of Prevailion, discusses new stealth tactics threat actors are using for C2, including Malleable C2 from Cobalt Strike’s arsenal.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

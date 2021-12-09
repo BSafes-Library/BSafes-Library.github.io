@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google disrupts the Glupteba botnet<a href="https://securityaffairs.co/wordpress/125377/malware/glupteba-botnet-take-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced to have disrupted the Glupteba botnet, a huge infrastructure composed of more than 1 million Windows PCs worldwide. 
+
+
+
+Google announced to have taken down the infrastructure operated by the Glupteba, it also sued Russian nationals Dmitry...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google files lawsuit against Russian hackers as part of disrupting botnet<a href="https://thehill.com//policy/technology/584704-google-files-lawsuit-against-russian-hackers-as-part-of-disrupting"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced it is pursuing litigation to disrupt a botnet run by operators based out of Russia, among other steps meant to crack down on the group.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

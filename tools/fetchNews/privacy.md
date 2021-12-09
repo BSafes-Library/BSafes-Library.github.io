@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 6, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Infects U.S. State Department iPhones<a href="https://threatpost.com/pegasus-spyware-state-department-iphones/176779/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s unknown who’s behind the cyberattacks against at least nine employees’ iPhones, who are all involved in Ugandan diplomacy. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

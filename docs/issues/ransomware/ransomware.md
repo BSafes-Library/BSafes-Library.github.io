@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet’s Behavior &amp; Spread Are Omens of Ransomware Attacks<a href="https://threatpost.com/emotets-behavior-spread-are-omens-of-ransomware-attacks/176845/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet, which resurfaced last month on the back of TrickBot, can now directly install Cobalt Strike on infected devices, giving threat actors direct access to targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor’s main site blocked in Russia as censorship widens<a href="https://www.bleepingcomputer.com/news/security/tor-s-main-site-blocked-in-russia-as-censorship-widens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project's main website, torproject.org, is actively blocked by Russia's largest internet service providers, and sources from the country claim that the government is getting ready to conduct an extensive block of the project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

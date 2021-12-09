@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Guide to Achieving 24x7 Threat Monitoring and Response for Lean IT Security Teams<a href="https://thehackernews.com/2021/12/ebook-guide-to-achieving-24x7-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there is one thing the past few years have taught the world, it's that cybercrime never sleeps. For organizations of any size and scope, having around-the-clock protection for their endpoints, networks, and servers is no longer optional, but it's also not entirely feasible for many. Attackers are better than ever at slipping in undetected, and threats are constantly evolving.&nbsp;  Teams can't afford to take a minute off, but they also can't manage the massive security necessary to defend most organizations. A new eBook by XDR provider Cynet ( download here ) breaks down this challenge and offers some solutions for lean security teams looking for ways to improve their detection and response capabilities.&nbsp;  The guide strikes an optimistic tone for lean IT security teams.  Though the challenges are expansive – including talent shortages, an ever-expanding threat surface, and rising security tool prices – organizations can still find smart and effective ways to stay protected 24x7.  Why 2
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

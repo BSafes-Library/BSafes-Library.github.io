@@ -8,6 +8,62 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Disrupts Blockchain-based Glupteba Botnet; Sues Russian Hackers<a href="https://thehackernews.com/2021/12/google-disrupts-blockchain-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday said it took steps to disrupt the operations of a sophisticated "multi-component" botnet called Glupteba that approximately infected more than one million Windows computers across the globe and stored its command-and-control server addresses on Bitcoin's blockchain as a resilience mechanism.  As part of the efforts, Google's Threat Analysis Group (TAG) said it partnered with the CyberCrime Investigation Group over the past year to terminate around 63 million Google Docs that were observed to have distributed the malware, alongside 1,183 Google Accounts, 908 Cloud Projects, and 870 Google Ads accounts that were associated with its distribution.  Google TAG said it worked with internet infrastructure providers and hosting providers, such as CloudFlare, to dismantle the malware by taking down servers and placing interstitial warning pages in front of the malicious domains.  In tandem, the internet giant also announced a lawsuit against two Russian indi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+140,000 Reasons Why Emotet is Piggybacking on TrickBot in its Return from the Dead<a href="https://thehackernews.com/2021/12/140000-reasons-why-emotet-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of TrickBot malware have infected an estimated 140,000 victims across 149 countries a little over a year after attempts were to dismantle its infrastructure, even as the malware is fast becoming an entry point for Emotet, another botnet that was taken down at the start of 2021.  Most of the victims detected since November 1, 2020, are from Portugal (18%), the U.S. (14%), and India (5%), followed by Brazil (4%), Turkey (3%), Russia (3%), and China (3%), Check Point Research noted in a report  shared with The Hacker News, with government, finance, and manufacturing entities emerging the top affected industry verticals.  "Emotet is a strong indicator of future ransomware attacks, as the malware provides ransomware gangs a backdoor into compromised machines," said the researchers, who detected 223 different Trickbot campaigns over the course of the last six months.  Both TrickBot and Emotet are botnets, which are a network of internet-connected devices infected by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity Verification Company Incode Raises $220 Million at $1.25 Billion Valuation<a href="https://www.securityweek.com/identity-verification-company-incode-raises-220-million-125-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by General Atlantic and SoftBank, but Capital One Ventures, Coinbase Ventures, J.P. Morgan, and SVCI also participated, along with other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet spreading via Hikvision camera vulnerability<a href="https://www.bleepingcomputer.com/news/security/moobot-botnet-spreading-via-hikvision-camera-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai-based botnet called 'Moobot' is spreading aggressively via exploiting a critical command injection flaw in the webserver of many Hikvision products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

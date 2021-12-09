@@ -11,6 +11,20 @@ nav_order: 900160
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+When Scammers Get Scammed, They Take It to Cybercrime Court<a href="https://threatpost.com/scammers-cybercrime-court/176834/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Underground arbitration system settles disputes between cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Persuasive Phishing Attacks Use Fake Office365 Spam Alerts<a href="https://cyware.com/news/persuasive-phishing-attacks-use-fake-office365-spam-alerts-c563387b"> Full Text</a>
 </p>
 <details>

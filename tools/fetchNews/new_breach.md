@@ -8,6 +8,28 @@ nav_order: 900029
 
 ## Breach
 ---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Vancouver leaking website credentials via overlooked DS_STORE file<a href="https://securityaffairs.co/wordpress/125420/data-breach/microsoft-vancouver-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers discovered a Desktop Services Store (DS_STORE) file left on a publicly accessible web server that belongs to Microsoft Vancouver. 
+
+
+
+Original post @ https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

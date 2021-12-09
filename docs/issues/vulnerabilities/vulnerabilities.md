@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall strongly urges customers to apply patches to SMA 100 devices<a href="https://securityaffairs.co/wordpress/125400/security/sonicwall-sma-100-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall strongly urges customers using SMA 100 series appliances to install security patches that address multiple security flaws, some of them rated as critical. 
+
+
+
+Security vendor SonicWall urges customers using SMA 100 series appliances to apply...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salt Security Report Surfaces GraphQL API Vulnerabilities<a href="https://securityboulevard.com/2021/12/salt-security-report-surfaces-graphql-api-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salt Security today released a report highlighting a vulnerability its researchers discovered in an API based on the GraphQL specification implemented by an undisclosed financial services firm.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall ‘strongly urges’ customers to patch critical SMA 100 bugs<a href="https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-customers-to-patch-critical-sma-100-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall 'strongly urges' organizations using SMA 100 series appliances to immediately patch them against multiple security flaws rated with CVSS scores ranging from medium to critical.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Security Updates Patch 46 Vulnerabilities<a href="https://www.securityweek.com/android-security-updates-patch-46-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of the fixed issues is an information leakage bug in the Media framework “that could lead to remote information disclosure with no additional execution privileges needed,” Google said.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Drive-By RCE Triggered by Default URI Handler<a href="https://threatpost.com/windows-10-rce-uri-handler/176830/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s an argument injection weakness in the Windows 10/11 default handler, researchers said: an issue that Microsoft has only partially fixed.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

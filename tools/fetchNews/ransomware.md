@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 07, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cerber ransomware targets Confluence and GitLab servers<a href="https://www.bleepingcomputer.com/news/security/new-cerber-ransomware-targets-confluence-and-gitlab-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cerber ransomware is back, as a new ransomware family adopts the old name and targets Atlassian Confluence and GitLab servers using remote code execution vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

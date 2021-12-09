@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 7, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitGuardian Raises $44 Million to Create Code Security Platform<a href="https://www.securityweek.com/gitguardian-raises-44-million-create-code-security-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitGuardian raised $44 million in Series B funding, bringing the total funds raised to $56 million. The round was led by Eurazeo, with participation from Sapphire, Balderton, BPI, and Fly Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
