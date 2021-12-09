@@ -34,6 +34,442 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Vancouver leaking website credentials via overlooked DS_STORE file<a href="https://securityaffairs.co/wordpress/125420/data-breach/microsoft-vancouver-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers discovered a Desktop Services Store (DS_STORE) file left on a publicly accessible web server that belongs to Microsoft Vancouver. 
+
+
+
+Original post @ https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Secured-core servers help prevent ransomware attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-secured-core-servers-help-prevent-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the first Secured-core certified Windows Server and Microsoft Azure Stack HCI devices are now available to protect customers' networks from security threats, including ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private Equity Firm Permira to Acquire Mimecast in $5.8 Billion Deal<a href="https://www.securityweek.com/private-equity-firm-permira-acquire-mimecast-58-billion-deal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mimecast on Tuesday announced that private equity firm Permira wants to acquire it in an all-cash transaction that values the email security company at roughly $5.8 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Disrupts Blockchain-based Glupteba Botnet; Sues Russian Hackers<a href="https://thehackernews.com/2021/12/google-disrupts-blockchain-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday said it took steps to disrupt the operations of a sophisticated "multi-component" botnet called Glupteba that approximately infected more than one million Windows computers across the globe and stored its command-and-control server addresses on Bitcoin's blockchain as a resilience mechanism.  As part of the efforts, Google's Threat Analysis Group (TAG) said it partnered with the CyberCrime Investigation Group over the past year to terminate around 63 million Google Docs that were observed to have distributed the malware, alongside 1,183 Google Accounts, 908 Cloud Projects, and 870 Google Ads accounts that were associated with its distribution.  Google TAG said it worked with internet infrastructure providers and hosting providers, such as CloudFlare, to dismantle the malware by taking down servers and placing interstitial warning pages in front of the malicious domains.  In tandem, the internet giant also announced a lawsuit against two Russian indi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not with a Bang but a Whisper: The Shift to Stealthy C2<a href="https://threatpost.com/tactics-attackers-stealthy-c2/176853/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoH! Nate Warfield, CTO of Prevailion, discusses new stealth tactics threat actors are using for C2, including Malleable C2 from Cobalt Strike’s arsenal.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers infect random WordPress plugins to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/hackers-infect-random-wordpress-plugins-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credit card swipers are being injected into random plugins of e-commerce WordPress sites, hiding from detection while stealing customer payment details.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Needs No Intermediate Trojan, Drops Cobalt Strike Beacons Directly<a href="https://cyware.com/news/emotet-needs-no-intermediate-trojan-drops-cobalt-strike-beacons-directly-7d55fb47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conventionally, Emotet would install either TrickBot or Qbot on compromised devices. These trojans would eventually install Cobalt Strike. Now, it has changed its tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+140,000 Reasons Why Emotet is Piggybacking on TrickBot in its Return from the Dead<a href="https://thehackernews.com/2021/12/140000-reasons-why-emotet-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of TrickBot malware have infected an estimated 140,000 victims across 149 countries a little over a year after attempts were to dismantle its infrastructure, even as the malware is fast becoming an entry point for Emotet, another botnet that was taken down at the start of 2021.  Most of the victims detected since November 1, 2020, are from Portugal (18%), the U.S. (14%), and India (5%), followed by Brazil (4%), Turkey (3%), Russia (3%), and China (3%), Check Point Research noted in a report  shared with The Hacker News, with government, finance, and manufacturing entities emerging the top affected industry verticals.  "Emotet is a strong indicator of future ransomware attacks, as the malware provides ransomware gangs a backdoor into compromised machines," said the researchers, who detected 223 different Trickbot campaigns over the course of the last six months.  Both TrickBot and Emotet are botnets, which are a network of internet-connected devices infected by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall strongly urges customers to apply patches to SMA 100 devices<a href="https://securityaffairs.co/wordpress/125400/security/sonicwall-sma-100-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall strongly urges customers using SMA 100 series appliances to install security patches that address multiple security flaws, some of them rated as critical. 
+
+
+
+Security vendor SonicWall urges customers using SMA 100 series appliances to apply...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet’s Behavior & Spread Are Omens of Ransomware Attacks<a href="https://threatpost.com/emotets-behavior-spread-are-omens-of-ransomware-attacks/176845/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet, which resurfaced last month on the back of TrickBot, can now directly install Cobalt Strike on infected devices, giving threat actors direct access to targets.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XE Group exposed for eight years of hacking, credit card theft<a href="https://www.bleepingcomputer.com/news/security/xe-group-exposed-for-eight-years-of-hacking-credit-card-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively unknown group of Vietnamese hackers calling themselves 'XE Group' has been linked to eight years of for-profit hacking and credit card skimming.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claroty raises $400 million to fund Medigate acquisition<a href="https://www.calcalistech.com/ctech/articles/0,7340,L-3924487,00.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli security firm Claroty is raising $400 million in a Series E round led by SoftBank. The fresh funding will be used to acquire Medigate, which specializes in protecting medical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Calcalis Tech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] Guide to Achieving 24x7 Threat Monitoring and Response for Lean IT Security Teams<a href="https://thehackernews.com/2021/12/ebook-guide-to-achieving-24x7-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If there is one thing the past few years have taught the world, it's that cybercrime never sleeps. For organizations of any size and scope, having around-the-clock protection for their endpoints, networks, and servers is no longer optional, but it's also not entirely feasible for many. Attackers are better than ever at slipping in undetected, and threats are constantly evolving.   Teams can't afford to take a minute off, but they also can't manage the massive security necessary to defend most organizations. A new eBook by XDR provider Cynet ( download here ) breaks down this challenge and offers some solutions for lean security teams looking for ways to improve their detection and response capabilities.   The guide strikes an optimistic tone for lean IT security teams.  Though the challenges are expansive – including talent shortages, an ever-expanding threat surface, and rising security tool prices – organizations can still find smart and effective ways to stay protected 24x7.  Why 2
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CS Energy foiled a ransomware attack<a href="https://securityaffairs.co/wordpress/125393/cyber-crime/cs-energy-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack hit CS Energy in Australia on Saturday, November 27, experts believe the attack was orchestrated by Chinese hackers.
+
+
+
+A ransomware cyberattack hit a major energy network operated by CS Energy, that attack could have had dramatic consequences...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor’s main site blocked in Russia as censorship widens<a href="https://www.bleepingcomputer.com/news/security/tor-s-main-site-blocked-in-russia-as-censorship-widens/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project's main website, torproject.org, is actively blocked by Russia's largest internet service providers, and sources from the country claim that the government is getting ready to conduct an extensive block of the project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Salt Security Report Surfaces GraphQL API Vulnerabilities<a href="https://securityboulevard.com/2021/12/salt-security-report-surfaces-graphql-api-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salt Security today released a report highlighting a vulnerability its researchers discovered in an API based on the GraphQL specification implemented by an undisclosed financial services firm.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet directly drops Cobalt Strike beacons without intermediate Trojans<a href="https://securityaffairs.co/wordpress/125384/cyber-crime/emotet-cobalt-strike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware continues to evolve, in the latest attacks, it directly installs Cobalt Strike beacons to give the attackers access to the target network.
+
+
+
+Emotet malware now directly installs Cobalt Strike beacons to give the attackers immediate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall ‘strongly urges’ customers to patch critical SMA 100 bugs<a href="https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-customers-to-patch-critical-sma-100-bugs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall 'strongly urges' organizations using SMA 100 series appliances to immediately patch them against multiple security flaws rated with CVSS scores ranging from medium to critical.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity Verification Company Incode Raises $220 Million at $1.25 Billion Valuation<a href="https://www.securityweek.com/identity-verification-company-incode-raises-220-million-125-billion-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by General Atlantic and SoftBank, but Capital One Ventures, Coinbase Ventures, J.P. Morgan, and SVCI also participated, along with other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet spreading via Hikvision camera vulnerability<a href="https://www.bleepingcomputer.com/news/security/moobot-botnet-spreading-via-hikvision-camera-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mirai-based botnet called 'Moobot' is spreading aggressively via exploiting a critical command injection flaw in the webserver of many Hikvision products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Security Updates Patch 46 Vulnerabilities<a href="https://www.securityweek.com/android-security-updates-patch-46-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of the fixed issues is an information leakage bug in the Media framework “that could lead to remote information disclosure with no additional execution privileges needed,” Google said.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian indicted for launching ransomware attacks on orgs in US, Canada<a href="https://www.zdnet.com/article/canadian-indicted-for-launching-ransomware-attacks-in-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Justice Department unsealed indictments today leveling a number of charges against 31-year-old Canadian Matthew Philbert for his alleged involvement in several ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 10 Drive-By RCE Triggered by Default URI Handler<a href="https://threatpost.com/windows-10-rce-uri-handler/176830/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s an argument injection weakness in the Windows 10/11 default handler, researchers said: an issue that Microsoft has only partially fixed.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Yet Another Bitcoin Mining Malware Targeting QNAP NAS Devices<a href="https://thehackernews.com/2021/12/warning-yet-another-bitcoin-mining.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network-attached storage (NAS) appliance maker QNAP on Tuesday released a new advisory warning of a cryptocurrency mining malware targeting its devices, urging customers to take preventive steps with immediate effect.  "A bitcoin miner has been reported to target QNAP NAS. Once a NAS is infected, CPU usage becomes unusually high where a process named '[oom_reaper]' could occupy around 50% of the total CPU usage," the Taiwanese company  said  in an alert. "This process mimics a kernel process but its [process identifier] is usually greater than 1000."   QNAP said it's currently investigating the infections, but did not share more information on the initial access vector that's being used to compromise the NAS devices. Affected users can remove the malware by restarting the appliances.  In the interim, the company is recommending that users update their QTS (and QuTS Hero) operating systems to the latest version, enforce strong passwords for administr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Scammers Get Scammed, They Take It to Cybercrime Court<a href="https://threatpost.com/scammers-cybercrime-court/176834/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Underground arbitration system settles disputes between cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Takes Down Glupteba Botnet; Files Lawsuit Against Operators<a href="https://threatpost.com/google-glupteba-botnet-lawsuit/176826/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware’s unique blockchain-enabled backup C2 scheme makes it difficult to eliminate completely.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 07, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
