@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Holidays Put Your Company at Risk of Cyber Attack (And How to Take Precautions)<a href="https://thehackernews.com/2021/12/why-holidays-put-your-company-at-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is a time when many are thinking of their families and loved ones, time off work, and gift-giving – the holidays. However, while many have their minds outside the realm of work during the holiday season, often, this is when attackers plan their most sinister attacks.&nbsp;  So how can you take precautions to protect your organization during these times?  Why holidays put your company at risk of cyberattack    Attackers today do not have a soft spot for businesses and give companies a break at any time of the year, especially not during holidays. On the contrary, any time of the year where companies may be less prepared to fend off a cyberattack is an opportunity for successful compromise. As a result, the holidays put your company at a higher risk of cyberattack.&nbsp;  Most end-users do not think about cybersecurity when surfing the web or receiving emails with holiday deals during the season. As a result, many let their guard down to a certain degree and become preoccupied and distracted m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

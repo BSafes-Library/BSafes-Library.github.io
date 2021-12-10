@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers infect random WordPress plugins to steal credit cards<a href="https://www.bleepingcomputer.com/news/security/hackers-infect-random-wordpress-plugins-to-steal-credit-cards/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credit card swipers are being injected into random plugins of e-commerce WordPress sites, hiding from detection while stealing customer payment details.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XE Group exposed for eight years of hacking, credit card theft<a href="https://www.bleepingcomputer.com/news/security/xe-group-exposed-for-eight-years-of-hacking-credit-card-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively unknown group of Vietnamese hackers calling themselves 'XE Group' has been linked to eight years of for-profit hacking and credit card skimming.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,53 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Seizes Malicious Domains Used by Nickel<a href="https://cyware.com/news/microsoft-seizes-malicious-domains-used-by-nickel-40e8e5c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nickel group was using several malicious domains for intelligence gathering from multiple government agencies, think tanks, and human rights organizations worldwide.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks injects e-skimmers in random WordPress plugins of e-stores<a href="https://securityaffairs.co/wordpress/125435/malware/e-skimmers-random-wordpress-plugins-e-stores.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are injecting credit card swipers into random plugins of e-commerce WordPress sites, Sucuri researchers warn.
+
+
+
+Sucuri researchers are warning of threat actors injecting credit card swipers into random plugins of e-commerce WordPress sites....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KAX17 Runs Rogue Relays to Expose Tor Users<a href="https://cyware.com/news/kax17-runs-rogue-relays-to-expose-tor-users-a3bb140e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers stumbled across a mischievous threat actor, dubbed KAX17, running over 900 malicious servers allegedly to deanonymize Tor users. Most of the Tor relay servers used by the group were located in data centers worldwide and were configured as entry and middle points. The recent findings sho ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US to tighten restrictions on exports of malicious cyber tools<a href="https://thehill.com//policy/cybersecurity/585213-us-to-tighten-restrictions-on-exports-of-malicious-cyber-tools"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration is expected to announce on Friday an initiative to tighten rules surrounding the exports of certain technologies that have been used by authoritarian governments and bad actors for repression.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

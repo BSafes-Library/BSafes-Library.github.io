@@ -8,6 +8,56 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Mirai botnet spreads targeting RCE on TP-Link routers<a href="https://securityaffairs.co/wordpress/125450/malware/dark-mirai-botnet-tp-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A botnet tracked as Dark Mirai spreads by exploiting a new vulnerability affecting TP-Link TL-WR840N EU V5 home routers.
+
+
+
+Dark Mirai botnet spreads by exploiting a new vulnerability, tracked as CVE-2021-41653, affecting TP-Link TL-WR840N EU V5 home...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Mirai botnet targeting RCE on popular TP-Link router<a href="https://www.bleepingcomputer.com/news/security/dark-mirai-botnet-targeting-rce-on-popular-tp-link-router/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet known as Dark Mirai (aka MANGA) has been observed exploiting a new vulnerability on the TP-Link TL-WR840N EU V5, a popular inexpensive home router released in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet spreads by exploiting CVE-2021-36260 flaw in Hikvision products<a href="https://securityaffairs.co/wordpress/125409/malware/moobot-botnet-hikvision.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moobot is a Mirai-based botnet that is leveraging a critical command injection vulnerability in the webserver of some Hikvision products. 
+
+
+
+The Mirai-based Moobot botnet is rapidly spreading by exploiting a critical command injection flaw, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

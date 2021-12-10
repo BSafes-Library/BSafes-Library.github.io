@@ -8,6 +8,136 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 300,000 MikroTik Devices Found Vulnerable to Remote Hacking Bugs<a href="https://thehackernews.com/2021/12/over-300000-mikrotik-devices-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 300,000 IP addresses associated with MikroTik devices have been found vulnerable to multiple remotely exploitable security vulnerabilities that have since been patched by the popular supplier of routers and wireless ISP devices.  The most affected devices are located in China, Brazil, Russia, Italy, Indonesia, with the U.S. coming in at number eight, cybersecurity firm Eclypsium said in a report shared with The Hacker News.  "These devices are both powerful, [and] often highly vulnerable," the researchers&nbsp; noted . "This has made MikroTik devices a favorite among threat actors who have commandeered the devices for everything from DDoS attacks, command-and-control (aka 'C2'), traffic tunneling, and more."  MikroTik devices are an enticing target not least because there are more than two million of them deployed worldwide, posing a huge attack surface that can be leveraged by threat actors to mount an array of intrusions.   Indeed, earlier this Septem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla fixed high-severity bugs in Firefox and Thunderbird mail client<a href="https://securityaffairs.co/wordpress/125440/security/firefox-thunderbird-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla released security updates for the Firefox browser and Thunderbird mail client to address multiple vulnerabilities. 
+
+
+
+Mozilla released security updates to address multiple vulnerabilities in the Firefox browser and Thunderbird mail client. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google OAuth flaws can be abused in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-google-oauth-flaws-can-be-abused-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a set of previously unknown methods to launch URL redirection attacks against weak OAuth 2.0 implementations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical web security flaws in Kaseya Unitrends&nbsp;backup appliances remediated after researchers’ disclosure<a href="https://portswigger.net/daily-swig/critical-web-security-flaws-in-kaseya-unitrends-nbsp-backup-appliances-remediated-after-researchers-disclosure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Each of the flaws (rated with a CVSS score of 9.8) posed a remote code execution risk to Kaseya Unitrends Backup Appliance running vulnerable versions of the software, ranging from 10.0.x-10.5.4.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Tonga’s top-level domain left Google, Amazon, Tether web services vulnerable to takeover<a href="https://portswigger.net/daily-swig/flaws-in-tongas-top-level-domain-left-google-amazon-tether-web-services-vulnerable-to-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palisade researchers discovered an SQL injection vulnerability on the registrar website, abuse of which could enable attackers to obtain the plaintext DNS master passwords for '.to' domains.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SanDisk SecureAccess bug allows brute forcing vault passwords<a href="https://www.bleepingcomputer.com/news/security/sandisk-secureaccess-bug-allows-brute-forcing-vault-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital has fixed a security vulnerability that enabled attackers to brute force SanDisk SecureAccess passwords and access the users' protected files.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SSRF vulnerability patched in Jamf Pro mobile security platform<a href="https://portswigger.net/daily-swig/ssrf-vulnerability-patched-in-jamf-pro-mobile-security-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Jamf Pro, a popular MDM platform for Apple devices, allowed attackers to stage SSRF attacks on the application’s servers, security researchers at Assetnote have found.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of thousands of MikroTik devices still vulnerable to botnets<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-thousands-of-mikrotik-devices-still-vulnerable-to-botnets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 300,000 MikroTik routers are vulnerable to critical vulnerabilities that malware botnets can exploit for cryptomining and DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 'InstallerFileTakeOver' zero-day bug gets free micropatch<a href="https://www.bleepingcomputer.com/news/security/windows-installerfiletakeover-zero-day-bug-gets-free-micropatch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial patch is available for a zero-day vulnerability that is actively exploited in the wild to gain administrator privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2021.4 released with 9 new tools, further Apple M1 support<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20214-released-with-9-new-tools-further-apple-m1-support/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy APT Targets Indian and Afghan Governments<a href="https://cyware.com/news/sidecopy-apt-targets-indian-and-afghan-governments-16b376a5"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US to tighten restrictions on exports of malicious cyber tools<a href="https://thehill.com//policy/cybersecurity/585213-us-to-tighten-restrictions-on-exports-of-malicious-cyber-tools"> Full Text</a>
@@ -83,7 +83,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 300,000 MikroTik Devices Found Vulnerable to Remote Hacking Bugs<a href="https://thehackernews.com/2021/12/over-300000-mikrotik-devices-found.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Mirai botnet spreads targeting RCE on TP-Link routers<a href="https://securityaffairs.co/wordpress/125450/malware/dark-mirai-botnet-tp-link.html"> Full Text</a>
@@ -119,7 +119,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV BlackCat - This year's most sophisticated ransomware<a href="https://www.bleepingcomputer.com/news/security/alphv-blackcat-this-years-most-sophisticated-ransomware/"> Full Text</a>
@@ -135,7 +135,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revived Cerber Targets Confluence and GitLab Servers<a href="https://cyware.com/news/revived-cerber-targets-confluence-and-gitlab-servers-673c59a3"> Full Text</a>
@@ -151,7 +151,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Holidays Put Your Company at Risk of Cyber Attack (And How to Take Precautions)<a href="https://thehackernews.com/2021/12/why-holidays-put-your-company-at-risk.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla fixed high-severity bugs in Firefox and Thunderbird mail client<a href="https://securityaffairs.co/wordpress/125440/security/firefox-thunderbird-bugs.html"> Full Text</a>
@@ -187,7 +187,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Notepad++ installers push StrongPity malware<a href="https://www.bleepingcomputer.com/news/security/malicious-notepad-plus-plus-installers-push-strongpity-malware/"> Full Text</a>
@@ -203,7 +203,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Seizes Malicious Domains Used by Nickel<a href="https://cyware.com/news/microsoft-seizes-malicious-domains-used-by-nickel-40e8e5c3"> Full Text</a>
@@ -219,7 +219,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks injects e-skimmers in random WordPress plugins of e-stores<a href="https://securityaffairs.co/wordpress/125435/malware/e-skimmers-random-wordpress-plugins-e-stores.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Mirai botnet targeting RCE on popular TP-Link router<a href="https://www.bleepingcomputer.com/news/security/dark-mirai-botnet-targeting-rce-on-popular-tp-link-router/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KAX17 Runs Rogue Relays to Expose Tor Users<a href="https://cyware.com/news/kax17-runs-rogue-relays-to-expose-tor-users-a3bb140e"> Full Text</a>
@@ -272,7 +272,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tens of malicious NPM packages caught hijacking Discord servers<a href="https://securityaffairs.co/wordpress/125427/malware/malicious-packages-npm-repositories.html"> Full Text</a>
@@ -292,7 +292,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Google OAuth flaws can be abused in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-google-oauth-flaws-can-be-abused-in-phishing-attacks/"> Full Text</a>
@@ -308,7 +308,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Food Importer Firm Atalanta Suffers Ransomware Attack<a href="https://portswigger.net/daily-swig/us-food-importer-atalanta-admits-ransomware-attack?&web_view=true"> Full Text</a>
@@ -324,7 +324,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet spreads by exploiting CVE-2021-36260 flaw in Hikvision products<a href="https://securityaffairs.co/wordpress/125409/malware/moobot-botnet-hikvision.html"> Full Text</a>
@@ -344,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft previews new endpoint security solution for SMBs<a href="https://www.bleepingcomputer.com/news/security/microsoft-previews-new-endpoint-security-solution-for-smbs/"> Full Text</a>
@@ -360,7 +360,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical web security flaws in Kaseya Unitrends backup appliances remediated after researchers’ disclosure<a href="https://portswigger.net/daily-swig/critical-web-security-flaws-in-kaseya-unitrends-nbsp-backup-appliances-remediated-after-researchers-disclosure?&web_view=true"> Full Text</a>
@@ -376,7 +376,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cox discloses data breach after hacker impersonates support agent<a href="https://www.bleepingcomputer.com/news/security/cox-discloses-data-breach-after-hacker-impersonates-support-agent/"> Full Text</a>
@@ -392,7 +392,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Tonga’s top-level domain left Google, Amazon, Tether web services vulnerable to takeover<a href="https://portswigger.net/daily-swig/flaws-in-tongas-top-level-domain-left-google-amazon-tether-web-services-vulnerable-to-takeover?&web_view=true"> Full Text</a>
@@ -408,7 +408,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SanDisk SecureAccess bug allows brute forcing vault passwords<a href="https://www.bleepingcomputer.com/news/security/sandisk-secureaccess-bug-allows-brute-forcing-vault-passwords/"> Full Text</a>
@@ -424,7 +424,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SSRF vulnerability patched in Jamf Pro mobile security platform<a href="https://portswigger.net/daily-swig/ssrf-vulnerability-patched-in-jamf-pro-mobile-security-platform?&web_view=true"> Full Text</a>
@@ -440,7 +440,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujitsu pins Japanese govt data breach on stolen ProjectWEB accounts<a href="https://www.bleepingcomputer.com/news/security/fujitsu-pins-japanese-govt-data-breach-on-stolen-projectweb-accounts/"> Full Text</a>
@@ -456,7 +456,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of thousands of MikroTik devices still vulnerable to botnets<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-thousands-of-mikrotik-devices-still-vulnerable-to-botnets/"> Full Text</a>
@@ -472,7 +472,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 'InstallerFileTakeOver' zero-day bug gets free micropatch<a href="https://www.bleepingcomputer.com/news/security/windows-installerfiletakeover-zero-day-bug-gets-free-micropatch/"> Full Text</a>

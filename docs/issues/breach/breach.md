@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cox discloses data breach after hacker impersonates support agent<a href="https://www.bleepingcomputer.com/news/security/cox-discloses-data-breach-after-hacker-impersonates-support-agent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cox Communications has disclosed a data breach after a hacker&nbsp;impersonated a support agent to gain access to customers' personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujitsu pins Japanese govt data breach on stolen ProjectWEB accounts<a href="https://www.bleepingcomputer.com/news/security/fujitsu-pins-japanese-govt-data-breach-on-stolen-projectweb-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fujitsu says the attackers behind the May data breach used a vulnerability in the company's ProjectWEB information-sharing tool to steal accounts from legitimate users and access proprietary data belonging to multiple Japanese government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

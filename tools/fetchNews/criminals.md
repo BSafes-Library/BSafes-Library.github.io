@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 8, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian indicted for launching ransomware attacks on orgs in US, Canada<a href="https://www.zdnet.com/article/canadian-indicted-for-launching-ransomware-attacks-in-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and Justice Department unsealed indictments today leveling a number of charges against 31-year-old Canadian Matthew Philbert for his alleged involvement in several ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

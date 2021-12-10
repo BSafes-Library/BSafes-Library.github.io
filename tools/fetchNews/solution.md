@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 08, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Secured-core servers help prevent ransomware attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-secured-core-servers-help-prevent-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the first Secured-core certified Windows Server and Microsoft Azure Stack HCI&nbsp;devices are now available to protect customers' networks from security threats, including ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

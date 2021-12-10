@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Food Importer Firm Atalanta Suffers Ransomware Attack<a href="https://portswigger.net/daily-swig/us-food-importer-atalanta-admits-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upon becoming aware of the malicious activity, Atalanta engaged third-party specialists and began to remediate the situation, including conducting a forensic investigation into the incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
