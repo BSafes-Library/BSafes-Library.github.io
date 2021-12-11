@@ -11,6 +11,20 @@ nav_order: 900025
 December 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Fueled by Pandemic Realities, Grinchbots Aggressively Surge in Activity<a href="https://threatpost.com/pandemic-grinchbots-surge-activity/176898/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce’s proverbial Who-ville is under siege, with a rise in bots bent on ruining gift cards and snapping up coveted gifts for outrageously priced resale.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dark Mirai botnet spreads targeting RCE on TP-Link routers<a href="https://securityaffairs.co/wordpress/125450/malware/dark-mirai-botnet-tp-link.html"> Full Text</a>
 </p>
 <details>

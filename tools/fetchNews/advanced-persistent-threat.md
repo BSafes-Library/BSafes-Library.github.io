@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy APT Targets Indian and Afghan Governments<a href="https://cyware.com/news/sidecopy-apt-targets-indian-and-afghan-governments-16b376a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the SideCopy APT group targeted government officials in India and Afghanistan via the new AuTo data stealer for cyberespionage.&nbsp;Hackers use ActionRAT and AuTo Stealer malware in this campaign. Government entities are suggested to invest more in security and stay vig ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

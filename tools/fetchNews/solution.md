@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2021.4 released with 9 new tools, further Apple M1 support<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20214-released-with-9-new-tools-further-apple-m1-support/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Kali Linux 2021.4&nbsp;was released today by Offensive Security and includes further Apple M1 support, increased Samba compatibility, nine new tools, and an update for all three main desktop.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft previews new endpoint security solution for SMBs<a href="https://www.bleepingcomputer.com/news/security/microsoft-previews-new-endpoint-security-solution-for-smbs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender for Business, a new endpoint security solution&nbsp;specially built for small and medium-sized businesses (SMBs), is now rolling out in preview worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

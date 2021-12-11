@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers release 'vaccine' for critical Log4Shell vulnerability<a href="https://www.bleepingcomputer.com/news/security/researchers-release-vaccine-for-critical-log4shell-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm Cybereason has released a "vaccine" that can be used to remotely mitigate the critical 'Log4Shell' Apache Log4j code execution vulnerability running rampant through the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's the Deal with the Log4Shell Security Nightmare?<a href="https://www.lawfareblog.com/whats-deal-log4shell-security-nightmare"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The details behind a massive cyber problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and GitHub OAuth Implementation Vulnerabilities Lead to Redirection Attacks<a href="https://www.proofpoint.com/us/blog/cloud-security/microsoft-and-github-oauth-implementation-vulnerabilities-lead-redirection?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in Microsoft and others’ popular OAuth2.0 implementations lead to redirection attacks that bypass most phishing detection solutions and email security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A zero-day exploit for Log4j Java library could have a tsunami impact on IT giants<a href="https://securityaffairs.co/wordpress/125480/hacking/log4j-java-library-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts publicly disclose Proof-of-concept exploits for a critical zero-day vulnerability in the Apache Log4j Java-based logging library.
+
+
+
+Experts publicly disclose Proof-of-concept exploits for a critical remote code execution zero-day vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches High-Severity Vulnerabilities in Firefox, Thunderbird<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-firefox-thunderbird?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If exploited, the most severe of these security bugs could allow attackers to execute arbitrary code within the context of the vulnerable application, which could lead to full system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minecraft rushes out patch for critical Log4j vulnerability<a href="https://www.bleepingcomputer.com/news/security/minecraft-rushes-out-patch-for-critical-log4j-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish video game developer Mojang Studios has released an emergency Minecraft security update to address a critical bug in the Apache Log4j Java logging library used by the game's Java Edition client and multiplayer servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New zero-day exploit for Log4j Java library is an enterprise nightmare<a href="https://www.bleepingcomputer.com/news/security/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploits for a critical zero-day vulnerability in the ubiquitous&nbsp;Apache Log4j Java-based logging library are currently being shared online, exposing home users and enterprises alike to ongoing remote code execution attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Widely Used Java-based Logging Utility Poses Grave Threat to Multiple Applications<a href="https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code has been released for a serious code-execution vulnerability in Log4j, which is used by large enterprises and also in Java versions of Minecraft, several websites reported last Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How MikroTik Routers Became a Cybercriminal Target<a href="https://threatpost.com/mikrotik-routers-cybercriminal-target/176894/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The powerful devices leveraged by the Meris botnet have weaknesses that make them easy to exploit, yet complex for organizations to track and secure, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

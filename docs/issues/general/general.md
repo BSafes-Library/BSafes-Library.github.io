@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of ransomware attacks between Christmas and New Year’s!<a href="https://www.helpnetsecurity.com/2021/12/09/ransomware-attacks-holiday/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darktrace researchers discovered a 30% rise in the average number of attempted ransomware attacks over the holiday season in every consecutive year from 2018 to 2020 compared to the monthly average.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

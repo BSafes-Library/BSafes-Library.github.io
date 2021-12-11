@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ gives Russian national two-year sentence for work shielding Kelihos malware and other ransomware<a href="https://www.zdnet.com/article/doj-gives-russian-national-two-year-sentence-for-work-shielding-kelihos-malware-and-other-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ sentenced Oleg Koshkin to two years in prison for his work in helping to "conceal" the Kelihos malware and other ransomware from antivirus software. He was facing up to 15 years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

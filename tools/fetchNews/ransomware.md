@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 09, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV BlackCat - This year's most sophisticated ransomware<a href="https://www.bleepingcomputer.com/news/security/alphv-blackcat-this-years-most-sophisticated-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new ALPHV ransomware operation, aka BlackCat, launched last month and could be the most sophisticated ransomware of the year, with a highly-customizable feature set allowing for attacks on a wide range of corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revived Cerber Targets Confluence and GitLab Servers<a href="https://cyware.com/news/revived-cerber-targets-confluence-and-gitlab-servers-673c59a3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cerber ransomware is active again with new attack tactics. This time it has been observed targeting remote code execution vulnerabilities in Atlassian Confluence and GitLab servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

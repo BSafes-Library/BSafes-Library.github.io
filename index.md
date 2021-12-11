@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers release 'vaccine' for critical Log4Shell vulnerability<a href="https://www.bleepingcomputer.com/news/security/researchers-release-vaccine-for-critical-log4shell-vulnerability/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 1.6 Million WordPress Sites Targeted in Couple of Days with Attacks on Plugins and Themes<a href="https://securityaffairs.co/wordpress/125469/hacking/wordpress-sites-under-attack.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials press for actionable recommendations from new cyber advisory committee<a href="https://thehill.com//policy/cybersecurity/585387-officials-press-for-actionable-recommendations-from-new-cyber-advisory"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat: A New Rust-based Ransomware Malware Spotted in the Wild<a href="https://thehackernews.com/2021/12/blackcat-new-rust-based-ransomware.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's the Deal with the Log4Shell Security Nightmare?<a href="https://www.lawfareblog.com/whats-deal-log4shell-security-nightmare"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volvo Cars suffers a data breach. Is it a ransomware attack?<a href="https://securityaffairs.co/wordpress/125500/data-breach/volvo-cars-cyber-attack.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Next-Gen Maldocs & How to Solve the Human Vulnerability<a href="https://threatpost.com/maldocs-malicious-office-documents-human-vulnerability/176916/"> Full Text</a>
@@ -154,7 +154,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - December 10th 2021 - Project CODA<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-10th-2021-project-coda/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decade-old Modular Banking Trojan Adds Capability of Delivering Ransomware Payloads<a href="https://www.zdnet.com/article/this-decade-old-malware-has-picked-up-some-nasty-new-tricks/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials, experts sound the alarm about critical cyber vulnerability<a href="https://thehill.com//policy/cybersecurity/585370-officials-experts-sound-the-alarm-about-critical-cyber-vulnerability"> Full Text</a>
@@ -202,7 +202,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1.6 Million WordPress Sites Under Cyberattack From Over 16,000 IP Addresses<a href="https://thehackernews.com/2021/12/16-million-wordpress-sites-under.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian ACSC warns of Conti ransomware attacks against local orgs<a href="https://securityaffairs.co/wordpress/125491/cyber-crime/australian-acsc-conti-ransomware-alert.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Appalling’ Riot Games Job Fraud Takes Aim at Wallets<a href="https://threatpost.com/riot-games-job-fraud/176950/"> Full Text</a>
@@ -254,7 +254,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attacks use QR codes to steal banking credentials<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-use-qr-codes-to-steal-banking-credentials/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft and GitHub OAuth Implementation Vulnerabilities Lead to Redirection Attacks<a href="https://www.proofpoint.com/us/blog/cloud-security/microsoft-and-github-oauth-implementation-vulnerabilities-lead-redirection?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Blocks Tor Privacy Service in Latest Censorship Move<a href="https://thehackernews.com/2021/12/russia-blocks-tor-privacy-service-in.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A zero-day exploit for Log4j Java library could have a tsunami impact on IT giants<a href="https://securityaffairs.co/wordpress/125480/hacking/log4j-java-library-zeroday.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volvo Cars discloses security breach leading to R&D data theft<a href="https://www.bleepingcomputer.com/news/security/volvo-cars-discloses-security-breach-leading-to-randd-data-theft/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Patches High-Severity Vulnerabilities in Firefox, Thunderbird<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-firefox-thunderbird?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1.6 million WordPress sites targeted in the last couple of days<a href="https://securityaffairs.co/wordpress/125469/hacking/wordpress-sites-under-attack.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minecraft rushes out patch for critical Log4j vulnerability<a href="https://www.bleepingcomputer.com/news/security/minecraft-rushes-out-patch-for-critical-log4j-vulnerability/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PHP Re-Infectors – The Malware that Keeps On Giving<a href="https://blog.sucuri.net/2021/12/php-re-infectors-the-malware-that-keeps-on-giving.html?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Sucuri
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat ransomware, a very sophisticated malware written in Rust<a href="https://securityaffairs.co/wordpress/125459/cyber-crime/blackcat-ransomware.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian govt raises alarm over Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/australian-govt-raises-alarm-over-conti-ransomware-attacks/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack at Payroll Provider Frontier Software Leaks Data on Australian Government Workers<a href="https://www.zdnet.com/article/south-australian-government-employee-data-taken-in-frontier-software-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Karakurt' hacking group focuses on data theft and extortion<a href="https://www.bleepingcomputer.com/news/security/new-karakurt-hacking-group-focuses-on-data-theft-and-extortion/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How CISA’s New Patching Directive Can Drive Cyber Hygiene<a href="https://www.cio.com/article/3644152/how-cisa-s-new-patching-directive-can-drive-cyber-hygiene.html?&web_view=true"> Full Text</a>
@@ -490,7 +490,7 @@ CIO
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach impacts 80,000 South Australian govt employees<a href="https://www.bleepingcomputer.com/news/security/data-breach-impacts-80-000-south-australian-govt-employees/"> Full Text</a>
@@ -506,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of ransomware attacks between Christmas and New Year’s!<a href="https://www.helpnetsecurity.com/2021/12/09/ransomware-attacks-holiday/?&web_view=true"> Full Text</a>
@@ -522,7 +522,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New zero-day exploit for Log4j Java library is an enterprise nightmare<a href="https://www.bleepingcomputer.com/news/security/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare/"> Full Text</a>
@@ -538,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaw in Widely Used Java-based Logging Utility Poses Grave Threat to Multiple Applications<a href="https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/?&web_view=true"> Full Text</a>
@@ -554,7 +554,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive attack against 1.6 million WordPress sites underway<a href="https://www.bleepingcomputer.com/news/security/massive-attack-against-16-million-wordpress-sites-underway/"> Full Text</a>
@@ -570,7 +570,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ gives Russian national two-year sentence for work shielding Kelihos malware and other ransomware<a href="https://www.zdnet.com/article/doj-gives-russian-national-two-year-sentence-for-work-shielding-kelihos-malware-and-other-ransomware/?&web_view=true"> Full Text</a>
@@ -586,7 +586,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Ransomware Arrest Is a Meaningful Flex, Experts Say<a href="https://threatpost.com/canadian-ransomware-arrest/176905/"> Full Text</a>
@@ -602,7 +602,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fueled by Pandemic Realities, Grinchbots Aggressively Surge in Activity<a href="https://threatpost.com/pandemic-grinchbots-surge-activity/176898/"> Full Text</a>
@@ -618,7 +618,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How MikroTik Routers Became a Cybercriminal Target<a href="https://threatpost.com/mikrotik-routers-cybercriminal-target/176894/"> Full Text</a>

@@ -8,6 +8,80 @@ nav_order: 900015
 
 ## Attack
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1.6 Million WordPress Sites Targeted in Couple of Days with Attacks on Plugins and Themes<a href="https://securityaffairs.co/wordpress/125469/hacking/wordpress-sites-under-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence researchers spotted a massive wave of attacks in the days that are targeting over 1.6 million WordPress sites from 16,000 IPs via four different plugins and several Epsilon Framework themes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.6 Million WordPress Sites Under Cyberattack From Over 16,000 IP Addresses<a href="https://thehackernews.com/2021/12/16-million-wordpress-sites-under.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 1.6 million WordPress sites have been targeted by an active large-scale attack campaign originating from 16,000 IP addresses by exploiting weaknesses in four plugins and 15 Epsilon Framework themes.  WordPress security company Wordfence, which&nbsp; disclosed &nbsp;details of the attacks, said Thursday it had detected and blocked more than 13.7 million attacks aimed at the plugins and themes in a period of 36 hours with the goal of taking over the websites and carrying out malicious actions.   The plugins in question are Kiwi Social Share (&lt;= 2.0.10), WordPress Automatic (&lt;= 3.53.2), Pinterest Automatic (&lt;= 4.14.3), and PublishPress Capabilities (&lt;= 2.3), some of which have been patched dating all the way back to November 2018. The impacted Epsilon Framework themes and their corresponding versions are as follow —   Activello (&lt;=1.4.1)  Affluent (&lt;1.1.0)  Allegiant (&lt;=1.2.5)  Antreas (&lt;=1.0.6)  Bonkers (&lt;=1.0.5)  Brilliance (&lt;=1.2.9)  Illdy (&lt;=2.1.6)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.6 million WordPress sites targeted in the last couple of&nbsp;days<a href="https://securityaffairs.co/wordpress/125469/hacking/wordpress-sites-under-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence experts detected a massive wave of&nbsp;attacks in the last couple of&nbsp;days that targeted over 1.6 million WordPress sites. 
+
+
+
+Wordfence researchers spotted a massive wave of&nbsp;attacks in the days that are targeting over 1.6 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack at Payroll Provider Frontier Software Leaks Data on Australian Government Workers<a href="https://www.zdnet.com/article/south-australian-government-employee-data-taken-in-frontier-software-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Australia Treasurer Rob Lucas said on Friday that state government employee data has been exfiltrated as part of a ransomware attack on payroll provider Frontier Software.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive attack against 1.6 million WordPress sites underway<a href="https://www.bleepingcomputer.com/news/security/massive-attack-against-16-million-wordpress-sites-underway/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence analysts report having detected a massive wave of&nbsp;attacks in the last couple of&nbsp;days, originating from 16,000 IPs and targeting over 1.6 million WordPress sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

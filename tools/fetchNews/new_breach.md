@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo Cars suffers a data breach. Is it a ransomware attack?<a href="https://securityaffairs.co/wordpress/125500/data-breach/volvo-cars-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish automotive manufacturer Volvo Cars revealed that has suffered a cyberattack that resulted in the theft of R&amp;D data.
+
+
+
+Swedish automotive manufacturer Volvo Cars revealed that threat actors have stolen R&amp;D data from its systems.
+
+
+
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo Cars discloses security breach leading to R&amp;D data theft<a href="https://www.bleepingcomputer.com/news/security/volvo-cars-discloses-security-breach-leading-to-randd-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish carmaker Volvo Cars has disclosed that unknown attackers have stolen research and development information after hacking some of its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach impacts 80,000 South Australian govt employees<a href="https://www.bleepingcomputer.com/news/security/data-breach-impacts-80-000-south-australian-govt-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The South Australian government has admitted that the personal details of tens of thousands of its employees were compromised following a cyber-attack on an external payroll software provider.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
