@@ -34,7 +34,607 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers release 'vaccine' for critical Log4Shell vulnerability<a href="https://www.bleepingcomputer.com/news/security/researchers-release-vaccine-for-critical-log4shell-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm Cybereason has released a "vaccine" that can be used to remotely mitigate the critical 'Log4Shell' Apache Log4j code execution vulnerability running rampant through the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1.6 Million WordPress Sites Targeted in Couple of Days with Attacks on Plugins and Themes<a href="https://securityaffairs.co/wordpress/125469/hacking/wordpress-sites-under-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence researchers spotted a massive wave of attacks in the days that are targeting over 1.6 million WordPress sites from 16,000 IPs via four different plugins and several Epsilon Framework themes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials press for actionable recommendations from new cyber advisory committee<a href="https://thehill.com//policy/cybersecurity/585387-officials-press-for-actionable-recommendations-from-new-cyber-advisory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top officials at the Department of Homeland Security (DHS) on Friday urged a newly established advisory committee composed of experts from across sectors to propose solutions to help tackle the growing wave of cyberattacks faced by the nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat: A New Rust-based Ransomware Malware Spotted in the Wild<a href="https://thehackernews.com/2021/12/blackcat-new-rust-based-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about what's the first Rust-language-based ransomware strain spotted in the wild that has already amassed "some victims from different countries" since its launch last month.  The ransomware, dubbed  BlackCat , was  disclosed  by MalwareHunterTeam. "Victims can pay with Bitcoin or Monero," the researchers said in a series of tweets detailing the file-encrypting malware. "Also looks they are giving credentials to intermediaries" for negotiations.  BlackCat, akin to many other variants that have sprung before it, operates as a ransomware-as-a-service (RaaS), wherein the core developers recruit affiliates to breach corporate environments and encrypt files, but not before stealing the said documents in a double extortion scheme to pressure the targets into paying the requested amount or risk exposure of the stolen data should the companies refuse to pay up.   Security researcher Michael Gillespie  called  it a "very sophisticated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's the Deal with the Log4Shell Security Nightmare?<a href="https://www.lawfareblog.com/whats-deal-log4shell-security-nightmare"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The details behind a massive cyber problem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo Cars suffers a data breach. Is it a ransomware attack?<a href="https://securityaffairs.co/wordpress/125500/data-breach/volvo-cars-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish automotive manufacturer Volvo Cars revealed that has suffered a cyberattack that resulted in the theft of R&D data.
+
+
+
+Swedish automotive manufacturer Volvo Cars revealed that threat actors have stolen R&D data from its systems.
+
+
+
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next-Gen Maldocs & How to Solve the Human Vulnerability<a href="https://threatpost.com/maldocs-malicious-office-documents-human-vulnerability/176916/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious email attachments with macros are one of the most common ways hackers get in through the door. Huntress security researcher John Hammond discusses how threat hunters can fight back.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 10th 2021 - Project CODA<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-10th-2021-project-coda/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has quite a bit of ransomware news, including arrests, a new and sophisticated ransomware, and an attack bringing down 300 supermarkets in England.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decade-old Modular Banking Trojan Adds Capability of Delivering Ransomware Payloads<a href="https://www.zdnet.com/article/this-decade-old-malware-has-picked-up-some-nasty-new-tricks/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qakbot has in the past year started delivering ransomware and this new business model is making it harder for network defenders to detect what is and isn't a Qakbot attack.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials, experts sound the alarm about critical cyber vulnerability<a href="https://thehill.com//policy/cybersecurity/585370-officials-experts-sound-the-alarm-about-critical-cyber-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials and cyber experts on Friday sounded the alarm about a critical logging vulnerability that could potentially impact thousands of organizations, racing to implement patches before hackers can exploit the opening.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.6 Million WordPress Sites Under Cyberattack From Over 16,000 IP Addresses<a href="https://thehackernews.com/2021/12/16-million-wordpress-sites-under.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 1.6 million WordPress sites have been targeted by an active large-scale attack campaign originating from 16,000 IP addresses by exploiting weaknesses in four plugins and 15 Epsilon Framework themes.  WordPress security company Wordfence, which  disclosed  details of the attacks, said Thursday it had detected and blocked more than 13.7 million attacks aimed at the plugins and themes in a period of 36 hours with the goal of taking over the websites and carrying out malicious actions.   The plugins in question are Kiwi Social Share (<= 2.0.10), WordPress Automatic (<= 3.53.2), Pinterest Automatic (<= 4.14.3), and PublishPress Capabilities (<= 2.3), some of which have been patched dating all the way back to November 2018. The impacted Epsilon Framework themes and their corresponding versions are as follow —   Activello (<=1.4.1)  Affluent (<1.1.0)  Allegiant (<=1.2.5)  Antreas (<=1.0.6)  Bonkers (<=1.0.5)  Brilliance (<=1.2.9)  Illdy (<=2.1.6)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian ACSC warns of Conti ransomware attacks against local orgs<a href="https://securityaffairs.co/wordpress/125491/cyber-crime/australian-acsc-conti-ransomware-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) warns of Conti ransomware attacks again multiple Australian organizations.
+
+
+
+The Australian Cyber Security Centre (ACSC) warns of Conti ransomware attacks against multiple Australian organizations from various...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Appalling’ Riot Games Job Fraud Takes Aim at Wallets<a href="https://threatpost.com/riot-games-job-fraud/176950/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are using fake job listings to empty the wallets of young, hopeful victims looking to break into the gaming industry.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks use QR codes to steal banking credentials<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-use-qr-codes-to-steal-banking-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign that targets German e-banking users has been underway in the last couple of weeks, involving QR codes in the credential-snatching process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft and GitHub OAuth Implementation Vulnerabilities Lead to Redirection Attacks<a href="https://www.proofpoint.com/us/blog/cloud-security/microsoft-and-github-oauth-implementation-vulnerabilities-lead-redirection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in Microsoft and others’ popular OAuth2.0 implementations lead to redirection attacks that bypass most phishing detection solutions and email security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Blocks Tor Privacy Service in Latest Censorship Move<a href="https://thehackernews.com/2021/12/russia-blocks-tor-privacy-service-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia has stepped up its censorship efforts in the country by fully blocking access to the Tor web anonymity service, coinciding with the  ban  of six virtual private network (VPN) operators, as the government continues its efforts to control the internet and crack down on attempts to circumvent locally imposed web restrictions.  The Federal Service for Supervision of Communications, Information Technology and Mass Media, also known as Roskomnadzor, the watchdog responsible for monitoring, controlling and censoring Russian mass media, announced the block, accusing it of enabling access to illegal content, Reuters  reported  this week.   Russia  accounts  for 15% of all Tor users, with more than 310,000 daily users, second only to the U.S.  Tor, short for The Onion Router,  enables  users to automatically encrypt and reroute their web requests through a network of Tor relays for anonymizing network traffic, as well as help bypass censorship and protect their identities from the intern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A zero-day exploit for Log4j Java library could have a tsunami impact on IT giants<a href="https://securityaffairs.co/wordpress/125480/hacking/log4j-java-library-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts publicly disclose Proof-of-concept exploits for a critical zero-day vulnerability in the Apache Log4j Java-based logging library.
+
+
+
+Experts publicly disclose Proof-of-concept exploits for a critical remote code execution zero-day vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo Cars discloses security breach leading to R&D data theft<a href="https://www.bleepingcomputer.com/news/security/volvo-cars-discloses-security-breach-leading-to-randd-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish carmaker Volvo Cars has disclosed that unknown attackers have stolen research and development information after hacking some of its servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches High-Severity Vulnerabilities in Firefox, Thunderbird<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-firefox-thunderbird?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If exploited, the most severe of these security bugs could allow attackers to execute arbitrary code within the context of the vulnerable application, which could lead to full system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.6 million WordPress sites targeted in the last couple of days<a href="https://securityaffairs.co/wordpress/125469/hacking/wordpress-sites-under-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence experts detected a massive wave of attacks in the last couple of days that targeted over 1.6 million WordPress sites. 
+
+
+
+Wordfence researchers spotted a massive wave of attacks in the days that are targeting over 1.6 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minecraft rushes out patch for critical Log4j vulnerability<a href="https://www.bleepingcomputer.com/news/security/minecraft-rushes-out-patch-for-critical-log4j-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish video game developer Mojang Studios has released an emergency Minecraft security update to address a critical bug in the Apache Log4j Java logging library used by the game's Java Edition client and multiplayer servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Re-Infectors – The Malware that Keeps On Giving<a href="https://blog.sucuri.net/2021/12/php-re-infectors-the-malware-that-keeps-on-giving.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers usually replace the index.php with an infected copy of the WordPress index.php file and also add hundreds or thousands of infected .htaccess files throughout the website directories.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware, a very sophisticated malware written in Rust<a href="https://securityaffairs.co/wordpress/125459/cyber-crime/blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackCat is the first professional ransomware strain that was written in the Rust programming language, researchers reported. 
+
+
+
+Malware researchers from Recorded Future and MalwareHunterTeam discovered ALPHV (aka BlackCat), the first professional...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian govt raises alarm over Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/australian-govt-raises-alarm-over-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) says Conti ransomware attacks have targeted multiple Australian organizations from various industry verticals since November.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack at Payroll Provider Frontier Software Leaks Data on Australian Government Workers<a href="https://www.zdnet.com/article/south-australian-government-employee-data-taken-in-frontier-software-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Australia Treasurer Rob Lucas said on Friday that state government employee data has been exfiltrated as part of a ransomware attack on payroll provider Frontier Software.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Karakurt' hacking group focuses on data theft and extortion<a href="https://www.bleepingcomputer.com/news/security/new-karakurt-hacking-group-focuses-on-data-theft-and-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated cybercrime group known as 'Karakurt' who has been quietly working from the shadows has had its tactics and procedures exposed by researchers who tracked recent cyberattacks conducted by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How CISA’s New Patching Directive Can Drive Cyber Hygiene<a href="https://www.cio.com/article/3644152/how-cisa-s-new-patching-directive-can-drive-cyber-hygiene.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US federal agencies have two weeks to close the vulnerabilities published in 2021 and six months for older Common Vulnerabilities and Exposures (CVEs) — some of which date back to 2014.
+</details>
+<div style="text-align: right" markdown="1">
+CIO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach impacts 80,000 South Australian govt employees<a href="https://www.bleepingcomputer.com/news/security/data-breach-impacts-80-000-south-australian-govt-employees/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The South Australian government has admitted that the personal details of tens of thousands of its employees were compromised following a cyber-attack on an external payroll software provider.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of ransomware attacks between Christmas and New Year’s!<a href="https://www.helpnetsecurity.com/2021/12/09/ransomware-attacks-holiday/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Darktrace researchers discovered a 30% rise in the average number of attempted ransomware attacks over the holiday season in every consecutive year from 2018 to 2020 compared to the monthly average.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New zero-day exploit for Log4j Java library is an enterprise nightmare<a href="https://www.bleepingcomputer.com/news/security/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploits for a critical zero-day vulnerability in the ubiquitous Apache Log4j Java-based logging library are currently being shared online, exposing home users and enterprises alike to ongoing remote code execution attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaw in Widely Used Java-based Logging Utility Poses Grave Threat to Multiple Applications<a href="https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exploit code has been released for a serious code-execution vulnerability in Log4j, which is used by large enterprises and also in Java versions of Minecraft, several websites reported last Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive attack against 1.6 million WordPress sites underway<a href="https://www.bleepingcomputer.com/news/security/massive-attack-against-16-million-wordpress-sites-underway/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence analysts report having detected a massive wave of attacks in the last couple of days, originating from 16,000 IPs and targeting over 1.6 million WordPress sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ gives Russian national two-year sentence for work shielding Kelihos malware and other ransomware<a href="https://www.zdnet.com/article/doj-gives-russian-national-two-year-sentence-for-work-shielding-kelihos-malware-and-other-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoJ sentenced Oleg Koshkin to two years in prison for his work in helping to "conceal" the Kelihos malware and other ransomware from antivirus software. He was facing up to 15 years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Ransomware Arrest Is a Meaningful Flex, Experts Say<a href="https://threatpost.com/canadian-ransomware-arrest/176905/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and Canada charge Ottawa man for ransomware attacks, signaling that North America is no cybercriminal haven.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fueled by Pandemic Realities, Grinchbots Aggressively Surge in Activity<a href="https://threatpost.com/pandemic-grinchbots-surge-activity/176898/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce’s proverbial Who-ville is under siege, with a rise in bots bent on ruining gift cards and snapping up coveted gifts for outrageously priced resale.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How MikroTik Routers Became a Cybercriminal Target<a href="https://threatpost.com/mikrotik-routers-cybercriminal-target/176894/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The powerful devices leveraged by the Meris botnet have weaknesses that make them easy to exploit, yet complex for organizations to track and secure, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2021.4 released with 9 new tools, further Apple M1 support<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20214-released-with-9-new-tools-further-apple-m1-support/"> Full Text</a>
@@ -50,7 +650,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy APT Targets Indian and Afghan Governments<a href="https://cyware.com/news/sidecopy-apt-targets-indian-and-afghan-governments-16b376a5"> Full Text</a>
@@ -67,7 +667,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US to tighten restrictions on exports of malicious cyber tools<a href="https://thehill.com//policy/cybersecurity/585213-us-to-tighten-restrictions-on-exports-of-malicious-cyber-tools"> Full Text</a>
@@ -83,7 +683,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 300,000 MikroTik Devices Found Vulnerable to Remote Hacking Bugs<a href="https://thehackernews.com/2021/12/over-300000-mikrotik-devices-found.html"> Full Text</a>
@@ -99,7 +699,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Mirai botnet spreads targeting RCE on TP-Link routers<a href="https://securityaffairs.co/wordpress/125450/malware/dark-mirai-botnet-tp-link.html"> Full Text</a>
@@ -119,7 +719,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV BlackCat - This year's most sophisticated ransomware<a href="https://www.bleepingcomputer.com/news/security/alphv-blackcat-this-years-most-sophisticated-ransomware/"> Full Text</a>
@@ -135,7 +735,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revived Cerber Targets Confluence and GitLab Servers<a href="https://cyware.com/news/revived-cerber-targets-confluence-and-gitlab-servers-673c59a3"> Full Text</a>
@@ -151,7 +751,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Holidays Put Your Company at Risk of Cyber Attack (And How to Take Precautions)<a href="https://thehackernews.com/2021/12/why-holidays-put-your-company-at-risk.html"> Full Text</a>
@@ -167,7 +767,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla fixed high-severity bugs in Firefox and Thunderbird mail client<a href="https://securityaffairs.co/wordpress/125440/security/firefox-thunderbird-bugs.html"> Full Text</a>
@@ -187,7 +787,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Notepad++ installers push StrongPity malware<a href="https://www.bleepingcomputer.com/news/security/malicious-notepad-plus-plus-installers-push-strongpity-malware/"> Full Text</a>
@@ -203,7 +803,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Seizes Malicious Domains Used by Nickel<a href="https://cyware.com/news/microsoft-seizes-malicious-domains-used-by-nickel-40e8e5c3"> Full Text</a>
@@ -219,7 +819,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks injects e-skimmers in random WordPress plugins of e-stores<a href="https://securityaffairs.co/wordpress/125435/malware/e-skimmers-random-wordpress-plugins-e-stores.html"> Full Text</a>
@@ -239,7 +839,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Mirai botnet targeting RCE on popular TP-Link router<a href="https://www.bleepingcomputer.com/news/security/dark-mirai-botnet-targeting-rce-on-popular-tp-link-router/"> Full Text</a>
@@ -255,7 +855,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KAX17 Runs Rogue Relays to Expose Tor Users<a href="https://cyware.com/news/kax17-runs-rogue-relays-to-expose-tor-users-a3bb140e"> Full Text</a>
@@ -272,7 +872,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tens of malicious NPM packages caught hijacking Discord servers<a href="https://securityaffairs.co/wordpress/125427/malware/malicious-packages-npm-repositories.html"> Full Text</a>
@@ -292,7 +892,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Google OAuth flaws can be abused in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-google-oauth-flaws-can-be-abused-in-phishing-attacks/"> Full Text</a>
@@ -308,7 +908,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Food Importer Firm Atalanta Suffers Ransomware Attack<a href="https://portswigger.net/daily-swig/us-food-importer-atalanta-admits-ransomware-attack?&web_view=true"> Full Text</a>
@@ -324,7 +924,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet spreads by exploiting CVE-2021-36260 flaw in Hikvision products<a href="https://securityaffairs.co/wordpress/125409/malware/moobot-botnet-hikvision.html"> Full Text</a>
@@ -344,7 +944,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft previews new endpoint security solution for SMBs<a href="https://www.bleepingcomputer.com/news/security/microsoft-previews-new-endpoint-security-solution-for-smbs/"> Full Text</a>
@@ -360,7 +960,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical web security flaws in Kaseya Unitrends backup appliances remediated after researchers’ disclosure<a href="https://portswigger.net/daily-swig/critical-web-security-flaws-in-kaseya-unitrends-nbsp-backup-appliances-remediated-after-researchers-disclosure?&web_view=true"> Full Text</a>
@@ -376,7 +976,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cox discloses data breach after hacker impersonates support agent<a href="https://www.bleepingcomputer.com/news/security/cox-discloses-data-breach-after-hacker-impersonates-support-agent/"> Full Text</a>
@@ -392,7 +992,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Tonga’s top-level domain left Google, Amazon, Tether web services vulnerable to takeover<a href="https://portswigger.net/daily-swig/flaws-in-tongas-top-level-domain-left-google-amazon-tether-web-services-vulnerable-to-takeover?&web_view=true"> Full Text</a>
@@ -408,7 +1008,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SanDisk SecureAccess bug allows brute forcing vault passwords<a href="https://www.bleepingcomputer.com/news/security/sandisk-secureaccess-bug-allows-brute-forcing-vault-passwords/"> Full Text</a>
@@ -424,7 +1024,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 9, 2021
+December 9, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SSRF vulnerability patched in Jamf Pro mobile security platform<a href="https://portswigger.net/daily-swig/ssrf-vulnerability-patched-in-jamf-pro-mobile-security-platform?&web_view=true"> Full Text</a>
@@ -440,7 +1040,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujitsu pins Japanese govt data breach on stolen ProjectWEB accounts<a href="https://www.bleepingcomputer.com/news/security/fujitsu-pins-japanese-govt-data-breach-on-stolen-projectweb-accounts/"> Full Text</a>
@@ -456,7 +1056,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of thousands of MikroTik devices still vulnerable to botnets<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-thousands-of-mikrotik-devices-still-vulnerable-to-botnets/"> Full Text</a>
@@ -472,7 +1072,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 09, 2021
+December 09, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 'InstallerFileTakeOver' zero-day bug gets free micropatch<a href="https://www.bleepingcomputer.com/news/security/windows-installerfiletakeover-zero-day-bug-gets-free-micropatch/"> Full Text</a>
