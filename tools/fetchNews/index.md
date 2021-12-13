@@ -34,6 +34,261 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers start pushing malware in worldwide Log4Shell attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-start-pushing-malware-in-worldwide-log4shell-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors and researchers are scanning for and exploiting the Log4j Log4Shell vulnerability to deploy malware or find vulnerable servers. In this article we compiled the known payloads, scans, and attacks using the Log4j vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quebec shuts down thousands of sites as disclosure of the Log4Shell flaw<a href="https://securityaffairs.co/wordpress/125556/hacking/quebec-shut-down-sites-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Quebec shut down nearly 4,000 of its sites in response to the discovery of the Log4Shell flaw in the Apache Log4j Java-based logging library.
+
+
+
+Quebec shut down nearly 4,000 of its sites as a preventative measure after the disclosure of a PoC exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC: Americans lost $148 million to gift card scams this year<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-lost-148-million-to-gift-card-scams-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Trade Commission (FTC) said Americans reported losing $148 million to gift card scams during the first nine months of 2021 following a major increase compared to last year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian nation sentenced to 48 months in prison for helping Kelihos Botnet to evade detection<a href="https://securityaffairs.co/wordpress/125550/cyber-crime/kelihos-botnet-man-senteced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A United States court has sentenced to four years in prison for the Russian citizen Oleg Koshkin for his role in Kelihos Botnet development. 
+
+
+
+Oleg Koshkin (41) has been sentenced to 48 months in prison for one count of conspiracy to commit computer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A phishing campaign targets clients of German banks using QR codes<a href="https://securityaffairs.co/wordpress/125540/cyber-crime/phishing-qr-codes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense researchers discovered a new phishing campaign using QR codes targeting German e-banking users in the last weeks.
+
+
+
+Threat actors continue to use multiple techniques to avoid detection and trick recipients into opening phishing messages, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 344<a href="https://securityaffairs.co/wordpress/125536/breaking-news/security-affairs-newsletter-round-344.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MANGA Found Targeting RCE Vulnerability in TP-Link Product<a href="https://cyware.com/news/manga-found-targeting-rce-vulnerability-in-tp-link-product-04e6f717"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Botnet operator MANGA was spotted abusing a recently disclosed vulnerability to hijack TP-Link routers and add them to their network of hacked devices. Attackers  started  exploiting the flaw  just two weeks after TP-Link released the firmware update. E xperts recommend always updating devices regu ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat: A New Sophisticated Ransomware in Rust<a href="https://cyware.com/news/blackcat-a-new-sophisticated-ransomware-in-rust-4431ed31"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearth the first professional ransomware variant written in Rust dubbed BlackCat. It can target Windows, Linux, and VMWare ESXi systems.  The threat group uses a double extortion model and looks for partners to whom it offers a huge 80%–90% ransom cut. As per claims,   the author of Bl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: These are the building blocks of QBot malware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-these-are-the-building-blocks-of-qbot-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As QBot campaigns increase in size and frequency, researchers are looking into ways to break the trojan's distribution chain and tackle the threat.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot Botnet Eyes Hikvision Products<a href="https://cyware.com/news/moobot-botnet-eyes-hikvision-products-1d808e8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moobot, a Mirai-based botnet, is reportedly abusing a critical flaw in the webserver of many Hikvision products, which were sanctioned by the U.S. in the wake of human rights abuse. The botnet is abusing a critical command injection flaw to target unpatched devices and extract sensitive data from v ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital SanDisk SecureAccess flaws allow brute force and dictionary attacks<a href="https://securityaffairs.co/wordpress/125530/security/western-digital-sandisk-secureaccess-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in the Western Digital SanDisk SecureAccess can be exploited to access user data through brute force and dictionary attacks. 
+
+
+
+Western Digital has released updates for its SanDisk SecureAccess software to fix multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Karakurt’ cybercrime gang focuses on data theft and extortion<a href="https://securityaffairs.co/wordpress/125518/cyber-crime/karakurt-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture researchers detailed the activity of a new sophisticated cybercrime group, called Karakurt, behind recent cyberattacks. 
+
+
+
+Accenture researchers detailed the activity of a sophisticated financially motivated threat actor called Karakurt. The activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason released Logout4Shell, a vaccine for Log4Shell Apache Log4j RCE<a href="https://securityaffairs.co/wordpress/125512/hacking/logout4shell-vaccine-log4j-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason researchers released a "vaccine" that mitigates the critical 'Log4Shell' Apache Log4j code execution vulnerability. 
+
+
+
+Chinese security researcher p0rz9 publicly disclosed a Proof-of-concept exploit for a critical remote code execution zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extremely Critical Log4J Vulnerability Leaves Much of the Internet at Risk<a href="https://thehackernews.com/2021/12/extremely-critical-log4j-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation has released fixes to contain an  actively   exploited  zero-day vulnerability affecting the widely-used Apache Log4j Java-based logging library that could be weaponized to execute malicious code and allow a complete takeover of vulnerable systems.  Tracked as  CVE-2021-44228  and by the monikers Log4Shell or LogJam, the issue concerns a case of unauthenticated, remote code execution (RCE) on any application that uses the open-source utility and affects versions Log4j 2.0-beta9 up to 2.14.1. The bug has scored a perfect 10 on 10 in the CVSS rating system, indicative of the severity of the issue.  "An attacker who can control log messages or log message parameters can execute arbitrary code loaded from  LDAP  servers when message lookup substitution is enabled," the Apache Foundation  said  in an advisory. "From Log4j 2.15.0, this behavior has been disabled by default."   Exploitation can be achieved by a single string of text, which c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
