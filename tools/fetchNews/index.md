@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers start pushing malware in worldwide Log4Shell attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-start-pushing-malware-in-worldwide-log4shell-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quebec shuts down thousands of sites as disclosure of the Log4Shell flaw<a href="https://securityaffairs.co/wordpress/125556/hacking/quebec-shut-down-sites-log4shell.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC: Americans lost $148 million to gift card scams this year<a href="https://www.bleepingcomputer.com/news/security/ftc-americans-lost-148-million-to-gift-card-scams-this-year/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian nation sentenced to 48 months in prison for helping Kelihos Botnet to evade detection<a href="https://securityaffairs.co/wordpress/125550/cyber-crime/kelihos-botnet-man-senteced.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A phishing campaign targets clients of German banks using QR codes<a href="https://securityaffairs.co/wordpress/125540/cyber-crime/phishing-qr-codes.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 344<a href="https://securityaffairs.co/wordpress/125536/breaking-news/security-affairs-newsletter-round-344.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MANGA Found Targeting RCE Vulnerability in TP-Link Product<a href="https://cyware.com/news/manga-found-targeting-rce-vulnerability-in-tp-link-product-04e6f717"> Full Text</a>
@@ -163,7 +163,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat: A New Sophisticated Ransomware in Rust<a href="https://cyware.com/news/blackcat-a-new-sophisticated-ransomware-in-rust-4431ed31"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: These are the building blocks of QBot malware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-these-are-the-building-blocks-of-qbot-malware-attacks/"> Full Text</a>
@@ -196,7 +196,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot Botnet Eyes Hikvision Products<a href="https://cyware.com/news/moobot-botnet-eyes-hikvision-products-1d808e8d"> Full Text</a>
@@ -213,7 +213,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital SanDisk SecureAccess flaws allow brute force and dictionary attacks<a href="https://securityaffairs.co/wordpress/125530/security/western-digital-sandisk-secureaccess-flaws.html"> Full Text</a>
@@ -233,7 +233,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Karakurt’ cybercrime gang focuses on data theft and extortion<a href="https://securityaffairs.co/wordpress/125518/cyber-crime/karakurt-cybercrime-gang.html"> Full Text</a>
@@ -253,7 +253,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2021
+December 11, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybereason released Logout4Shell, a vaccine for Log4Shell Apache Log4j RCE<a href="https://securityaffairs.co/wordpress/125512/hacking/logout4shell-vaccine-log4j-flaw.html"> Full Text</a>
@@ -273,7 +273,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 10, 2021
+December 10, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Extremely Critical Log4J Vulnerability Leaves Much of the Internet at Risk<a href="https://thehackernews.com/2021/12/extremely-critical-log4j-vulnerability.html"> Full Text</a>

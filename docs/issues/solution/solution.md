@@ -8,6 +8,38 @@ nav_order: 900195
 
 ## Solution
 ---
+December 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason released Logout4Shell, a vaccine for Log4Shell Apache Log4j RCE<a href="https://securityaffairs.co/wordpress/125512/hacking/logout4shell-vaccine-log4j-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason researchers released a "vaccine" that mitigates the critical 'Log4Shell' Apache Log4j code execution vulnerability. 
+
+
+
+Chinese security researcher p0rz9 publicly disclosed a Proof-of-concept exploit for a critical remote code execution zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Extremely Critical Log4J Vulnerability Leaves Much of the Internet at Risk<a href="https://thehackernews.com/2021/12/extremely-critical-log4j-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation has released fixes to contain an&nbsp; actively &nbsp; exploited &nbsp;zero-day vulnerability affecting the widely-used Apache Log4j Java-based logging library that could be weaponized to execute malicious code and allow a complete takeover of vulnerable systems.  Tracked as&nbsp; CVE-2021-44228 &nbsp;and by the monikers Log4Shell or LogJam, the issue concerns a case of unauthenticated, remote code execution (RCE) on any application that uses the open-source utility and affects versions Log4j 2.0-beta9 up to 2.14.1. The bug has scored a perfect 10 on 10 in the CVSS rating system, indicative of the severity of the issue.  "An attacker who can control log messages or log message parameters can execute arbitrary code loaded from&nbsp; LDAP &nbsp;servers when message lookup substitution is enabled," the Apache Foundation&nbsp; said &nbsp;in an advisory. "From Log4j 2.15.0, this behavior has been disabled by default."   Exploitation can be achieved by a single string of text, which c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

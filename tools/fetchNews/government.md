@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials press for actionable recommendations from new cyber advisory committee<a href="https://thehill.com//policy/cybersecurity/585387-officials-press-for-actionable-recommendations-from-new-cyber-advisory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top officials at the Department of Homeland Security (DHS) on Friday urged a newly established advisory committee composed of experts from across sectors to propose solutions to help tackle the&nbsp;growing&nbsp;wave of cyberattacks faced by the nation.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials, experts sound the alarm about critical cyber vulnerability<a href="https://thehill.com//policy/cybersecurity/585370-officials-experts-sound-the-alarm-about-critical-cyber-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Officials and cyber experts on Friday sounded the alarm about a critical logging vulnerability that could potentially impact thousands of organizations, racing to implement patches before hackers can exploit the opening.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian ACSC warns of Conti ransomware attacks against local orgs<a href="https://securityaffairs.co/wordpress/125491/cyber-crime/australian-acsc-conti-ransomware-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) warns of Conti ransomware attacks again multiple Australian organizations.
+
+
+
+The Australian Cyber Security Centre (ACSC) warns of Conti ransomware attacks against multiple Australian organizations from various...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian govt raises alarm over Conti ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/australian-govt-raises-alarm-over-conti-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Cyber Security Centre (ACSC) says Conti ransomware attacks have targeted multiple Australian organizations from various industry verticals since November.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How CISA’s New Patching Directive Can Drive Cyber Hygiene<a href="https://www.cio.com/article/3644152/how-cisa-s-new-patching-directive-can-drive-cyber-hygiene.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US federal agencies have two weeks to close the vulnerabilities published in 2021 and six months for older Common Vulnerabilities and Exposures (CVEs) — some of which date back to 2014.
+</details>
+<div style="text-align: right" markdown="1">
+CIO
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

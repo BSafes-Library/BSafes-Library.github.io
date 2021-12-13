@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Blocks Tor Privacy Service in Latest Censorship Move<a href="https://thehackernews.com/2021/12/russia-blocks-tor-privacy-service-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia has stepped up its censorship efforts in the country by fully blocking access to the Tor web anonymity service, coinciding with the&nbsp; ban &nbsp;of six virtual private network (VPN) operators, as the government continues its efforts to control the internet and crack down on attempts to circumvent locally imposed web restrictions.  The Federal Service for Supervision of Communications, Information Technology and Mass Media, also known as Roskomnadzor, the watchdog responsible for monitoring, controlling and censoring Russian mass media, announced the block, accusing it of enabling access to illegal content, Reuters&nbsp; reported &nbsp;this week.   Russia&nbsp; accounts &nbsp;for 15% of all Tor users, with more than 310,000 daily users, second only to the U.S.  Tor, short for The Onion Router,&nbsp; enables &nbsp;users to automatically encrypt and reroute their web requests through a network of Tor relays for anonymizing network traffic, as well as help bypass censorship and protect their identities from the intern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

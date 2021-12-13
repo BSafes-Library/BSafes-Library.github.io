@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers start pushing malware in worldwide Log4Shell attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-start-pushing-malware-in-worldwide-log4shell-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors and researchers are scanning for and exploiting the Log4j Log4Shell vulnerability to deploy malware or find vulnerable servers. In this article we compiled the known payloads, scans, and attacks using the Log4j vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,39 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MANGA Found Targeting RCE Vulnerability in TP-Link Product<a href="https://cyware.com/news/manga-found-targeting-rce-vulnerability-in-tp-link-product-04e6f717"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Botnet operator MANGA was spotted abusing a recently disclosed vulnerability to hijack TP-Link routers and add them to their network of hacked devices. Attackers  started  exploiting the flaw  just two weeks after TP-Link released the firmware update. E xperts recommend always updating devices regu ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital SanDisk SecureAccess flaws allow brute force and dictionary attacks<a href="https://securityaffairs.co/wordpress/125530/security/western-digital-sandisk-secureaccess-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in the Western Digital SanDisk SecureAccess can be exploited to access user data through brute force and dictionary attacks. 
+
+
+
+Western Digital has released updates for its SanDisk SecureAccess software to fix multiple vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

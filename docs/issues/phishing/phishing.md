@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A phishing campaign targets clients of German banks using QR codes<a href="https://securityaffairs.co/wordpress/125540/cyber-crime/phishing-qr-codes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense researchers discovered a new phishing campaign using QR codes targeting German&nbsp;e-banking users in the last weeks.
+
+
+
+Threat actors continue to use multiple techniques to avoid detection and trick recipients into opening phishing messages, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

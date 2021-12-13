@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Next-Gen Maldocs &amp; How to Solve the Human Vulnerability<a href="https://threatpost.com/maldocs-malicious-office-documents-human-vulnerability/176916/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious email attachments with macros are one of the most common ways hackers get in through the door. Huntress security researcher John Hammond discusses how threat hunters can fight back.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat: A New Rust-based Ransomware Malware Spotted in the Wild<a href="https://thehackernews.com/2021/12/blackcat-new-rust-based-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about what's the first Rust-language-based ransomware strain spotted in the wild that has already amassed "some victims from different countries" since its launch last month.  The ransomware, dubbed&nbsp; BlackCat , was&nbsp; disclosed &nbsp;by MalwareHunterTeam. "Victims can pay with Bitcoin or Monero," the researchers said in a series of tweets detailing the file-encrypting malware. "Also looks they are giving credentials to intermediaries" for negotiations.  BlackCat, akin to many other variants that have sprung before it, operates as a ransomware-as-a-service (RaaS), wherein the core developers recruit affiliates to breach corporate environments and encrypt files, but not before stealing the said documents in a double extortion scheme to pressure the targets into paying the requested amount or risk exposure of the stolen data should the companies refuse to pay up.   Security researcher Michael Gillespie&nbsp; called &nbsp;it a "very sophisticated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 10th 2021 - Project CODA<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-10th-2021-project-coda/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has quite a bit of ransomware news, including arrests, a new and sophisticated ransomware, and an attack bringing down 300 supermarkets in England.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

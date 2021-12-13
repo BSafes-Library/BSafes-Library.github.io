@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Karakurt’ cybercrime gang focuses on data theft and extortion<a href="https://securityaffairs.co/wordpress/125518/cyber-crime/karakurt-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accenture researchers detailed the activity of a new sophisticated cybercrime group, called Karakurt, behind recent cyberattacks. 
+
+
+
+Accenture researchers detailed the activity of a sophisticated financially motivated threat actor called Karakurt. The activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

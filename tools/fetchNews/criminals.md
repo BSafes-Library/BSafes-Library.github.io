@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 9, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Ransomware Arrest Is a Meaningful Flex, Experts Say<a href="https://threatpost.com/canadian-ransomware-arrest/176905/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and Canada charge Ottawa man for ransomware attacks, signaling that North America is no cybercriminal haven.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

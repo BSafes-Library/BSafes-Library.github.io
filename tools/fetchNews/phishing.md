@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Appalling’ Riot Games Job Fraud Takes Aim at Wallets<a href="https://threatpost.com/riot-games-job-fraud/176950/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are using fake job listings to empty the wallets of young, hopeful victims looking to break into the gaming industry.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attacks use QR codes to steal banking credentials<a href="https://www.bleepingcomputer.com/news/security/phishing-attacks-use-qr-codes-to-steal-banking-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign that targets German e-banking users has been underway in the last couple of weeks, involving QR codes in the credential-snatching process.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

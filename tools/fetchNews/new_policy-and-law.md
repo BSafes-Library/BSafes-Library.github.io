@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian nation sentenced to 48 months in prison for helping Kelihos Botnet to evade detection<a href="https://securityaffairs.co/wordpress/125550/cyber-crime/kelihos-botnet-man-senteced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A United States court has sentenced to four years in prison for the Russian citizen Oleg Koshkin for his role in Kelihos Botnet development. 
+
+
+
+Oleg Koshkin (41) has been sentenced to 48 months in prison for one count of conspiracy to commit computer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

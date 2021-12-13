@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat: A New Sophisticated Ransomware in Rust<a href="https://cyware.com/news/blackcat-a-new-sophisticated-ransomware-in-rust-4431ed31"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearth the first professional ransomware variant written in Rust dubbed BlackCat. It can target Windows, Linux, and VMWare ESXi systems.  The threat group uses a double extortion model and looks for partners to whom it offers a huge 80%–90% ransom cut. As per claims,   the author of Bl ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

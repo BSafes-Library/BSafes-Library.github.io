@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+December 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quebec shuts down thousands of sites as disclosure of the Log4Shell flaw<a href="https://securityaffairs.co/wordpress/125556/hacking/quebec-shut-down-sites-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Quebec shut down nearly 4,000 of its sites in response to the discovery of the&nbsp;Log4Shell flaw in the Apache&nbsp;Log4j&nbsp;Java-based logging library.
+
+
+
+Quebec shut down nearly 4,000 of its sites as a preventative measure after the disclosure of a PoC exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
