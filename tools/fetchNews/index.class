@@ -34,6 +34,502 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 96.0.4664.110 for Windows, Mac, and Linux, to address a high-severity zero-day vulnerability exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Exchange AscendEX Discloses Hacking Incident Involving Illicit Transactions from Hot Wallets<a href="https://finance.yahoo.com/news/crypto-exchange-ascendex-hacked-losses-105802631.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest share of the $77 million was accounted for by the relatively minor taraxa (TARA) with $10.8 million, while the combined shares of stablecoins USDT and USDC accounted for $10.7 million.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt: A New Emerging Data Theft and Cyber Extortion Hacking Group<a href="https://thehackernews.com/2021/12/karakurt-new-emerging-data-theft-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented, financially motivated threat group has been connected to a string of data theft and extortion attacks on over 40 entities between September and November 2021.  The hacker collective, which goes by the self-proclaimed name  Karakurt  and was first identified in June 2021, is capable of modifying its tactics and techniques to adapt to the targeted environment, Accenture's Cyber Investigations, Forensics and Response (CIFR) team said in a report published on December 10.  "The threat group is financially motivated, opportunistic in nature, and so far, appears to target smaller companies or corporate subsidiaries versus the alternative big game hunting approach," the CIFR team  said . "Based on intrusion analysis to date, the threat group focuses solely on data exfiltration and subsequent extortion, rather than the more destructive ransomware deployment."   95% of the known victims are based in North America, while the remaining 5% are in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Responding to Fischerkeller on Initiative Persistence<a href="https://www.lawfareblog.com/responding-fischerkeller-initiative-persistence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. may be justified in seeking to contain China’s aggression and search for dominance in cyberspace with the 2018 USCC Command Vision. But it has yet to square this with a willingness to accept similar Chinese efforts to advance Chinese goals in cyberspace.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Practical coexistence attacks on billions of WiFi chips allow data theft and traffic manipulation<a href="https://securityaffairs.co/wordpress/125585/hacking/wifi-chip-coexistence-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins discovered bugs in WiFi chips that can be exploited to extract passwords and manipulate traffic by targeting a device's Bluetooth component. 
+
+
+
+A group of researchers from the University of Darmstadt, University of Brescia, CNIT, and the Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos Ransomware Outage Drives Widespread Payroll Chaos<a href="https://threatpost.com/kronos-ransomware-outage-payroll-chaos/176984/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kronos, the workforce-management provider, said a weeks-long outage of its cloud services is in the offing, just in time to hamstring end-of-year HR activities like bonuses and vacation tracking.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TinyNuke info-stealing malware is again attacking French users<a href="https://www.bleepingcomputer.com/news/security/tinynuke-info-stealing-malware-is-again-attacking-french-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The info-stealing malware TinyNuke has re-emerged in a new campaign targeting French users with invoice-themed lures in emails sent to corporate addresses and individuals working in manufacturing, technology, construction, and business services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romanian ransomware suspect arrested in joint Europol, FBI operation<a href="https://www.cyberscoop.com/ransomware-suspect-romanian-revil-europol-fbi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Romanian man accused of using ransomware to hack high-profile organizations and companies was arrested Monday as part of a joint operation between the Romanian National Police, the FBI, and Europol.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 3 SaaS Security Threats for 2022<a href="https://thehackernews.com/2021/12/top-3-saas-security-threats-for-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With 2021 drawing to a close and many closing their plans and budgets for 2022, the time has come to do a brief wrap-up of the SaaS Security challenges on the horizon.  Here are the top 3 SaaS security posture challenges as we see them.   1  —  The Mess of Misconfiguration Management  The good news is that more businesses than ever are using SaaS apps such as GitHub, Microsoft 365, Salesforce, Slack, SuccessFactors, Zoom, and many others, to enable employees to maintain productivity under the most challenging of circumstances. As for the bad news, many companies are having a hard time adequately addressing the ever-changing security risks of each app.   This challenge begins with a simple miscalculation—businesses are tasking security teams to ensure that the security configurations for each app are set correctly.   While that may seem like the logical choice, these apps are like snowflakes, no two are the same, including their specific settings and configurations. This is exacerbated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Log4Shell Log4j flaw to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/125577/security/log4shell-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added 13 new vulnerabilities to the Known Exploited Vulnerabilities Catalog, including Apache Log4Shell Log4j and Fortinet FortiOS issues.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 13 new vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign uses PowerPoint macros to drop Agent Tesla<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-uses-powerpoint-macros-to-drop-agent-tesla/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Agent Tesla malware has been spotted in an ongoing phishing campaign that relies on Microsoft PowerPoint documents laced with malicious macro code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TinyNuke Banking Malware Resurges with Invoice-themed Malspam Aimed at French Entities<a href="https://www.proofpoint.com/us/blog/threat-insight/tinynuke-banking-malware-targets-french-entities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaigns use invoice-themed lures to target hundreds of customers of organizations in various industries including manufacturing, technology, construction, and business services.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Details Building Blocks of Widely Active Qakbot Banking Trojan<a href="https://thehackernews.com/2021/12/microsoft-details-building-blocks-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infection chains associated with the multi-purpose Qakbot malware have been broken down into "distinct building blocks," an effort that Microsoft said will help to proactively detect and block the threat in an effective manner.  The Microsoft 365 Defender Threat Intelligence Team  dubbed   Qakbot  a "customizable chameleon that adapts to suit the needs of the multiple threat actor groups that utilize it."  Qakbot  is believed to be the creation of a financially motivated cybercriminal threat group known as  Gold Lagoon . It is a prevalent information-stealing malware that, in recent years, has become a precursor to many critical and widespread ransomware attacks, offering a malware installation-as-a-service that enables many campaigns.   First discovered in 2007, the modular malware — like  TrickBot  — has  evolved  from its early roots as a banking trojan to become a Swiss Army knife capable of data exfiltration and acting as a delivery mechanism for the second st
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell was in the wild at least nine days before public disclosure<a href="https://securityaffairs.co/wordpress/125567/hacking/log4shell-log4j-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are already abusing Log4Shell vulnerability in the Log4j library for malicious purposes such as deploying malware. 
+
+
+
+A few hours ago, researchers at NetLab 360 reported that their Anglerfish and Apacket honeypots were already hit by attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell driver fix still allows Windows Kernel-level attacks<a href="https://www.bleepingcomputer.com/news/security/dell-driver-fix-still-allows-windows-kernel-level-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell's driver fix of the CVE-2021-21551 vulnerability leaves margin for catastrophic BYOVD attacks resulting in Windows kernel driver code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hancitor maldoc drops via Windows Clipboard<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hancitor-doc-drops-via-clipboard/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hancitor, a malware loader that provides Malware-as-a-Service, has been observed distributing malware such as FickerStealer, Pony, CobaltStrike, Cuba Ransomware, and many more.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Linux botnets already exploit Log4Shell flaw in Log4j<a href="https://securityaffairs.co/wordpress/125562/malware/linux-botnets-log4shell-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immediately after the disclosure of the Log4Shell flaw in Log4j library threat actors started including the exploit code in Linux botnets. 
+
+
+
+Researchers at NetLab 360 reported that their Anglerfish and Apacket honeypots were already hit by attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos ransomware attack may cause weeks of HR solutions downtime<a href="https://www.bleepingcomputer.com/news/security/kronos-ransomware-attack-may-cause-weeks-of-hr-solutions-downtime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Workforce management solutions provider Kronos has suffered a ransomware attack that will likely disrupt many of their cloud-based solutions for weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Jails Operators of 'Cyberbunker' Darknet Hub<a href="https://www.securityweek.com/germany-jails-operators-cyberbunker-darknet-hub?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+They are said to have hosted, or provided the internet architecture for, illegal websites tha peddled stolen data and forged documents, and from which large-scale cyberattacks were carried out.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers can get root by crashing Ubuntu’s AccountsService<a href="https://www.bleepingcomputer.com/news/security/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local privilege escalation security vulnerability could allow attackers to gain root access on Ubuntu systems by exploiting a double-free memory corruption bug in GNOME's AccountsService component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How C-suite executives perceive their organizations’ readiness for ransomware attacks<a href="https://www.helpnetsecurity.com/2021/12/13/readiness-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new (ISC)² study underscores the need for better communication between security teams and executives and offers best practices security leaders should implement to improve those interactions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers can get root by crashing Ubuntu’s AccountsService<a href="https://www.bleepingcomputer.com/news/linux/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local privilege escalation security vulnerability could allow attackers to gain root access on Ubuntu systems by exploiting a double-free memory corruption bug in GNOME's AccountsService component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EV certificate usage declining: Is the internet becoming more secure?<a href="https://www.helpnetsecurity.com/2021/12/13/newer-tls-protocols/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Venafi, 72% of sites now actively redirect traffic to use HTTPS, a 15% increase since March 2020. Almost one in five of the top 1 million sites now use HSTS, a 44% rise since March 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in billions of WiFi, Bluetooth chips allow password, data theft<a href="https://www.bleepingcomputer.com/news/security/bugs-in-billions-of-wifi-bluetooth-chips-allow-password-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of Darmstadt, Brescia, CNIT, and the Secure Mobile Networking Lab, have published a paper that proves it's possible to extract passwords and manipulate traffic on a WiFi chip by targeting a device's Bluetooth component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A phishing campaign targets clients of German banks using QR codes<a href="https://securityaffairs.co/wordpress/125540/cyber-crime/phishing-qr-codes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The messages used in a campaign recently discovered by Cofense use QR codes to deceive users of two Geman banks, Sparkasse and Volksbanken Raiffeisenbanken, and steal digital banking information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests 51 for selling data of 300 million people in US, EU<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-51-for-selling-data-of-300-million-people-in-us-eu/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement arrested 51 suspects believed to have been selling stolen personal data on hacking forums belonging to hundreds of millions worldwide, including Ukraine, the US, and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Poses As Support Rep to Breach Cox Communications<a href="https://www.forbes.com/sites/leemathews/2021/12/11/hacker-poses-as-support-rep-to-breach-cox-communications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impacted data includes the Cox account number, access PIN, security questions and answers, list of active Cox services, Cox.net email address, name, address, and phone number of many customers.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrests ransomware affiliate behind high-profile attacks<a href="https://www.bleepingcomputer.com/news/security/police-arrests-ransomware-affiliate-behind-high-profile-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian law enforcement authorities arrested a ransomware affiliate suspected of hacking and stealing sensitive info from the networks of multiple high-profile companies worldwide, including a large Romanian IT company with clients from the retail, energy, and utilities sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI packages with over 10,000 downloads taken down<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-with-over-10-000-downloads-taken-down/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) registry has removed three malicious Python packages aimed at exfiltrating environment variables and dropping trojans on the infected machines. These malicious packages are estimated to have generated over 10,000 downloads and mirrors put together, according to the researchers' report.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Log4j Vulnerability — Log4Shell — Widely Under Active Attack<a href="https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively weaponizing  unpatched servers affected by the newly identified " Log4Shell " vulnerability in Log4j to install cryptocurrency miners, Cobalt Strike, and recruit the devices into a botnet, even as telemetry signs point to exploitation of the flaw nine days before it even came to light.  Netlab, the networking security division of Chinese tech giant Qihoo 360,  disclosed  threats such as  Mirai  and  Muhstik  (aka Tsunami) are setting their sights on vulnerable systems to spread the infection and grow its computing power to orchestrate distributed denial-of-service (DDoS) attacks with the goal of overwhelming a target and rendering it unusable. Muhstik was previously spotted exploiting a critical security flaw in Atlassian Confluence ( CVE-2021-26084 , CVSS score: 9.8) earlier this September.   The latest development comes as it has emerged that the vulnerability has been under attack for at least more than a week prior to its public disclosure on D
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 12, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

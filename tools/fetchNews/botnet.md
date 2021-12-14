@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 11, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot Botnet Eyes Hikvision Products<a href="https://cyware.com/news/moobot-botnet-eyes-hikvision-products-1d808e8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moobot, a Mirai-based botnet, is reportedly abusing a critical flaw in the webserver of many Hikvision products, which were sanctioned by the U.S. in the wake of human rights abuse. The botnet is abusing a critical command injection flaw to target unpatched devices and extract sensitive data from v ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

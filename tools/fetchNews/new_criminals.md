@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Romanian ransomware suspect arrested in joint Europol, FBI operation<a href="https://www.cyberscoop.com/ransomware-suspect-romanian-revil-europol-fbi/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Romanian man accused of using ransomware to hack high-profile organizations and companies was arrested Monday as part of a joint operation between the Romanian National Police, the FBI, and Europol.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests 51 for selling data of 300 million people in US, EU<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-51-for-selling-data-of-300-million-people-in-us-eu/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement arrested 51 suspects believed to have been selling stolen personal data on hacking forums belonging to hundreds of millions worldwide, including Ukraine, the US, and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrests ransomware affiliate behind high-profile attacks<a href="https://www.bleepingcomputer.com/news/security/police-arrests-ransomware-affiliate-behind-high-profile-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian law enforcement authorities&nbsp;arrested a ransomware affiliate suspected of hacking and stealing sensitive info from the networks of multiple high-profile companies worldwide, including a large Romanian IT company with clients from the retail, energy, and utilities sectors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

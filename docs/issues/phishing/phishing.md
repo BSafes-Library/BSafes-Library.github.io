@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign uses PowerPoint macros to drop Agent Tesla<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-uses-powerpoint-macros-to-drop-agent-tesla/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Agent Tesla malware has been spotted in an ongoing phishing campaign that relies on Microsoft PowerPoint documents laced with malicious macro code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

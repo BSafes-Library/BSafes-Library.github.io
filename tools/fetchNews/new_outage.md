@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos Ransomware Outage Drives Widespread Payroll Chaos<a href="https://threatpost.com/kronos-ransomware-outage-payroll-chaos/176984/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kronos, the workforce-management provider, said a weeks-long outage of its cloud services is in the offing, just in time to hamstring end-of-year HR activities like bonuses and vacation tracking.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,144 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 96.0.4664.110&nbsp;for Windows, Mac, and Linux, to address a&nbsp;high-severity zero-day vulnerability&nbsp;exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Practical coexistence attacks on billions of WiFi chips allow data theft and traffic manipulation<a href="https://securityaffairs.co/wordpress/125585/hacking/wifi-chip-coexistence-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boffins discovered bugs in WiFi chips that can be exploited to extract passwords and manipulate traffic by targeting a device's Bluetooth component. 
+
+
+
+A group of researchers from the University of Darmstadt, University of Brescia, CNIT, and the Secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Log4Shell Log4j flaw to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/125577/security/log4shell-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA added 13 new vulnerabilities to&nbsp;the Known Exploited Vulnerabilities Catalog, including Apache Log4Shell Log4j and Fortinet FortiOS issues.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 13 new vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4Shell was in the wild at least nine days before public disclosure<a href="https://securityaffairs.co/wordpress/125567/hacking/log4shell-log4j-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are already abusing Log4Shell vulnerability in the Log4j library for malicious purposes such as deploying malware. 
+
+
+
+A few hours ago, researchers at NetLab 360 reported that their Anglerfish and Apacket honeypots were already hit by attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell driver fix still allows Windows Kernel-level attacks<a href="https://www.bleepingcomputer.com/news/security/dell-driver-fix-still-allows-windows-kernel-level-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dell's driver fix of the CVE-2021-21551 vulnerability leaves margin for catastrophic BYOVD attacks resulting in Windows kernel driver code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers can get root by crashing Ubuntu’s AccountsService<a href="https://www.bleepingcomputer.com/news/security/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local privilege escalation security vulnerability could allow attackers to gain root access on Ubuntu systems by exploiting a double-free memory corruption bug in GNOME's AccountsService component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers can get root by crashing Ubuntu’s AccountsService<a href="https://www.bleepingcomputer.com/news/linux/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A local privilege escalation security vulnerability could allow attackers to gain root access on Ubuntu systems by exploiting a double-free memory corruption bug in GNOME's AccountsService component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in billions of WiFi, Bluetooth chips allow password, data theft<a href="https://www.bleepingcomputer.com/news/security/bugs-in-billions-of-wifi-bluetooth-chips-allow-password-data-theft/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of Darmstadt, Brescia, CNIT, and the Secure Mobile Networking Lab, have published a paper that proves it's possible to extract passwords and manipulate traffic on a WiFi chip by targeting a device's Bluetooth component.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Log4j Vulnerability — Log4Shell — Widely Under Active Attack<a href="https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively weaponizing  unpatched servers affected by the newly identified " Log4Shell " vulnerability in Log4j to install cryptocurrency miners, Cobalt Strike, and recruit the devices into a botnet, even as telemetry signs point to exploitation of the flaw nine days before it even came to light.  Netlab, the networking security division of Chinese tech giant Qihoo 360,&nbsp; disclosed &nbsp;threats such as&nbsp; Mirai &nbsp;and&nbsp; Muhstik &nbsp;(aka Tsunami) are setting their sights on vulnerable systems to spread the infection and grow its computing power to orchestrate distributed denial-of-service (DDoS) attacks with the goal of overwhelming a target and rendering it unusable. Muhstik was previously spotted exploiting a critical security flaw in Atlassian Confluence ( CVE-2021-26084 , CVSS score: 9.8) earlier this September.   The latest development comes as it has emerged that the vulnerability has been under attack for at least more than a week prior to its public disclosure on D
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

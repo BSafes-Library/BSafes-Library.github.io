@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google pushes emergency Chrome update to fix zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-zero-day-used-in-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency Exchange AscendEX Discloses Hacking Incident Involving Illicit Transactions from Hot Wallets<a href="https://finance.yahoo.com/news/crypto-exchange-ascendex-hacked-losses-105802631.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Karakurt: A New Emerging Data Theft and Cyber Extortion Hacking Group<a href="https://thehackernews.com/2021/12/karakurt-new-emerging-data-theft-and.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Responding to Fischerkeller on Initiative Persistence<a href="https://www.lawfareblog.com/responding-fischerkeller-initiative-persistence"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Practical coexistence attacks on billions of WiFi chips allow data theft and traffic manipulation<a href="https://securityaffairs.co/wordpress/125585/hacking/wifi-chip-coexistence-attacks.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kronos Ransomware Outage Drives Widespread Payroll Chaos<a href="https://threatpost.com/kronos-ransomware-outage-payroll-chaos/176984/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TinyNuke info-stealing malware is again attacking French users<a href="https://www.bleepingcomputer.com/news/security/tinynuke-info-stealing-malware-is-again-attacking-french-users/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Romanian ransomware suspect arrested in joint Europol, FBI operation<a href="https://www.cyberscoop.com/ransomware-suspect-romanian-revil-europol-fbi/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 3 SaaS Security Threats for 2022<a href="https://thehackernews.com/2021/12/top-3-saas-security-threats-for-2022.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Log4Shell Log4j flaw to the Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/125577/security/log4shell-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign uses PowerPoint macros to drop Agent Tesla<a href="https://www.bleepingcomputer.com/news/security/phishing-campaign-uses-powerpoint-macros-to-drop-agent-tesla/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TinyNuke Banking Malware Resurges with Invoice-themed Malspam Aimed at French Entities<a href="https://www.proofpoint.com/us/blog/threat-insight/tinynuke-banking-malware-targets-french-entities?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Details Building Blocks of Widely Active Qakbot Banking Trojan<a href="https://thehackernews.com/2021/12/microsoft-details-building-blocks-of.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4Shell was in the wild at least nine days before public disclosure<a href="https://securityaffairs.co/wordpress/125567/hacking/log4shell-log4j-exploitation.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell driver fix still allows Windows Kernel-level attacks<a href="https://www.bleepingcomputer.com/news/security/dell-driver-fix-still-allows-windows-kernel-level-attacks/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hancitor maldoc drops via Windows Clipboard<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hancitor-doc-drops-via-clipboard/?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ McAfee
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Linux botnets already exploit Log4Shell flaw in Log4j<a href="https://securityaffairs.co/wordpress/125562/malware/linux-botnets-log4shell-flaw.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kronos ransomware attack may cause weeks of HR solutions downtime<a href="https://www.bleepingcomputer.com/news/security/kronos-ransomware-attack-may-cause-weeks-of-hr-solutions-downtime/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany Jails Operators of 'Cyberbunker' Darknet Hub<a href="https://www.securityweek.com/germany-jails-operators-cyberbunker-darknet-hub?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers can get root by crashing Ubuntu’s AccountsService<a href="https://www.bleepingcomputer.com/news/security/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How C-suite executives perceive their organizations’ readiness for ransomware attacks<a href="https://www.helpnetsecurity.com/2021/12/13/readiness-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers can get root by crashing Ubuntu’s AccountsService<a href="https://www.bleepingcomputer.com/news/linux/attackers-can-get-root-by-crashing-ubuntu-s-accountsservice/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EV certificate usage declining: Is the internet becoming more secure?<a href="https://www.helpnetsecurity.com/2021/12/13/newer-tls-protocols/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in billions of WiFi, Bluetooth chips allow password, data theft<a href="https://www.bleepingcomputer.com/news/security/bugs-in-billions-of-wifi-bluetooth-chips-allow-password-data-theft/"> Full Text</a>
@@ -434,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A phishing campaign targets clients of German banks using QR codes<a href="https://securityaffairs.co/wordpress/125540/cyber-crime/phishing-qr-codes.html?&web_view=true"> Full Text</a>
@@ -450,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine arrests 51 for selling data of 300 million people in US, EU<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-51-for-selling-data-of-300-million-people-in-us-eu/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Poses As Support Rep to Breach Cox Communications<a href="https://www.forbes.com/sites/leemathews/2021/12/11/hacker-poses-as-support-rep-to-breach-cox-communications/?&web_view=true"> Full Text</a>
@@ -482,7 +482,7 @@ Forbes
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police arrests ransomware affiliate behind high-profile attacks<a href="https://www.bleepingcomputer.com/news/security/police-arrests-ransomware-affiliate-behind-high-profile-attacks/"> Full Text</a>
@@ -498,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI packages with over 10,000 downloads taken down<a href="https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-with-over-10-000-downloads-taken-down/"> Full Text</a>
@@ -514,7 +514,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2021
+December 12, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Log4j Vulnerability — Log4Shell — Widely Under Active Attack<a href="https://thehackernews.com/2021/12/apache-log4j-vulnerability-log4shell.html"> Full Text</a>

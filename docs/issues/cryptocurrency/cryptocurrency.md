@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Exchange AscendEX Discloses Hacking Incident Involving Illicit Transactions from Hot Wallets<a href="https://finance.yahoo.com/news/crypto-exchange-ascendex-hacked-losses-105802631.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The largest share of the $77 million was accounted for by the relatively minor taraxa (TARA) with $10.8 million, while the combined shares of stablecoins USDT and USDC accounted for $10.7 million.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
