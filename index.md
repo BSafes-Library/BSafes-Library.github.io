@@ -34,6 +34,618 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom operators targeted in recent espionage hacking campaign<a href="https://www.bleepingcomputer.com/news/security/telecom-operators-targeted-in-recent-espionage-hacking-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted a new espionage campaign targeting telecommunication and IT service providers in the Middle East and Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans Lost Almost $150 Million to Gift Card Scams: FTC<a href="https://cyware.com/news/americans-lost-almost-150-million-to-gift-card-scams-ftc-ace7c85e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 40,000 consumers reported falling victim to scams that involved gift cards as a payment method. This year, Target gift cards remained the top choice among cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces bug bounty program to hunt down cyber vulnerabilities<a href="https://thehill.com//policy/cybersecurity/585752-dhs-announces-bug-bounty-program-to-hunt-down-cyber-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) on Tuesday announced a new bug bounty program meant to help tackle cyber vulnerabilities in the agency. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Log4j Vulnerability to Infect Computers with Khonsari Ransomware<a href="https://thehackernews.com/2021/12/hackers-exploit-log4j-vulnerability-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian cybersecurity technology company Bitdefender on Monday revealed that attempts are being made to target Windows machines with a novel ransomware family called  Khonsari  as well as a remote access Trojan named  Orcus  by exploiting the recently disclosed critical Log4j vulnerability .  The attack leverages the remote code execution flaw to download an additional payload, a .NET binary, from a remote server that encrypts all the files with the extension ".khonsari" and displays a ransom note that urges the victims to make a Bitcoin payment in exchange for recovering access to the files.  The vulnerability is tracked as  CVE-2021-44228  and is also known by the monikers "Log4Shell" or "Logjam." In simple terms, the bug could force an affected system to download malicious software, giving the attackers a digital beachhead on servers located within corporate networks.   Log4j is an open-source Java library maintained by the nonprofit Apache Software F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses over 60 vulnerabilities in multiple products<a href="https://securityaffairs.co/wordpress/125640/security/adobe-60-vulnerabilities-multiple-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe warns of threat actors that could exploit critical vulnerabilities in multiple products running on Windows and macOS systems. 
+
+
+
+Adobe has issued critical warnings for more than 60 vulnerabilities in multiple products running on Windows and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+400 Banks’ Customers Targeted with Anubis Trojan<a href="https://threatpost.com/400-banks-targeted-anubis-trojan/177038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new campaign masqueraded as an Orange Telecom account management app to deliver the latest iteration of Anubis banking malware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware now being deployed in Log4Shell attacks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-now-being-deployed-in-log4shell-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first public case of the Log4j Log4Shell vulnerability used to download and install ransomware has been discovered by researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second Cyberattack Within a Week Disrupts COVID-19 Vaccine Certification in Brazil<a href="https://www.zdnet.com/article/brazilian-ministry-of-health-hit-by-second-cyberattack-in-less-than-a-week/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Ministry of Health has suffered a second cyberattack in less than a week, which has compromised various internal systems, including the platform that holds COVID-19 vaccination data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USPS secretly tested mobile voting system: report<a href="https://thehill.com//policy/cybersecurity/585723-usps-secretly-tested-mobile-voting-system-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Postal Service worked on a secret project to test a blockchain-based mobile phone voting system ahead of the 2020 elections before ultimately abandoning the project, according to The Washington Post.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Extended Security Posture Management Optimizes Your Security Stack<a href="https://thehackernews.com/2021/12/how-extended-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a CISO, one of the most challenging questions to answer is "How well are we protected right now?" Between the acceleration of hackers' offensive capabilities and the dynamic nature of information networks, a drift in the security posture is unavoidable and needs to be continuously compensated. Therefore, answering that question implies continuously validating the security posture and being in a position to check it including, against the latest emerging threats.  Yet, the bulk of cybersecurity is focused on defensive tools. The combination of the rapid evolution of technology and the multiplication of technology layers, combined with the professionalization of the threat landscape, has led to a profusion of cybersecurity tools tackling different security aspects.  Checking the cybersecurity solution stack efficiency is typically done through pen-testing or, more recently, through red teaming – an exercise aimed to map possible loopholes that would lead to a data breac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Log4Shell to drop Khonsari Ransomware on Windows systems<a href="https://securityaffairs.co/wordpress/125630/malware/khonsari-ransomware-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers discovered that threat actors are attempting to exploit the Log4Shell flaw to deliver the new Khonsari ransomware on Windows machines.
+
+
+
+Bitdefender researchers discovered that threat actors are attempting to exploit the Log4Shell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Seedworm’ Attackers Target Telcos in Asia, Middle East<a href="https://threatpost.com/seedworm-attackers-telcos-asia-middle-east/176992/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The focused attacks aimed at cyberespionage and lateral movement appear to hint at further ambitions by the group, including supply-chain threats.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces 'Hack DHS' bug bounty program for vetted researchers<a href="https://www.bleepingcomputer.com/news/security/dhs-announces-hack-dhs-bug-bounty-program-for-vetted-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) has launched a new bug bounty program dubbed "Hack DHS" that allows vetted cybersecurity researchers to find and report security vulnerabilities in external DHS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells federal agencies to patch Log4Shell before Christmas<a href="https://therecord.media/cisa-tells-federal-agencies-to-patch-log4shell-before-christmas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies have ten days to test which of their internal apps and servers utilize the Log4j Java library, check if systems are vulnerable to the Log4Shell exploit, and patch affected servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human resource management group hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/585715-human-resource-management-group-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ultimate Kronos Group (UKG), a human resources management provider, was hit by a ransomware attack earlier this week, the company confirmed. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA orders federal agencies to fix Log4Shell by December 24th<a href="https://securityaffairs.co/wordpress/125623/security/cisa-log4shell-actions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA ordered federal agencies to address the critical Log4Shell vulnerability in the Log4j library by December 24th, 2021. 
+
+
+
+US CISA ordered federal agencies to address the critical Log4Shell vulnerability in the Log4j library by December 24th,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows AppX Installer zero-day used by Emotet<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-appx-installer-zero-day-used-by-emotet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a high severity Windows zero-day vulnerability exploited in the wild to deliver Emotet malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forget the dark web: ransomware gangs weaponize social media to pressure victims<a href="https://blog.emsisoft.com/en/39389/forget-the-dark-web-ransomware-gangs-weaponize-social-media-to-pressure-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an effort to amplify coverage, some ransomware groups are using social media channels to bring news of their conquests to a wider audience and put more pressure on victims to pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Emsisoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia General Assembly's IT unit hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/585705-virginia-general-assemblys-it-unit-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information technology unit for Virginia’s General Assembly has been hit by a ransomware attack, which barred legislators and staff from accessing the system that handles bills.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the 17th zero-day in Chrome since the start of the year<a href="https://securityaffairs.co/wordpress/125615/security/google-zero-day-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 96.0.4664.110 to address a high-severity zero-day vulnerability, tracked as CVE-2021-4102, exploited in the wild.
+
+
+
+Google released security updates to address five vulnerabilities in the Chrome web browser, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft December 2021 Patch Tuesday fixes 6 zero-days, 67 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2021-patch-tuesday-fixes-6-zero-days-67-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's December 2021 Patch Tuesday, and with it comes fixes for six zero-day vulnerabilities and a total of 67 flaws. These updates include a fix for an actively exploited Windows Installer vulnerability used in malware distribution campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owowa: the add-on that turns your OWA into a credential stealer and remote access panel<a href="https://securelist.com/owowa-credential-stealer-and-remote-access/105219/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Owowa is a C#-based .NET v4.0 assembly that is intended to be loaded as a module within an IIS web server that also exposes Exchange’s Outlook Web Access (OWA) to credential theft and remote access.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber experts express growing alarm over Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/585643-cyber-experts-express-growing-alarm-over-apache-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in a widely used logging platform uncovered late last week has left security professionals and officials scrambling to respond and patch systems before other nations and cybercriminals can exploit the flaw.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TinyNuke banking malware targets French organizations<a href="https://securityaffairs.co/wordpress/125604/malware/tinynuke-malware-re-emerged.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TinyNuke malware is back and now was used in attacks aimed at French users working in manufacturing, technology, construction, and business services.
+
+
+
+Proofpoint researchers uncovered a campaign exclusively targeting French entities and organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft rolls out end-to-end encryption for Teams calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-end-to-end-encryption-for-teams-calls/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today the general availability of end-to-end encryption (E2EE) support for one-to-one Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Ireland’s Public Healthcare Ransomware Scare – Krebs on Security<a href="https://krebsonsecurity.com/2021/12/inside-irelands-public-healthcare-ransomware-scare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The consulting firm PricewaterhouseCoopers recently published lessons learned from the disruptive and costly ransomware attack in May 2021 on Ireland’s public health system.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal Microsoft Exchange credentials using IIS module<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-exchange-credentials-using-iis-module/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are installing a malicious IIS web server module named 'Owowa' on Microsoft Exchange Outlook Web Access servers to steal credentials and execute commands on the server remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Vulnerability in Hillrom Cardiology Devices Could Allow Attackers to Seize Control<a href="https://portswigger.net/daily-swig/zero-day-vulnerability-in-hillrom-cardiology-devices-could-allow-attackers-full-control?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability in several cardiac healthcare devices could allow attackers to access privileged accounts without a password and seize control of the devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anubis Android malware returns to target 394 financial apps<a href="https://www.bleepingcomputer.com/news/security/anubis-android-malware-returns-to-target-394-financial-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anubis Android banking malware is now targeting the customers of nearly 400 financial institutions in a new malware campaign.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on BHG opioid treatment network disrupts patient care<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-bhg-opioid-treatment-network-disrupts-patient-care/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opioid treatment network Behavioral Health Group suffered a cyberattack that led to an almost week-long disruption of IT systems and patient care.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch Log4Shell by December 24th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-log4shell-by-december-24th/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch systems against the critical Log4Shell remote code execution vulnerability and released mitigation guidance in response to active exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j: List of vulnerable products and vendor advisories<a href="https://www.bleepingcomputer.com/news/security/log4j-list-of-vulnerable-products-and-vendor-advisories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News about a critical vulnerability in the Apache Log4j logging library broke last week when proof-of-concept exploits started to emerge on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Affiliate Arrested in Romania; 51 Stolen Data Brokers Arrested in Ukraine<a href="https://thehackernews.com/2021/12/ransomware-affiliate-arrested-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol, the European Union's premier law enforcement agency, has  announced  the arrest of a third Romanian national for his role as a ransomware affiliate suspected of hacking high-profile organizations and companies and stealing large volumes of sensitive data.  The 41-year-old unnamed individual was apprehended Monday morning at his home in Craiova, Romania, by the Romanian Directorate for Investigating Organized Crime and Terrorism ( DIICOT ) following a joint investigation in collaboration with the U.S. Federal Bureau of Investigation (FBI).  It's not currently known which ransomware gang the suspect was working with, but the development comes a little over a month after Romanian authorities  arrested two affiliates  of the REvil ransomware family, who are believed to have orchestrated no fewer than 5,000 ransomware attacks and extorted close to $600,000 from victims.   Affiliates play a key role in ransomware-as-a-service (RaaS) subscription-based business models, and a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where the Latest Log4Shell Attacks Are Coming From<a href="https://threatpost.com/log4shell-attacks-origin-botnet/176977/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts find at least 10 Linux botnets actively exploiting Log4Shell flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Apple iOS Update Patches Remote Jailbreak Exploit for iPhones<a href="https://thehackernews.com/2021/12/latest-apple-ios-update-patches-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released updates to  iOS ,  macOS ,  tvOS , and  watchOS  with security patches for multiple vulnerabilities, including a remote jailbreak exploit chain as well as a number of critical issues in the Kernel and Safari web browser that were first demonstrated at the Tianfu Cup held in China two months ago.  Tracked as CVE-2021-30955, the issue could have enabled a malicious application to execute arbitrary code with kernel privileges. Apple said it addressed the issue with "improved state handling." The flaw also impacts macOS devices.  "The kernel bug CVE-2021-30955 is the one we tried [to] use to build our remote jailbreak chain but failed to complete on time," Kunlun Lab's chief executive, @mj0011sec,  said  in a tweet. A set of kernel vulnerabilities were eventually harnessed by the Pangu Team at the  Tianfu hacking contest  to break into an iPhone13 Pro running iOS 15, a feat that netted the white hat hackers $330,000 in cash rewards.   Besid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Code Packages Rack Up Thousands of Downloads<a href="https://threatpost.com/malicious-pypi-code-packages/176971/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python code repository was infiltrated by malware bent on data exfiltration from developer apps and more.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome to Patch New Zero-Day Exploit Detected in the Wild<a href="https://thehackernews.com/2021/12/update-google-chrome-to-patch-new-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out fixes for five security vulnerabilities in its Chrome web browser, including one which it says is being exploited in the wild, making it the  17th such weakness  to be disclosed since the start of the year.  Tracked as  CVE-2021-4102 , the flaw relates to a  use-after-free bug  in the V8 JavaScript and WebAssembly engine, which could have severe consequences ranging from corruption of valid data to the execution of arbitrary code. An anonymous researcher has been credited with discovering and reporting the flaw.  As it stands, it's not known how the weakness is being abused in real-world attacks, but the internet giant issued a terse statement that said, "it's aware of reports that an exploit for CVE-2021-4102 exists in the wild." This is done so in an attempt to ensure that a majority of users are updated with a fix and prevent further exploitation by other threat actors.   CVE-2021-4102 is the second use-after-free vulnerability in V8 the comp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
