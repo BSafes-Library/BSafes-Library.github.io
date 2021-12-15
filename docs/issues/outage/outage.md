@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second Cyberattack Within a Week Disrupts COVID-19 Vaccine Certification in Brazil<a href="https://www.zdnet.com/article/brazilian-ministry-of-health-hit-by-second-cyberattack-in-less-than-a-week/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazil's Ministry of Health has suffered a second cyberattack in less than a week, which has compromised various internal systems, including the platform that holds COVID-19 vaccination data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on BHG opioid treatment network disrupts patient care<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-bhg-opioid-treatment-network-disrupts-patient-care/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Opioid treatment network Behavioral Health Group suffered a cyberattack that led to an almost week-long disruption of IT systems and patient care.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

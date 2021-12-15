@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kronos ransomware attack may cause weeks of HR solutions downtime<a href="https://www.bleepingcomputer.com/news/security/kronos-ransomware-attack-may-cause-weeks-of-hr-solutions-downtime/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Workforce management solutions provider Kronos has suffered a ransomware attack that will likely disrupt many of their cloud-based solutions for weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

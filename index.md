@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telecom operators targeted in recent espionage hacking campaign<a href="https://www.bleepingcomputer.com/news/security/telecom-operators-targeted-in-recent-espionage-hacking-campaign/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Americans Lost Almost $150 Million to Gift Card Scams: FTC<a href="https://cyware.com/news/americans-lost-almost-150-million-to-gift-card-scams-ftc-ace7c85e"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS announces bug bounty program to hunt down cyber vulnerabilities<a href="https://thehill.com//policy/cybersecurity/585752-dhs-announces-bug-bounty-program-to-hunt-down-cyber-vulnerabilities"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Log4j Vulnerability to Infect Computers with Khonsari Ransomware<a href="https://thehackernews.com/2021/12/hackers-exploit-log4j-vulnerability-to.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addresses over 60 vulnerabilities in multiple products<a href="https://securityaffairs.co/wordpress/125640/security/adobe-60-vulnerabilities-multiple-products.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 400 Banks’ Customers Targeted with Anubis Trojan<a href="https://threatpost.com/400-banks-targeted-anubis-trojan/177038/"> Full Text</a>
@@ -134,7 +134,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ransomware now being deployed in Log4Shell attacks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-now-being-deployed-in-log4shell-attacks/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Second Cyberattack Within a Week Disrupts COVID-19 Vaccine Certification in Brazil<a href="https://www.zdnet.com/article/brazilian-ministry-of-health-hit-by-second-cyberattack-in-less-than-a-week/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USPS secretly tested mobile voting system: report<a href="https://thehill.com//policy/cybersecurity/585723-usps-secretly-tested-mobile-voting-system-report"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Extended Security Posture Management Optimizes Your Security Stack<a href="https://thehackernews.com/2021/12/how-extended-security-posture.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit Log4Shell to drop Khonsari Ransomware on Windows systems<a href="https://securityaffairs.co/wordpress/125630/malware/khonsari-ransomware-log4shell.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Seedworm’ Attackers Target Telcos in Asia, Middle East<a href="https://threatpost.com/seedworm-attackers-telcos-asia-middle-east/176992/"> Full Text</a>
@@ -234,7 +234,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS announces 'Hack DHS' bug bounty program for vetted researchers<a href="https://www.bleepingcomputer.com/news/security/dhs-announces-hack-dhs-bug-bounty-program-for-vetted-researchers/"> Full Text</a>
@@ -250,7 +250,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA tells federal agencies to patch Log4Shell before Christmas<a href="https://therecord.media/cisa-tells-federal-agencies-to-patch-log4shell-before-christmas/?&web_view=true"> Full Text</a>
@@ -266,7 +266,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Human resource management group hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/585715-human-resource-management-group-hit-by-ransomware-attack"> Full Text</a>
@@ -282,7 +282,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA orders federal agencies to fix Log4Shell by December 24th<a href="https://securityaffairs.co/wordpress/125623/security/cisa-log4shell-actions.html"> Full Text</a>
@@ -302,7 +302,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows AppX Installer zero-day used by Emotet<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-appx-installer-zero-day-used-by-emotet/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forget the dark web: ransomware gangs weaponize social media to pressure victims<a href="https://blog.emsisoft.com/en/39389/forget-the-dark-web-ransomware-gangs-weaponize-social-media-to-pressure-victims/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Emsisoft
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virginia General Assembly's IT unit hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/585705-virginia-general-assemblys-it-unit-hit-by-ransomware-attack"> Full Text</a>
@@ -350,7 +350,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed the 17th zero-day in Chrome since the start of the year<a href="https://securityaffairs.co/wordpress/125615/security/google-zero-day-chrome.html"> Full Text</a>
@@ -370,7 +370,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft December 2021 Patch Tuesday fixes 6 zero-days, 67 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2021-patch-tuesday-fixes-6-zero-days-67-flaws/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Owowa: the add-on that turns your OWA into a credential stealer and remote access panel<a href="https://securelist.com/owowa-credential-stealer-and-remote-access/105219/?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ Kaspersky Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber experts express growing alarm over Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/585643-cyber-experts-express-growing-alarm-over-apache-vulnerability"> Full Text</a>
@@ -418,7 +418,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TinyNuke banking malware targets French organizations<a href="https://securityaffairs.co/wordpress/125604/malware/tinynuke-malware-re-emerged.html"> Full Text</a>
@@ -438,7 +438,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft rolls out end-to-end encryption for Teams calls<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-end-to-end-encryption-for-teams-calls/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Ireland’s Public Healthcare Ransomware Scare – Krebs on Security<a href="https://krebsonsecurity.com/2021/12/inside-irelands-public-healthcare-ransomware-scare/?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal Microsoft Exchange credentials using IIS module<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-exchange-credentials-using-iis-module/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Vulnerability in Hillrom Cardiology Devices Could Allow Attackers to Seize Control<a href="https://portswigger.net/daily-swig/zero-day-vulnerability-in-hillrom-cardiology-devices-could-allow-attackers-full-control?&web_view=true"> Full Text</a>
@@ -502,7 +502,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anubis Android malware returns to target 394 financial apps<a href="https://www.bleepingcomputer.com/news/security/anubis-android-malware-returns-to-target-394-financial-apps/"> Full Text</a>
@@ -518,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on BHG opioid treatment network disrupts patient care<a href="https://www.bleepingcomputer.com/news/security/cyberattack-on-bhg-opioid-treatment-network-disrupts-patient-care/"> Full Text</a>
@@ -534,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders federal agencies to patch Log4Shell by December 24th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-log4shell-by-december-24th/"> Full Text</a>
@@ -550,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j: List of vulnerable products and vendor advisories<a href="https://www.bleepingcomputer.com/news/security/log4j-list-of-vulnerable-products-and-vendor-advisories/"> Full Text</a>
@@ -566,7 +566,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Affiliate Arrested in Romania; 51 Stolen Data Brokers Arrested in Ukraine<a href="https://thehackernews.com/2021/12/ransomware-affiliate-arrested-in.html"> Full Text</a>
@@ -582,7 +582,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Where the Latest Log4Shell Attacks Are Coming From<a href="https://threatpost.com/log4shell-attacks-origin-botnet/176977/"> Full Text</a>
@@ -598,7 +598,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Apple iOS Update Patches Remote Jailbreak Exploit for iPhones<a href="https://thehackernews.com/2021/12/latest-apple-ios-update-patches-remote.html"> Full Text</a>
@@ -614,7 +614,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Code Packages Rack Up Thousands of Downloads<a href="https://threatpost.com/malicious-pypi-code-packages/176971/"> Full Text</a>
@@ -630,7 +630,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2021
+December 13, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Google Chrome to Patch New Zero-Day Exploit Detected in the Wild<a href="https://thehackernews.com/2021/12/update-google-chrome-to-patch-new-zero.html"> Full Text</a>

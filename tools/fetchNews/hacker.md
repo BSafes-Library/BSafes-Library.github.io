@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Karakurt: A New Emerging Data Theft and Cyber Extortion Hacking Group<a href="https://thehackernews.com/2021/12/karakurt-new-emerging-data-theft-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented, financially motivated threat group has been connected to a string of data theft and extortion attacks on over 40 entities between September and November 2021.  The hacker collective, which goes by the self-proclaimed name&nbsp; Karakurt &nbsp;and was first identified in June 2021, is capable of modifying its tactics and techniques to adapt to the targeted environment, Accenture's Cyber Investigations, Forensics and Response (CIFR) team said in a report published on December 10.  "The threat group is financially motivated, opportunistic in nature, and so far, appears to target smaller companies or corporate subsidiaries versus the alternative big game hunting approach," the CIFR team&nbsp; said . "Based on intrusion analysis to date, the threat group focuses solely on data exfiltration and subsequent extortion, rather than the more destructive ransomware deployment."   95% of the known victims are based in North America, while the remaining 5% are in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Poses As Support Rep to Breach Cox Communications<a href="https://www.forbes.com/sites/leemathews/2021/12/11/hacker-poses-as-support-rep-to-breach-cox-communications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The impacted data includes the Cox account number, access PIN, security questions and answers, list of active Cox services, Cox.net email address, name, address, and phone number of many customers.
+</details>
+<div style="text-align: right" markdown="1">
+Forbes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

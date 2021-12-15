@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Responding to Fischerkeller on Initiative Persistence<a href="https://www.lawfareblog.com/responding-fischerkeller-initiative-persistence"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. may be justified in seeking to contain China’s aggression and search for dominance in cyberspace with the 2018 USCC Command Vision. But it has yet to square this with a willingness to accept similar Chinese efforts to advance Chinese goals in cyberspace.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

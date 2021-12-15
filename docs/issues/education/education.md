@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Extended Security Posture Management Optimizes Your Security Stack<a href="https://thehackernews.com/2021/12/how-extended-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a CISO, one of the most challenging questions to answer is "How well are we protected right now?" Between the acceleration of hackers' offensive capabilities and the dynamic nature of information networks, a drift in the security posture is unavoidable and needs to be continuously compensated. Therefore, answering that question implies continuously validating the security posture and being in a position to check it including, against the latest emerging threats.  Yet, the bulk of cybersecurity is focused on defensive tools. The combination of the rapid evolution of technology and the multiplication of technology layers, combined with the professionalization of the threat landscape, has led to a profusion of cybersecurity tools tackling different security aspects.  Checking the cybersecurity solution stack efficiency is typically done through pen-testing or, more recently, through red teaming – an exercise aimed to map possible loopholes that would lead to a data breac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

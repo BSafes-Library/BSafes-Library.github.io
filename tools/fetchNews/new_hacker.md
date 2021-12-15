@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Log4j Vulnerability to Infect Computers with Khonsari Ransomware<a href="https://thehackernews.com/2021/12/hackers-exploit-log4j-vulnerability-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian cybersecurity technology company Bitdefender on Monday revealed that attempts are being made to target Windows machines with a novel ransomware family called&nbsp; Khonsari &nbsp;as well as a remote access Trojan named&nbsp; Orcus &nbsp;by exploiting the recently disclosed critical Log4j vulnerability .  The attack leverages the remote code execution flaw to download an additional payload, a .NET binary, from a remote server that encrypts all the files with the extension ".khonsari" and displays a ransom note that urges the victims to make a Bitcoin payment in exchange for recovering access to the files.  The vulnerability is tracked as&nbsp; CVE-2021-44228 &nbsp;and is also known by the monikers "Log4Shell" or "Logjam." In simple terms, the bug could force an affected system to download malicious software, giving the attackers a digital beachhead on servers located within corporate networks.   Log4j is an open-source Java library maintained by the nonprofit Apache Software F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Seedworm’ Attackers Target Telcos in Asia, Middle East<a href="https://threatpost.com/seedworm-attackers-telcos-asia-middle-east/176992/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The focused attacks aimed at cyberespionage and lateral movement appear to hint at further ambitions by the group, including supply-chain threats.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal Microsoft Exchange credentials using IIS module<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-exchange-credentials-using-iis-module/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are installing&nbsp;a&nbsp;malicious IIS web server module named 'Owowa' on&nbsp;Microsoft Exchange Outlook Web Access servers to steal credentials and execute commands on the server remotely.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

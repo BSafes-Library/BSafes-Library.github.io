@@ -8,6 +8,154 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces bug bounty program to hunt down cyber vulnerabilities<a href="https://thehill.com//policy/cybersecurity/585752-dhs-announces-bug-bounty-program-to-hunt-down-cyber-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) on Tuesday announced a new bug bounty program&nbsp;meant to help tackle cyber vulnerabilities in the agency.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addresses over 60 vulnerabilities in multiple products<a href="https://securityaffairs.co/wordpress/125640/security/adobe-60-vulnerabilities-multiple-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe warns of threat actors that could exploit critical vulnerabilities in multiple products running on Windows and macOS systems. 
+
+
+
+Adobe has issued critical warnings for more than 60 vulnerabilities in multiple products running on Windows and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows AppX Installer zero-day used by Emotet<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-appx-installer-zero-day-used-by-emotet/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a high severity Windows zero-day vulnerability exploited in the wild to deliver Emotet malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the 17th zero-day in Chrome since the start of the year<a href="https://securityaffairs.co/wordpress/125615/security/google-zero-day-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 96.0.4664.110&nbsp;to address a&nbsp;high-severity zero-day vulnerability, tracked as&nbsp;CVE-2021-4102,&nbsp;exploited in the wild.
+
+
+
+Google released security updates to address five vulnerabilities in the Chrome web browser, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft December 2021 Patch Tuesday fixes 6 zero-days, 67 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2021-patch-tuesday-fixes-6-zero-days-67-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's December 2021 Patch Tuesday, and with it comes fixes for six zero-day vulnerabilities and a total of 67 flaws. These updates include a fix for an actively exploited Windows Installer vulnerability used in malware distribution campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber experts express growing alarm over Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/585643-cyber-experts-express-growing-alarm-over-apache-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in a widely used logging platform uncovered late last week has left security professionals and officials scrambling to respond and patch systems before other nations and cybercriminals can exploit the flaw.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Vulnerability in Hillrom Cardiology Devices Could Allow Attackers to Seize Control<a href="https://portswigger.net/daily-swig/zero-day-vulnerability-in-hillrom-cardiology-devices-could-allow-attackers-full-control?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability in several cardiac healthcare devices could allow attackers to access privileged accounts without a password and seize control of the devices.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j: List of vulnerable products and vendor advisories<a href="https://www.bleepingcomputer.com/news/security/log4j-list-of-vulnerable-products-and-vendor-advisories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News about a critical vulnerability in the Apache Log4j logging library broke last week when proof-of-concept exploits started to emerge on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Apple iOS Update Patches Remote Jailbreak Exploit for iPhones<a href="https://thehackernews.com/2021/12/latest-apple-ios-update-patches-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released updates to&nbsp; iOS ,&nbsp; macOS ,&nbsp; tvOS , and&nbsp; watchOS &nbsp;with security patches for multiple vulnerabilities, including a remote jailbreak exploit chain as well as a number of critical issues in the Kernel and Safari web browser that were first demonstrated at the Tianfu Cup held in China two months ago.  Tracked as CVE-2021-30955, the issue could have enabled a malicious application to execute arbitrary code with kernel privileges. Apple said it addressed the issue with "improved state handling." The flaw also impacts macOS devices.  "The kernel bug CVE-2021-30955 is the one we tried [to] use to build our remote jailbreak chain but failed to complete on time," Kunlun Lab's chief executive, @mj0011sec,&nbsp; said &nbsp;in a tweet. A set of kernel vulnerabilities were eventually harnessed by the Pangu Team at the&nbsp; Tianfu hacking contest &nbsp;to break into an iPhone13 Pro running iOS 15, a feat that netted the white hat hackers $330,000 in cash rewards.   Besid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Google Chrome to Patch New Zero-Day Exploit Detected in the Wild<a href="https://thehackernews.com/2021/12/update-google-chrome-to-patch-new-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out fixes for five security vulnerabilities in its Chrome web browser, including one which it says is being exploited in the wild, making it the&nbsp; 17th such weakness &nbsp;to be disclosed since the start of the year.  Tracked as&nbsp; CVE-2021-4102 , the flaw relates to a&nbsp; use-after-free bug &nbsp;in the V8 JavaScript and WebAssembly engine, which could have severe consequences ranging from corruption of valid data to the execution of arbitrary code. An anonymous researcher has been credited with discovering and reporting the flaw.  As it stands, it's not known how the weakness is being abused in real-world attacks, but the internet giant issued a terse statement that said, "it's aware of reports that an exploit for CVE-2021-4102 exists in the wild." This is done so in an attempt to ensure that a majority of users are updated with a fix and prevent further exploitation by other threat actors.   CVE-2021-4102 is the second use-after-free vulnerability in V8 the comp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

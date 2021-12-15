@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forget the dark web: ransomware gangs weaponize social media to pressure victims<a href="https://blog.emsisoft.com/en/39389/forget-the-dark-web-ransomware-gangs-weaponize-social-media-to-pressure-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an effort to amplify coverage, some ransomware groups are using social media channels to bring news of their conquests to a wider audience and put more pressure on victims to pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Emsisoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Affiliate Arrested in Romania; 51 Stolen Data Brokers Arrested in Ukraine<a href="https://thehackernews.com/2021/12/ransomware-affiliate-arrested-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol, the European Union's premier law enforcement agency, has&nbsp; announced &nbsp;the arrest of a third Romanian national for his role as a ransomware affiliate suspected of hacking high-profile organizations and companies and stealing large volumes of sensitive data.  The 41-year-old unnamed individual was apprehended Monday morning at his home in Craiova, Romania, by the Romanian Directorate for Investigating Organized Crime and Terrorism ( DIICOT ) following a joint investigation in collaboration with the U.S. Federal Bureau of Investigation (FBI).  It's not currently known which ransomware gang the suspect was working with, but the development comes a little over a month after Romanian authorities&nbsp; arrested two affiliates &nbsp;of the REvil ransomware family, who are believed to have orchestrated no fewer than 5,000 ransomware attacks and extorted close to $600,000 from victims.   Affiliates play a key role in ransomware-as-a-service (RaaS) subscription-based business models, and a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

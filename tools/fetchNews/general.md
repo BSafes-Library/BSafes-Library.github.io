@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 3 SaaS Security Threats for 2022<a href="https://thehackernews.com/2021/12/top-3-saas-security-threats-for-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With 2021 drawing to a close and many closing their plans and budgets for 2022, the time has come to do a brief wrap-up of the SaaS Security challenges on the horizon.  Here are the top 3 SaaS security posture challenges as we see them.&nbsp;  1&nbsp; —&nbsp; The Mess of Misconfiguration Management  The good news is that more businesses than ever are using SaaS apps such as GitHub, Microsoft 365, Salesforce, Slack, SuccessFactors, Zoom, and many others, to enable employees to maintain productivity under the most challenging of circumstances. As for the bad news, many companies are having a hard time adequately addressing the ever-changing security risks of each app.&nbsp;  This challenge begins with a simple miscalculation—businesses are tasking security teams to ensure that the security configurations for each app are set correctly.&nbsp;  While that may seem like the logical choice, these apps are like snowflakes, no two are the same, including their specific settings and configurations. This is exacerbated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How C-suite executives perceive their organizations’ readiness for ransomware attacks<a href="https://www.helpnetsecurity.com/2021/12/13/readiness-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new (ISC)² study underscores the need for better communication between security teams and executives and offers best practices security leaders should implement to improve those interactions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EV certificate usage declining: Is the internet becoming more secure?<a href="https://www.helpnetsecurity.com/2021/12/13/newer-tls-protocols/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Venafi, 72% of sites now actively redirect traffic to use HTTPS, a 15% increase since March 2020. Almost one in five of the top 1 million sites now use HSTS, a 44% rise since March 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

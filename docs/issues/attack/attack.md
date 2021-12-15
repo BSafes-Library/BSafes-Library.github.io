@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom operators targeted in recent espionage hacking campaign<a href="https://www.bleepingcomputer.com/news/security/telecom-operators-targeted-in-recent-espionage-hacking-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted a new espionage campaign targeting telecommunication and IT service providers in the Middle East and Asia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+400 Banks’ Customers Targeted with Anubis Trojan<a href="https://threatpost.com/400-banks-targeted-anubis-trojan/177038/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new campaign masqueraded as an Orange Telecom account management app to deliver the latest iteration of Anubis banking malware. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human resource management group hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/585715-human-resource-management-group-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ultimate Kronos Group (UKG), a human resources management provider, was hit by a ransomware attack earlier this week, the company confirmed.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia General Assembly's IT unit hit by ransomware attack<a href="https://thehill.com//policy/cybersecurity/585705-virginia-general-assemblys-it-unit-hit-by-ransomware-attack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information technology unit for Virginia’s General Assembly has been hit by a ransomware attack, which barred legislators and staff from accessing the system that&nbsp;handles bills.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
