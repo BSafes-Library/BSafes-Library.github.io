@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Relentless Log4j Attacks Include State Actors, Possible Worm<a href="https://threatpost.com/log4j-attacks-state-actors-worm/177088/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 1.8 million attacks, against half of all corporate networks, have already launched to exploit Log4Shell.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National cyber resilience requires closer integration of public and private efforts<a href="https://www.cyberscoop.com/national-cyber-resilience-requires-closer-integration-of-public-and-private-efforts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beyond intel sharing, the government and industry must boost sharing of best practices, and help each other implement these playbooks, especially for entities that support national critical functions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberscoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022: Supply-Chain Chronic Pain &amp; SaaS Security Meltdowns<a href="https://threatpost.com/supply-chain-pain-and-changing-security-roles/177058/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sounil Yu, CISO at JupiterOne, discusses the growing mesh of integrations between SaaS applications, which enables automated business workflows – and rampant lateral movement by attackers, well outside IT’s purview.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Log4Shell Bug Means for SMBs: Experts Weigh In<a href="https://threatpost.com/log4shell-bug-smbs-experts/177021/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exclusive roundtable of security researchers discuss the specific implications of CVE-2021-44228 for smaller businesses, including what’s vulnerable, what an attack looks like and to how to remediate.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

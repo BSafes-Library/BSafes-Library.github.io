@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet's MDR Offers Organizations Continuous Security Oversight<a href="https://thehackernews.com/2021/12/cynets-mdr-offers-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's cyber attackers are constantly looking for ways to exploit vulnerabilities and infiltrate organizations. To keep up with this evolving threat landscape, security teams must be on the lookout for potential risks around the clock. Since most organizations simply cannot afford to have 24x7 security teams, managed detection and response (MDR) services have become a critical aspect of any modern security stack.&nbsp;  Most organizations must find outsourced MDR providers on top of their existing solutions, but that's not always a feasible solution. XDR provider Cynet offers its MDR service ( learn more here ), which the company calls CyOps, as part of its offering. The service is much more than simply a help desk, though.  CyOps offers a thorough MDR service that offers both monitoring and threat hunting, as well as incident response in cases where an attack is successful.&nbsp;  How CyOps operates  The key selling point for CyOps MDR is that it enhances organizations' security a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

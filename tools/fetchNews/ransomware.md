@@ -8,6 +8,52 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware now being deployed in Log4Shell attacks<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-now-being-deployed-in-log4shell-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first public case of the Log4j Log4Shell vulnerability used to download and install ransomware has been discovered by researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit Log4Shell to drop Khonsari Ransomware on Windows systems<a href="https://securityaffairs.co/wordpress/125630/malware/khonsari-ransomware-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers discovered that threat actors are attempting to exploit the Log4Shell flaw to deliver the new Khonsari&nbsp;ransomware on Windows machines.
+
+
+
+Bitdefender researchers discovered that threat actors are attempting to exploit the Log4Shell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Ireland’s Public Healthcare Ransomware Scare – Krebs on Security<a href="https://krebsonsecurity.com/2021/12/inside-irelands-public-healthcare-ransomware-scare/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The consulting firm PricewaterhouseCoopers recently published lessons learned from the disruptive and costly ransomware attack in May 2021 on Ireland’s public health system.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

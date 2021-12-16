@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns critical infrastructure to stay vigilant for ongoing threats<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-critical-infrastructure-to-stay-vigilant-for-ongoing-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) warned critical infrastructure organizations today to strengthen their cybersecurity defenses against potential and ongoing threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces its ‘Hack DHS’ bug bounty program<a href="https://securityaffairs.co/wordpress/125646/security/hack-dhs-bug-bounty-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS has launched a new bug bounty program dubbed 'Hack DHS' to discover security vulnerabilities in external DHS systems. 
+
+
+
+The Department of Homeland Security (DHS) has launched a new bug bounty program dubbed 'Hack DHS' that allows vetted white...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government to offer up to $5,000 'bounty' to hackers to identify cyber vulnerabilities<a href="https://edition.cnn.com/2021/12/14/politics/dhs-bug-bounty-hackers-cyber-vulnerabilities/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS is launching a "bug bounty" program, potentially offering thousands of dollars to hackers who help the department identify cybersecurity vulnerabilities within its systems.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

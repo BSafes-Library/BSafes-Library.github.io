@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Kicks Log4Shell Vulnerability Out of 20 Apps<a href="https://threatpost.com/sap-log4shell-vulnerability-apps/177069/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP’s still feverishly working to patch another 12 apps vulnerable to the Log4Shell flaw, while its Patch Tuesday release includes 21 other fixes, some rated at 9.9 criticality.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft December 2021 Patch Tuesday fixes an actively exploited zero-day<a href="https://securityaffairs.co/wordpress/125667/security/microsoft-december-2021-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft December 2021 Patch Tuesday addresses 67 vulnerabilities, including an actively exploited Windows Installer vulnerability. 
+
+
+
+Microsoft December 2021 Patch Tuesday addressed 67 vulnerabilities in Microsoft Windows and Windows Components, ASP.NET...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS Update Fixes Cringey iPhone 13 Jailbreak Exploit<a href="https://threatpost.com/apple-ios-updates-iphone-13-jailbreak-exploit/177051/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It took just 15 seconds to hack the latest, greatest, shiniest iPhone 13 Pro on stage at the Tianfu Cup in October, using a now-fixed iOS kernel bug.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Windows Update to Patch 0-Day Used to Spread Emotet Malware<a href="https://thehackernews.com/2021/12/microsoft-issues-windows-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has rolled out&nbsp; Patch Tuesday updates &nbsp;to address multiple security vulnerabilities in Windows and other software, including one actively exploited flaw that's being abused to deliver Emotet, TrickBot, or Bazaloader malware payloads.  The latest monthly release for December fixes a total of 67 flaws, bringing the total number of bugs patched by the company this year to 887, according to the&nbsp; Zero Day Initiative . Seven of the 67 flaws are rated Critical and 60 are rated as Important in severity, with five of the issues publicly known at the time of release. It's worth noting that this is in addition to the&nbsp; 21 flaws &nbsp;resolved in the Chromium-based Microsoft Edge browser.  The most critical of the lot is&nbsp; CVE-2021-43890 &nbsp;(CVSS score: 7.1), a Windows AppX installer spoofing vulnerability that Microsoft said could be exploited to achieve arbitrary code execution. The lower severity rating is indicative of the fact that code execution hinges on the logged-on user level,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second Log4j Vulnerability (CVE-2021-45046) Discovered — New Patch Released<a href="https://thehackernews.com/2021/12/second-log4j-vulnerability-cve-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation (ASF) has pushed out a new fix for the Log4j logging utility after the previous patch for the recently disclosed&nbsp; Log4Shell &nbsp;exploit was deemed as "incomplete in certain non-default configurations."  The second vulnerability — tracked as&nbsp; CVE-2021-45046 &nbsp;— is rated 3.7 out of a maximum of 10 on the CVSS rating system and affects all versions of Log4j from 2.0-beta9 through 2.12.1 and 2.13.0 through 2.15.0, which the project maintainers shipped last week to address a critical remote code execution vulnerability (CVE-2021-44228) that could be abused to infiltrate and take over systems.  The incomplete patch for&nbsp; CVE-2021-44228 &nbsp;could be abused to "craft malicious input data using a&nbsp; JNDI &nbsp;Lookup pattern resulting in a denial-of-service (DoS) attack," the ASF&nbsp; said &nbsp;in a new advisory. The latest version of Log4j, 2.16.0 (for users requiring Java 8 or later), all but&nbsp; removes &nbsp;support for message lookups and disables JNDI by default, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

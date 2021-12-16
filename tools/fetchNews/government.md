@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USPS secretly tested mobile voting system: report<a href="https://thehill.com//policy/cybersecurity/585723-usps-secretly-tested-mobile-voting-system-report"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S.&nbsp;Postal Service worked on a secret project to test a&nbsp;blockchain-based mobile phone voting system ahead of the 2020 elections before ultimately abandoning the project, according to The Washington Post.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS announces 'Hack DHS' bug bounty program for vetted researchers<a href="https://www.bleepingcomputer.com/news/security/dhs-announces-hack-dhs-bug-bounty-program-for-vetted-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) has launched a new bug bounty program dubbed "Hack DHS" that allows vetted cybersecurity researchers to find and report security vulnerabilities in external DHS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA tells federal agencies to patch Log4Shell before Christmas<a href="https://therecord.media/cisa-tells-federal-agencies-to-patch-log4shell-before-christmas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies have ten days to test which of their internal apps and servers utilize the Log4j Java library, check if systems are vulnerable to the Log4Shell exploit, and patch affected servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA orders federal agencies to fix Log4Shell by December 24th<a href="https://securityaffairs.co/wordpress/125623/security/cisa-log4shell-actions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA ordered federal agencies to address the critical Log4Shell vulnerability in the Log4j library by December 24th, 2021. 
+
+
+
+US CISA ordered federal agencies to address the critical Log4Shell vulnerability in the Log4j library by December 24th,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders federal agencies to patch Log4Shell by December 24th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-log4shell-by-december-24th/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch systems against the critical Log4Shell remote code execution vulnerability&nbsp;and released&nbsp;mitigation guidance in response to active exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

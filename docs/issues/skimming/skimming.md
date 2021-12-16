@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sites hacked with credit card stealers undetected for months<a href="https://www.bleepingcomputer.com/news/security/sites-hacked-with-credit-card-stealers-undetected-for-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are gearing up for the holidays with credit card skimming attacks remaining undetected for months as payment information is stolen from customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

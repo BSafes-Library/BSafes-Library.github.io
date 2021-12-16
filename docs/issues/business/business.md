@@ -8,6 +8,76 @@ nav_order: 900027
 
 ## Business
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cequence adds $60M Series C to improve API security<a href="https://techcrunch.com/2021/12/15/cequence-adds-60m-series-c-to-improve-api-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Menlo Ventures led the latest round with participation from Icon Ventures, Telstra Ventures, HarbourVest Partners, Shasta Ventures, Dell Technologies Capital, and T-Mobile Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom joins counterterrorism tech group<a href="https://thehill.com//policy/technology/585976-zoom-joins-counterrorism-tech-group"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video conferencing platform Zoom has joined an independent counterterrorism group that shares information among major tech companies to combat violence and extremism.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook to Pay Hackers for Reporting Data Scraping Bugs and Scraped Datasets<a href="https://thehackernews.com/2021/12/facebook-to-pay-hackers-for-reporting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms, the company formerly known as Facebook, has announced that it's expanding its&nbsp; bug bounty program &nbsp;to start rewarding valid reports of scraping vulnerabilities across its platforms as well as include reports of scraping data sets that are available online.  "We know that automated activity designed to scrape people's public and private data targets every website or service," said Dan Gurfinkel, security engineering manager at Meta. "We also know that it is a highly adversarial space where scrapers — be it malicious apps, websites or scripts — constantly adapt their tactics to evade detection in response to the defenses we build and improve."   To that end, the social media giant aims to&nbsp; monetarily compensate &nbsp;for valid reports of scraping bugs in its service and identify unprotected or openly public databases containing no less than 100,000 unique Facebook user records with personally identifiable information (PII) such as email, phone numb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cylus raises $30M Series B to help protect trains and metros worldwide<a href="https://techcrunch.com/2021/12/15/cylus-raises-30m-series-b-to-help-protect-trains-and-metros-worldwide/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding round was led by Ibex Investors, with participation from Vertex Growth Fund, Strides International Business, Magma Venture Partners, Vertex Ventures Israel, and GlenRock Israel.
+</details>
+<div style="text-align: right" markdown="1">
+TechCrunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sysdig Raises $350 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/sysdig-raises-350-million-25-billion-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding round was led by Permira, with participation from Guggenheim Partners, Accel, Bain Capital Ventures, DFJ Growth, Glynn Capital, Goldman Sachs, Insight Partners, Next47, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

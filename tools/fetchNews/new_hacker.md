@@ -8,6 +8,77 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seedworm Targeting Telecom, IT, and Utility firms in the Middle East and Asia<a href="https://cyware.com/news/seedworm-targeting-telecom-it-and-utility-firms-in-the-middle-east-and-asia-03f3c300"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec revealed that the Iranian MuddyWater group has been targeting telecom operators, IT firms, and a utility company in the Middle East and other parts of Asia. Researchers observed that the attackers made a deliberate attempt to target more and more organizations by mounting a supply-chain at ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China, Iran among those exploiting Apache cyber vulnerability, researchers say<a href="https://thehill.com//policy/cybersecurity/585904-china-iran-among-those-seen-exploiting-apache-cyber-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored hackers from countries including Iran and China are actively exploiting a major vulnerability in Apache logging package log4j to target vulnerable organizations around the world, security researchers found this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Malicious IIS Server Module to Steal Microsoft Exchange Credentials<a href="https://thehackernews.com/2021/12/hackers-using-malicious-iis-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are deploying a previously undiscovered binary, an Internet Information Services ( IIS ) webserver module dubbed " Owowa ," on Microsoft Exchange Outlook Web Access servers with the goal of stealing credentials and enabling remote command execution.  "Owowa is a C#-developed .NET v4.0 assembly that is intended to be loaded as a module within an IIS web server that also exposes Exchange's Outlook Web Access (OWA)," Kaspersky researchers Paul Rascagneres and Pierre Delcher&nbsp; said . "When loaded this way, Owowa will steal credentials that are entered by any user in the OWA login page, and will allow a remote operator to run commands on the underlying server."  The idea that a rogue IIS module can be fashioned as a backdoor is not new. In August 2021, Slovak cybersecurity company ESET's study of the IIS landscape&nbsp; revealed &nbsp;as many as 14 malware families that were developed as native IIS modules in an attempt to intercept HTTP traffic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-sponsored hackers abuse Slack API to steal airline data<a href="https://www.bleepingcomputer.com/news/security/state-sponsored-hackers-abuse-slack-api-to-steal-airline-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Iranian state-supported threat actor is deploying a newly discovered backdoor named 'Aclip' that abuses the Slack API for covert communications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j vulnerability now used by state-backed hackers, access brokers<a href="https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-by-state-backed-hackers-access-brokers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As expected, nation-state hackers of all kinds have jumped at the opportunity to exploit the recently disclosed critical vulnerability (CVE-2021-44228) in the Log4j Java-based logging library.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

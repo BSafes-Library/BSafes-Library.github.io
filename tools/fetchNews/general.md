@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 14, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Americans Lost Almost $150 Million to Gift Card Scams: FTC<a href="https://cyware.com/news/americans-lost-almost-150-million-to-gift-card-scams-ftc-ace7c85e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 40,000 consumers reported falling victim to scams that involved gift cards as a payment method. This year, Target gift cards remained the top choice among cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where the Latest Log4Shell Attacks Are Coming From<a href="https://threatpost.com/log4shell-attacks-origin-botnet/176977/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts find at least 10 Linux botnets actively exploiting Log4Shell flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

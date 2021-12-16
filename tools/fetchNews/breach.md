@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 13, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Code Packages Rack Up Thousands of Downloads<a href="https://threatpost.com/malicious-pypi-code-packages/176971/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python code repository was infiltrated by malware bent on data exfiltration from developer apps and more.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

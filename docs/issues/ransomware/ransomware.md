@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Strategic Intelligence Value of Ransomware<a href="https://www.lawfareblog.com/strategic-intelligence-value-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foreign intelligence services can siphon a wealth of information from ransomware operations that are of operational and strategic value.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

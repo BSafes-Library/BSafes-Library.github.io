@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-scale phishing study shows who bites the bait more often<a href="https://www.bleepingcomputer.com/news/security/large-scale-phishing-study-shows-who-bites-the-bait-more-often/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale phishing study involving 14,733 participants over a 15-month experiment has produced some surprising findings that contradict previous research results that formed the basis for popular industry practices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
