@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 December 15, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Relentless Log4j Attacks Include State Actors, Possible Worm<a href="https://threatpost.com/log4j-attacks-state-actors-worm/177088/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 1.8 million attacks, against half of all corporate networks, have already launched to exploit Log4Shell.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Emotet starts dropping Cobalt Strike again for faster attacks<a href="https://www.bleepingcomputer.com/news/security/emotet-starts-dropping-cobalt-strike-again-for-faster-attacks/"> Full Text</a>
 </p>
 <details>
