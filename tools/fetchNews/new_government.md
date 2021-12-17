@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US concerns grow over potential Russian cyber targeting of Ukraine amid troop buildup<a href="https://thehill.com//policy/cybersecurity/586033-us-concerns-grow-over-potential-russian-cyber-targeting-of-ukraine-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in tensions between the United States and Russia due to Moscow amassing troops on the border with Ukraine is raising concerns Russia may not only put boots on the ground but also turn to hacking operations to put pressure on the U.S. and Ukraine.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials warn of increased hacking threat during holiday season<a href="https://thehill.com//policy/cybersecurity/586066-officials-warn-of-increased-hacking-threat-during-holiday-season"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior Biden administration cybersecurity officials warned business leaders Thursday to be on guard against cyberattacks during the upcoming holiday season, noting that hackers are often more active when Americans are taking time away from work.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

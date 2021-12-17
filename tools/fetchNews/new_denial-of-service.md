@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache’s Fix for Log4Shell Can Lead to DoS Attacks<a href="https://threatpost.com/apache-patch-log4shell-log4j-dos-attacks/177064/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only is the jaw-dropping flaw in the Apache Log4j logging library ubiquitous; Apache’s blanket of a quickly baked patch for Log4Shell also has holes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

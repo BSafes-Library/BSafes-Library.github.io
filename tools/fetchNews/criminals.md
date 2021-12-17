@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI’s investigation accidentally revealed the HelloKitty ransomware gang operates out of Ukraine<a href="https://securityaffairs.co/wordpress/125675/cyber-crime/hellokitty-ransomware-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating a data breach suffered by a healthcare organization, FBI accidentally revealed that it believes that the HelloKitty ransomware gang operates out of Ukraine. 
+
+
+
+The investigation conducted by FBI on a recent data breach suffered by an Oregon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $140 Million from Users of Crypto Gaming Company<a href="https://www.vice.com/en/article/4awxep/hackers-steal-dollar140-million-from-users-of-crypto-gaming-company?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers stole the private keys to access 96 wallets, siphoning off 4.5 million PYR, which is VulcanForge's token that can be used across its ecosystem, the company said in a series of tweets.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

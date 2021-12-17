@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j attackers switch to injecting Monero miners via RMI<a href="https://www.bleepingcomputer.com/news/security/log4j-attackers-switch-to-injecting-monero-miners-via-rmi/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web App Attacks Rise by 251% in Two Years<a href="https://cyware.com/news/web-app-attacks-rise-by-251-in-two-years-4347b774"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials point to Apache vulnerability in urging passage of cyber incident reporting bill<a href="https://thehill.com//policy/cybersecurity/586220-officials-point-to-apache-vulnerability-in-urging-passage-of-cyber"> Full Text</a>
@@ -82,7 +82,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Coexistence Attacks On Wi-Fi and Bluetooth Chips<a href="https://thehackernews.com/2021/12/researchers-uncover-new-coexistence.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command Is in the Ransomware Game—Now What?<a href="https://www.lawfareblog.com/cyber-command-ransomware-game%E2%80%94now-what"> Full Text</a>
@@ -114,7 +114,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flaws in Lenovo laptops allow escalating to admin privileges<a href="https://securityaffairs.co/wordpress/125711/hacking/lenovo-laptops-privileges-escalation-flaws.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook disrupts operations of seven surveillance-for-hire firms<a href="https://www.bleepingcomputer.com/news/security/facebook-disrupts-operations-of-seven-surveillance-for-hire-firms/"> Full Text</a>
@@ -150,7 +150,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Details on Log4Shell Attacks<a href="https://cyware.com/news/more-details-on-log4shell-attacks-79d86e16"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US concerns grow over potential Russian cyber targeting of Ukraine amid troop buildup<a href="https://thehill.com//policy/cybersecurity/586033-us-concerns-grow-over-potential-russian-cyber-targeting-of-ukraine-amid"> Full Text</a>
@@ -182,7 +182,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Guide to Automating Security Training for Lean Security Teams<a href="https://thehackernews.com/2021/12/the-guide-to-automating-security.html"> Full Text</a>
@@ -198,7 +198,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 While attackers begin exploiting a second Log4j flaw, a third one emerges<a href="https://securityaffairs.co/wordpress/125707/hacking/log4j-new-flaws.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 McMenamins breweries hit by a Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mcmenamins-breweries-hit-by-a-conti-ransomware-attack/"> Full Text</a>
@@ -234,7 +234,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anubis Banking Trojan Resurfaces to Cripple Over 400 Financial Firms<a href="https://cyware.com/news/anubis-banking-trojan-resurfaces-to-cripple-over-400-financial-firms-4ea75c50"> Full Text</a>
@@ -251,7 +251,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Officials warn of increased hacking threat during holiday season<a href="https://thehill.com//policy/cybersecurity/586066-officials-warn-of-increased-hacking-threat-during-holiday-season"> Full Text</a>
@@ -267,7 +267,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Fileless Malware Uses Windows Registry as Storage to Evade Detection<a href="https://thehackernews.com/2021/12/new-fileless-malware-uses-windows.html"> Full Text</a>
@@ -283,7 +283,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Nation-State actors are exploiting Log4Shell flaw<a href="https://securityaffairs.co/wordpress/125697/apt/nation-state-actors-log4shell.html"> Full Text</a>
@@ -303,7 +303,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Calendar now lets you block invitation phishing attempts<a href="https://www.bleepingcomputer.com/news/security/google-calendar-now-lets-you-block-invitation-phishing-attempts/"> Full Text</a>
@@ -319,7 +319,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PseudoManuscrypt Spyware Campaign Targets Thousands of ICS Computers Worldwide<a href="https://finance.yahoo.com/news/mass-spyware-campaign-targets-thousands-140000432.html?&web_view=true"> Full Text</a>
@@ -335,7 +335,7 @@ Yahoo! Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Owowa, a malicious IIS Server module used to steal Microsoft Exchange credentials<a href="https://securityaffairs.co/wordpress/125682/hacking/owowa-malicious-iis-server-module-used-to-steal-microsoft-exchange-credentials.html"> Full Text</a>
@@ -355,7 +355,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Khonsari ransomware hits self-hosted Minecraft servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-khonsari-ransomware-hits-self-hosted-minecraft-servers/"> Full Text</a>
@@ -371,7 +371,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Portland-based Hotel and Brewpub Chain Suffers Cyberattack Likely Impacting Employee Data<a href="https://www.kgw.com/article/news/local/mcmenamins-ransomware-attack/283-dc039d56-cf82-4f06-8862-c2f6223e3893?&web_view=true"> Full Text</a>
@@ -387,7 +387,7 @@ KGW
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gumtree classifieds site leaked personal info via the F12 key<a href="https://www.bleepingcomputer.com/news/security/gumtree-classifieds-site-leaked-personal-info-via-the-f12-key/"> Full Text</a>
@@ -403,7 +403,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Noname Security Raises $135 Million at 'Unicorn' Valuation<a href="https://www.securityweek.com/noname-security-raises-135-million-unicorn-valuation?&web_view=true"> Full Text</a>
@@ -419,7 +419,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lenovo laptops vulnerable to bug allowing admin privileges<a href="https://www.bleepingcomputer.com/news/security/lenovo-laptops-vulnerable-to-bug-allowing-admin-privileges/"> Full Text</a>
@@ -435,7 +435,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How expired web domains help criminal hackers unlock enterprise defenses<a href="https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses?&web_view=true"> Full Text</a>
@@ -451,7 +451,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware enters big league with hundreds breached in four months<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-enters-big-league-with-hundreds-breached-in-four-months/"> Full Text</a>
@@ -467,7 +467,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What SMBs can do to protect against Log4Shell attacks<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/12/what-smbs-can-do-to-protect-against-log4shell-attacks/?&web_view=true"> Full Text</a>
@@ -483,7 +483,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phorpiex botnet returns with new tricks making it harder to disrupt<a href="https://www.bleepingcomputer.com/news/security/phorpiex-botnet-returns-with-new-tricks-making-it-harder-to-disrupt/"> Full Text</a>
@@ -499,7 +499,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Variant of Phorpiex Botnet Used for Cryptocurrency Attacks in Ethopia, Nigeria, India, and 93 Other Countries<a href="https://www.zdnet.com/article/variant-of-phorpiex-botnet-used-for-cryptocurrency-attacks-in-ethopia-nigeria-and-india/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -515,7 +515,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox users can't reach Microsoft.com — here's what to do<a href="https://www.bleepingcomputer.com/news/security/firefox-users-cant-reach-microsoftcom-heres-what-to-do/"> Full Text</a>
@@ -531,7 +531,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2021
+December 16, 2021 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After theft of $77.7 million, victim AscendEX to reimburse customers<a href="https://www.zdnet.com/article/after-77-million-hack-crypto-platform-ascendex-to-reimburse-customers/?&web_view=true"> Full Text</a>
@@ -547,7 +547,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Exchange Server Module Hoovers Up Outlook Credentials<a href="https://threatpost.com/malicious-exchange-server-module-outlook-credentials/177077/"> Full Text</a>
@@ -563,7 +563,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache’s Fix for Log4Shell Can Lead to DoS Attacks<a href="https://threatpost.com/apache-patch-log4shell-log4j-dos-attacks/177064/"> Full Text</a>
@@ -579,7 +579,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Begin Exploiting Second Log4j Vulnerability as a Third Flaw Emerges<a href="https://thehackernews.com/2021/12/hackers-begin-exploiting-second-log4j.html"> Full Text</a>

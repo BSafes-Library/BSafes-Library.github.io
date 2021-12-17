@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Guide to Automating Security Training for Lean Security Teams<a href="https://thehackernews.com/2021/12/the-guide-to-automating-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber threats used to be less threatening. While nobody wants their customers' credit card numbers stolen in a data breach, or to see a deranged manifesto plastered over their company website, such incidents can almost seem quaint compared to ransomware attacks that bring all of your critical information systems to a dead halt.  The frequency of these attacks &nbsp;increased more than 150% in the U.S. last year, and in 2021 their global cost is expected to reach $20 billion. Effective, comprehensive security training is essential to mitigating these threats, many of which originate with low-profile phishing or malware attacks to get a foot in the door—attacks that can target anyone who works in your organization.  A company's employees are the front line of defense against cyberattacks, and canned training videos and short quizzes are rarely sufficient to prepare them for this responsibility. The trouble with good training is that it takes not just expertise but time and other reso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

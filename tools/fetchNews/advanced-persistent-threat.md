@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Seedworm APT targets Telecoms organizations across the Middle East and Asia<a href="https://securityaffairs.co/wordpress/125651/apt/seedworm-targets-telecoms-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new Seedworm campaign targeting telecommunication and IT service providers in the Middle East and Asia.
+
+
+
+Iran-linked APT group Seedworm (aka MERCURY,&nbsp;MuddyWater,&nbsp;TEMP.Zagros, or Static Kitten) is behind a new cyberespionage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Calendar now lets you block invitation phishing attempts<a href="https://www.bleepingcomputer.com/news/security/google-calendar-now-lets-you-block-invitation-phishing-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google now makes it easy to block unwanted calendar invitations, commonly used by threat actors in&nbsp;phishing and malicious campaigns, from being added to your Google Calendar.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox users can't reach Microsoft.com — here's what to do<a href="https://www.bleepingcomputer.com/news/security/firefox-users-cant-reach-microsoftcom-heres-what-to-do/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Those using the Mozilla Firefox web browser are left unable to access Microsoft.com domain. Tests by BleepingComputer confirm the issue relates&nbsp;to SSL certificate validation errors. Below we explain what can you do to remedy the issue.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

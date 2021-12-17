@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials point to Apache vulnerability in urging passage of cyber incident reporting bill<a href="https://thehill.com//policy/cybersecurity/586220-officials-point-to-apache-vulnerability-in-urging-passage-of-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key federal cybersecurity officials are pushing for passage of legislation to create mandates for certain organizations to report cyberattacks amid the fallout from a massive vulnerability in Apache logging package log4j, which has left organizations worldwide vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Coexistence Attacks On Wi-Fi and Bluetooth Chips<a href="https://thehackernews.com/2021/12/researchers-uncover-new-coexistence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have demonstrated a new attack technique that makes it possible to leverage a device's Bluetooth component to directly extract network passwords and manipulate traffic on a Wi-Fi chip.  The novel attacks work against the so-called "combo chips," which are specialized chips that are equipped to handle different types of radio wave-based wireless communications, such as Wi-Fi, Bluetooth, and LTE.  "We provide empirical evidence that coexistence, i.e., the coordination of cross-technology wireless transmissions, is an unexplored attack surface," a group of researchers from the Technical University of Darmstadt's Secure Mobile Networking Lab and the University of Brescia said in a&nbsp; new paper .  "Instead of escalating directly into the mobile [operating system], wireless chips can escalate their privileges into other wireless chips by exploiting the same mechanisms they use to arbitrate their access to the resources they share, i.e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Lenovo laptops allow escalating to admin privileges<a href="https://securityaffairs.co/wordpress/125711/hacking/lenovo-laptops-privileges-escalation-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ImControllerService&nbsp;service of Lenovo laptops is affected by a privilege elevation bug that can allow to execute commands with admin privileges. 
+
+
+
+Lenovo laptops, including ThinkPad and Yoga families, are affected by a privilege elevation issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+While attackers begin exploiting a second Log4j flaw, a third one emerges<a href="https://securityaffairs.co/wordpress/125707/hacking/log4j-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that threat actors are actively attempting to exploit a&nbsp;second bug&nbsp;disclosed in the popular Log4j logging library.
+
+
+
+American web infrastructure and website security company Cloudflare warns that threat actors are actively attempting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lenovo laptops vulnerable to bug allowing admin privileges<a href="https://www.bleepingcomputer.com/news/security/lenovo-laptops-vulnerable-to-bug-allowing-admin-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo laptops, including ThinkPad and Yoga models, are vulnerable to a privilege elevation bug in the ImControllerService&nbsp;service allowing attackers to execute commands with admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

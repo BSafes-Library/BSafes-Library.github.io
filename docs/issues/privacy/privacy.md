@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt Spyware Campaign Targets Thousands of ICS Computers Worldwide<a href="https://finance.yahoo.com/news/mass-spyware-campaign-targets-thousands-140000432.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new malware contains advanced spying capabilities and has been seen targeting both government organizations and industrial control systems (ICS) across numerous industries.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
