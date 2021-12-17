@@ -34,7 +34,568 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j attackers switch to injecting Monero miners via RMI<a href="https://www.bleepingcomputer.com/news/security/log4j-attackers-switch-to-injecting-monero-miners-via-rmi/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some threat actors exploiting the Apache Log4j vulnerability have switched from LDAP callback URLs to RMI or even used both in a single request for maximum chances of success.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web App Attacks Rise by 251% in Two Years<a href="https://cyware.com/news/web-app-attacks-rise-by-251-in-two-years-4347b774"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web app attacks have surged by 22% on average every quarter. Attacks on businesses in the U.K have increased by 250% during this period. This increase has, in turn, caused a rise in data breaches.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials point to Apache vulnerability in urging passage of cyber incident reporting bill<a href="https://thehill.com//policy/cybersecurity/586220-officials-point-to-apache-vulnerability-in-urging-passage-of-cyber"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key federal cybersecurity officials are pushing for passage of legislation to create mandates for certain organizations to report cyberattacks amid the fallout from a massive vulnerability in Apache logging package log4j, which has left organizations worldwide vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Coexistence Attacks On Wi-Fi and Bluetooth Chips<a href="https://thehackernews.com/2021/12/researchers-uncover-new-coexistence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have demonstrated a new attack technique that makes it possible to leverage a device's Bluetooth component to directly extract network passwords and manipulate traffic on a Wi-Fi chip.  The novel attacks work against the so-called "combo chips," which are specialized chips that are equipped to handle different types of radio wave-based wireless communications, such as Wi-Fi, Bluetooth, and LTE.  "We provide empirical evidence that coexistence, i.e., the coordination of cross-technology wireless transmissions, is an unexplored attack surface," a group of researchers from the Technical University of Darmstadt's Secure Mobile Networking Lab and the University of Brescia said in a  new paper .  "Instead of escalating directly into the mobile [operating system], wireless chips can escalate their privileges into other wireless chips by exploiting the same mechanisms they use to arbitrate their access to the resources they share, i.e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command Is in the Ransomware Game—Now What?<a href="https://www.lawfareblog.com/cyber-command-ransomware-game%E2%80%94now-what"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some unresolved questions that policymakers must consider in exploring a role for the military in countering ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Lenovo laptops allow escalating to admin privileges<a href="https://securityaffairs.co/wordpress/125711/hacking/lenovo-laptops-privileges-escalation-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ImControllerService service of Lenovo laptops is affected by a privilege elevation bug that can allow to execute commands with admin privileges. 
+
+
+
+Lenovo laptops, including ThinkPad and Yoga families, are affected by a privilege elevation issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook disrupts operations of seven surveillance-for-hire firms<a href="https://www.bleepingcomputer.com/news/security/facebook-disrupts-operations-of-seven-surveillance-for-hire-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has disrupted the operations of seven different spyware-making companies, blocking their Internet infrastructure, sending cease and desist letters, and banning them from its platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Details on Log4Shell Attacks<a href="https://cyware.com/news/more-details-on-log4shell-attacks-79d86e16"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days back, we got to know that threat actors are abusing a critical vulnerability—Log4Shell—in Log4j and propagating malware. Now, the attacks have grown more severe as new details emerge.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US concerns grow over potential Russian cyber targeting of Ukraine amid troop buildup<a href="https://thehill.com//policy/cybersecurity/586033-us-concerns-grow-over-potential-russian-cyber-targeting-of-ukraine-amid"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in tensions between the United States and Russia due to Moscow amassing troops on the border with Ukraine is raising concerns Russia may not only put boots on the ground but also turn to hacking operations to put pressure on the U.S. and Ukraine. 
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Guide to Automating Security Training for Lean Security Teams<a href="https://thehackernews.com/2021/12/the-guide-to-automating-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber threats used to be less threatening. While nobody wants their customers' credit card numbers stolen in a data breach, or to see a deranged manifesto plastered over their company website, such incidents can almost seem quaint compared to ransomware attacks that bring all of your critical information systems to a dead halt.  The frequency of these attacks  increased more than 150% in the U.S. last year, and in 2021 their global cost is expected to reach $20 billion. Effective, comprehensive security training is essential to mitigating these threats, many of which originate with low-profile phishing or malware attacks to get a foot in the door—attacks that can target anyone who works in your organization.  A company's employees are the front line of defense against cyberattacks, and canned training videos and short quizzes are rarely sufficient to prepare them for this responsibility. The trouble with good training is that it takes not just expertise but time and other reso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+While attackers begin exploiting a second Log4j flaw, a third one emerges<a href="https://securityaffairs.co/wordpress/125707/hacking/log4j-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that threat actors are actively attempting to exploit a second bug disclosed in the popular Log4j logging library.
+
+
+
+American web infrastructure and website security company Cloudflare warns that threat actors are actively attempting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McMenamins breweries hit by a Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mcmenamins-breweries-hit-by-a-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Portland brewery and hotel chain McMenamins suffered a Conti ransomware attack over the weekend that disrupted the company's operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anubis Banking Trojan Resurfaces to Cripple Over 400 Financial Firms<a href="https://cyware.com/news/anubis-banking-trojan-resurfaces-to-cripple-over-400-financial-firms-4ea75c50"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign by Anubis banking trojan is aimed at nearly 400 financial institutions. Hackers masqueraded the official account management app for Orange Telecom.  The malware collects significant information of victims by intercepting SMS, screen monitoring, GPS data collection, keylogging, file e ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Officials warn of increased hacking threat during holiday season<a href="https://thehill.com//policy/cybersecurity/586066-officials-warn-of-increased-hacking-threat-during-holiday-season"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior Biden administration cybersecurity officials warned business leaders Thursday to be on guard against cyberattacks during the upcoming holiday season, noting that hackers are often more active when Americans are taking time away from work.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Fileless Malware Uses Windows Registry as Storage to Evade Detection<a href="https://thehackernews.com/2021/12/new-fileless-malware-uses-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new JavaScript-based remote access Trojan (RAT) propagated via a social engineering campaign has been observed employing sneaky "fileless" techniques as part of its detection-evasion methods to elude discovery and analysis.  Dubbed DarkWatchman  by researchers from Prevailion's Adversarial Counterintelligence Team (PACT), the malware uses a resilient domain generation algorithm ( DGA ) to identify its command-and-control (C2) infrastructure and utilizes the Windows Registry for all of its storage operations, thereby enabling it to bypass antimalware engines.  The RAT "utilizes novel methods for fileless persistence, on-system activity, and dynamic run-time capabilities like self-updating and recompilation," researchers Matt Stafford and Sherman Smith  said , adding it "represents an evolution in fileless malware techniques, as it uses the registry for nearly all temporary and permanent storage and therefore never writes anything to disk, allowing it to o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Nation-State actors are exploiting Log4Shell flaw<a href="https://securityaffairs.co/wordpress/125697/apt/nation-state-actors-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state actors from China, Iran, North Korea, and Turkey are attempting to exploit the Log4Shell vulnerability to in attacks in the wild.
+
+
+
+Microsoft researchers reported that Nation-state actors from China, Iran, North Korea, and Turkey are now abusing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Calendar now lets you block invitation phishing attempts<a href="https://www.bleepingcomputer.com/news/security/google-calendar-now-lets-you-block-invitation-phishing-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google now makes it easy to block unwanted calendar invitations, commonly used by threat actors in phishing and malicious campaigns, from being added to your Google Calendar.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt Spyware Campaign Targets Thousands of ICS Computers Worldwide<a href="https://finance.yahoo.com/news/mass-spyware-campaign-targets-thousands-140000432.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new malware contains advanced spying capabilities and has been seen targeting both government organizations and industrial control systems (ICS) across numerous industries.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo! Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owowa, a malicious IIS Server module used to steal Microsoft Exchange credentials<a href="https://securityaffairs.co/wordpress/125682/hacking/owowa-malicious-iis-server-module-used-to-steal-microsoft-exchange-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using a malicious Internet Information Services (IIS) Server module, dubbed Owowa, to steal Microsoft Exchange credentials. 
+
+
+
+Kaspersky researchers spotted malicious actors while deploying a previously undiscovered binary, an Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Khonsari ransomware hits self-hosted Minecraft servers<a href="https://www.bleepingcomputer.com/news/security/microsoft-khonsari-ransomware-hits-self-hosted-minecraft-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft urges admins of self-hosted Minecraft servers to upgrade to the latest release to defend against Khonsari ransomware attacks exploiting the critical Log4Shell security vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Portland-based Hotel and Brewpub Chain Suffers Cyberattack Likely Impacting Employee Data<a href="https://www.kgw.com/article/news/local/mcmenamins-ransomware-attack/283-dc039d56-cf82-4f06-8862-c2f6223e3893?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel and brewpub chain McMenamins was hit with a ransomware attack that may have compromised employees' personal information, but no customer payment information appears to have been impacted.
+</details>
+<div style="text-align: right" markdown="1">
+KGW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gumtree classifieds site leaked personal info via the F12 key<a href="https://www.bleepingcomputer.com/news/security/gumtree-classifieds-site-leaked-personal-info-via-the-f12-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British classifieds site Gumtree.com suffered a data leak after a security researcher revealed that he could access sensitive personally identifiable data of advertisers simply by pressing F12 on the keyboard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Noname Security Raises $135 Million at 'Unicorn' Valuation<a href="https://www.securityweek.com/noname-security-raises-135-million-unicorn-valuation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Silicon Valley-based startup came out of stealth in December 2020, and closed a $60 million Series B funding round in June 2021. To date, the company has raised $220 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lenovo laptops vulnerable to bug allowing admin privileges<a href="https://www.bleepingcomputer.com/news/security/lenovo-laptops-vulnerable-to-bug-allowing-admin-privileges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo laptops, including ThinkPad and Yoga models, are vulnerable to a privilege elevation bug in the ImControllerService service allowing attackers to execute commands with admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How expired web domains help criminal hackers unlock enterprise defenses<a href="https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations allow domains to expire for a number of reasons. Sometimes it’s a simple mistake: a domain renewal is overlooked because a payment method has expired or the renewal contact has moved on.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware enters big league with hundreds breached in four months<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-enters-big-league-with-hundreds-breached-in-four-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang is more active and aggressive than its leak site shows, with affiliates attacking an average of three companies every day since the operation became known in late June.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What SMBs can do to protect against Log4Shell attacks<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/12/what-smbs-can-do-to-protect-against-log4shell-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw allows hackers to worm their way into unpatched systems to take control. It’s can endanger any endpoint because of its ultra-wide attack surface and the accompanying damage potential.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet returns with new tricks making it harder to disrupt<a href="https://www.bleepingcomputer.com/news/security/phorpiex-botnet-returns-with-new-tricks-making-it-harder-to-disrupt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The previously shutdown Phorpiex botnet has re-emerged with new peer-to-peer command and control infrastructure, making the malware more difficult to disrupt.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Variant of Phorpiex Botnet Used for Cryptocurrency Attacks in Ethopia, Nigeria, India, and 93 Other Countries<a href="https://www.zdnet.com/article/variant-of-phorpiex-botnet-used-for-cryptocurrency-attacks-in-ethopia-nigeria-and-india/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminals behind the attacks are using a variant of the Phorpiex botnet -- dubbed "Twizt" -- to steal cryptocurrency through a process called "crypto clipping" from users across 96 countries.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox users can't reach Microsoft.com — here's what to do<a href="https://www.bleepingcomputer.com/news/security/firefox-users-cant-reach-microsoftcom-heres-what-to-do/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Those using the Mozilla Firefox web browser are left unable to access Microsoft.com domain. Tests by BleepingComputer confirm the issue relates to SSL certificate validation errors. Below we explain what can you do to remedy the issue.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After theft of $77.7 million, victim AscendEX to reimburse customers<a href="https://www.zdnet.com/article/after-77-million-hack-crypto-platform-ascendex-to-reimburse-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a series of Tweets, the company said it is in the process of "standing up a new hot wallet infrastructure" and estimated that deposits and withdrawals would resume over the next two days.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Exchange Server Module Hoovers Up Outlook Credentials<a href="https://threatpost.com/malicious-exchange-server-module-outlook-credentials/177077/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Owowa” stealthily lurks on IIS servers, waiting to harvest successful logins when an Outlook Web Access (OWA) authentication request is made.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache’s Fix for Log4Shell Can Lead to DoS Attacks<a href="https://threatpost.com/apache-patch-log4shell-log4j-dos-attacks/177064/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not only is the jaw-dropping flaw in the Apache Log4j logging library ubiquitous; Apache’s blanket of a quickly baked patch for Log4Shell also has holes. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Begin Exploiting Second Log4j Vulnerability as a Third Flaw Emerges<a href="https://thehackernews.com/2021/12/hackers-begin-exploiting-second-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure company Cloudflare on Wednesday revealed that threat actors are actively attempting to exploit a  second bug  disclosed in the widely used Log4j logging utility, making it imperative that customers move quickly to install the latest version as a barrage of attacks continues to pummel unpatched systems with a variety of malware.  The new vulnerability, assigned the identifier  CVE-2021-45046 , makes it possible for adversaries to carry out denial-of-service (DoS) attacks and follows disclosure from the Apache Software Foundation (ASF) that the original fix for the remote code execution bug — CVE-2021-44228 aka Log4Shell — was "incomplete in certain non-default configurations." The issue has since been addressed in Log4j version 2.16.0.  "This vulnerability is actively being exploited and anyone using Log4J should update to version 2.16.0 as soon as possible, even if you have previously updated to 2.15.0," Cloudflare's Andre Bluehs and Gabriel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Relentless Log4j Attacks Include State Actors, Possible Worm<a href="https://threatpost.com/log4j-attacks-state-actors-worm/177088/"> Full Text</a>
@@ -50,7 +611,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet starts dropping Cobalt Strike again for faster attacks<a href="https://www.bleepingcomputer.com/news/security/emotet-starts-dropping-cobalt-strike-again-for-faster-attacks/"> Full Text</a>
@@ -66,7 +627,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cequence adds $60M Series C to improve API security<a href="https://techcrunch.com/2021/12/15/cequence-adds-60m-series-c-to-improve-api-security/?&web_view=true"> Full Text</a>
@@ -82,7 +643,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom joins counterterrorism tech group<a href="https://thehill.com//policy/technology/585976-zoom-joins-counterrorism-tech-group"> Full Text</a>
@@ -98,7 +659,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook to Pay Hackers for Reporting Data Scraping Bugs and Scraped Datasets<a href="https://thehackernews.com/2021/12/facebook-to-pay-hackers-for-reporting.html"> Full Text</a>
@@ -114,7 +675,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Strategic Intelligence Value of Ransomware<a href="https://www.lawfareblog.com/strategic-intelligence-value-ransomware"> Full Text</a>
@@ -130,7 +691,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI’s investigation accidentally revealed the HelloKitty ransomware gang operates out of Ukraine<a href="https://securityaffairs.co/wordpress/125675/cyber-crime/hellokitty-ransomware-ukraine.html"> Full Text</a>
@@ -150,7 +711,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Kicks Log4Shell Vulnerability Out of 20 Apps<a href="https://threatpost.com/sap-log4shell-vulnerability-apps/177069/"> Full Text</a>
@@ -166,7 +727,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large-scale phishing study shows who bites the bait more often<a href="https://www.bleepingcomputer.com/news/security/large-scale-phishing-study-shows-who-bites-the-bait-more-often/"> Full Text</a>
@@ -182,7 +743,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Seedworm Targeting Telecom, IT, and Utility firms in the Middle East and Asia<a href="https://cyware.com/news/seedworm-targeting-telecom-it-and-utility-firms-in-the-middle-east-and-asia-03f3c300"> Full Text</a>
@@ -199,7 +760,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China, Iran among those exploiting Apache cyber vulnerability, researchers say<a href="https://thehill.com//policy/cybersecurity/585904-china-iran-among-those-seen-exploiting-apache-cyber-vulnerability"> Full Text</a>
@@ -215,7 +776,7 @@ The Hill
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cynet's MDR Offers Organizations Continuous Security Oversight<a href="https://thehackernews.com/2021/12/cynets-mdr-offers-organizations.html"> Full Text</a>
@@ -231,7 +792,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft December 2021 Patch Tuesday fixes an actively exploited zero-day<a href="https://securityaffairs.co/wordpress/125667/security/microsoft-december-2021-patch-tuesday.html"> Full Text</a>
@@ -251,7 +812,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns critical infrastructure to stay vigilant for ongoing threats<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-critical-infrastructure-to-stay-vigilant-for-ongoing-threats/"> Full Text</a>
@@ -267,7 +828,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cylus raises $30M Series B to help protect trains and metros worldwide<a href="https://techcrunch.com/2021/12/15/cylus-raises-30m-series-b-to-help-protect-trains-and-metros-worldwide/?&web_view=true"> Full Text</a>
@@ -283,7 +844,7 @@ TechCrunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Malicious IIS Server Module to Steal Microsoft Exchange Credentials<a href="https://thehackernews.com/2021/12/hackers-using-malicious-iis-server.html"> Full Text</a>
@@ -299,7 +860,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Seedworm APT targets Telecoms organizations across the Middle East and Asia<a href="https://securityaffairs.co/wordpress/125651/apt/seedworm-targets-telecoms-orgs.html"> Full Text</a>
@@ -319,7 +880,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-sponsored hackers abuse Slack API to steal airline data<a href="https://www.bleepingcomputer.com/news/security/state-sponsored-hackers-abuse-slack-api-to-steal-airline-data/"> Full Text</a>
@@ -335,7 +896,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal $140 Million from Users of Crypto Gaming Company<a href="https://www.vice.com/en/article/4awxep/hackers-steal-dollar140-million-from-users-of-crypto-gaming-company?&web_view=true"> Full Text</a>
@@ -351,7 +912,7 @@ Vice
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS announces its ‘Hack DHS’ bug bounty program<a href="https://securityaffairs.co/wordpress/125646/security/hack-dhs-bug-bounty-program.html"> Full Text</a>
@@ -371,7 +932,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log4j vulnerability now used by state-backed hackers, access brokers<a href="https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-by-state-backed-hackers-access-brokers/"> Full Text</a>
@@ -387,7 +948,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government to offer up to $5,000 'bounty' to hackers to identify cyber vulnerabilities<a href="https://edition.cnn.com/2021/12/14/politics/dhs-bug-bounty-hackers-cyber-vulnerabilities/index.html?&web_view=true"> Full Text</a>
@@ -403,7 +964,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sites hacked with credit card stealers undetected for months<a href="https://www.bleepingcomputer.com/news/security/sites-hacked-with-credit-card-stealers-undetected-for-months/"> Full Text</a>
@@ -419,7 +980,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National cyber resilience requires closer integration of public and private efforts<a href="https://www.cyberscoop.com/national-cyber-resilience-requires-closer-integration-of-public-and-private-efforts/?&web_view=true"> Full Text</a>
@@ -435,7 +996,7 @@ Cyberscoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2021
+December 15, 2021 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sysdig Raises $350 Million at $2.5 Billion Valuation<a href="https://www.securityweek.com/sysdig-raises-350-million-25-billion-valuation?&web_view=true"> Full Text</a>
@@ -451,7 +1012,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2022: Supply-Chain Chronic Pain & SaaS Security Meltdowns<a href="https://threatpost.com/supply-chain-pain-and-changing-security-roles/177058/"> Full Text</a>
@@ -467,7 +1028,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple iOS Update Fixes Cringey iPhone 13 Jailbreak Exploit<a href="https://threatpost.com/apple-ios-updates-iphone-13-jailbreak-exploit/177051/"> Full Text</a>
@@ -483,7 +1044,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Issues Windows Update to Patch 0-Day Used to Spread Emotet Malware<a href="https://thehackernews.com/2021/12/microsoft-issues-windows-update-to.html"> Full Text</a>
@@ -499,7 +1060,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the Log4Shell Bug Means for SMBs: Experts Weigh In<a href="https://threatpost.com/log4shell-bug-smbs-experts/177021/"> Full Text</a>
@@ -515,7 +1076,7 @@ Threatpost
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2021
+December 14, 2021 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Second Log4j Vulnerability (CVE-2021-45046) Discovered — New Patch Released<a href="https://thehackernews.com/2021/12/second-log4j-vulnerability-cve-2021.html"> Full Text</a>
