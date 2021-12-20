@@ -34,6 +34,707 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New stealthy DarkWatchman malware hides in the Windows Registry<a href="https://www.bleepingcomputer.com/news/security/new-stealthy-darkwatchman-malware-hides-in-the-windows-registry/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware named 'DarkWatchman' has emerged in the cybercrime underground, and it's a lightweight and highly-capable JavaScript RAT (Remote Access Trojan) paired with a C# keylogger.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang is leaking confidential data from the UK police<a href="https://securityaffairs.co/wordpress/125792/cyber-crime/clop-ransomware-uk-police.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware gang stolen confidential data from the UK police and leaked it in the dark web because the victim refused to pay the ransom
+
+
+
+Clop ransomware operators have stolen confidential information held by some British police, according to the media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 345<a href="https://securityaffairs.co/wordpress/125783/breaking-news/security-affairs-newsletter-round-345.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly Security Affairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.  
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass ransomware resurges and exploits Log4Shell in recent attacks<a href="https://securityaffairs.co/wordpress/125772/malware/tellyouthepass-ransomware-resurge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TellYouThePass ransomware resurged and exploits the Apache Log4j flaw (Log4Shell) to target both Linux and Windows systems. 
+
+
+
+Researchers from KnownSec 404 Team and Sangfor Threat Intelligence Team reported that the TellYouThePass ransomware resurged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Spots Chinese Hackers Targeting Transportation Sector<a href="https://www.securityweek.com/trend-micro-spots-chinese-hackers-targeting-transportation-sector?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the middle of 2020, a Chinese state-sponsored threat actor called 'Tropic Trooper' has been targeting transportation organizations and government entities related to the transportation sector, Trend Micro reports.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Local Attack Vector Expands the Attack Surface of Log4j Vulnerability<a href="https://thehackernews.com/2021/12/new-local-attack-vector-expands-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered an entirely new attack vector that enables adversaries to exploit the Log4Shell vulnerability on servers locally by using a JavaScript WebSocket connection.  "This newly-discovered attack vector means that anyone with a vulnerable Log4j version on their machine or local private network can browse a website and potentially trigger the vulnerability," Matthew Warner, CTO of Blumira,  said . "At this point, there is no proof of active exploitation. This vector significantly expands the attack surface and can impact services even running as localhost which were not exposed to any network."  WebSockets  allow for two-way communications between a web browser (or other client application) and a server, unlike HTTP, which is unidirectional where the client sends the request and the server sends the response.  While the issue can be resolved by updating all local development and internet-facing environments to Log4j 2.16.0, Apache o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital warns customers to update their My Cloud devices<a href="https://www.bleepingcomputer.com/news/security/western-digital-warns-customers-to-update-their-my-cloud-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is urging customers to update their WD My Cloud devices to the latest available firmware to keep receiving security updates on My Cloud OS firmware reaching the end of support.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the Impact of Apache Log4j Vulnerability<a href="https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 35,000 Java packages, amounting to over 8% of the Maven Central repository, have been impacted by the recently disclosed log4j vulnerabilities (1, 2), with widespread fallout across the software industry.
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Issues 3rd Patch to Fix New High-Severity Log4j Vulnerability<a href="https://thehackernews.com/2021/12/apache-issues-3rd-patch-to-fix-new-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issues with Log4j continued to stack up as the Apache Software Foundation (ASF) on Friday rolled out yet another patch — version 2.17.0 — for the widely used logging library that could be exploited by malicious actors to stage a denial-of-service (DoS) attack.  Tracked as  CVE-2021-45105  (CVSS score: 7.5), the new vulnerability affects all versions of the tool from 2.0-beta9 to 2.16.0, which the open-source nonprofit shipped earlier this week to remediate a second flaw that could result in remote code execution ( CVE-2021-45046 ), which, in turn, stemmed from an "incomplete" fix for  CVE-2021-44228 , otherwise called the Log4Shell vulnerability.   "Apache Log4j2 versions 2.0-alpha1 through 2.16.0 did not protect from uncontrolled recursion from self-referential lookups," the ASF  explained  in a revised advisory. "When the logging configuration uses a non-default Pattern Layout with a Context Lookup (for example, $${ctx:loginId}), attackers with control o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Upgraded to log4j 2.16? Surprise, there's a 2.17 fixing DoS<a href="https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, BleepingComputer summed up all the log4j and logback CVEs known thus far. Ever since the critical log4j zero-day saga began last week, security experts have time and time again recommended version 2.16 as the safest release to be on. That changes today with version 2.17.0 out that fixes CVE-2021-45105, a DoS vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital customers have to update their My Cloud devices to latest firmware version<a href="https://securityaffairs.co/wordpress/125767/hacking/my-cloud-devices-firmaware-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+My Cloud OS firmware is reaching the end of support, Western Digital customers have to update their WD My Cloud devices to the latest version.
+
+
+
+Western Digital is urging customers to update their WD My Cloud devices to the latest firmware version to continues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache releases the third patch to address a new Log4j flaw<a href="https://securityaffairs.co/wordpress/125760/hacking/log4j-third-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in the Log4J library are scaring organizations worldwide while threat actors are already exploiting them.  2.17 is the third fix issued in a week.
+
+
+
+While the experts were warning that threat actors are actively attempting to exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.8 Million customers of four sports gear sites impacted by credit cards breach<a href="https://securityaffairs.co/wordpress/125753/cyber-crime/credit-cards-breach-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit four affiliated online sports gear sites and resulted in the theft of credit cards for 1,813,224 customers.
+
+
+
+Threat actors have stolen credit cards belonging to 1,813,224 customers of four affiliated online sports gear sites. 
+
+
+
+Below...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies ordered to immediately patch systems against Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586307-federal-agencies-ordered-to-immediately-patch-systems-against-apache"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies on Friday were ordered to immediately investigate and patch systems to prevent exploitation of a massive vulnerability in Apache logging library log4j that has been increasingly used by nations and cybercriminals to target organizations around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Convergence Ahoy: Get Ready for Cloud-Based Ransomware<a href="https://threatpost.com/cloud-ransomware-convergence/177112/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oliver Tavakoli, CTO at Vectra AI, takes us inside the coming nexus of ransomware, supply-chain attacks and cloud deployments.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Gang Suspected of Ransomware Attack on McMenamins<a href="https://threatpost.com/conti-gang-ransomware-attack-mcmenamins/177119/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident occurred last weekend at the popular chain of restaurants, hotels and breweries, which is still facing disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Have 'Industry Standards' Too<a href="https://securityintelligence.com/news/ransomware-attackers-industry-standards-criteria/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2021, KELA discovered 48 discussion threads on dark web marketplaces. From those threads, KELA determined that ransomware actors look for certain criteria when looking to purchase accesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Bans 7 'Cyber Mercenary' Companies for Spying on 50,000 Users<a href="https://thehackernews.com/2021/12/facebook-bans-7-cyber-mercenaries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Thursday revealed it took steps to deplatform seven cyber mercenaries that it said carried out "indiscriminate" targeting of journalists, dissidents, critics of authoritarian regimes, families of opposition, and human rights activists located in over 100 countries, amid mounting scrutiny of surveillance technologies.  To that end, the company  said  it alerted 50,000 users of Facebook and Instagram that their accounts were spied on by the companies, who offer a variety of services that run the spyware gamut from hacking tools for infiltrating mobile phones to creating fake social media accounts to monitor targets. It also removed 1,500 Facebook and Instagram accounts linked to these firms.  "The global surveillance-for-hire industry targets people across the internet to collect intelligence, manipulate them into revealing information and compromise their devices and accounts," Meta's David Agranovich and Mike Dvilyanski said. "These compa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 17th 2021 - Enter Log4j<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-17th-2021-enter-log4j/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Apache Log4j vulnerability took the world by storm this week, and now it is being used by threat actors as part of their ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox fixes password leak via Windows Cloud Clipboard feature<a href="https://therecord.media/firefox-fixes-password-leak-via-windows-cloud-clipboard-feature/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At its core, the bug is related to Windows Cloud Clipboard, a feature added to Windows 10 v1809 release, a feature that allows users to sync their local clipboard history to their Microsoft accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PseudoManuscrypt Malware Infected Over 35,000 Computers in 2021<a href="https://thehackernews.com/2021/12/new-pseudomanuscrypt-malware-infected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial and government organizations, including enterprises in the military-industrial complex and research laboratories, are the targets of a new malware botnet dubbed  PseudoManyscrypt  that has infected roughly 35,000 Windows computers this year alone.  The name comes from its similarities to the  Manuscrypt   malware , which is part of the  Lazarus  APT group's attack toolset, Kaspersky researchers said, characterizing the operation as a "mass-scale spyware attack campaign." The Russian cybersecurity company said it first detected the series of intrusions in June 2021.  At least 7.2% of all computers attacked by the malware are part of industrial control systems (ICS) used by organizations in engineering, building automation, energy, manufacturing, construction, utilities, and water management sectors that are located mainly in India, Vietnam, and Russia. Approximately a third (29.4%) of non-ICS computers are situated in Russia (10.1%), India (10%), and Brazil (9.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass ransomware revived in Linux, Windows Log4j attacks<a href="https://www.bleepingcomputer.com/news/security/tellyouthepass-ransomware-revived-in-linux-windows-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have revived an old and relatively inactive ransomware family known as TellYouThePass, deploying it in attacks against Windows and Linux devices targeting a critical remote code execution bug in the Apache Log4j library.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scam Revenue Touches $7.7 Billion<a href="https://cyware.com/news/crypto-scam-revenue-touches-77-billion-eef44a67"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per Chainalysis’ 2022 Crypto Crime Report, c rypto scams have earned a revenue of $7.7 billion from victims worldwide. This is an 81% rise from that in 2020.&nbsp; Rug pulls accounted for 37% of all crypto scam revenue.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent Customer Support Help Desk Fraud Using VPN and Other Tools<a href="https://thehackernews.com/2021/12/how-to-prevent-customer-support-help.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that the internet isn't a very safe place. And it's not hard to understand why. It's a medium that connects billions of people around the world that affords bad actors enough anonymity to wreak havoc without getting caught. It's almost as if the internet's tailor-made to enable scams and fraud.  And that's just what it does. Right now, the world's on track to  lose $10.5 trillion every year  to cybercrime. That number is so large that it's hard for the average person to grasp. And when most people hear it, they imagine that money's coming mostly from large-scale data breaches and ransomware attacks on large companies.  Although businesses are among the hardest hit each year, they're by no means the only target. Every day, internet users are targeted too. They face barrages of phishing emails, compromised websites, and booby-trapped downloads. But among all of the attacks aimed at rank-and-file users, there's one that stand
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit card info of 1.8 million people stolen from sports gear sites<a href="https://www.bleepingcomputer.com/news/security/credit-card-info-of-18-million-people-stolen-from-sports-gear-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four affiliated online sports gear sites have disclosed a cyberattack where threat actors stole credit cards for 1,813,224 customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Sheds Light on Earth Centaur Activities<a href="https://cyware.com/news/new-report-sheds-light-on-earth-centaur-activities-cff96a53"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered details about the Earth Centaur group that has been targeting transportation firms and government agencies associated with transportation.  The report suggests that the group attempts to access some internal documents and personal information that may be used in future attacks ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges VMware admins to patch critical flaw in Workspace ONE UEM<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-vmware-admins-to-patch-critical-flaw-in-workspace-one-uem/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has asked VMware admins and users today to patch a critical security vulnerability found in the Workspace ONE UEM console that threat actors could abuse to gain access to sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Desjardins data breach: Class action lawsuit agreement reaches $201 million<a href="https://portswigger.net/daily-swig/desjardins-data-breach-class-action-lawsuit-agreement-reaches-201-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A class-action lawsuit against Canadian financial services firm Desjardins has provisionally settled for $156 million after a 2019 data breach exposed the personal information of 10 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang exploits Log4Shell bug in its operations<a href="https://securityaffairs.co/wordpress/125741/cyber-crime/conti-ransomware-exploit-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is the first ransomware operation exploiting the Log4Shell vulnerability to target VMware vCenter Servers.  
+
+
+
+Conti ransomware gang is the first professional race that leverages Log4Shell exploit to compromise VMware vCenter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US orders federal govt agencies to patch critical Log4j bug<a href="https://www.bleepingcomputer.com/news/security/us-orders-federal-govt-agencies-to-patch-critical-log4j-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Federal Civilian Executive Branch agencies have been ordered to patch the critical and actively exploited Log4Shell security vulnerability in the Apache Log4j library within the next six days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google unleashes security 'fuzzer' on Log4Shell bug in open-source software<a href="https://www.zdnet.com/article/google-unleashes-security-fuzzer-on-log4shell-bug-in-open-source-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To seek out Log4Shell vulnerabilities in newly built open-source software, Google is partnering with security firm Code Intelligence to provide continuous fuzzing for Log4j.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical SSRF flaw in Workspace ONE UEM Console<a href="https://securityaffairs.co/wordpress/125736/security/vmware-ssrf-workspace-one-uem-console.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches for a critical server-side request forgery (SSRF) vulnerability in Workspace ONE UEM console. 
+
+
+
+VMware has addressed a critical server-side request forgery (SSRF) vulnerability, tracked as CVE-2021-22054, in the Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logistics giant warns of BEC emails following ransomware attack<a href="https://www.bleepingcomputer.com/news/security/logistics-giant-warns-of-bec-emails-following-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hellmann Worldwide is warning customers of an increase in fraudulent calls and emails regarding payment transfer and bank account changes after a recent ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet is back, in 2021 it $500K worth of crypto assets<a href="https://securityaffairs.co/wordpress/125725/malware/phorpiex-botnet-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported the resurgence of the Phorpiex botnet, in one year it allowed to steal crypto assets worth of half a million dollars.
+
+
+
+Experts at Check Point Research have monitored the resurgence of the Phorpiex botnet, an old threat that was involved...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware uses Log4j bug to hack VMware vCenter servers<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-uses-log4j-bug-to-hack-vmware-vcenter-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware operation is using the critical Log4Shell exploit to gain rapid access to internal VMware vCenter Server instances and encrypt virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt, a mysterious massive cyber espionage campaign<a href="https://securityaffairs.co/wordpress/125718/malware/pseudomanuscrypt-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of devices worldwide, including many industrial control systems (ICS), have been hit by the PseudoManuscrypt spyware.
+
+
+
+Kaspersky researchers reported that tens of thousands of devices belonging to industrial and government organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Log4j, logback bugs we know so far and why you MUST ditch 2.15<a href="https://www.bleepingcomputer.com/news/security/all-log4j-logback-bugs-we-know-so-far-and-why-you-must-ditch-215/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everyone's heard of the critical log4j zero-day by now. Dubbed 'Log4Shell,' the vulnerability has set the internet on fire. Below we summarize the four or more CVEs identified thus far, and pretty good reasons to ditch log4j version 2.15.0 for 2.16.0.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Tropic Trooper’ Reemerges to Target Transportation Outfits<a href="https://threatpost.com/tropic-trooper-transportation/177106/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts warn that the attack group, now known as ‘Earth Centaur,’ is honing its attacks to go after transportation and government agencies. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘PseudoManuscrypt’ Mass Spyware Campaign Targets 35K Systems<a href="https://threatpost.com/pseudomanuscrypt-mass-spyware-campaign/177097/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s similar to Lazarus’s Manuscrypt malware, but the new spyware is splattering itself onto government organizations and ICS in a non-Lazarus-like, untargeted wave of attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘DarkWatchman’ RAT Shows Evolution in Fileless Malware<a href="https://threatpost.com/darkwatchman-rat-evolution-fileless-malware/177091/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new tool manipulates Windows Registry in unique ways to evade security detections and is likely being used by ransomware groups for initial network access.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phorpiex Botnet Variant Steals Half a Million Dollars in Cryptocurrency<a href="https://thehackernews.com/2021/12/new-phorpiex-botnet-variant-steals-half.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency users in Ethiopia, Nigeria, India, Guatemala, and the Philippines are being targeted by a new variant of the Phorpiex botnet called  Twizt  that has resulted in the theft of virtual coins amounting to $500,000 over the last one year.  Israeli security firm Check Point Research, which detailed the attacks, said the latest evolutionary version "enables the botnet to operate successfully without active [command-and-control] servers," adding it supports no less than 35 wallets associated with different blockchains, including Bitcoin, Ethereum, Dash, Dogecoin, Litecoin, Monero, Ripple, and Zilliqa, to facilitate crypto theft.  Phorpiex , otherwise known as Trik, is known for its sextortion spam and ransomware campaigns as well as cryptojacking, a scheme that leverages the targets' devices such as computers, smartphones, and servers to secretly mine cryptocurrency without their consent or knowledge.   It's also infamous for its use of a technique called  cry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 16, 2021 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
