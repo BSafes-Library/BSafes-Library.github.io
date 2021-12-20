@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet is back, in 2021 it $500K worth of crypto assets<a href="https://securityaffairs.co/wordpress/125725/malware/phorpiex-botnet-return.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts reported the resurgence of the Phorpiex botnet, in one year it allowed to steal crypto assets worth of half a million dollars.
+
+
+
+Experts at Check Point Research have monitored the resurgence of the Phorpiex botnet, an old threat that was involved...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phorpiex Botnet Variant Steals Half a Million Dollars in Cryptocurrency<a href="https://thehackernews.com/2021/12/new-phorpiex-botnet-variant-steals-half.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency users in Ethiopia, Nigeria, India, Guatemala, and the Philippines are being targeted by a new variant of the Phorpiex botnet called&nbsp; Twizt &nbsp;that has resulted in the theft of virtual coins amounting to $500,000 over the last one year.  Israeli security firm Check Point Research, which detailed the attacks, said the latest evolutionary version "enables the botnet to operate successfully without active [command-and-control] servers," adding it supports no less than 35 wallets associated with different blockchains, including Bitcoin, Ethereum, Dash, Dogecoin, Litecoin, Monero, Ripple, and Zilliqa, to facilitate crypto theft.  Phorpiex , otherwise known as Trik, is known for its sextortion spam and ransomware campaigns as well as cryptojacking, a scheme that leverages the targets' devices such as computers, smartphones, and servers to secretly mine cryptocurrency without their consent or knowledge.   It's also infamous for its use of a technique called&nbsp; cry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

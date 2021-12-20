@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Bans 7 'Cyber Mercenary' Companies for Spying on 50,000 Users<a href="https://thehackernews.com/2021/12/facebook-bans-7-cyber-mercenaries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Thursday revealed it took steps to deplatform seven cyber mercenaries that it said carried out "indiscriminate" targeting of journalists, dissidents, critics of authoritarian regimes, families of opposition, and human rights activists located in over 100 countries, amid mounting scrutiny of surveillance technologies.  To that end, the company&nbsp; said &nbsp;it alerted 50,000 users of Facebook and Instagram that their accounts were spied on by the companies, who offer a variety of services that run the spyware gamut from hacking tools for infiltrating mobile phones to creating fake social media accounts to monitor targets. It also removed 1,500 Facebook and Instagram accounts linked to these firms.  "The global surveillance-for-hire industry targets people across the internet to collect intelligence, manipulate them into revealing information and compromise their devices and accounts," Meta's David Agranovich and Mike Dvilyanski said. "These compa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

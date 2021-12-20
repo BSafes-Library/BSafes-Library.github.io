@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Nation-State actors are exploiting Log4Shell flaw<a href="https://securityaffairs.co/wordpress/125697/apt/nation-state-actors-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state actors from China, Iran, North Korea, and Turkey are attempting to exploit the&nbsp;Log4Shell&nbsp;vulnerability to in attacks in the wild.
+
+
+
+Microsoft researchers reported that Nation-state actors from China, Iran, North Korea, and Turkey are now abusing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Begin Exploiting Second Log4j Vulnerability as a Third Flaw Emerges<a href="https://thehackernews.com/2021/12/hackers-begin-exploiting-second-log4j.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure company Cloudflare on Wednesday revealed that threat actors are actively attempting to exploit a&nbsp; second bug &nbsp;disclosed in the widely used Log4j logging utility, making it imperative that customers move quickly to install the latest version as a barrage of attacks continues to pummel unpatched systems with a variety of malware.  The new vulnerability, assigned the identifier&nbsp; CVE-2021-45046 , makes it possible for adversaries to carry out denial-of-service (DoS) attacks and follows disclosure from the Apache Software Foundation (ASF) that the original fix for the remote code execution bug — CVE-2021-44228 aka Log4Shell — was "incomplete in certain non-default configurations." The issue has since been addressed in Log4j version 2.16.0.  "This vulnerability is actively being exploited and anyone using Log4J should update to version 2.16.0 as soon as possible, even if you have previously updated to 2.15.0," Cloudflare's Andre Bluehs and Gabriel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log4j attackers switch to injecting Monero miners via RMI<a href="https://www.bleepingcomputer.com/news/security/log4j-attackers-switch-to-injecting-monero-miners-via-rmi/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some threat actors exploiting the Apache Log4j vulnerability have switched from LDAP callback URLs to RMI or even used both in a single request for maximum chances of success.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Details on Log4Shell Attacks<a href="https://cyware.com/news/more-details-on-log4shell-attacks-79d86e16"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days back, we got to know that threat actors are abusing a critical vulnerability—Log4Shell—in Log4j and propagating malware. Now, the attacks have grown more severe as new details emerge.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+McMenamins breweries hit by a Conti ransomware attack<a href="https://www.bleepingcomputer.com/news/security/mcmenamins-breweries-hit-by-a-conti-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Portland brewery and hotel chain McMenamins suffered a Conti ransomware attack over the weekend that disrupted the company's operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Portland-based Hotel and Brewpub Chain Suffers Cyberattack Likely Impacting Employee Data<a href="https://www.kgw.com/article/news/local/mcmenamins-ransomware-attack/283-dc039d56-cf82-4f06-8862-c2f6223e3893?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel and brewpub chain McMenamins was hit with a ransomware attack that may have compromised employees' personal information, but no customer payment information appears to have been impacted.
+</details>
+<div style="text-align: right" markdown="1">
+KGW
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

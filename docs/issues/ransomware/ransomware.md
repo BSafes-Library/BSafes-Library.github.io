@@ -8,6 +8,94 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass ransomware resurges and exploits Log4Shell in recent attacks<a href="https://securityaffairs.co/wordpress/125772/malware/tellyouthepass-ransomware-resurge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TellYouThePass ransomware resurged and exploits the Apache Log4j flaw (Log4Shell) to target both Linux and Windows systems. 
+
+
+
+Researchers from KnownSec 404 Team and Sangfor Threat Intelligence Team reported that the TellYouThePass ransomware resurged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Convergence Ahoy: Get Ready for Cloud-Based Ransomware<a href="https://threatpost.com/cloud-ransomware-convergence/177112/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oliver Tavakoli, CTO at Vectra AI, takes us inside the coming nexus of ransomware, supply-chain attacks and cloud deployments.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Have 'Industry Standards' Too<a href="https://securityintelligence.com/news/ransomware-attackers-industry-standards-criteria/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2021, KELA discovered 48 discussion threads on dark web marketplaces. From those threads, KELA determined that ransomware actors look for certain criteria when looking to purchase accesses.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 17th 2021 - Enter Log4j<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-17th-2021-enter-log4j/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Apache Log4j vulnerability took the world by storm this week, and now it is being used by threat actors as part of their ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TellYouThePass ransomware revived in Linux, Windows Log4j attacks<a href="https://www.bleepingcomputer.com/news/security/tellyouthepass-ransomware-revived-in-linux-windows-log4j-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have revived an old and relatively inactive ransomware family known as TellYouThePass, deploying it in attacks against Windows and Linux devices targeting a critical remote code execution bug in the Apache Log4j library.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware uses Log4j bug to hack VMware vCenter servers<a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-uses-log4j-bug-to-hack-vmware-vcenter-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conti ransomware operation is using the critical Log4Shell exploit to gain rapid access to internal VMware vCenter Server instances and encrypt virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

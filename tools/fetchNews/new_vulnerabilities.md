@@ -8,6 +8,172 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Local Attack Vector Expands the Attack Surface of Log4j Vulnerability<a href="https://thehackernews.com/2021/12/new-local-attack-vector-expands-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered an entirely new attack vector that enables adversaries to exploit the Log4Shell vulnerability on servers locally by using a JavaScript WebSocket connection.  "This newly-discovered attack vector means that anyone with a vulnerable Log4j version on their machine or local private network can browse a website and potentially trigger the vulnerability," Matthew Warner, CTO of Blumira,&nbsp; said . "At this point, there is no proof of active exploitation. This vector significantly expands the attack surface and can impact services even running as localhost which were not exposed to any network."  WebSockets &nbsp;allow for two-way communications between a web browser (or other client application) and a server, unlike HTTP, which is unidirectional where the client sends the request and the server sends the response.  While the issue can be resolved by updating all local development and internet-facing environments to Log4j 2.16.0, Apache o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital warns customers to update their My Cloud devices<a href="https://www.bleepingcomputer.com/news/security/western-digital-warns-customers-to-update-their-my-cloud-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is urging customers to update their WD My Cloud devices to the latest available firmware to keep receiving security updates on My Cloud OS firmware reaching the end of support.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the Impact of Apache Log4j Vulnerability<a href="https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 35,000 Java packages, amounting to over 8% of the Maven Central repository, have been impacted by the recently disclosed log4j vulnerabilities (1, 2), with widespread fallout across the software industry.
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Issues 3rd Patch to Fix New High-Severity Log4j Vulnerability<a href="https://thehackernews.com/2021/12/apache-issues-3rd-patch-to-fix-new-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issues with Log4j continued to stack up as the Apache Software Foundation (ASF) on Friday rolled out yet another patch — version 2.17.0 — for the widely used logging library that could be exploited by malicious actors to stage a denial-of-service (DoS) attack.  Tracked as&nbsp; CVE-2021-45105 &nbsp;(CVSS score: 7.5), the new vulnerability affects all versions of the tool from 2.0-beta9 to 2.16.0, which the open-source nonprofit shipped earlier this week to remediate a second flaw that could result in remote code execution ( CVE-2021-45046 ), which, in turn, stemmed from an "incomplete" fix for&nbsp; CVE-2021-44228 , otherwise called the Log4Shell vulnerability.   "Apache Log4j2 versions 2.0-alpha1 through 2.16.0 did not protect from uncontrolled recursion from self-referential lookups," the ASF&nbsp; explained &nbsp;in a revised advisory. "When the logging configuration uses a non-default Pattern Layout with a Context Lookup (for example, $${ctx:loginId}), attackers with control o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital customers have to update their My Cloud devices to latest firmware version<a href="https://securityaffairs.co/wordpress/125767/hacking/my-cloud-devices-firmaware-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+My Cloud OS firmware is reaching the end of support, Western Digital customers have to update their WD My Cloud devices to the latest version.
+
+
+
+Western Digital is urging customers to update their WD My Cloud devices to the latest firmware version to continues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache releases the third patch to address a new Log4j flaw<a href="https://securityaffairs.co/wordpress/125760/hacking/log4j-third-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in the Log4J library are scaring organizations worldwide while threat actors are already exploiting them.  2.17 is the third fix issued in a week.
+
+
+
+While the experts were warning that threat actors are actively attempting to exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal agencies ordered to immediately patch systems against Apache vulnerability<a href="https://thehill.com//policy/cybersecurity/586307-federal-agencies-ordered-to-immediately-patch-systems-against-apache"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies on Friday were ordered to immediately investigate and patch systems to prevent exploitation of a massive vulnerability in Apache logging library log4j that has been increasingly used by nations and cybercriminals to target organizations around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hill
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox fixes password leak via Windows Cloud Clipboard feature<a href="https://therecord.media/firefox-fixes-password-leak-via-windows-cloud-clipboard-feature/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At its core, the bug is related to Windows Cloud Clipboard, a feature added to Windows 10 v1809 release, a feature that allows users to sync their local clipboard history to their Microsoft accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA urges VMware admins to patch critical flaw in Workspace ONE UEM<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-vmware-admins-to-patch-critical-flaw-in-workspace-one-uem/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has asked VMware admins and users today to patch a critical security vulnerability found in the Workspace ONE UEM console that threat actors could abuse to gain access to sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical SSRF flaw in Workspace ONE UEM Console<a href="https://securityaffairs.co/wordpress/125736/security/vmware-ssrf-workspace-one-uem-console.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security patches for a critical server-side request forgery (SSRF) vulnerability in Workspace ONE UEM console. 
+
+
+
+VMware has addressed a critical server-side request forgery (SSRF) vulnerability, tracked as&nbsp;CVE-2021-22054, in the Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Log4j, logback bugs we know so far and why you MUST ditch 2.15<a href="https://www.bleepingcomputer.com/news/security/all-log4j-logback-bugs-we-know-so-far-and-why-you-must-ditch-215/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everyone's heard of the critical log4j zero-day by now.&nbsp;Dubbed 'Log4Shell,' the vulnerability&nbsp;has set the internet on fire. Below we summarize the four or more CVEs identified thus far, and pretty good reasons to ditch log4j version 2.15.0 for 2.16.0.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

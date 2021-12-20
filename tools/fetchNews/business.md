@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Noname Security Raises $135 Million at 'Unicorn' Valuation<a href="https://www.securityweek.com/noname-security-raises-135-million-unicorn-valuation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Silicon Valley-based startup came out of stealth in December 2020, and closed a $60 million Series B funding round in June 2021. To date, the company has raised $220 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

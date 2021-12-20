@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Upgraded to log4j 2.16? Surprise, there's a 2.17 fixing DoS<a href="https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, BleepingComputer&nbsp;summed&nbsp;up all the log4j and logback CVEs known thus far. Ever since the critical log4j zero-day saga began last week, security experts have time and time again recommended version 2.16 as the safest release to be on. That changes today&nbsp;with version 2.17.0 out&nbsp;that fixes CVE-2021-45105, a DoS vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

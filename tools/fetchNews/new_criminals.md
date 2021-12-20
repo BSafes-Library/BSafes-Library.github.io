@@ -8,6 +8,56 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 19, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang is leaking confidential data from the UK police<a href="https://securityaffairs.co/wordpress/125792/cyber-crime/clop-ransomware-uk-police.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware gang stolen confidential data from the UK police and leaked it in the dark web because the victim refused to pay the ransom
+
+
+
+Clop ransomware operators have stolen confidential information held by some British police, according to the media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Gang Suspected of Ransomware Attack on McMenamins<a href="https://threatpost.com/conti-gang-ransomware-attack-mcmenamins/177119/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident occurred last weekend at the popular chain of restaurants, hotels and breweries, which is still facing disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti ransomware gang exploits Log4Shell bug in its operations<a href="https://securityaffairs.co/wordpress/125741/cyber-crime/conti-ransomware-exploit-log4shell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware gang is the first ransomware operation exploiting the&nbsp;Log4Shell&nbsp;vulnerability to target VMware vCenter Servers.  
+
+
+
+Conti ransomware gang is the first professional race that leverages Log4Shell exploit to compromise VMware vCenter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

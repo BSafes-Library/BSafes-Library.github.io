@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.8 Million customers of four sports gear sites impacted by credit cards breach<a href="https://securityaffairs.co/wordpress/125753/cyber-crime/credit-cards-breach-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack hit four affiliated online sports gear sites and resulted in the theft of credit cards for 1,813,224 customers.
+
+
+
+Threat actors have stolen credit cards belonging to 1,813,224 customers of four affiliated online sports gear sites. 
+
+
+
+Below...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit card info of 1.8 million people stolen from sports gear sites<a href="https://www.bleepingcomputer.com/news/security/credit-card-info-of-18-million-people-stolen-from-sports-gear-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four affiliated online sports gear sites have disclosed a cyberattack where threat actors stole credit cards for 1,813,224 customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Desjardins data breach: Class action lawsuit agreement reaches $201 million<a href="https://portswigger.net/daily-swig/desjardins-data-breach-class-action-lawsuit-agreement-reaches-201-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A class-action lawsuit against Canadian financial services firm Desjardins has provisionally settled for $156 million after a 2019 data breach exposed the personal information of 10 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

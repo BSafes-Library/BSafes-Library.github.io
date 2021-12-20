@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logistics giant warns of BEC emails following ransomware attack<a href="https://www.bleepingcomputer.com/news/security/logistics-giant-warns-of-bec-emails-following-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hellmann Worldwide is warning customers of an increase in fraudulent calls and emails regarding payment transfer and bank account changes after a recent ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt, a mysterious massive cyber espionage campaign<a href="https://securityaffairs.co/wordpress/125718/malware/pseudomanuscrypt-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of devices worldwide, including many industrial control systems (ICS), have been hit by the PseudoManuscrypt spyware.
+
+
+
+Kaspersky researchers reported that tens of thousands of devices belonging to industrial and government organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘PseudoManuscrypt’ Mass Spyware Campaign Targets 35K Systems<a href="https://threatpost.com/pseudomanuscrypt-mass-spyware-campaign/177097/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s similar to Lazarus’s Manuscrypt malware, but the new spyware is splattering itself onto government organizations and ICS in a non-Lazarus-like, untargeted wave of attacks. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

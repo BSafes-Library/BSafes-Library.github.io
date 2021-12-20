@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web App Attacks Rise by 251% in Two Years<a href="https://cyware.com/news/web-app-attacks-rise-by-251-in-two-years-4347b774"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web app attacks have surged by 22% on average every quarter. Attacks on businesses in the U.K have increased by 250% during this period. This increase has, in turn, caused a rise in data breaches.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command Is in the Ransomware Game—Now What?<a href="https://www.lawfareblog.com/cyber-command-ransomware-game%E2%80%94now-what"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some unresolved questions that policymakers must consider in exploring a role for the military in countering ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook disrupts operations of seven surveillance-for-hire firms<a href="https://www.bleepingcomputer.com/news/security/facebook-disrupts-operations-of-seven-surveillance-for-hire-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook has disrupted the operations of seven different spyware-making companies, blocking their Internet infrastructure, sending cease and desist letters, and banning them from its platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What SMBs can do to protect against Log4Shell attacks<a href="https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/12/what-smbs-can-do-to-protect-against-log4shell-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw allows hackers to worm their way into unpatched systems to take control. It’s can endanger any endpoint because of its ultra-wide attack surface and the accompanying damage potential.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phorpiex botnet returns with new tricks making it harder to disrupt<a href="https://www.bleepingcomputer.com/news/security/phorpiex-botnet-returns-with-new-tricks-making-it-harder-to-disrupt/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The previously shutdown Phorpiex botnet has re-emerged with new peer-to-peer command and control infrastructure, making the malware more difficult to disrupt.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Variant of Phorpiex Botnet Used for Cryptocurrency Attacks in Ethopia, Nigeria, India, and 93 Other Countries<a href="https://www.zdnet.com/article/variant-of-phorpiex-botnet-used-for-cryptocurrency-attacks-in-ethopia-nigeria-and-india/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminals behind the attacks are using a variant of the Phorpiex botnet -- dubbed "Twizt" -- to steal cryptocurrency through a process called "crypto clipping" from users across 96 countries.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

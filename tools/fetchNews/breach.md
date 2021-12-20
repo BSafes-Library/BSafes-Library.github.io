@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gumtree classifieds site leaked personal info via the F12 key<a href="https://www.bleepingcomputer.com/news/security/gumtree-classifieds-site-leaked-personal-info-via-the-f12-key/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British classifieds site Gumtree.com suffered a data leak after a security researcher revealed that he could access sensitive personally identifiable data of advertisers simply by pressing F12 on the keyboard.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After theft of $77.7 million, victim AscendEX to reimburse customers<a href="https://www.zdnet.com/article/after-77-million-hack-crypto-platform-ascendex-to-reimburse-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a series of Tweets, the company said it is in the process of "standing up a new hot wallet infrastructure" and estimated that deposits and withdrawals would resume over the next two days.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

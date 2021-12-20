@@ -8,6 +8,49 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 18, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Spots Chinese Hackers Targeting Transportation Sector<a href="https://www.securityweek.com/trend-micro-spots-chinese-hackers-targeting-transportation-sector?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the middle of 2020, a Chinese state-sponsored threat actor called 'Tropic Trooper' has been targeting transportation organizations and government entities related to the transportation sector, Trend Micro reports.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Sheds Light on Earth Centaur Activities<a href="https://cyware.com/news/new-report-sheds-light-on-earth-centaur-activities-cff96a53"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered details about the Earth Centaur group that has been targeting transportation firms and government agencies associated with transportation.  The report suggests that the group attempts to access some internal documents and personal information that may be used in future attacks ...
+    Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Tropic Trooper’ Reemerges to Target Transportation Outfits<a href="https://threatpost.com/tropic-trooper-transportation/177106/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts warn that the attack group, now known as ‘Earth Centaur,’ is honing its attacks to go after transportation and government agencies. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

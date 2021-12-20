@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Scam Revenue Touches $7.7 Billion<a href="https://cyware.com/news/crypto-scam-revenue-touches-77-billion-eef44a67"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per Chainalysis’ 2022 Crypto Crime Report, c rypto scams have earned a revenue of $7.7 billion from victims worldwide. This is an 81% rise from that in 2020.&nbsp; Rug pulls accounted for 37% of all crypto scam revenue.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

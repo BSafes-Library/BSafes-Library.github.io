@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2021 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Security Advisory <a href="https://www.cisa.gov/uscert/ncas/current-activity/2021/12/17/vmware-releases-security-advisory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released a security advisory to address a vulnerability in Workspace ONE UEM console. An attacker could exploit this vulnerability to obtain sensitive information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2021 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
