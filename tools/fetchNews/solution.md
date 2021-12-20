@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent Customer Support Help Desk Fraud Using VPN and Other Tools<a href="https://thehackernews.com/2021/12/how-to-prevent-customer-support-help.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that the internet isn't a very safe place. And it's not hard to understand why. It's a medium that connects billions of people around the world that affords bad actors enough anonymity to wreak havoc without getting caught. It's almost as if the internet's tailor-made to enable scams and fraud.  And that's just what it does. Right now, the world's on track to &nbsp;lose $10.5 trillion every year &nbsp;to cybercrime. That number is so large that it's hard for the average person to grasp. And when most people hear it, they imagine that money's coming mostly from large-scale data breaches and ransomware attacks on large companies.  Although businesses are among the hardest hit each year, they're by no means the only target. Every day, internet users are targeted too. They face barrages of phishing emails, compromised websites, and booby-trapped downloads. But among all of the attacks aimed at rank-and-file users, there's one that stand
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2021 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google unleashes security 'fuzzer' on Log4Shell bug in open-source software<a href="https://www.zdnet.com/article/google-unleashes-security-fuzzer-on-log4shell-bug-in-open-source-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To seek out Log4Shell vulnerabilities in newly built open-source software, Google is partnering with security firm Code Intelligence to provide continuous fuzzing for Log4j.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2021 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
